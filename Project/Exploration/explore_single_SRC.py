@@ -84,6 +84,38 @@ class Explorer:
 
 
         return matrice_correlazione
+    
+    import ngram
+    
+    def compute_sim_ngrams(inverted_index):
+        N=3
+        list_of_tokens=sorted(inverted_index.keys())
+    
+
+        List1 = list_of_tokens
+        List2 = list_of_tokens
+
+        #Matrix = np.zeros((len(List1),len(List2)),dtype=np.int_)
+        correlazione=dict()
+
+        for i in range(0,len(List1)):
+            correlazione[List1[i]]=[]
+            for j in range(0,len(List2)):
+                element1=List1[i]
+                element2=List2[j]
+            
+                
+                compute_dist=ngram.NGram.compare(element1,element2)
+                print('eval',List1[i],List2[j],'->',compute_dist)
+            
+                correlazione[List1[i]].append(compute_dist)
+
+    
+        matrice_correlazione=pd.DataFrame(data=correlazione,columns=list_of_tokens,index=list_of_tokens)
+
+        return matrice_correlazione
+
+
     def explore_single_data(self, base_path, src):
 
         base_path=base_path

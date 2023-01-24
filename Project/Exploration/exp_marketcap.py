@@ -111,7 +111,7 @@ def create_matrix_spacy(inverted_index):
 
     return matrice_correlazione
 
-def create_inverted_index_on_similarity(inverted_index):
+def compute_similarityLEVI(inverted_index):
     list_of_tokens=sorted(inverted_index.keys())
     
 
@@ -127,47 +127,110 @@ def create_inverted_index_on_similarity(inverted_index):
             compute_dist=distance(List1[i],List2[j])
             print('eval',List1[i],List2[j],'->',compute_dist)
             
-            correlazione[List1[i]].append(distance(List1[i],List2[j]))
+            correlazione[List1[i]].append(compute_dist)
 
     
     matrice_correlazione=pd.DataFrame(data=correlazione,columns=list_of_tokens,index=list_of_tokens)
 
     return matrice_correlazione
 
+import string
+from sklearn.metrics.pairwise import cosine_similarity
+from sklearn.feature_extraction.text import CountVectorizer
+import nltk
+
+
+
+from nltk.corpus import stopwords
+def clean_data(text):
+ 
+  text = text.lower()
+  text = ' '.join([ele for ele in text.split() if ele not in stopwords])
+  return text
+def compute_similarityCOS(inverted_index):
+
+    
+    
+    
+    
+    list_of_tokens=sorted(inverted_index.keys())
+    
+
+    
+    
+    
+
+    vectorize=CountVectorizer().fit_transform(list_of_tokens)
+    
+    vectors = vectorize.toarray()
+    print(vectors)
+
+    cos_sim = cosine_similarity(vectors)
+
+    print(cos_sim)
+
+    
+
+    #Matrix = np.zeros((len(List1),len(List2)),dtype=np.int_)
+    
+
+    
+    matrice_correlazione=pd.DataFrame(data=cos_sim,columns=list_of_tokens,index=list_of_tokens)
+    print(matrice_correlazione)
+
+    return matrice_correlazione
+
+
+import ngram
+def compute_sim_ngrams(inverted_index):
+    N=3
+    list_of_tokens=sorted(inverted_index.keys())
+    
+
+    List1 = list_of_tokens
+    List2 = list_of_tokens
+
+    #Matrix = np.zeros((len(List1),len(List2)),dtype=np.int_)
+    correlazione=dict()
+
+    for i in range(0,len(List1)):
+        correlazione[List1[i]]=[]
+        for j in range(0,len(List2)):
+            element1=List1[i]
+            element2=List2[j]
+            
+            print(ngram.NGram.compare('market','market cap'))
+            compute_dist=ngram.NGram.compare(element1,element2,N=3)
+            print('eval',List1[i],List2[j],'->',compute_dist)
+            
+            correlazione[List1[i]].append(compute_dist)
+
+    
+    matrice_correlazione=pd.DataFrame(data=correlazione,columns=list_of_tokens,index=list_of_tokens)
+
+    return matrice_correlazione
+
+
 import matplotlib.pyplot as plt
 import seaborn as sns
 import matplotlib.colors
-def plot_correlation(df, base_path, threshold=0):
-
-    # Define cmap for heatmap
-    matrix = np.array([[149030, 34], [7442, 12]])
-    norm = matplotlib.colors.Normalize(matrix.min(), matrix.max())
-    boundaries = [value for value in matrix.flatten().tolist()]
-    list.sort(boundaries)
-    colors = [[norm(boundaries[0]), "#dcc4dc"],
-              [norm(boundaries[1]), "#c8a2c8"],
-              [norm(boundaries[2]), "#93779c"],
-              [norm(boundaries[3]), "#6c4675"]]
-    my_cmap = matplotlib.colors.LinearSegmentedColormap.from_list("", colors)
-
-    # Generate a mask for the upper triangle
-    mask1 = np.triu(np.ones_like(df, dtype=bool))
-
-    # Generate mask under threshold
+def plot_correlation(df, base_path,name,threshold=0): # Define cmap for heatmap
+    
+    mask1 = np.triu(np.ones_like(df, dtype=bool))# Generate mask under threshold
     if threshold > 0:
-        mask2 = df < threshold
+         mask2 = df < threshold
     else:
-        mask2 = df < 0
-
-    # Plot heatmap and save fig
+        mask2 = df < 0 # Plot heatmap and save fig
     fig, ax = plt.subplots(figsize=(20, 20))
     title = "Titolo heatmap"
     file_name = base_path + "\\" + "".join(title.lower()).replace(" ", "_")
     ax.set_title(title)
     # ax.set_xlabel("Token")
     # ax.set_ylabel("Token")
-    heatmap = sns.heatmap(df, ax=ax, mask=(mask1 | mask2), fmt=".0f", cmap=my_cmap, square=True)
-    fig.savefig(file_name, bbox_inches='tight', transparent=True)
+    heatmap = sns.heatmap(df, ax=ax, mask=(mask1), fmt=".0f",linewidths=2, cmap="Purples", square=True, )
+    plt.show()
+    fig.savefig(os.path.join(base_path,name), bbox_inches='tight', transparent=True)
+
 
 
 if __name__=='__main__':  
@@ -203,18 +266,34 @@ if __name__=='__main__':
 
     #creazione di un indice invertito basato sulla similarità di chiavi
 
+
+
+    
+    matrice_correlazioneNgrams='matrice_ngrams'
+    matrice_levi='matrice_levi'
     threshold=0.9   #valore minimo per definire due di chiavi uguali
 
-    matrice_correlazione=create_inverted_index_on_similarity(inverted_index)
+    matrice_correlazione=compute_similarityLEVI(inverted_index)
+    
+    maxValues = max(matrice_correlazione.max(skipna=False))
+    
+    plot_correlation(matrice_correlazione,base_path,matrice_levi,12)
     
 
-    plot_correlation(matrice_correlazione,base_path)
 
-    matrice_correlazione_scpy=create_matrix_spacy(inverted_index)
 
-    plot_correlation(matrice_correlazione,base_path)
-    #inverted_index_based_on_sim=create_inverted_index_on_similarity(inverted_index)
+    #Ngrams
+   
+    matrice_correlazione=compute_sim_ngrams(inverted_index)
 
+    matrice_correlazione.to_csv(os.path.join(base_path,matrice_correlazioneNgrams))
+
+    maxValues = max(matrice_correlazione.max(skipna=False))
+    
+    plot_correlation(matrice_correlazione,base_path, matrice_correlazioneNgrams,0.4)
+    
+    
+    
     
 
     

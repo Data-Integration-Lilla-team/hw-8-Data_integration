@@ -15,7 +15,8 @@ class Parser_custom():
             if to_filter_col not in c:
                 c=c.lower()             #tutto in lower case
                 c=c.replace('(','_')
-                c=c.replace(')','')
+                c=c.replace(')','_')
+                c=c.replace('-','_')
                 c=c.replace(' ','_')
            
                 out.append(c)
