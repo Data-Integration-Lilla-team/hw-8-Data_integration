@@ -1,0 +1,2 @@
+TEAM:01-DDD-> COLS: ['city', 'country', 'datejoined', 'founded', 'industry', 'investors', 'name', 'stage', 'totalraised', 'valuation']
+TEAM:04-iGMM-> COLS: ['city', 'company', 'country', 'datejoined', 'industry', 'selectinvestors', 'valuation']

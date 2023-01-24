@@ -1,0 +1,4 @@
+TEAM:02-GioPonSpiz-> COLS: ['founded', 'headquarters', 'industry', 'name', 'sector']
+TEAM:05-MalPatSaj-> COLS: ['founded', 'headquarters', 'industry', 'name', 'notes', 'sector']
+TEAM:06-MarScoToc-> COLS: ['area_served', 'founded', 'headquarters', 'industry', 'name']
+TEAM:10-DeBiGa-> COLS: ['founded', 'founders', 'headquarters', 'industry', 'key_people', 'name', 'number_of_employees', 'operating_income', 'revenue', 'services', 'total_assets', 'type', 'website']

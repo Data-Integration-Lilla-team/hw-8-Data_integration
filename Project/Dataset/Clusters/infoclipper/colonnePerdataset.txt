@@ -1,0 +1,1 @@
+TEAM:09-wissel-> COLS: ['address_name', 'city', 'country', 'index', 'location_type', 'name', 'postalcode', 'state', 'trade_name', 'url']

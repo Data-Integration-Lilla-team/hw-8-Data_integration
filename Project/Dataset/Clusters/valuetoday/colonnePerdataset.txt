@@ -1,0 +1,6 @@
+TEAM:00-avengers-> COLS: ['annual_net_income_in_usd', 'annual_results_for_year_ending', 'annual_revenue_in_usd', 'ceo', 'company_business', 'company_website', 'founders', 'headquarters_continent', 'headquarters_country', 'headquarters_region_city', 'headquarters_sub_region', 'id', 'name', 'number_of_employees', 'total_assets_in_usd', 'total_equity_in_usd', 'total_liabilities_in_usd', 'world_rank']
+TEAM:02-GioPonSpiz-> COLS: ['ceo', 'country', 'marketcap', 'marketvalue', 'name', 'world_rank']
+TEAM:03-gren-> COLS: ['annual_net_income_usd', 'annual_revenue_usd', 'ceo', 'employees_number', 'facebook_page_url', 'headquarters_country', 'market_capitalization_2022', 'name', 'twitter_page_url', 'wikipedia_page_url']
+TEAM:04-iGMM-> COLS: ['annual_net_income_in_usd', 'annual_revenue_in_usd', 'ceo', 'company_business', 'company_website', 'headquarters_country', 'market_value__jan_07_2022', 'market_value__jan_1st_2020', 'name', 'number_of_employees', 'world_rank__jan_07_2022', 'world_rank__jan_2020']
+TEAM:07-silvestri-> COLS: ['ceo', 'country', 'employees_2022', 'market_value_jan_2020', 'market_value_jan_2021', 'market_value_jan_2022', 'name', 'revenue_2022', 'sector']
+TEAM:08-slytherin-> COLS: ['ceo', 'country', 'founded', 'industry', 'link', 'name', 'rank', 'revenue']
