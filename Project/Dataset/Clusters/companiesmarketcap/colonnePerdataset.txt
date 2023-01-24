@@ -1,0 +1,8 @@
+TEAM:00-avengers-> COLS: ['id', 'name', 'rank', 'market_cap', 'country', 'share_price', 'change_1_day', 'change_1_year', 'categories']
+TEAM:01-DDD-> COLS: ['name', 'rank', 'marketcap', 'country', 'share_price', 'change1d', 'change1y', 'categories']
+TEAM:02-GioPonSpiz-> COLS: ['name', 'codice', 'pricecap', 'price', 'country']
+TEAM:03-gren-> COLS: ['name', 'market_capitalization_usd', 'price', 'country']
+TEAM:04-iGMM-> COLS: ['name', 'code', 'rank', 'marketcap', 'country', 'shareprice', 'change_1day', 'change_1year', 'categories']
+TEAM:05-MalPatSaj-> COLS: ['name', 'symbol', 'marketcap', 'price', 'country']
+TEAM:06-MarScoToc-> COLS: ['name', 'master_cap', 'country', 'rank', 'share_price']
+TEAM:09-wissel-> COLS: ['url', 'id', 'name', 'company_code', 'marketcap', 'share_price', 'earnings', 'revenue', 'shares', 'employees']
