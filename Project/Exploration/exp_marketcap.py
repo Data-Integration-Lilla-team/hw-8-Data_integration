@@ -135,30 +135,39 @@ def create_inverted_index_on_similarity(inverted_index):
     return matrice_correlazione
 
 import matplotlib.pyplot as plt
-def plot_correlation(matrix, base_path):
-    sns.set_theme(style="white")
+import seaborn as sns
+import matplotlib.colors
+def plot_correlation(df, base_path, threshold=0):
 
-    
-
-    
+    # Define cmap for heatmap
+    matrix = np.array([[149030, 34], [7442, 12]])
+    norm = matplotlib.colors.Normalize(matrix.min(), matrix.max())
+    boundaries = [value for value in matrix.flatten().tolist()]
+    list.sort(boundaries)
+    colors = [[norm(boundaries[0]), "#dcc4dc"],
+              [norm(boundaries[1]), "#c8a2c8"],
+              [norm(boundaries[2]), "#93779c"],
+              [norm(boundaries[3]), "#6c4675"]]
+    my_cmap = matplotlib.colors.LinearSegmentedColormap.from_list("", colors)
 
     # Generate a mask for the upper triangle
-    mask = np.triu(np.ones_like(matrix, dtype=bool))
+    mask1 = np.triu(np.ones_like(df, dtype=bool))
 
-    # Set up the matplotlib figure
-    f, ax = plt.subplots(figsize=(11, 9))
+    # Generate mask under threshold
+    if threshold > 0:
+        mask2 = df < threshold
+    else:
+        mask2 = df < 0
 
-    # Generate a custom diverging colormap
-    cmap = sns.diverging_palette(230, 20, as_cmap=True)
-
-    # Draw the heatmap with the mask and correct aspect ratio
-    plot=sns.heatmap(matrix, mask=mask, cmap=cmap, vmax=20, center=0,
-                square=True, linewidths=.5, cbar_kws={"shrink": .5})
-    
-    plt.show()
-    path=base_path+'\\Correlazione.png'
-    #plt.savefig(path)
-
+    # Plot heatmap and save fig
+    fig, ax = plt.subplots(figsize=(20, 20))
+    title = "Titolo heatmap"
+    file_name = base_path + "\\" + "".join(title.lower()).replace(" ", "_")
+    ax.set_title(title)
+    # ax.set_xlabel("Token")
+    # ax.set_ylabel("Token")
+    heatmap = sns.heatmap(df, ax=ax, mask=(mask1 | mask2), fmt=".0f", cmap=my_cmap, square=True)
+    fig.savefig(file_name, bbox_inches='tight', transparent=True)
 
 
 if __name__=='__main__':  
