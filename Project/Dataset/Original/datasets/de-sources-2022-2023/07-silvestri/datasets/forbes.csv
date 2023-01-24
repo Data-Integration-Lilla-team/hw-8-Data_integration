@@ -1,0 +1,1001 @@
+country,market_value_apr_2022,name,revenue_2022
+united states,$741.48 B,berkshire hathaway,$276.09 B
+china,$214.43 B,icbc,$208.13 B
+saudi arabia,"$2,292.08 B",saudi arabian oil company (saudi aramco),$400.38 B
+united states,$374.45 B,jpmorgan chase,$124.54 B
+china,$181.32 B,china construction bank,$202.07 B
+united states,"$1,468.4 B",amazon,$469.82 B
+united states,"$2,640.32 B",apple,$378.7 B
+china,$133.38 B,agricultural bank of china,$181.42 B
+united states,$303.1 B,bank of america,$96.83 B
+japan,$237.73 B,toyota motor,$281.75 B
+united states,"$1,581.72 B",alphabet,$257.49 B
+united states,"$2,054.37 B",microsoft,$184.9 B
+china,$117.83 B,bank of china,$152.43 B
+south korea,$367.26 B,samsung group,$244.16 B
+united states,$359.73 B,exxonmobil,$280.51 B
+united kingdom,$211.1 B,shell,$261.76 B
+china,$121.69 B,ping an insurance group,$181.37 B
+united states,$176.77 B,wells fargo,$84.12 B
+united states,$218.02 B,verizon communications,$134.35 B
+united states,$141.79 B,at&t,$163.03 B
+china,$142.3 B,petrochina,$380.31 B
+united states,$490.15 B,unitedhealth group,$297.55 B
+united states,$431.64 B,walmart,$572.75 B
+china,$167.32 B,china merchants bank,$71.07 B
+germany,$82.4 B,volkswagen group,$295.73 B
+united states,$316.23 B,chevron,$156.29 B
+united states,$101.48 B,citigroup,$79.94 B
+china,$414.28 B,tencent holdings,$86.86 B
+france,$127.32 B,total,$185.12 B
+china,$125.53 B,postal savings bank of china (psbc),$77.61 B
+hong kong,$147.05 B,china mobile,$131.49 B
+united states,$205.72 B,comcast,$116.39 B
+china,$237.78 B,alibaba group,$129.76 B
+united states,$499.86 B,meta platforms,$117.93 B
+germany,$96.42 B,allianz,$138.62 B
+united states,$150.95 B,morgan stanley,$60.22 B
+united states,$109.32 B,goldman sachs group,$62.81 B
+united kingdom,$135.3 B,hsbc holdings,$59.33 B
+france,$68.76 B,bnp paribas,$127.42 B
+united states,$477.38 B,johnson & johnson,$94.88 B
+germany,$74.62 B,mercedes-benz group,$178.94 B
+united states,$133.53 B,cvs health,$291.98 B
+united states,$271.83 B,pfizer,$81.49 B
+japan,$71.69 B,softbank,$96.86 B
+china,$80.81 B,sinopec,$384.82 B
+canada,$147.92 B,rbc,$45.24 B
+switzerland,$360.01 B,nestlé,$95.25 B
+france,$65.75 B,axa group,$145.19 B
+russia,$63.56 B,gazprom,$117.3 B
+united kingdom,$98.38 B,bp,$158.01 B
+united states,$190.29 B,intel,$79.02 B
+canada,$132.99 B,td bank group,$38.51 B
+japan,$103.98 B,nippon telegraph & tel,$110.39 B
+india,$228.63 B,reliance industries,$86.85 B
+china,$68.59 B,industrial bank,$60.53 B
+japan,$108.84 B,sony,$89.9 B
+spain,$58.21 B,santander,$78.22 B
+japan,$75.75 B,mitsubishi ufj financial,$48.28 B
+taiwan,$494.6 B,taiwan semiconductor,$61.47 B
+canada,$60.8 B,ford motor,$136.34 B
+france,$346.8 B,lvmh moët hennessy louis vuitton,$75.9 B
+china,$52.82 B,bank of communications,$76 B
+united states,$386.53 B,procter & gamble,$79.62 B
+germany,$55.98 B,bmw group,$131.48 B
+brazil,$83.98 B,petrobras,$83.89 B
+germany,$91.72 B,deutsche telekom,$128.59 B
+united states,$273.76 B,abbvie,$56.2 B
+switzerland,$200.73 B,novartis,$51.63 B
+united states,$57.89 B,general motors,$127 B
+norway,$117.87 B,equinor,$88.37 B
+china,$43.02 B,china life insurance,$130.5 B
+switzerland,$308.14 B,roche holding,$68.69 B
+hong kong,$120.19 B,aia group,$45.16 B
+united states,$57.39 B,metlife,$71.08 B
+australia,$178.07 B,bhp group,$65.55 B
+canada,$310.13 B,the home depot,$151.16 B
+united states,$136.72 B,american express,$46.29 B
+germany,$102.23 B,siemens,$76.46 B
+netherlands,$44.26 B,stellantis,$176.61 B
+switzerland,$69.22 B,zurich insurance group,$69.58 B
+russia,$48.79 B,rosneft,$111.4 B
+united kingdom,$117.78 B,rio tinto,$63.46 B
+canada,$80.94 B,brookfield asset management,$78.82 B
+united states,$81.2 B,cigna,$174.27 B
+united states,$43.6 B,prudential financial,$70.93 B
+united states,$238.13 B,pepsico,$79.47 B
+united states,$213.83 B,merck & co.,$50.37 B
+united states,$121.25 B,elevance health,$144.35 B
+canada,$80.58 B,bank of nova scotia,$30.35 B
+united states,$48.73 B,american international group,$52.06 B
+switzerland,$79.9 B,glencore international,$203.41 B
+united states,$213.36 B,cisco systems,$51.55 B
+belgium,$118.52 B,anheuser-busch inbev,$54.33 B
+united states,$215.33 B,walt disney,$72.98 B
+switzerland,$87.31 B,chubb,$40.95 B
+hong kong,$31.96 B,citic,$91.21 B
+united kingdom,$41.34 B,lloyds banking group,$58.48 B
+united states,$124.33 B,ibm,$67.25 B
+france,$136.86 B,sanofi,$44.63 B
+united states,$163.03 B,united parcel service,$97.2 B
+united kingdom,$97.49 B,british american tobacco,$35.32 B
+switzerland,$56.17 B,ubs,$35.22 B
+japan,$44.99 B,honda motor,$130.16 B
+japan,$50.87 B,mitsubishi,$146.94 B
+china,$36.91 B,china state construction engineering,$205.79 B
+india,$58.39 B,state bank of india,$54.42 B
+australia,$130.34 B,commonwealth bank,$21.85 B
+china,$36.6 B,shanghai pudong development,$54.77 B
+united states,$149.76 B,raytheon technologies,$64.36 B
+italy,$65.84 B,enel,$99.41 B
+italy,$52.28 B,eni,$90.5 B
+united states,$54.88 B,capital one,$32.12 B
+united states,$160.98 B,bristol myers squibb,$46.38 B
+united states,$282.86 B,coca-cola,$38.73 B
+united states,$203.34 B,oracle,$41.83 B
+russia,$33.98 B,sberbank,$57.37 B
+canada,$72.74 B,bank of montreal,$26.53 B
+brazil,$82.03 B,vale,$54.4 B
+france,$35.09 B,edf,$99.83 B
+united states,$219.71 B,thermo fisher scientific,$39.21 B
+france,$31.42 B,credit agricole,$73.61 B
+netherlands,$88.6 B,airbus,$61.64 B
+united states,$253.39 B,costco wholesale,$210.22 B
+taiwan,$49.04 B,hon hai precision,$214.6 B
+united kingdom,$116.16 B,unilever,$62 B
+united states,$97.92 B,charter communications,$51.68 B
+japan,$42.33 B,sumitomo mitsui financial,$35.5 B
+united states,$124.43 B,conocophillips,$46.06 B
+united kingdom,$112.09 B,glaxosmithkline,$46.92 B
+italy,$41.42 B,intesa sanpaolo,$47.84 B
+canada,$39.76 B,manulife,$47.17 B
+united states,$75.48 B,us bancorp,$23.12 B
+germany,$51.78 B,basf,$92.9 B
+hong kong,$62.6 B,cnooc,$37.77 B
+united states,$210.98 B,abbott laboratories,$44.51 B
+spain,$70.26 B,iberdrola,$46.23 B
+china,$62.81 B,china shenhua energy,$52.02 B
+brazil,$52.89 B,itaú unibanco holding,$35.96 B
+united states,$115.91 B,caterpillar,$50.98 B
+japan,$40.83 B,mitsui,$108.31 B
+japan,$45.95 B,itochu,$107.99 B
+united states,$127.6 B,charles schwab,$18.98 B
+united states,$67.64 B,truist financial,$23.19 B
+canada,$90.92 B,enbridge,$37.55 B
+japan,$45.78 B,hitachi,$91.9 B
+japan,$74.12 B,kddi,$49.17 B
+south korea,$37.61 B,hyundai motor,$102.7 B
+china,$25.26 B,china citic bank,$56.99 B
+united states,$436.49 B,visa,$25.48 B
+united states,$111.76 B,target,$106 B
+spain,$35.28 B,bbva-banco bilbao vizcaya,$41.98 B
+united states,"$1,038.73 B",tesla,$53.82 B
+united states,$123.81 B,deere & company,$44.45 B
+india,$98.28 B,hdfc bank,$22.51 B
+united kingdom,$31.55 B,barclays,$30.17 B
+germany,$35.48 B,munich re,$84.88 B
+japan,$26.56 B,japan post holdings,$103.58 B
+united states,$39.34 B,walgreens,$135.95 B
+united states,$189.4 B,danaher,$30.28 B
+italy,$31.36 B,generali group,$102.13 B
+denmark,$51.41 B,møller-maersk,$61.95 B
+united states,$130.37 B,lowe's,$96.25 B
+united states,$53.19 B,fedex,$91.55 B
+germany,$55.04 B,deutsche post,$96.62 B
+united states,$71.9 B,pnc financial services,$19.93 B
+united states,$239.64 B,broadcom,$28.5 B
+russia,$32.17 B,lukoil,$125.11 B
+ireland,$144.62 B,medtronic,$31.79 B
+germany,$124.02 B,sap,$33.18 B
+south korea,$61.31 B,sk hynix,$37.55 B
+france,$31.5 B,engie,$68.4 B
+united states,$118.82 B,lockheed martin,$65.75 B
+united states,$100.8 B,blackrock,$20.3 B
+australia,$61.42 B,westpac banking group,$20.46 B
+united states,$87.98 B,duke energy,$25.1 B
+united states,$35.64 B,dell technologies,$106.84 B
+france,$56.87 B,vinci,$59.08 B
+japan,$35.19 B,tokio marine holdings,$50.57 B
+mexico,$67.84 B,américa móvil,$48.37 B
+germany,$28.52 B,e.on,$91.44 B
+united kingdom,$59.44 B,anglo american,$41.52 B
+brazil,$43.16 B,banco bradesco,$28.33 B
+netherlands,$39.03 B,ing group,$21.49 B
+ireland,$196.86 B,accenture,$56.7 B
+united states,$130.67 B,honeywell international,$34.39 B
+japan,$31.38 B,mizuho financial,$26.76 B
+united kingdom,$157.26 B,linde,$30.79 B
+luxembourg,$28.98 B,arcelormittal,$76.65 B
+canada,$51.21 B,canadian imperial bank,$18.66 B
+china,$32.81 B,poly developments & holdings group,$42.94 B
+united states,$77.51 B,micron technology,$31.17 B
+australia,$56.23 B,anz,$18.38 B
+taiwan,$30.63 B,fubon financial,$33.23 B
+china,$35.23 B,china telecom,$68.15 B
+united states,$63.62 B,hca healthcare,$59.72 B
+united states,$50.35 B,dow,$58.35 B
+spain,$29.44 B,telefónica,$46.42 B
+china,$27.92 B,china vanke,$71.42 B
+australia,$77.24 B,nab - national australia bank,$15.76 B
+taiwan,$28.9 B,cathay financial,$34.46 B
+united states,$149.68 B,qualcomm,$36.04 B
+france,$195.52 B,l'oréal,$38.16 B
+canada,$36.45 B,allstate,$50.59 B
+china,$28.87 B,saic motor,$121.42 B
+india,$67.9 B,icici bank,$21.89 B
+china,$20.11 B,china everbright bank,$42.38 B
+united states,$78.17 B,gilead sciences,$27.37 B
+china,$22.69 B,china pacific insurance,$68.07 B
+united states,$489.83 B,nvidia,$26.91 B
+united states,$133.63 B,amgen,$25.99 B
+united states,$147.23 B,union pacific,$22.66 B
+japan,$19.9 B,dai-ichi life insurance,$66.73 B
+canada,$203.13 B,nike,$46.89 B
+japan,$45.32 B,takeda pharmaceutical,$31.55 B
+united states,$159.18 B,philip morris international,$31.51 B
+united states,$100.22 B,paypal,$25.56 B
+hong kong,$32.45 B,china resources land,$33.61 B
+singapore,$39.71 B,oversea-chinese banking,$22.89 B
+china,$60.55 B,midea group,$50.6 B
+united states,$41.54 B,travelers,$35.31 B
+united states,$265.45 B,eli lilly,$28.32 B
+united states,$89.98 B,mondelez international,$28.72 B
+united states,$185.03 B,mcdonald's,$23.22 B
+canada,$98.13 B,general electric,$74.08 B
+france,$19.37 B,société générale,$35.57 B
+france,$85.36 B,schneider electric,$34.16 B
+united states,$84.9 B,3m,$35.35 B
+united states,$41.15 B,aflac,$22.11 B
+india,$28.62 B,oil & natural gas,$66.28 B
+united states,$80.48 B,southern company,$23.23 B
+germany,$24.54 B,deutsche bank,$36.7 B
+thailand,$31.34 B,ptt,$70.55 B
+hong kong,$27.91 B,ck hutchison,$36.13 B
+canada,$74.27 B,canadian natural resources,$23.97 B
+canada,$30.71 B,sun life financial,$29.82 B
+united states,$69.84 B,northrop grumman,$35.67 B
+united states,$51.85 B,archer daniels midland,$85.26 B
+united states,$48.64 B,marathon petroleum,$119.78 B
+china,$16.74 B,china minsheng bank,$50.08 B
+united kingdom,$19.63 B,legal & general group,$62.51 B
+united states,$95.68 B,netflix,$30.4 B
+united states,$63.37 B,progressive,$48.07 B
+china,$30.05 B,longfor group holdings,$34.8 B
+singapore,$63.03 B,dbs,$12.4 B
+china,$25.8 B,cosco shipping,$51.77 B
+china,$19.1 B,china communications construction,$108.41 B
+united kingdom,$30.22 B,natwest group,$17.86 B
+united states,$47.68 B,exelon,$39.27 B
+united states,$56.34 B,humana,$84.09 B
+united states,$66.42 B,general dynamics,$38.47 B
+canada,$20.47 B,power corp of canada,$57.93 B
+qatar,$59.09 B,qatar national bank,$14.2 B
+germany,$70.06 B,bayer,$52.1 B
+united states,$30.6 B,kkr,$19.02 B
+china,$15.65 B,country garden holdings,$81.13 B
+united states,$145.27 B,nextera energy,$23.74 B
+south korea,$19.29 B,kb financial group,$33.86 B
+china,$15.36 B,china railway group,$166.46 B
+united states,$38.75 B,hp,$64.98 B
+finland,$40.26 B,nordea bank,$13.56 B
+japan,$39.19 B,seven & i holdings,$78.47 B
+canada,$46.27 B,suncor energy,$31.21 B
+united states,$169.72 B,salesforce.com,$26.49 B
+france,$81.85 B,air liquide,$27.58 B
+japan,$45.14 B,denso,$49.49 B
+united states,$35.68 B,bank of new york mellon,$16.09 B
+united states,$343.27 B,mastercard,$18.88 B
+brazil,$20.7 B,banco do brasil,$29.54 B
+united states,$49.2 B,centene,$125.98 B
+india,$52.3 B,hdfc,$18.48 B
+united states,$60.97 B,freeport-mcmoran,$24.31 B
+germany,$82.53 B,"merck kgaa, darmstadt, germany and its affiliates",$23.27 B
+spain,$26.82 B,caixabank,$14.64 B
+switzerland,$61.35 B,abb,$28.93 B
+sweden,$34.7 B,volvo group,$43.36 B
+united states,$53.05 B,occidental petroleum,$25.96 B
+united kingdom,$54.88 B,national grid,$20.77 B
+united states,$47.66 B,mckesson,$257.01 B
+south korea,$18.17 B,shinhan financial group,$29.27 B
+netherlands,$247.8 B,asml holding,$20.65 B
+canada,$57.39 B,nutrien,$27.63 B
+sweden,$63.51 B,investor ab,$12.81 B
+south korea,$25.82 B,kia,$61.01 B
+france,$31.17 B,saint-gobain,$52.2 B
+denmark,$252.91 B,novo nordisk,$22.38 B
+south korea,$18.03 B,posco,$66.66 B
+united kingdom,$116.05 B,diageo,$19 B
+netherlands,$30.57 B,royal ahold delhaize n.v.,$89.36 B
+china,$14.37 B,picc,$90.1 B
+united states,$68.82 B,dominion energy,$13.96 B
+united states,$41.23 B,kroger,$137.89 B
+china,$23.35 B,baoshan iron & steel,$55.52 B
+china,$343.32 B,kweichow moutai,$14.6 B
+china,$37.03 B,xiaomi,$50.91 B
+china,$37.67 B,bank of ningbo,$13.71 B
+colombia,$36.07 B,ecopetrol,$23.43 B
+united kingdom,$34.94 B,lyondellbasell industries,$46.15 B
+china,$148.42 B,contemporary amperex technology,$20.14 B
+italy,$21.62 B,unicredit,$27.79 B
+united states,$33.25 B,amerisourcebergen,$221.1 B
+france,$79.45 B,essilorluxottica,$23.43 B
+spain,$68.15 B,inditex,$32.57 B
+united states,$89.63 B,starbucks,$30.36 B
+united states,$43.29 B,nucor,$39.96 B
+united states,$65.71 B,intercontinentalexchange,$10.15 B
+united states,$73.7 B,tjx cos,$48.55 B
+belgium,$29.5 B,kbc group,$14.81 B
+united kingdom,$25.89 B,tesco,$84.17 B
+china,$23.25 B,boe technology group,$33.78 B
+united states,$132.17 B,blackstone,$15.47 B
+united states,$50.58 B,american electric,$16.62 B
+australia,$55.44 B,macquarie group,$11.21 B
+japan,$19.7 B,marubeni,$72.32 B
+switzerland,$24.7 B,swiss re,$46 B
+united states,$67.97 B,eog resources,$19.78 B
+france,$16.12 B,cnp assurances,$51.78 B
+united states,$93.89 B,automatic data processing,$15.7 B
+united states,$40.23 B,phillips 66,$111.7 B
+united states,$33.74 B,tyson foods,$49.52 B
+spain,$20.8 B,repsol,$58.8 B
+japan,$20.28 B,sumitomo,$48.22 B
+switzerland,$30.19 B,holcim,$29.35 B
+united states,$100.66 B,altria group,$21.11 B
+united states,$99.65 B,applied materials,$24.15 B
+germany,$22.61 B,daimler truck holding,$47 B
+china,$41.33 B,zijin mining group,$37.21 B
+saudi arabia,$86.46 B,the saudi national bank,$8.63 B
+switzerland,$69.46 B,richemont,$19.81 B
+france,$70.75 B,kering,$20.86 B
+saudi arabia,$29.83 B,saudi electricity,$18.49 B
+france,$37.97 B,danone,$28.65 B
+japan,$14.92 B,nippon steel,$57.54 B
+south korea,$30.55 B,lg chem,$37.26 B
+united states,$31.69 B,discover financial services,$12.8 B
+canada,$46.65 B,couche tard,$58.66 B
+china,$13.28 B,huaxia bank,$26.38 B
+netherlands,$15.72 B,nn group,$22.38 B
+united states,$880 M,fannie mae,$100.33 B
+germany,$20.43 B,fresenius,$44.26 B
+united states,$85.88 B,marsh & mclennan,$20.33 B
+united states,$30.97 B,ameriprise financial,$13.89 B
+united states,$72.63 B,becton dickinson,$19.93 B
+japan,$20.98 B,panasonic,$65.97 B
+japan,$16.51 B,ms&ad insurance,$41.89 B
+japan,$21.71 B,orix,$22.73 B
+china,$32.19 B,citic securities,$11.74 B
+united arab emirates,$69.08 B,first abu dhabi bank,$8.25 B
+canada,$51.83 B,bce,$18.7 B
+united states,$58.86 B,schlumberger,$23.67 B
+united states,$159.94 B,texas instruments,$18.34 B
+indonesia,$50.14 B,bank rakyat indonesia (bri),$12.77 B
+united kingdom,$19.69 B,standard chartered,$18.88 B
+ireland,$31.77 B,crh,$31 B
+china,$15.09 B,bank of beijing,$19.38 B
+united states,$20.13 B,paramount,$28.59 B
+china,$17.05 B,bank of jiangsu,$17.9 B
+united states,$34.51 B,dupont de nemours,$16.65 B
+china,$27.82 B,gree electric appliances,$27.88 B
+india,$16.53 B,indian oil,$72.2 B
+united states,$56.92 B,dollar general,$34.22 B
+united states,$52.89 B,kraft heinz company,$26.04 B
+singapore,$20.86 B,wilmar international,$65.84 B
+united states,$488 M,freddie mac,$62.24 B
+united states,$20.48 B,hewlett packard enterprise,$27.86 B
+japan,$30.53 B,japan tobacco,$21.16 B
+italy,$13.6 B,poste italiane,$37.48 B
+singapore,$37.99 B,united overseas bank,$8.89 B
+hong kong,$15.05 B,china unicom,$50.83 B
+united states,$42.19 B,valero energy,$114 B
+united states,$75.34 B,csx,$13.12 B
+denmark,$14.7 B,danske bank,$24.8 B
+australia,$47.37 B,fortescue metals group,$20.93 B
+china,$8.69 B,china railway construction,$157.66 B
+united states,$56.56 B,moderna,$18.4 B
+australia,$34.61 B,woolworths,$38.84 B
+china,$26.78 B,anhui conch cement,$26.05 B
+united states,$193.1 B,adobe,$16.13 B
+united states,$23.65 B,hartford financial services,$22.39 B
+united states,$26.04 B,state street,$11.54 B
+saudi arabia,$119.85 B,al rajhi bank,$6.74 B
+china,$16.34 B,power construction corporation of china,$70.28 B
+japan,$57.46 B,shin-etsu chemical,$17.2 B
+united states,$63.16 B,fiserv,$16.23 B
+united states,$74.68 B,regeneron pharmaceuticals,$16.07 B
+japan,$11.38 B,eneos holdings,$90.31 B
+india,$172.79 B,tata consultancy services,$25.73 B
+japan,$13.91 B,sompo,$35.67 B
+austria,$16.24 B,omv group,$42.02 B
+switzerland,$19.73 B,swiss life holding,$23.54 B
+china,$14.76 B,bank of shanghai,$15.94 B
+united states,$119.49 B,american tower,$9.36 B
+united states,$57.38 B,pioneer natural resources,$17.87 B
+hong kong,$34.81 B,sun hung kai properties,$10.26 B
+china,$38.63 B,wanhua chemical group,$22.43 B
+finland,$27.29 B,sampo,$15.9 B
+china,$19.42 B,china merchants shekou industrial zone holdings,$23.41 B
+china,$33.26 B,haier smart home,$35.16 B
+ireland,$58.35 B,eaton,$19.63 B
+south korea,$11.99 B,sk,$85.9 B
+ireland,$44.22 B,johnson controls international,$24.19 B
+brazil,$17.48 B,jbs,$64.99 B
+saudi arabia,$60.71 B,saudi telecom,$16.91 B
+bermuda,$15.89 B,jardine matheson,$35.86 B
+canada,$86.33 B,canadian national railway,$11.55 B
+united states,$93.79 B,stryker,$17.11 B
+finland,$29.66 B,nokia,$26.24 B
+japan,$22.76 B,mitsubishi electric,$40.34 B
+japan,$16.36 B,nissan motor,$79.17 B
+india,$20.42 B,tata steel,$31.07 B
+netherlands,$23.41 B,heineken,$25.93 B
+united kingdom,$30.15 B,bae systems,$26.85 B
+united arab emirates,$83.82 B,etisalat,$14.52 B
+united kingdom,$23.74 B,bt group,$28.84 B
+taiwan,$19.63 B,ctbc financial,$14.93 B
+russia,$38.07 B,novatek,$15.4 B
+china,$9.36 B,greenland holdings group,$84.53 B
+germany,$28.86 B,rwe group,$28.99 B
+japan,$46.78 B,daikin industries,$26.88 B
+netherlands,$11.76 B,aegon,$26.33 B
+china,$32.49 B,baidu,$19.31 B
+sweden,$28.6 B,ericsson,$26.95 B
+japan,$24.66 B,canon,$31.98 B
+united states,$22.75 B,lennar,$28.42 B
+china,$18.84 B,bank of nanjing,$12.17 B
+netherlands,$26.39 B,philips,$20.28 B
+united states,$52.47 B,keurig dr pepper,$12.68 B
+china,$83.05 B,china yangtze power,$8.52 B
+norway,$34.31 B,dnb bank,$7.79 B
+united states,$55.6 B,emerson electric,$18.55 B
+united kingdom,$20.62 B,imperial brands,$22.66 B
+canada,$104.45 B,boeing,$62.29 B
+united states,$43.66 B,general mills,$18.63 B
+india,$31.32 B,axis bank,$11.41 B
+canada,$24.82 B,national bank of canada,$9 B
+united states,$94.7 B,the estée lauder companies,$17.77 B
+united kingdom,$20.19 B,cnh industrial,$33.43 B
+canada,$13.28 B,fairfax financial,$23.57 B
+germany,$41.08 B,adidas,$25.1 B
+france,$22.85 B,michelin group,$28.13 B
+united states,$67.06 B,norfolk southern,$11.14 B
+united states,$18.25 B,principal financial group,$14.26 B
+united states,$53.11 B,sempra,$13.06 B
+finland,$15.64 B,fortum,$132.85 B
+mexico,$37.88 B,grupo mexico,$14.77 B
+united states,$25.28 B,d.r. horton,$28.89 B
+united states,$47.86 B,l3harris technologies,$17.81 B
+south africa,$40.31 B,naspers,$7.01 B
+south africa,$18.06 B,standard bank group,$15.9 B
+canada,$55.95 B,tc energy,$10.48 B
+russia,$37.75 B,norilsk nickel,$17.81 B
+spain,$29.75 B,naturgy energy group,$26.17 B
+canada,$65.39 B,waste management,$17.93 B
+germany,$28.33 B,henkel,$23.72 B
+taiwan,$46.45 B,mediatek,$17.66 B
+japan,$62.03 B,recruit holdings,$24.8 B
+china,$21.93 B,hengli petrochemical,$30.17 B
+united states,$40.44 B,xcel energy,$13.37 B
+united states,$41.92 B,corteva,$15.65 B
+united states,$19.23 B,synchrony financial,$11.37 B
+japan,$13.04 B,toyota tsusho,$69.53 B
+japan,$18.92 B,toyota industries,$23.32 B
+united kingdom,$204.56 B,astrazeneca,$38.68 B
+china,$3.18 B,sunac china holdings,$38.49 B
+china,$2.78 B,china evergrande group,$70.4 B
+japan,$25.7 B,bridgestone,$29.54 B
+united arab emirates,$26.14 B,emirates nbd,$8.6 B
+japan,$15.82 B,daiwa house industry,$38.86 B
+china,$68.56 B,jd.com,$147.63 B
+united states,$43.42 B,kinder morgan,$16.61 B
+china,$10.55 B,china national building,$42.58 B
+united states,$26.35 B,fifth third bank,$8.27 B
+south africa,$24.98 B,firstrand,$10.18 B
+france,$15.77 B,carrefour,$87.81 B
+japan,$29.14 B,fujitsu,$32.83 B
+sweden,$24.72 B,seb ab,$7.55 B
+russia,$10.48 B,surgutneftegas,$19.26 B
+china,$8.91 B,new china life insurance,$34.44 B
+canada,$42.24 B,barrick gold,$11.94 B
+denmark,$38.65 B,dsv panalpina,$28.97 B
+germany,$11.01 B,talanx,$51.73 B
+united kingdom,$46.36 B,vodafone,$53.63 B
+japan,$58.01 B,nintendo,$15.24 B
+south korea,$11.47 B,hana financial group,$13.75 B
+south korea,$15.65 B,hyundai mobis,$36.42 B
+india,$20.32 B,ntpc,$17 B
+malaysia,$24.74 B,maybank,$9.17 B
+united states,$80.12 B,cme group,$4.69 B
+united arab emirates,$42.24 B,taqa,$12.44 B
+france,$54.16 B,pernod ricard,$11.58 B
+indonesia,$26.88 B,bank mandiri,$9.53 B
+mexico,$27.29 B,femsa,$27.38 B
+united states,$29.79 B,paccar,$23.54 B
+united states,$34.18 B,consolidated edison,$13.67 B
+japan,$20.04 B,mitsui fudosan,$18.26 B
+taiwan,$26.68 B,evergreen marine corp. (taiwan),$17.52 B
+japan,$22.06 B,komatsu,$24.51 B
+china,$24.76 B,shaanxi coal industry,$22.28 B
+hong kong,$11.89 B,lenovo group,$70.56 B
+japan,$51.27 B,fast retailing,$19.27 B
+united kingdom,$52.66 B,london stock exchange,$9.27 B
+germany,$32.71 B,vonovia,$6.55 B
+united kingdom,$21.03 B,aviva,$45.13 B
+united states,$64.22 B,sherwin-williams,$19.95 B
+japan,$22.93 B,fujifilm holdings,$22.57 B
+united states,$125.37 B,intuit,$11.41 B
+united states,$64.61 B,lam research,$16.72 B
+austria,$13.97 B,erste group bank,$11.43 B
+united states,$11.2 B,lincoln national,$19.18 B
+united states,$35.55 B,carrier global,$20.61 B
+united states,$16.2 B,dish network,$17.88 B
+china,$11.14 B,china coal energy,$35.86 B
+germany,$14.14 B,continental,$39.91 B
+russia,$3.15 B,vtb bank,$21.3 B
+japan,$38.94 B,murata manufacturing,$16.28 B
+india,$31.13 B,larsen & toubro,$20.53 B
+united states,$13.79 B,ally financial,$10.84 B
+china,$52.53 B,netease,$13.59 B
+indonesia,$67.62 B,bank central asia,$6.1 B
+sweden,$21.5 B,volvo car,$32.85 B
+canada,$24.88 B,intact financial,$14.63 B
+denmark,$49.11 B,orsted,$10.99 B
+united states,$28.3 B,cummins,$24.02 B
+united states,$42.73 B,williams,$10.57 B
+france,$35.59 B,capgemini,$21.46 B
+united states,$126.34 B,prologis,$4.83 B
+france,$28.56 B,thales,$19.14 B
+france,$13.13 B,bouygues,$44.43 B
+mexico,$21.04 B,banorte,$10.61 B
+hong kong,$25.13 B,ck asset holdings,$8.32 B
+france,$31.81 B,orange,$50.26 B
+switzerland,$34.84 B,kuehne & nagel international,$35.88 B
+united states,$16.83 B,bunge,$59.15 B
+south korea,$9.59 B,samsung life insurance,$25.44 B
+united states,$45.55 B,vmware,$12.85 B
+united states,$15.57 B,albertsons,$71.89 B
+china,$10.5 B,crrc,$34.8 B
+united states,$27.96 B,cbre group,$27.75 B
+japan,$18.19 B,toshiba,$30.13 B
+south korea,$14.64 B,samsung c&t,$30.09 B
+india,$87.21 B,infosys,$16.33 B
+united kingdom,$36.7 B,prudential,$26.52 B
+china,$14.32 B,yankuang energy group,$16.86 B
+canada,$69.42 B,canadian pacific railway,$6.38 B
+united states,$15.94 B,loews,$14.67 B
+japan,$67.25 B,tokyo electron,$17.09 B
+south korea,$17.87 B,lg electronics,$66.12 B
+australia,$94.67 B,csl,$10.59 B
+canada,$18.14 B,magna international,$36.25 B
+united states,$81.25 B,analog devices,$8.44 B
+japan,$21.19 B,kubota,$19.99 B
+united states,$53.86 B,air products & chemicals,$10.94 B
+united states,$59.06 B,newmont mining,$12.25 B
+switzerland,$40.01 B,te connectivity,$15.22 B
+ireland,$68.81 B,aon,$12.19 B
+canada,$36.05 B,telus,$13.43 B
+united states,$37.7 B,dollar tree,$26.32 B
+united states,$19.06 B,keycorp,$7.45 B
+united kingdom,$26.88 B,wtw,$9.58 B
+china,$9 B,china zheshang bank,$15.99 B
+australia,$40.57 B,wesfarmers,$25.35 B
+japan,$15.39 B,suzuki motor,$32.56 B
+united states,$20.56 B,best buy,$51.76 B
+united states,$31.82 B,svb financial group,$6.08 B
+united states,$142.8 B,advanced micro devices,$16.43 B
+united states,$19.89 B,markel,$12.84 B
+china,$44.12 B,muyuan foodstuff,$11.27 B
+united states,$46.67 B,kimberly-clark,$19.79 B
+sweden,$18.56 B,swedbank,$6.75 B
+united states,$43.62 B,cognizant,$18.51 B
+united states,$28.58 B,corning,$14.07 B
+germany,$39.15 B,infineon technologies,$13.7 B
+united states,$20.76 B,citizens financial group,$6.88 B
+united states,$38.57 B,devon energy,$13.69 B
+japan,$17.94 B,asahi group holdings,$20.35 B
+india,$22.87 B,jsw steel,$17.1 B
+united states,$11.16 B,lumen technologies,$19.69 B
+united states,$20.03 B,regions financial,$6.63 B
+sweden,$19.52 B,svenska handelsbanken,$6.34 B
+united states,$21.49 B,raymond james financial,$10.43 B
+china,$84.46 B,byd,$32.78 B
+united states,$63.42 B,illinois tool works,$14.46 B
+china,$43.53 B,pinduoduo,$14.57 B
+united states,$61.39 B,activision blizzard,$8.8 B
+united kingdom,$12.59 B,liberty global,$10.54 B
+united states,$68.17 B,colgate-palmolive,$17.42 B
+united kingdom,$24.88 B,sse,$10.33 B
+taiwan,$23.75 B,nan ya plastics,$14.74 B
+france,$12.95 B,vivendi,$11.31 B
+united states,$36.77 B,baxter international,$12.78 B
+china,$8.48 B,fosun international,$25.02 B
+china,$12.04 B,weichai power,$31.4 B
+united states,$11.58 B,fidelity national financial,$15.63 B
+united states,$35.6 B,parker-hannifin,$15.29 B
+india,$20.21 B,vedanta limited,$16.38 B
+south korea,$9.51 B,woori financial group,$11.47 B
+united states,$45.06 B,sysco,$60.74 B
+australia,$34.21 B,telstra,$15.82 B
+switzerland,$18.68 B,credit suisse group,$30.07 B
+canada,$29.24 B,rogers communications,$11.79 B
+united states,$31.03 B,m&t bank,$5.89 B
+united states,$62.63 B,boston scientific,$11.89 B
+united states,$27.27 B,edison international,$14.9 B
+france,$5.07 B,financiere de l'odet,$23.37 B
+japan,$11.81 B,sumitomo mitsui trust,$10.67 B
+united states,$25.1 B,entergy,$11.71 B
+switzerland,$30.25 B,swisscom,$12.23 B
+germany,$25.8 B,enbw-energie baden,$38 B
+china,$59.33 B,hikvision,$12.99 B
+japan,$12.82 B,nippon yusen,$19.46 B
+united states,$21.35 B,stanley black & decker,$16.83 B
+united states,$30.94 B,oneok,$17.27 B
+united states,$58.74 B,marriott international,$13.86 B
+united states,$49.91 B,warner bros. discovery,$12.18 B
+china,$36.66 B,s.f. holding,$32.05 B
+united states,$28.01 B,delta air lines,$35.1 B
+india,$11.16 B,bharat petroleum,$43.2 B
+united states,$33.94 B,halliburton,$16.13 B
+china,$5.15 B,metallurgical corp of china,$77.3 B
+united states,$22.08 B,northern trust,$6.57 B
+germany,$10.91 B,heidelbergcement,$22.13 B
+taiwan,$19.81 B,china steel,$16.77 B
+united states,$31.72 B,eversource energy,$9.86 B
+china,$21.93 B,sany heavy industry,$17.59 B
+france,$138.97 B,hermès international,$10.62 B
+united states,$17.89 B,international paper,$21.78 B
+turkey,$6.79 B,koç holding,$38.84 B
+japan,$40.47 B,nidec,$17.07 B
+china,$111.43 B,meituan,$27.79 B
+india,$44.83 B,kotak mahindra bank,$7.92 B
+canada,$19.97 B,teck resources,$10.75 B
+united states,$27.77 B,southwest airlines,$15.79 B
+germany,$32.23 B,deutsche boerse,$5.26 B
+united states,$25.02 B,labcorp,$16.12 B
+china,$20.28 B,china tower corp.,$13.43 B
+japan,$17.11 B,inpex,$11.32 B
+united kingdom,$23.43 B,coca-cola european partners,$16.24 B
+china,$98.98 B,wuliangye yibin,$8.48 B
+hong kong,$2.14 B,shimao property holdings,$21.82 B
+japan,$7.97 B,idemitsu kosan,$54.54 B
+taiwan,$29.96 B,formosa petrochemical,$22.2 B
+united states,$84.07 B,crown castle international,$6.6 B
+united states,$26.27 B,firstenergy,$11.41 B
+china,$21.52 B,rongsheng petrochemical,$27.22 B
+india,$15.11 B,hindalco industries,$24.33 B
+china,$13.96 B,bank of hangzhou,$8.7 B
+france,$7.28 B,renault,$54.62 B
+united arab emirates,$108.6 B,international holding company,$7.75 B
+united states,$21.93 B,cincinnati financial,$9.63 B
+japan,$19.04 B,mitsubishi estate,$12.14 B
+united states,$15.18 B,cleveland-cliffs,$22.35 B
+spain,$7.03 B,grupo acs,$32.9 B
+china,$13.58 B,cgn power,$12.47 B
+taiwan,$14.5 B,ase technology holding,$21.31 B
+japan,$7.25 B,jfe holdings,$36.46 B
+united states,$26.51 B,dte energy,$15.46 B
+china,$12.76 B,china hongqiao group,$17.76 B
+netherlands,$44.83 B,nxp semiconductors,$11.06 B
+united states,$15.48 B,western digital,$18.94 B
+united states,$90.52 B,booking holdings,$10.96 B
+japan,$16.11 B,aeon,$78.17 B
+united states,$28.21 B,first republic bank,$5.53 B
+china,$13.52 B,lufax holding,$9.67 B
+sweden,$61.42 B,atlas copco,$12.92 B
+united states,$61.05 B,fidelity national information (fis),$13.88 B
+japan,$8.74 B,mitsubishi chemical,$34.61 B
+portugal,$19.63 B,edp-energias de portugal,$17.86 B
+japan,$19.16 B,kyocera,$16.22 B
+china,$6.02 B,xiamen c&d,$109.61 B
+united states,$42.88 B,autozone,$15.6 B
+hong kong,$4.36 B,china taiping insurance,$40.91 B
+canada,$34.25 B,cenovus energy,$36.98 B
+finland,$36.31 B,neste,$17.91 B
+germany,$27.21 B,porsche automobil holding,$151 M
+sweden,$22.04 B,h&m - hennes & mauritz,$23.85 B
+united kingdom,$59.18 B,relx,$9.96 B
+united states,$24.11 B,pg&e,$20.64 B
+united states,$41.81 B,republic services,$11.3 B
+united states,$36.35 B,ross stores,$18.92 B
+united states,$32.8 B,wec energy group,$8.32 B
+united states,$17.06 B,cardinal health,$171.29 B
+united states,$14.61 B,carmax,$31.9 B
+taiwan,$10.52 B,china development financial,$12.76 B
+saudi arabia,$31.76 B,riyad bank,$3.23 B
+united states,$49.81 B,thomson reuters,$6.35 B
+russia,$10.13 B,transneft,$14.11 B
+united kingdom,$29.61 B,ferguson,$22.74 B
+united states,$43.56 B,iqvia,$13.87 B
+hong kong,$54.13 B,hong kong exchanges,$2.69 B
+united states,$31.37 B,ppg,$17.23 B
+china,$2.81 B,legend holding,$75.97 B
+united states,$50.16 B,ecolab,$12.73 B
+china,$6.77 B,sinopharm group,$80.8 B
+china,$31.7 B,luxshare precision industry,$23.87 B
+china,$2.86 B,seazen group,$26.4 B
+united states,$37.87 B,global payments,$8.52 B
+china,$4.17 B,china energy engineering,$49.75 B
+france,$52.26 B,safran,$17.89 B
+united states,$131.75 B,s&p global,$8.3 B
+united states,$19.88 B,huntington bank,$6.42 B
+bermuda,$17.86 B,arch capital group,$8.88 B
+united states,$3.93 B,jackson financial,$8.85 B
+israel,$15.87 B,bank leumi,$5.82 B
+ireland,$34.77 B,trane technologies,$14.14 B
+france,$21.2 B,veolia environnement,$33.7 B
+united states,$46.92 B,o'reilly automotive,$13.33 B
+united states,$30.86 B,biogen,$10.35 B
+france,$15.81 B,publicis groupe,$13.87 B
+south korea,$1.7 B,hanwha,$46.14 B
+united states,$24.17 B,the mosaic company,$12.36 B
+india,$56.8 B,bharti airtel,$14.98 B
+china,$16.04 B,daqin railway,$11.83 B
+united states,$60.27 B,uber,$17.45 B
+switzerland,$34.46 B,stmicroelectronics,$12.78 B
+china,$9.58 B,gemdale,$14.32 B
+belgium,$9.71 B,ageas,$14.42 B
+taiwan,$11.13 B,quanta computer,$40.44 B
+canada,$18.04 B,george weston,$43.37 B
+united states,$31.02 B,weyerhaeuser,$10.2 B
+south korea,$11.11 B,korea electric power,$52.9 B
+united states,$21.51 B,fox,$13.59 B
+japan,$11.58 B,mitsubishi heavy industries,$34.06 B
+united states,$16.98 B,steel dynamics,$20.43 B
+japan,$100.89 B,keyence,$6.43 B
+china,$51.73 B,longi green energy technology,$11.76 B
+united kingdom,$56.35 B,reckitt benckiser group,$18.2 B
+india,$16.3 B,coal india,$14.03 B
+japan,$8.21 B,aisin seiki,$35.4 B
+united states,$42.6 B,digital realty trust,$4.77 B
+india,$22.12 B,tata motors,$39.04 B
+japan,$10.54 B,resona holdings,$7.46 B
+united states,$41.33 B,simon property group,$5.12 B
+south korea,$6.97 B,industrial bank of korea,$9.44 B
+hong kong,$24.76 B,clp holdings,$10.8 B
+kuwait,$25.78 B,national bank of kuwait,$3.82 B
+singapore,$32.06 B,singtel,$11.84 B
+united states,$28.64 B,coinbase,$7.84 B
+united states,$20.04 B,centerpoint energy,$8.35 B
+saudi arabia,$44.95 B,saudi arabian mining,$7.14 B
+china,$6.47 B,china cinda asset management,$10.29 B
+japan,$11.72 B,asahi kasei,$21.79 B
+japan,$10.9 B,nec,$27.72 B
+united states,$16.81 B,united airlines holdings,$28.98 B
+united states,$17.88 B,mgm resorts,$9.68 B
+netherlands,$28.7 B,dsm,$10.88 B
+indonesia,$31.88 B,telkom indonesia,$10.02 B
+poland,$7.55 B,pkn orlen,$34.07 B
+china,$11.51 B,guotai junan securities,$6.7 B
+norway,$19.14 B,norsk hydro,$16.89 B
+taiwan,$23.28 B,formosa plastics,$9.79 B
+united states,$9.18 B,nrg energy,$26.9 B
+malaysia,$21.18 B,public bank,$4.51 B
+china,$9.67 B,tcl,$25.27 B
+china,$12.74 B,huatai securities,$6.04 B
+united states,$23.53 B,kellogg,$14.18 B
+china,$37.83 B,inner mongolia yili,$16.52 B
+united kingdom,$14.8 B,wpp,$17.61 B
+united states,$16.35 B,omnicom group,$14.27 B
+japan,$11.78 B,sekisui house,$23.39 B
+united states,$34.52 B,cheniere energy,$17.64 B
+sweden,$26.55 B,sandvik,$11.61 B
+thailand,$12.8 B,siam cement,$16.56 B
+japan,$20.31 B,east japan railway,$17.67 B
+united arab emirates,$19.45 B,abu dhabi commercial bank,$4.23 B
+china,$4.43 B,huishang bank,$10.26 B
+china,$13.08 B,great wall motor,$20.52 B
+china,$9.56 B,haitong securities,$7.8 B
+china,$6.23 B,dongfeng motor group,$17.5 B
+china,$3.9 B,china reinsurance group,$25.39 B
+hong kong,$20.39 B,henderson land,$3.07 B
+south korea,$32.16 B,samsung sdi,$11.84 B
+canada,$24.04 B,fortis (canada),$7.54 B
+south korea,$10.82 B,sk telecom,$14.63 B
+netherlands,$12.8 B,hal trust,$8.68 B
+brazil,$56.14 B,banco btg pactual,$2.71 B
+united states,$31.15 B,baker hughes company,$20.59 B
+united states,$37.32 B,gallagher,$8.05 B
+bermuda,$12.67 B,everest re group,$11.87 B
+united states,$41.49 B,amphenol,$10.88 B
+united states,$13.1 B,american airlines group,$34.77 B
+united states,$48.87 B,kla,$8.16 B
+japan,$29.26 B,astellas pharma,$11.84 B
+japan,$17.87 B,otsuka holding,$13.64 B
+china,$3.01 B,china bohai bank,$10.56 B
+thailand,$10.82 B,kasikornbank,$8.14 B
+israel,$12.88 B,bank hapoalim,$5.64 B
+australia,$22.85 B,woodside petroleum,$7.01 B
+hong kong,$33.32 B,mtr,$6.07 B
+russia,$10.46 B,tatneft,$17.39 B
+india,$4.1 B,power finance,$10.15 B
+united states,$85.74 B,zoetis,$7.78 B
+switzerland,$48.01 B,lonza group,$5.92 B
+france,$9.86 B,eiffage,$22.69 B
+japan,$7.08 B,sumitomo chemical,$24.41 B
+united states,$68.84 B,vertex pharmaceuticals,$7.6 B
+united states,$20.39 B,constellation energy,$19.65 B
+china,$4.19 B,cifi holdings group,$16.77 B
+austria,$3.98 B,raiffeisen bank international,$9.05 B
+united states,$10.16 B,whirlpool,$21.98 B
+germany,$14.43 B,siemens energy,$32.51 B
+united states,$13.27 B,westrock,$19.3 B
+south korea,$7.36 B,samsung fire & marine,$18.34 B
+united states,$8.75 B,us steel,$20.45 B
+finland,$18.74 B,upm-kymmene,$11.6 B
+taiwan,$16.21 B,formosa chemicals,$13.1 B
+south korea,$14.96 B,sk innovation,$40.91 B
+sweden,$16.49 B,telia,$10.29 B
+japan,$7.85 B,t&d holdings,$20.27 B
+spain,$6.24 B,mapfre,$23.48 B
+india,$39.09 B,hcl technologies,$11.19 B
+japan,$12.58 B,sumitomo realty,$8.42 B
+united states,$16.34 B,westlake chemical,$11.78 B
+united states,$30.79 B,apollo global management,$4.83 B
+united states,$22.72 B,united rentals,$9.72 B
+united states,$23.08 B,diamondback energy,$6.8 B
+united states,$31.04 B,otis worldwide,$14.3 B
+china,$4.46 B,chongqing rural bank,$8.68 B
+united states,$27.77 B,ball,$13.93 B
+finland,$15.68 B,stora enso,$12.01 B
+taiwan,$15.1 B,yang ming marine transport,$11.95 B
+united kingdom,$7.93 B,phoenix group holdings,$33.53 B
+india,$38.44 B,wipro,$10.07 B
+india,$20.57 B,power grid of india,$5.61 B
+south africa,$8.83 B,absa group,$9.04 B
+russia,$12.07 B,novolipetsk steel,$16.18 B
+japan,$8.61 B,sumitomo electric,$29.99 B
+united kingdom,$9.31 B,st. james's place,$24.42 B
+india,$14.77 B,grasim industries,$12.35 B
+united kingdom,$21.23 B,segro,$751 M
+taiwan,$19.32 B,mega financial holding,$2.62 B
+china,$16.05 B,zhongsheng group holdings,$27.15 B
+taiwan,$4.88 B,shin kong financial,$15.59 B
+united states,$20.82 B,cms energy,$7.4 B
+chile,$4.84 B,quinenco,$8.46 B
+germany,$12.57 B,evonik industries,$18.69 B
+china,$41.33 B,east money information,$2.13 B
+australia,$13.04 B,qbe insurance group,$13.95 B
+malaysia,$11.85 B,tenaga nasional,$12.7 B
+south korea,$36.14 B,naver,$6.14 B
+japan,$12.01 B,tdk,$16.26 B
+japan,$12.09 B,nomura,$12.89 B
+china,$3.73 B,jinke property group,$15.58 B
+japan,$5.79 B,tokyo electric power,$47.93 B
+united states,$22.9 B,cdw,$20.82 B
+united states,$46.07 B,the hershey company,$8.97 B
+india,$42.06 B,itc,$7.91 B
+poland,$8.57 B,pgnig group,$18.29 B
+south africa,$19.98 B,mtn group,$12.28 B
+united kingdom,$39.01 B,compass group,$24.5 B
+united states,$18.02 B,wr berkley,$9.46 B
+united states,$59.77 B,moody's,$6.22 B
+united states,$18.97 B,genuine parts,$19.7 B
+china,$37.02 B,beijing-shanghai high-speed railway,$4.75 B
+china,$9.13 B,aluminum corp of china,$41.84 B
+japan,$8.41 B,kansai electric power,$26.01 B
+united states,$70.56 B,public storage,$3.42 B
+china,$53.27 B,china international travel service,$10.37 B
+switzerland,$49.37 B,sika,$10.12 B
+united states,$14.95 B,signature bank,$2.48 B
+united states,$30.58 B,t rowe price,$7.67 B
+united states,$31.74 B,international flavors & fragrances,$11.66 B
+italy,$20.11 B,atlantia,$6.21 B
+united states,$47.95 B,roper technologies,$6.09 B
+china,$21.72 B,shanghai international port,$5.18 B
+japan,$43.87 B,daiichi sankyo,$9.42 B
+japan,$11.45 B,rakuten,$15.31 B
+united states,$13.25 B,franklin resources,$8.72 B
+ireland,$7.83 B,bank of ireland,$8.37 B
+japan,$8.9 B,mitsui osk lines,$10.81 B
+saudi arabia,$24.3 B,saudi british bank,$2.38 B
+united states,$25 B,ameren,$6.39 B
+taiwan,$34.87 B,chunghwa telecom,$7.54 B
+sweden,$29.86 B,assa abloy,$11.07 B
+china,$9.76 B,zte,$17.64 B
+netherlands,$6.61 B,asr nederland,$11.72 B
+united states,$17.33 B,conagra brands,$11.37 B
+germany,$9.18 B,commerzbank,$14.84 B
+india,$32.15 B,bajaj finserv,$8.64 B
+south korea,$4.73 B,hyundai steel,$19.95 B
+south korea,$5.38 B,lg display,$26.09 B
+south korea,$6.89 B,kt,$21.74 B
+china,$1.7 B,logan property holdings,$12.2 B
+united states,$37.09 B,public service enterprise group,$8.73 B
+russia,$4.47 B,en+ group international,$14.12 B
+turkey,$3.2 B,isbank,$12.25 B
+united states,$16.64 B,expeditors international,$16.68 B
+luxembourg,$8.59 B,ternium,$15.98 B
+czech republic,$23.39 B,cez group,$10.9 B
+japan,$9.3 B,isuzu motors,$21.7 B
+japan,$20.81 B,renesas electronics,$9.05 B
+netherlands,$46.2 B,universal music group,$10.05 B
+italy,$4.08 B,unipol gruppo,$16.89 B
+japan,$5.49 B,sbi holdings,$5.58 B
+hong kong,$26.31 B,techtronic industries,$13.2 B
+spain,$19.21 B,ferrovial,$8.01 B
+malaysia,$12.22 B,cimb group holdings,$5.66 B
+finland,$25.87 B,kone,$12.43 B
+south korea,$3.08 B,e-mart,$21.77 B
+china,$9.87 B,gf securities,$5.85 B
+china,$9.86 B,china merchants securities,$5.7 B
+united states,$9.53 B,annaly capital management,$731 M
+australia,$18.25 B,coles group,$29.38 B
+japan,$24.77 B,central japan railway,$8.25 B
+turkey,$2.79 B,sabanci holding,$10.51 B
+taiwan,$11.06 B,yuanta financial holding,$5.77 B
+chile,$3.49 B,antarchile,$24.9 B
+south korea,$10.81 B,hmm,$12.05 B
+ireland,$18.04 B,seagate technology,$11.97 B
+united states,$11.24 B,alleghany,$12 B
+china,$15.04 B,guosen securities,$3.76 B
+united states,$16.03 B,avis budget group,$9.31 B
+china,$5.72 B,jiangxi copper,$68.46 B
+japan,$6.49 B,mitsubishi ufj lease,$14.05 B
+japan,$13.03 B,sumitomo metal mining,$10.71 B
+taiwan,$9.22 B,asustek computer,$19.16 B
+united kingdom,$16.58 B,associated british foods,$18.99 B
+china,$22 B,china national nuclear power,$9.6 B
+china,$10.03 B,china international capital,$3.61 B
+china,$11.4 B,china molybdenum,$26.77 B
+united states,$11.77 B,equitable holdings,$11.04 B
+germany,$8.65 B,covestro,$18.8 B
+united kingdom,$6.99 B,m&g,$23.38 B
+canada,$57.93 B,shopify,$4.61 B
+china,$4.22 B,shanghai construction,$43.4 B
+sweden,$19.43 B,essity,$14.59 B
+united states,$25.52 B,ww grainger,$13.02 B
+india,$5.53 B,canara bank,$12.68 B
+united states,$12.43 B,viatris,$17.86 B
+united states,$29.84 B,american water works,$3.93 B
+taiwan,$20.33 B,united microelectronics,$7.63 B
+united states,$21.23 B,vf,$11.62 B
+united states,$90.64 B,intuitive surgical,$5.91 B
+italy,$18.32 B,snam,$3.9 B
+denmark,$28.23 B,vestas wind systems,$18.42 B
+japan,$11.61 B,subaru,$25.15 B
+china,$2.46 B,jiangsu zhongnan construction group,$14 B
+denmark,$17.76 B,carlsberg,$10.59 B
+united states,$10.86 B,builders firstsource,$19.89 B
+china,$16.03 B,semiconductor manufacturing international,$5.51 B
+poland,$10.9 B,pko bank polski,$4.45 B
+china,$14.99 B,enn energy holdings,$14.44 B
+hong kong,$8.86 B,wh group,$27.29 B
+united kingdom,$17.53 B,amcor,$13.59 B
+south korea,$2.81 B,korea gas,$24.03 B
+united states,$7.68 B,jefferies financial,$8.64 B
+russia,$11.5 B,severstal,$11.63 B
+united states,$31.95 B,alexandria real estate equities,$2.11 B
+switzerland,$10.34 B,julius baer group,$4.95 B
+south africa,$9.09 B,sanlam,$14.42 B
+united arab emirates,$14.07 B,emaar properties,$7.86 B
+vietnam,$16.94 B,joint stock commercial bank for foreign trade of vietnam,$3.91 B
+united states,$37.7 B,motorola solutions,$8.17 B
+china,$9.28 B,shanghai rural commercial bank,$5.77 B
+brazil,$6.76 B,braskem,$19.57 B
+india,$7.54 B,bank of baroda,$12.06 B
+south korea,$9.91 B,s-oil,$23.98 B
+united states,$23.18 B,tractor supply,$12.96 B
+australia,$10.27 B,suncorp group,$9.88 B
+hungary,$7.08 B,mol hungarian oil,$19.64 B
+ireland,$28.85 B,aptiv,$15.62 B
+united states,$7.04 B,voya financial,$4.23 B
+south korea,$3.37 B,gs holdings,$17.67 B
+brazil,$10.16 B,gerdau (cosigua),$14.52 B
+united states,$34.27 B,equity residential,$2.43 B
+qatar,$16.4 B,qatar islamic bank,$1.82 B
+united states,$29.2 B,hormel foods,$11.97 B
+china,$5.46 B,shenwan hongyuan group,$6.81 B
+united states,$7.59 B,reinsurance group of america,$16.65 B
+united states,$16.16 B,quest diagnostics,$10.68 B
+belgium,$10.12 B,solvay,$13.52 B
+canada,$21.29 B,pembina pipeline,$6.95 B
+saudi arabia,$17.6 B,banque saudi fransi,$2.19 B
+japan,$33.91 B,smc,$6.4 B
+south africa,$15.28 B,sasol,$15.54 B
+united states,$11.66 B,molson coors brewing,$10.28 B
+united states,$6.91 B,macy's,$25.29 B
+colombia,$10.89 B,bancolombia,$6.08 B
+united states,$41.75 B,cintas,$7.62 B
+china,$5.48 B,china international marine,$25.3 B
+china,$7.46 B,huaneng power international,$31.47 B
+canada,$27.23 B,restaurant brands international,$5.74 B
+poland,$6.44 B,grupa pzu,$10.1 B
+japan,$19.19 B,kao,$12.91 B
+china,$1.85 B,agile group holdings,$11.52 B
+united states,$7.57 B,arrow electronics,$34.48 B
+china,$8.54 B,shenzhen overseas,$14.88 B
+united states,$7.98 B,tenet healthcare,$19.45 B
+colombia,$4.78 B,grupo aval,$10.27 B
+thailand,$17.53 B,cp all,$17.65 B
+hong kong,$14.82 B,geely automobile holdings,$15.76 B
+united kingdom,$5.96 B,centrica,$20.28 B
+united arab emirates,$12.38 B,dubai islamic bank,$3.16 B
+brazil,$14.66 B,suzano papel e celulose,$7.59 B
+hong kong,$18.28 B,link reit,$1.47 B
+canada,$35.28 B,yum! brands,$6.58 B
+canada,$19.43 B,first quantum minerals,$8.29 B
+ireland,$12.59 B,aercap holdings,$4.52 B
+united states,$12.21 B,first horizon,$3.15 B
+japan,$10.34 B,dentsu,$9.88 B
+united states,$19.08 B,molina healthcare,$27.77 B
+india,$3.62 B,union bank of india,$11.28 B
