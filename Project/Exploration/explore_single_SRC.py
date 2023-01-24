@@ -61,6 +61,29 @@ class Explorer:
         
         return inverted_index
 
+    def correlation_metrix_Levi(self,inverted_index):
+        list_of_tokens=sorted(inverted_index.keys())
+        
+
+        List1 = list_of_tokens
+        List2 = list_of_tokens
+
+        #Matrix = np.zeros((len(List1),len(List2)),dtype=np.int_)
+        correlazione=dict()
+
+        for i in range(0,len(List1)):
+            correlazione[List1[i]]=[]
+            for j in range(0,len(List2)):
+                compute_dist=distance(List1[i],List2[j])
+                print('eval',List1[i],List2[j],'->',compute_dist)
+                
+                correlazione[List1[i]].append(distance(List1[i],List2[j]))
+
+        
+        matrice_correlazione=pd.DataFrame(data=correlazione,columns=list_of_tokens,index=list_of_tokens)
+
+
+        return matrice_correlazione
     def explore_single_data(self, base_path, src):
 
         base_path=base_path
@@ -68,6 +91,8 @@ class Explorer:
         file_all_columns4ds='colonnePerdataset.txt'
 
         file_inverted_index='indice_invertito.txt'
+
+        file_matrice_correlazione='matrice_correlazioneLevinstein.txt'
 
         
 
@@ -93,5 +118,14 @@ class Explorer:
             string=string+ k+'->'+str(inverted_index[k])+'\n'
         
         self.write_infos_on_file(file_inverted_index,base_path,string)
+
+        correlation_matrix_levi=self.correlation_metrix_Levi(inverted_index)
+
+        correlation_matrix_levi.to_csv(os.path.join(base_path,file_matrice_correlazione))
+
+
+
+
+        
             
             

@@ -1,0 +1,10 @@
+,address,headquarters,industry,market_cap,name,number_of_employees,revenue,telephone,website
+address,0,7,7,9,6,16,7,9,7
+headquarters,7,0,8,11,10,16,9,10,9
+industry,7,8,0,9,7,17,8,9,7
+market_cap,9,11,9,0,8,15,8,9,9
+name,6,10,7,8,0,16,6,8,6
+number_of_employees,16,16,17,15,16,0,16,14,17
+revenue,7,9,8,8,6,16,0,6,5
+telephone,9,10,9,9,8,14,6,0,7
+website,7,9,7,9,6,17,5,7,0

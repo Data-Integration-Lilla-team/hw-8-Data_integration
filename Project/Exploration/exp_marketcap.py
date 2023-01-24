@@ -80,6 +80,37 @@ def create_inverted_index(cols4file):
 
 import seaborn as sns
 import matplotlib.pyplot as plt
+
+import spacy
+
+
+def create_matrix_spacy(inverted_index):
+    list_of_tokens=sorted(inverted_index.keys())
+    
+
+    List1 = list_of_tokens
+    List2 = list_of_tokens
+
+    nlp=spacy.load("en_core_web_sm")
+    
+    #Matrix = np.zeros((len(List1),len(List2)),dtype=np.int_)
+    correlazione=dict()
+
+    for i in range(0,len(List1)):
+        correlazione[List1[i]]=[]
+        for j in range(0,len(List2)):
+            compute_dist=distance(List1[i],List2[j])
+            print('eval',List1[i],List2[j],'->',compute_dist)
+            word1=nlp(List1[i])
+            word2=nlp(List2[j])
+            
+            correlazione[List1[i]].append(word1.similarity(word2))
+
+    
+    matrice_correlazione=pd.DataFrame(data=correlazione,columns=list_of_tokens,index=list_of_tokens)
+
+    return matrice_correlazione
+
 def create_inverted_index_on_similarity(inverted_index):
     list_of_tokens=sorted(inverted_index.keys())
     
@@ -167,6 +198,10 @@ if __name__=='__main__':
 
     matrice_correlazione=create_inverted_index_on_similarity(inverted_index)
     
+
+    plot_correlation(matrice_correlazione,base_path)
+
+    matrice_correlazione_scpy=create_matrix_spacy(inverted_index)
 
     plot_correlation(matrice_correlazione,base_path)
     #inverted_index_based_on_sim=create_inverted_index_on_similarity(inverted_index)

@@ -1,0 +1,6 @@
+,foundation_year,headquarter,industry,name,ownership
+foundation_year,0,12,12,12,13
+headquarter,12,0,8,9,11
+industry,12,8,0,7,7
+name,12,9,7,0,8
+ownership,13,11,7,8,0
