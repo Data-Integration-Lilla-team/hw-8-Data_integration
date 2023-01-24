@@ -1,1 +1,2 @@
 TEAM:06-MarScoToc-> COLS: ['foundation_year', 'headquarter', 'industry', 'name', 'ownership']
+TEAM:matrice_ngrams-> COLS: ['foundation_year', 'headquarter', 'industry', 'name', 'ownership']
