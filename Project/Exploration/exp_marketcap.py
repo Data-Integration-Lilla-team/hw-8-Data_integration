@@ -1,6 +1,8 @@
 import pandas as pd
 import os
+import numpy as np
 from parser_custom import Parser_custom
+from Levenshtein import distance
 
 
 #crea un dizionario composto da:
@@ -11,7 +13,7 @@ def get_file_names(base_path):
     for f in os.listdir(base_path):
         file=os.path.join(base_path,f)
         if os.path.isfile(file):
-            if '.txt' not in file:
+            if '.' not in file:
                 file_names[f]=file
 
     return file_names
@@ -53,14 +55,78 @@ def get_col_4_files(files):
 
     return col_4_team
 
-def write_infos_on_file(file,basePath,col4file):
-    fileTGT=os.path.join(base_path,file)
+def write_infos_on_file(file,basePath,string):
+    fileTGT=os.path.join(basePath,file)
     with open(fileTGT, 'w') as f:
-        for k in col4file.keys():
-            string='TEAM:'+k+'-> COLS: '+ str(col4file[k])+'\n'
+    
             f.write(string)
 
         
+
+def create_inverted_index(cols4file):
+    inverted_index=dict()
+    for k in cols4file.keys():
+        elements=cols4file[k]
+        for e in elements:
+            if e in inverted_index:
+                inverted_index[e].append(k)
+            else:
+                inverted_index[e]=[k]
+    
+    return inverted_index
+
+
+#codice base
+
+import seaborn as sns
+import matplotlib.pyplot as plt
+def create_inverted_index_on_similarity(inverted_index):
+    list_of_tokens=sorted(inverted_index.keys())
+    
+
+    List1 = list_of_tokens
+    List2 = list_of_tokens
+
+    #Matrix = np.zeros((len(List1),len(List2)),dtype=np.int_)
+    correlazione=dict()
+
+    for i in range(0,len(List1)):
+        correlazione[List1[i]]=[]
+        for j in range(0,len(List2)):
+            compute_dist=distance(List1[i],List2[j])
+            print('eval',List1[i],List2[j],'->',compute_dist)
+            
+            correlazione[List1[i]].append(distance(List1[i],List2[j]))
+
+    
+    matrice_correlazione=pd.DataFrame(data=correlazione,columns=list_of_tokens,index=list_of_tokens)
+
+    return matrice_correlazione
+
+import matplotlib.pyplot as plt
+def plot_correlation(matrix, base_path):
+    sns.set_theme(style="white")
+
+    
+
+    
+
+    # Generate a mask for the upper triangle
+    mask = np.triu(np.ones_like(matrix, dtype=bool))
+
+    # Set up the matplotlib figure
+    f, ax = plt.subplots(figsize=(11, 9))
+
+    # Generate a custom diverging colormap
+    cmap = sns.diverging_palette(230, 20, as_cmap=True)
+
+    # Draw the heatmap with the mask and correct aspect ratio
+    plot=sns.heatmap(matrix, mask=mask, cmap=cmap, vmax=20, center=0,
+                square=True, linewidths=.5, cbar_kws={"shrink": .5})
+    
+    plt.show()
+    path=base_path+'\\Correlazione.png'
+    #plt.savefig(path)
 
 
 
@@ -70,14 +136,42 @@ if __name__=='__main__':
 
     file_all_columns4ds='colonnePerdataset.txt'
 
-    file_names=get_file_names(base_path)
+    file_inverted_index='indice_invertito.txt'
 
+    file_names=get_file_names(base_path)
     #compute columns: per ogni file definiamo le colonne
     col4file=get_col_4_files(file_names)
-
-    write_infos_on_file(file_all_columns4ds,base_path,col4file)
+    string=''
+    #preparazioen stringa da scrivere
     for k in col4file.keys():
-        print('TEAM:',k,'-> COLS: ',col4file[k])
+            string=string+'TEAM:'+k+'-> COLS: '+ str(col4file[k])+'\n'
+
+    write_infos_on_file(file_all_columns4ds,base_path,string)
+    
+
+    #creazione di un indice invertito dove andiamo ad inserire nome_colonna->doc
+    print('inverted index')
+    inverted_index=create_inverted_index(col4file)
+
+    #crittura su file
+    string=''
+    for k in sorted(inverted_index):
+            string=string+ k+'->'+str(inverted_index[k])+'\n'
+    
+    write_infos_on_file(file_inverted_index,base_path,string)
+
+
+    #creazione di un indice invertito basato sulla similarità di chiavi
+
+    threshold=0.9   #valore minimo per definire due di chiavi uguali
+
+    matrice_correlazione=create_inverted_index_on_similarity(inverted_index)
+    
+
+    plot_correlation(matrice_correlazione,base_path)
+    #inverted_index_based_on_sim=create_inverted_index_on_similarity(inverted_index)
+
+    
 
     
 
