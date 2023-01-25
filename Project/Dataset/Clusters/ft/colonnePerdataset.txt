@@ -2,3 +2,4 @@ TEAM:01-DDD-> COLS: ['absolute_growth_rate_pct', 'compound_annual_growth_rate_ca
 TEAM:03-gren-> COLS: ['country', 'employees_number_2017', 'employees_number_2020', 'founding_year', 'name', 'revenue_2017_eu', 'revenue_2020_eu', 'sector']
 TEAM:07-silvestri-> COLS: ['country', 'employees_2017', 'employees_2020', 'founding_year', 'name', 'revenue_2017', 'revenue_2020', 'sector']
 TEAM:08-slytherin-> COLS: ['country', 'employees', 'founded', 'industry', 'link', 'name', 'revenue']
+TEAM:matrice_ngrams-> COLS: ['absolute_growth_rate_pct', 'compound_annual_growth_rate_cagr_pct', 'country', 'employees', 'employees_2017', 'employees_2020', 'employees_number_2017', 'employees_number_2020', 'founded', 'founding_year', 'industry', 'link', 'name', 'number_of_employees_2017', 'number_of_employees_2020', 'revenue', 'revenue_2017', 'revenue_2017_eu', 'revenue_2017_euro', 'revenue_2020', 'revenue_2020_eu', 'revenue_2020_euro', 'sector']

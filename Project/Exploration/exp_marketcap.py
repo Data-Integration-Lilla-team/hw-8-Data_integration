@@ -100,7 +100,7 @@ def create_matrix_spacy(inverted_index):
         correlazione[List1[i]]=[]
         for j in range(0,len(List2)):
             compute_dist=distance(List1[i],List2[j])
-            print('eval',List1[i],List2[j],'->',compute_dist)
+            
             word1=nlp(List1[i])
             word2=nlp(List2[j])
             
@@ -111,7 +111,9 @@ def create_matrix_spacy(inverted_index):
 
     return matrice_correlazione
 
-def compute_similarityLEVI(inverted_index):
+def compute_similarityLEVI(inverted_index,thersh):
+
+    sim4column=dict()
     list_of_tokens=sorted(inverted_index.keys())
     
 
@@ -123,16 +125,24 @@ def compute_similarityLEVI(inverted_index):
 
     for i in range(0,len(List1)):
         correlazione[List1[i]]=[]
+        if List1[i] not in sim4column:
+            sim4column[List1[i]]=[]
         for j in range(0,len(List2)):
-            compute_dist=distance(List1[i],List2[j])
-            print('eval',List1[i],List2[j],'->',compute_dist)
+
             
+            compute_dist=distance(List1[i],List2[j])
+            if compute_dist!=0:
+                compute_dist=1/compute_dist
+            if compute_dist>thersh or compute_dist==0:
+                tupla=(List2[j],compute_dist)
+                sim4column[List1[i]].append(tupla)
             correlazione[List1[i]].append(compute_dist)
 
     
+
     matrice_correlazione=pd.DataFrame(data=correlazione,columns=list_of_tokens,index=list_of_tokens)
 
-    return matrice_correlazione
+    return [matrice_correlazione,sim4column]
 
 import string
 from sklearn.metrics.pairwise import cosine_similarity
@@ -176,17 +186,17 @@ def compute_similarityCOS(inverted_index):
 
     
     matrice_correlazione=pd.DataFrame(data=cos_sim,columns=list_of_tokens,index=list_of_tokens)
-    print(matrice_correlazione)
+    
 
     return matrice_correlazione
 
 
 import ngram
-def compute_sim_ngrams(inverted_index):
+def compute_sim_ngrams(inverted_index,thresh=0.0):
     N=3
     list_of_tokens=sorted(inverted_index.keys())
     
-
+    sim4column=dict()
     List1 = list_of_tokens
     List2 = list_of_tokens
 
@@ -195,20 +205,25 @@ def compute_sim_ngrams(inverted_index):
 
     for i in range(0,len(List1)):
         correlazione[List1[i]]=[]
+        if List1[i] not in sim4column:
+            sim4column[List1[i]]=[]
         for j in range(0,len(List2)):
             element1=List1[i]
             element2=List2[j]
             
-            print(ngram.NGram.compare('market','market cap'))
+           
             compute_dist=ngram.NGram.compare(element1,element2,N=3)
-            print('eval',List1[i],List2[j],'->',compute_dist)
+            
             
             correlazione[List1[i]].append(compute_dist)
+            if compute_dist>=thresh:
+                tupla=(List2[j],compute_dist)
+                sim4column[List1[i]].append(tupla)
 
     
     matrice_correlazione=pd.DataFrame(data=correlazione,columns=list_of_tokens,index=list_of_tokens)
-
-    return matrice_correlazione
+    
+    return [matrice_correlazione,sim4column]
 
 
 import matplotlib.pyplot as plt
@@ -231,6 +246,14 @@ def plot_correlation(df, base_path,name,threshold=0): # Define cmap for heatmap
     plt.show()
     fig.savefig(os.path.join(base_path,name), bbox_inches='tight', transparent=True)
 
+
+def compute_sim4column(sim4column):
+    for k in sim4column.keys():
+        listOf_corr=list(sim4column[k])
+        listOf_corr.sort(key=lambda a: a[1])
+        print (k)
+        for e in listOf_corr:
+            print(e)
 
 
 if __name__=='__main__':  
@@ -273,22 +296,73 @@ if __name__=='__main__':
     matrice_levi='matrice_levi'
     threshold=0.9   #valore minimo per definire due di chiavi uguali
 
-    matrice_correlazione=compute_similarityLEVI(inverted_index)
+    #Levi
+    col2sim='similarità_tra_colonne_Levi.txt'
+    stringa=''
+    min=0.2
+    max=0.6
+    step=0.1
+    i=min
+    while(i<=max):
+        stringa=stringa+'threshold:'+str(i)+'\n'
+        print('threshold=',i)
+        res=compute_similarityLEVI(inverted_index,i)
+        matrice_correlazione=res[0]
+        sim4column=res[1]
+        for k in sim4column.keys():
+            stringa=stringa+k+'->'
+            for e in sim4column[k]:
+                stringa=stringa+str(e)
+            
+            stringa=stringa+'\n'
+        stringa=stringa+'\n'
+        i+=step
     
-    maxValues = max(matrice_correlazione.max(skipna=False))
+    write_infos_on_file(col2sim,base_path,stringa)
+    compute_sim4column(sim4column)
+
+    
+
+
+    
     
     plot_correlation(matrice_correlazione,base_path,matrice_levi,12)
+
+
     
 
 
 
     #Ngrams
-   
-    matrice_correlazione=compute_sim_ngrams(inverted_index)
+    col2sim='similarità_tra_colonne_ngrams.txt'
+    stringa=''
+    min=0.2
+    max=0.6
+    step=0.1
+    i=min
+    while(i<=max):
+        stringa=stringa+'threshold:'+str(i)+'\n'
+        print('threshold=',i)
+        res=compute_sim_ngrams(inverted_index,i)
+        matrice_correlazione=res[0]
+        sim4column=res[1]
+        for k in sim4column.keys():
+            stringa=stringa+k+'->'
+            for e in sim4column[k]:
+                stringa=stringa+str(e)
+            
+            stringa=stringa+'\n'
+        stringa=stringa+'\n'
+        i+=step
+    
+    write_infos_on_file(col2sim,base_path,stringa)
 
+    
+
+    
     matrice_correlazione.to_csv(os.path.join(base_path,matrice_correlazioneNgrams))
 
-    maxValues = max(matrice_correlazione.max(skipna=False))
+   
     
     plot_correlation(matrice_correlazione,base_path, matrice_correlazioneNgrams,0.4)
     

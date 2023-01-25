@@ -1,2 +1,3 @@
 TEAM:09-wissel-> COLS: ['company_id', 'company_status', 'company_type', 'dissolution_date', 'id', 'incorporation_date', 'name', 'office_address', 'registration_date', 'url']
 TEAM:10-DeBiGa-> COLS: ['company_creation_date', 'company_number', 'company_status', 'company_type', 'name', 'nature_of_business', 'registered_office_address']
+TEAM:matrice_ngrams-> COLS: ['company_creation_date', 'company_id', 'company_number', 'company_status', 'company_type', 'dissolution_date', 'id', 'incorporation_date', 'name', 'nature_of_business', 'office_address', 'registered_office_address', 'registration_date', 'url']

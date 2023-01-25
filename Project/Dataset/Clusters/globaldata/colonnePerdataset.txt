@@ -1,1 +1,2 @@
 TEAM:10-DeBiGa-> COLS: ['address', 'headquarters', 'industry', 'market_cap', 'name', 'number_of_employees', 'revenue', 'telephone', 'website']
+TEAM:matrice_ngrams-> COLS: ['address', 'headquarters', 'industry', 'market_cap', 'name', 'number_of_employees', 'revenue', 'telephone', 'website']

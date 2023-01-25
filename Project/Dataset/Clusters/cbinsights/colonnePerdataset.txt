@@ -1,2 +1,3 @@
 TEAM:01-DDD-> COLS: ['city', 'country', 'datejoined', 'founded', 'industry', 'investors', 'name', 'stage', 'totalraised', 'valuation']
 TEAM:04-iGMM-> COLS: ['city', 'company', 'country', 'datejoined', 'industry', 'selectinvestors', 'valuation']
+TEAM:matrice_ngrams-> COLS: ['city', 'company', 'country', 'datejoined', 'founded', 'industry', 'investors', 'name', 'selectinvestors', 'stage', 'totalraised', 'valuation']
