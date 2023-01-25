@@ -1,0 +1,1001 @@
+,name,country,sector,revenue_2020_EU,revenue_2017_EU,employees_number_2020,employees_number_2017,founding_year
+0,Swappie,Finland,Technology,97611814,507000,218,1,2016
+1,Kilo Health,Lithuania,Health,57318766,344428,177,10,2013
+2,OCI,UK,Financial Services,568322073,4325512,32,4,2012
+3,OnlyFans,UK,Technology,316732986,2652185,800,4,2016
+4,Enpal,Germany,Energy,56109613,486165,365,9,2017
+5,MR Consulting,Germany,Waste management & recycling,13165586,150908,9,2,2017
+6,Thriva,UK,Health,18732563,251668,57,12,2015
+7,Exotec,France,Industrial Goods,47597000,706700,200,15,2015
+8,Winelivery,Italy,Ecommerce,7337290,111500,10,1,2015
+9,Instabox,Sweden,Technology,24484879,392055,117,5,2015
+10,Waterdrop,Austria,Food & Beverage,41205930,680197,180,12,2016
+11,One Lease,France,Support Services,9015211,153046,11,2,2016
+12,Datlas*,Italy,Technology,9034926,155406,251,13,2017
+13,Zego,UK,Fintech,12158046,229201,224,36,2016
+14,HCL-Logistics,Germany,Transport,11387156,238118,24,5,2017
+15,Popsa,UK,Technology,21455864,454975,34,4,2016
+16,Unit8,Switzerland,Technology,7234981,149397,41,2,2017
+17,Luoto Company,Finland,Technology,14338668,325585,49,6,2016
+18,Journi Print,Austria,Ecommerce,6851839,160624,29,9,2014
+19,Portify,France,Support Services,11583215,274575,228,23,2017
+20,Tibber,Norway,Energy,30886935,782918,45,8,2015
+21,Rascal Industry,Poland,Fashion,9008822,238451,18,6,2013
+22,Pegaso Security,Italy,Support Services,8375180,207120,509,20,2017
+23,Tide,UK,Fintech,16136633,416562,581,72,2016
+24,Euro Top Brand,Italy,Retail,13888900,363010,1,1,2017
+25,Bold Security Group,UK,Support Services,6238378,181772,26,6,2011
+26,Play Magnus Group,Norway,Games industry,6461790,214673,140,10,2013
+27,Blue Whale Growth Fund,UK,Financial Services,5189391,170950,7,1,2016
+28,Kazidomi,Belgium,Ecommerce,8042499,263663,65,3,2016
+29,Sun Finance,Latvia,Fintech,121306296,4044537,800,90,2012
+30,Credimi,Italy,Financial Services,11301520,381830,56,21,2015
+31,SIRPLUS,Germany,Retail,4540000,155043,133,8,2017
+32,AIHR | Academy to Innovate HR,The Netherlands,Education,3584553,125682,31,6,2016
+33,Logistics Capital Partners (LCP),Luxembourg,Property,210563743,7403458,27,9,2015
+34,Südwest Invest,Germany,Property,5820402,210820,10,2,2017
+35,CORADE (Plurimmo),France,Property,56018731,2039961,7,7,2000
+36,Carranco,Spain,Food & Beverage,4176440,155310,5,4,2006
+37,Telemedi,Poland,Health,4452513,182100,50,10,2014
+38,Inkitt,Germany,Technology,5926970,229713,56,22,2014
+39,H.K.Trading,Italy,Retail,5721590,225380,2,1,2016
+40,Attest,UK,Technology,4864178,194090,124,16,2015
+41,LGM IMMOBILIER,France,Property,2549778,101311,11,na,2016
+42,Wolfram Chain*,The Netherlands,Management Consulting,2431371,100711,29,7,2017
+43,RightNow,Germany,Technology,8951132,379771,38,3,2017
+44,EO Charging,UK,Technology,17158962,757323,63,7,2014
+45,CheTariffa.it,Italy,Support Services,2495860,110200,9,2,2013
+46,Simply,UK,Financial Services,16483836,744092,90,26,2017
+47,Salary Finance,UK,Fintech,8593220,387995,187,24,2015
+48,DBT,Sweden,Fintech,3837994,179204,10,2,2017
+49,Tutlo,Poland,Education,7778203,388565,140,15,2016
+50,Ponera,France,Ecommerce,25901607,1186853,27,4,2013
+51,Active Energy Solutions,Greece,Energy,13312033,640056,2,0,2014
+52,ACTEAM ENR,France,Energy,2133691,103240,8,2,2012
+53,Everflow,UK,Technology,64223085,3188715,70,8,2015
+54,Azure Prism,UK,Retail,4752777,238216,1,1,2016
+55,WR Logistics,Germany,Transport,11662200,585280,7,2,2017
+56,iProov,UK,Technology,7435887,376519,61,14,2011
+57,Spin Up,Italy,Advertising,4009330,203950,5,1,2017
+58,BeGreat,Germany,Retail,5141555,270090,16,4,2012
+59,Tsunami Nutrition*,Italy,Ecommerce,6945000,369000,17,2,2017
+60,Matt Sleeps,The Netherlands,Interiors,9789240,535070,6,2,2016
+61,Tessian,UK,Technology,15365580,858482,138,28,2013
+62,Solarisbank,Germany,Financial Services,35938000,2007000,369,98,2016
+63,M2DG (MyFlexoffice),France,Support Services,6630617,375323,21,2,2016
+64,Eukon,Italy,Health,6393680,362320,11,2,2004
+65,Evolution Adv,Italy,Advertising,14175780,805870,13,3,2016
+66,Making Science,Spain,Technology,57670541,3306795,274,47,2001
+67,Everli,Italy,Ecommerce,109248030,6287460,207,45,2014
+68,AppFollow,Finland,Technology,2210636,128176,73,12,2014
+69,Synerise,Poland,Technology,3999023,255062,190,40,2013
+70,ChaiKola,Poland,Food & Beverage,5158786,330763,8,4,2010
+71,Scolution,Germany,Technology,1825546,107492,12,4,2015
+72,JL&P,France,Energy,2212606,131164,15,3,2017
+73,eFarma.com,Italy,Pharmaceuticals,20150800,1199580,50,8,2017
+74,Elvie,UK,Technology,40813930,2474341,138,22,2013
+75,Farmarelax,Italy,Personal & Household Goods,4459170,270750,5,1,2010
+76,Omnisend,UK,Technology,11761268,742746,99,20,2008
+77,World Trade Group,Italy,Fashion,4897950,314150,5,1,2017
+78,BESTEAM Conseil,France,Technology,3871782,249176,32,2,2016
+79,Motorway,UK,Automobiles,4838407,320411,96,5,2016
+80,ISO Public Services,Germany,Technology,10019903,672821,26,0,2014
+81,Octopus Energy,UK,Energy,2120071949,145398192,918,106,2015
+82,CyberIAM*,UK,Cyber Security,5639335,387161,82,8,2017
+83,Cbweed*,Italy,Personal & Household Goods,3500000,245000,17,2,2017
+84,Catraport,Portugal,Automobiles,7294549,518613,46,18,2015
+85,OUIHELP,France,Support Services,3686617,262421,106,13,2016
+86,Inpay,Denmark,Fintech,23803000,1702000,67,33,2013
+87,M.G.I. Meccaniche Generali Irpine,Italy,Industrial Goods,2610700,188680,10,4,2017
+88,Glencar Construction,UK,Construction,107860442,7930094,80,7,2016
+89,Qmee,UK,Technology,12571314,925527,23,9,2010
+90,MyAppFree,Italy,Advertising,5764870,422420,10,1,2015
+91,Investa Dienstleistungen,Germany,Support Services,2176136,159707,55,8,2014
+92,Polarium Energy Solutions,Sweden,Batteries,74065413,5581858,58,19,2014
+93,Baroni Home,Italy,Ecommerce,1531358,113072,5,4,2016
+94,Dayshape,UK,Technology,3320479,247465,45,6,2013
+95,Marketers Company,Italy,Advertising,1880460,139300,8,3,2016
+96,Easo Magno,Spain,Beauty,3061854,228076,5,2,2017
+97,Greyfood,Germany,Retail,9187050,684874,10,1,2016
+98,Misfits Health,UK,Food & Beverage,2266155,171057,9,3,2016
+99,MeilleursBiens.com,France,Property,3864176,291481,5,1,2010
+100,Fasanara Capital,UK,Financial Services,11527860,882099,36,5,2011
+101,NtechLab,Cyprus,Technology,8730000,664000,122,44,2015
+102,Babylino Sensitive,Italy,Personal & Household Goods,2851840,217460,5,2,2016
+103,Fastned,The Netherlands,Technology,6890000,530667,54,24,2012
+104,Oxray,Portugal,Health,5465756,427339,6,2,2009
+105,ZEGA Invest,Germany,Property,3785340,299598,4,3,2017
+106,Abylon Consulting,Hungary,Technology,1721315,159128,7,2,2016
+107,Milrab,Norway,Ecommerce,79302201,6753191,77,20,2005
+108,Urbantz,Belgium,Technology,3031099,242368,55,7,2015
+109,Tricas Construction,UK,Construction,15880745,1281462,32,6,2017
+110,Florence One,Italy,Technology,1629099,131691,10,6,2017
+111,Ergotopia,Germany,Retail,7664825,620283,35,8,2014
+112,Mcule.com Kft.,Hungary,Chemicals & Pharmaceuticals,2683264,252713,17,5,2011
+113,Filo,Italy,Technology,10049610,815690,18,9,2014
+114,Homepal,Italy,Property,1603990,130290,11,4,2014
+115,Staffbase,Germany,Technology,26894501,2201178,310,55,2014
+116,ILON MATERIEL,France,Construction,2512300,207327,4,2,2016
+117,Bio-marine,Ireland,Personal & Household Goods,1612837,133200,25,7,2014
+118,ISODECO,France,Construction,2906133,241411,18,2,2016
+119,Treedom,Italy,Support Services,6709720,560150,42,18,2010
+120,Fenstermaxx24,Germany,Retail,8466121,712855,20,3,2016
+121,Pohl & Söhne Gerüstbau,Germany,Construction,2124763,180824,31,7,2017
+122,YSO CORP,France,Media,6689503,570012,13,3,2013
+123,Gyada Cosmetics,Italy,Beauty,1830610,156130,10,2,2017
+124,Privitar,UK,Technology,9923965,855321,190,47,2014
+125,Delineate,UK,Technology,3332661,288095,25,1,2015
+126,Spyrosoft,Poland,Technology,24721755,2326082,563,75,2016
+127,Bio Energy Solutions,Slovakia,Waste management & recycling,16006537,1383205,37,6,2014
+128,Increso,Italy,Management Consulting,3230000,281000,51,2,2015
+129,LSG - Logistic & Service Group,Italy,Transport,8873180,777410,46,1,2016
+130,Energihem,Sweden,Construction,28004684,2527006,125,19,2015
+131,Amity,UK,Technology,5743440,522712,164,48,2012
+132,Goyago,Germany,Retail,3729920,337525,43,4,2014
+133,LA REGIE DE PORTAGE SALARIAL,France,Support Services,7638731,692440,140,23,2016
+134,Dall Energy,Denmark,Energy,6013000,551000,15,5,2007
+135,Appinio,Germany,Technology,3597000,330500,44,5,2014
+136,Pinsami,Italy,Food & Beverage,4892000,455000,33,14,2015
+137,AER TRADING,France,Retail,17575388,1643572,1,1,2013
+138,VALUMEN,France,Support Services,2196424,205554,4,1,2014
+139,Follow,France,Advertising,6844818,643299,14,4,2016
+140,Darpdecade,Germany,Retail,6624660,628384,173,4,2016
+141,Bolt,Estonia,Technology,221393889,21098843,1798,399,2013
+142,Kiteworldshop.com,Italy,Ecommerce,1671984,160539,5,2,2014
+143,Peter Kenkel,Germany,Retail,22137000,2131000,19,10,2006
+144,Templafy,Denmark,Technology,15486451,1521010,292,32,2014
+145,Comservice,Italy,Support Services,2016300,194780,99,17,2014
+146,Falcor Presse,Italy,Industrial Goods,2996770,291720,5,1,2017
+147,RoomRaccoon,The Netherlands,Technology,1715334,167000,40,8,2017
+148,Signaturit,Spain,Technology,5639953,552355,95,37,2013
+149,Modulr,UK,Fintech,12789098,1269382,191,31,2015
+150,PROFISHOP,Germany,Ecommerce,43812068,4340517,63,17,2012
+151,Floer,The Netherlands,Interiors,2520013,249975,15,2,2015
+152,Audiosalus,Italy,Retail,1569480,156300,12,4,2011
+153,StatsBomb,UK,Technology,2027170,204620,26,2,2016
+154,Theras Biocare,Italy,Pharmaceuticals,26633230,2693390,8,2,2013
+155,Stenn,UK,Fintech,29615571,3058141,61,32,2016
+156,Nanushka,Hungary,Fashion,20825934,2456563,180,30,2012
+157,DPM - Deutsches Personal Management,Germany,Support Services,2267760,230800,60,10,2016
+158,Monese,UK,Fintech,18196451,1870109,243,84,2013
+159,Arquimea,Spain,Technology,72044361,7450099,288,40,2005
+160,Groupe PERSPECTIVE,France,Education,2709000,280390,18,4,2013
+161,Funnel,Sweden,Technology,11499031,1217338,155,37,2014
+162,Living Quarter,Germany,Health,5016731,529371,49,5,2015
+163,Svea Solar,Sweden,Energy,66146911,7177912,287,38,2013
+164,Bevcraft Group,Ireland,Food & Beverage,4046859,429505,16,6,2016
+165,Learning Technologies Group,UK,Technology,19446429,2096570,932,767,2013
+166,Cura Farma,Italy,Health,4436220,479290,9,2,2014
+167,Kamado Bono,Lithuania,Personal & Household Goods,6801734,735758,7,2,2013
+168,SIPADAN,Spain,Management Consulting,3457203,374200,47,3,2007
+169,Dateio,Czech Republic,Fintech,4710733,530785,45,18,2013
+170,CREST Investment,Germany,Property,4857817,533144,16,4,2016
+171,Componenti Digitali,Italy,Retail,2805850,308810,19,2,2017
+172,IMMO-KONZEPTE,Germany,Property,2269276,252871,6,3,2006
+173,SwipBox,Denmark,Technology,9391760,1052796,41,3,2014
+174,Nextory,Sweden,Media,26534087,3046667,85,9,2015
+175,ITDS Polska,Poland,Technology,8609941,1057443,176,32,2016
+176,Savait,Italy,Ecommerce,2108040,237410,5,4,2015
+177,Adpone,Spain,Advertising,11124512,1255372,18,3,2015
+178,Nord Security,Lithuania,Cyber Security,156623915,18035029,1000,350,2012
+179,Mews,The Netherlands,Technology,22386000,2531000,226,25,2012
+180,Titulae,Spain,Education,4870863,551128,35,9,2015
+181,systeme.io,Ireland,Ecommerce,2407982,273552,40,5,2016
+182,EODH SA,Greece,Aerospace & Defence,2597612,299988,30,20,2003
+183,Multix solutions,Italy,Health,11586460,1340430,5,2,2015
+184,B2DIGIT,France,Technology,1978128,228982,12,2,2016
+185,A Million Ads,UK,Advertising,4882837,570564,47,5,2015
+186,WoodWatch,The Netherlands,Retail,5590390,651170,25,5,2013
+187,Fenêtres du Doubs,France,Construction,2238347,262280,12,3,2010
+188,Koesea,Germany,Construction,3400000,400000,65,3,2016
+189,Podium Advanced Technologies,Italy,Automobiles,18025740,2133310,38,14,2011
+190,SPEGRA,Croatia,Construction,17059791,2025879,166,109,2010
+191,GPAINNOVA,Spain,Industrial Goods,15245617,1815680,117,18,2013
+192,Soluzione Tasse,Italy,Management Consulting,18939430,2264940,23,4,2016
+193,Velocultour,Germany,Retail,2458500,295731,15,2,2016
+194,butorpiac.hu,Hungary,Ecommerce,2184336,305268,7,2,2011
+195,Success Solutions,Czech Republic,Technology,2633664,327218,44,8,2016
+196,Bug Bite Thing Europe,Denmark,Health,1577878,191679,1,1,1989
+197,Dexatel,Estonia,Technology,11087980,1349733,24,4,2015
+198,Gemco,Italy,Construction,3941900,481510,6,1,2015
+199,Lyonnaise de Construction et Renovation,France,Construction,6640842,812371,n/a,n/a,2015
+200,Gousto,UK,Food & Beverage,210945370,26112757,702,204,2012
+201,Winter in Venice,UK,Beauty,12682062,1575522,6,4,2010
+202,Infratech Bau,Germany,Construction,60067088,7415334,72,18,2007
+203,4Streets Building Innovation Tunnels Bridges Roads,Italy,Construction,6739630,833230,46,3,2016
+204,Landbay,UK,Fintech,8980496,1119178,95,31,2013
+205,Degoo,Sweden,Technology,1973775,249818,18,3,2012
+206,Franco Fresco,Germany,Food & Beverage,50723858,6280267,320,52,2016
+207,Lendable,UK,Fintech,40305193,5026349,84,25,2014
+208,Ulrich Müller Wealth Academy,Germany,Education,3516744,440369,6,2,2014
+209,cerascreen,Germany,Health,10499782,1315000,84,19,2012
+210,Eqinov,France,Energy,70183744,8811708,43,24,2011
+211,Serre Famiglia Pederiva Viticoltori dal 1958,Italy,Food & Beverage,9022020,1134730,12,7,1996
+212,Bloom & Wild,UK,Ecommerce,155595726,19757296,170,68,2013
+213,Bräutigam,Germany,Automobiles,6315124,796207,29,9,2016
+214,Newil & Bau,Finland,Construction,19420672,2448858,7,1,2006
+215,ID Finance,Spain,Fintech,103634000,13157000,411,271,2015
+216,Kry,Sweden,Health,77764611,10152222,600,74,2014
+217,Sixth Sense,Italy,Technology,3916570,500440,25,4,2015
+218,Nethive,Italy,Cyber Security,3960770,506730,19,7,2014
+219,Latitude Investment Management,UK,Financial Services,1750466,225964,8,3,2016
+220,Qred,Sweden,Fintech,30414122,3989355,68,10,2015
+221,oculavis,Germany,Technology,3924472,504357,55,15,2016
+222,The Information Lab,Italy,Technology,4253110,548180,30,5,2015
+223,MD Sonnenschutztechnik,Germany,Construction,4068621,524750,10,6,2015
+224,Syntio,Croatia,Technology,2127532,274966,43,7,2017
+225,Bomae,Denmark,Financial Services,1662487,214713,13,3,2016
+226,Gophr,UK,Technology,5738336,755191,18,6,2014
+227,Memory PC,Germany,Retail,57375000,7522000,110,20,2012
+228,Sollis Solargroßhandel,Germany,Retail,11860100,1556607,6,2,2017
+229,Spotawheel,Greece,Automobiles,15646588,2058315,123,37,2015
+230,Ooni Pizza Ovens,UK,Personal & Household Goods,63879414,8508398,83,18,2012
+231,Robovox Distributions,Germany,Retail,19427000,2570000,35,10,2015
+232,CentralNic Group,UK,Technology,197260279,26626422,650,92,2000
+233,Bernd Andert Transporte,Germany,Transport,4105262,546226,83,16,2003
+234,Bluewater Bio,UK,Technology,20201424,2708983,18,16,2007
+235,Tecma Solutions,Italy,Technology,7319870,975140,107,25,2012
+236,Delante,Poland,Sales & Marketing,2160094,316525,48,21,2015
+237,intumind,Germany,Health,6560962,884885,15,8,2015
+238,Saljol,Germany,Health,4146403,559778,15,10,2016
+239,TKD Solutions,Germany,Telecoms,15874245,2146950,20,9,2014
+240,Kuori,Finland,Technology,2501902,340000,15,5,2016
+241,Ferroamp,Sweden,Energy,7645003,1062649,42,21,2010
+242,Valor Real Estate Partners,UK,Financial Services,4534588,621636,23,6,2016
+243,Anexiti,France,Technology,2565735,350019,14,2,2013
+244,GENIUS,France,Support Services,2417902,330522,23,6,2017
+245,Instilla,Italy,Advertising,2993310,410520,31,3,2015
+246,FOOTDISTRICT,Spain,Ecommerce,14942262,2051133,60,12,2012
+247,Spiideo,Sweden,Technology,4799358,674805,36,12,2012
+248,ContractPodAi,UK,Technology,4875622,670685,118,14,2012
+249,Tarhan Bauausführungen,Germany,Construction,1851000,255000,15,5,2017
+250,Matillion,UK,Technology,24580709,3417815,218,44,2010
+251,Extra Mile Live Service,Germany,Retail,2637501,364485,5,2,2017
+252,LITTLEBIG CONNECTION,France,Support Services,111538883,15653388,173,17,2013
+253,SPC General Service,Italy,Construction,6788660,954700,50,15,2011
+254,jobandtalent,Spain,Technology,352879165,49833511,801,156,2008
+255,Financial House,UK,Fintech,18766625,2669247,20,14,2016
+256,MyLead,Poland,Sales & Marketing,2004501,309471,42,8,2013
+257,Mia-Platform,Italy,Technology,6515510,923730,74,15,2016
+258,Tecnimed,Italy,Health,9551790,1354980,32,20,1976
+259,Longevity Partners,UK,Retail,2336243,335460,22,5,2015
+260,NexumStp,Italy,Management Consulting,25667400,3659630,345,56,2015
+261,G-ON,France,Support Services,1810459,259342,16,3,2016
+262,Picnic,UK,Advertising,1508869,219999,10,3,2016
+263,Egomnia,Italy,Technology,1901140,276750,36,2,2012
+264,LoyaltyLion,UK,Technology,4483296,657382,40,10,2012
+265,reMarkable,Norway,Technology,115793390,18106514,142,22,2016
+266,Kubrick,UK,Management Consulting,32614354,4829922,673,119,2016
+267,Contrader,Italy,Technology,4682960,688860,35,7,2012
+268,SAMONT,Germany,Industrial Goods,19577339,2880891,89,39,2008
+269,Sirive,Italy,Construction,4527690,667170,5,1,2017
+270,Multienergia Verde,Spain,Energy,146453604,21640253,15,10,2014
+271,Wielandts UPMT,Belgium,Technology,1529270,226295,6,1,2013
+272,ASKET,Sweden,Fashion,6525278,991534,13,4,2015
+273,Central Warehouse Solution,Czech Republic,Transport,1788545,274790,45,10,2015
+274,Chef in Camicia,Italy,Advertising,2071960,310810,21,2,2015
+275,Piper Homes,UK,Construction,30436232,4601266,28,9,2015
+276,Alturas Cubiertas Y Fachadas,Spain,Construction,9375243,1411811,33,12,2014
+277,Autosalon Uhingen,Germany,Automobiles,10540000,1587500,11,2,2015
+278,Yumi Beauty,France,Chemicals & Pharmaceuticals,2678257,404819,5,1,2013
+279,FOR ME LAB,France,Ecommerce,1652073,251795,7,2,2016
+280,Stockholms Elbolag,Sweden,Energy,32265912,5033032,25,7,2015
+281,Flohr,Germany,Waste management & recycling,21249638,3241629,84,21,1999
+282,Agricodem,Italy,Agricultural Commodities,2856530,436610,4,1,2008
+283,DACH Schutzbekleidung,Germany,Industrial Goods,45227730,6936038,80,14,2005
+284,EM-Tec Energiemontagen,Germany,Construction,3002729,461000,16,7,2017
+285,Wave Studio,Romania,Technology,4105688,656172,9,8,2014
+286,bazzar,Croatia,Retail,6686617,1034093,17,3,2013
+287,Cybersprint,The Netherlands,Cyber Security,2914738,449771,43,10,2015
+288,Brandon Group,Italy,Ecommerce,32039000,4954590,34,19,2012
+289,Feiniko Handelsgesellschaft,Germany,Retail,32168909,4979484,13,1,2014
+290,PharmaGrin,Italy,Health,2701410,422610,21,2,2015
+291,Life M,Czech Republic,Technology,2001844,322050,3,1,2016
+292,Plásticos Dão / Sacos & Saquetas,Portugal,Industrial Goods,1946703,304833,16,5,2012
+293,Logipal24,Germany,Transport,4967568,789058,70,19,2010
+294,PastBook,The Netherlands,Technology,33651532,5361088,22,23,2012
+295,Bluefin,UK,Ecommerce,28993287,4653721,21,6,2013
+296,Milk & Honey PR,UK,Sales & Marketing,1528900,245974,18,4,2016
+297,Prodeval,France,Energy,73514217,11756712,220,70,1990
+298,Virta,Finland,Technology,11029402,1765457,110,23,2013
+299,BizAway,Italy,Travel & Leisure,1989950,318940,28,4,2015
+300,Karl & Léon,France,Retail,2391019,385266,6,2,2015
+301,Identity,UK,Management Consulting,22885804,3733539,80,39,2001
+302,BlackBelt Holding,Hungary,Technology,5695000,923000,55,4,2016
+303,DYNVEO,France,Retail,3687780,598678,13,1,2010
+304,Favi,Czech Republic,Ecommerce,24995030,4174549,29,7,2016
+305,Hopkins,Finland,Sales & Marketing,4534346,737936,27,4,2016
+306,AP Italian Luxury,Italy,Fashion,4283930,698300,7,3,2016
+307,Novicap,UK,Fintech,3383802,551848,45,20,2015
+308,IGLM Store,Italy,Ecommerce,7790420,1277410,5,1,2013
+309,LUIS Technology,Germany,Technology,10000511,1644899,41,8,1999
+310,Quantexa,UK,Fintech,33902755,5643295,275,55,2016
+311,Enerbrain,Italy,Energy,4131370,685370,37,9,2014
+312,Brinckmann,Germany,Construction,6037461,1002579,28,7,2013
+313,LMG Building,Italy,Construction,6255970,1043440,12,6,1982
+314,Nordic Unmanned,Norway,Aerospace & Defence,6305237,1122907,33,12,2013
+315,Hemisphere,France,Property,6484822,1091925,6,2,2017
+316,therapiezentrum.com NW,Germany,Health,2916337,492860,87,23,2017
+317,Beauhurst,UK,Technology,5355215,916511,82,39,2010
+318,C.U.N. Cargo Carriers,Romania,Transport,7103702,1207613,49,43,2017
+319,MG Project,Italy,Telecoms,8208450,1396400,34,23,2016
+320,BONMEA,Germany,Retail,14597418,2484783,6,3,2015
+321,Oceanis Yachts,Italy,Travel & Leisure,3059130,521250,6,2,2007
+322,OPUS DB,France,Construction,12171118,2076139,8,2,2016
+323,Devensys Cybersecurity,France,Technology,3403055,580644,27,9,2013
+324,Project Agora,Cyprus,Advertising,19798875,3380420,104,25,2016
+325,BETTERTRUST,Germany,Advertising,4981938,853561,19,5,2012
+326,Banale,Italy,Ecommerce,2051370,352000,10,3,2014
+327,Maatwerk Online,The Netherlands,Sales & Marketing,1673382,287985,17,5,2013
+328,Les constructeurs du bois,France,Property,5087783,877275,6,1,2011
+329,Esserre Pharma,Italy,Pharmaceuticals,2556640,441260,10,6,2013
+330,OnBuy.com,UK,Ecommerce,2720319,473344,18,8,2014
+331,Gojob,France,Support Services,40546000,7007000,108,27,2015
+332,Newroom,Germany,Retail,3669217,638739,10,6,2016
+333,Christmas the Original,Italy,Retail,1994200,347190,9,3,2016
+334,Dimaxbau,Germany,Construction,2003989,349641,16,5,2016
+335,Comnovis IT,Germany,Technology,1900000,332372,9,2,2013
+336,Die Direktkontakter,Germany,Support Services,2818000,493000,8,4,2016
+337,Mega Trasporti,Italy,Transport,18168170,3185180,400,30,2010
+338,LeHibou,France,Technology,13816792,2423113,40,9,2014
+339,Stufe A Pellet Italia,Italy,Interiors,3598050,631500,13,3,2014
+340,Aquis Exchange,UK,Financial Services,12824155,2267165,46,31,2012
+341,Chattermill,UK,Technology,2306045,408336,50,8,2015
+342,SchönerTel,Germany,Construction,16388546,2884392,45,10,2016
+343,Global Work,Italy,Telecoms,3174000,558820,57,8,2011
+344,allygatr,Germany,Support Services,1914500,338300,9,1,2012
+345,Cru Wine,UK,Food & Beverage,9235946,1644134,14,3,2013
+346,Abc Rent,Italy,Automobiles,21818000,3878370,8,5,2004
+347,Superior Wellness,UK,Personal & Household Goods,54150622,9719653,57,20,2011
+348,Schrott24,Austria,Waste management & recycling,14641523,2610679,12,3,2016
+349,Mazzoni Etech,Italy,Industrial Goods,2344440,419240,14,3,2017
+350,Berdugo Immobilier,France,Property,15049845,2696485,6,4,1996
+351,Nova rent,Lithuania,Industrial Goods,8900000,1600000,37,9,2016
+352,Rouvy,Czech Republic,Games industry,4058269,751071,38,13,2013
+353,Business Analysis & Legal Expertise - B.A.L.E.,Italy,Management Consulting,2943020,532690,4,3,2015
+354,JMB,Poland,Energy,70179000,12709000,381,172,2000
+355,NOCNOC,France,Travel & Leisure,1596167,289766,13,2,2016
+356,CrowdProperty,UK,Fintech,2941537,539486,33,5,2013
+357,Tutos’Me,France,Education,4989872,910963,42,4,2015
+358,Studio Eko’,Italy,Management Consulting,1740660,318370,10,4,2011
+359,Beings,UK,Technology,1881768,348129,7,2,2010
+360,dmrgroupltd.com,Poland,Chemicals & Pharmaceuticals,7050124,1418769,6,3,2013
+361,Ice Telecommunications Ltd,UK,Telecoms,16067551,2982238,119,35,2014
+362,Gallas Group,Italy,Support Services,4640710,856790,95,18,2012
+363,Etracom,Italy,Ecommerce,22952660,4253600,10,4,2010
+364,Xalient,UK,Technology,26199717,4893654,88,38,2015
+365,Labevolution,Italy,Health,7264130,1349250,n/a,5,2009
+366,Kuadra,Italy,Interiors,3400580,635400,20,9,2015
+367,Kyo Electric,Spain,Telecoms,5402302,1013181,8,3,2014
+368,SoPost,UK,Technology,7825138,1481398,32,13,2012
+369,S.F.R.E.,Italy,Construction,3004290,564910,44,7,2016
+370,Sportstech,Germany,Retail,108500233,20436426,262,60,2012
+371,Opéra Energie,France,Energy,11218211,2127151,98,40,2014
+372,RouteNote,UK,Technology,38428858,7339330,76,28,2010
+373,Doctify,UK,Health,2409255,461671,40,26,2016
+374,Fruugo,UK,Ecommerce,21793194,4176347,67,30,2008
+375,Insidemarketing,Germany,Technology,2971846,569646,15,7,2012
+376,Falzi,Italy,Waste management & recycling,2037320,391540,11,2,2013
+377,Atrys Health,Spain,Health,31396438,6035116,504,62,2015
+378,Il Cantiere Costruzioni,Italy,Construction,4297790,826430,4,1,2016
+379,Soorce,Germany,Support Services,15639618,3013629,22,13,2004
+380,Sortlist,Belgium,Technology,3396000,655000,85,26,2013
+381,VirtusLab,Poland,Technology,12468548,2635420,234,90,2010
+382,SkalHuset.se,Sweden,Ecommerce,7342811,1454711,16,5,2012
+383,VIPINO,Germany,Retail,11067681,2148122,26,6,2013
+384,GEA Service,Italy,Waste management & recycling,6673050,1304060,133,30,2015
+385,Gellify,Italy,Technology,5581540,1090920,62,12,2016
+386,Billion Dollar Boy,UK,Advertising,13085484,2577297,92,42,2014
+387,Westrafo,Italy,Energy,22072700,4356500,58,19,2014
+388,Goboony,The Netherlands,Travel & Leisure,1718442,340309,21,10,2015
+389,Multiservice Ambrosiana,Italy,Support Services,4266770,846360,180,60,2016
+390,b&c systems,Germany,Construction,5339538,1061327,65,16,2016
+391,S&G Solar,Bulgaria,Energy,3980920,792093,10,31,2014
+392,BITTNET,Romania,Management Consulting,22436395,4641712,120,40,2007
+393,Ibanfirst,Belgium,Fintech,12062697,2408187,204,47,2013
+394,UPLINK Network,Germany,Telecoms,28140196,5629906,46,20,2013
+395,BASE ORGANIC FOOD,France,Agricultural Commodities,10802997,2163006,25,6,2015
+396,CurrentBody,UK,Ecommerce,38002441,7671961,74,20,2009
+397,Apex Aero,UK,Aerospace & Defence,3812785,770031,6,1,2016
+398,Startup Development House,Poland,Technology,1514111,303615,59,25,2016
+399,Gruppo Gheron,Italy,Health,58422800,11728040,806,8,2010
+400,DyFlowing,Italy,Technology,1696320,341370,30,5,2016
+401,Digital Masters,Germany,Advertising,3019110,608053,40,22,2016
+402,Prusseit Auto-Outlet,Germany,Automobiles,2576602,520998,17,3,2017
+403,Techouse,Norway,Energy,31852584,6863940,72,30,2002
+404,SVS,Italy,Construction,9694310,1965560,8,3,2016
+405,TelcoSwitch Group,UK,Telecoms,7519236,1543824,86,18,2017
+406,BOTHE-REIMANN Tortechnik,Germany,Construction,2277791,464354,8,3,2017
+407,e-Pol / Personalizzalo,Italy,Ecommerce,16089160,3284400,12,8,2012
+408,Riluxa,Spain,Interiors,3428464,700007,18,3,2016
+409,Modalis,France,Transport,19169652,3915724,8,6,2002
+410,OLYMPP,France,Technology,5512134,1127652,27,8,2016
+411,Zeck Fishing,Germany,Retail,6806664,1401463,25,4,2013
+412,StorPool Storage,Bulgaria,Technology,3306191,681460,25,16,2011
+413,Vimcar,Germany,Technology,14674011,3035269,164,72,2013
+414,JOANNES DISTRIBUTION SAS,France,Retail,7064900,1468200,8,5,2011
+415,Sourcing Force,France,Technology,12806965,2663699,30,8,2011
+416,Schalttechnik Nord,Germany,Technology,12489032,2601157,60,16,2000
+417,DGC,Germany,Cyber Security,1577296,329298,27,5,2015
+418,Superprof,France,Education,10168214,2136626,202,28,2013
+419,Improveasy,UK,Management Consulting,26446798,5602132,48,12,2011
+420,Viaréno,France,Construction,6937737,1459655,30,8,2014
+421,CMT,Slovakia,Waste management & recycling,1951232,411858,19,10,2013
+422,Rets,Poland,Property,5206032,1201964,97,31,2014
+423,MUBI,UK,Media,18356623,3954351,104,33,2007
+424,Dynamicom Education,Italy,Education,9018160,1906790,27,3,2001
+425,Touch4IT,Slovakia,Technology,2064141,437747,47,25,2015
+426,TattaHome.com,Italy,Interiors,2800000,595800,8,4,1986
+427,Speechmatics,UK,Technology,7161145,1541070,90,37,2006
+428,Samy Road,Spain,Advertising,19458114,4163750,118,20,2012
+429,Prometeo,Italy,Support Services,3580500,766510,9,6,2006
+430,Dialectica,UK,Management Consulting,17078846,3688264,260,65,2015
+431,Wolf & Badger,UK,Ecommerce,11604670,2508842,62,32,2009
+432,Eco CO2,France,Support Services,9220216,1982251,94,28,2009
+433,Lakógép Kft.,Hungary,Construction,25335854,6328462,20,3,2011
+434,Beyer Betonwaren,Germany,Construction,2062749,443694,20,9,2017
+435,Fill Up Média,France,Media,4999802,1081079,42,12,2011
+436,Zara Imballaggi Fabriano,Italy,Industrial Goods,2297210,496790,6,4,1984
+437,CD Projekt,Poland,Games industry,468257487,110835763,1177,744,1994
+438,VPACE Bikes,Germany,Retail,2643580,573145,10,1,2015
+439,Tooltester,Spain,Sales & Marketing,3646507,790712,6,0,2014
+440,Bunker Partner,Estonia,Energy,101726265,22060642,7,2,2015
+441,Tikamoon,France,Ecommerce,56122322,12200275,130,40,2006
+442,S.T.A.R. Digital,Croatia,Advertising,3211868,699907,8,10,2013
+443,Funding Options,UK,Fintech,5922043,1297717,62,29,2011
+444,Isimed,Italy,Health,4828920,1050660,14,8,2014
+445,"Sonar, SonarQube, SonarCloud, SonarLint",Switzerland,Technology,83632640,16861349,195,50,2008
+446,Scherer,Germany,Support Services,4285766,934994,30,4,2016
+447,Mycroclean Italia,Italy,Support Services,3366730,736000,24,14,2002
+448,Piscor,Italy,Ecommerce,4842410,1061360,16,8,2015
+449,Marwincar,Italy,Automobiles,5083140,1114200,3,1,2016
+450,Brighton & Hove Albion Football Club,UK,Travel & Leisure,148505285,32824451,1038,288,1993
+451,INPE Transport,Bulgaria,Transport,1816274,398676,60,5,2015
+452,RTB House,Poland,Technology,191601076,45981552,773,266,2013
+453,Obiz,France,Media,15377000,3389300,38,27,2010
+454,VmWay,Italy,Technology,15901220,3525720,70,33,2012
+455,Legimi,Poland,Media,7007093,1698358,12,8,2009
+456,MSG Beauty,Germany,Retail,2910737,645633,11,5,2011
+457,Leogra Trading,Germany,Retail,5078464,1128243,11,4,2014
+458,Benefind,Italy,Technology,2262490,505520,32,10,2012
+459,AB Oil & Gas Service,Italy,Support Services,2310000,516640,13,5,2017
+460,Mailtrack,Spain,Technology,3445698,775341,23,14,2013
+461,Bumper,UK,Fintech,3394214,771504,33,15,2013
+462,OTL - Online Trainer,Germany,Health,6607564,1492190,46,22,2015
+463,Macingo Technologies,Italy,Support Services,1601000,361790,17,9,2014
+464,MYCS,Germany,Retail,39355846,8935361,210,120,2014
+465,Audience Serv,Germany,Advertising,6107018,1389534,92,23,2008
+466,Start,Italy,Telecoms,3769100,857590,8,4,2012
+467,MvH Media,The Netherlands,Sales & Marketing,2391654,544943,29,8,2010
+468,PURE GAMING,France,Ecommerce,6984956,1593667,2,1,2010
+469,Parcel Compare,UK,Transport,9085936,2091995,8,4,1998
+470,Ames Centro Polidiagnostico Strumentale,Italy,Health,40391360,9235130,81,71,1979
+471,Arcadia Italia,Italy,Energy,3249140,743130,6,1,2016
+472,Zia Lucia,UK,Restaurants,4853930,1119494,43,16,2016
+473,Travaglini Costruzioni,Italy,Construction,4603740,1062010,37,16,1952
+474,Versa Design Zycle,Spain,Technology,9501888,2199640,81,10,2008
+475,MAUCHER CONSULT,Germany,Construction,1952000,452091,15,5,2016
+476,Ayes,Italy,Technology,10827070,2510930,137,51,2015
+477,BrandUp Group,Italy,Advertising,2718640,630660,5,1,2016
+478,Opyn,Italy,Financial Services,4168220,969930,19,11,2012
+479,VAR Capital,UK,Financial Services,2132001,499815,8,4,2014
+480,StoryTerrace,UK,Technology,2843048,667467,25,9,2017
+481,Blubit,Slovenia,Technology,2964852,691140,22,8,2009
+482,ZEN’UP,France,Insurance,1891361,441271,9,9,2014
+483,Lörcher Bauunternehmen,Germany,Construction,3932792,917735,25,17,2001
+484,Barcode Architects,The Netherlands,Architecture,4851997,1134256,62,23,2010
+485,TOP CHALEUR,France,Retail,7260096,1702165,27,9,2002
+486,Seingim,Italy,Construction,13479380,3163540,160,52,1999
+487,Amphibian Scaffolding,UK,Construction,4011415,948813,49,21,2008
+488,Beliani,Liechtenstein,Ecommerce,93438770,20298288,551,205,2009
+489,Hatstore,Sweden,Ecommerce,17453187,4195789,45,17,2011
+490,Carpenteria Martino,Italy,Construction,9719750,2286000,27,19,2006
+491,CapitalOnTap,UK,Fintech,82238372,19489369,147,61,2012
+492,Netguru,Poland,Technology,34677235,8933769,637,199,2008
+493,Fazio,Italy,Retail,3375810,799170,7,6,2014
+494,Grillfürst,Germany,Retail,38599408,9145411,84,37,2010
+495,Dealernet,Italy,Automobiles,22704300,5394020,18,14,2017
+496,Alpha Real Estate,Germany,Property,119161137,28378990,57,14,2013
+497,Appwise,Belgium,Technology,4546110,1084812,74,12,2013
+498,Convert Group,Greece,Technology,2789489,666118,55,17,2014
+499,Revolution Race,Sweden,Ecommerce,89332521,21841341,65,17,2013
+500,GONG Galaxy,France,Retail,11320706,2708258,40,11,2009
+501,GDR Costruzioni,Italy,Construction,1573480,376440,8,8,2011
+502,Emporio Elettrico,Italy,Ecommerce,1979050,473640,4,1,2015
+503,Exscientia AI,UK,Technology,10807048,2606296,87,15,2012
+504,Featurespace,UK,Fintech,23501473,5688822,324,128,2005
+505,XL ENERGIES,France,Energy,8358760,2013403,11,3,2016
+506,Claveria,Spain,Support Services,4715363,1137450,43,20,2015
+507,Timberagents,Germany,Retail,5302985,1280989,4,3,2010
+508,fermeture econ’home,France,Construction,1862632,451196,30,2,2012
+509,NRSE,Sweden,Management Consulting,3268813,815449,70,20,2014
+510,SIMWERT,Germany,Telecoms,26386701,6450759,21,16,2011
+511,Flex Legal,UK,Law,4319146,1064498,24,2,2015
+512,Documaster,Norway,Technology,3328791,868552,41,15,2010
+513,Immo-Team Allgäu,Germany,Construction,21974565,5381108,4,1,2014
+514,creditshelf,Germany,Financial Services,4899200,1201900,57,17,2014
+515,Blife,Italy,Food & Beverage,4133980,1016480,10,7,2016
+516,Nohup,Italy,Technology,4785480,1177860,18,9,2004
+517,Noctuai,Poland,Technology,2443117,657377,56,17,2012
+518,Ares,Germany,Industrial Goods,14000000,3450000,96,47,2013
+519,Moonpig Group,UK,Ecommerce,411390748,102139979,399,242,2000
+520,Wealth Club,UK,Financial Services,6774867,1685348,22,15,2016
+521,FACTORY,France,Property,12609000,3119000,25,4,2016
+522,Beck Ingredients,Spain,Health,7532293,1865319,6,2,2016
+523,Mentors & Partners Group,Hungary,Management Consulting,1822227,524552,3,3,2010
+524,SB Supply,The Netherlands,Ecommerce,4363977,1081844,9,4,2011
+525,Mediaboard,Czech Republic,Media,2243594,572798,24,8,2015
+526,DW TRANS,France,Transport,9485173,2357096,80,20,2012
+527,NACELEXPERT,France,Industrial Goods,2727392,679247,4,2,2006
+528,keylight,Germany,Technology,3499555,871779,31,14,2015
+529,Technacy,Italy,Technology,3059440,762200,13,3,2011
+530,Genoskin,France,Chemicals & Pharmaceuticals,2810120,700823,25,12,2011
+531,Payment Assist,UK,Fintech,5993895,1518678,21,12,2013
+532,my Boo,Germany,Retail,4706000,1184000,65,14,2013
+533,84codes.com,Sweden,Technology,12120207,3118698,25,11,2012
+534,KLG LIQUIDA,Germany,Chemicals & Pharmaceuticals,5034595,1267224,20,6,2013
+535,Ignimission,France,Technology,2280542,574323,35,8,2011
+536,Adamant BioNRG,Italy,Energy,117997000,29718000,7,4,2013
+537,Xplort,UK,Interiors,2252358,571513,5,2,2015
+538,Bambridge Accountants,UK,Financial Services,3368822,855283,12,7,2010
+539,G2Park,Slovakia,Property,2902148,732924,13,7,2016
+540,Pelizzari Studio,Italy,Architecture,2625660,663100,5,2,2014
+541,Postex,The Netherlands,Technology,5248908,1334213,9,4,2014
+542,Consorzio Stabile Ambientemilia,Italy,Waste management & recycling,9752760,2492730,5,5,2013
+543,Yocabe’,Italy,Ecommerce,3293860,842600,12,6,2016
+544,Chez Nestor,France,Property,8559263,2189720,33,19,2012
+545,Mint Italia,Italy,Transport,2415110,621500,9,2,2016
+546,Sendcloud,The Netherlands,Ecommerce,81775452,21052232,233,27,2012
+547,Datakey Software Engineering,Italy,Technology,1898000,488940,10,6,2008
+548,Metaminds,Romania,Cyber Security,32103084,8605113,41,21,2015
+549,Time Vision,Italy,Education,2793340,721090,29,11,2012
+550,Werksräder24,Germany,Automobiles,14896000,3847000,36,16,2013
+551,FOD Mobility Group,UK,Technology,13309945,3465675,70,35,2008
+552,Selferg,Italy,Energy,2050130,531960,60,10,2007
+553,Poppri Fashion Auctions,Lithuania,Ecommerce,13028856,3386414,94,45,2012
+554,Vizion Network,UK,Automobiles,117817156,30862156,194,156,2008
+555,Beyond Law Group*,UK,Law,8233616,2159010,66,27,2017
+556,EDA Warehousing,Germany,Transport,4570000,1190000,14,13,2014
+557,BPV,Germany,Telecoms,22704275,5923571,90,45,2013
+558,Ultra Premium Direct,France,Agricultural Commodities,20779890,5422583,81,29,2013
+559,AFR-IX telecom,Spain,Telecoms,9933867,2593649,24,12,2013
+560,Blue energy,Poland,Cyber Security,4527970,1293181,44,28,2010
+561,C’JUSTE PARIS,France,Retail,2404398,628388,15,5,2013
+562,SOS-accessoire,France,Ecommerce,14690408,3848262,44,13,2007
+563,Hannes König,Germany,Construction,8750671,2295632,27,18,2017
+564,ZANATTA media group,Germany,Advertising,8383859,2202906,9,6,2007
+565,Wastepack,UK,Waste management & recycling,22373295,5924389,20,18,1997
+566,Radar Consulting Italia,Italy,Support Services,1580450,416960,17,7,2010
+567,Agriconomie,France,Agricultural Commodities,37248117,9838779,53,32,2014
+568,AnyTech365,Spain,Technology,18743704,4985758,364,187,2014
+569,Cladspray Solutions,UK,Construction,1863819,499484,12,4,2013
+570,iM Global Partner,France,Financial Services,31463692,8392541,50,10,2015
+571,Confinvest,Italy,Precious metals,41130000,10982110,6,2,1983
+572,Ethic Technology,France,Technology,8340824,2229273,3,2,2012
+573,Bomax,Italy,Telecoms,71290680,19088830,7,6,2001
+574,KK-Trade,Germany,Retail,4383254,1174770,15,4,2017
+575,Marsapet,Germany,Retail,3960200,1061642,26,4,2015
+576,Gruppo Tera,Italy,Ecommerce,20222750,5428300,16,8,2015
+577,CodicePlastico,Italy,Technology,3068430,824450,14,7,2009
+578,Tremend,Romania,Technology,20679155,5772716,426,185,2005
+579,Doofinder,Spain,Technology,6590434,1771758,61,17,2010
+580,Hostinger,Lithuania,Technology,25860664,6955394,780,80,2004
+581,Catalyx,Switzerland,Sales & Marketing,6540543,1627160,39,9,2013
+582,Harness Code,Bulgaria,Sales & Marketing,2223308,599612,9,6,2016
+583,Nanoprom Chemicals,Italy,Chemicals & Pharmaceuticals,2779910,749940,17,5,2014
+584,Elite,Spain,Construction,10060550,2716240,49,27,2012
+585,AppUnite,Poland,Technology,4424063,1310532,119,26,2012
+586,Eskalia et Nakupenda,France,Retail,1515414,410775,7,2,2006
+587,LGX Logistics,Germany,Transport,8070059,2191733,12,3,2006
+588,Polipop,Portugal,Industrial Goods,3351671,910392,22,11,2015
+589,StampaSi,Italy,Ecommerce,2543820,691110,10,1,2016
+590,CAM,Italy,Industrial Goods,12280490,3336600,67,45,1984
+591,Plug In Digital,France,Media,13767602,3743740,37,12,2012
+592,Predica,Poland,Technology,17589082,5233937,241,82,2009
+593,Ocean Transport,Spain,Transport,4783846,1304073,19,2,2009
+594,Serinus,UK,Energy,19651446,5474802,75,103,1997
+595,DEMV Deutscher Maklerverbund,Germany,Financial Services,5012841,1375943,50,20,2009
+596,STI Norland,Spain,Energy,199822150,54990779,221,53,1996
+597,HD Elektrotechnik,Germany,Technology,4207672,1158042,76,27,2011
+598,Engenie Group,Italy,Technology,2025040,558480,9,1,2017
+599,Groupe N.A.T,France,Support Services,4180122,1156596,64,25,2016
+600,La Sarraz Pictures,Italy,Media,1513710,419430,5,2,2015
+601,Smart-Planet,Germany,Retail,4598207,1276483,9,5,2016
+602,Sidea Group,Italy,Management Consulting,2429590,674560,49,8,2015
+603,COUTEAUJAPONAIS.COM,France,Retail,4579102,1272558,17,5,2004
+604,PHYSIDIA,France,Health,16746545,4656191,58,20,2010
+605,Horando Deutschland,Germany,Retail,8111269,2257390,3,2,2013
+606,"Diablochairs, Jan Nowak",Poland,Ecommerce,21520495,6549376,79,22,2004
+607,Parkster,Sweden,Technology,55139984,15711602,28,16,2011
+608,BIOTYFULL,France,Ecommerce,20248436,5642145,13,5,2015
+609,Bioksan,Spain,Food & Beverage,5914732,1650756,51,14,2014
+610,Trippel,Norway,Support Services,3057807,910070,118,37,1999
+611,Yourparkingspace Limited,UK,Technology,13863431,3904618,32,15,2013
+612,Carslift,France,Automobiles,2226659,622989,35,1,2012
+613,Zimmerei Nordmann,Germany,Construction,2074577,580537,11,5,2009
+614,SI Silicone Innovation,Germany,Industrial Goods,3640511,1018843,40,20,2015
+615,A.U.E. Genc Warenhandels-UG,Germany,Retail,19890000,5573000,12,8,2010
+616,MGvision,Italy,Advertising,4010560,1127170,18,10,2010
+617,New General Service,Italy,Support Services,1539360,433540,26,13,2015
+618,ANDRE RENOVATION,France,Construction,11594389,3266703,41,15,2010
+619,M.D.G. Components Unipersonale,Italy,Industrial Goods,2283970,644440,14,10,2017
+620,Amco-Bulgaria,Bulgaria,Retail,6298606,1778274,22,5,2011
+621,Symprove,UK,Personal & Household Goods,12298843,3498275,39,16,2005
+622,Tecknuovo,UK,Technology,26273556,7477852,22,10,2015
+623,Platform.sh,France,Technology,22077678,6242232,217,62,2010
+624,ISG Express Logistik,Germany,Transport,5822692,1646307,46,5,2011
+625,Manelli Impresa,Italy,Construction,43355980,12259540,173,55,2008
+626,SA Formação,Portugal,Education,3647652,1031733,53,22,2009
+627,SM SektManufaktur,Germany,Industrial Goods,2408586,681652,14,3,2015
+628,Beauty Consult Deutschland,Germany,Health,3725665,1055100,31,8,2011
+629,Finauto,Italy,Automobiles,11789870,3350270,8,5,1977
+630,AuCOFFRE.com,France,Financial Services,114037838,32428296,21,18,2009
+631,Divido,UK,Fintech,3786036,1084616,46,37,2014
+632,R&K Ingenieure,Germany,Construction,5210500,1482100,17,6,2016
+633,Nephos Technologies,UK,Technology,17559447,5031697,25,11,2011
+634,La Vida,UK,Support Services,7572128,2178629,15,8,2002
+635,Midstream Lighting,UK,Technology,8204844,2363526,12,4,2012
+636,PROPULSE IT,France,Technology,6326861,1809858,2,2,2014
+637,Additius Santa Maria,Spain,Agricultural Commodities,31757362,9100083,30,25,2012
+638,CONEXIO TELECOM,France,Telecoms,1908640,547084,15,3,2017
+639,Tripin,Germany,Retail,5465080,1568506,9,5,2012
+640,Continental Wood Kft.,Hungary,Industrial Goods,2724073,910973,9,4,1996
+641,GeoTeam,Italy,Energy,7623730,2195780,120,71,2008
+642,Leascorp,France,Financial Services,18481247,5325214,7,4,2014
+643,Positive Healthcare,UK,Management Consulting,6731831,1954609,19,3,2014
+644,Ralph Schmolke,Germany,Retail,2281929,658317,8,4,2010
+645,Roomie Milano,Italy,Property,3728920,1079340,10,2,2016
+646,Trencadis Corp,Romania,Technology,20410511,6137755,89,40,2007
+647,WORTEKS,France,Technology,1870845,541582,11,4,2016
+648,REMOVE,France,Construction,8988475,2608093,74,27,2015
+649,Citadelo,Czech Republic,Cyber Security,1556521,452557,27,15,2006
+650,Grill Autoservice,Germany,Automobiles,18141216,5283415,26,13,2017
+651,Inbrooll,Spain,Industrial Goods,2663110,776268,15,8,2013
+652,Cross,Germany,Retail,88590000,25858983,4,3,2010
+653,B1gas S.p.A,Italy,Energy,41474660,12106480,6,2,2010
+654,Filva,Italy,Construction,6188900,1808710,10,8,2009
+655,Archingest,Italy,Construction,3515000,1030000,6,2,2005
+656,Alpha FX Group,UK,Financial Services,51640733,15241075,124,51,2009
+657,lemonads,Switzerland,Advertising,4952255,1451770,50,7,2012
+658,Signicat,Norway,Technology,42514150,13309441,213,71,2007
+659,Alfred Döpker,Germany,Construction,77358225,22730529,55,41,1965
+660,Bavaria-Ei,Germany,Retail,13067279,3842670,88,42,2001
+661,Oxylabs.io,Lithuania,Technology,25040954,7381686,245,57,2015
+662,A.S.H. Automobile,Germany,Automobiles,2333452,687958,5,2,2014
+663,Vascular,Hungary,Health,29099679,9987236,57,18,2007
+664,ANDJARO,France,Support Services,3189298,943718,57,30,2015
+665,Röhrtaler Wertstoff,Germany,Waste management & recycling,3286187,973460,34,22,2013
+666,Autel Karnetic,UK,Technology,8520830,2543343,7,6,2016
+667,Discoup.com,Italy,Advertising,2075110,616520,10,8,2013
+668,Hellas Direct,Cyprus,Insurance,34488971,10247832,85,52,2011
+669,HERRLES,Germany,Automobiles,10242075,3044054,45,30,2009
+670,Investmentpunk Academy,Austria,Education,3179000,947000,12,6,2016
+671,Born Stahlbau,Germany,Industrial Goods,4527093,1351164,13,6,2015
+672,RETTEL Projektbau,Germany,Construction,8073458,2410212,7,5,2016
+673,Suntronic,Italy,Energy,2347320,700960,4,2,2005
+674,TMT,Italy,Industrial Goods,12763524,3811838,42,6,2014
+675,Gedankenburg,Germany,Advertising,2950010,881275,5,2,2015
+676,SVOP Special Vehicle Operation,Sweden,Automobiles,4526309,1385662,16,6,2013
+677,Glenholme Healthcare Group,UK,Health,14845073,4476517,415,132,2011
+678,AUDENSIEL,France,Technology,57451279,17203160,720,230,2013
+679,Ivnosys,Spain,Technology,8743069,2618069,106,34,2011
+680,Mulconsa,Spain,Construction,6687402,2002982,45,30,2012
+681,50NRTH,Germany,Retail,35107348,10518963,54,14,2004
+682,Delecto,Croatia,Retail,2649288,793957,10,6,2008
+683,Mardruk Opakowania,Poland,Industrial Goods,3226645,1058063,47,7,2015
+684,MANANG,France,Construction,6205559,1862272,40,15,2012
+685,bestbion dx,Germany,Health,14863628,4461170,27,21,2011
+686,Avamore Capital,UK,Financial Services,2552248,772943,21,7,2015
+687,Solaris and more,Germany,Energy,4692660,1414501,30,13,2011
+688,Clearcycle,UK,Retail,2176368,660767,11,8,2015
+689,Opteamis,France,Support Services,13856500,4180523,35,12,2005
+690,Codenor,Spain,Construction,6385196,1926967,20,10,2010
+691,HAPPYBULLE,France,Ecommerce,4209975,1271353,18,8,2015
+692,Aurora Energy Research,UK,Energy,15079425,4587687,158,46,2013
+693,Bacci,Spain,Fashion,24048302,7265350,14,19,2003
+694,Emilia Foods,Italy,Food & Beverage,26824140,8110160,25,8,2013
+695,T.E.A.M. - Ti educa a migliorare,Italy,Health,3370490,1020690,211,82,2001
+696,Brainhub,Poland,Technology,3513741,1163241,75,30,2016
+697,Assitech,Italy,Construction,2675750,810750,9,10,2016
+698,Schott Packaging,UK,Ecommerce,2272847,694501,11,4,2016
+699,Alba,Italy,Energy,3299330,1001740,30,12,2010
+700,FinTrU,UK,Financial Services,32392546,9915609,740,219,2013
+701,Global Edilizia,Italy,Construction,4028000,1226000,5,4,2011
+702,TPXimpact,UK,Management Consulting,57093437,17515305,381,2,2016
+703,LGS SportLab,Italy,Advertising,4014220,1222870,9,6,2010
+704,Weiser Brandschutz & Technik,Germany,Construction,5986199,1825769,45,4,2005
+705,Fairfax and Favor,UK,Fashion,18178322,5602279,47,13,2013
+706,FAO Consulting,France,Technology,7781600,2384156,85,39,2014
+707,Gruppo Del Barba Consulting,Italy,Financial Services,5855040,1794120,37,8,2010
+708,Exclaimer,UK,Technology,26143857,8075796,109,62,2003
+709,Join Business Management Consulting,Italy,Management Consulting,10189790,3128700,77,25,2013
+710,Vennes,Germany,Construction,17048000,5244000,57,27,2003
+711,Piggy,The Netherlands,Technology,2946126,906341,31,7,2013
+712,Epassi,Finland,Fintech,205312456,63207258,130,40,2007
+713,Atheneum Partners,Germany,Technology,33400000,10300000,315,150,2010
+714,Pharmacy2U,UK,Technology,156232906,48580102,454,211,1999
+715,PHOENIX DEVELOPPEMENT,France,Support Services,1797294,556159,18,6,2011
+716,Wiwie Transport,Germany,Transport,4200000,1300000,25,10,2016
+717,Mevas Auto Center,Romania,Automobiles,2595034,834708,31,23,2003
+718,BK Beachhouse Mode,Germany,Retail,5172479,1602458,35,21,2015
+719,F.lli Urso,Italy,Construction,2009090,622800,9,3,2015
+720,GoHenry,UK,Financial Services,22020382,6882489,166,61,2011
+721,Adrilog,Italy,Transport,57057180,17727950,816,634,2014
+722,Attachment,UK,Advertising,7191249,2250946,6,2,2015
+723,PARIS HERBES,France,Agricultural Commodities,12934943,4020469,25,15,2015
+724,Interlog Logistic,France,Transport,5480946,1703819,28,37,2015
+725,Conglomerati Bituminosi,Italy,Construction,33371870,10393680,75,34,1975
+726,Nikkel Art,Belgium,Ecommerce,3762160,1172617,26,5,2010
+727,Esyen,Italy,Technology,3868940,1206770,25,9,2011
+728,Sav-eco Packaging Ltd,UK,Industrial Goods,16923940,5322238,165,104,2014
+729,Elmar Mair Tiefbau,Germany,Construction,2302685,719638,19,8,2016
+730,ATLAS Innovative Engineering,Spain,Energy,3495981,1094666,15,12,2014
+731,SECURE-IC,France,Technology,6934182,2171492,76,48,2010
+732,DATALYO,France,Technology,3544255,1111687,36,16,2014
+733,Signify Technology,UK,Management Consulting,2547992,805029,29,14,2016
+734,BOXT,UK,Ecommerce,38373430,12127395,59,20,2017
+735,James and James Fulfilment,UK,Ecommerce,30887883,9762332,158,55,2010
+736,Armonie,Italy,Food & Beverage,2803150,879670,9,5,2014
+737,Maverick Group,Italy,Technology,5313290,1674690,5,1,2017
+738,Brainpull,Italy,Advertising,4264120,1344240,29,10,2012
+739,Wiseband,France,Media,1636674,516164,15,4,2014
+740,Groupe Ezdo La Boulangerie Des Gourmets,France,Agricultural Commodities,40777823,12867410,15,4,2013
+741,Pakar Service,Poland,Support Services,9729642,3363800,396,257,2010
+742,BIO-UV,France,Industrial Goods,32175000,10181000,117,62,2000
+743,F.G. Service,Italy,Construction,2554140,809450,14,2,2015
+744,Allways Logistics System,Italy,Transport,9569120,3033150,125,2,2012
+745,Matsmart,Sweden,Ecommerce,49576899,16075963,164,75,2013
+746,autargo,Germany,Construction,1807173,573070,5,2,2016
+747,Brewshop.no,Norway,Food & Beverage,4392988,1484883,9,7,2015
+748,Visualitics,Italy,Technology,2131000,676000,15,3,2016
+749,HiFi extra,Germany,Retail,49190436,15610826,32,14,2016
+750,Ankerkraut,Germany,Food & Beverage,26010474,8271702,150,70,2013
+751,GDA,Italy,Fashion,20745690,6615000,205,98,2008
+752,Nexid,Italy,Technology,2696270,859960,25,9,2006
+753,GS Studio & Service,Italy,Energy,2087000,666210,16,7,2013
+754,Neosperience,Italy,Technology,16367000,5229000,160,60,2006
+755,Lunos,Slovenia,Technology,6356404,2031522,16,11,2010
+756,Meic Costruzioni,Italy,Construction,10456300,3342120,71,39,2013
+757,Trident Lifting Solutions Ltd,UK,Construction,15846632,5105700,14,12,2016
+758,Smart Battery Solutions,Germany,Technology,10203000,3264000,69,28,2010
+759,eu-bay Commerce,Germany,Retail,8122686,2601485,20,10,2003
+760,Jens Rabe Academy,Germany,Education,3655345,1171373,20,6,2009
+761,Hyperoptic,UK,Telecoms,57766084,18649681,1251,407,2010
+762,SEPALE,France,Energy,7879983,2531055,21,2,2009
+763,3A Informatica,Italy,Telecoms,1970000,633990,33,19,2005
+764,EMSPROTO,France,Ecommerce,3136947,1009846,22,10,2014
+765,Laboratoires Dermosun,France,Chemicals & Pharmaceuticals,5626849,1815835,13,9,2011
+766,Saico,Italy,Construction,6737600,2177950,23,13,2013
+767,Nutis,Italy,Food & Beverage,6566530,2124990,19,9,1956
+768,Ogrodosfera.pl,Poland,Ecommerce,13256472,4693330,23,12,2011
+769,SVTI,France,Industrial Goods,3981300,1290312,30,17,2010
+770,Enhancers,Italy,Technology,3352210,1087520,38,13,2011
+771,AGRIPOWER FRANCE,France,Waste management & recycling,7701275,2498792,16,6,2012
+772,Next Turbo Technologies,Italy,Industrial Goods,9481040,3080610,18,8,2014
+773,Velvet Media Italia,Italy,Advertising,5411160,1759490,98,46,2013
+774,Booster Box,Italy,Advertising,2049365,667837,35,9,2016
+775,RMF Group,Slovakia,Food & Beverage,3289892,1072117,2,3,2014
+776,Darwin Group Limited,UK,Construction,70393894,23141358,140,89,2005
+777,ITFS,Poland,Technology,10446862,3730405,230,90,2012
+778,SKILLSDAY,France,Education,3154795,1031988,25,9,2015
+779,Gapps,Finland,Technology,8707000,2850000,34,23,2010
+780,Maxfel,Italy,Interiors,2201160,720650,15,6,1984
+781,Herrero Brigantina,Spain,Insurance,14725853,4832212,55,33,2012
+782,Manitech,Italy,Industrial Goods,3834910,1263420,6,3,2016
+783,Tradeco,Italy,Industrial Goods,5889890,1944720,16,6,2016
+784,MON CHASSEUR IMMO,France,Property,4794423,1585727,28,13,2012
+785,UpSlide,France,Support Services,8274214,2737704,75,20,2013
+786,COGECLIM ENERGIES,France,Construction,2622506,868406,18,5,2015
+787,Cellarius,Hungary,Sales & Marketing,2571079,989785,14,10,2004
+788,careful-service,Germany,Health,3537769,1173908,141,75,2014
+789,Softneta,Lithuania,Health,1778249,590642,30,24,2007
+790,Progeny,UK,Financial Services,16601337,5561585,161,64,2016
+791,Web Geo Services,France,Technology,24114000,8022358,57,29,2009
+792,Spedition Ibov,Germany,Transport,3424863,1140000,n/a,n/a,2013
+793,MyPostcard.com,Germany,Retail,6358307,2119022,25,21,2014
+794,VARIOSAN,Germany,Retail,3233968,1078808,3,2,2013
+795,Riedle + Bertsch,Germany,Technology,2331579,777849,36,8,2013
+796,Mobili Fiver,Italy,Interiors,11897820,3973460,50,23,1999
+797,KLC DESAMIANTAGE,France,Construction,6182419,2065220,46,11,2015
+798,SECRET ARTS OF SPIRITS,France,Retail,3308224,1105569,6,3,2014
+799,MPB Group Limited,UK,Ecommerce,72503245,24429686,184,68,2011
+800,3zehn Auto Discount,Germany,Automobiles,25448057,8527777,12,5,2016
+801,ADIKTEEV,France,Technology,45616000,15292051,67,50,2012
+802,Fundis Reitsport,Germany,Retail,7066208,2370645,50,3,2009
+803,Antriebstechnik Ebner-Seibold,Germany,Retail,2245423,753352,17,9,2009
+804,Invibes Advertising,Belgium,Technology,11530000,3880663,102,30,2011
+805,Jointly il welfare condiviso,Italy,Support Services,2400550,808700,34,18,2014
+806,ABTOT Mark & Anläggning AB,Sweden,Construction,9983094,3450305,23,10,2012
+807,DUSAPRO Immobilien,Germany,Property,33903865,11484801,36,10,2012
+808,SOLDATS FILMS,France,Media,2320653,787160,8,4,2012
+809,Eagleprojects,Italy,Telecoms,15140480,5137900,287,120,2016
+810,Agile Lab,Italy,Technology,5590450,1897650,43,15,2013
+811,importpris.no,Norway,Ecommerce,3113197,1126971,8,4,2012
+812,truu,Germany,Industrial Goods,12472561,4245861,72,18,2011
+813,L’Atelier,France,Technology,4288024,1461226,15,5,2016
+814,frigoclim Kälte-Klima,Germany,Construction,3890690,1326082,22,7,2014
+815,M Coffee Company,Germany,Retail,2117442,722795,5,3,2013
+816,PROTEXTYL,France,Retail,5324116,1818032,22,12,2011
+817,SP architecte,France,Construction,2825876,964998,18,14,2009
+818,Embargos a lo bestia,Spain,Retail,22559217,7709375,178,54,2011
+819,Snigel,Ireland,Technology,20479764,7000063,3,2,2011
+820,IMS Rettungsdienst,Germany,Health,1900000,650000,120,5,2006
+821,Way2Global SB,Italy,Support Services,2411600,828820,16,1,2017
+822,Media Access Solutions,UK,Support Services,3407930,1181642,33,3,2014
+823,Exadi,Spain,Sales and Marketing,42525086,14649568,44,21,2008
+824,Fiber-Service-Gesellschaft,Germany,Telecoms,4049655,1395607,29,10,2014
+825,TenderHut (Group),Poland,Technology,10264611,3868483,280,140,2010
+826,Worldwide Fishing Company,Spain,Food & Beverage,140442673,48449141,30,12,2016
+827,Doctor Hail spa,Italy,Automobiles,18101114,6246592,43,26,2013
+828,KBS Group,Germany,Support Services,42006000,14500000,1500,650,2011
+829,Terre Ehitus,Estonia,Construction,2089215,723064,12,5,2017
+830,Bauer Energiekonzepte,Germany,Energy,36223730,12554325,19,7,2013
+831,New Euroart,Italy,Construction,9307640,3226280,77,26,2001
+832,Capelli For You,Italy,Beauty,1658750,575120,16,8,2015
+833,Ogury,UK,Advertising,108758853,37992902,371,133,2014
+834,TFT Ernst,Germany,Construction,2012427,698300,17,7,2017
+835,Somerford Associates,UK,Technology,18757685,6564162,55,31,2001
+836,ARCADIA Investment,Germany,Property,8102218,2818652,38,12,2012
+837,FiloBlu,Italy,Management Consulting,55564420,19351090,186,112,2009
+838,Tribus Digital,UK,Technology,1952800,685567,21,8,2016
+839,DoIT,Italy,Technology,3040000,1060000,35,20,2014
+840,Global Perspectives,UK,Health,6631496,2329522,23,8,2009
+841,Pirene,Italy,Support Services,1512680,527910,25,8,1999
+842,iPulse,UK,Personal & Household Goods,105149602,36995102,183,39,2012
+843,blue networks,Germany,Technology,6626713,2322241,47,23,2002
+844,N. Schwegler,Germany,Construction,10514000,3686000,35,20,2009
+845,Marcus Lutz Bau,Germany,Construction,1874438,659402,15,7,2002
+846,HKR-Technik,Germany,Retail,6996880,2462478,4,3,2008
+847,Licht + Strom,Germany,Technology,4039340,1424633,30,18,2007
+848,Die Autowelt,Germany,Automobiles,16754654,5915499,40,15,2009
+849,ARTHEAU AVIATION,France,Aerospace & Defence,11263318,3977562,9,4,2012
+850,Cepo,Italy,Industrial Goods,4503670,1592170,22,13,2000
+851,Sneakers & Jackets,France,Financial Services,2888273,1022714,2,1,2013
+852,89up,UK,Advertising,1814237,647020,26,11,2009
+853,LUXURY & PERFORMANCE SELECTION,France,Automobiles,6444045,2281929,4,na,2016
+854,Grayce Group,UK,Management Consulting,17890928,6381674,395,117,2012
+855,Nemesi Italia,Italy,Technology,1640000,581520,4,1,1993
+856,Halo Service Solutions,UK,Technology,5037087,1799189,40,12,1994
+857,Raspberry Pi,UK,Technology,80066074,28668484,73,36,2012
+858,Giopato & Coombes,Italy,Interiors,5467910,1944000,17,8,2010
+859,Ship it,Germany,Retail,3391041,1207009,8,4,2016
+860,Rheinische Scheidestätte,Germany,Retail,83044963,29564866,47,19,2012
+861,Whites Agency,Poland,Advertising,4076348,1586246,90,34,2011
+862,Casa di Riposo Medicalizzata Sempione*,Italy,Health,2436000,867960,38,1,2017
+863,CShark,Poland,Technology,11828515,4608343,269,135,2014
+864,Zinox Laser,Italy,Interiors,6364000,2269510,47,30,2015
+865,Tera Automation,Italy,Industrial Goods,4987860,1778890,20,14,2013
+866,Innova Hts,Italy,Health,8792400,3137630,16,12,2014
+867,Kentigen,Czech Republic,Technology,1507867,554004,20,8,2013
+868,Teal Partners,Belgium,Technology,3873750,1386701,23,13,2015
+869,LM Medical Division,Italy,Health,11281040,4040060,47,16,2010
+870,BEC,Germany,Technology,7843183,2809036,47,25,2003
+871,Xylon,Croatia,Technology,4491888,1610149,81,41,1995
+872,Spedition Kai Rindert,Germany,Transport,3018684,1083821,9,2,2017
+873,CO.GE.SA. Costruzioni Generali Saba,Italy,Construction,3453730,1241760,22,16,2009
+874,Skärgårdstunnan/Skargards,Sweden,Ecommerce,15082088,5547537,20,13,2010
+875,Autonova Milano,Italy,Automobiles,2790680,1006280,14,1,2015
+876,Polarstern,Germany,Energy,30270074,10925375,40,25,2011
+877,halsdorfer + ingenieure projekt,Germany,Property,31038460,11207566,15,5,2013
+878,OPNA,France,Support Services,2317903,838200,23,9,2015
+879,Stikets,Spain,Ecommerce,9318626,3372820,39,25,2010
+880,CampuStore,Italy,Education,34410600,12479120,18,18,1994
+881,Ars Futura,Croatia,Technology,1580154,574487,27,14,2013
+882,Cemir Security,Italy,Support Services,2835330,1028730,116,64,2015
+883,Borgy CZ,Czech Republic,Personal & Household Goods,22419033,8362568,60,40,2009
+884,Groupe Zephyr,France,Health,16264645,5908517,600,190,2007
+885,Dernier Cri,France,Technology,3956061,1438184,57,25,2015
+886,yes!devs,Germany,Technology,2200000,800000,37,10,2016
+887,Hydroflex Group,Germany,Retail,13166000,4788000,36,19,2009
+888,Proteko Service,Italy,Support Services,5502450,2003540,31,7,2016
+889,MiniCRM,Hungary,Technology,2232347,944107,26,26,2012
+890,CNQ Consorzio Nazionale Qualità,Italy,Waste management & recycling,2151050,783460,39,13,2001
+891,Accolade,Czech Republic,Property,83981636,31477723,n/a,n/a,2010
+892,Panel Sandwich,Spain,Construction,9637845,3517519,27,9,2009
+893,SYMBIOSE Informatique,France,Technology,33080096,12074454,32,28,1991
+894,G.Engineering,Italy,Industrial Goods,16504780,6024830,51,24,2012
+895,I-PARTICULIERS,France,Property,4071600,1488875,200,50,2011
+896,Henco,Germany,Retail,6970679,2550263,48,25,2012
+897,Giglio.com,Italy,Ecommerce,25355630,9283620,53,25,2007
+898,Alphaspel,Sweden,Retail,4535769,1699234,16,5,2013
+899,Sapiegos Klinika,Lithuania,Health,1578677,579436,24,14,2014
+900,OpenCorporates,UK,Technology,2730677,1010498,25,9,2010
+901,BE CLOUD,France,Support Services,10371094,3811605,49,22,2012
+902,Drukarnia piga.pl,Poland,Ecommerce,4064038,1632988,130,60,2014
+903,groupe mister menuiserie,France,Ecommerce,68009314,25003047,227,84,2010
+904,Insetto,Germany,Retail,6010130,2210651,79,51,1999
+905,Technophage,Portugal,Pharmaceuticals,2237180,823381,13,9,2005
+906,skalis portage salarial,France,Support Services,6202068,2287420,68,25,2008
+907,peoplegrapher,Germany,Advertising,3561298,1314806,11,5,2016
+908,Reveg Fruit,Italy,Food & Beverage,2356570,870070,4,2,2016
+909,Sciant,Bulgaria,Technology,3192139,1178653,79,39,2016
+910,Boender & Beutel,Germany,Industrial Goods,14550131,5376347,130,50,2012
+911,EKINOPS,France,Telecoms,92800000,34291000,456,419,2003
+912,Sano-Técnica,Portugal,Health,4972658,1838120,13,12,1938
+913,möbelando,Germany,Retail,16692390,6170577,24,16,2013
+914,Democom,Italy,Telecoms,3347950,1238210,37,12,2011
+915,Erbagil,Italy,Pharmaceuticals,4021010,1490280,11,3,2009
+916,Axopar Boats,Finland,Travel & Leisure,78765693,29247774,32,9,2014
+917,Advanced Composites Solutions,Italy,Automobiles,5393690,2006100,54,11,2012
+918,Spartivento Yachts & Charter,Italy,Travel & Leisure,5194630,1932580,34,12,2000
+919,Seargin,Poland,Technology,18624755,7576080,64,39,2014
+920,TTP HOLDING,Germany,Support Services,37607000,13997000,32,28,2009
+921,Sweef furniture,Sweden,Retail,9506903,3620585,14,5,2011
+922,SONIC Tanácsadó és Szolgáltató Kft,Hungary,Technology,4646080,2009719,10,5,2008
+923,spotit,Belgium,Cyber Security,20387729,7606472,71,30,2014
+924,LABEL EXPERIENCE,France,Financial Services,1756470,655366,27,11,2016
+925,LMM Logistics,Italy,Transport,14113040,5268390,724,2,2015
+926,Medicalfit,Spain,Health,2378517,888395,35,15,2008
+927,Nuova MG,Italy,Industrial Goods,2126840,794770,26,23,2017
+928,innov and co handicap,France,Technology,1879824,702609,30,7,2016
+929,Alma Entreprise,France,Construction,13438347,5023015,31,33,2003
+930,Radit,Italy,Support Services,1879520,703190,15,8,2016
+931,REGIONAL EXPRESS,France,Transport,22841800,8552857,220,80,2013
+932,Aravati,France,Support Services,6671500,2500644,59,26,2004
+933,Pöhner Hamburg,Germany,Retail,15603000,5851000,7,4,2013
+934,Schreinerei Huber,Germany,Construction,2629044,986286,21,18,2010
+935,ISR,France,Technology,4637943,1741112,12,12,1996
+936,Kinga Mathe,Germany,Retail,1800494,676431,5,2,2008
+937,Rivile,Lithuania,Technology,3905042,1467195,24,20,1992
+938,MaGarantie5ans,France,Retail,9253546,3477788,20,8,2016
+939,BEBEBOUTIK,France,Retail,29080296,10944325,98,36,2012
+940,Radar Cyber Security,Austria,Technology,12727043,4794822,122,88,2011
+941,CLAIR GROUP,France,Aerospace & Defence,38960985,14683064,121,49,2004
+942,Appsfactory,Germany,Technology,18044631,6801966,221,105,2009
+943,Stiltz Homelifts,UK,Interiors,36960953,14051407,250,142,2010
+944,Star Stone,Romania,Construction,4409476,1729707,105,48,2012
+945,Coptrz,UK,Aerospace & Defence,6297471,2395445,22,10,2016
+946,Nurole,UK,Technology,3249493,1236098,35,15,2014
+947,ABAO Energy,Germany,Construction,2406917,910386,15,10,2016
+948,Welol Next,Italy,Technology,2685440,1017320,32,16,2011
+949,Intent HQ,UK,Technology,5762891,2199126,75,22,2010
+950,Café du Cycliste,France,Ecommerce,7445865,2826571,20,14,2009
+951,LANGER Lüftungs- und Klimaanlagen,Germany,Construction,4609256,1749794,8,5,2016
+952,Formind,France,Cyber Security,16845354,6398583,130,60,2010
+953,Oasis Smart SIM Europe**,France,Telecoms,3065165,1167000,20,4,2010
+954,Aferetica,Italy,Health,6376910,2429230,13,9,2013
+955,Zero,Italy,Energy,42000000,16000000,37,15,2014
+956,SKILLS,France,Support Services,11650138,4443710,70,20,2011
+957,3E Studio,Italy,Support Services,2804580,1071090,22,1,2015
+958,Pannonia Steel,Slovakia,Construction,1768886,675645,5,1,2013
+959,Kronos,Italy,Fashion,23579000,9009270,21,15,2009
+960,LaSaponaria,Italy,Beauty,6304690,2409730,22,11,2007
+961,Die Wuhlewanderer,Germany,Health,4970000,1900000,95,50,2013
+962,IMINT Vidhance,Sweden,Technology,4851538,1897113,27,26,2007
+963,Arte e Passione,Italy,Restaurants,1671730,639410,47,18,2016
+964,PAUL MARIUS,France,Retail,24869602,9515000,87,29,2011
+965,Scalefocus,Bulgaria,Technology,33137857,12686177,730,330,2012
+966,Whiskyzone,Germany,Retail,10750866,4117340,16,7,2014
+967,Targa Telematics,Italy,Technology,37386150,14327610,113,63,2002
+968,SIAN Wholesale Ltd,UK,Transport,74719260,28939861,50,23,2003
+969,Visage Technologies,Sweden,Technology,5677639,2233448,104,54,2002
+970,Riotloc,Lithuania,Games industry,1551468,596906,1,1,2016
+971,BullionVault,UK,Precious metals,16196046,6278456,34,31,2003
+972,3A Antioxidants,Spain,Chemicals & Pharmaceuticals,7704000,2968892,23,9,2000
+973,on Metall,Germany,Industrial Goods,2587718,997518,6,3,2016
+974,Scribbr,The Netherlands,Education,8862818,3417536,39,22,2012
+975,Selectra,France,Energy,62951353,24320734,1000,500,2007
+976,Energetic,Italy,Energy,1711470,661860,13,7,2010
+977,Faveod,France,Support Services,2598585,1005658,9,7,2007
+978,CYE Energia,Spain,Energy,23673728,9161867,15,5,2013
+979,Integrata Oy,Finland,Financial Services,9409000,3647000,105,33,2008
+980,Regular Trade,Germany,Retail,11671000,4526000,25,15,2010
+981,Expleo,Hungary,Energy,2696785,900686,15,6,2011
+982,Confezioni Velvet,Italy,Fashion,3355870,1302640,21,21,2015
+983,Activ Bilanz,Germany,Property,17286985,6712146,10,12,1998
+984,Family Nation,Italy,Ecommerce,5300370,2059190,12,5,2011
+985,Majar – Matzaridis Bros,Greece,Technology,13224865,5144442,19,13,1994
+986,Izertis,Spain,Technology,50740841,19753150,791,431,1996
+987,Fashion Commerce,Italy,Ecommerce,2349000,916000,5,1,2016
+988,Bulk Tainer Logistics Limited,UK,Transport,56054130,21717432,105,41,2009
+989,Wingeco,Italy,Industrial Goods,3407310,1332330,22,12,2016
+990,Meblobranie.pl,Poland,Ecommerce,19295429,6909799,25,12,2021
+991,Queraltó,Spain,Ecommerce,21900903,8575344,67,39,1898
+992,Phobos,Slovakia,Automobiles,3529454,1382844,12,8,1993
+993,Archita Engineering,Italy,Support Services,2739230,1074130,5,13,2013
+994,Celeritas,Spain,Transport,58139933,22805398,27,10,2006
+995,peopleForecast,Germany,Technology,2086411,818658,45,15,2014
+996,Digitalpa,Italy,Management Consulting,1731340,679440,12,41,2014
+997,Faktenkontor,Germany,Advertising,30967000,12153143,150,100,2003
+998,CLAREO,France,Retail,18854708,7399729,53,13,2012
+999,Laca Trade,Italy,Property,24741510,9717860,5,5,2013

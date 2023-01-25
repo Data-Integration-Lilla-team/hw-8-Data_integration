@@ -1,0 +1,11 @@
+{
+"address":["address"],
+"capital":['capital'],
+"code":['code'],
+"deletion_date":['deletion_date'],
+"id":['id'],
+"legal_form":['legal_form'],
+"registration_date":['registration_date'],
+"status":['status'],
+"url":['url']
+}
