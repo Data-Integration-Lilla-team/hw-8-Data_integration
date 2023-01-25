@@ -1,2 +1,1 @@
 TEAM:09-wissel-> COLS: ['address', 'capital', 'code', 'deletion_date', 'id', 'legal_form', 'name', 'registration_date', 'status', 'url']
-TEAM:matrice_ngrams-> COLS: ['address', 'capital', 'code', 'deletion_date', 'id', 'legal_form', 'name', 'registration_date', 'status', 'url']

@@ -2,11 +2,11 @@ SORGENTE	 #DATASETS
 ambitiobox	2
 ariregister	2
 cbinsights	3
-companiesmarketcap	10
+companiesmarketcap	8
 disfold	10
 forbes	4
 ft	5
-globaldata	2
+globaldata	1
 govuk	3
 hithorizons	2
 infoclipper	2

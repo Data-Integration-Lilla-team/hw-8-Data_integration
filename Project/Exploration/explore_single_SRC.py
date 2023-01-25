@@ -24,7 +24,7 @@ class Explorer:
         for f in os.listdir(base_path):
             file=os.path.join(base_path,f)
             if os.path.isfile(file):
-                if '.' not in file:
+                if '.' not in file and '-' in file:
                     file_names[f]=file
 
         return file_names
@@ -257,7 +257,7 @@ class Explorer:
         
 
         
-        matrice_correlazione.to_csv(os.path.join(base_path,matrice_correlazioneNgrams_file_csv))
+        matrice_correlazioneNgrams.to_csv(os.path.join(base_path,matrice_correlazioneNgrams_file_csv))
 
     
         

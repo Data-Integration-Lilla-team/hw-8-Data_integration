@@ -1,4 +1,3 @@
 TEAM:05-MalPatSaj-> COLS: ['assets', 'country', 'market_value', 'name', 'profit', 'sales']
 TEAM:07-silvestri-> COLS: ['country', 'market_value_apr_2022', 'name', 'revenue_2022']
 TEAM:08-slytherin-> COLS: ['ceo', 'country', 'employees', 'founded', 'industry', 'link', 'name', 'revenue']
-TEAM:matrice_ngrams-> COLS: ['assets', 'ceo', 'country', 'employees', 'founded', 'industry', 'link', 'market_value', 'market_value_apr_2022', 'name', 'profit', 'revenue', 'revenue_2022', 'sales']

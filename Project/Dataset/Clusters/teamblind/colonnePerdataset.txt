@@ -1,2 +1,1 @@
 TEAM:01-DDD-> COLS: ['founded', 'industry', 'locations', 'name', 'size', 'website']
-TEAM:matrice_ngrams-> COLS: ['founded', 'industry', 'locations', 'name', 'size', 'website']

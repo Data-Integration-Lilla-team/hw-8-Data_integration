@@ -1,2 +1,1 @@
 TEAM:00-avengers-> COLS: ['address', 'est_of_ownership', 'hhid', 'id', 'industry', 'name', 'nation', 'sic_code', 'type']
-TEAM:matrice_ngrams-> COLS: ['address', 'est_of_ownership', 'hhid', 'id', 'industry', 'name', 'nation', 'sic_code', 'type']

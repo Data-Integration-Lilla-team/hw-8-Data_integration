@@ -1,6 +1,0 @@
-,foundation_year,headquarter,industry,name,ownership
-foundation_year,1.0,0.034482758620689655,0.0,0.0,0.0
-headquarter,0.034482758620689655,1.0,0.0,0.0,0.0
-industry,0.0,0.0,1.0,0.0,0.0
-name,0.0,0.0,0.0,1.0,0.0
-ownership,0.0,0.0,0.0,0.0,1.0
