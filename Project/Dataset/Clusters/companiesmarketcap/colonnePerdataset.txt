@@ -2,7 +2,7 @@ TEAM:00-avengers-> COLS: ['categories', 'change_1_day', 'change_1_year', 'countr
 TEAM:01-DDD-> COLS: ['categories', 'change1d', 'change1y', 'country', 'marketcap', 'name', 'rank', 'share_price']
 TEAM:02-GioPonSpiz-> COLS: ['codice', 'country', 'name', 'price', 'pricecap']
 TEAM:03-gren-> COLS: ['country', 'market_capitalization_usd', 'name', 'price']
-TEAM:04-iGMM-> COLS: ['categories', 'change_1day', 'change_1year', 'code', 'country', 'marketcap', 'name', 'rank', 'shareprice']
+TEAM:04-iGMM-> COLS: ['categories', 'change_1day_', 'change_1year_', 'code', 'country', 'marketcap', 'name', 'rank', 'shareprice']
 TEAM:05-MalPatSaj-> COLS: ['country', 'marketcap', 'name', 'price', 'symbol']
 TEAM:06-MarScoToc-> COLS: ['country', 'master_cap', 'name', 'rank', 'share_price']
 TEAM:09-wissel-> COLS: ['company_code', 'earnings', 'employees', 'id', 'marketcap', 'name', 'revenue', 'share_price', 'shares', 'url']
