@@ -1,4 +1,4 @@
-,Unnamed: 0,URL,ID,Name,Company code,Marketcap,Share price,Earnings,Revenue,Shares,Employees
+,Unnamed: 0,url,id,name,company_code,marketcap,share_price,earnings,revenue,shares,employees
 0,0,https://companiesmarketcap.com/vertex-pharmaceuticals/marketcap/,1.0,Vertex Pharmaceuticals,VRTX,$77.24 B,$300.94,$4.08 B,$8.70 B,256.500.000,3.9
 1,1,https://companiesmarketcap.com/verano-holdings/marketcap/,2.0,Verano Holdings,VRNOF,$0.97 B,$3.00,-$62.2 M,$0.81 B,,3.888
 2,2,https://companiesmarketcap.com/azz/marketcap/,3.0,AZZ,AZZ,$1.09 B,$43.85,$0.12 B,$1.17 B,,3.885
@@ -118,7 +118,7 @@
 116,116,https://companiesmarketcap.com/lancaster-colony/marketcap/,117.0,Lancaster Colony Corporation,LANC,$5.46 B,$198.46,$0.15 B,$1.70 B,,3.2
 117,117,https://companiesmarketcap.com/pinnacle-financial-partners/marketcap/,118.0,Pinnacle Financial Partners,PNFP,$5.73 B,$75.04,$0.68 B,$1.24 B,75.761.930,3.184
 118,118,https://companiesmarketcap.com/heartland-express/marketcap/,119.0,Heartland Express,HTLD,$1.30 B,$16.49,$0.21 B,$0.76 B,,3.18
-119,119,"https://companiesmarketcap.com/nn/marketcap/,120,""NN, Inc."",NNBR,$89.93 M,$2.05,-$8.37 M,$0.49 B,,3.172,USA,0.2850918769836426,0.0010006427764892578,0.0,0.0,0.0,0.0,0.001016378402709961,0.0",,,,,,,,,
+"119,119,""https://companiesmarketcap.com/nn/marketcap/,120,""""NN, Inc."""",NNBR,$89.93 M,$2.05,-$8.37 M,$0.49 B,,3.172,USA,0.2850918769836426,0.0010006427764892578,0.0,0.0,0.0,0.0,0.001016378402709961,0.0"",,,,,,,,,"
 120,120,https://companiesmarketcap.com/toast/marketcap/,121.0,Toast,TOST,$10.36 B,$19.91,-$0.18 B,$2.47 B,513.719.867,3.172
 121,121,https://companiesmarketcap.com/us-physical-therapy/marketcap/,122.0,U.S. Physical Therapy,USPH,$1.16 B,$89.65,$69.4 M,$0.54 B,,3.158
 122,122,https://companiesmarketcap.com/nv5-global/marketcap/,123.0,NV5 Global,NVEE,$2.16 B,$139.37,$74.76 M,$0.78 B,,3.139
@@ -419,7 +419,7 @@
 417,417,https://companiesmarketcap.com/avepoint/marketcap/,418.0,AvePoint,AVPT,$0.81 B,$4.35,-$27.35 M,$0.22 B,,1.934
 418,418,https://companiesmarketcap.com/pioneer-natural-resources/marketcap/,419.0,Pioneer Natural Resources,PXD,$56.78 B,$238.99,$9.20 B,$24.78 B,239.000.000,1.932
 419,419,https://companiesmarketcap.com/ranger-energy-services/marketcap/,420.0,Ranger Energy Services,RNGR,$0.28 B,$11.50,$34.6 M,$0.57 B,,1.915
-420,420,"https://companiesmarketcap.com/sturm-ruger/marketcap/,421,""Sturm, Ruger & Co"",RGR,$0.97 B,$55.21,$0.13 B,$0.61 B,,1.912,USA,0.6169724464416504,0.0,0.0,0.0,0.0,0.0,0.0009443759918212891,0.0",,,,,,,,,
+"420,420,""https://companiesmarketcap.com/sturm-ruger/marketcap/,421,""""Sturm, Ruger & Co"""",RGR,$0.97 B,$55.21,$0.13 B,$0.61 B,,1.912,USA,0.6169724464416504,0.0,0.0,0.0,0.0,0.0,0.0009443759918212891,0.0"",,,,,,,,,"
 421,421,https://companiesmarketcap.com/sps-commerce/marketcap/,422.0,SPS Commerce,SPSC,$4.78 B,$132.90,$67.54 M,$0.43 B,,1.901
 422,422,https://companiesmarketcap.com/innospec/marketcap/,423.0,Innospec,IOSP,$2.71 B,$109.72,$0.17 B,$1.86 B,,1.9
 423,423,https://companiesmarketcap.com/diamond-offshore-drilling/marketcap/,424.0,Diamond Offshore Drilling,DO,$1.15 B,$11.34,-$0.12 B,$1.33 B,,1.9
@@ -810,7 +810,7 @@
 808,808,https://companiesmarketcap.com/ambarella/marketcap/,809.0,Ambarella,AMBA,$3.38 B,$87.39,-$63.16 M,$0.34 B,,899.0
 809,809,https://companiesmarketcap.com/national-presto-industries/marketcap/,810.0,National Presto Industries,NPK,$0.50 B,$71.85,$24.56 M,$0.30 B,,895.0
 810,810,https://companiesmarketcap.com/alliance-resource-partners/marketcap/,811.0,Alliance Resource Partners,ARLP,$2.61 B,$20.57,$0.47 B,$2.17 B,,895.0
-811,811,"https://companiesmarketcap.com/view-inc/marketcap/,812,""View, Inc."",VIEW,$0.16 B,$0.77,-$0.33 B,$85.51 M,,895,USA,0.28468751907348633,0.0,0.0,0.0,0.0,0.0,0.0,0.0",,,,,,,,,
+"811,811,""https://companiesmarketcap.com/view-inc/marketcap/,812,""""View, Inc."""",VIEW,$0.16 B,$0.77,-$0.33 B,$85.51 M,,895,USA,0.28468751907348633,0.0,0.0,0.0,0.0,0.0,0.0,0.0"",,,,,,,,,"
 812,812,https://companiesmarketcap.com/german-american-bancorp/marketcap/,813.0,German American Bancorp,GABC,$1.12 B,$37.99,$91.67 M,$0.24 B,,894.0
 813,813,https://companiesmarketcap.com/oceanfirst-financial/marketcap/,814.0,OceanFirst Financial,OCFC,$1.30 B,$22.10,$0.14 B,$0.38 B,,894.0
 814,814,https://companiesmarketcap.com/full-house-resorts/marketcap/,815.0,Full House Resorts,FLL,$0.30 B,$8.83,-$2.74 M,$0.17 B,,893.0
@@ -1832,7 +1832,7 @@
 1830,1830,https://companiesmarketcap.com/puretech-health/marketcap/,1831.0,PureTech Health,PRTC,$0.86 B,$29.48,-$58.96 M,$9.97 M,,95.0
 1831,1831,https://companiesmarketcap.com/iteos-therapeutics/marketcap/,1832.0,iTeos Therapeutics,ITOS,$0.67 B,$19.07,$0.32 B,$0.45 B,,94.0
 1832,1832,https://companiesmarketcap.com/day-one-biopharmaceuticals/marketcap/,1833.0,Day One Biopharmaceuticals,DAWN,$1.67 B,$22.83,-$0.13 B,,,94.0
-1833,1833,"https://companiesmarketcap.com/texas-pacific-land-trust/marketcap/,1834,Texas Pacific Land Trust,TPL,$16.62 B,""$2,108"",$0.56 B,$0.66 B,7.714.796,92,USA,0.319657564163208,0.0009889602661132812,0.0,0.0,0.0,0.0,0.0,0.0",,,,,,,,,
+"1833,1833,""https://companiesmarketcap.com/texas-pacific-land-trust/marketcap/,1834,Texas Pacific Land Trust,TPL,$16.62 B,""""$2,108"""",$0.56 B,$0.66 B,7.714.796,92,USA,0.319657564163208,0.0009889602661132812,0.0,0.0,0.0,0.0,0.0,0.0"",,,,,,,,,"
 1834,1834,https://companiesmarketcap.com/opgen/marketcap/,1835.0,OpGen,OPGN,$7.53 M,$2.60,-$33.52 M,$3.31 M,,91.0
 1835,1835,https://companiesmarketcap.com/kingstone-companies/marketcap/,1836.0,Kingstone Companies,KINS,$18.37 M,$1.72,-$20 M,$0.13 B,,91.0
 1836,1836,https://companiesmarketcap.com/aehr-test-systems/marketcap/,1837.0,Aehr Test Systems,AEHR,$0.80 B,$29.24,$12.41 M,$61.05 M,,91.0
@@ -2276,7 +2276,7 @@
 2274,2274,https://companiesmarketcap.com/viper-energy-partners/marketcap/,2275.0,Viper Energy Partners,VNOM,$5.48 B,$33.25,$0.62 B,$0.82 B,,
 2275,2275,https://companiesmarketcap.com/dcp-midstream/marketcap/,2276.0,DCP Midstream,DCP,$8.74 B,$41.98,$1.40 B,$15.44 B,208.400.000,
 2276,2276,https://companiesmarketcap.com/ashford-hospitality-trust/marketcap/,2277.0,Ashford Hospitality Trust,AHT,$0.21 B,$5.83,$69.74 M,$1.17 B,,
-2277,2277,"https://companiesmarketcap.com/first-national-of-nebraska/marketcap/,2278,First National of Nebraska,FINN,$1.51 B,""$14,199"",$0.13 B,$0.32 B,,N/A,USA,0.49976563453674316,0.0,0.0,0.00099945068359375,0.0,0.0,0.0,0.0",,,,,,,,,
+"2277,2277,""https://companiesmarketcap.com/first-national-of-nebraska/marketcap/,2278,First National of Nebraska,FINN,$1.51 B,""""$14,199"""",$0.13 B,$0.32 B,,N/A,USA,0.49976563453674316,0.0,0.0,0.00099945068359375,0.0,0.0,0.0,0.0"",,,,,,,,,"
 2278,2278,https://companiesmarketcap.com/netstreit/marketcap/,2279.0,Netstreit,NTST,$1.15 B,$19.59,$14.41 M,$86.78 M,,
 2279,2279,https://companiesmarketcap.com/delek-logistics-partners/marketcap/,2280.0,Delek Logistics Partners,DKL,$2.04 B,$46.98,$0.15 B,$0.95 B,,
 2280,2280,https://companiesmarketcap.com/ares-commercial-real-estate/marketcap/,2281.0,Ares Commercial Real Estate,ACRE,$0.62 B,$11.57,$44.36 M,$0.10 B,,
@@ -2678,7 +2678,7 @@
 2676,2676,https://companiesmarketcap.com/granite-reit/marketcap/,2678.0,Granite Real Estate,GRP-UN,$3.60 B,$56.56,$0.53 B,$0.33 B,,
 2677,2677,https://companiesmarketcap.com/sylogist/marketcap/,2679.0,Sylogist,SYZ.TO,$0.10 B,$4.53,$3.22 M,$39.5 M,,
 2678,2678,https://companiesmarketcap.com/pyrogenesis-canada/marketcap/,2680.0,PyroGenesis Canada,PYR,$0.14 B,$0.82,-$33.85 M,$17.69 M,,
-2679,2679,"https://companiesmarketcap.com/constellation-software/marketcap/,2681,Constellation Software,CSU.TO,$35.97 B,""$1,698"",$0.77 B,$6.15 B,21.191.530,N/A,canada,0.22229409217834473,0.0009911060333251953,0.0,0.0,0.0009992122650146484,0.001001596450805664,0.0010037422180175781,0.0032868385314941406",,,,,,,,,
+"2679,2679,""https://companiesmarketcap.com/constellation-software/marketcap/,2681,Constellation Software,CSU.TO,$35.97 B,""""$1,698"""",$0.77 B,$6.15 B,21.191.530,N/A,canada,0.22229409217834473,0.0009911060333251953,0.0,0.0,0.0009992122650146484,0.001001596450805664,0.0010037422180175781,0.0032868385314941406"",,,,,,,,,"
 2680,2680,https://companiesmarketcap.com/cogeco/marketcap/,2682.0,Cogeco,CCA.TO,$2.38 B,$53.20,$0.57 B,$2.26 B,,
 2681,2681,https://companiesmarketcap.com/corby-spirit-and-wine/marketcap/,2683.0,Corby Spirit and Wine,CSW-A.TO,$0.34 B,$12.19,$26.15 M,$0.12 B,,
 2682,2682,https://companiesmarketcap.com/clairvest-group/marketcap/,2684.0,Clairvest Group,CVG.TO,$0.81 B,$54.52,$0.27 B,$0.33 B,,
@@ -2901,7 +2901,7 @@
 2899,2899,https://companiesmarketcap.com/leg-immobilien/marketcap/,2901.0,LEG Immobilien,LEG.DE,$6.16 B,$83.25,$2.47 B,$1.18 B,72.900.886,1.77
 2900,2900,https://companiesmarketcap.com/new-work/marketcap/,2902.0,New Work,NWO.F,$0.95 B,$170.72,$56.03 M,$0.34 B,,1.754
 2901,2901,https://companiesmarketcap.com/simona/marketcap/,2903.0,Simona,SIM0.F,$0.54 B,$90.68,$55.87 M,$0.61 B,,1.675
-2902,2902,"https://companiesmarketcap.com/gelsenwasser/marketcap/,2904,Gelsenwasser,WWG.F,$3.47 B,""$1,010"",$0.13 B,$7.13 B,,1.638,germany,1.2589123249053955,0.0,0.0009987354278564453,0.001003265380859375,0.0,0.0,0.0,0.0014538764953613281",,,,,,,,,
+"2902,2902,""https://companiesmarketcap.com/gelsenwasser/marketcap/,2904,Gelsenwasser,WWG.F,$3.47 B,""""$1,010"""",$0.13 B,$7.13 B,,1.638,germany,1.2589123249053955,0.0,0.0009987354278564453,0.001003265380859375,0.0,0.0,0.0,0.0014538764953613281"",,,,,,,,,"
 2903,2903,https://companiesmarketcap.com/stratec/marketcap/,2905.0,STRATEC,SBS.F,$1.13 B,$93.18,$42.16 M,$0.28 B,,1.427
 2904,2904,https://companiesmarketcap.com/mister-spex/marketcap/,2906.0,Mister Spex,MRX.F,$0.16 B,$4.84,-$32.83 M,$0.22 B,,1.35
 2905,2905,https://companiesmarketcap.com/teamviewer/marketcap/,2907.0,TeamViewer,TMV.DE,$2.64 B,$14.92,$0.11 B,$0.59 B,,1.322
@@ -3008,7 +3008,7 @@
 3006,3006,https://companiesmarketcap.com/eurazeo/marketcap/,3008.0,Eurazeo,RF.PA,$5.32 B,$70.16,$2.59 B,$6.96 B,1.313.900.000,19.832
 3007,3007,https://companiesmarketcap.com/pernod-ricard/marketcap/,3009.0,Pernod Ricard,RI.PA,$54.32 B,$212.10,$2.82 B,$11.17 B,1.313.900.000,19.48
 3008,3008,https://companiesmarketcap.com/arkema/marketcap/,3010.0,Arkema,AKE.PA,$7.54 B,$100.83,$1.65 B,$12.30 B,77.777.778,19.441
-3009,3009,"https://companiesmarketcap.com/hermes-international/marketcap/,3011,HermÃ¨s,RMS.PA,$185.11 B,""$1,765"",$3.89 B,$10.17 B,77.777.778,18.428,france,0.17880606651306152,0.0,0.0,0.0,0.0,0.0,0.0,0.0009984970092773438",,,,,,,,,
+"3009,3009,""https://companiesmarketcap.com/hermes-international/marketcap/,3011,HermÃ¨s,RMS.PA,$185.11 B,""""$1,765"""",$3.89 B,$10.17 B,77.777.778,18.428,france,0.17880606651306152,0.0,0.0,0.0,0.0,0.0,0.0,0.0009984970092773438"",,,,,,,,,"
 3010,3010,https://companiesmarketcap.com/imerys/marketcap/,3012.0,Imerys,NK.PA,$3.49 B,$41.38,$1.45 B,$5.13 B,,17.0
 3011,3011,https://companiesmarketcap.com/accor/marketcap/,3013.0,Accor,AC.PA,$7.87 B,$29.93,-$62.29 M,$2.49 B,,14.466
 3012,3012,https://companiesmarketcap.com/dassault-aviation/marketcap/,3014.0,Dassault Aviation,AM.PA,$13.69 B,$165.40,$0.84 B,$8.20 B,,12.371
@@ -3577,7 +3577,7 @@
 3575,3575,https://companiesmarketcap.com/lupin/marketcap/,3569.0,Lupin Limited,LUPIN.NS,$4.24 B,$9.32,$54.61 M,$2.01 B,,19.789
 3576,3576,https://companiesmarketcap.com/sbi-life-insurance/marketcap/,3570.0,SBI Life Insurance,SBILIFE.NS,$16.03 B,$16.01,$0.22 B,$9.49 B,999.310.345,19.599
 3577,3577,https://companiesmarketcap.com/apollo-tyres/marketcap/,3571.0,Apollo Tyres,APOLLOTYRE.NS,$2.48 B,$3.91,$0.18 B,$2.93 B,,19.112
-3578,3578,"https://companiesmarketcap.com/mrf/marketcap/,3572,Madras Rubber Factory,MRF.NS,$4.65 B,""$1,098"",$0.13 B,$2.75 B,,18.734,india,0.16519713401794434,0.0,0.0,0.0010030269622802734,0.0,0.0,0.0,0.0",,,,,,,,,
+"3578,3578,""https://companiesmarketcap.com/mrf/marketcap/,3572,Madras Rubber Factory,MRF.NS,$4.65 B,""""$1,098"""",$0.13 B,$2.75 B,,18.734,india,0.16519713401794434,0.0,0.0,0.0010030269622802734,0.0,0.0,0.0,0.0"",,,,,,,,,"
 3579,3579,https://companiesmarketcap.com/rbl-bank/marketcap/,3573.0,RBL Bank,RBLBANK.NS,$1.29 B,$2.16,$0.12 B,$0.87 B,,18.01
 3580,3580,https://companiesmarketcap.com/paytm/marketcap/,3574.0,Paytm,PAYTM.NS,$4.38 B,$6.81,-$0.36 B,$0.84 B,,17.964
 3581,3581,https://companiesmarketcap.com/delhivery/marketcap/,3575.0,Delhivery,DELHIVERY.NS,$2.87 B,$3.94,-$0.2 B,$0.95 B,,17.256
@@ -5221,7 +5221,7 @@
 5219,59,https://companiesmarketcap.com/general-dynamics/marketcap/,,General Dynamics,GD,$69.28 B,$252.37,$4.35 B,$38.84 B,273.916.000,103.100
 5220,60,https://companiesmarketcap.com/albertsons/marketcap/,,Albertsons,ACI,$11.20 B,$20.95,$2.21 B,$74.00 B,531.900.000,101.500
 5221,61,https://companiesmarketcap.com/ross-stores/marketcap/,,Ross Stores,ROST,$40.76 B,$117.46,$1.93 B,$18.50 B,344.884.000,100.000
-5222,62,https://companiesmarketcap.com/chipotle-mexican-grill/marketcap/,,Chipotle Mexican Grill,CMG,$44.97 B,"$1,622",$1.05 B,$8.41 B,27.773.000,100.000
+"5222,62,https://companiesmarketcap.com/chipotle-mexican-grill/marketcap/,,Chipotle Mexican Grill,CMG,$44.97 B,""$1,622"",$1.05 B,$8.41 B,27.773.000,100.000"
 5223,63,https://companiesmarketcap.com/mcdonald/marketcap/,,McDonald,MCD,$200.60 B,$273.90,$7.59 B,$22.93 B,735.717.271,100.000
 5224,64,https://companiesmarketcap.com/tesla/marketcap/,,Tesla,TSLA,$615.79 B,$197.94,$12.60 B,$74.86 B,3.146.000.000,99.290
 5225,65,https://companiesmarketcap.com/honeywell/marketcap/,,Honeywell,HON,$147.89 B,$219.97,$7.33 B,$34.93 B,679.000.000,99.000
@@ -5274,7 +5274,7 @@
 5272,112,https://companiesmarketcap.com/otis-worldwide/marketcap/,,Otis Worldwide,OTIS,$32.40 B,$77.79,$2.03 B,$13.81 B,418.500.000,70.000
 5273,113,https://companiesmarketcap.com/us-bancorp/marketcap/,,U.S. Bancorp,USB,$67.34 B,$45.33,$8.33 B,$23.50 B,1.486.000.000,70.000
 5274,114,https://companiesmarketcap.com/philip-morris/marketcap/,,Philip Morris,PM,$155.91 B,$100.58,$12.32 B,$81.46 B,1.550.000.000,69.600
-5275,115,https://companiesmarketcap.com/autozone/marketcap/,,AutoZone,AZO,$48.87 B,"$2,575",$3.07 B,$16.25 B,19.798.000,69.440
+"5275,115,https://companiesmarketcap.com/autozone/marketcap/,,AutoZone,AZO,$48.87 B,""$2,575"",$3.07 B,$16.25 B,19.798.000,69.440"
 5276,116,https://companiesmarketcap.com/whirlpool/marketcap/,,Whirlpool,WHR,$8.10 B,$148.74,$0.93 B,$20.61 B,54.700.000,69.000
 5277,117,https://companiesmarketcap.com/davita/marketcap/,,DaVita,DVA,$6.69 B,$74.35,$1.13 B,$11.21 B,94.457.000,69.000
 5278,118,https://companiesmarketcap.com/illumina/marketcap/,,Illumina,ILMN,$34.62 B,$220.11,-$4.06 B,$4.69 B,157.000.000,68.000
@@ -5510,7 +5510,7 @@
 5508,348,https://companiesmarketcap.com/caseys-general-stores/marketcap/,,Casey's General Stores,CASY,$8.99 B,$241.53,$0.54 B,$13.93 B,37.222.943,20.451
 5509,349,https://companiesmarketcap.com/united-rentals/marketcap/,,United Rentals,URI,$24.35 B,$351.40,$2.55 B,$11.12 B,69.854.000,20.400
 5510,350,https://companiesmarketcap.com/marriott-vacations-worldwide/marketcap/,,Marriott Vacations Worldwide,VAC,$5.76 B,$150.49,$0.63 B,$3.25 B,41.212.121,20.300
-5511,351,https://companiesmarketcap.com/markel/marketcap/,,Markel,MKL,$17.83 B,"$1,326",$89.3 M,$11.51 B,13.612.000,20.300
+"5511,351,https://companiesmarketcap.com/markel/marketcap/,,Markel,MKL,$17.83 B,""$1,326"",$89.3 M,$11.51 B,13.612.000,20.300"
 5512,352,https://companiesmarketcap.com/vf-corp/marketcap/,,VF Corporation,VFC,$13.20 B,$33.98,$0.61 B,$11.79 B,387.688.000,20.300
 5513,353,https://companiesmarketcap.com/jetblue-airways/marketcap/,,Jetblue Airways,JBLU,$2.59 B,$8.02,-$0.49 B,$8.01 B,323.900.000,20.013
 5514,354,https://companiesmarketcap.com/modivcare/marketcap/,,ModivCare,MODV,$1.07 B,$76.27,$72.7 M,$2.42 B,14.047.459,20.000
@@ -5530,7 +5530,7 @@
 5528,368,https://companiesmarketcap.com/icahn-enterprises/marketcap/,,Icahn Enterprises,IEP,$17.17 B,$50.90,-$0.49 B,$12.91 B,306.000.000,19.536
 5529,369,https://companiesmarketcap.com/fastenal/marketcap/,,Fastenal,FAST,$29.50 B,$51.51,$1.42 B,$6.81 B,573.000.000,19.519
 5530,370,https://companiesmarketcap.com/zimmer-biomet/marketcap/,,Zimmer Biomet,ZBH,$25.50 B,$121.52,$0.33 B,$7.15 B,209.600.000,19.500
-5531,371,https://companiesmarketcap.com/booking-holdings/marketcap/,,Booking Holdings (Booking.com),BKNG,$80.87 B,"$2,085",$3.28 B,$16.02 B,40.512.000,19.450
+"5531,371,https://companiesmarketcap.com/booking-holdings/marketcap/,,Booking Holdings (Booking.com),BKNG,$80.87 B,""$2,085"",$3.28 B,$16.02 B,40.512.000,19.450"
 5532,372,https://companiesmarketcap.com/roper-technologies/marketcap/,,Roper Technologies,ROP,$46.54 B,$438.89,$1.30 B,$5.70 B,106.000.000,19.300
 5533,373,https://companiesmarketcap.com/citizens-financial-group/marketcap/,,Citizens Financial Group,CFG,$20.82 B,$42.28,$2.51 B,$7.54 B,495.651.083,19.235
 5534,374,https://companiesmarketcap.com/fifth-third-bank/marketcap/,,Fifth Third Bank,FITB,$24.78 B,$36.11,$3.00 B,$7.87 B,689.278.000,19.187
@@ -5608,7 +5608,7 @@
 5606,446,https://companiesmarketcap.com/carters/marketcap/,,Carter's,CRI,$2.80 B,$73.62,$0.38 B,$3.36 B,39.344.834,15.900
 5607,447,https://companiesmarketcap.com/silgan/marketcap/,,Silgan Holdings,SLGN,$5.80 B,$52.76,$0.64 B,$6.39 B,110.281.000,15.720
 5608,448,https://companiesmarketcap.com/edwards-lifesciences/marketcap/,,Edwards Lifesciences,EW,$48.16 B,$77.90,$1.83 B,$5.36 B,620.900.000,15.700
-5609,449,https://companiesmarketcap.com/mettler-toledo/marketcap/,,Mettler-Toledo,MTD,$33.11 B,"$1,485",$1.08 B,$3.89 B,22.593.375,15.600
+"5609,449,https://companiesmarketcap.com/mettler-toledo/marketcap/,,Mettler-Toledo,MTD,$33.11 B,""$1,485"",$1.08 B,$3.89 B,22.593.375,15.600"
 5610,450,https://companiesmarketcap.com/assurant/marketcap/,,Assurant,AIZ,$6.79 B,$128.55,$0.51 B,$10.11 B,54.607.321,15.600
 5611,451,https://companiesmarketcap.com/parsons/marketcap/,,Parsons,PSN,$5.10 B,$49.30,$0.17 B,$4.04 B,103.675.373,15.500
 5612,452,https://companiesmarketcap.com/amd/marketcap/,,AMD,AMD,$125.18 B,$77.64,$2.60 B,$22.82 B,1.618.000.000,15.500
@@ -5677,7 +5677,7 @@
 5675,515,https://companiesmarketcap.com/resideo/marketcap/,,Resideo Technologies,REZI,$2.36 B,$16.25,$0.45 B,$6.26 B,145.457.000,13.300
 5676,516,https://companiesmarketcap.com/iac/marketcap/,,IAC/InterActiveCorp,IAC,$4.62 B,$52.09,-$1.52 B,$5.14 B,86.748.000,13.200
 5677,517,https://companiesmarketcap.com/comfort-systems/marketcap/,,Comfort Systems,FIX,$4.53 B,$126.95,$0.22 B,$3.87 B,35.853.000,13.200
-5678,518,https://companiesmarketcap.com/seaboard/marketcap/,,Seaboard,SEB,$4.63 B,"$3,992",$0.51 B,$10.89 B,1.160.779,13.200
+"5678,518,https://companiesmarketcap.com/seaboard/marketcap/,,Seaboard,SEB,$4.63 B,""$3,992"",$0.51 B,$10.89 B,1.160.779,13.200"
 5679,519,https://companiesmarketcap.com/topbuild/marketcap/,,TopBuild,BLD,$5.00 B,$156.45,$0.71 B,$4.80 B,32.405.292,13.006
 5680,520,https://companiesmarketcap.com/edison-international/marketcap/,,Edison International,EIX,$25.27 B,$66.20,$1.60 B,$16.53 B,381.000.000,13.003
 5681,521,https://companiesmarketcap.com/dutch-bros/marketcap/,,Dutch Bros,BROS,$6.42 B,$38.25,-$15.79 M,$0.67 B,50.926.000,13.000
@@ -5984,7 +5984,7 @@
 5982,822,https://companiesmarketcap.com/jbt/marketcap/,,John Bean Technologies,JBT,$2.96 B,$92.92,$0.14 B,$2.06 B,32.000.000,6.600
 5983,823,https://companiesmarketcap.com/bwxt/marketcap/,,BWX Technologies,BWXT,$5.59 B,$61.34,$0.40 B,$2.20 B,91.394.853,6.600
 5984,824,https://companiesmarketcap.com/american-financial-group/marketcap/,,American Financial Group,AFG,$12.10 B,$142.15,$1.31 B,$6.30 B,85.154.263,6.600
-5985,825,https://companiesmarketcap.com/nvr/marketcap/,,NVR,NVR,$15.11 B,"$4,730",$2.15 B,$10.05 B,3.266.000,6.600
+"5985,825,https://companiesmarketcap.com/nvr/marketcap/,,NVR,NVR,$15.11 B,""$4,730"",$2.15 B,$10.05 B,3.266.000,6.600"
 5986,826,https://companiesmarketcap.com/ipg-photonics/marketcap/,,IPG Photonics,IPGP,$4.46 B,$91.60,$0.34 B,$1.46 B,51.687.000,6.580
 5987,827,https://companiesmarketcap.com/first-citizens-bancshares/marketcap/,,First Citizens BancShares,FCNCA,$11.80 B,$820.48,$1.12 B,$3.79 B,16.023.613,6.578
 5988,828,https://companiesmarketcap.com/zendesk/marketcap/,,Zendesk,ZEN,$9.62 B,$77.48,-$0.28 B,$1.58 B,122.841.000,6.540
@@ -6375,7 +6375,7 @@
 6373,1213,https://companiesmarketcap.com/lancaster-colony/marketcap/,,Lancaster Colony Corporation,LANC,$5.68 B,$206.33,$0.15 B,$1.70 B,27.447.000,3.200
 6374,1214,https://companiesmarketcap.com/pinnacle-financial-partners/marketcap/,,Pinnacle Financial Partners,PNFP,$6.38 B,$83.56,$0.68 B,$1.24 B,75.761.930,3.184
 6375,1215,https://companiesmarketcap.com/heartland-express/marketcap/,,Heartland Express,HTLD,$1.30 B,$16.60,$0.21 B,$0.76 B,78.934.000,3.180
-6376,1216,https://companiesmarketcap.com/nn/marketcap/,,"NN, Inc.",NNBR,$83.78 M,$1.91,-$8.37 M,$0.49 B,44.708.000,3.172
+"6376,1216,https://companiesmarketcap.com/nn/marketcap/,,""NN, Inc."",NNBR,$83.78 M,$1.91,-$8.37 M,$0.49 B,44.708.000,3.172"
 6377,1217,https://companiesmarketcap.com/toast/marketcap/,,Toast,TOST,$9.67 B,$18.57,-$0.18 B,$2.47 B,509.532.418,3.172
 6378,1218,https://companiesmarketcap.com/us-physical-therapy/marketcap/,,U.S. Physical Therapy,USPH,$1.13 B,$87.61,$69.4 M,$0.45 B,12.998.000,3.158
 6379,1219,https://companiesmarketcap.com/nv5-global/marketcap/,,NV5 Global,NVEE,$2.26 B,$145.69,$74.76 M,$0.78 B,14.736.167,3.139

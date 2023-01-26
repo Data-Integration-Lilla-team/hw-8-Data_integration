@@ -1,4 +1,4 @@
-,name,market_capitalization_USD,price,country
+,name,market_capitalization_usd,price,country
 0,Apple,2062000000000,130,USA
 1,Saudi Aramco,1848000000000,8,S. Arabia
 2,Microsoft,1676000000000,225,USA
@@ -905,7 +905,7 @@
 903,Rollins,17990000000,37,USA
 904,Darden Restaurants,17980000000,147,USA
 905,SGS,17970000000,2400,Switzerland
-906,"M3, Inc",17960000000,26,Japan
+"906,""M3, Inc"",17960000000,26,Japan"
 907,Icahn Enterprises,17870000000,53,USA
 908,Tata Motors,17860000000,23,India
 909,Clorox,17820000000,144,USA
@@ -4662,7 +4662,7 @@
 4660,Steel Partners,930000000,43,USA
 4661,Piedmont Lithium,930000000,52,Australia
 4662,Gogoro,930000000,4,Taiwan
-4663,"Sturm, Ruger & Co",920000000,53,USA
+"4663,""Sturm, Ruger & Co"",920000000,53,USA"
 4664,Palfinger,920000000,27,Austria
 4665,Omega Flex,920000000,92,USA
 4666,Marshalls plc,920000000,4,UK
@@ -6109,7 +6109,7 @@
 6107,Cepton,190000000,1,USA
 6108,Hill International,190000000,3,USA
 6109,Cooper Standard,190000000,11,USA
-6110,"PLAID,Inc.",190000000,5,Japan
+"6110,""PLAID,Inc."",190000000,5,Japan"
 6111,Southern Petrochemical Industries Corp,190000000,1,India
 6112,Faraday Future,190000000,0,USA
 6113,Penns Woods Bancorp,190000000,27,USA
@@ -6138,7 +6138,7 @@
 6136,Bank of Innovation,180000000,47,Japan
 6137,Velodyne Lidar,180000000,1,USA
 6138,Nelco,180000000,8,India
-6139,"View, Inc.",180000000,1,USA
+"6139,""View, Inc."",180000000,1,USA"
 6140,Veritone,180000000,5,USA
 6141,GTL Infrastructure,180000000,0,India
 6142,MPS Limited,180000000,11,India
@@ -6591,7 +6591,7 @@
 6589,Sotherly Hotels,73190000,2,USA
 6590,S.S. Lazio,72740000,1,Italy
 6591,aTyr Pharma,72520000,3,USA
-6592,"NN, Inc.",72380000,2,USA
+"6592,""NN, Inc."",72380000,2,USA"
 6593,Embark Technology,72130000,3,USA
 6594,IO Biotech,72030000,3,Denmark
 6595,Syros Pharmaceuticals,72000000,4,USA

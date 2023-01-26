@@ -1,4 +1,4 @@
-,Name,Master Cap,Country,Rank,Share Price
+,name,master cap,country,rank,share_price
 0,Apple,$2.183 T,USA,#1,$137.87
 1,Saudi Aramco,$1.887 T,Saudi Arabia,#2,$8.58
 2,Microsoft,$1.790 T,USA,#3,$240.22
@@ -51,7 +51,7 @@
 49,Abbott Laboratories,$196.70 B,USA,#51,$112.82
 50,Nike,$196.33 B,USA,#52,$126.62
 51,Cisco,$192.17 B,USA,#53,$46.78
-52,Hermès,$190.26 B,France,#54,"$1,768"
+"52,Hermès,$190.26 B,France,#54,""$1,768"""
 53,Walt Disney,$188.70 B,USA,#55,$103.48
 54,T-Mobile US,$180.55 B,USA,#56,$145.12
 55,Accenture,$176.76 B,Ireland,#57,$280.47
@@ -150,7 +150,7 @@
 148,TJX Companies,$91.90 B,USA,#150,$79.54
 149,Glencore,$91.54 B,Switzerland,#151,$7.16
 150,Chubb,$91.48 B,Switzerland,#152,$220.43
-151,Booking Holdings (Booking.com),$90.93 B,USA,#153,"$2,344"
+"151,Booking Holdings (Booking.com),$90.93 B,USA,#153,""$2,344"""
 152,Intuitive Surgical,$90.73 B,USA,#154,$256.77
 153,Schneider Electric,$90.36 B,France,#155,$155.78
 154,PayPal,$90.16 B,USA,#156,$79.09
@@ -283,7 +283,7 @@
 281,Bharti Airtel,$56.09 B,India,#283,$9.41
 282,Enterprise Products,$55.99 B,USA,#284,$25.74
 283,Industrial Bank,$55.68 B,China,#285,$2.68
-284,MercadoLibre,$55.22 B,,#286,"$1,098"
+"284,MercadoLibre,$55.22 B,,#286,""$1,098"""
 285,Foshan Haitian Flavouring and Food,$55.14 B,China,#287,$11.90
 286,MetLife,$55.07 B,USA,#288,$70.19
 287,Valero Energy,$55.02 B,USA,#289,$142.73
@@ -345,7 +345,7 @@
 343,Hess,$47.72 B,USA,#345,$154.80
 344,Bayan Resources,$47.72 B,Indonesia,#346,$1.43
 345,Rational AG,$47.68 B,Germany,#347,$679.85
-346,Adyen,$47.63 B,Netherlands,#348,"$1,437"
+"346,Adyen,$47.63 B,Netherlands,#348,""$1,437"""
 347,American Electric Power,$47.36 B,USA,#349,$92.17
 348,National Grid,$47.33 B,UK,#350,$64.38
 349,First Abu Dhabi Bank,$47.22 B,United Arab Emirates,#351,$4.27
@@ -391,12 +391,12 @@
 389,Ping An Bank,$43.81 B,China,#391,$2.26
 390,Bajaj Finance,$43.66 B,India,#392,$72.13
 391,NXP Semiconductors,$43.66 B,Netherlands,#393,$168.50
-392,AutoZone,$43.66 B,USA,#394,"$2,327"
+"392,AutoZone,$43.66 B,USA,#394,""$2,327"""
 393,Ecolab,$43.54 B,USA,#395,$152.88
 394,The Travelers Companies,$43.43 B,USA,#396,$185.33
 395,TC Energy,$43.41 B,Canada,#397,$43.42
 396,Centene,$43.12 B,USA,#398,$76.15
-397,Chipotle Mexican Grill,$43.11 B,USA,#399,"$1,555"
+"397,Chipotle Mexican Grill,$43.11 B,USA,#399,""$1,555"""
 398,Kotak Mahindra Bank,$43.09 B,India,#400,$21.70
 399,OCBC Bank,$43.02 B,Singapore,#401,$9.57
 400,WuXi AppTec,$43.00 B,China,#402,$13.73
@@ -456,7 +456,7 @@
 454,Denso,$38.96 B,Japan,#456,$51.94
 455,Larsen & Toubro,$38.91 B,India,#457,$27.69
 456,Republic Services,$38.91 B,USA,#458,$123.15
-457,Maersk,$38.90 B,Denmark,#459,"$2,124"
+"457,Maersk,$38.90 B,Denmark,#459,""$2,124"""
 458,Kuaishou Technology,$38.85 B,China,#460,$8.98
 459,Lonza,$38.72 B,Switzerland,#461,$522.00
 460,TE Connectivity,$38.71 B,Switzerland,#462,$122.22
@@ -482,7 +482,7 @@
 480,HCL Technologies,$36.91 B,India,#482,$13.63
 481,Alcon,$36.89 B,Switzerland,#483,$75.29
 482,Bank of China (Hong Kong),$36.82 B,Hong Kong,#484,$3.48
-483,Constellation Software,$36.79 B,Canada,#485,"$1,736"
+"483,Constellation Software,$36.79 B,Canada,#485,""$1,736"""
 484,Dupont De Nemours,$36.74 B,USA,#486,$73.97
 485,L3Harris Technologies,$36.65 B,USA,#487,$192.51
 486,TransDigm,$36.57 B,USA,#488,$672.65
@@ -505,7 +505,7 @@
 503,Old Dominion Freight Line,$35.02 B,USA,#505,$317.02
 504,Danone,$34.97 B,France,#506,$54.68
 505,China State Construction Engineering,$34.85 B,China,#507,$0.83
-506,Mettler-Toledo,$34.81 B,USA,#508,"$1,562"
+"506,Mettler-Toledo,$34.81 B,USA,#508,""$1,562"""
 507,Electronic Arts,$34.78 B,USA,#509,$125.99
 508,VICI Properties,$34.72 B,USA,#510,$33.58
 509,BioNTech,$34.65 B,Germany,#511,$142.79
@@ -609,7 +609,7 @@
 607,Gree Electric Appliances,$29.45 B,China,#610,$5.23
 608,Woolworths Group,$29.45 B,Australia,#611,$24.21
 609,Swiss Re,$29.41 B,Switzerland,#612,$101.81
-610,Givaudan,$29.41 B,Switzerland,#613,"$3,188"
+"610,Givaudan,$29.41 B,Switzerland,#613,""$3,188"""
 611,WEC Energy Group,$29.36 B,USA,#614,$93.08
 612,Albemarle,$29.11 B,USA,#615,$248.49
 613,KONE,$29.06 B,Finland,#616,$56.21
@@ -696,7 +696,7 @@
 694,EnBW Energie,$25.41 B,Germany,#697,$93.83
 695,eBay,$25.32 B,USA,#698,$46.66
 696,Veeva Systems,$25.28 B,USA,#699,$162.44
-697,Lindt,$25.23 B,Switzerland,#700,"$10,893"
+"697,Lindt,$25.23 B,Switzerland,#700,""$10,893"""
 698,Skandinaviska Enskilda Banken,$25.20 B,Sweden,#701,$11.94
 699,Bridgestone,$25.16 B,Japan,#702,$36.76
 700,Goodman Group,$25.14 B,Australia,#703,$13.37
@@ -883,7 +883,7 @@
 881,West Pharmaceutical,$19.21 B,USA,#885,$259.55
 882,Wilmar International,$19.21 B,Singapore,#886,$3.07
 883,Powergrid Corporation of India,$19.16 B,India,#887,$2.75
-884,"M3, Inc",$19.10 B,Japan,#888,$28.14
+"884,""M3, Inc"",$19.10 B,Japan,#888,$28.14"
 885,POSCO,$19.06 B,South Korea,#889,$62.85
 886,Tata Motors,$19.05 B,India,#890,$24.88
 887,Legal & General,$19.03 B,UK,#891,$3.11
@@ -901,14 +901,14 @@
 899,Kanzhun,$18.77 B,China,#903,$24.02
 900,CLP Group,$18.76 B,Hong Kong,#904,$7.43
 901,Nippon Steel,$18.73 B,Japan,#905,$20.34
-902,SGS,$18.69 B,Switzerland,#906,"$2,496"
+"902,SGS,$18.69 B,Switzerland,#906,""$2,496"""
 903,George Weston,$18.68 B,Canada,#907,$129.11
 904,Sun Communities,$18.67 B,USA,#908,$147.87
 905,NIO,$18.67 B,China,#909,$11.07
 906,Monolithic Power Systems,$18.67 B,USA,#910,$397.78
 907,Eisai,$18.63 B,Japan,#911,$64.98
 908,Formosa Plastics,$18.62 B,Taiwan,#912,$2.93
-909,Markel,$18.56 B,USA,#913,"$1,381"
+"909,Markel,$18.56 B,USA,#913,""$1,381"""
 910,Garmin,$18.56 B,Switzerland,#914,$96.85
 911,W. R. Berkley,$18.56 B,USA,#915,$69.92
 912,Wabtec,$18.52 B,USA,#916,$101.85
@@ -1019,7 +1019,7 @@
 1017,Etsy,$16.56 B,USA,#1021,$131.82
 1018,Quest Diagnostics,$16.56 B,USA,#1022,$145.43
 1019,Check Point Software,$16.51 B,Israel,#1023,$131.72
-1020,Texas Pacific Land Trust,$16.51 B,USA,#1024,"$2,094"
+"1020,Texas Pacific Land Trust,$16.51 B,USA,#1024,""$2,094"""
 1021,Skyworks Solutions,$16.50 B,USA,#1025,$103.06
 1022,SolarEdge,$16.47 B,Israel,#1026,$294.73
 1023,Avangrid,$16.45 B,USA,#1027,$42.57
@@ -1045,7 +1045,7 @@
 1043,Terna,$16.08 B,Italy,#1048,$7.93
 1044,Royal Caribbean,$16.07 B,USA,#1049,$62.99
 1045,Siemens Energy,$16.05 B,Germany,#1050,$20.53
-1046,NVR,$16.05 B,USA,#1051,"$5,024"
+"1046,NVR,$16.05 B,USA,#1051,""$5,024"""
 1047,HubSpot,$16.02 B,USA,#1052,$329.94
 1048,Howmet Aerospace,$16.01 B,USA,#1053,$38.70
 1049,Coles Group,$15.99 B,Australia,#1054,$11.95
@@ -1146,7 +1146,7 @@
 1144,CK Infrastructure,$14.19 B,Hong Kong,#1149,$5.63
 1145,SS&C Technologies,$14.17 B,USA,#1150,$56.27
 1146,Grab Holdings,$14.17 B,Singapore,#1151,$3.68
-1147,Shinkin Central Bank,$14.17 B,Japan,#1152,"$2,113"
+"1147,Shinkin Central Bank,$14.17 B,Japan,#1152,""$2,113"""
 1148,Bandai Namco,$14.16 B,Japan,#1153,$64.40
 1149,Textron,$14.16 B,USA,#1154,$67.85
 1150,NetApp,$14.11 B,USA,#1155,$65.47
@@ -1351,7 +1351,7 @@
 1349,VF Corporation,$11.40 B,USA,#1354,$29.34
 1350,The Toro Company,$11.38 B,USA,#1355,$109.48
 1351,E.SUN Bank,$11.38 B,Taiwan,#1356,$0.80
-1352,Barry Callebaut,$11.37 B,Switzerland,#1357,"$2,076"
+"1352,Barry Callebaut,$11.37 B,Switzerland,#1357,""$2,076"""
 1353,Cameco,$11.37 B,Canada,#1358,$26.30
 1354,Sumitomo Realty & Development,$11.37 B,Japan,#1359,$23.99
 1355,DocuSign,$11.36 B,USA,#1360,$56.51
@@ -1835,7 +1835,7 @@
 1833,CPFL Energia,$7.36 B,Brazil,#1841,$6.40
 1834,Banco Santander-Chile,$7.36 B,Chile,#1842,$15.63
 1835,Procore,$7.35 B,USA,#1843,$53.31
-1836,Nippon Building Fund,$7.34 B,Japan,#1844,"$4,320"
+"1836,Nippon Building Fund,$7.34 B,Japan,#1844,""$4,320"""
 1837,Concentrix,$7.33 B,USA,#1845,$141.99
 1838,Clarivate,$7.32 B,UK,#1846,$10.87
 1839,Daito Trust Construction,$7.32 B,Japan,#1847,$107.45
@@ -2105,7 +2105,7 @@
 2103,Valvoline,$6.10 B,USA,#2111,$34.99
 2104,Universal Display Corporation,$6.10 B,USA,#2112,$129.17
 2105,Curtiss-Wright,$6.09 B,USA,#2113,$159.19
-2106,Nippon Prologis REIT,$6.09 B,Japan,#2114,"$2,217"
+"2106,Nippon Prologis REIT,$6.09 B,Japan,#2114,""$2,217"""
 2107,FirstService,$6.09 B,Canada,#2115,$137.83
 2108,Dun & Bradstreet,$6.09 B,USA,#2116,$13.98
 2109,Otsuka,$6.09 B,Japan,#2117,$32.13
@@ -2158,7 +2158,7 @@
 2156,Nanya Technology,$5.90 B,Taiwan,#2164,$1.91
 2157,Yamana Gold,$5.90 B,Canada,#2165,$6.14
 2158,Light & Wonder,$5.89 B,USA,#2166,$62.95
-2159,Japan Real Estate Investment,$5.88 B,Japan,#2167,"$4,250"
+"2159,Japan Real Estate Investment,$5.88 B,Japan,#2167,""$4,250"""
 2160,Banco Sabadell,$5.88 B,Spain,#2168,$1.03
 2161,Melco Resorts & Entertainment,$5.87 B,Hong Kong,#2169,$13.21
 2162,Permian Resources,$5.87 B,USA,#2170,$10.54
@@ -2227,7 +2227,7 @@
 2225,EXL Service,$5.59 B,USA,#2233,$169.36
 2226,Valaris,$5.59 B,UK,#2234,$74.44
 2227,Timken Company,$5.59 B,USA,#2235,$76.89
-2228,Nomura Real Estate Master Fund,$5.58 B,Japan,#2236,"$1,184"
+"2228,Nomura Real Estate Master Fund,$5.58 B,Japan,#2236,""$1,184"""
 2229,Wärtsilä,$5.58 B,Finland,#2237,$9.46
 2230,Quiñenco,$5.58 B,Chile,#2238,$3.36
 2231,Mitsubishi Motors,$5.57 B,Japan,#2239,$3.75
@@ -2344,7 +2344,7 @@
 2342,Shift4 Payments,$5.23 B,USA,#2350,$63.46
 2343,Rayonier,$5.21 B,USA,#2351,$34.85
 2344,Barito Pacific,$5.21 B,Indonesia,#2352,$0.04000
-2345,GLP J-REIT,$5.20 B,Japan,#2353,"$1,106"
+"2345,GLP J-REIT,$5.20 B,Japan,#2353,""$1,106"""
 2346,Weibo,$5.20 B,China,#2354,$22.02
 2347,Ashok Leyland,$5.20 B,India,#2355,$1.77
 2348,Muthoot Finance,$5.20 B,India,#2356,$12.95
@@ -2496,7 +2496,7 @@
 2494,Portland General Electric,$4.69 B,USA,#2502,$46.50
 2495,Commercial International Bank,$4.68 B,,#2503,$1.44
 2496,Wendel,$4.67 B,France,#2504,$104.37
-2497,Madras Rubber Factory,$4.67 B,India,#2505,"$1,102"
+"2497,Madras Rubber Factory,$4.67 B,India,#2505,""$1,102"""
 2498,Inchcape,$4.67 B,UK,#2506,$11.30
 2499,Ryder,$4.66 B,USA,#2507,$92.87
 2500,Sabanc? Holding,$4.66 B,Turkey,#2508,$2.32
@@ -2506,7 +2506,7 @@
 2504,APi Group,$4.65 B,USA,#2512,$19.91
 2505,IMI plc,$4.65 B,UK,#2513,$17.40
 2506,Saudi Investment Bank,$4.65 B,Saudi Arabia,#2514,$4.66
-2507,Seaboard,$4.65 B,USA,#2515,"$4,009"
+"2507,Seaboard,$4.65 B,USA,#2515,""$4,009"""
 2508,Steel Authority of India,$4.65 B,India,#2516,$1.13
 2509,Castellum,$4.63 B,Sweden,#2517,$14.12
 2510,Odakyu Electric Railway,$4.62 B,Japan,#2518,$12.73
@@ -2802,9 +2802,9 @@
 2800,PBBank (Public Bank Bhd),$3.82 B,Malaysia,#2808,$0.99
 2801,Société Foncière Lyonnaise,$3.82 B,France,#2809,$89.27
 2802,Kirby Corporation,$3.81 B,USA,#2810,$63.76
-2803,White Mountains Insurance Group,$3.81 B,,#2811,"$1,482"
+"2803,White Mountains Insurance Group,$3.81 B,,#2811,""$1,482"""
 2804,Faurecia,$3.81 B,France,#2812,$18.46
-2805,Gelsenwasser,$3.80 B,Germany,#2813,"$1,086"
+"2805,Gelsenwasser,$3.80 B,Germany,#2813,""$1,086"""
 2806,Supermicro,$3.80 B,USA,#2814,$71.98
 2807,Manchester United,$3.80 B,UK,#2815,$23.35
 2808,GATX,$3.80 B,USA,#2816,$108.06
@@ -3474,7 +3474,7 @@
 3472,Hays plc,$2.46 B,UK,#3480,$1.52
 3473,Joby Aviation,$2.46 B,USA,#3481,$3.97
 3474,Holly Energy Partners,$2.46 B,USA,#3482,$19.50
-3475,INFICON,$2.46 B,Switzerland,#3483,"$1,008"
+"3475,INFICON,$2.46 B,Switzerland,#3483,""$1,008"""
 3476,Integer Holdings,$2.45 B,USA,#3484,$74.21
 3477,Endurance Technologies,$2.45 B,India,#3485,$17.46
 3478,Hatsun Agro Products,$2.45 B,India,#3486,$11.02
@@ -3552,7 +3552,7 @@
 3550,NuVasive,$2.33 B,USA,#3558,$44.79
 3551,Weber,$2.32 B,USA,#3559,$8.11
 3552,Dermapharm,$2.32 B,Germany,#3560,$41.23
-3553,Interroll,$2.32 B,Switzerland,#3561,"$2,842"
+"3553,Interroll,$2.32 B,Switzerland,#3561,""$2,842"""
 3554,Filo Mining,$2.32 B,Canada,#3562,$18.91
 3555,KWS,$2.32 B,Germany,#3563,$70.48
 3556,Sabre,$2.32 B,USA,#3564,$7.08
@@ -3585,7 +3585,7 @@
 3583,Cogeco,$2.29 B,Canada,#3591,$51.20
 3584,Berner Kantonalbank,$2.29 B,Switzerland,#3592,$248.06
 3585,Elkem,$2.28 B,Norway,#3593,$3.60
-3586,AEON REIT Investment,$2.28 B,Japan,#3594,"$1,117"
+"3586,AEON REIT Investment,$2.28 B,Japan,#3594,""$1,117"""
 3587,Tricon Residential,$2.28 B,Canada,#3595,$8.34
 3588,Xenon Pharmaceuticals,$2.28 B,Canada,#3596,$36.48
 3589,Immunovant,$2.28 B,USA,#3597,$17.65
@@ -3831,7 +3831,7 @@
 3829,Green Thumb Industries,$1.88 B,USA,#3837,$7.96
 3830,Lakeland Financial Corp,$1.87 B,USA,#3838,$74.11
 3831,Telenet,$1.87 B,Belgium,#3839,$16.63
-3832,Zug Estates Holding,$1.87 B,Switzerland,#3840,"$1,941"
+"3832,Zug Estates Holding,$1.87 B,Switzerland,#3840,""$1,941"""
 3833,FibroGen,$1.87 B,USA,#3841,$19.98
 3834,Tilray,$1.87 B,Canada,#3842,$3.05
 3835,Lenzing,$1.87 B,,#3843,$69.29
@@ -3890,7 +3890,7 @@
 3888,NBT Bancorp,$1.81 B,USA,#3896,$42.47
 3889,Altus Group,$1.81 B,Canada,#3897,$40.69
 3890,Ingles Markets,$1.81 B,USA,#3898,$95.53
-3891,Forbo Holding,$1.81 B,Switzerland,#3899,"$1,273"
+"3891,Forbo Holding,$1.81 B,Switzerland,#3899,""$1,273"""
 3892,Enterprise Financial Services Corp,$1.81 B,USA,#3900,$48.69
 3893,Pigeon,$1.81 B,Japan,#3901,$15.14
 3894,Trainline,$1.81 B,UK,#3902,$3.72
@@ -4207,7 +4207,7 @@
 4205,Perimeter Solutions,$1.44 B,USA,#4213,$9.18
 4206,YTL Corporation Berhad,$1.44 B,Malaysia,#4214,$0.13
 4207,Aris Water Solutions,$1.44 B,USA,#4215,$16.20
-4208,First National of Nebraska,$1.44 B,USA,#4216,"$13,500"
+"4208,First National of Nebraska,$1.44 B,USA,#4216,""$13,500"""
 4209,Blue Star,$1.44 B,India,#4217,$14.97
 4210,Dynavax Technologies,$1.44 B,USA,#4218,$11.30
 4211,Treace Medical Concepts,$1.43 B,USA,#4219,$25.94
@@ -4711,7 +4711,7 @@
 4709,Barloworld,$0.96 B,South Africa,#4718,$5.17
 4710,i3 Verticals,$0.95 B,USA,#4719,$28.98
 4711,Dole PLC,$0.95 B,Ireland,#4720,$10.11
-4712,"Sturm, Ruger & Co",$0.95 B,USA,#4721,$54.23
+"4712,""Sturm, Ruger & Co"",$0.95 B,USA,#4721,$54.23"
 4713,Italtile,$0.95 B,South Africa,#4722,$0.79
 4714,RAPT Therapeutics,$0.95 B,USA,#4723,$28.18
 4715,AmRest,$0.95 B,Spain,#4724,$4.37
@@ -6085,7 +6085,7 @@
 6083,Limoneira,$0.23 B,USA,#6093,$13.29
 6084,American Public Education,$0.23 B,USA,#6094,$12.42
 6085,Acumen Pharmaceuticals,$0.23 B,USA,#6095,$5.72
-6086,"PLAID,Inc.",$0.23 B,Japan,#6096,$5.98
+"6086,""PLAID,Inc."",$0.23 B,Japan,#6096,$5.98"
 6087,Plumas Bancorp,$0.23 B,USA,#6097,$39.92
 6088,Bankwell Financial Group,$0.23 B,USA,#6098,$30.16
 6089,Nacon,$0.23 B,France,#6099,$2.62
@@ -6253,7 +6253,7 @@
 6251,Hurco Companies,$0.18 B,USA,#6262,$27.80
 6252,Biodesix,$0.18 B,USA,#6263,$2.39
 6253,Affimed,$0.18 B,Germany,#6264,$1.22
-6254,"View, Inc.",$0.18 B,USA,#6265,$0.76
+"6254,""View, Inc."",$0.18 B,USA,#6265,$0.76"
 6255,Immutep,$0.18 B,Australia,#6266,$2.03
 6256,Repco Home Finance,$0.18 B,India,#6267,$2.91
 6257,Nature's Sunshine Products,$0.18 B,USA,#6268,$9.47

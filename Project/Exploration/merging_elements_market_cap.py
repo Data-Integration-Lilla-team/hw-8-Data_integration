@@ -1,5 +1,6 @@
 
 import pandas as pd
+import os
 from parser_custom import Parser_custom
 class Merger:
 
@@ -110,6 +111,35 @@ class Merger:
         for k in schema_mediato.keys():
             path=base_path+k+extension
             schema_mediato[k].to_csv(path)
+    
+    def from_ds_to_schema_mediato(path, dizionarioSinonimi):
+    
+        df_append = pd.DataFrame() #concatenazione di tutti i dataset
+        lista_df = []  #lista per concatenare
+        
+        #scorro tutti i dataset
+        for file in os.listdir(path):
+            df_temp = pd.read_csv(path + '\\' + file)
+            #scorro i termini del dizionario
+            for k in dizionarioSinonimi:
+                #scorro le colonne del dataset
+                for column_headers in list(df_temp.columns):
+                    #se il termine è nel dizionario
+                    if column_headers in dizionarioSinonimi[k]:
+                        #sostituisco il nome con quello desiderato (la chiave)
+                        df_temp.rename(columns={column_headers:k}, inplace = True)
+            #inserisco il df in una lista
+            lista_df.append(df_temp)
+        #concateno i dataset
+        df_append = pd.concat(lista_df, ignore_index = True)
+    
+        #elimino le colonne non volute nello schema mediato
+        for column in df_append.columns:
+            if column not in dizionarioSinonimi.keys():
+                df_append = df_append.drop(column, axis = 1)
+                
+        #salvo il dizionario
+        df_append.to_csv(path + '\\schema_mediato.csv' )
             
 
             
