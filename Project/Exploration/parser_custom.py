@@ -15,7 +15,7 @@ class Parser_custom():
             if to_filter_col not in c:
                 c=c.lower()             #tutto in lower case
                 c=c.replace('(','_')
-                c=c.replace(')','_')
+                c=c.replace(')','')
                 c=c.replace('-','_')
                 c=c.replace(' ','_')
            
@@ -46,3 +46,27 @@ class Parser_custom():
         
         else:
             return self.default_parser(columns)
+
+    
+    def parse_column_for_merge(self,columns):
+
+        oldName2NewName=dict()
+        cols=list(columns)
+       
+        
+        to_filter_col='Unnamed:'
+        for c in cols:
+            if to_filter_col not in c:
+                c_new=c.lower()             #tutto in lower case
+                c_new=c_new.replace('(','_')
+                c_new=c_new.replace(')','')
+                c_new=c_new.replace(' ','_')
+                c_new=c_new.replace('-','_')
+            
+                oldName2NewName[c]=c_new
+           
+                
+                
+    
+        return oldName2NewName
+            
