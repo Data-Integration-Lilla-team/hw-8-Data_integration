@@ -69,20 +69,22 @@ class Merger:
 
         for k in self.dizionarioSinonimi.keys():
             aggregatore_colonne_simili[k]=[]
-            elementi=self.dizionarioSinonimi[k]
+            elementi=self.dizionarioSinonimi[k]     #lista di valori sinonimi alla key
             print('ELEMENTI',elementi)
             #per ogni colonna accedo all'indice invertito
             teams=[]
             for e in elementi:
                 print('Elemento',e)
-                teams=inverted_index[e]
+                teams=inverted_index[e]         #acquisisco il team
                 for t in teams:
                     print('team',t)
-                    data_series=team2ds[t][e]   #series
-                    column_team=[t]*len(data_series)
+                    data_series=team2ds[t][e]   #prende la colonna interessata per il dataset creato dal team
                     
-                    frame={e:data_series,'team':column_team}
+                    column_team=[t]*len(data_series)    #crea una colonna con il nome del team
+
+                    frame={k:data_series,'team':column_team}
                     data=pd.DataFrame(frame)
+                    print(data)
                     aggregatore_colonne_simili[k].append(data)
 
 
@@ -108,6 +110,7 @@ class Merger:
         for k in schema_mediato.keys():
             path=base_path+k+extension
             schema_mediato[k].to_csv(path)
+            
 
             
 
