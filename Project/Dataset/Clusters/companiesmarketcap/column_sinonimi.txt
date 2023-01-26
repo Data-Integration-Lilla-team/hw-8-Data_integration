@@ -25,7 +25,7 @@
 'share_price':['price','share_price','shareprice'],
 "rank":['rank'],
 "revenue":['revenue'],
-"shares":['shares']
+"shares":['shares'],
 "url":['url']
 
 }

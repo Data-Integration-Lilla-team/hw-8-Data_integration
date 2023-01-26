@@ -3,6 +3,7 @@ import os
 import numpy as np
 from parser_custom import Parser_custom
 from Levenshtein import distance
+from merging_elements_market_cap import Merger
 
 
 #crea un dizionario composto da:
@@ -270,7 +271,7 @@ if __name__=='__main__':
     string=''
     #preparazioen stringa da scrivere
     for k in col4file.keys():
-            string=string+'TEAM:'+k+'-> COLS: '+ str(col4file[k])+'\n'
+            string=string+"'"+k+"':" + str(col4file[k])+'\n'
 
     write_infos_on_file(file_all_columns4ds,base_path,string)
     
@@ -289,9 +290,12 @@ if __name__=='__main__':
 
     #creazione di un indice invertito basato sulla similarità di chiavi
 
+    merger=Merger()
+    merger.merge_data(file_names,inverted_index)
 
 
-    
+
+    '''
     matrice_correlazioneNgrams='matrice_ngrams'
     matrice_levi='matrice_levi'
     threshold=0.9   #valore minimo per definire due di chiavi uguali
@@ -365,6 +369,8 @@ if __name__=='__main__':
    
     
     plot_correlation(matrice_correlazione,base_path, matrice_correlazioneNgrams,0.4)
+
+    '''
     
     
     
