@@ -78,16 +78,39 @@ class Merger:
                 teams=inverted_index[e]
                 for t in teams:
                     print('team',t)
-                    data_series=team2ds[t][e]
-                    frame={e:data_series}
+                    data_series=team2ds[t][e]   #series
+                    column_team=[t]*len(data_series)
+                    
+                    frame={e:data_series,'team':column_team}
                     data=pd.DataFrame(frame)
                     aggregatore_colonne_simili[k].append(data)
 
 
         
-        market_cap=aggregatore_colonne_simili['change_1_day']
-        for m in market_cap:
-            print(m)
+        
+        #union e creazione di un unico dataframe aventi tutti i valori presenti nelle colonne
+        schema_mediato=dict()
+
+        for k in aggregatore_colonne_simili.keys(): #nome colonna schema mediato
+            elementi=aggregatore_colonne_simili[k]
+            
+            unione=pd.DataFrame(data=elementi[0],columns=[k,'team'])
+            for i in range(1,len(elementi)):
+                unione=pd.concat([unione,elementi[i]])
+                
+
+            
+            schema_mediato[k]=unione
+
+        
+        base_path='Project\\Dataset\\Clusters\\companiesmarketcap\\'
+        extension='.csv'
+        for k in schema_mediato.keys():
+            path=base_path+k+extension
+            schema_mediato[k].to_csv(path)
+
+            
+
                 
 
             
