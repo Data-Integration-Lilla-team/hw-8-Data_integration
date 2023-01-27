@@ -292,6 +292,9 @@ if __name__=='__main__':
 
     merger=Merger()
     merger.merge_data(file_names,inverted_index)
+    
+
+    
 
 
 

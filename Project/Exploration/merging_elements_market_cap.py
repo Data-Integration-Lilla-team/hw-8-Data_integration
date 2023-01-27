@@ -111,8 +111,10 @@ class Merger:
         for k in schema_mediato.keys():
             path=base_path+k+extension
             schema_mediato[k].to_csv(path)
+
+        #self.from_ds_to_schema_mediato(base_path,self.dizionarioSinonimi)
     
-    def from_ds_to_schema_mediato(path, dizionarioSinonimi):
+    def from_ds_to_schema_mediato(self,path, dizionarioSinonimi):
     
         df_append = pd.DataFrame() #concatenazione di tutti i dataset
         lista_df = []  #lista per concatenare
