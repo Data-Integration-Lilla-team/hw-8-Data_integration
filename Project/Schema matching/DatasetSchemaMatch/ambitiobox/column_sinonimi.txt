@@ -1,0 +1,7 @@
+{
+"foundation_year":["foundation_year"],
+"headquarter":['headquarter'],
+"industry":['industry'],
+"name":['name'],
+"ownership":['ownership']
+}
