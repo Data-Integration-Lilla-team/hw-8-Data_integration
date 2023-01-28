@@ -1,4 +1,4 @@
-,Name,Industry,Sector,Headquarters,Founded
+,name,industry,sector,headquarters,founded
 0,3H Biomedical,Health care,Biotechnology,Uppsala,2004
 1,AarhusKarlshamn,Consumer goods,Food products,Malmö,2005
 2,Abba Seafood,Consumer goods,Food products,Gothenburg,1883
@@ -458,7 +458,7 @@
 456,JJ Electronic,Industrials,Electrical components & equipment,Čadca,1993
 457,Komerční banka Bratislava,Financials,Banks,Bratislava,1995
 458,Matador,Consumer goods,Tires,Púchov,1947
-459,"OFZ, a.s., Istebné",Basic materials,Iron & steel,Istebné,1999
+"459,""OFZ, a.s., Istebné"",Basic materials,Iron & steel,Istebné,1999"
 460,Orange Slovensko,Telecommunications,Mobile telecommunications,Bratislava,1997
 461,Penta Investments,Financials,Investment services,Bratislava,1994
 462,Poštová banka,Financials,Banks,Bratislava,1992
@@ -552,7 +552,7 @@
 550,Continente,Consumer services,Food retailers & wholesalers,Matosinhos,1985
 551,Corticeira Amorim,Basic materials,Industrial suppliers,Santa Maria da Feira,1870
 552,Critical Software,Technology,Software,Coimbra,1998
-553,"CTT Correios de Portugal, S.A.",Industrials,Delivery services,Lisbon,1520
+"553,""CTT Correios de Portugal, S.A."",Industrials,Delivery services,Lisbon,1520"
 554,Delta Cafés,Consumer goods,Food products,Campo Maior,1961
 555,EFACEC,Industrials,Electronic equipment,Matosinhos,1948
 556,Energias de Portugal,Utilities,Conventional electricity,Lisbon,1976
@@ -687,7 +687,7 @@
 685,Żabka,Consumer services,Food retailers & wholesalers,Poznań,1998
 686,ZMT SA,Industrials,Defense,Tarnów,1917
 687,Aalberts,Industrials,Electrical components & equipment,Utrecht,1981
-688,Abellio,Transport,"Bus, ferry and train services",Utrecht,2001
+"688,Abellio,Transport,""Bus, ferry and train services"",Utrecht,2001"
 689,ABN AMRO,Financials,Banks,Amsterdam,1991
 690,Adyen,Financials,Payments industry,Amsterdam,2006
 691,Accell Group,Consumer goods,Recreational products,Heerenveen,1998
@@ -793,7 +793,7 @@
 791,Vedior,Industrials,Business training & employment agencies,Amsterdam,1998
 792,VEON,Telecommunications,Mobile telecommunications,Amsterdam,2009
 793,Verenigde Nederlandse Uitgeverijen,Consumer services,Publishing,Haarlem,1964
-794,Vitol,Energy,"Oil, gas & coal",Rotterdam,1966
+"794,Vitol,Energy,""Oil, gas & coal"",Rotterdam,1966"
 795,Vodafone Netherlands,Telecommunications,Mobile telecommunications,Maastricht,1995
 796,VolkerWessels,Industrials,Heavy construction,Amersfoort,1854
 797,Wavin,Industrials,Building materials & fixtures,Zwolle,1955
@@ -2431,7 +2431,7 @@
 2429,Kino Nova,Consumer services,Broadcasting & entertainment,Sofia,2011
 2430,Kintex,Industrials,Defense,Sofia,1966
 2431,Kremikovtzi AD,Basic materials,Iron & steel,Sofia,1963
-2432,"M3 Communications Group, Inc",Consumer services,Broadcasting & entertainment,Sofia,1994
+"2432,""M3 Communications Group, Inc"",Consumer services,Broadcasting & entertainment,Sofia,1994"
 2433,Maxeurope,Consumer goods,Recreational products,Plovdiv,1996
 2434,Mtel,Telecommunications,Mobile telecommunications,Sofia,1994
 2435,Multigroup,Conglomerates,-,Sofia,1989

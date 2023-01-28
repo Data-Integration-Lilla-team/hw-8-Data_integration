@@ -1,0 +1,668 @@
+,name,address,country,hhid,industry,sic_code,type,est_of_ownership
+0,Enel Spa,"VIALE REGINA MARGHERITA 137, ROMA, 00198, ROMA, ITALY",IT00934061003,H-IT0031426662,"Finance, Insurance, and Real Estate",Holding company (6719),Corporation,1962
+1,Esselunga Spa,"VIA GIAMBOLOGNA 1, PIOLTELLO, 20096, MILANO, ITALY",IT04916380159,H-IT0068388950,Retail Trade,Ret mail-order house (5961),Corporation,1957
+2,Superit Srl,"VIA VITTOR PISANI 20, MILANO, 20124, MILANO, ITALY",IT11068950960,H-IT0289899385,"Finance, Insurance, and Real Estate",Holding company (6719),Corporation,2019
+3,Saras Spa,"GALLERIA PASSARELLA 2, MILANO, 20122, MILANO, ITALY",IT00136440922,H-IT0018414451,Manufacturing,Petroleum refiner (2911),Corporation,1962
+4,Unicredit Spa,"PIAZZA GAE AULENTI 3 TOWER A, MILANO, 20154, MILANO, ITALY",IT00348170101,H-IT0009571558,"Finance, Insurance, and Real Estate",National commercial bank (6021),Corporation,1870
+5,Send To Me Srl,"VIALE UNGHERIA 46, MILANO, 20138, MILANO, ITALY",IT11386820960,H-IT0587927934,Services,Computer related services (7379),Corporation,2020
+6,Intesa Sanpaolo Vita Spa,"CORSO INGHILTERRA 3, TORINO, 10138, TORINO, ITALY",IT02505650370,H-IT0075504235,"Finance, Insurance, and Real Estate",Life insurance carrier (6311),Corporation,1980
+7,Unipolsai Assicurazioni Spa,"VIA STALINGRADO 45, BOLOGNA, 40128, BOLOGNA, ITALY",IT00818570012,H-IT0009030107,"Finance, Insurance, and Real Estate",Insurance carrier (6399),Corporation,1921
+8,Totalenergies Petrochemicals & Refining Sa Nv,"VIA ROMBON 11, MILANO, 20134, MILANO, ITALY",IT04488120967,H-IT0074190970,Wholesale Trade,Whol chemicals/products (5169),Foreign Company,2004
+9,Sanastera Spa,"PIAZZA MINGHETTI 4/D, BOLOGNA, 40124, BOLOGNA, ITALY",IT02755811201,H-IT0002023660,"Finance, Insurance, and Real Estate",Holding company (6719),Corporation,2007
+10,Hera Spa,"VIALE CARLO BERTI PICHAT 2/4, BOLOGNA, 40127, BOLOGNA, ITALY",IT04245520376,H-IT0074735071,"Transportation, Communications, Electric, Gas, and Sanitary Services",Water supply service (4941),Corporation,1925
+11,Esso Italiana Srl,"VIALE CASSALA 57, MILANO, 20143, MILANO, ITALY",IT00902231000,H-IT0009235574,Wholesale Trade,Whol petroleum products (5172),Corporation,1891
+12,Poste Italiane Spa,"VIALE EUROPA 190, ROMA, 00144, ROMA, ITALY",IT01114601006,H-IT0072035536,"Transportation, Communications, Electric, Gas, and Sanitary Services",U.S. Postal Service (4311),Corporation,1861
+13,A2a Spa,"CORSO DI PORTA VITTORIA 4, MILANO, 20122, MILANO, ITALY",IT11957540153,H-IT0072707569,"Transportation, Communications, Electric, Gas, and Sanitary Services",Electric services (4911),Corporation,1996
+14,Arrow Electronics Emeasa Srl,"VIALE DELL'INNOVAZIONE 3, MILANO, 20126, MILANO, ITALY",IT03712140965,H-IT0073209457,"Finance, Insurance, and Real Estate",Holding company (6719),Corporation,2002
+15,Edison Spa,"FORO BUONAPARTE 31, MILANO, 20121, MILANO, ITALY",IT08263330014,H-IT0012735906,"Finance, Insurance, and Real Estate",Holding company (6719),Corporation,1994
+16,Ferrovie Dello Stato Italiane Spa,"PIAZZA DELLA CROCE ROSSA 1, ROMA, 00161, ROMA, ITALY",IT06359501001,H-IT0056073372,"Finance, Insurance, and Real Estate",Holding company (6719),Corporation,1992
+17,Prysmian Spa,"VIA CHIESE 6, MILANO, 20126, MILANO, ITALY",IT04866320965,H-IT0073901547,Wholesale Trade,Metals service center (5051),Corporation,2005
+18,Leonardo Spa,"PIAZZA MONTE GRAPPA 4, ROMA, 00195, ROMA, ITALY",IT00881841001,H-IT0011199660,Manufacturing,Mfg aircraft (3721),Corporation,1897
+19,Generali Italia Spa,"VIA MAROCCHESA 14, MOGLIANO VENETO, 31021, TREVISO, ITALY",IT00885351007,H-IT0008844852,"Finance, Insurance, and Real Estate",Insurance carrier (6399),Corporation,1927
+20,Enel Energia Spa,"VIA SAN GIOVANNI SUL MURO 9, MILANO, 20121, MILANO, ITALY",IT06655971007,H-IT0049563734,"Transportation, Communications, Electric, Gas, and Sanitary Services",Electric services (4911),Corporation,1962
+21,Intesa Sanpaolo Spa,"VIA MONTE DI PIETA' 8, MILANO, 20121, MILANO, ITALY",IT10810700152,H-IT0026290537,"Finance, Insurance, and Real Estate",National commercial bank (6021),Corporation,1925
+22,Telecom Italia Spa,"VIA GAETANO NEGRI 1, MILANO, 20123, MILANO, ITALY",IT00488410010,H-IT0010336109,"Transportation, Communications, Electric, Gas, and Sanitary Services",Telephone communications (4813),Corporation,1908
+23,Poste Vita Spa,"VIALE EUROPA 190, ROMA, 00144, ROMA, ITALY",IT05927271006,H-IT0012766704,"Finance, Insurance, and Real Estate",Life insurance carrier (6311),Corporation,1996
+24,Fca Italy S.p.a. In Forma Fiat Chrysler Automobiles E In Forma Abbreviato Fiat Group Autom,"CORSO GIOVANNI AGNELLI 200, TORINO, 10135, TORINO, ITALY",IT07973780013,H-IT0075465809,Manufacturing,Mfg motor vehicle/car bodies (3711),Corporation,1978
+25,Enel Italia Spa,"VIALE REGINA MARGHERITA 125, ROMA, 00198, ROMA, ITALY",IT06377691008,H-IT0049563343,"Finance, Insurance, and Real Estate",Holding company (6719),Corporation,2001
+26,Gestore Dei Mercati Energetici Spa,"VIALE MARESCIALLO PILSUDSKI 122/124, ROMA, 00197, ROMA, ITALY",IT06208031002,H-IT0056071078,"Transportation, Communications, Electric, Gas, and Sanitary Services",Electric services (4911),Corporation,2000
+27,Amazon Eu S.a Rl,"VIALE MONTE GRAPPA 3/5, MILANO, 20124, MILANO, ITALY",IT08973230967,H-IT0044869029,Retail Trade,Ret mail-order house (5961),Foreign Company,2011
+28,Gestore Dei Servizi Energetici - Gse Spa,"VIALE MARESCIALLO PILSUDSKI 92, ROMA, 00197, ROMA, ITALY",IT05754381001,H-IT0008779732,"Transportation, Communications, Electric, Gas, and Sanitary Services",Electric services (4911),Corporation,1999
+29,Eni Spa,"PIAZZALE ENRICO MATTEI 1, ROMA, 00144, ROMA, ITALY",IT00905811006,H-IT0032444168,Manufacturing,Petroleum refiner (2911),Corporation,1953
+30,Iveco Spa,"VIA PUGLIA 35, TORINO, 10156, TORINO, ITALY",IT09709770011,H-IT0002560860,Manufacturing,Mfg motor vehicle/car bodies (3711),Corporation,1974
+31,Lidl Italia Srl,"VIA AUGUSTO RUFFO 36, ARCOLE, 37040, VERONA, ITALY",IT02275030233,H-IT0061825417,Wholesale Trade,Whol non durable goods (5199),Corporation,1991
+32,Webuild Spa,"CENTRO DIREZIONALE MILANOFIORI SNC, ROZZANO, 20089, MILANO, ITALY",IT02895590962,H-IT0008505748,Construction,Heavy construction (1629),Corporation,1959
+33,Atlantia Spa,"PIAZZA DI SAN SILVESTRO 8, ROMA, 00187, ROMA, ITALY",IT03731380261,H-IT0072354208,"Finance, Insurance, and Real Estate",Holding company (6719),Corporation,1950
+34,Salini Costruttori Spa,"VIA DEL LAURO 3, MILANO, 20121, MILANO, ITALY",IT00892101007,H-IT0011203706,Construction,Operative builders (1531),Corporation,1972
+35,Amazon Web Services Emea Sarl,"VIALE MONTE GRAPPA 3/5, MILANO, 20124, MILANO, ITALY",IT10119840964,H-IT0058458530,Services,Computer related services (7379),Foreign Company,2017
+36,Allianz Spa,"PIAZZA TRE TORRI 3, MILANO, 20145, MILANO, ITALY",IT05032630963,H-IT0007923414,"Finance, Insurance, and Real Estate",Misc business credit institutions (6159),Corporation,1911
+37,Mediolanum Vita Spa,"VIA FRANCESCO SFORZA, BASIGLIO, 20079, MILANO, ITALY",IT01749470157,H-IT0065539494,"Finance, Insurance, and Real Estate",Insurance carrier (6399),Corporation,1972
+38,Engie Italia Spa,"VIALE FULVIO TESTI 280, MILANO, 20126, MILANO, ITALY",IT06289781004,H-IT0061508462,Services,Engineering services (8711),Corporation,2000
+39,Enel Global Trading Spa,"VIALE REGINA MARGHERITA 125, ROMA, 00198, ROMA, ITALY",IT05918271007,H-IT0067042627,Wholesale Trade,Whol petroleum products (5172),Corporation,1999
+40,Hera Trading Srl,"VIA MOLINO ROSSO 8, IMOLA, 40026, BOLOGNA, ITALY",IT02060500390,H-IT0074565141,"Transportation, Communications, Electric, Gas, and Sanitary Services",Natural gas distribution (4924),Corporation,2001
+41,Alleanza Assicurazioni Spa,"PIAZZA FIDIA 1, MILANO, 20159, MILANO, ITALY",IT10908160012,H-IT0037371592,"Finance, Insurance, and Real Estate",Insurance carrier (6399),Corporation,2009
+42,Marco Polo International Italy Srl,"VIA SAN PRIMO 4, MILANO, 20121, MILANO, ITALY",IT10449990968,H-IT0062549707,"Finance, Insurance, and Real Estate",Holding company (6719),Corporation,2018
+43,Fincantieri Spa,"VIA GENOVA 1, TRIESTE, 34121, TRIESTE, ITALY",IT00629440322,H-IT0009238654,Manufacturing,Shipbuilding/repairing (3731),Corporation,1959
+44,Eurospin Italia Spa,"VIA CAMPALTO 3/D, SAN MARTINO BUON ALBERGO, 37036, VERONA, ITALY",IT02536510239,H-IT0075267381,"Finance, Insurance, and Real Estate",Holding company (6719),Corporation,1994
+45,E-distribuzione Spa,"VIA CARLO FELICE 35, SASSARI, 07100, SASSARI, ITALY",IT05779711000,H-IT0072864532,"Transportation, Communications, Electric, Gas, and Sanitary Services",Electric services (4911),Corporation,1999
+46,Saipem Spa,"VIA MARTIRI DI CEFALONIA 67, SAN DONATO MILANESE, 20097, MILANO, ITALY",IT00825790157,H-IT0012466115,Construction,Building equipment installation (1796),Corporation,1969
+47,Enel Produzione Spa,"VIALE REGINA MARGHERITA 125, ROMA, 00198, ROMA, ITALY",IT05617841001,H-IT0012768553,"Transportation, Communications, Electric, Gas, and Sanitary Services",Electric services (4911),Corporation,1962
+48,Guccio Gucci Spa,"VIA DON LORENZO PEROSI 6, SCANDICCI, 50018, FIRENZE, ITALY",IT04294710480,H-IT0049515195,Manufacturing,Mfg luggage (3161),Corporation,1939
+49,Pirelli & C. Spa,"VIALE PIERO E ALBERTO PIRELLI 25, MILANO, 20126, MILANO, ITALY",IT00860340157,H-IT0049412493,"Finance, Insurance, and Real Estate",Holding company (6719),Corporation,1883
+50,Unicredit Allianz Vita Spa,"PIAZZA TRE TORRI 3, MILANO, 20145, MILANO, ITALY",IT11931360157,H-IT0018259456,"Finance, Insurance, and Real Estate",Life insurance carrier (6311),Corporation,1995
+51,Acquirente Unico Spa,"VIA GUIDUBALDO DEL MONTE 45, ROMA, 00197, ROMA, ITALY",IT05877611003,H-IT0067043127,"Transportation, Communications, Electric, Gas, and Sanitary Services",Electric services (4911),Corporation,1999
+52,Volkswagen Group Italia Spa,"VIALE GERARD RICHARD GUMPERT 1, VERONA, 37137, VERONA, ITALY",IT01779120235,H-IT0010567739,Retail Trade,Ret new/used automobiles (5511),Corporation,1984
+53,Versalis Spa,"PIAZZA MARCELLO BOLDRINI 1, SAN DONATO MILANESE, 20097, MILANO, ITALY",IT01768800748,H-IT0064072819,Manufacturing,Mfg chemical preparations (2899),Corporation,1989
+54,A. Menarini Industrie Farmaceutiche Riunite Srl,"VIA DEI SETTE SANTI 3, FIRENZE, 50131, FIRENZE, ITALY",IT00395270481,H-IT0022029265,Manufacturing,Mfg pharmaceutical preparations (2834),Corporation,1886
+55,Barilla Holding Srl,"VIA MANTOVA 166, PARMA, 43122, PARMA, ITALY",IT00489540344,H-IT0029320852,"Finance, Insurance, and Real Estate",Holding company (6719),Corporation,1978
+56,Guido M. Barilla E F.lli Sapa,"VIA MANTOVA 166, PARMA, 43122, PARMA, ITALY",IT01736530344,H-IT0064643417,"Finance, Insurance, and Real Estate",Holding company (6719),Corporation,1984
+57,Cremonini Spa,"VIA MODENA 53, CASTELVETRO DI MODENA, 41014, MODENA, ITALY",IT00162810360,H-IT0013386905,"Finance, Insurance, and Real Estate",Holding company (6719),Corporation,1966
+58,Cremofin Srl,"VIA MODENA 53, CASTELVETRO DI MODENA, 41014, MODENA, ITALY",IT01598040366,H-IT0075279762,"Finance, Insurance, and Real Estate",Holding company (6719),Corporation,1985
+59,Societa' Europea Veicoli Leggeri Sevel Spa,"VIALE AVVOCATO GIOVANNI AGNELLI 10, ATESSA, 66041, CHIETI, ITALY",IT00297220691,H-IT0011629053,Manufacturing,Mfg motor vehicle/car bodies (3711),Corporation,1978
+60,Ferrari - Societa'per Azioni Esercizio Fabbriche Automobili E Corse,"VIA ABETONE INFERIORE 2, MARANELLO, 41053, MODENA, ITALY",IT00159560366,H-IT0010782370,Manufacturing,Mfg motor vehicle/car bodies (3711),Corporation,1947
+61,Credit Agricole Vita Spa,"STRADA DELL'UNIVERSITA' 1, PARMA, 43121, PARMA, ITALY",IT01966110346,H-IT0069830649,"Finance, Insurance, and Real Estate",Life insurance carrier (6311),Corporation,1988
+62,Sonatrach Raffineria Italiana Srl,"CONTRADA MARCELLINO C.P. 88 SNC, AUGUSTA, 96011, SIRACUSA, ITALY",IT10410680960,H-IT0062076590,Manufacturing,Petroleum refiner (2911),Corporation,2018
+63,Coop Alleanza 3.0 Soc Coop,"VIA VILLANOVA 29/7, CASTENASO, 40055, BOLOGNA, ITALY",IT03503411203,H-IT0048664421,Retail Trade,Ret groceries (5411),Corporation,1923
+64,Chimet Spa,"VIA DEI LAGHI 31/33, CIVITELLA IN VAL DI CHIANA, 52041, AREZZO, ITALY",IT00155440514,H-IT0010938249,Manufacturing,Primary nonferrous metal producer (3339),Corporation,1974
+65,Riva Forni Elettrici Spa,"VIALE CERTOSA 249, MILANO, 20151, MILANO, ITALY",IT07969220966,H-IT0007097441,"Finance, Insurance, and Real Estate",Holding company (6719),Corporation,2012
+66,Nuovo Pignone Holding Spa,"VIA FELICE MATTEUCCI 2, FIRENZE, 50127, FIRENZE, ITALY",IT00395360480,H-IT0008020531,"Finance, Insurance, and Real Estate",Holding company (6719),Corporation,1954
+67,Zeor Finanziaria Spa,"VIA DI PORTA PINCIANA 4, ROMA, 00187, ROMA, ITALY",IT05678591008,H-IT0071035370,"Finance, Insurance, and Real Estate",Holding company (6719),Corporation,1999
+68,Autostrade Per L'italia Spa,"VIA ALBERTO BERGAMINI 50, ROMA, 00159, ROMA, ITALY",IT07516911000,H-IT0072798300,"Transportation, Communications, Electric, Gas, and Sanitary Services",Transportation services (4789),Corporation,1950
+69,Trenitalia Spa,"PIAZZA DELLA CROCE ROSSA 1, ROMA, 00161, ROMA, ITALY",IT05403151003,H-IT0008914621,"Transportation, Communications, Electric, Gas, and Sanitary Services",Railroad line-haul operator (4011),Corporation,1905
+70,Fideuram Vita Spa,"VIA ENNIO QUIRINO VISCONTI 80, ROMA, 00193, ROMA, ITALY",IT10830461009,H-IT0003516644,"Finance, Insurance, and Real Estate",Life insurance carrier (6311),Corporation,1980
+71,Marcegaglia Holding Srl,"VIA BRESCIANI 16, GAZOLDO DEGLI IPPOLITI, 46040, MANTOVA, ITALY",IT02466980204,H-IT0046685529,Manufacturing,Mfg steel pipe/tubes (3317),Corporation,2015
+72,Vodafone Italia Spa,"VIA GUGLIELMO JERVIS 13, IVREA, 10015, TORINO, ITALY",IT08539010010,H-IT0065547691,"Transportation, Communications, Electric, Gas, and Sanitary Services",Telephone communications (4813),Corporation,2002
+73,Edison Energia Spa,"FORO BUONAPARTE 31, MILANO, 20121, MILANO, ITALY",IT08526440154,H-IT0073491527,"Transportation, Communications, Electric, Gas, and Sanitary Services",Electric services (4911),Corporation,1986
+74,Italpreziosi Spa,"LOCALITA' SAN ZENO ZONA INDUSTRIALE STRADA A 32, AREZZO, 52100, AREZZO, ITALY",IT01111420517,H-IT0034827331,Manufacturing,Primary nonferrous metal producer (3339),Corporation,1984
+75,Assicurazioni Generali Spa,"PIAZZA LUIGI AMEDEO DUCA DEGLI ABRUZZI 2, TRIESTE, 34132, TRIESTE, ITALY",IT00079760328,H-IT0009234624,"Finance, Insurance, and Real Estate",Life insurance carrier (6311),Corporation,1831
+76,Groupe Psa Italia Spa,"VIA PLAVA 80, TORINO, 10135, TORINO, ITALY",IT00882090152,H-IT0009740473,Retail Trade,Ret new/used automobiles (5511),Corporation,1969
+77,Finanziaria D'investimento Fininvest Spa,"VIA PIETRO PALEOCAPA 3, MILANO, 20121, MILANO, ITALY",IT04942331002,H-IT0009613331,"Finance, Insurance, and Real Estate",Misc business credit institutions (6159),Corporation,1978
+78,Cassa Depositi E Prestiti Spa,"VIA GOITO 4, ROMA, 00185, ROMA, ITALY",IT07756511007,H-IT0067760325,"Finance, Insurance, and Real Estate",National commercial bank (6021),Corporation,1946
+79,Aurelia Srl,"STRADA STATALE PER NOVI LIGURE 3/13, TORTONA, 15057, ALESSANDRIA, ITALY",IT01899810061,H-IT0038913984,"Finance, Insurance, and Real Estate",Holding company (6719),Corporation,1983
+80,A.i.a. Agricola Italiana Alimentare Spa,"VIA VALPANTENA 18/G, VERONA, 37142, VERONA, ITALY",IT00233470236,H-IT0008022720,Wholesale Trade,Whol meats/products (5147),Corporation,1967
+81,Banco Bpm Spa,"PIAZZA NOGARA 2, VERONA, 37121, VERONA, ITALY",IT09722490969,H-IT0053576578,"Finance, Insurance, and Real Estate",National commercial bank (6021),Corporation,2016
+82,Acea Spa,"PIAZZALE OSTIENSE 2, ROMA, 00154, ROMA, ITALY",IT05394801004,H-IT0025525573,"Transportation, Communications, Electric, Gas, and Sanitary Services",Electric services (4911),Corporation,1908
+83,B&d Holding Spa,"VIA GIOVANNI DA VERRAZZANO 15, NOVARA, 28100, NOVARA, ITALY",IT02324900030,H-IT0005985013,"Finance, Insurance, and Real Estate",Holding company (6719),Corporation,2012
+84,De Agostini Spa,"VIA GIOVANNI DA VERRAZZANO 15, NOVARA, 28100, NOVARA, ITALY",IT01257120038,H-IT0049388177,"Finance, Insurance, and Real Estate",Holding company (6719),Corporation,1901
+85,Gs Spa,"VIA CALDERA 21, MILANO, 20153, MILANO, ITALY",IT12683790153,H-IT0074764403,Retail Trade,Ret groceries (5411),Corporation,1965
+86,Cnp Vita Assicurazione Spa,"VIA ANGELO SCARSELLINI 14, MILANO, 20161, MILANO, ITALY",IT10210040159,H-IT0069629781,"Finance, Insurance, and Real Estate",Life insurance carrier (6311),Corporation,1990
+87,Cnp Vita Assicura Spa,"VIA ANGELO SCARSELLINI 14, MILANO, 20161, MILANO, ITALY",IT09269930153,H-IT0061929387,"Finance, Insurance, and Real Estate",Life insurance carrier (6311),Corporation,1988
+88,Pac 2000 A Soc Coop,"VIA DEL RAME SNC, PERUGIA, 06134, PERUGIA, ITALY",IT00163040546,H-IT0023035021,Wholesale Trade,Whol groceries (5149),Cooperative,1972
+89,Ludo Spa,"VIA ANTONIO FOGAZZARO 28, MILANO, 20135, MILANO, ITALY",IT08566460963,H-IT0044271190,"Finance, Insurance, and Real Estate",Holding company (6719),Corporation,2014
+90,Prada Spa,"VIA LUNGARNO 1213-61, TERRANUOVA BRACCIOLINI, 52028, AREZZO, ITALY",IT10115350158,H-IT0026598132,Retail Trade,Ret family clothing (5651),Corporation,1990
+91,Acciaierie D'italia Spa,"VIALE CERTOSA 239, MILANO, 20151, MILANO, ITALY",IT10354890963,H-IT0061222844,Manufacturing,Blast furnace-steel works (3312),Corporation,1995
+92,Acciaierie D'italia Holding Spa,"VIALE CERTOSA 239, MILANO, 20151, MILANO, ITALY",IT09520030967,H-IT0051081903,Manufacturing,Blast furnace-steel works (3312),Corporation,2016
+93,Allianz Global Investors Gmbh,"VIA DURINI 1, MILANO, 20122, MILANO, ITALY",IT08009620967,H-IT0007437188,"Finance, Insurance, and Real Estate",Misc business credit institutions (6159),Foreign Company,2012
+94,Sony Europe B.v.,"VIA ANGELO RIZZOLI 4, MILANO, 20132, MILANO, ITALY",IT10496660969,H-IT0063085380,Wholesale Trade,Whol non durable goods (5199),Foreign Company,2018
+95,Sorgenia Spa,"VIA ALESSANDRO ALGARDI 4, MILANO, 20148, MILANO, ITALY",IT12874490159,H-IT0008852677,"Transportation, Communications, Electric, Gas, and Sanitary Services",Electric services (4911),Corporation,1999
+96,F2i Er 1 Spa,"VIA SAN PROTASO 5, MILANO, 20121, MILANO, ITALY",IT08731340967,H-IT0042738679,"Finance, Insurance, and Real Estate",Holding company (6719),Corporation,2014
+97,Fimedi Spa,"CORSO RE UMBERTO 10, TORINO, 10121, TORINO, ITALY",IT01123470013,H-IT0003008487,"Finance, Insurance, and Real Estate",Holding company (6719),Corporation,1974
+98,Buzzi Unicem Spa,"VIA LUIGI BUZZI 6, CASALE MONFERRATO, 15033, ALESSANDRIA, ITALY",IT01772030068,H-IT0034644245,Manufacturing,Mfg hydraulic cement (3241),Corporation,1907
+99,Genertellife Spa,"VIA MAROCCHESA 14, MOGLIANO VENETO, 31021, TREVISO, ITALY",IT06515871009,H-IT0071050442,"Finance, Insurance, and Real Estate",Insurance carrier (6399),Corporation,1999
+100,Logista Italia Spa,"VIA VALADIER 37, ROMA, 00193, ROMA, ITALY",IT06741351008,H-IT0058278001,Wholesale Trade,Whol tobacco products (5194),Corporation,2001
+101,Pirelli Tyre Spa,"VIALE PIERO E ALBERTO PIRELLI 25, MILANO, 20126, MILANO, ITALY",IT07211330159,H-IT0037438514,Manufacturing,Mfg tires/inner tubes (3011),Corporation,1983
+102,Hera Comm Spa,"VIA MOLINO ROSSO 8, IMOLA, 40026, BOLOGNA, ITALY",IT02221101203,H-IT0074275860,"Transportation, Communications, Electric, Gas, and Sanitary Services",Natural gas distribution (4924),Corporation,2001
+103,Autogrill Spa,"GALLERIA SAN BABILA 4/A, MILANO, 20122, MILANO, ITALY",IT01630730032,H-IT0072773472,Retail Trade,Drinking place (5813),Corporation,1946
+104,Rete Ferroviaria Italiana Spa,"PIAZZA DELLA CROCE ROSSA 1, ROMA, 00161, ROMA, ITALY",IT01008081000,H-IT0059184531,"Transportation, Communications, Electric, Gas, and Sanitary Services",Local/suburban transportation (4111),Corporation,1992
+105,Swietelsky Baugesellschaft M.b.h.,"VIA DEL SOLE 34, ANDRIANO, 39010, BOLZANO, ITALY",IT02606390215,H-IT0018329365,Construction,Trade contractor (1799),Foreign Company,2008
+106,Cnh Industrial Italia Spa,"VIALE DELLE NAZIONI 55, MODENA, 41122, MODENA, ITALY",IT00370290363,H-IT0009369996,Manufacturing,Mfg farm machinery/equipment (3523),Corporation,1973
+107,Iren Mercato Spa,"VIA DEI SANTI GIACOMO E FILIPPO 7, GENOVA, 16122, GENOVA, ITALY",IT01178580997,H-IT0074908405,"Transportation, Communications, Electric, Gas, and Sanitary Services",Natural gas distribution (4924),Corporation,2000
+108,Duferco Italia Holding Spa,"VIA ARMANDO DIAZ 248, SAN ZENO NAVIGLIO, 25010, BRESCIA, ITALY",IT00948900329,H-IT0054109205,"Finance, Insurance, and Real Estate",Holding company (6719),Corporation,1990
+109,Trasporti Internazionali Agenzia Marittima Savino Del Bene Spa,"VIA DEL BOTTEGHINO 24/26, SCANDICCI, 50018, FIRENZE, ITALY",IT05300610481,H-IT0072354240,"Transportation, Communications, Electric, Gas, and Sanitary Services",Transportation services (4789),Corporation,1920
+110,Unieuro Spa,"VIA PIERO MARONCELLI 10, FORLI', 47121, FORLI'-CESENA, ITALY",IT00876320409,H-IT0012529079,Retail Trade,Ret misc general merchandise (5399),Corporation,1935
+111,Axpo Italia Spa,"VIA XII OTTOBRE 1, GENOVA, 16121, GENOVA, ITALY",IT01141160992,H-IT0061745170,"Transportation, Communications, Electric, Gas, and Sanitary Services",Electric services (4911),Corporation,2000
+112,Sind International Srl,"VIA BIGLI 21, MILANO, 20121, MILANO, ITALY",IT11073430156,H-IT0071805583,"Finance, Insurance, and Real Estate",Holding company (6719),Corporation,1993
+113,Danieli & C. Officine Meccaniche Spa,"VIA NAZIONALE 41, BUTTRIO, 33042, UDINE, ITALY",IT00167460302,H-IT0018276334,Manufacturing,Mfg rolling mill machinery (3547),Corporation,1962
+114,Md Spa,"ZONA A.S.I.CAPANNONE 18, GRICIGNANO DI AVERSA, 81030, CASERTA, ITALY",IT03185210618,H-IT0072485272,Retail Trade,Ret groceries (5411),Corporation,2005
+115,Isab Srl,"EX S.S. 114 KM 146 SNC, PRIOLO GARGALLO, 96010, SIRACUSA, ITALY",IT01629050897,H-IT0002560844,Manufacturing,Petroleum refiner (2911),Corporation,2008
+116,Astm Spa,"CORSO REGINA MARGHERITA 165, TORINO, 10144, TORINO, ITALY",IT00488270018,H-IT0021352054,"Finance, Insurance, and Real Estate",Holding company (6719),Corporation,1928
+117,Alessandro Patane' Srl,"VIA AMASENO 24, LATINA, 04100, LATINA, ITALY",IT01943060598,H-IT0071980229,Services,Computer related services (7379),Corporation,1999
+118,Fpt Industrial Spa,"VIA PUGLIA 15, TORINO, 10156, TORINO, ITALY",IT09397710014,H-IT0002560879,Manufacturing,Mfg motor vehicle/car bodies (3711),Corporation,1974
+119,Luxottica Group Spa,"PIAZZALE LUIGI CADORNA 3, MILANO, 20123, MILANO, ITALY",IT10182640150,H-IT0049397494,Wholesale Trade,Whol photo equipment/supplies (5043),Corporation,1981
+120,De' Longhi Spa,"VIA LODOVICO SEITZ 47, TREVISO, 31100, TREVISO, ITALY",IT03162730265,H-IT0075487071,"Finance, Insurance, and Real Estate",Holding company (6719),Corporation,1992
+121,Bridgestone Europe Nv Sa,"VIA ENERGY PARK 14, VIMERCATE, 20871, MONZA E BRIANZA, ITALY",IT09712150961,H-IT0053437772,Manufacturing,Mfg tires/inner tubes (3011),Foreign Company,2013
+122,Gi Group Spa,"PIAZZA IV NOVEMBRE 5, MILANO, 20124, MILANO, ITALY",IT11629770154,H-IT0073103470,Services,Help supply services (7363),Corporation,1995
+123,Cnp Unicredit Vita Spa,"VIA EMILIO CORNALIA 30, MILANO, 20124, MILANO, ITALY",IT13362170154,H-IT0073419680,"Finance, Insurance, and Real Estate",Life insurance carrier (6311),Corporation,1996
+124,Mapei Spa,"VIALE EDOARDO JENNER 4, MILANO, 20159, MILANO, ITALY",IT01649960158,H-IT0008538875,Manufacturing,Mfg paints/allied products (2851),Corporation,1961
+125,Emme Esse Vi Srl,"VIA SASSOFERRATO 1, MILANO, 20135, MILANO, ITALY",97462220159,H-IT1046469591,"Finance, Insurance, and Real Estate",Holding company (6719),Corporation,2007
+126,Nintendo Of Europe Gmbh,"VIA TORRI BIANCHE 6, VIMERCATE, 20871, MONZA E BRIANZA, ITALY",IT03359860966,H-IT0072796405,Services,Advertising agency (7311),Foreign Company,2002
+127,Snam Spa,"PIAZZA SANTA BARBARA 7, SAN DONATO MILANESE, 20097, MILANO, ITALY",IT13271390158,H-IT0057455139,"Finance, Insurance, and Real Estate",Holding company (6719),Corporation,1941
+128,A2a Energia Spa,"CORSO DI PORTA VITTORIA 4, MILANO, 20122, MILANO, ITALY",IT12883420155,H-IT0051290006,"Transportation, Communications, Electric, Gas, and Sanitary Services",Electric services (4911),Corporation,1999
+129,Grimaldi Group Spa,"VIA MARCHESE CAMPODISOLA 13, NAPOLI, 80133, NAPOLI, ITALY",IT00117240820,H-IT0029356407,"Transportation, Communications, Electric, Gas, and Sanitary Services",Water freight transportation (4449),Corporation,1945
+130,Veronesi Holding Spa,"VIA VALPANTENA 18/G, VERONA, 37142, VERONA, ITALY",IT02429770239,H-IT0029714915,Services,Data processing/preparation (7374),Corporation,1984
+131,Nuovo Pignone International Srl,"VIA FELICE MATTEUCCI 2, FIRENZE, 50127, FIRENZE, ITALY",IT04880930484,H-IT0073428639,Manufacturing,Mfg general industrial machinery (3569),Corporation,1954
+132,Gruppo Unicomm Spa,"VIA ENRICO MATTEI 50, DUEVILLE, 36031, VICENZA, ITALY",IT00169710241,H-IT0027831833,"Finance, Insurance, and Real Estate",Holding company (6719),Corporation,1969
+133,Chiesi Farmaceutici Spa,"VIA PALERMO 26/A, PARMA, 43122, PARMA, ITALY",IT01513360345,H-IT0061929093,Manufacturing,Mfg pharmaceutical preparations (2834),Corporation,1935
+134,Valline Srl,"STRADELLO MARCHE 6, PARMA, 43121, PARMA, ITALY",08995890152,H-IT0009252584,"Finance, Insurance, and Real Estate",Holding company (6719),Corporation,1990
+135,Eni Fuel Spa,"VIALE GIORGIO RIBOTTA 51, ROMA, 00144, ROMA, ITALY",IT02701740108,H-IT0008914168,Retail Trade,Gasoline service station (5541),Corporation,1985
+136,Comifar Spa,"VIA FRATELLI DI DIO 2, NOVATE MILANESE, 20026, MILANO, ITALY",IT00724400155,H-IT0008052069,"Finance, Insurance, and Real Estate",Misc business credit institutions (6159),Corporation,1944
+137,Whirlpool Emea Spa,"STRADA PROVINCIALE ARCEVIESE 139/A, FABRIANO, 60044, ANCONA, ITALY",IT00693740425,H-IT0011430680,Manufacturing,Mfg electric housewares/fans (3634),Corporation,1930
+138,Bmw Italia Spa,"VIA DELL'UNIONE EUROPEA 1, SAN DONATO MILANESE, 20097, MILANO, ITALY",IT12532500159,H-IT0009532196,Retail Trade,Ret new/used automobiles (5511),Corporation,1973
+139,Conad Nord Ovest Societa' Cooperativa A R.l.,"VIA BURE VECCHIA NORD 10, PISTOIA, 51100, PISTOIA, ITALY",IT01977130473,H-IT0216517075,Wholesale Trade,Whol general groceries (5141),Corporation,1964
+140,Unicoop Firenze Soc Coop,"VIA SANTA REPARATA 43, FIRENZE, 50129, FIRENZE, ITALY",IT00407780485,H-IT0027424928,"Finance, Insurance, and Real Estate",Real property lessor (6519),Corporation,1891
+141,Spesa Intelligente Spa,"VIA CAMPALTO 3/D, SAN MARTINO BUON ALBERGO, 37036, VERONA, ITALY",IT02416840235,H-IT0069606331,Wholesale Trade,Whol groceries (5149),Corporation,1992
+142,Banca Monte Dei Paschi Di Siena Spa,"PIAZZA SALIMBENI 3, SIENA, 53100, SIENA, ITALY",IT00884060526,H-IT0028646150,"Finance, Insurance, and Real Estate",National commercial bank (6021),Corporation,1472
+143,Rai Radiotelevisione Italiana Spa,"VIALE GIUSEPPE MAZZINI 14, ROMA, 00195, ROMA, ITALY",IT06382641006,H-IT0052507467,"Transportation, Communications, Electric, Gas, and Sanitary Services",Television station (4833),Corporation,2001
+144,De La Costa Srl,"VIA PORTICI UMBERTO I 5/3, MALCESINE, 37018, VERONA, ITALY",IT04579370232,H-IT0062449729,"Finance, Insurance, and Real Estate",Holding company (6719),Corporation,2018
+145,Calzedonia Holding Spa,"VIA MONTE BALDO 20, VILLAFRANCA DI VERONA, 37062, VERONA, ITALY",IT03742500238,H-IT0002216302,"Finance, Insurance, and Real Estate",Holding company (6719),Corporation,2008
+146,Eurizon Capital Sgr Spa,"PIAZZETTA GIORDANO DELL'AMORE 3, MILANO, 20121, MILANO, ITALY",IT12914730150,H-IT0036432156,"Finance, Insurance, and Real Estate",Investment advisory service (6282),Corporation,1983
+147,Finiper Canova Group Spa,"VIA AMILCARE PONCHIELLI 7, MILANO, 20129, MILANO, ITALY",IT06154870965,H-IT0004175387,"Finance, Insurance, and Real Estate",Holding company (6719),Corporation,2008
+148,Bper Banca Spa,"VIA SAN CARLO 8/20, MODENA, 41121, MODENA, ITALY",IT01153230360,H-IT0051823365,"Finance, Insurance, and Real Estate",National commercial bank (6021),Corporation,1867
+149,Gecos - Generale Di Commercio E Servizi Spa,"VIA DELLE INDUSTRIE 8, SPINEA, 30038, VENEZIA, ITALY",IT01581890272,H-IT0034418431,"Finance, Insurance, and Real Estate",Holding company (6719),Corporation,1958
+150,Gruppo Pam Spa,"VIA DELLE INDUSTRIE 8, SPINEA, 30038, VENEZIA, ITALY",IT01534730278,H-IT0000168572,Wholesale Trade,Whol general groceries (5141),Corporation,1980
+151,Ibm Italia Spa,"CIRCONVALLAZIONE IDROSCALO SNC, SEGRATE, 20054, MILANO, ITALY",IT10914660153,H-IT0070576246,Services,Custom computer programming (7371),Corporation,1927
+152,Brembo Spa,"VIALE EUROPA 2, STEZZANO, 24040, BERGAMO, ITALY",IT00222620163,H-IT0014781409,Manufacturing,Mfg motor vehicle parts/accessories (3714),Corporation,1971
+153,Nuova Fourb Srl,"VIA MONTE ORTIGARA 5, BERGAMO, 24121, BERGAMO, ITALY",IT03165690169,H-IT0002214997,"Finance, Insurance, and Real Estate",Holding company (6719),Corporation,2004
+154,Sky Italia Srl,"VIA MONTE PENICE 7, MILANO, 20138, MILANO, ITALY",IT04619241005,H-IT0071659145,"Transportation, Communications, Electric, Gas, and Sanitary Services",Television station (4833),Corporation,1993
+155,Barilla G. E R. Fratelli Spa,"VIA MANTOVA 166, PARMA, 43122, PARMA, ITALY",IT01654010345,H-IT0049411330,Manufacturing,Mfg macaroni/spaghetti (2098),Corporation,1988
+156,Alitalia Societa' Aerea Italiana Spa,"VIA ALBERTO NASSETTI PAL.ALFA SNC, FIUMICINO, 00054, ROMA, ITALY",IT13029381004,H-IT0043242537,"Transportation, Communications, Electric, Gas, and Sanitary Services",Scheduled air transportation (4512),Corporation,1999
+157,Bolton Group Srl,"VIA GIOVANNI BATTISTA PIRELLI 19, MILANO, 20124, MILANO, ITALY",IT05983890152,H-IT0068385552,Services,Business services (7389),Corporation,1980
+158,Factor Holding Srl,"VIA GIOVANNI BATTISTA PIRELLI 19, MILANO, 20124, MILANO, ITALY",IT07224860960,H-IT0020453108,"Finance, Insurance, and Real Estate",Holding company (6719),Corporation,2010
+159,Anas Spa,"VIA MONZAMBANO 10, ROMA, 00185, ROMA, ITALY",IT02133681003,H-IT0049402331,"Transportation, Communications, Electric, Gas, and Sanitary Services",Transportation services (4789),Corporation,1950
+160,Maire Tecnimont Spa,"VIA GAETANO DE CASTILLIA 6/A, MILANO, 20124, MILANO, ITALY",IT07673571001,H-IT0074296558,"Finance, Insurance, and Real Estate",Holding company (6719),Corporation,2003
+161,Samsung Electronics Italia Spa,"VIA MIKE BONGIORNO 9, MILANO, 20124, MILANO, ITALY",IT11325690151,H-IT0065500911,Wholesale Trade,Whol appliances/tv/radio (5064),Corporation,1991
+162,Renault Italia Spa,"VIA TIBURTINA 1159, ROMA, 00156, ROMA, ITALY",IT05811161008,H-IT0011169516,Retail Trade,Ret new/used automobiles (5511),Corporation,1962
+163,Axa Assicurazioni Spa,"CORSO COMO 17, MILANO, 20154, MILANO, ITALY",IT00902170018,H-IT0010264795,"Finance, Insurance, and Real Estate",Life insurance carrier (6311),Corporation,1947
+164,Mediamarket Spa,"VIA FURLANELLI 69, VERANO BRIANZA, 20843, MONZA E BRIANZA, ITALY",IT02630120166,H-IT0062356658,Retail Trade,Ret misc general merchandise (5399),Corporation,1990
+165,Finarvedi Spa,"PIAZZA LODI 7, CREMONA, 26100, CREMONA, ITALY",IT04587230154,H-IT0020650884,"Finance, Insurance, and Real Estate",Holding company (6719),Corporation,1979
+166,Inalca Spa,"VIA SPILAMBERTO 30/C, CASTELVETRO DI MODENA, 41014, MODENA, ITALY",IT02562260360,H-IT0047540028,Manufacturing,Meat packing plant (2011),Corporation,1988
+167,Banca Nazionale Del Lavoro Spa,"VIALE ALTIERO SPINELLI 30, ROMA, 00157, ROMA, ITALY",IT09339391006,H-IT0075933586,"Finance, Insurance, and Real Estate",National commercial bank (6021),Corporation,2007
+168,Fastweb Spa,"VIA FRANCESCO CARACCIOLO 51, MILANO, 20155, MILANO, ITALY",IT12878470157,H-IT0073082406,"Transportation, Communications, Electric, Gas, and Sanitary Services",Telephone communications (4813),Corporation,1999
+169,Finbre Spa,"VIALE DEL LAVORO 20, BELFIORE, 37050, VERONA, ITALY",IT01907700239,H-IT0053224930,"Finance, Insurance, and Real Estate",Subdivider/developer (6552),Corporation,1986
+170,Maxi Di Srl,"VIALE DEL LAVORO 20, BELFIORE, 37050, VERONA, ITALY",IT00542090238,H-IT0037877445,Retail Trade,Ret groceries (5411),Corporation,1975
+171,Swisscom Italia Srl,"PIAZZA ADRIANO OLIVETTI 1, MILANO, 20139, MILANO, ITALY",IT09412871007,H-IT0073228761,"Finance, Insurance, and Real Estate",Holding company (6719),Corporation,2007
+172,Zurich Investments Life Spa,"VIA BENIGNO CRESPI 23, MILANO, 20159, MILANO, ITALY",IT08921640150,H-IT0065538978,"Finance, Insurance, and Real Estate",Life insurance carrier (6311),Corporation,1952
+173,Arca Vita Spa,"VIA DEL FANTE 21, VERONA, 37122, VERONA, ITALY",IT01947090237,H-IT0056068484,"Finance, Insurance, and Real Estate",Life insurance carrier (6311),Corporation,1987
+174,Agricola Tre Valli Societa' Cooperativa,"VIA VALPANTENA 18/G, VERONA, 37142, VERONA, ITALY",IT02447620234,H-IT0050197304,Manufacturing,Poultry processing (2015),Corporation,1983
+175,Conad Consorzio Nazionale Dettaglianti Soc Coop,"VIA MICHELINO 59, BOLOGNA, 40127, BOLOGNA, ITALY",IT03320960374,H-IT0017623804,Wholesale Trade,Whol non durable goods (5199),Corporation,1962
+176,Sesa Spa,"VIA DELLA PIOVOLA 138, EMPOLI, 50053, FIRENZE, ITALY",IT07116910964,H-IT0021553033,Services,Management consulting services (8742),Corporation,2010
+177,Terna Rete Elettrica Nazionale Spa,"VIALE EGIDIO GALBANI 70, ROMA, 00156, ROMA, ITALY",IT05779661007,H-IT0009518258,"Transportation, Communications, Electric, Gas, and Sanitary Services",Electric services (4911),Corporation,1999
+178,Moncler Spa,"VIA ENRICO STENDHAL 47, MILANO, 20144, MILANO, ITALY",IT04642290961,H-IT0002491664,"Finance, Insurance, and Real Estate",Patent owner/lessor (6794),Corporation,2004
+179,Michelin Italiana S.a.m.i. Spa,"CORSO GIULIO CESARE 424/95/C, TORINO, 10156, TORINO, ITALY",IT00570070011,H-IT0010302581,Manufacturing,Mfg tires/inner tubes (3011),Corporation,1930
+180,Brt Spa,"VIA ENRICO MATTEI 42, BOLOGNA, 40138, BOLOGNA, ITALY",IT04507990150,H-IT0022984526,"Transportation, Communications, Electric, Gas, and Sanitary Services",Trucking operator-non local (4213),Corporation,1979
+181,De' Longhi Appliances Srl,"VIA LODOVICO SEITZ 47, TREVISO, 31100, TREVISO, ITALY",IT00698370962,H-IT0009358986,Manufacturing,Mfg electric housewares/fans (3634),Corporation,1968
+182,Ford Italia Spa,"VIA DEL SERAFICO 89, ROMA, 00142, ROMA, ITALY",IT00894451004,H-IT0008847908,Retail Trade,Ret new/used automobiles (5511),Corporation,1929
+183,So.fi.d.a. Spa,"CONTRADA DELLA MISERICORDIA 14, VICENZA, 36100, VICENZA, ITALY",IT02037780240,H-IT0039940438,"Finance, Insurance, and Real Estate",Misc business credit institutions (6159),Corporation,1988
+184,Arianna 2001 Spa,"VIA LEOPOLDO SERRA 32, ROMA, 00153, ROMA, ITALY",IT01690551005,H-IT0002323834,Services,Business services (7389),Corporation,1985
+185,Recordati Industria Chimica E Farmaceutica Spa,"VIA MATTEO CIVITALI 1, MILANO, 20148, MILANO, ITALY",IT00748210150,H-IT0009754954,Manufacturing,Mfg pharmaceutical preparations (2834),Corporation,1926
+186,Leroy Merlin Italia Srl,"STRADA 8 PALAZZO N MILANOFIORI, ROZZANO, 20089, MILANO, ITALY",IT05602710963,H-IT0001474030,Retail Trade,Ret misc general merchandise (5399),Corporation,1993
+187,Vittoria Assicurazioni Spa,"VIA IGNAZIO GARDELLA 2, MILANO, 20149, MILANO, ITALY",IT01329510158,H-IT0009852255,"Finance, Insurance, and Real Estate",Insurance carrier (6399),Corporation,1921
+188,Vanini Holding Srl,"VIA ANSPERTO 7, MILANO, 20123, MILANO, ITALY",IT04626420964,H-IT0024524522,"Finance, Insurance, and Real Estate",Holding company (6719),Corporation,2004
+189,Fedrigoni Spa,"VIA ENRICO FERMI 13/F, VERONA, 37135, VERONA, ITALY",IT01664630223,H-IT0073057495,Manufacturing,Paper mill (2621),Corporation,1961
+190,Gruppo Ipg Holding Spa,"VIALE BIANCA MARIA 24, MILANO, 20129, MILANO, ITALY",IT05830220967,H-IT0024173657,"Finance, Insurance, and Real Estate",Holding company (6719),Corporation,2007
+191,Bg Holding Srl,"VIA BORGONUOVO 14, MILANO, 20121, MILANO, ITALY",IT11400920960,H-IT0587875608,"Finance, Insurance, and Real Estate",Holding company (6719),Corporation,2020
+192,Burgo Group Spa,"VIA PIAVE 1, ALTAVILLA VICENTINA, 36077, VICENZA, ITALY",IT13051890153,H-IT0075590115,Manufacturing,Paper mill (2621),Corporation,1905
+193,Gruppo Lactalis Italia Srl,"VIA FLAVIO GIOIA 8, MILANO, 20149, MILANO, ITALY",IT04889820967,H-IT0007749643,"Finance, Insurance, and Real Estate",Holding company (6719),Corporation,2002
+194,Megaholding Srl,"STRADA PROVINCIALE 130 ANDRIA-TRANI, TRANI, 76125, BARLETTA ANDRIA TRANI, ITALY",IT01149290726,H-IT0013320254,"Finance, Insurance, and Real Estate",Holding company (6719),Corporation,1979
+195,Betflag Spa,"ZONA INDUSTRIALE DI BARAGIANO SNC, BALVANO, 85050, POTENZA, ITALY",IT01779160769,H-IT0020126247,Services,Amusement/recreation services (7999),Corporation,2010
+196,Computer Gross Spa,"VIA DEL PINO 1, EMPOLI, 50053, FIRENZE, ITALY",IT04801490485,H-IT0075070049,Wholesale Trade,Whol computers/peripherals (5045),Corporation,1993
+197,Publitalia 80 Concessionaria Pubblicita' Spa,"VIALE EUROPA 46, COLOGNO MONZESE, 20093, MILANO, ITALY",IT04529390157,H-IT0025357808,Services,Advertising representative (7313),Corporation,1979
+198,Papiniano Spa,"VIA GUGLIELMO MARCONI 36, BOLOGNA, 40122, BOLOGNA, ITALY",IT03527610376,H-IT0030349982,"Finance, Insurance, and Real Estate",Misc business credit institutions (6159),Corporation,1985
+199,Ies Italiana Energia E Servizi Spa,"STRADA CIPATA 79, MANTOVA, 46100, MANTOVA, ITALY",IT03123470100,H-IT0036784486,Manufacturing,Petroleum refiner (2911),Corporation,1975
+200,Commercianti Indipendenti Associati Soc Coop,"VIA DEI MERCANTI 3, FORLI', 47122, FORLI'-CESENA, ITALY",IT00138950407,H-IT0035389850,Wholesale Trade,Whol general groceries (5141),Corporation,1959
+201,Casillo Partecipazioni Spa,"VIA ANTONIO SANT'ELIA, CORATO, 70033, BARI, ITALY",IT05287570724,H-IT0071883754,"Finance, Insurance, and Real Estate",Holding company (6719),Corporation,1998
+202,Otb Spa,"VIA DELL'INDUSTRIA 2, BREGANZE, 36042, VICENZA, ITALY",IT01571110244,H-IT0034407464,"Finance, Insurance, and Real Estate",Holding company (6719),Corporation,1981
+203,Ansaldo Energia Spa,"VIA NICOLA LORENZI 8, GENOVA, 16152, GENOVA, ITALY",IT03279700102,H-IT0009920250,Manufacturing,Mfg turbines/generator sets (3511),Corporation,1953
+204,Romeo Gas Spa,"VIA VERIZZO 1030, PIEVE DI SOLIGO, 31053, TREVISO, ITALY",IT12060630964,H-IT0888727319,"Transportation, Communications, Electric, Gas, and Sanitary Services",Gas transmission/distribution (4923),Corporation,2021
+205,Sg Distribuzione Srl,"VIA GIORGIO PERLASCA 20/C, FIDENZA, 43036, PARMA, ITALY",IT03000750343,H-IT1038511118,"Transportation, Communications, Electric, Gas, and Sanitary Services",Gas transmission/distribution (4923),Corporation,2022
+206,Radicifin Sapa,"VIA GIUSEPPE VERDI 11, BERGAMO, 24121, BERGAMO, ITALY",IT01612320166,H-IT0062801449,"Finance, Insurance, and Real Estate",Holding company (6719),Corporation,1985
+207,Alpha Trading Spa,"VIA BRIGATA LIGURIA 3/19, GENOVA, 16121, GENOVA, ITALY",IT11879090154,H-IT0021467846,Wholesale Trade,Whol petroleum products (5172),Corporation,1985
+208,Credit Agricole Italia Spa,"STRADA DELL'UNIVERSITA' 1, PARMA, 43121, PARMA, ITALY",IT02113530345,H-IT0066706513,"Finance, Insurance, and Real Estate",National commercial bank (6021),Corporation,1860
+209,Manpower Srl,"VIA GIOACCHINO ROSSINI 6/8, MILANO, 20122, MILANO, ITALY",IT11947650153,H-IT0072914947,Services,Help supply services (7363),Corporation,1996
+210,Bennet Holding Spa,"PIAZZA DELLA REPUBBLICA 28, MILANO, 20124, MILANO, ITALY",IT07069120967,H-IT0025923595,"Finance, Insurance, and Real Estate",Holding company (6719),Corporation,2010
+211,Finmeg Srl,"PIAZZA DELLA REPUBBLICA 28, MILANO, 20124, MILANO, ITALY",IT05951430965,H-IT0003010643,"Finance, Insurance, and Real Estate",Holding company (6719),Corporation,2007
+212,Bennet Spa,"VIA ENZO RATTI 2, MONTANO LUCINO, 22070, COMO, ITALY",IT07071700152,H-IT0050435167,Retail Trade,Ret groceries (5411),Corporation,1983
+213,Servizi In Rete 2001 Srl,"VIA LEOPOLDO SERRA 32, ROMA, 00153, ROMA, ITALY",IT09251361003,H-IT0075759675,Services,Business services (7389),Corporation,1988
+214,Cosulich International Srl,"PONTE FRANCESCO MOROSINI 41, GENOVA, 16126, GENOVA, ITALY",IT01764000996,H-IT0020978235,"Finance, Insurance, and Real Estate",Holding company (6719),Corporation,2007
+215,Fratelli Cosulich Spa,"VIA DANTE ALIGHIERI 5, TRIESTE, 34122, TRIESTE, ITALY",IT00051020329,H-IT0010655727,"Transportation, Communications, Electric, Gas, and Sanitary Services",Water freight transportation (4449),Corporation,1948
+216,Dolomiti Energia Trading Spa,"VIA FERSINA 23, TRENTO, 38123, TRENTO, ITALY",IT03027910235,H-IT0075537567,"Transportation, Communications, Electric, Gas, and Sanitary Services",Electric services (4911),Corporation,2000
+217,Ferrero Commerciale Italia Srl,"PIAZZALE PIETRO FERRERO 1, ALBA, 12051, CUNEO, ITALY",IT03629090048,H-IT0048640867,Wholesale Trade,Whol confectionery (5145),Corporation,2015
+218,Arcelormittal Commercial Italy Srl,"ZONA INDUSTRIALE SNC, LUOGOSANO, 83040, AVELLINO, ITALY",IT00947260154,H-IT0039603474,Wholesale Trade,Metals service center (5051),Corporation,1971
+219,Arval Service Lease Italia Spa,"VIA DELLE SETTE REGOLE 21, SCANDICCI, 50018, FIRENZE, ITALY",IT04911190488,H-IT0075579588,Services,Passenger car rental (7514),Corporation,1995
+220,Reti Televisive Italiane Spa,"VIALE EUROPA 44/46 48, COLOGNO MONZESE, 20093, MILANO, ITALY",IT03976881007,H-IT0029655471,"Transportation, Communications, Electric, Gas, and Sanitary Services",Radio broadcast station (4832),Corporation,1983
+221,Caltagirone Spa,"VIA BARBERINI 28, ROMA, 00187, ROMA, ITALY",IT00891131005,H-IT0008049726,"Finance, Insurance, and Real Estate",Holding company (6719),Corporation,1908
+222,Nexi Payments Spa,"CORSO SEMPIONE 55, MILANO, 20149, MILANO, ITALY",IT04107060966,H-IT0074072633,"Finance, Insurance, and Real Estate",Misc business credit institutions (6159),Corporation,1985
+223,Unicomm Srl,"VIA ADELE BEI 340, CESENA, 47522, FORLI'-CESENA, ITALY",IT01274580248,H-IT0012575569,Retail Trade,Ret mail-order house (5961),Corporation,1980
+224,Hdi Assicurazioni Spa,"PIAZZA GUGLIELMO MARCONI 25, ROMA, 00144, ROMA, ITALY",IT04349061004,H-IT0069832633,"Finance, Insurance, and Real Estate",Insurance carrier (6399),Corporation,1927
+225,Iper Montebello Spa,"VIA MARCO ULPIO TRAIANO 57, MILANO, 20149, MILANO, ITALY",IT03585750155,H-IT0013955748,Retail Trade,Ret groceries (5411),Corporation,1963
+226,Egea Ente Gestione Energia E Ambiente Spa,"VIA VIVARO 2, ALBA, 12051, CUNEO, ITALY",IT01817090044,H-IT0016323181,"Finance, Insurance, and Real Estate",Holding company (6719),Corporation,1924
+227,Sdf Spa,"VIALE FRANCESCO CASSANI 14, TREVIGLIO, 24047, BERGAMO, ITALY",IT00215890161,H-IT0008057494,"Finance, Insurance, and Real Estate",Holding company (6719),Corporation,1927
+228,Reply Spa,"VIA CARDINALE GUGLIELMO MASSAIA 83, TORINO, 10147, TORINO, ITALY",IT08013390011,H-IT0051305976,Services,Custom computer programming (7371),Corporation,1997
+229,Sdf Holding Spa,"VIA XX SETTEMBRE 58/C, BERGAMO, 24122, BERGAMO, ITALY",IT04261470167,H-IT0058547967,"Finance, Insurance, and Real Estate",Holding company (6719),Corporation,2017
+230,Compagnia Siderurgica Italiana Srl,"ZONA INDUSTRIALE, OSOPPO, 33010, UDINE, ITALY",IT02448660304,H-IT0024431869,"Finance, Insurance, and Real Estate",Holding company (6719),Corporation,2006
+231,Fin.fer. Spa,"ZONA INDUSTRIALE SNC, OSOPPO, 33010, UDINE, ITALY",IT00490250305,H-IT0047159456,"Finance, Insurance, and Real Estate",Holding company (6719),Corporation,1977
+232,Credemvita Spa,"VIA LUIGI SANI 1, REGGIO EMILIA, 42121, REGGIO EMILIA, ITALY",IT01437550351,H-IT0072039167,"Finance, Insurance, and Real Estate",Life insurance carrier (6311),Corporation,1990
+233,Ge Italia Holding Srl,"VIA I MAGGIO 99, RIVALTA DI TORINO, 10040, TORINO, ITALY",IT12061090010,H-IT0065323149,"Finance, Insurance, and Real Estate",Holding company (6719),Corporation,2019
+234,Alperia Smart Services Srl,"VIA DODICIVILLE 8, BOLZANO, 39100, BOLZANO, ITALY",IT01745520211,H-IT0069572062,"Transportation, Communications, Electric, Gas, and Sanitary Services",Electric services (4911),Corporation,1999
+235,Ovs Spa,"VIA TERRAGLIO 17, VENEZIA, 30174, VENEZIA, ITALY",IT04240010274,H-IT0042059909,Retail Trade,Ret misc general merchandise (5399),Corporation,2014
+236,Candy Hoover Group Srl,"VIA EDEN FUMAGALLI, BRUGHERIO, 20861, MONZA E BRIANZA, ITALY",IT00786860965,H-IT0012031763,Manufacturing,Mfg electric housewares/fans (3634),Corporation,1945
+237,Francesco Spa,"VIA DEL RIO 400, CESENA, 47522, FORLI'-CESENA, ITALY",IT03724250406,H-IT0004677358,"Finance, Insurance, and Real Estate",Holding company (6719),Corporation,2008
+238,Amadori Spa,"PIAZZA BORROMEO 14, MILANO, 20123, MILANO, ITALY",IT10139280969,H-IT0058696008,"Finance, Insurance, and Real Estate",Holding company (6719),Corporation,2017
+239,Cooperativa Esercenti Farmacia Soc. Coop. A Rl,"VIA ACHILLE GRANDI 18, BRESCIA, 25125, BRESCIA, ITALY",IT00272680174,H-IT0034820485,Wholesale Trade,Whol drugs/sundries (5122),Cooperative,1934
+240,Centauro Srl,"VIA AGOSTINO BERTANI 2, MILANO, 20154, MILANO, ITALY",IT11258310157,H-IT0042957966,"Finance, Insurance, and Real Estate",Subdivider/developer (6552),Corporation,1994
+241,Tesya Spa,"VIA PADANA SUPERIORE 19, VIMODRONE, 20055, MILANO, ITALY",IT00156280026,H-IT0009265147,"Finance, Insurance, and Real Estate",Holding company (6719),Corporation,1952
+242,Alpiq Energia Italia Spa,"VIA MAROSTICA 1, MILANO, 20146, MILANO, ITALY",IT12930940155,H-IT0072874368,"Transportation, Communications, Electric, Gas, and Sanitary Services",Electric services (4911),Corporation,1999
+243,Alpiq Italia Srl,"VIA MAROSTICA 1, MILANO, 20146, MILANO, ITALY",IT13264630156,H-IT0074441337,"Transportation, Communications, Electric, Gas, and Sanitary Services",Electric services (4911),Corporation,2000
+244,Impresa Pizzarotti & C. Spa,"VIA MADRE ANNA MARIA ADORNI 1, PARMA, 43121, PARMA, ITALY",IT00533290342,H-IT0008738297,Construction,Operative builders (1531),Corporation,1910
+245,Autotorino Spa,"VIA STAZIONE 4, COSIO VALTELLINO, 23013, SONDRIO, ITALY",IT10024610155,H-IT0064668533,Retail Trade,Ret new/used automobiles (5511),Corporation,1990
+246,Philip Morris Manufacturing & Technology Bologna Spa,"VIA GIACOMO VENTURI 1-2, VALSAMOGGIA, 40053, BOLOGNA, ITALY",IT00737070151,H-IT0009644059,Manufacturing,Mfg chewing/smoking tobacco (2131),Corporation,1962
+247,Sanofi Srl,"VIALE LUIGI BODIO 37/B, MILANO, 20158, MILANO, ITALY",IT00832400154,H-IT0055781381,Manufacturing,Mfg pharmaceutical preparations (2834),Corporation,1938
+248,Leasys Spa,"CORSO ORBASSANO 367, TORINO, 10137, TORINO, ITALY",IT06714021000,H-IT0058324453,Services,Passenger car rental (7514),Corporation,2000
+249,Unilever Italia Mkt. Operations Srl,"VIA PAOLO DI DONO 3/A, ROMA, 00142, ROMA, ITALY",IT06397510964,H-IT0002837900,Wholesale Trade,Whol non durable goods (5199),Corporation,1996
+250,Decathlon Italia Srl,"VIA LAVORATORI AUTOBIANCHI 1, DESIO, 20832, MONZA E BRIANZA, ITALY",IT11005760159,H-IT0069732612,Retail Trade,Ret sporting goods/bicycles (5941),Corporation,1991
+251,Hb Trading Spa,"PIAZZA GIUSEPPE GARIBALDI 4, SARZANA, 19038, LA SPEZIA, ITALY",IT06076100962,H-IT0003003698,"Transportation, Communications, Electric, Gas, and Sanitary Services",Natural gas distribution (4924),Corporation,2008
+252,Eurospin Lazio Spa,"VIA FRANCESCO BARACCA 2/4 6, APRILIA, 04011, LATINA, ITALY",IT04766841003,H-IT0071511059,Retail Trade,Ret groceries (5411),Corporation,1994
+253,Megamark Srl,"STRADA PROVINCIALE 130 ANDRIA-TRANI, TRANI, 76125, BARLETTA ANDRIA TRANI, ITALY",IT02969690615,H-IT0003441288,Wholesale Trade,Whol non durable goods (5199),Corporation,2003
+254,Acciaierie Venete Spa,"RIVIERA FRANCIA 9/11, PADOVA, 35127, PADOVA, ITALY",IT00224180281,H-IT0050478427,Manufacturing,Blast furnace-steel works (3312),Corporation,1963
+255,Parsid Spa,"RIVIERA FRANCIA 9/11, PADOVA, 35127, PADOVA, ITALY",IT04125140287,H-IT0002860651,"Finance, Insurance, and Real Estate",Holding company (6719),Corporation,2006
+256,Cnh Industrial N.v.,"LUNGOSTURA LAZIO 3A, TORINO, 10100, TORINO, ITALY",IT10992060011,H-IT0039145182,"Finance, Insurance, and Real Estate",Holding company (6719),Foreign Company,2013
+257,Nestle' Italiana Spa,"VIA DEL MULINO 6, ASSAGO, 20057, MILANO, ITALY",IT00777280157,H-IT0009745254,Manufacturing,Mfg food preparations (2099),Corporation,1913
+258,Granarolo Spa,"VIA CADRIANO 27/2, BOLOGNA, 40127, BOLOGNA, ITALY",IT04119190371,H-IT0069012415,Manufacturing,Mfg fluid milk (2026),Corporation,1988
+259,Fideuram Intesa Sanpaolo Private Banking Spa,"PIAZZALE GIULIO DOUHET 31, ROMA, 00143, ROMA, ITALY",IT00714540150,H-IT0009534156,"Finance, Insurance, and Real Estate",National commercial bank (6021),Corporation,1949
+260,C.l.n. Coils Lamiere Nastri Spa,"CORSO SUSA 13/15, CASELETTE, 10040, TORINO, ITALY",IT00521230011,H-IT0009378731,Manufacturing,Blast furnace-steel works (3312),Corporation,1967
+261,Ferfina Spa,"VIA SALARIA 1039, ROMA, 00138, ROMA, ITALY",IT00889761003,H-IT0061854905,"Finance, Insurance, and Real Estate",Holding company (6719),Corporation,1932
+262,Finanziaria Dei Dogi Srl,"VIA SALARIA 1039, ROMA, 00138, ROMA, ITALY",IT12018811005,H-IT0006665942,"Finance, Insurance, and Real Estate",Holding company (6719),Corporation,2012
+263,Engineering - Ingegneria Informatica Spa,"PIAZZALE DELL'AGRICOLTURA 24, ROMA, 00144, ROMA, ITALY",IT05724831002,H-IT0018199887,Services,Custom computer programming (7371),Corporation,1980
+264,Granlatte Soc Coop Agricola A Rl,"VIA CADRIANO 36, BOLOGNA, 40127, BOLOGNA, ITALY",IT00326280377,H-IT0022450319,"Agriculture, Forestry, and Fishing",Animal specialties farm (0279),Corporation,1957
+265,E.on Energia Spa,"VIA DELL'UNIONE 1, MILANO, 20122, MILANO, ITALY",IT03429130234,H-IT0007817320,"Transportation, Communications, Electric, Gas, and Sanitary Services",Natural gas distribution (4924),Corporation,2004
+266,Metro Italia Cash And Carry Spa,"VIA XXV APRILE 23, SAN DONATO MILANESE, 20097, MILANO, ITALY",IT02827030962,H-IT0001757369,Wholesale Trade,Whol non durable goods (5199),Corporation,1972
+267,Grimaldi Euromed Spa,"VIA MARCHESE CAMPODISOLA 13, NAPOLI, 80133, NAPOLI, ITALY",IT00278730825,H-IT0013250906,"Transportation, Communications, Electric, Gas, and Sanitary Services",Water freight transportation (4449),Corporation,1973
+268,Procter & Gamble Holding Srl,"VIALE GIORGIO RIBOTTA 11, ROMA, 00144, ROMA, ITALY",IT05269321005,H-IT0075114402,Services,Business services (7389),Corporation,1956
+269,Cassa Di Compensazione E Garanzia Spa,"VIA TOMACELLI 146, ROMA, 00186, ROMA, ITALY",IT04289511000,H-IT0070718237,"Finance, Insurance, and Real Estate",Misc business credit institutions (6159),Corporation,1992
+270,Tech Data Italia Srl,"VIALE LEONE TOLSTOJ 65, SAN GIULIANO MILANESE, 20098, MILANO, ITALY",IT07092780159,H-IT0014480646,Manufacturing,Misc publishing (2741),Corporation,1983
+271,Waterfall Italia Spa,"VIALE GIOSUE' CARDUCCI 48, BOLOGNA, 40125, BOLOGNA, ITALY",IT03504331202,H-IT0048609145,"Finance, Insurance, and Real Estate",Holding company (6719),Corporation,2015
+272,I.d. 4 Italia Srl,"VIALE GIOSUE' CARDUCCI 48, BOLOGNA, 40125, BOLOGNA, ITALY",IT03422531206,H-IT0044257554,"Finance, Insurance, and Real Estate",Holding company (6719),Corporation,2014
+273,Alperia Trading Srl,"VIA DODICIVILLE 8, BOLZANO, 39100, BOLZANO, ITALY",IT03008510210,H-IT0062988077,"Transportation, Communications, Electric, Gas, and Sanitary Services",Electric services (4911),Corporation,1999
+274,Sogefi Spa,"VIA CIOVASSINO 1/A, MILANO, 20121, MILANO, ITALY",IT00607460201,H-IT0014786710,"Finance, Insurance, and Real Estate",Holding company (6719),Corporation,1980
+275,Conad Centro Nord Soc Coop,"VIA JOHN FITZGERALD KENNEDY 5, CAMPEGINE, 42040, REGGIO EMILIA, ITALY",IT01751820356,H-IT0011010495,Wholesale Trade,Whol non durable goods (5199),Corporation,1997
+276,Societa' Agricola La Pellegrina Spa,"VIA VALPANTENA 18/G, VERONA, 37142, VERONA, ITALY",IT00642520233,H-IT0010582002,"Agriculture, Forestry, and Fishing",Poultry/poultry egg farm (0259),Corporation,1976
+277,Siderurgica Investimenti Srl,"VIA GIUSEPPE VERDI 8, BEDIZZOLE, 25081, BRESCIA, ITALY",IT10341650157,H-IT0068457146,"Finance, Insurance, and Real Estate",Holding company (6719),Corporation,1989
+278,Zucchetti Group Spa,"VIA SOLFERINO 1, LODI, 26900, LODI, ITALY",IT04171890157,H-IT0029868157,"Finance, Insurance, and Real Estate",Holding company (6719),Corporation,1978
+279,Finde Spa,"CORSO GIOVANNI LANZA 101, TORINO, 10133, TORINO, ITALY",IT06633950016,H-IT0071559523,"Finance, Insurance, and Real Estate",Misc business credit institutions (6159),Corporation,1994
+280,Shell Italia Holding Spa,"VIALE THOMAS ALVA EDISON 110, SESTO SAN GIOVANNI, 20099, MILANO, ITALY",IT03525340968,H-IT0073889660,"Finance, Insurance, and Real Estate",Holding company (6719),Corporation,2002
+281,Marseglia Group Spa,"VIA BAIONE 200, MONOPOLI, 70043, BARI, ITALY",IT01469610743,H-IT0028047338,"Finance, Insurance, and Real Estate",Holding company (6719),Corporation,1990
+282,Bricoman Italia Srl,"VIA GUGLIELMO MARCONI 24, ROZZANO, 20089, MILANO, ITALY",IT05602670969,H-IT0075874768,Retail Trade,Ret hardware (5251),Corporation,2007
+283,Centurion Newco Spa,"VIALE BIANCA MARIA 25, MILANO, 20122, MILANO, ITALY",IT11220360967,H-IT0366646049,"Finance, Insurance, and Real Estate",Holding company (6719),Corporation,2020
+284,Egea Commerciale,"CORSO NINO BIXIO 8, ALBA, 12051, CUNEO, ITALY",IT02439760162,H-IT0072771879,"Transportation, Communications, Electric, Gas, and Sanitary Services",Natural gas distribution (4924),Corporation,1996
+285,Basell Poliolefine Italia Srl,"PIAZZALE GUIDO DONEGANI 12, FERRARA, 44122, FERRARA, ITALY",IT11531310156,H-IT0072235470,Manufacturing,Mfg plastic materials/resins (2821),Corporation,1995
+286,Luxottica Srl,"FRAZIONE VALCOZZENA 10, AGORDO, 32021, BELLUNO, ITALY",IT00064820251,H-IT0011912154,Manufacturing,Mfg ophthalmic goods (3851),Corporation,1961
+287,Fater Spa,"VIA MARE ADRIATICO 122, SPOLTORE, 65010, PESCARA, ITALY",IT01282360682,H-IT0029562732,Manufacturing,Mfg sanitary paper products (2676),Corporation,1990
+288,U.t. Communications Spa,"VIA MONTE NAPOLEONE 8, MILANO, 20121, MILANO, ITALY",IT11196950155,H-IT0016973011,"Finance, Insurance, and Real Estate",Holding company (6719),Corporation,1994
+289,Ali' Spa,"VIA OLANDA 2, PADOVA, 35127, PADOVA, ITALY",IT00348980285,H-IT0012582263,Retail Trade,Ret groceries (5411),Corporation,1973
+290,Lukoil Italia Srl,"VIA LEONIDA BISSOLATI 20, ROMA, 00187, ROMA, ITALY",IT10246551005,H-IT0014221233,Wholesale Trade,Whol petroleum products (5172),Corporation,2008
+291,Bitron Industrie Spa,"STRADA DEL PORTONE 95, GRUGLIASCO, 10095, TORINO, ITALY",IT06531680012,H-IT0074677802,"Finance, Insurance, and Real Estate",Holding company (6719),Corporation,1993
+292,Ali' Group Srl,"VIA OLANDA 2, PADOVA, 35127, PADOVA, ITALY",IT04117820284,H-IT0015617815,"Finance, Insurance, and Real Estate",Holding company (6719),Corporation,2006
+293,Epta Spa,"VIA MECENATE 86, MILANO, 20138, MILANO, ITALY",IT04160730968,H-IT0074413902,Manufacturing,Mfg refrigeration/heating equipment (3585),Corporation,2003
+294,Epta Hdp Spa,"VIA MECENATE 86, MILANO, 20138, MILANO, ITALY",IT10119950961,H-IT0058458778,"Finance, Insurance, and Real Estate",Holding company (6719),Corporation,2017
+295,Postepay Spa,"VIALE EUROPA 190, ROMA, 00144, ROMA, ITALY",IT06874351007,H-IT0072352515,"Finance, Insurance, and Real Estate",National commercial bank (6021),Corporation,2001
+296,Pini Holding Srl,"VIA RUGGERO BOSCOVICH 27, MILANO, 20124, MILANO, ITALY",IT10246890965,H-IT0059847948,"Finance, Insurance, and Real Estate",Holding company (6719),Corporation,2018
+297,Itinera Spa,"STRADA STATALE PER ALESSANDRIA 6/A, TORTONA, 15057, ALESSANDRIA, ITALY",IT01668980061,H-IT0030078768,Construction,Highway/street construction (1611),Corporation,1995
+298,Acciaierie Valbruna Spa,"VIALE DELLA SCIENZA 25, VICENZA, 36100, VICENZA, ITALY",IT02866820240,H-IT0070992320,Manufacturing,Blast furnace-steel works (3312),Corporation,1925
+299,Penny Market Srl,"STRADA PROVINCIALE 11 PADANA SUPERIORE 2/B, CERNUSCO SUL NAVIGLIO, 20063, MILANO, ITALY",IT12619750156,H-IT0001705946,Retail Trade,Ret groceries (5411),Corporation,1997
+300,Valentino Spa,"VIALE DEI LANIFICI 1, VALDAGNO, 36078, VICENZA, ITALY",IT05412951005,H-IT0073453986,Services,Business services (7389),Corporation,1997
+301,Dana Graziano Srl,"VIA CUMIANA 14, RIVOLI, 10098, TORINO, ITALY",IT06699750011,H-IT0075060949,Manufacturing,Mfg power transmission equipment (3568),Corporation,1989
+302,Iris Mobili Srl,"VIA CARLO POMA 11, POMEZIA, 00071, ROMA, ITALY",IT06888411003,H-IT0074100025,Retail Trade,Ret furniture (5712),Corporation,2002
+303,Padana Tubi E Profilati Acciaio Spa,"VIA PORTAMURATA 8/A, GUASTALLA, 42016, REGGIO EMILIA, ITALY",IT00323370353,H-IT0010857044,Manufacturing,Mfg steel pipe/tubes (3317),Corporation,1975
+304,Adler Plastic Spa,"VIA MOZZONI LOCALITA' S.DOMENICO, OTTAVIANO, 80044, NAPOLI, ITALY",IT01280381219,H-IT0012438634,Manufacturing,Mfg plastic products (3089),Corporation,1980
+305,Cofco International Italy Srl,"PIAZZA JOHN FITZGERALD KENNEDY 3, RAVENNA, 48121, RAVENNA, ITALY",IT08076171001,H-IT0074142240,Wholesale Trade,Whol grain/field beans (5153),Corporation,2004
+306,Diasorin Spa,"VIA CRESCENTINO, SALUGGIA, 13040, VERCELLI, ITALY",IT13144290155,H-IT0074334530,"Finance, Insurance, and Real Estate",Holding company (6719),Corporation,1996
+307,T.c.a. Trattamenti Ceneri Auroargentifere Spa,"LOCALITA' CASTELLUCCIO 11, CAPOLONA, 52010, AREZZO, ITALY",IT00279290514,H-IT0028132408,Manufacturing,Primary nonferrous metal producer (3339),Corporation,1977
+308,Groupama Assicurazioni Spa,"VIALE CESARE PAVESE 385, ROMA, 00144, ROMA, ITALY",IT00885741009,H-IT0070694672,"Finance, Insurance, and Real Estate",Insurance carrier (6399),Corporation,1929
+309,Electrolux Italia Spa,"CORSO LINO ZANUSSI 24, PORCIA, 33080, PORDENONE, ITALY",IT00065130932,H-IT0008016585,Manufacturing,Mfg electric housewares/fans (3634),Corporation,1916
+310,Msc Societa' Di Partecipazione Tra Lavoratori Spa,"VIA UBALDO POLI 4, ZOLA PREDOSA, 40069, BOLOGNA, ITALY",IT00592240378,H-IT0036360678,"Finance, Insurance, and Real Estate",Holding company (6719),Corporation,1938
+311,Dimar Spa,"VIA CUNEO 34, CHERASCO, 12062, CUNEO, ITALY",IT00294760046,H-IT0014501481,Wholesale Trade,Whol non durable goods (5199),Corporation,1973
+312,Tnt Global Express Srl,"CORSO GIULIO CESARE 268, TORINO, 10154, TORINO, ITALY",IT09399880153,H-IT0061951439,"Transportation, Communications, Electric, Gas, and Sanitary Services",Courier service (4215),Corporation,1981
+313,Unico La Farmacia Dei Farmacisti Spa,"VIA GARBAGNATE 63, LAINATE, 20045, MILANO, ITALY",IT02217430343,H-IT0003745546,Wholesale Trade,Whol drugs/sundries (5122),Corporation,1945
+314,Engycalor Energia Calore Srl,"VIA AURELIA 915, ROMA, 00165, ROMA, ITALY",IT00991041005,H-IT0016265335,Wholesale Trade,Whol petroleum products (5172),Corporation,1966
+315,Comet Spa,"VIA MICHELINO 105, BOLOGNA, 40127, BOLOGNA, ITALY",IT02108091204,H-IT0066647894,Wholesale Trade,Whol appliances/tv/radio (5064),Corporation,1968
+316,Comet Holding Spa,"VIA MICHELINO 105, BOLOGNA, 40127, BOLOGNA, ITALY",IT02406221206,H-IT0002419203,"Finance, Insurance, and Real Estate",Holding company (6719),Corporation,2003
+317,Unione Farmaceutica Novarese,"CORSO VERCELLI 120/C, NOVARA, 28100, NOVARA, ITALY",IT00110250032,H-IT0000430994,"Finance, Insurance, and Real Estate",Holding company (6719),Corporation,1945
+318,Ferragamo Finanziaria Spa,"VIA DEI TORNABUONI 2, FIRENZE, 50123, FIRENZE, ITALY",IT04161460482,H-IT0008928983,"Finance, Insurance, and Real Estate",Holding company (6719),Corporation,1989
+319,Ge Avio Srl,"VIA I MAGGIO 99, RIVALTA DI TORINO, 10040, TORINO, ITALY",IT10898340012,H-IT0037227971,Manufacturing,Mfg aircraft (3721),Corporation,2013
+320,Alrescha Investimenti Srl,"CORSO EUROPA 2, MILANO, 20122, MILANO, ITALY",IT06684430967,H-IT0021827443,"Finance, Insurance, and Real Estate",Holding company (6719),Corporation,2009
+321,Same Deutz Fahr Italia Spa,"VIALE FRANCESCO CASSANI 15, TREVIGLIO, 24047, BERGAMO, ITALY",IT00778780163,H-IT0010071229,Manufacturing,Mfg farm machinery/equipment (3523),Corporation,1978
+322,Agora' Network Soc Cons.rl,"VIA GIOVANNI BATTISTA PERGOLESI 25, MILANO, 20124, MILANO, ITALY",IT13211090157,H-IT0067273181,Wholesale Trade,Whol non durable goods (5199),Corporation,2000
+323,Erg Spa,"VIA DE MARINI 1, GENOVA, 16149, GENOVA, ITALY",IT10122410151,H-IT0075600137,"Finance, Insurance, and Real Estate",Holding company (6719),Corporation,1938
+324,Erg Power Generation Spa,"VIA DE MARINI 1, GENOVA, 16149, GENOVA, ITALY",IT01440590899,H-IT0072354003,"Transportation, Communications, Electric, Gas, and Sanitary Services",Electric services (4911),Corporation,2003
+325,San Quirico Spa,"VIA MARTIN PIAGGIO 17/4, GENOVA, 16122, GENOVA, ITALY",IT04469810966,H-IT0007816189,"Finance, Insurance, and Real Estate",Holding company (6719),Corporation,2004
+326,Unes Maxi Spa,"VIALE DELLE INDUSTRIE SNC, VIMODRONE, 20055, MILANO, ITALY",IT07515280159,H-IT0070625298,Retail Trade,Ret groceries (5411),Corporation,1984
+327,Iperal Supermercati Spa,"VIA BOLLADORE 64, SONDALO, 23035, SONDRIO, ITALY",IT11023300962,H-IT0217081009,Retail Trade,Ret groceries (5411),Corporation,2019
+328,Rosenbauer International Ag,"VIA DEI CAMPI DELLA RIENZA 30, BRUNICO, 39031, BOLZANO, ITALY",IT02746610217,H-IT0018652387,Wholesale Trade,Whol auto parts/supplies (5013),Foreign Company,1956
+329,Turytes Spa,"GALLERIA CAMILLO BENSO CONTE DI CAVOUR 4, BOLOGNA, 40124, BOLOGNA, ITALY",IT03704150378,H-IT0071579257,"Finance, Insurance, and Real Estate",Holding company (6719),Corporation,1987
+330,Alliancebernstein (luxembourg) S.a' Rl,"PIAZZA IV NOVEMBRE 7, MILANO, 20124, MILANO, ITALY",IT11162050964,H-IT0291923964,"Finance, Insurance, and Real Estate",Misc business credit institutions (6159),Foreign Company,2020
+331,Denso Thermal Systems Spa,"FRAZIONE MASIO 24, POIRINO, 10046, TORINO, ITALY",IT13391870154,H-IT0068400934,Manufacturing,Mfg refrigeration/heating equipment (3585),Corporation,2001
+332,Nova Coop Soc Coop,"VIA NELSON MANDELA 4, VERCELLI, 13100, VERCELLI, ITALY",IT01314250034,H-IT0055387381,Retail Trade,Ret groceries (5411),Corporation,1989
+333,Green Network Spa,"VIA GIULIO VINCENZO BONA 101, ROMA, 00156, ROMA, ITALY",IT07451521004,H-IT0074280767,"Transportation, Communications, Electric, Gas, and Sanitary Services",Electric services (4911),Corporation,2003
+334,Amazon Italia Transport Srl,"VIALE MONTE GRAPPA 3/5, MILANO, 20124, MILANO, ITALY",IT09598330968,H-IT0051956802,"Transportation, Communications, Electric, Gas, and Sanitary Services",Transportation services (4789),Corporation,2016
+335,Findomestic Banca Spa,"VIA JACOPO DA DIACCETO 48, FIRENZE, 50123, FIRENZE, ITALY",IT03562770481,H-IT0014969920,"Finance, Insurance, and Real Estate",Misc business credit institutions (6159),Corporation,1984
+336,Prenatal Retail Group Spa Ovvero In Abbreviato Pnt Retail Gr Oup Spa O Prg Spa,"VIA DELLE PRIMULE 5, COGLIATE, 20815, MONZA E BRIANZA, ITALY",IT11943650157,H-IT0000836494,Retail Trade,Ret hobbies/toys/games (5945),Corporation,1987
+337,Azimut - Benetti Spa,"VIA MICHELE COPPINO 104, VIAREGGIO, 55049, LUCCA, ITALY",IT01390230462,H-IT0010257845,Manufacturing,Boat building/repairing (3732),Corporation,1974
+338,Agsm Aim Energia Spa,"LUNGADIGE GALTAROSSA 8, VERONA, 37133, VERONA, ITALY",IT02968430237,H-IT0061888974,"Transportation, Communications, Electric, Gas, and Sanitary Services",Electric services (4911),Corporation,1999
+339,Fif Holding Spa,"VIA VEZZA D'OGLIO 7, MILANO, 20139, MILANO, ITALY",IT09607210961,H-IT0052284743,"Finance, Insurance, and Real Estate",Holding company (6719),Corporation,2016
+340,Coopservice Societa' Cooperativa Per Azioni,"VIA ROCHDALE 5, REGGIO EMILIA, 42122, REGGIO EMILIA, ITALY",IT00310180351,H-IT0059947489,Services,Building maintenance services (7349),Corporation,1975
+341,Servizi Energia Italia Spa,"VIA MARTIRI DI CEFALONIA 67, SAN DONATO MILANESE, 20097, MILANO, ITALY",IT03843480272,H-IT0002212226,Services,Engineering services (8711),Corporation,2008
+342,Bonfi Srl,"GALLERIA GUGLIELMO MARCONI 1, BOLOGNA, 40122, BOLOGNA, ITALY",IT03612091201,H-IT0054930944,"Finance, Insurance, and Real Estate",Holding company (6719),Corporation,2017
+343,Bonfiglioli Spa,"VIA CLEMENTINO BONFIGLIOLI 1, CALDERARA DI RENO, 40012, BOLOGNA, ITALY",IT00500551205,H-IT0035479205,"Finance, Insurance, and Real Estate",Holding company (6719),Corporation,1967
+344,Elecnor Sa,"VIA GIUSEPPE VERDI 6, SAN PIETRO MOSEZZO, 28060, NOVARA, ITALY",IT07111850967,H-IT0007067275,Services,Repair services (7699),Foreign Company,2010
+345,Rialto Spa,"VIA GIAN CARLO CLERICI 342, BRESSO, 20091, MILANO, ITALY",IT05849840151,H-IT0068420188,Retail Trade,Ret groceries (5411),Corporation,1980
+346,Industries Spa,"VIA VENEZIA 1, TREBASELEGHE, 35010, PADOVA, ITALY",IT04804070961,H-IT0074590448,Retail Trade,Ret family clothing (5651),Corporation,1975
+347,Riva Azzurra Spa,"VIA PANTANO 28, MILANO, 20122, MILANO, ITALY",IT09677100969,H-IT0041217519,Retail Trade,Ret groceries (5411),Corporation,1979
+348,Casillo Commodities Italia Spa,"VIA ANTONIO SANT'ELIA ZONA INDUSTRIALE SNC, CORATO, 70033, BARI, ITALY",IT04454620727,H-IT0002240947,Wholesale Trade,Whol grain/field beans (5153),Corporation,1993
+349,Ludoil Energy Spa,"VIA TARANTO 40, NOLA, 80035, NAPOLI, ITALY",IT07104471219,H-IT0018316182,"Finance, Insurance, and Real Estate",Holding company (6719),Corporation,2012
+350,Supermercati Tosano Cerea Srl,"VIA PALESELLA 1, CEREA, 37053, VERONA, ITALY",IT01286680234,H-IT0029146542,Retail Trade,Ret groceries (5411),Corporation,1980
+351,Skf Industrie Spa,"VIA PINEROLO 44, AIRASCA, 10060, TORINO, ITALY",IT02663880017,H-IT0011941758,Manufacturing,Mfg power transmission equipment (3568),Corporation,1980
+352,Hp Italy Srl,"VIA CARLO DONAT CATTIN 5, CERNUSCO SUL NAVIGLIO, 20063, MILANO, ITALY",IT08954150960,H-IT0044646682,Wholesale Trade,Whol computers/peripherals (5045),Corporation,1964
+353,Gottardo Spa,"GALLERIA SPAGNA 9, PADOVA, 35127, PADOVA, ITALY",IT02466210289,H-IT0068290586,Retail Trade,Ret misc merchandise (5999),Corporation,1991
+354,Maior Srl,"GALLERIA SPAGNA 9, PADOVA, 35127, PADOVA, ITALY",IT01350310288,H-IT0040460681,"Finance, Insurance, and Real Estate",Holding company (6719),Corporation,1987
+355,Policlinico San Donato Spa,"VIA RODOLFO MORANDI 30, SAN DONATO MILANESE, 20097, MILANO, ITALY",IT05853360153,H-IT0008911185,Services,General hospital (8062),Corporation,1980
+356,Vender Spa,"VIA ALFRED BERNHARD NOBEL 4/A, PARMA, 43122, PARMA, ITALY",IT02084770342,H-IT0001756354,"Finance, Insurance, and Real Estate",Holding company (6719),Corporation,1999
+357,Ludoil Energia Srl,"VIA TARANTO 40, NOLA, 80035, NAPOLI, ITALY",IT07047491217,H-IT0017380286,Wholesale Trade,Whol petroleum products (5172),Corporation,2011
+358,In's Mercato Spa,"VIA ISTITUTO SANTA MARIA DELLA PIETA' 6, VENEZIA, 30173, VENEZIA, ITALY",IT02896940273,H-IT0071274197,Retail Trade,Ret groceries (5411),Corporation,1994
+359,Sorgenia Power Spa,"VIA ADRIANO OLIVETTI SNC, TERMOLI, 86039, CAMPOBASSO, ITALY",IT03925650966,H-IT0074055054,"Transportation, Communications, Electric, Gas, and Sanitary Services",Electric services (4911),Corporation,2003
+360,Ald Automotive Italia Srl,"VIALE LUCA GAURICO 187, ROMA, 00143, ROMA, ITALY",IT01924961004,H-IT0038498553,Services,Passenger car rental (7514),Corporation,1987
+361,Alliance Healthcare Italia Spa,"VIA MOGGIA 75/A, LAVAGNA, 16033, GENOVA, ITALY",IT05249181008,H-IT0069484236,"Finance, Insurance, and Real Estate",Holding company (6719),Corporation,1986
+362,Estra Energie Srl,"VIA UGO PANZIERA 16, PRATO, 59100, PRATO, ITALY",IT01219980529,H-IT0002558351,"Transportation, Communications, Electric, Gas, and Sanitary Services",Natural gas distribution (4924),Corporation,2007
+363,Fibercop Spa,"VIA GAETANO NEGRI 1, MILANO, 20123, MILANO, ITALY",IT11459900962,H-IT0588755479,"Transportation, Communications, Electric, Gas, and Sanitary Services",Telephone communications (4813),Corporation,2020
+364,D & G Srl,"VIA CARLO GOLDONI 10, MILANO, 20129, MILANO, ITALY",IT09297840150,H-IT0042004292,Services,Business services (7389),Corporation,1988
+365,Dolce & Gabbana Holding Srl,"VIA CARLO GOLDONI 10, MILANO, 20129, MILANO, ITALY",IT05948660963,H-IT0014652935,"Finance, Insurance, and Real Estate",Holding company (6719),Corporation,2007
+366,Ccs Jv Scarl,"VIA MILANO 10, SAN DONATO MILANESE, 20097, MILANO, ITALY",IT10828520964,H-IT0066891477,Services,Engineering services (8711),Corporation,2019
+367,Vandemoortele Europe N.v.,"VIA FIORENZO SEMINI 12, GENOVA, 16163, GENOVA, ITALY",IT02644480994,H-IT0289923537,Wholesale Trade,Whol groceries (5149),Foreign Company,2019
+368,Pastificio Rana Spa,"VIA ANTONIO PACINOTTI 25, SAN GIOVANNI LUPATOTO, 37057, VERONA, ITALY",IT01397480235,H-IT0015232751,Manufacturing,Mfg macaroni/spaghetti (2098),Corporation,1962
+369,C.o.i.m. Spa - Chimica Organica Industriale Milanese,"VIA DELLE AZALEE 19, BUCCINASCO, 20090, MILANO, ITALY",IT00798810156,H-IT0010010882,Manufacturing,Mfg plastic materials/resins (2821),Corporation,1966
+370,Astaris Spa,"VIA GIULIO VINCENZO BONA 65, ROMA, 00156, ROMA, ITALY",IT00880281001,H-IT0009236252,Construction,Heavy construction (1629),Corporation,1950
+371,Tirreno Power Spa,"STRADONE VIGLIENA 39, NAPOLI, 80146, NAPOLI, ITALY",IT07242841000,H-IT0074299816,"Transportation, Communications, Electric, Gas, and Sanitary Services",Electric services (4911),Corporation,1999
+372,Eurospin Tirrenica Spa,"VIA DELLA CHIOCANA 3, MAGIONE, 06063, PERUGIA, ITALY",IT02049850544,H-IT0072309458,Retail Trade,Ret groceries (5411),Corporation,1994
+373,Angelini Pharma Italia Aziende Chimiche Riunite Angelini Francesco A.c.r.a.f. Spa,"VIALE AMELIA 70, ROMA, 00181, ROMA, ITALY",IT01258691003,H-IT0011938420,Manufacturing,Mfg pharmaceutical preparations (2834),Corporation,1980
+374,Electrade Spa,"VIA ARISTIDE NONIS 68/A, MAROSTICA, 36063, VICENZA, ITALY",IT03294530245,H-IT0007956770,"Transportation, Communications, Electric, Gas, and Sanitary Services",Electric services (4911),Corporation,2006
+375,Cereal Docks Spa,"VIA DELL'INNOVAZIONE 1, CAMISANO VICENTINO, 36043, VICENZA, ITALY",IT02218040240,H-IT0075736667,Manufacturing,Mfg edible fats/oils (2079),Corporation,1991
+376,Telecom Italia Sparkle Spa,"VIA DI MACCHIA PALOCCO 223, ROMA, 00125, ROMA, ITALY",IT05305181009,H-IT0073451940,"Transportation, Communications, Electric, Gas, and Sanitary Services",Telephone communications (4813),Corporation,1933
+377,Agos-ducato Spa,"VIALE FULVIO TESTI 280, MILANO, 20126, MILANO, ITALY",IT08570720154,H-IT0037639927,"Finance, Insurance, and Real Estate",Misc business credit institutions (6159),Corporation,1986
+378,Fercam Holding Srl,"VIA MARIE CURIE 2, BOLZANO, 39100, BOLZANO, ITALY",IT02937940217,H-IT0053646924,"Finance, Insurance, and Real Estate",Holding company (6719),Corporation,2016
+379,Prexta Spa In Forma Abbreviata Prexta Spa,"PALAZZO MEUCCI VIA FRANCESCO SFORZA, BASIGLIO, 20079, MILANO, ITALY",IT07551781003,H-IT0074379046,"Finance, Insurance, and Real Estate",Misc business credit institutions (6159),Corporation,2003
+380,Marelli Europe Spa,"VIALE ALDO BORLETTI 61/63, CORBETTA, 20011, MILANO, ITALY",IT08082990014,H-IT0050813986,Manufacturing,Mfg engine electrical equipment (3694),Corporation,1919
+381,Coca-cola Hbc Italia Srl,"PIAZZA INDRO MONTANELLI 30, SESTO SAN GIOVANNI, 20099, MILANO, ITALY",IT12363410155,H-IT0009387420,Manufacturing,Mfg bottled/canned soft drinks (2086),Corporation,1998
+382,Sonepar Italia Spa,"RIVIERA MAESTRI DEL LAVORO 24, PADOVA, 35127, PADOVA, ITALY",IT00825330285,H-IT0010621318,Wholesale Trade,Whol furniture (5021),Corporation,1978
+383,Merck Serono Spa,"VIA CASILINA 125, ROMA, 00176, ROMA, ITALY",IT00880701008,H-IT0011101210,Manufacturing,Mfg pharmaceutical preparations (2834),Corporation,1906
+384,Lottomatica Spa,"VIA DEGLI ALDOBRANDESCHI 300, ROMA, 00163, ROMA, ITALY",IT13917321005,H-IT0051529211,"Finance, Insurance, and Real Estate",Holding company (6719),Corporation,2016
+385,Fratelli Arena Srl,"CONTRADA MILOCCA SNC, ASSORO, 94010, ENNA, ITALY",IT00097560866,H-IT0033650578,Retail Trade,Ret groceries (5411),Corporation,1976
+386,Yoox Net-a-porter Group Spa,"VIA NERIO NANNETTI 1, ZOLA PREDOSA, 40069, BOLOGNA, ITALY",IT02050461207,H-IT0075554402,Retail Trade,Ret mail-order house (5961),Corporation,2000
+387,Almaviva - The Italian Innovation Company Spa,"VIA DI CASAL BOCCONE 188/190, ROMA, 00137, ROMA, ITALY",IT08450891000,H-IT0007704623,Services,Custom computer programming (7371),Corporation,2005
+388,Almaviva Technologies Srl,"PIAZZA DEI SANTI APOSTOLI 66, ROMA, 00187, ROMA, ITALY",IT04819331002,H-IT0012248274,"Finance, Insurance, and Real Estate",Holding company (6719),Corporation,1994
+389,Petronas Lubricants Italy Spa,"VIA SANTENA 1, VILLASTELLONE, 10029, TORINO, ITALY",IT05082750968,H-IT0072557230,Manufacturing,Petroleum refiner (2911),Corporation,1912
+390,Adi Energia Srl,"VIALE CERTOSA 239, MILANO, 20151, MILANO, ITALY",IT10354910969,H-IT0061243132,"Transportation, Communications, Electric, Gas, and Sanitary Services",Electric services (4911),Corporation,2018
+391,Amazon Italia Logistica Srl,"VIALE MONTE GRAPPA 3/5, MILANO, 20124, MILANO, ITALY",IT07231660965,H-IT0019964625,"Transportation, Communications, Electric, Gas, and Sanitary Services",Transportation services (4789),Corporation,2010
+392,Credito Emiliano Spa,"VIA EMILIA SAN PIETRO 4, REGGIO EMILIA, 42121, REGGIO EMILIA, ITALY",IT00766790356,H-IT0068365128,"Finance, Insurance, and Real Estate",National commercial bank (6021),Corporation,1973
+393,Deutsche Bank Spa,"PIAZZA DEL CALENDARIO 3, MILANO, 20126, MILANO, ITALY",IT01340740156,H-IT0009886419,"Finance, Insurance, and Real Estate",National commercial bank (6021),Corporation,1917
+394,Bunge Italia Spa,"VIA BAIONA 203, RAVENNA, 48123, RAVENNA, ITALY",IT01532980388,H-IT0057316376,Manufacturing,Mfg edible fats/oils (2079),Corporation,2000
+395,Enel Global Services Srl,"VIALE REGINA MARGHERITA 125, ROMA, 00198, ROMA, ITALY",IT15416261004,H-IT0216488695,Services,Computer related services (7379),Corporation,2019
+396,Farvima Holding Srl,"VIA NAPOLI 220, CASANDRINO, 80025, NAPOLI, ITALY",IT01465051215,H-IT0069463166,"Finance, Insurance, and Real Estate",Misc business credit institutions (6159),Corporation,1989
+397,Sogegross Spa,"LUNGOTORRENTE SECCA 3/A, GENOVA, 16163, GENOVA, ITALY",IT01226470993,H-IT0061847526,Wholesale Trade,Whol groceries (5149),Corporation,1986
+398,Gruppo Arena Spa,"VIA GIUSEPPE MAZZINI 36, VALGUARNERA CAROPEPE, 94019, ENNA, ITALY",IT01213020868,H-IT0043684491,"Finance, Insurance, and Real Estate",Holding company (6719),Corporation,2014
+399,Eni Angola Spa,"VIA EMILIA 1, SAN DONATO MILANESE, 20097, MILANO, ITALY",IT05782480965,H-IT0002561107,Mining,Crude petroleum/natural gas production (1311),Corporation,2007
+400,Ferrovial Construcción S.a.,"FORO BUONAPARTE 67, MILANO, 20121, MILANO, ITALY",IT12400940156,H-IT0073073571,Construction,Highway/street construction (1611),Foreign Company,1999
+401,Alfa Acciai Spa,"VIA SAN POLO 152, BRESCIA, 25134, BRESCIA, ITALY",IT00988040176,H-IT0012802263,Manufacturing,Blast furnace-steel works (3312),Corporation,1978
+402,Cambielli Edilfriuli Spa,"VIA ASSANO 1791, CESENA, 47521, FORLI'-CESENA, ITALY",IT00721560159,H-IT0012313475,Wholesale Trade,Whol plumbing equipment/supplies (5074),Corporation,1919
+403,Comdata Spa,"VIA SEBASTIANO CABOTO 1, CORSICO, 20094, MILANO, ITALY",IT07790430966,H-IT0018891764,Services,Business services (7389),Corporation,2012
+404,Shell Energy Italia Srl,"VIALE THOMAS ALVA EDISON 110, SESTO SAN GIOVANNI, 20099, MILANO, ITALY",IT04522681008,H-IT0039270270,"Transportation, Communications, Electric, Gas, and Sanitary Services",Natural gas distribution (4924),Corporation,1993
+405,Fattoria San Michele A Torri Srl,"VIA SAN MICHELE 36, SCANDICCI, 50018, FIRENZE, ITALY",IT03899450484,H-IT0046709703,"Finance, Insurance, and Real Estate",Real property lessor (6519),Corporation,1987
+406,Bottega Veneta Srl,"LOCALITA' CONTI MALTRAVERSO 1, MONTEBELLO VICENTINO, 36054, VICENZA, ITALY",IT01824610248,H-IT0009268642,Manufacturing,Mfg luggage (3161),Corporation,1968
+407,Bolton Food Spa,"VIA EINAUDI 18/22, CERMENATE, 22072, COMO, ITALY",IT00197980139,H-IT0008233624,Manufacturing,Mfg prepared meats (2013),Corporation,1951
+408,Silmar Group Spa,"LOCALITA' MERLARO 2, VESTONE, 25078, BRESCIA, ITALY",IT00681790986,H-IT0074963252,"Finance, Insurance, and Real Estate",Misc business credit institutions (6159),Corporation,1985
+409,Ferretti Spa,"VIA GIOVANNI ANSALDO 7, FORLI', 47122, FORLI'-CESENA, ITALY",IT04485970968,H-IT0007919220,Manufacturing,Boat building/repairing (3732),Corporation,2004
+410,Ferretti International Holding Spa,"VIA ALESSANDRO MANZONI 41, MILANO, 20121, MILANO, ITALY",IT07739200967,H-IT0018463061,"Finance, Insurance, and Real Estate",Holding company (6719),Corporation,2012
+411,Dalmine Spa,"PIAZZA CADUTI 6 LUGLIO 1944 1, DALMINE, 24044, BERGAMO, ITALY",IT02149710168,H-IT0008507155,Manufacturing,Mfg steel pipe/tubes (3317),Corporation,1920
+412,Banca Popolare Di Sondrio Spa,"PIAZZA GIUSEPPE GARIBALDI 16, SONDRIO, 23100, SONDRIO, ITALY",IT00053810149,H-IT0049413783,"Finance, Insurance, and Real Estate",National commercial bank (6021),Corporation,1871
+413,General Cavi Spa,"VIA DELL'INDUSTRIA 22, CONSELICE, 48017, RAVENNA, ITALY",IT01208310399,H-IT0070462135,Manufacturing,Mfg conductive wiring devices (3643),Corporation,1992
+414,Solvay Specialty Polymers Italy Spa,"VIALE LOMBARDIA 20, BOLLATE, 20021, MILANO, ITALY",IT03521920961,H-IT0003962121,Manufacturing,Mfg industrial inorganic chemicals (2819),Corporation,1971
+415,Arcese Holding Sapa Di Eleuterio Arcese E C.,"VIA ALDO MORO 95, ARCO, 38062, TRENTO, ITALY",IT01725840225,H-IT0007815514,"Finance, Insurance, and Real Estate",Holding company (6719),Corporation,2001
+416,Infineum Italia Srl,"STRADA DI SCORRIMENTO 2, VADO LIGURE, 17047, SAVONA, ITALY",IT12640380155,H-IT0001742299,Manufacturing,Mfg chemical preparations (2899),Corporation,1998
+417,Smeg Spa,"VIA LEONARDO DA VINCI 4, GUASTALLA, 42016, REGGIO EMILIA, ITALY",IT01555030350,H-IT0002513277,Manufacturing,Mfg electric housewares/fans (3634),Corporation,1985
+418,Sasol Italy Spa,"VIALE ENRICO FORLANINI 23, MILANO, 20134, MILANO, ITALY",IT04758570826,H-IT0032307985,Manufacturing,Mfg industrial organic chemicals (2869),Corporation,1957
+419,Nordea Investment Funds S.a.,"VIA TORTONA 9, MILANO, 20144, MILANO, ITALY",97615180151,H-IT0018764584,"Finance, Insurance, and Real Estate",Investment advisory service (6282),Foreign Company,2012
+420,Sanpellegrino Spa,"VIA DEL MULINO 6, ASSAGO, 20057, MILANO, ITALY",IT00753740158,H-IT0008587930,Services,Misc personal services (7299),Corporation,1899
+421,Retitalia Spa,"VIA GASPARE GOZZI 1/A, MILANO, 20129, MILANO, ITALY",IT04784780969,H-IT0002368692,Wholesale Trade,Whol petroleum products (5172),Corporation,2005
+422,Unoenergy Spa,"CORSO FELICE CAVALLOTTI 30, SANREMO, 18038, IMPERIA, ITALY",IT01368720080,H-IT0007913850,"Transportation, Communications, Electric, Gas, and Sanitary Services",Natural gas distribution (4924),Corporation,2004
+423,United Parcel Service Italia Srl,"VIA GAUDENZIO FANTOLI 15/2 15/8, MILANO, 20138, MILANO, ITALY",IT08537690151,H-IT0054498589,"Transportation, Communications, Electric, Gas, and Sanitary Services",Courier service (4215),Corporation,1986
+424,Alstom Ferroviaria Spa,"VIA OTTAVIO MORENO 23, SAVIGLIANO, 12038, CUNEO, ITALY",IT02791070044,H-IT0075690152,Manufacturing,Mfg railroad equipment (3743),Corporation,1950
+425,Elfin Srl,"CORSO FELICE CAVALLOTTI 30, SANREMO, 18038, IMPERIA, ITALY",IT01702610088,H-IT0067882900,"Finance, Insurance, and Real Estate",Holding company (6719),Corporation,2019
+426,Uno Holding Srl,"VIA CALDERA 21, MILANO, 20153, MILANO, ITALY",IT09142880963,H-IT0046926836,"Finance, Insurance, and Real Estate",Holding company (6719),Corporation,2015
+427,Bticino Spa,"VIALE LUIGI BORRI 231, VARESE, 21100, VARESE, ITALY",IT10991860155,H-IT0070586640,Manufacturing,Mfg switchgear/switchboards (3613),Corporation,1945
+428,Prysmian Powerlink Srl,"VIA CHIESE 6, MILANO, 20126, MILANO, ITALY",IT05931070964,H-IT0002115379,Manufacturing,Mfg conductive wiring devices (3643),Corporation,2007
+429,Compass Banca Spa,"FORO BUONAPARTE 10, MILANO, 20121, MILANO, ITALY",IT00864530159,H-IT0009567917,"Finance, Insurance, and Real Estate",Misc business credit institutions (6159),Corporation,1951
+430,Carlo Colombo Spa,"VIA REGONA 3, PIZZIGHETTONE, 26026, CREMONA, ITALY",IT05055530157,H-IT0040846679,Manufacturing,Copper rolling/drawing (3351),Corporation,1982
+431,Lb Holding Spa,"VIA COLOMBARA 113, VENEZIA, 30176, VENEZIA, ITALY",IT04455700270,H-IT0058540547,"Finance, Insurance, and Real Estate",Holding company (6719),Corporation,2017
+432,Verofin Srl,"PIAZZA GIOVINE ITALIA 3, MILANO, 20123, MILANO, ITALY",IT06827090967,H-IT0023945680,"Finance, Insurance, and Real Estate",Misc business credit institutions (6159),Corporation,2009
+433,Umana Spa,"VIA COLOMBARA 113, VENEZIA, 30176, VENEZIA, ITALY",IT03171510278,H-IT0073452858,Services,Help supply services (7363),Corporation,1997
+434,Gruppo Ltc Spa,"VIA ORNA 35, BRENDOLA, 36040, VICENZA, ITALY",IT02796960249,H-IT0070986819,"Finance, Insurance, and Real Estate",Holding company (6719),Corporation,1999
+435,Alliance Healthcare Italia Distribuzione Spa,"VIA MOGGIA 75/A, LAVAGNA, 16033, GENOVA, ITALY",IT00890881006,H-IT0008848904,Wholesale Trade,Whol drugs/sundries (5122),Corporation,1949
+436,Montanwerke Brixlegg Aktiengesellschaft,"VIA BOLZANO 63, APPIANO SULLA STRADA DEL VINO, 39057, BOLZANO, ITALY",IT03004230219,H-IT0062581627,Wholesale Trade,Metals service center (5051),Foreign Company,2018
+437,Societa' Italiana Per Condotte D'acqua Spa,"VIA SALARIA 1039, ROMA, 00138, ROMA, ITALY",IT00904561008,H-IT0023002832,Construction,Heavy construction (1629),Corporation,1880
+438,Sacyr Construccion S.a.,"VIA INVORIO 24/A, TORINO, 10146, TORINO, ITALY",IT09177470011,H-IT0007977557,Construction,Highway/street construction (1611),Foreign Company,2005
+439,Arneg Spa,"VIA VENEZIA 58, CAMPO SAN MARTINO, 35010, PADOVA, ITALY",IT00220200281,H-IT0009445447,Manufacturing,Mfg refrigeration/heating equipment (3585),Corporation,1963
+440,General Logistics Systems Italy Spa,"VIA BASENTO 19, SAN GIULIANO MILANESE, 20098, MILANO, ITALY",IT12144660151,H-IT0070207895,Services,Business services (7389),Corporation,1993
+441,Rizzoli Corriere Della Sera Mediagroup Spa,"VIA ANGELO RIZZOLI 8, MILANO, 20132, MILANO, ITALY",IT12086540155,H-IT0072908513,Manufacturing,Misc publishing (2741),Corporation,1997
+442,Metinvest Trametal Spa,"VIA XII OTTOBRE 1, GENOVA, 16121, GENOVA, ITALY",IT05956630965,H-IT0002492334,Manufacturing,Blast furnace-steel works (3312),Corporation,2007
+443,Sarlux Srl,"GALLERIA PASSARELLA 2, MILANO, 20122, MILANO, ITALY",IT02093140925,H-IT0072362200,Manufacturing,Petroleum refiner (2911),Corporation,1992
+444,Seetech Global Industries Spa,"VIA ANTONIO PACINOTTI 3, BOLZANO, 39100, BOLZANO, ITALY",IT02703600219,H-IT0004673077,"Finance, Insurance, and Real Estate",Holding company (6719),Corporation,2011
+445,Henkel Italia Srl,"VIA CARLO AMORETTI 78, MILANO, 20157, MILANO, ITALY",IT09299750969,H-IT0048467219,Wholesale Trade,Whol home furnishings (5023),Corporation,2015
+446,Unicoop Tirreno Soc Coop,"STRADA STATALE S.S. AURELIA KM. 237 SNC, PIOMBINO, 57025, LIVORNO, ITALY",IT00103530499,H-IT0035238232,Retail Trade,Ret groceries (5411),Cooperative,1945
+447,Banco Bpm Vita Spa,"VIA MASSAUA 6, MILANO, 20146, MILANO, ITALY",IT10769290155,H-IT0008916993,"Finance, Insurance, and Real Estate",Life insurance carrier (6311),Corporation,1992
+448,Tod's Spa,"VIA FILIPPO DELLA VALLE 1, SANT'ELPIDIO A MARE, 63811, FERMO, ITALY",IT01113570442,H-IT0042141826,Manufacturing,Mfg footwear-except rubber (3149),Corporation,1900
+449,Di.vi. Finanziaria Di Diego Della Valle & C. Srl,"VIA SETTECAMINI 116, SANT'ELPIDIO A MARE, 63811, FERMO, ITALY",IT01732500440,H-IT0024746916,"Finance, Insurance, and Real Estate",Holding company (6719),Corporation,2002
+450,Tigros Spa,"VIA DEL LAVORO 45, SOLBIATE ARNO, 21048, VARESE, ITALY",IT12790620152,H-IT0067919634,Retail Trade,Ret groceries (5411),Corporation,1979
+451,Unigra' Srl,"VIA GARDIZZA 9/B, CONSELICE, 48017, RAVENNA, ITALY",IT02403240399,H-IT0019525346,Manufacturing,Mfg edible fats/oils (2079),Corporation,1970
+452,Amissima Vita Spa,"MURA DI SANTA CHIARA 1, GENOVA, 16128, GENOVA, ITALY",IT03723300103,H-IT0031275737,"Finance, Insurance, and Real Estate",Life insurance carrier (6311),Corporation,1971
+453,Eli Lilly Italia Spa,"VIA ANTONIO GRAMSCI 731/733, SESTO FIORENTINO, 50019, FIRENZE, ITALY",IT00426150488,H-IT0008953503,Manufacturing,Mfg pharmaceutical preparations (2834),Corporation,1959
+454,Intesa Sanpaolo Assicura Spa,"CORSO INGHILTERRA 3, TORINO, 10138, TORINO, ITALY",IT06995220016,H-IT0072773529,"Finance, Insurance, and Real Estate",Insurance carrier (6399),Corporation,1995
+455,Ferriera Valsider Spa,"VIA ANTONIO SALIERI 36, OPPEANO, 37050, VERONA, ITALY",IT03067420236,H-IT0075644894,Manufacturing,Mfg cold-rolled steel shapes (3316),Corporation,2000
+456,Friul Intagli Industries Spa,"VIA ODERZO 68, PRATA DI PORDENONE, 33080, PORDENONE, ITALY",IT01586110262,H-IT0069538484,Manufacturing,Mfg furniture/fixtures (2599),Corporation,1968
+457,Costantin Spa,"VIA CANAREGGIO 1823/1, BORGO VENETO, 35046, PADOVA, ITALY",IT02098230283,H-IT0071269770,Retail Trade,Gasoline service station (5541),Corporation,1986
+458,Eurovo Srl,"VIA MENSA 3, LUGO, 48022, RAVENNA, ITALY",IT00727070393,H-IT0034973583,Manufacturing,Mfg food preparations (2099),Corporation,1981
+459,Prima Sole Components Spa,"VIA CASILINA SUD SNC KM90,200, TORRICE, 03020, FROSINONE, ITALY",IT00152970935,H-IT0012418706,Manufacturing,Mfg plastic products (3089),Corporation,1968
+460,Biesse Spa,"VIA DELLA MECCANICA 16, PESARO, 61122, PESARO E URBINO, ITALY",IT00113220412,H-IT0011465840,Manufacturing,Mfg metalworking machinery (3549),Corporation,1968
+461,Scm Group Spa,"VIA EMILIA 69/71/77, RIMINI, 47921, RIMINI, ITALY",IT00126480409,H-IT0012085162,Manufacturing,Mfg metalworking machinery (3549),Corporation,1958
+462,Agfa,"VIA MASSIMO GORKI 69, CINISELLO BALSAMO, 20092, MILANO, ITALY",IT08271110960,H-IT0038266865,Wholesale Trade,Whol industrial equipment (5084),Foreign Company,2013
+463,Bi.fin. Srl,"VIALE FRATELLI ROSSELLI 46, PESARO, 61121, PESARO E URBINO, ITALY",IT01235440417,H-IT0070351872,"Finance, Insurance, and Real Estate",Holding company (6719),Corporation,1992
+464,Dolce & Gabbana Srl,"VIA CARLO GOLDONI 10, MILANO, 20129, MILANO, ITALY",IT09297890155,H-IT0051804646,Manufacturing,Mfg apparel/accessories (2389),Corporation,1988
+465,Dana Italia Srl,"LOCALITA' LINFANO, ARCO, 38062, TRENTO, ITALY",IT01638270221,H-IT0049590383,Manufacturing,Mfg power transmission equipment (3568),Corporation,1988
+466,F.lli Martini & C. Spa,"VIA EMILIA 2614, LONGIANO, 47020, FORLI'-CESENA, ITALY",IT00124030404,H-IT0010756361,"Finance, Insurance, and Real Estate",Holding company (6719),Corporation,1961
+467,Dow Italia Divisione Commerciale Srl,"VIA FRANCESCO ALBANI 65, MILANO, 20148, MILANO, ITALY",IT13351750156,H-IT0055693393,Manufacturing,Mfg chemical preparations (2899),Corporation,2001
+468,Magna Powertrain Italia Srl,"VIA DEI CICLAMINI 4, MODUGNO, 70026, BARI, ITALY",IT01167870623,H-IT0067796354,"Finance, Insurance, and Real Estate",Holding company (6719),Corporation,1999
+469,Sicim Spa,"VIA CONSOLATICO SUPERIORE 96/98, BUSSETO, 43011, PARMA, ITALY",IT00143470342,H-IT0010808701,Construction,Operative builders (1531),Corporation,1962
+470,Jaguar Land Rover Italia Spa,"VIALE ALESSANDRO MARCHETTI 105, ROMA, 00148, ROMA, ITALY",IT06070621005,H-IT0075640449,Retail Trade,Ret new/used automobiles (5511),Corporation,2000
+471,Nova Aeg Spa,"VIA NELSON MANDELA 4, VERCELLI, 13100, VERCELLI, ITALY",IT02616630022,H-IT0050822500,"Transportation, Communications, Electric, Gas, and Sanitary Services",Electric services (4911),Corporation,2016
+472,J.a.s. Jet Air Service Spa,"VIUZZO DI PORTO 4/B, SCANDICCI, 50018, FIRENZE, ITALY",IT01921910152,H-IT0009995455,"Transportation, Communications, Electric, Gas, and Sanitary Services",Transportation services (4789),Corporation,1974
+473,Acegasapsamga Spa,"VIA DEL TEATRO 5, TRIESTE, 34121, TRIESTE, ITALY",IT00930530324,H-IT0004648218,"Transportation, Communications, Electric, Gas, and Sanitary Services",Water supply service (4941),Corporation,1997
+474,Siram Spa,"VIA ANNA MARIA MOZZONI 12, MILANO, 20152, MILANO, ITALY",IT08786190150,H-IT0047975709,Construction,Plumbing/heating/air conditioning contrac (1711),Corporation,1987
+475,Lenovo Italy Srl,"VIA SAN BOVIO 3, SEGRATE, 20054, MILANO, ITALY",IT04771300961,H-IT0073894281,Manufacturing,Mfg electronic computers (3571),Corporation,2005
+476,Urbaser S.a.,"VIA CONSORTILE, AVELLINO, 83100, AVELLINO, ITALY",IT13379651006,H-IT0045887942,Services,Business services (7389),Foreign Company,2015
+477,Huawei Technologies Italia Srl,"VIA LORENTEGGIO 240, MILANO, 20147, MILANO, ITALY",IT04501190963,H-IT0007698003,Wholesale Trade,Whol electronic parts/equipment (5065),Corporation,2004
+478,Sace Spa,"PIAZZA POLI 37/42, ROMA, 00187, ROMA, ITALY",IT05804521002,H-IT0072934069,"Finance, Insurance, and Real Estate",Insurance carrier (6399),Corporation,1977
+479,Ducati Motor Holding Spa,"VIA ANTONIO CAVALIERI DUCATI 3, BOLOGNA, 40132, BOLOGNA, ITALY",IT05113870967,H-IT0002492660,Manufacturing,Mfg motorcycles/bicycles (3751),Corporation,1926
+480,Equensworldline Se,"VIA ENRICO CIALDINI 16, MILANO, 20161, MILANO, ITALY",IT08453720966,H-IT0040267229,Services,Data processing/preparation (7374),Foreign Company,2013
+481,Itas Istituto Trentino Alto Adige Per Assicurazioni Societa' Mutua Di Assicurazioni,"PIAZZA DELLE DONNE LAVORATRICI 2, TRENTO, 38121, TRENTO, ITALY",IT00110750221,H-IT0052080684,"Finance, Insurance, and Real Estate",Insurance carrier (6399),Cooperative,1821
+482,Lvmh Italia Spa,"LARGO AUGUSTO 8, MILANO, 20122, MILANO, ITALY",IT13310290153,H-IT0070531358,"Finance, Insurance, and Real Estate",Holding company (6719),Corporation,1991
+483,Farvima Medicinali Spa,"VIA NAPOLI 220, CASANDRINO, 80025, NAPOLI, ITALY",IT01239791211,H-IT0012414328,Wholesale Trade,Whol drugs/sundries (5122),Corporation,1963
+484,Smurfit Kappa Italia Spa,"STRADA SERRAVALLE 65, NOVI LIGURE, 15067, ALESSANDRIA, ITALY",IT02124341203,H-IT0052087123,Manufacturing,Mfg corrugated/solid fiber boxes (2653),Corporation,2000
+485,Blackrock (netherlands) Bv,"PIAZZA SAN FEDELE 2, MILANO, 20121, MILANO, ITALY",IT10577660961,H-IT0064239411,"Finance, Insurance, and Real Estate",Misc business credit institutions (6159),Foreign Company,2018
+486,Schneider Electric Spa,"VIA CIRCONVALLAZIONE EST 1, STEZZANO, 24040, BERGAMO, ITALY",IT02424870166,H-IT0009032622,Manufacturing,Mfg switchgear/switchboards (3613),Corporation,1960
+487,Omnicom Media Group Srl,"VIA GIOVANNI SPADOLINI 5, MILANO, 20141, MILANO, ITALY",IT09898830154,H-IT0075083647,Services,Advertising agency (7311),Corporation,1989
+488,Volvo Group Italia Spa,"CORSO EUROPA 2, BOLTIERE, 24040, BERGAMO, ITALY",IT02665600165,H-IT0020242972,Wholesale Trade,Whol autos/motor vehicles (5012),Corporation,1982
+489,Msd Italia Srl,"VIA VITORCHIANO 151, ROMA, 00189, ROMA, ITALY",IT00887261006,H-IT0008053081,Manufacturing,Mfg medicinal/botanical products (2833),Corporation,1956
+490,Gnutti Carlo Spa,"VIA ARTIGIANI 2, MACLODIO, 25030, BRESCIA, ITALY",IT03402160174,H-IT0049311190,Manufacturing,Mfg power transmission equipment (3568),Corporation,1981
+491,L'oreal Italia Spa,"VIA FRANCESCO PRIMATICCIO 155, MILANO, 20147, MILANO, ITALY",IT00471270017,H-IT0008021260,Retail Trade,Ret misc merchandise (5999),Corporation,1936
+492,Italia Marittima Spa,"PASSEGGIO SANT'ANDREA 4, TRIESTE, 34123, TRIESTE, ITALY",IT00047820329,H-IT0008021686,"Transportation, Communications, Electric, Gas, and Sanitary Services",Water freight transportation (4449),Corporation,1936
+493,C.u.ra. Consorzio Utilities Ravenna Soc Cons Arl,"VIA GRANAROLO 175/3, FAENZA, 48018, RAVENNA, ITALY",IT02019950399,H-IT0072415665,"Transportation, Communications, Electric, Gas, and Sanitary Services",Electric services (4911),Corporation,2000
+494,Progefin Spa,"VIA BARTOLOMEO ZUCCHI 1, MONZA, 20900, MONZA E BRIANZA, ITALY",IT00804740967,H-IT0072998423,Construction,Operative builders (1531),Corporation,1985
+495,Glaxosmithkline Spa,"VIALE DELL'AGRICOLTURA 7, VERONA, 37135, VERONA, ITALY",IT00212840235,H-IT0009237461,Wholesale Trade,Whol drugs/sundries (5122),Corporation,1932
+496,Compagnia Generale Trattori Spa,"VIA PADANA SUPERIORE 19, VIMODRONE, 20055, MILANO, ITALY",IT01674190028,H-IT0074717448,Wholesale Trade,Whol construction/mining equipment (5082),Corporation,1990
+497,Stabilo International Gmbh,"VIA MESSINA 38, MILANO, 20154, MILANO, ITALY",IT07310360966,H-IT0038148110,Wholesale Trade,Whol stationery/office supplies (5112),Foreign Company,2010
+498,Ariston Spa,"VIALE ARISTIDE MERLONI 45, FABRIANO, 60044, ANCONA, ITALY",IT02853230429,H-IT0366850320,Manufacturing,Mfg electrical equipment/supplies (3699),Corporation,2020
+499,Saviola Holding Srl,"VIALE LOMBARDIA 29, VIADANA, 46019, MANTOVA, ITALY",IT02317890206,H-IT0020622082,"Finance, Insurance, and Real Estate",Holding company (6719),Corporation,2002
+500,Google Italy Srl,"VIA FEDERICO CONFALONIERI 4, MILANO, 20124, MILANO, ITALY",IT03660670963,H-IT0007745206,"Transportation, Communications, Electric, Gas, and Sanitary Services",Telephone communications (4813),Corporation,2002
+501,Sacchi Giuseppe Spa,"VIA FILIPPO DA DESIO 60, DESIO, 20832, MONZA E BRIANZA, ITALY",IT00689730133,H-IT0010133712,Wholesale Trade,Whol furniture (5021),Corporation,1957
+502,Polynt Spa,"VIA ENRICO FERMI 51, SCANZOROSCIATE, 24020, BERGAMO, ITALY",IT04902660960,H-IT0002558041,Manufacturing,Mfg chemical preparations (2899),Corporation,1962
+503,Brunello Cucinelli Spa,"VIALE PARCO DELL'INDUSTRIA 5, CORCIANO, 06073, PERUGIA, ITALY",IT01886120540,H-IT0035217197,Manufacturing,Knitting mill (2259),Corporation,1991
+504,Foro Delle Arti Srl,"PIAZZETTA DEI SAPIENTI 1, CORCIANO, 06073, PERUGIA, ITALY",IT02826440543,H-IT0028057635,"Finance, Insurance, and Real Estate",Holding company (6719),Corporation,2005
+505,Pro-gest Spa,"VIA CASTELLANA 90, ISTRANA, 31036, TREVISO, ITALY",IT01222730267,H-IT0061868256,Manufacturing,Mfg corrugated/solid fiber boxes (2653),Corporation,1981
+506,Zignago Holding Spa,"VIALE ITA MARZOTTO 8, FOSSALTA DI PORTOGRUARO, 30025, VENEZIA, ITALY",IT03781170281,H-IT0002215101,"Finance, Insurance, and Real Estate",Holding company (6719),Corporation,2002
+507,Maiora Srl,"VIA SAN MAGNO 31, CORATO, 70033, BARI, ITALY",IT07390770720,H-IT0007363818,Wholesale Trade,Whol non durable goods (5199),Corporation,1971
+508,Loro Piana Spa,"CORSO PIETRO ROLANDI 10, QUARONA, 13017, VERCELLI, ITALY",IT01611400027,H-IT0050583999,Manufacturing,Knit outerwear mill (2253),Corporation,1924
+509,Grandi Salumifici Italiani Spa,"STRADA GHERBELLA 320, MODENA, 41126, MODENA, ITALY",IT02654810361,H-IT0066645190,Manufacturing,Mfg prepared meats (2013),Corporation,2000
+510,Openjobmetis Spa Agenzia Per Il Lavoro,"VIA BERNARDINO TELESIO 18, MILANO, 20145, MILANO, ITALY",IT13343690155,H-IT0054295661,Services,Help supply services (7363),Corporation,2001
+511,2i Rete Gas Spa,"VIA ALBERICO ALBRICCI 10, MILANO, 20122, MILANO, ITALY",IT06724610966,H-IT0026173360,"Transportation, Communications, Electric, Gas, and Sanitary Services",Gas transmission/distribution (4923),Corporation,2009
+512,Toshiba Electronics Europe Gmbh,"VIA TORRI BIANCHE 3, VIMERCATE, 20871, MONZA E BRIANZA, ITALY",IT04036590968,H-IT0072814640,Wholesale Trade,Whol industrial equipment (5084),Foreign Company,2003
+513,Sogei Societa' Generale D'informatica Spa E In Forma Abbreviato Sogei Spa,"VIA MARIO CARUCCI 131, ROMA, 00143, ROMA, ITALY",IT01043931003,H-IT0030784107,Services,Computer related services (7379),Corporation,1976
+514,Bayer Spa,"VIA DELLE GROANE 126, GARBAGNATE MILANESE, 20024, MILANO, ITALY",IT05849130157,H-IT0011955988,Wholesale Trade,Whol drugs/sundries (5122),Corporation,1980
+515,Comarco Compagnia Generale Di Commercio Arbitraggio E Coperture Spa,"PIAZZA DELLA VITTORIA 10, GENOVA, 16121, GENOVA, ITALY",IT03278440106,H-IT0070126070,Wholesale Trade,Metals service center (5051),Corporation,1991
+516,Vera Vita Spa,"VIA CARLO EDERLE 45, VERONA, 37126, VERONA, ITALY",IT03035950231,H-IT0070965382,"Finance, Insurance, and Real Estate",Life insurance carrier (6311),Corporation,2000
+517,Bcc Vita Spa Compagnia Di Assicurazioni Vita In Forma Abbreviato Bcc Vita Spa,"VIA BENIGNO CRESPI 19, MILANO, 20159, MILANO, ITALY",IT06868981009,H-IT0068332807,"Finance, Insurance, and Real Estate",Life insurance carrier (6311),Corporation,2001
+518,Wuerth Srl,"VIA STAZIONE 51, EGNA, 39044, BOLZANO, ITALY",IT00125230219,H-IT0033690464,Wholesale Trade,Whol plumbing equipment/supplies (5074),Corporation,1963
+519,Abbvie Srl,"STRADA REGIONALE 148 PONTINA 0SNC, APRILIA, 04011, LATINA, ITALY",IT02645920592,H-IT0018360106,Manufacturing,Mfg pharmaceutical preparations (2834),Corporation,2012
+520,Coop Centro Italia Soc Coop,"VIA ANDREA DORIA 7, CASTIGLIONE DEL LAGO, 06061, PERUGIA, ITALY",IT02241550546,H-IT0020302304,Retail Trade,Ret groceries (5411),Cooperative,1947
+521,Colorobbia Holding Spa,"VIA PIETRAMARINA 53, VINCI, 50059, FIRENZE, ITALY",IT01847510482,H-IT0029458269,"Finance, Insurance, and Real Estate",Holding company (6719),Corporation,1981
+522,Heineken Italia Spa,"LOCALITA' AUTOPORTO 11, POLLEIN, 11020, AOSTA, ITALY",IT00610140071,H-IT0008973717,Manufacturing,Mfg malt beverages (2082),Corporation,1865
+523,Dedalus Healthcare Systems Group Spa,"VIA COLLODI 6/C, FIRENZE, 50141, FIRENZE, ITALY",IT06405660488,H-IT0040208036,"Finance, Insurance, and Real Estate",Holding company (6719),Corporation,2013
+524,Sisal Spa,"VIA UGO BASSI 6, MILANO, 20159, MILANO, ITALY",IT05425630968,H-IT0073228494,Services,Business services (7389),Corporation,2006
+525,Medtronic Italia Spa,"VIA VARESINA 162, MILANO, 20156, MILANO, ITALY",IT09238800156,H-IT0059526548,Wholesale Trade,Whol medical/hospital equipment (5047),Corporation,1988
+526,Riva Acciaio Spa,"VIALE CERTOSA 249, MILANO, 20151, MILANO, ITALY",IT08521290158,H-IT0008816700,Manufacturing,Blast furnace-steel works (3312),Corporation,1986
+527,Uvet Viaggi Turismo Spa,"BASTIONI DI PORTA VOLTA 10, MILANO, 20121, MILANO, ITALY",IT04700360151,H-IT0014372711,"Transportation, Communications, Electric, Gas, and Sanitary Services",Travel agency (4724),Corporation,1950
+528,Veroniki Holding Spa,"VIA LARGA 9/11, MILANO, 20122, MILANO, ITALY",IT06983480960,H-IT0034282432,"Finance, Insurance, and Real Estate",Holding company (6719),Corporation,2010
+529,Mbda Italia Spa,"VIA MONTE FLAVIO 45, ROMA, 00131, ROMA, ITALY",IT06700621003,H-IT0061885452,Manufacturing,Mfg communications equipment (3669),Corporation,2001
+530,Lg Electronics Italia Spa,"VIA ALDO ROSSI 4, MILANO, 20149, MILANO, ITALY",IT11704130159,H-IT0072819200,Manufacturing,Mfg electrical equipment/supplies (3699),Corporation,1996
+531,Rai Pubblicita' Spa,"VIA GIOVANNI CARLO CAVALLI 6, TORINO, 10138, TORINO, ITALY",IT00471300012,H-IT0010310800,Services,Advertising representative (7313),Corporation,1926
+532,Ngk Spark Plug Europe Gmbh,"VIA DELLE AZALEE 15, BUCCINASCO, 20090, MILANO, ITALY",IT05218860962,H-IT0007979258,Services,Business services (7389),Foreign Company,2006
+533,Stoccaggi Gas Italia Spa,"PIAZZA SANTA BARBARA 7, SAN DONATO MILANESE, 20097, MILANO, ITALY",IT13271380159,H-IT0057869464,"Transportation, Communications, Electric, Gas, and Sanitary Services",Pipeline operation (4619),Corporation,2000
+534,Acea Ato 2 Gruppo Acea Spa,"PIAZZALE OSTIENSE 2, ROMA, 00154, ROMA, ITALY",IT05848061007,H-IT0067600212,"Transportation, Communications, Electric, Gas, and Sanitary Services",Water supply service (4941),Corporation,1999
+535,Zambon Company Spa,"VIA LILLO DEL DUCA 10, BRESSO, 20091, MILANO, ITALY",IT00714930245,H-IT0036294675,"Finance, Insurance, and Real Estate",Holding company (6719),Corporation,1938
+536,Banca Generali Spa,"VIA NICCOLO' MACHIAVELLI 4, TRIESTE, 34132, TRIESTE, ITALY",IT00833240328,H-IT0002266806,"Finance, Insurance, and Real Estate",National commercial bank (6021),Corporation,1992
+537,Ferrero Industriale Italia Srl,"PIAZZALE PIETRO FERRERO 1, ALBA, 12051, CUNEO, ITALY",IT03629080049,H-IT0048603724,Manufacturing,Mfg candy/confectionery (2064),Corporation,1980
+538,Design Holding Spa,"VIA ALESSANDRO MANZONI 38, MILANO, 20121, MILANO, ITALY",IT10446470964,H-IT0062461842,"Finance, Insurance, and Real Estate",Holding company (6719),Corporation,2018
+539,International Design Group Spa,"VIA ALESSANDRO MANZONI 38, MILANO, 20121, MILANO, ITALY",IT10462810960,H-IT0062835580,"Finance, Insurance, and Real Estate",Holding company (6719),Corporation,2018
+540,Flextronics Italy Spa,"STRADA PROVINCIALE 234 1/3, SOMAGLIA, 26867, LODI, ITALY",IT02227690647,H-IT0066468256,"Transportation, Communications, Electric, Gas, and Sanitary Services",General warehouse/storage (4225),Corporation,2000
+541,2v Energy Srl,"LUNGADIGE GALTAROSSA 8, VERONA, 37133, VERONA, ITALY",IT03795470248,H-IT0036821411,"Transportation, Communications, Electric, Gas, and Sanitary Services",Electric services (4911),Corporation,2012
+542,Intercos Spa,"VIA GUGLIELMO MARCONI 84, AGRATE BRIANZA, 20864, MONZA E BRIANZA, ITALY",IT05813780961,H-IT0002533812,"Finance, Insurance, and Real Estate",Holding company (6719),Corporation,1990
+543,Engie Servizi Spa,"VIALE GIORGIO RIBOTTA 31, ROMA, 00144, ROMA, ITALY",IT01698911003,H-IT0027556999,Construction,Plumbing/heating/air conditioning contrac (1711),Corporation,1985
+544,Apulia Distribuzione Srl,"STRADA PROVINCIALE 240 DELLE GROTTE ORIENTALI, RUTIGLIANO, 70018, BARI, ITALY",IT05754810728,H-IT0061820628,Wholesale Trade,Whol general groceries (5141),Corporation,2001
+545,Ghella Spa,"VIA PIETRO BORSIERI 2/A, ROMA, 00195, ROMA, ITALY",IT00898971007,H-IT0011090014,Construction,Heavy construction (1629),Corporation,1894
+546,Synergie Italia Agenzia Per Il Lavoro Spa,"VIA PISA 29, TORINO, 10152, TORINO, ITALY",IT07704310015,H-IT0008217793,Services,Help supply services (7363),Corporation,1999
+547,Avi.coop Soc Coop Agricola,"VIA DEL RIO 336, CESENA, 47522, FORLI'-CESENA, ITALY",IT01247140401,H-IT0026961245,Manufacturing,Poultry processing (2015),Corporation,1980
+548,Berlin Packaging (europe) Spa,"VIALE CRISTOFORO COLOMBO 12/14, TREZZANO SUL NAVIGLIO, 20090, MILANO, ITALY",IT09619990964,H-IT0052364844,"Finance, Insurance, and Real Estate",Holding company (6719),Corporation,2016
+549,Trenord Srl,"VIA ROMA 5, ISEO, 25049, BRESCIA, ITALY",IT06705490966,H-IT0003506304,"Transportation, Communications, Electric, Gas, and Sanitary Services",Railroad line-haul operator (4011),Corporation,2009
+550,Technip Energies Italy Spa,"VIALE CASTELLO DELLA MAGLIANA 68, ROMA, 00148, ROMA, ITALY",IT04874901004,H-IT0072226552,Services,Engineering services (8711),Corporation,1969
+551,Metalmeccanica Tiberina Srl,"VIA ZONA INDUSTRIALE MADONNA DEL MORO, UMBERTIDE, 06019, PERUGIA, ITALY",IT00160880548,H-IT0009245189,Manufacturing,Mfg metal stampings (3469),Corporation,1963
+552,Attiva Spa,"VIA DEL PROGRESSO 1008, BRENDOLA, 36040, VICENZA, ITALY",IT02516310246,H-IT0074673483,Wholesale Trade,Whol computers/peripherals (5045),Corporation,1996
+553,Coeclerici Spa,"PIAZZA GENERALE ARMANDO DIAZ 7, MILANO, 20123, MILANO, ITALY",IT00269690103,H-IT0010433171,"Finance, Insurance, and Real Estate",Holding company (6719),Corporation,1920
+554,F.i.l.a Fabbrica Italiana Lapis Ed Affini Spa,"VIA XXV APRILE 5, PERO, 20016, MILANO, ITALY",IT08391050963,H-IT0039471586,Manufacturing,Mfg stationery products (2678),Corporation,2013
+555,Pencil Srl,"VIALE VITTORIO VENETO 14, MILANO, 20124, MILANO, ITALY",IT10338010019,H-IT0023304545,"Finance, Insurance, and Real Estate",Holding company (6719),Corporation,2010
+556,If 65 Spa,"VIALE SANT'EUFEMIA 108/F, BRESCIA, 25135, BRESCIA, ITALY",IT03419710177,H-IT0043920306,"Finance, Insurance, and Real Estate",Holding company (6719),Corporation,1987
+557,Coop Italia Soc Coop,"VIA DEL LAVORO 6/8, CASALECCHIO DI RENO, 40033, BOLOGNA, ITALY",IT01515921201,H-IT0028165942,Wholesale Trade,Whol non durable goods (5199),Cooperative,1947
+558,American Express Payments Europe S.l.,"VIALE ALEXANDRE GUSTAVE EIFFEL 15, ROMA, 00148, ROMA, ITALY",IT14778691007,H-IT0061254592,"Finance, Insurance, and Real Estate",Security/commodity service (6289),Foreign Company,2018
+559,Kia Italia Srl,"VIA GALLARATE 184, MILANO, 20151, MILANO, ITALY",IT07369940965,H-IT0019542259,Retail Trade,Ret motorcycles (5571),Corporation,2011
+560,Shell Italia E&p Spa,"PIAZZA DI SAN SILVESTRO 8, ROMA, 00187, ROMA, ITALY",IT05160421003,H-IT0075218224,Mining,Crude petroleum/natural gas production (1311),Corporation,1996
+561,Volvo Car Italia Spa,"VIA ENRICO MATTEI 66, BOLOGNA, 40138, BOLOGNA, ITALY",IT00326610375,H-IT0010720294,Retail Trade,Ret new/used automobiles (5511),Corporation,1957
+562,Guala Closures Spa,"VIA RANA 12, ALESSANDRIA, 15122, ALESSANDRIA, ITALY",IT10038620968,H-IT0057507252,Manufacturing,Mfg metal cans (3411),Corporation,1965
+563,Kos Spa,"VIA CIOVASSINO 1, MILANO, 20121, MILANO, ITALY",IT10674520159,H-IT0070427410,"Finance, Insurance, and Real Estate",Holding company (6719),Corporation,1984
+564,Kedrion Spa,"LOCALITA' AI CONTI, BARGA, 55051, LUCCA, ITALY",IT01779530466,H-IT0051863588,Manufacturing,Mfg pharmaceutical preparations (2834),Corporation,2000
+565,Nippon Express Italia Spa,"VIA VIII MARZO 6, SCANDICCI, 50018, FIRENZE, ITALY",IT06280060150,H-IT0009845631,"Transportation, Communications, Electric, Gas, and Sanitary Services",Transportation services (4789),Corporation,1981
+566,Messaggerie Italiane Di Giornali Riviste E Libri Spa,"CORSO SEMPIONE 4, MILANO, 20154, MILANO, ITALY",IT06778170156,H-IT0009692932,Wholesale Trade,Whol durable goods (5099),Corporation,1914
+567,Fercam Spa,"VIA MARIE CURIE 2, BOLZANO, 39100, BOLZANO, ITALY",IT00098090210,H-IT0010646329,"Transportation, Communications, Electric, Gas, and Sanitary Services",Trucking operator-non local (4213),Corporation,1949
+568,Compagnia Valdostana Delle Acque - Compagnie Valdotaine Des Eaux Spa,"VIA STAZIONE 31, CHATILLON, 11024, AOSTA, ITALY",IT01013130073,H-IT0056101066,"Transportation, Communications, Electric, Gas, and Sanitary Services",Electric services (4911),Corporation,1998
+569,Autogrill Italia Spa,"VIA MARIO GREPPI 2, NOVARA, 28100, NOVARA, ITALY",IT02538160033,H-IT0057780838,Retail Trade,Drinking place (5813),Corporation,1995
+570,Daikin Air Conditioning Italy Spa,"VIA GIUSEPPE RIPAMONTI 85, MILANO, 20141, MILANO, ITALY",IT03667970283,H-IT0072354216,Services,Management consulting services (8742),Corporation,2001
+571,G.a. Operations Spa,"VIA PIETRO GIARDINI 1324, MODENA, 41126, MODENA, ITALY",IT00159600360,H-IT0026613492,Manufacturing,Knit outerwear mill (2253),Corporation,1962
+572,Fideuram Intesa Sanpaolo Private Banking Asset Management Societa' Di Gestione Del Risparm,"VIA MONTEBELLO 18, MILANO, 20121, MILANO, ITALY",IT01830831002,H-IT0056224370,"Finance, Insurance, and Real Estate",Investment advisory service (6282),Corporation,1986
+573,Proma Spa,"VIALE CARLO III TRAV. I VIA GALVANI SNC, SAN NICOLA LA STRADA, 81020, CASERTA, ITALY",IT01872610611,H-IT0065989600,Manufacturing,Mfg metal stampings (3469),Corporation,1990
+574,Dussmann Service Srl,"VIA PAPA GIOVANNI XXIII 4, CAPRIATE SAN GERVASIO, 24042, BERGAMO, ITALY",IT00124140211,H-IT0029797950,Services,Building maintenance services (7349),Corporation,1969
+575,Assimoco Vita Spa Compagnia Di Assicurazione Sulla Vita,"VIA GIOVANNI SPADOLINI 7, MILANO, 20141, MILANO, ITALY",IT11259010152,H-IT0070204993,"Finance, Insurance, and Real Estate",Life insurance carrier (6311),Corporation,1988
+576,General Logistics Systems Enterprise Srl,"VIA BASENTO 19, SAN GIULIANO MILANESE, 20098, MILANO, ITALY",IT04102770965,H-IT0074057448,"Transportation, Communications, Electric, Gas, and Sanitary Services",Transportation services (4789),Corporation,2003
+577,Cargill Eurit Srl,"VIA GIUSEPPE RIPAMONTI 89, MILANO, 20141, MILANO, ITALY",IT05942560961,H-IT0015873862,"Finance, Insurance, and Real Estate",Holding company (6719),Corporation,2007
+578,Givi Holding Srl,"PIAZZA LUIGI EINAUDI 4, MILANO, 20124, MILANO, ITALY",IT04503950158,H-IT0014199777,Services,Business services (7389),Corporation,1979
+579,Edge Network Services Limited,"VIA CORSICA 10/12, BRESCIA, 25125, BRESCIA, ITALY",IT03629490982,H-IT0042215722,Services,Computer related services (7379),Foreign Company,2014
+580,Molino Casillo Spa,"VIA ANTONIO SANT'ELIA ZONA INDUSTRIALE, CORATO, 70033, BARI, ITALY",IT00252860721,H-IT0044365357,Manufacturing,Mfg flour/grain mill products (2041),Corporation,1935
+581,Zambon Spa,"VIA LILLO DEL DUCA 10, BRESSO, 20091, MILANO, ITALY",IT05341830965,H-IT0075856484,Manufacturing,Mfg pharmaceutical preparations (2834),Corporation,1900
+582,Bulgari Gioielli Spa,"CIRCONVALLAZIONE OVEST 3 A ZONA CO.IN.OR., VALENZA, 15048, ALESSANDRIA, ITALY",IT00483050068,H-IT0032168829,Manufacturing,Mfg precious metal jewelry (3911),Corporation,1977
+583,Pellegrini Spa,"VIA LORENTEGGIO 255, MILANO, 20152, MILANO, ITALY",IT05066690156,H-IT0016732545,Retail Trade,Eating place (5812),Corporation,1982
+584,C.s.i. - Compagnia Surgelati Italiana Spa,"VIA APPIA, CISTERNA DI LATINA, 04012, LATINA, ITALY",IT07015700961,H-IT0004200837,Manufacturing,Mfg food preparations (2099),Corporation,1996
+585,E.m.s. Euro Management Services Spa,"VIA STELLA ROSA 48/50, BARANZATE, 20021, MILANO, ITALY",IT07397440152,H-IT0038942437,"Finance, Insurance, and Real Estate",Subdivider/developer (6552),Corporation,1984
+586,Euro Group Spa,"VIA STELLA ROSA 48/50, BARANZATE, 20021, MILANO, ITALY",IT05235740965,H-IT0072679603,"Finance, Insurance, and Real Estate",Holding company (6719),Corporation,2006
+587,Cogne Acciai Speciali Spa,"STRADA PARAVERA 16, AOSTA, 11100, AOSTA, ITALY",IT00571320076,H-IT0070322554,Manufacturing,Mfg primary metal products (3399),Corporation,1991
+588,Ghella Group Srl,"VIA PIETRO BORSIERI 2/A, ROMA, 00195, ROMA, ITALY",IT01297651000,H-IT0061859915,"Finance, Insurance, and Real Estate",Holding company (6719),Corporation,1984
+589,Industrie De Nora Spa,"VIA LEONARDO BISTOLFI 35, MILANO, 20134, MILANO, ITALY",IT03998870962,H-IT0072354119,"Finance, Insurance, and Real Estate",Holding company (6719),Corporation,2003
+590,Federico De Nora Spa,"VIA LEONARDO BISTOLFI 35, MILANO, 20134, MILANO, ITALY",IT06623310965,H-IT0004161300,"Finance, Insurance, and Real Estate",Holding company (6719),Corporation,2009
+591,Euricom Spa,"VIA STAZIONE 119, VALLE LOMELLINA, 27020, PAVIA, ITALY",IT01514430188,H-IT0012047414,Wholesale Trade,Whol grain/field beans (5153),Corporation,1980
+592,Pag Italy Srl,"VIA DEL LAVORO 10, GRANAROLO DELL'EMILIA, 40057, BOLOGNA, ITALY",IT07691230960,H-IT0018186149,"Finance, Insurance, and Real Estate",Holding company (6719),Corporation,2012
+593,Comer Industries Spa,"VIA FERDINANDO MAGELLANO 27, REGGIOLO, 42046, REGGIO EMILIA, ITALY",IT01399270352,H-IT0055101615,Manufacturing,Mfg power transmission equipment (3568),Corporation,1983
+594,Eagles Oak Srl,"VIALE DEL SAGITTARIO 5, MODENA, 41126, MODENA, ITALY",IT03699500363,H-IT0051518481,"Finance, Insurance, and Real Estate",Holding company (6719),Corporation,2016
+595,Yara Italia Spa,"VIA BENIGNO CRESPI 57, MILANO, 20159, MILANO, ITALY",IT11843280154,H-IT0074900331,Wholesale Trade,Whol chemicals/products (5169),Corporation,1990
+596,Geox Spa,"VIA FELTRINA CENTRO 16, MONTEBELLUNA, 31044, TREVISO, ITALY",IT03348440268,H-IT0009554831,Manufacturing,Mfg footwear-except rubber (3149),Corporation,1998
+597,Technogym Spa,"VIA CALCINARO 2861, CESENA, 47521, FORLI'-CESENA, ITALY",IT06250230965,H-IT0002831511,Manufacturing,Mfg surgical/medical instruments (3841),Corporation,1983
+598,Cargill Srl,"VIA GIUSEPPE RIPAMONTI 89, MILANO, 20141, MILANO, ITALY",IT12096330159,H-IT0013813404,Manufacturing,Wet corn milling (2046),Corporation,1962
+599,Caseifici Granterre Spa,"VIA POLONIA 30/33, MODENA, 41122, MODENA, ITALY",IT01299680353,H-IT0046510818,Wholesale Trade,Whol dairy products (5143),Corporation,1987
+600,D'amico Societa' Di Navigazione Spa,"CORSO D'ITALIA 35/B, ROMA, 00198, ROMA, ITALY",IT00768720823,H-IT0072155272,"Transportation, Communications, Electric, Gas, and Sanitary Services",Water freight transportation (4449),Corporation,1969
+601,Benetton Group Srl,"VIA VILLA MINELLI 1, PONZANO VENETO, 31050, TREVISO, ITALY",IT03490770264,H-IT0075364484,Wholesale Trade,Whol non durable goods (5199),Corporation,1999
+602,Bonfiglioli Riduttori Spa,"VIA CLEMENTINO BONFIGLIOLI 1, CALDERARA DI RENO, 40012, BOLOGNA, ITALY",IT04984850968,H-IT0073915602,Manufacturing,Mfg power transmission equipment (3568),Corporation,2005
+603,Duferco Travi E Profilati Spa,"VIA ARMANDO DIAZ 248, SAN ZENO NAVIGLIO, 25010, BRESCIA, ITALY",IT03386150175,H-IT0074772023,Manufacturing,Blast furnace-steel works (3312),Corporation,1996
+604,Bnp Paribas 3 Step It,"PIAZZA LINA BO BARDI 3, MILANO, 20124, MILANO, ITALY",IT10950710961,H-IT0216283090,Services,Equipment rental/leasing (7359),Foreign Company,2019
+605,Yama Spa,"VIA MEUCCIO RUINI 74/L, REGGIO EMILIA, 42124, REGGIO EMILIA, ITALY",IT00638290353,H-IT0064358038,"Finance, Insurance, and Real Estate",Holding company (6719),Corporation,1980
+606,S.a.p. Italia Sistemi Applicazioni Prodotti In Data Processing Spa,"VIA MONZA 7/A, VIMERCATE, 20871, MONZA E BRIANZA, ITALY",IT09417760155,H-IT0062583948,Services,Computer related services (7379),Corporation,1988
+607,Cura Gas & Power Spa,"VIA GRANAROLO 175/2, FAENZA, 48018, RAVENNA, ITALY",IT07670380968,H-IT0017974178,"Transportation, Communications, Electric, Gas, and Sanitary Services",Natural gas distribution (4924),Corporation,2012
+608,Fai Service Soc Coop,"VIA RENZO GANDOLFO 1, CUNEO, 12100, CUNEO, ITALY",IT02654640040,H-IT0070530319,Services,Business services (7389),Corporation,1986
+609,Emak Spa,"VIA ENRICO FERMI 4, BAGNOLO IN PIANO, 42011, REGGIO EMILIA, ITALY",IT00130010358,H-IT0010852387,Manufacturing,Mfg power-driven handtools (3546),Corporation,1969
+610,Havi Logistics Srl,"VIA ALDO MORO 31, BOMPORTO, 41030, MODENA, ITALY",IT02292880362,H-IT0069254788,Wholesale Trade,Whol general groceries (5141),Corporation,1990
+611,F.lli Lando Spa,"VIA PIONCA 13, PIANIGA, 30030, VENEZIA, ITALY",IT01782190282,H-IT0033181462,Retail Trade,Ret groceries (5411),Corporation,1972
+612,Ep Produzione Centrale Livorno Ferraris Spa,"VIA VITTORIO VENETO 74, ROMA, 00187, ROMA, ITALY",IT03360260966,H-IT0003911853,"Transportation, Communications, Electric, Gas, and Sanitary Services",Electric services (4911),Corporation,2001
+613,Gruppo Illy Spa,"VIA DELLA MERCEDE 11, ROMA, 00187, ROMA, ITALY",IT05305811001,H-IT0072792183,"Finance, Insurance, and Real Estate",Holding company (6719),Corporation,1982
+614,O.r.i. Martin Holding Srl,"VIA COSIMO CANOVETTI 13, BRESCIA, 25128, BRESCIA, ITALY",IT04334430982,H-IT0963373556,"Finance, Insurance, and Real Estate",Holding company (6719),Corporation,2021
+615,O.r.i. Martin Acciaieria E Ferriera Di Brescia Spa,"VIA COSIMO CANOVETTI 13, BRESCIA, 25128, BRESCIA, ITALY",IT07617260158,H-IT0052006824,Manufacturing,Blast furnace-steel works (3312),Corporation,1902
+616,G.ecol. Cables Srl,"VIA GIUSEPPE BOVINI 43, RAVENNA, 48123, RAVENNA, ITALY",IT01219170394,H-IT0026099500,Manufacturing,Mfg conductive wiring devices (3643),Corporation,1992
+617,Eq Cables Spa,"VIA DELL'INDUSTRIA 22, CONSELICE, 48017, RAVENNA, ITALY",IT02522480371,H-IT0072789239,Services,Data processing/preparation (7374),Corporation,1988
+618,Duferco Commerciale Spa,"VIA DI SOTTORIPA 7/13, GENOVA, 16124, GENOVA, ITALY",IT03401990175,H-IT0070051046,Wholesale Trade,Metals service center (5051),Corporation,1989
+619,Sg Spa,"CONTRADA PARASACCHIELLO SNC, MELFI, 85025, POTENZA, ITALY",IT01674180763,H-IT0075856239,Wholesale Trade,Whol appliances/tv/radio (5064),Corporation,2007
+620,Covestro Srl,"VIA DELLE INDUSTRIE 9, FILAGO, 24040, BERGAMO, ITALY",IT03599730961,H-IT0074821970,Manufacturing,Mfg plastic materials/resins (2821),Corporation,2002
+621,V.i.m. Srl Vendita Ingrosso Medicinali,"VIA DELLE FIERE SNC, MATERA, 75100, MATERA, ITALY",IT00055560775,H-IT0074972391,Wholesale Trade,Whol drugs/sundries (5122),Corporation,1972
+622,Ospedale San Raffaele Srl,"VIA OLGETTINA 60, MILANO, 20132, MILANO, ITALY",IT07636600962,H-IT0017626560,Services,Medical doctor's office (8011),Corporation,1972
+623,Lorenzo Ceccato Spa,"VIA VENETO 3/5, SCHIO, 36015, VICENZA, ITALY",IT00283750248,H-IT0049233750,Retail Trade,Ret new/used automobiles (5511),Corporation,1973
+624,Tenova Spa,"VIA GERENZANO 58, CASTELLANZA, 21053, VARESE, ITALY",IT04651530968,H-IT0073301825,Manufacturing,Mfg rolling mill machinery (3547),Corporation,1947
+625,Balenciaga Logistica Srl,"VIA PISANA 336, SCANDICCI, 50018, FIRENZE, ITALY",IT06196910480,H-IT0005789451,Manufacturing,Mfg luggage (3161),Corporation,2011
+626,Unifarm Spa Unione Farmacisti Trentino Alto Adige,"VIA PROVINA 3, TRENTO, 38123, TRENTO, ITALY",IT00123510224,H-IT0010642196,Wholesale Trade,Whol drugs/sundries (5122),Corporation,1970
+627,Pluto (italia) Spa,"PIAZZA DELLA REPUBBLICA 32, MILANO, 20124, MILANO, ITALY",IT10286850960,H-IT0060200812,"Finance, Insurance, and Real Estate",Holding company (6719),Corporation,2018
+628,Eg Holding Spa,"VIA DEL PERLAR 2, VERONA, 37135, VERONA, ITALY",IT03099180238,H-IT0073503487,"Finance, Insurance, and Real Estate",Holding company (6719),Corporation,1991
+629,Sofid Spa,"VIA UBERTO VISCONTI DI MODRONE 2, MILANO, 20122, MILANO, ITALY",IT06659470964,H-IT0024685011,"Finance, Insurance, and Real Estate",Holding company (6719),Corporation,2009
+630,Verallia Italia Spa,"STRADA STATALE 29, DEGO, 17058, SAVONA, ITALY",IT00730720240,H-IT0010574220,Manufacturing,Mfg products-purchased glass (3231),Corporation,1942
+631,Clerici Spa,"VIA LODI 11, ARZAGO D'ADDA, 24040, BERGAMO, ITALY",IT04369310968,H-IT0074067672,Wholesale Trade,Whol construction materials (5039),Corporation,1990
+632,Fintrade Holding Spa,"VIA VICENZA 3, BRESCIA, 25125, BRESCIA, ITALY",IT10491500152,H-IT0049255630,"Finance, Insurance, and Real Estate",Subdivider/developer (6552),Corporation,1991
+633,Areti Spa,"PIAZZALE OSTIENSE 2, ROMA, 00154, ROMA, ITALY",IT05816611007,H-IT0075371332,"Transportation, Communications, Electric, Gas, and Sanitary Services",Electric services (4911),Corporation,1999
+634,Liquigas Spa,"VIA GIAN ANTONIO AMADEO 59, MILANO, 20134, MILANO, ITALY",IT03316690175,H-IT0033657998,Manufacturing,Petroleum refiner (2911),Corporation,1984
+635,Faac Spa,"VIA MONALDO CALARI 10, ZOLA PREDOSA, 40069, BOLOGNA, ITALY",IT03820731200,H-IT0216733770,Manufacturing,Mfg electrical equipment/supplies (3699),Corporation,1953
+636,Faac Partecipazioni Industriali Srl,"VIA MONALDO CALARI 10, ZOLA PREDOSA, 40069, BOLOGNA, ITALY",IT00555751205,H-IT0012979570,"Finance, Insurance, and Real Estate",Holding company (6719),Corporation,1953
+637,Agn Energia Spa,"VIA AMALFI 6, VOLPIANO, 10088, TORINO, ITALY",IT06170180019,H-IT0056119801,Manufacturing,Petroleum refiner (2911),Corporation,1984
+638,Lindt & Sprungli Spa,"LARGO EDOARDO BULGHERONI 1, INDUNO OLONA, 21056, VARESE, ITALY",IT00197480122,H-IT0009076948,Manufacturing,Mfg candy/confectionery (2064),Corporation,1909
+639,Fca Bank Spa,"CORSO ORBASSANO 367, TORINO, 10137, TORINO, ITALY",IT08349560014,H-IT0072354194,"Finance, Insurance, and Real Estate",National commercial bank (6021),Corporation,1925
+640,Salvatore Ferragamo Spa,"VIA DEI TORNABUONI 2, FIRENZE, 50123, FIRENZE, ITALY",IT02175200480,H-IT0071615016,Manufacturing,Mfg footwear-except rubber (3149),Corporation,1927
+641,Zanetti Spa,"VIA DELLA MADONNA 1, LALLIO, 24040, BERGAMO, ITALY",IT00373690163,H-IT0008106940,Wholesale Trade,Whol dairy products (5143),Corporation,1913
+642,Fnm Spa,"PIAZZALE LUIGI CADORNA 14, MILANO, 20123, MILANO, ITALY",IT00776140154,H-IT0009604677,"Transportation, Communications, Electric, Gas, and Sanitary Services",Local/suburban transportation (4111),Corporation,1887
+643,Crif Spa,"VIA MARIO FANTIN 1/3, BOLOGNA, 40131, BOLOGNA, ITALY",IT02083271201,H-IT0066771978,Services,Data processing/preparation (7374),Corporation,1988
+644,Guacci Spa,"CIS 8, NOLA, 80035, NAPOLI, ITALY",IT00269990636,H-IT0011934387,Wholesale Trade,Whol drugs/sundries (5122),Corporation,1946
+645,Falck Renewables Spa,"VIA ALBERTO FALCK 4/16, SESTO SAN GIOVANNI, 20099, MILANO, ITALY",IT03457730962,H-IT0072349484,"Finance, Insurance, and Real Estate",Holding company (6719),Corporation,2002
+646,Aquafil Spa,"VIA LINFANO 9, ARCO, 38062, TRENTO, ITALY",IT09652170961,H-IT0052662535,Manufacturing,Mfg cellulosic manmade fibers (2823),Corporation,2016
+647,Nine Trees Group Spa,"VIALE MILANO 26, MONTECCHIO MAGGIORE, 36075, VICENZA, ITALY",IT04041380249,H-IT0051809125,"Finance, Insurance, and Real Estate",Holding company (6719),Corporation,2016
+648,Dompe' Holdings Srl,"VIA SANTA LUCIA 6, MILANO, 20122, MILANO, ITALY",IT08435560969,H-IT0039915026,"Finance, Insurance, and Real Estate",Holding company (6719),Corporation,2013
+649,El.en. Spa,"VIA BALDANZESE 17, CALENZANO, 50041, FIRENZE, ITALY",IT03137680488,H-IT0049429108,Manufacturing,Mfg surgical/medical instruments (3841),Corporation,1981
+650,Snaitech Spa,"PIAZZA DELLA REPUBBLICA 32, MILANO, 20124, MILANO, ITALY",IT01729640464,H-IT0009835105,Services,Amusement/recreation services (7999),Corporation,1906
+651,Gb&p Srl,"VIA LEONE XIII 14, MILANO, 20145, MILANO, ITALY",IT07328030965,H-IT0020145373,"Finance, Insurance, and Real Estate",Holding company (6719),Corporation,2011
+652,G.s.g.r. Srl,"VIA PADRE VICINIO DA SARSINA 42, CESENA, 47521, FORLI'-CESENA, ITALY",IT03318930405,H-IT0024492957,"Finance, Insurance, and Real Estate",Holding company (6719),Corporation,2002
+653,Gruppo Societa' Gas Rimini Spa,"VIA GABRIELLO CHIABRERA 34/D, RIMINI, 47924, RIMINI, ITALY",IT00126550409,H-IT0037651927,"Transportation, Communications, Electric, Gas, and Sanitary Services",Natural gas distribution (4924),Corporation,1956
+654,Pavimental Spa,"VIA GIULIO VINCENZO BONA 95/101, ROMA, 00156, ROMA, ITALY",IT00904791001,H-IT0013571273,Construction,Highway/street construction (1611),Corporation,1970
+655,Argo Tractors Spa,"VIA GIACOMO MATTEOTTI 7, FABBRICO, 42042, REGGIO EMILIA, ITALY",IT02291970354,H-IT0055149529,Manufacturing,Mfg farm machinery/equipment (3523),Corporation,1989
+656,A.r.g.o. Spa,"VIA LEMIZZONE 1, SAN MARTINO IN RIO, 42018, REGGIO EMILIA, ITALY",IT01327400352,H-IT0070226393,"Finance, Insurance, and Real Estate",Holding company (6719),Corporation,1988
+657,Cefla Soc Coop,"VIA PROVINCIALE SELICE 23/A, IMOLA, 40026, BOLOGNA, ITALY",IT00499791200,H-IT0033803927,Construction,Electrical contractor (1731),Corporation,1932
+658,Solvay Chimica Italia Spa,"VIA PIAVE 6, ROSIGNANO MARITTIMO, 57016, LIVORNO, ITALY",IT00104340492,H-IT0009461078,Manufacturing,Mfg industrial inorganic chemicals (2819),Corporation,1970
+659,Family Business Poli Di Marco Poli E C. Sapa In Sigla Fb Poli Di Marco Poli E C. Sapa,"VIA SAN MARTINO 4, TRENTO, 38122, TRENTO, ITALY",IT02463560223,H-IT0055494315,"Finance, Insurance, and Real Estate",Holding company (6719),Corporation,2017
+660,Rossetto Trade Spa,"VIA FRIULI 5 INTERNO 9, SONA, 37060, VERONA, ITALY",IT02928530233,H-IT0073944556,Retail Trade,Ret groceries (5411),Corporation,1999
+661,Gruppo Rossetto Spa,"VIA FRIULI 5, SONA, 37060, VERONA, ITALY",IT00964450233,H-IT0040574121,"Finance, Insurance, and Real Estate",Holding company (6719),Corporation,1984
+662,Legacy Srl,"VIA DELLA ZECCA 2, BOLOGNA, 40121, BOLOGNA, ITALY",IT03829291206,H-IT0289500474,"Finance, Insurance, and Real Estate",Holding company (6719),Corporation,2019
+663,Cribis Holding Srl,"VIA DELLA ZECCA 2, BOLOGNA, 40121, BOLOGNA, ITALY",IT03164291209,H-IT0036033715,"Finance, Insurance, and Real Estate",Holding company (6719),Corporation,2010
+664,Porsche Italia Spa,"CORSO STATI UNITI 35, PADOVA, 35127, PADOVA, ITALY",IT03554090286,H-IT0035581344,Retail Trade,Ret new/used automobiles (5511),Corporation,1989
+665,Intesa Sanpaolo Rbm Salute Spa,"VIALE STELVIO 55/57, MILANO, 20159, MILANO, ITALY",IT05796440963,H-IT0075936917,"Finance, Insurance, and Real Estate",Insurance carrier (6399),Corporation,2007
+666,Brenntag Spa,"STRADA 6 PALAZZO A 13 MILANOFIORI 0SNC, ASSAGO, 20057, MILANO, ITALY",IT00835510157,H-IT0008506272,Wholesale Trade,Whol chemicals/products (5169),Corporation,1952

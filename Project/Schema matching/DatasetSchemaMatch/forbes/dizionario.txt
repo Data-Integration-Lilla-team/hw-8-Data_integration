@@ -1,0 +1,12 @@
+{
+"name": ['name'],
+"country": ['country'],
+"assets": ['assets'],
+"profit": ['profit'],
+"revenue_2022": ['revenue_2022', 'revenue', 'sales'],
+"market_value": ['market_value_apr_2022'],
+"ceo": ['ceo'],
+"employees": ['employees'],
+"founded": ['founded'],
+"industry": ['industry']
+}

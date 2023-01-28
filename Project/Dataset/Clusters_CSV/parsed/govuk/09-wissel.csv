@@ -1,4 +1,4 @@
-,URL,ID,Name,Company ID,Company Status,Company Type,Registration Date,Incorporation Date,Dissolution Date,Office Address
+,url,ID,name,company_id,company_status,company_type,registration_date,incorporation_date,dissolution_date,office_address
 0,https://find-and-update.company-information.service.gov.uk/company/11790215,1,A LIMITED,11790215,Active,PrivatelimitedCompany,,28 January 2019,,38SpringfieldRoad Gillingham Kent England ME71YJ
 1,https://find-and-update.company-information.service.gov.uk/company/05438136,2,A LIMITED,05438136,Dissolved,PrivatelimitedCompany,,27 April 2005,4 December 2012,60WindsorAvenue London SW192RR
 2,https://find-and-update.company-information.service.gov.uk/company/OE000110,3,A & P (ESTATES & INVESTMENTS) LIMITED,OE000110,Registered,Overseasentity,19 August 2022,,,67WestowStreet UpperNorwood London England SE193RW
@@ -17,7 +17,7 @@
 15,https://find-and-update.company-information.service.gov.uk/company/07045770,16,A A & A AUTOS LTD,07045770,Active,PrivatelimitedCompany,,16 October 2009,,Unit2SavillebridgeMills MillStreetEast Dewsbury WYorkshire WF129BQ
 16,https://find-and-update.company-information.service.gov.uk/company/14179092,17,AA & A CONSTRUCTIONS LTD,14179092,Active,PrivatelimitedCompany,,17 June 2022,,58SudellStreet Manchester UnitedKingdom M44JF
 17,https://find-and-update.company-information.service.gov.uk/company/14193240,18,A A & A INVESTMENTS LIMITED,14193240,Active,PrivatelimitedCompany,,24 June 2022,,46-48StationRoad Llanishen Cardiff UnitedKingdom CF145LU
-18,https://find-and-update.company-information.service.gov.uk/company/SC584203,19,"A, A & A PROPERTY LTD",SC584203,Active,PrivatelimitedCompany,,19 December 2017,,17WellsidePlace Falkirk UnitedKingdom FK15RL
+"18,https://find-and-update.company-information.service.gov.uk/company/SC584203,19,""A, A & A PROPERTY LTD"",SC584203,Active,PrivatelimitedCompany,,19 December 2017,,17WellsidePlace Falkirk UnitedKingdom FK15RL"
 19,https://find-and-update.company-information.service.gov.uk/company/02456235,20,A A & A STEPHEN (BURPHAM) LTD.,02456235,Liquidation,PrivatelimitedCompany,,29 December 1989,,21CullerneClose Ewell Epsom Surrey KT171XY
 20,https://find-and-update.company-information.service.gov.uk/company/13783208,21,AA & A TRADERS LTD,13783208,Active,PrivatelimitedCompany,,6 December 2021,,71WoodfieldRoad ThamesDitton England KT70DS
 21,https://find-and-update.company-information.service.gov.uk/company/11402890,22,A A & B LTD,11402890,Active,PrivatelimitedCompany,,7 June 2018,,17ReadingRoad Henley-On-Thames UnitedKingdom RG91AB
@@ -355,7 +355,7 @@
 353,https://find-and-update.company-information.service.gov.uk/company/04167708,354,A. A. MORTGAGES LTD.,04167708,Active,PrivatelimitedCompany,,26 February 2001,,Flat1 178IrelethRoad Askam-In-Furness Cumbria England LA167DW
 354,https://find-and-update.company-information.service.gov.uk/company/12531017,355,A. AMOR WRITES LIMITED,12531017,Active,PrivatelimitedCompany,,23 March 2020,,C/OCcYoung&Co.3rdFloor 5ChanceryLane London UnitedKingdom WC2A1LG
 355,https://find-and-update.company-information.service.gov.uk/company/14144355,356,A A MOSHARAF LTD,14144355,Active,PrivatelimitedCompany,,31 May 2022,,10OakdaleRoad London UnitedKingdom E181JX
-356,https://find-and-update.company-information.service.gov.uk/company/11223564,357,"A A MOT CENTRE, LIMITED",11223564,Active,PrivatelimitedCompany,,26 February 2018,,363aDunstableRoad Luton Beds England LU48BY
+"356,https://find-and-update.company-information.service.gov.uk/company/11223564,357,""A A MOT CENTRE, LIMITED"",11223564,Active,PrivatelimitedCompany,,26 February 2018,,363aDunstableRoad Luton Beds England LU48BY"
 357,https://find-and-update.company-information.service.gov.uk/company/13005870,358,A A M SOLUTIONS LTD,13005870,Active,PrivatelimitedCompany,,9 November 2020,,1417-1419LondonRoad Norbury London England SW164AH
 358,https://find-and-update.company-information.service.gov.uk/company/10334719,359,A ANAESTHETICS LTD,10334719,Active,PrivatelimitedCompany,,18 August 2016,,30KingsReach KingsReach Slough Berkshire UnitedKingdom SL37RQ
 359,https://find-and-update.company-information.service.gov.uk/company/09301398,360,A ANAGNOSTOPOULOS LIMITED,09301398,Active,PrivatelimitedCompany,,7 November 2014,,99a HighRoadBeeston Nottingham NG92LH
@@ -447,7 +447,7 @@
 445,https://find-and-update.company-information.service.gov.uk/company/09580652,446,S&L CIVIL ENGINEERING LTD,09580652,Active,PrivatelimitedCompany,,8 May 2015,,9StationAvenue EshWinning Durham Co.Durham UnitedKingdom DH79HW
 446,https://find-and-update.company-information.service.gov.uk/company/12665084,447,S B S METALWORKS LTD,12665084,Active,PrivatelimitedCompany,,12 June 2020,,3KensworthGate 200-204HighStreetSouth Dunstable Bedfordshire England LU62RQ
 447,https://find-and-update.company-information.service.gov.uk/company/11599881,448,SPARES MX LIMITED,11599881,Active,PrivatelimitedCompany,,2 October 2018,,MillviewHouseLowStreet Husthwaite York England YO614QA
-448,https://find-and-update.company-information.service.gov.uk/company/03278246,449,"THE SWALLOWS (BLOCKS Q, R, S AND T) MANAGEMENT COMPANY LIMITED",03278246,Active,Privatecompanylimitedbyguaranteewithoutsharecapital,,14 November 1996,,Unit7ChevronBusinessParkLimekilnLane Holbury Southampton England SO452QL
+"448,https://find-and-update.company-information.service.gov.uk/company/03278246,449,""THE SWALLOWS (BLOCKS Q, R, S AND T) MANAGEMENT COMPANY LIMITED"",03278246,Active,Privatecompanylimitedbyguaranteewithoutsharecapital,,14 November 1996,,Unit7ChevronBusinessParkLimekilnLane Holbury Southampton England SO452QL"
 449,https://find-and-update.company-information.service.gov.uk/company/04422354,450,T A LIMITED,04422354,Active,PrivatelimitedCompany,,23 April 2002,,CitadelLodge2aElliotStreet TheHoe Plymouth PL12PP
 450,https://find-and-update.company-information.service.gov.uk/company/13233005,451,T A ACCESS LTD,13233005,Active,PrivatelimitedCompany,,27 February 2021,,257WoodlandsRoad Gillingham Kent ME72SY
 451,https://find-and-update.company-information.service.gov.uk/company/12385061,452,T A A CONSULTING LIMITED,12385061,Active,PrivatelimitedCompany,,3 January 2020,,45VictoriaRoad London England N43SJ
@@ -702,7 +702,7 @@
 700,https://find-and-update.company-information.service.gov.uk/company/14475463,701,T & A HAULAGE AND TRANSPORT LTD,14475463,Active,PrivatelimitedCompany,,10 November 2022,,GreyHavensPinfoldLane Royston Barnsley England S714PQ
 701,https://find-and-update.company-information.service.gov.uk/company/09482598,702,T & A HIGHWAYS LIMITED,09482598,Active,PrivatelimitedCompany,,10 March 2015,,10FysonWay Warboys Huntingdon England PE282JJ
 702,https://find-and-update.company-information.service.gov.uk/company/09975095,703,T & A HOLDINGS LIMITED,09975095,Active,PrivatelimitedCompany,,28 January 2016,,19MiddlewoodsWay Barnsley England S713HR
-703,https://find-and-update.company-information.service.gov.uk/company/09959524,704,"T. &. A. INNS, LIMITED",09959524,Active,PrivatelimitedCompany,,19 January 2016,,7(B) WellStreet Buckingham. England MK181EW
+"703,https://find-and-update.company-information.service.gov.uk/company/09959524,704,""T. &. A. INNS, LIMITED"",09959524,Active,PrivatelimitedCompany,,19 January 2016,,7(B) WellStreet Buckingham. England MK181EW"
 704,https://find-and-update.company-information.service.gov.uk/company/09548971,705,T & A INSPECTIONS LIMITED,09548971,Dissolved,PrivatelimitedCompany,,18 April 2015,11 January 2022,4ClewsRoad Redditch England B987ST
 705,https://find-and-update.company-information.service.gov.uk/company/14173945,706,T. & A. INSTALLATIONS LTD.,14173945,Active,PrivatelimitedCompany,,15 June 2022,,78WilshawLane Ashton-Under-Lyne Lancashire UnitedKingdom OL79QX
 706,https://find-and-update.company-information.service.gov.uk/company/08437860,707,T & A INSTALLATIONS LTD.,08437860,Dissolved,PrivatelimitedCompany,,11 March 2013,13 April 2022,11RomanWayBusinessCentre BerryHill Droitwich Worcestershire WR99AJ
@@ -1126,7 +1126,7 @@
 1124,https://find-and-update.company-information.service.gov.uk/company/06247294,1125,P .A. JEWELLERY LIMITED,06247294,Active,PrivatelimitedCompany,,15 May 2007,,23Commonside Walkley Sheffield SouthYorkshire S101GD
 1125,https://find-and-update.company-information.service.gov.uk/company/11603326,1126,P A JOHNSON TRANSPORT LOGISTICS LTD,11603326,Active,PrivatelimitedCompany,,3 October 2018,,8FernleaRoad Wirral UnitedKingdom CH605SH
 1126,https://find-and-update.company-information.service.gov.uk/company/08894447,1127,P A JOINERY AND BUILDING CONTRACTORS LIMITED,08894447,Active,PrivatelimitedCompany,,13 February 2014,,11GlamisDrive Southport England PR98PL
-1127,https://find-and-update.company-information.service.gov.uk/company/03732089,1128,P A JOLLY LIMITED,03732089,Dissolved,PrivatelimitedCompany,,12 March 1999,23 August 2022,"""TheOldDoctor'sHouse""74 GrangeRoad Dudley WestMidlands DY12AW"
+"1127,https://find-and-update.company-information.service.gov.uk/company/03732089,1128,P A JOLLY LIMITED,03732089,Dissolved,PrivatelimitedCompany,,12 March 1999,23 August 2022,""""""TheOldDoctor'sHouse""""74 GrangeRoad Dudley WestMidlands DY12AW"""
 1128,https://find-and-update.company-information.service.gov.uk/company/10225200,1129,P A JONES LIMITED,10225200,Active,PrivatelimitedCompany,,10 June 2016,,98MeadowLane Coalville Leicestershire UnitedKingdom LE674DP
 1129,https://find-and-update.company-information.service.gov.uk/company/OC326642,1130,P A JONES (IVYBRIDGE) LLP,OC326642,Active,Limitedliabilitypartnership,,9 March 2007,,14ChapelLane Hose MeltonMowbray Leicestershire LE144JG
 1130,https://find-and-update.company-information.service.gov.uk/company/OC325837,1131,P A JONES (PARTNERS) LLP,OC325837,Active,Limitedliabilitypartnership,,10 February 2007,,14ChapelLane Hose MeltonMowbray Leicestershire LE144JG
