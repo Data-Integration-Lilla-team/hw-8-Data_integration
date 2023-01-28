@@ -90,6 +90,9 @@ class Parser_custom():
             ds[c]=ds[c].replace(dic_to_replace,regex=True)
             if isinstance(ds[c].head(1)[0], str):
                 ds[c]=ds[c].str.lower()
+
+           
+
            
             
             

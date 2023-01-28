@@ -1,4 +1,6 @@
-
+import re
+from string import punctuation
+from collections import Counter
 class FeatureExtraction:
     def __init__(self):
         pass
@@ -13,28 +15,126 @@ class FeatureExtraction:
         else:
             return integer
 
+    def compute_features_for_int(self, col):
+        integer_features=[]
+        integer_features.append(col.min(skipna=True))
+        integer_features.append(col.max(skipna=True))
+        integer_features.append(col.mean())
+        integer_features.append(col.var())
+        integer_features.append(col.std())
+        return integer_features
+
+    def compute_type(self, val):
+        if '_perc' in val:
+            return 1
+        
+        if 'rank_' in val:
+            return 2
+
+        if 'doll_' in val:
+            return 3
+        
+        else:
+            return 4
+
+    def compute_ratio_of_whitespace(self,col):
+
+        mean_ratio=(col.str.count(' ') / col.str.len()).mean()
+        return mean_ratio
+
+    def compute_ratio_of_numeric_values(self, col):
+        ratio=0
+        total=len(col)
+        for val in col:
+            string_len=len(str(val))
+            temp=str(val)
+            numeric_val=len(re.sub("[^0-9]", "", temp))
+            ratio=ratio+(numeric_val/string_len)
+
+        return ratio/total
+
+
+    
+        
+
+                
+           
+
+    def compute_features_for_string(self, col):
+        feature_vector=[]
+
+        #type of string
+        feature_vector.append(self.compute_type(col.head(1)[0]))
+
+        #avg len of strings
+        feature_vector.append(col.str.len().mean())
+
+        #var len of strings
+        feature_vector.append(col.str.len().var())
+
+        #std deviation of strings lenght
+        feature_vector.append(col.str.len().std())
+
+        #ratio of whitespaces
+        feature_vector.append(self.compute_ratio_of_whitespace(col))
+
+        #ratio of numeric values
+
+        feature_vector.append(self.compute_ratio_of_numeric_values(col))
+
+        return feature_vector
+
+        
+
+
+
+
+
+
+         
+        
+
+
+
+
     #features-> 
     #1. tipo di dato: string 0, int 1, data (?)
-    #2. (string)type of str->perc_:1, b or t or doll_: 2, rank_=3,  other=4
-    #2. (string)avg_lenght of fiald (if string)
-    #3. (string)variance of lenght
-    #4. (string)ratio of whitespace fields
-    #5. (string)ratio of special char
-    #6. (string)ratio of numeric values
-    #7. (int)min val
-    #8. (int)max val
-    #9. (int)avg
-    #10 (int)variance
-    
+    #2. (string)type of str->perc_:1, b or t or doll_: 2, rank_=3, other=4
+    #3. (string)avg_lenght of fiald (if string)
+    #4. (string)variance of lenght
+    #5. (string) std deviation of lenght
+    #6. (string)ratio of whitespace fields
+    #7. (string)ratio of special char
+    #8. (string)ratio of numeric values
+    #9. (int)min val
+    #10. (int)max val
+    #11. (int)avg
+    #12 (int)variance
+    #13 (int) std deviation
+
 
     def extract_feature(self,ds):
         ds_features=[]                  #lista di tuple (nome campo, vettore)
+        list_of_names_columns=ds.columns.values.tolist()
+        i=0
         for col in ds.columns:
-            vector_features=[]
+            
+            
+            vector_features=[list_of_names_columns[i]]
             type_of_col=self.compute_features(ds[col])
             vector_features.append(type_of_col)
             if type_of_col==0:  #calcola le feature per la stringa, i valori numerici verranno settati a 0
-                vector_features.append(self.compute_features_for_string(ds[col]))
+                
+                vector_features=vector_features+self.compute_features_for_string(ds[col])
+                vector_features=vector_features+[0,0,0,0,0]
             else:
-                vector_features.append(self.compute_features_for_int(ds[col]))
+                
+                vector_features=vector_features+[0,0,0,0,0,0]
+                vector_features=vector_features+self.compute_features_for_int(ds[col])
+            
+            
+            ds_features.append(vector_features)
+            i=i+1
+
+        return ds_features
 
