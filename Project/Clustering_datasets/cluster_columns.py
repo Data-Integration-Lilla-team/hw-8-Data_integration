@@ -57,7 +57,7 @@ if __name__=='__main__':
 
     #1. parsing colonne->unifichiamo il nome delle colonne
     base_path='Project\\Dataset\\Clusters\\companiesmarketcap'
-    final_path='Project\\Dataset\\Clusters_CSV\\companiesmarketcap'
+    final_path='Project\\Dataset\\Clusters_CSV\\parsed\\companiesmarketcap\\'
     file_names=get_file_names(base_path)
         #compute columns: per ogni file definiamo le colonne
     col4file=get_col_4_files(file_names)
@@ -104,14 +104,21 @@ if __name__=='__main__':
     team2feature=dict()
     for k in team2ds.keys():
 
-        ds=pars_values.parse_data_values(team2ds['09-wissel'])              #parsing dei valori
+        ds=pars_values.parse_data_values(team2ds[k])              #parsing dei valori
         name_file=k+'_col_val_parsed.csv'
-        final_path=os.path.join(final_path,name_file)
-        for e in ds.columns:
-            print(e,type(ds[e].head(1)[0]))
-        print('=====')
-        #ds.to_csv(final_path)
-        #team2feature[k]=feature_extr.extract_feature(ds)
+        final_path_file=os.path.join(final_path,name_file)
+        print('team:',k ,final_path)
+        
+        ds.to_csv(final_path_file)
+        print(ds.columns.values)
+   
+        team2feature[k]=feature_extr.extract_feature(ds)
+
+    
+        
+    
+                
+                
 
 
 
