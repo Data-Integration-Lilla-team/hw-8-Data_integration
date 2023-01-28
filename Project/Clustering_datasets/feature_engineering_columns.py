@@ -25,6 +25,7 @@ class FeatureExtraction:
     #8. (int)max val
     #9. (int)avg
     #10 (int)variance
+    
 
     def extract_feature(self,ds):
         ds_features=[]                  #lista di tuple (nome campo, vettore)
@@ -35,5 +36,5 @@ class FeatureExtraction:
             if type_of_col==0:  #calcola le feature per la stringa, i valori numerici verranno settati a 0
                 vector_features.append(self.compute_features_for_string(ds[col]))
             else:
-                vector_features.append(self.compute_features_for_string(ds[col]))
+                vector_features.append(self.compute_features_for_int(ds[col]))
 
