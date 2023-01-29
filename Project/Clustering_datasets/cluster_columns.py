@@ -3,6 +3,7 @@ import os
 from parser_c import Parser_custom
 from rename_columns_ds import Rename_columns
 from feature_engineering_columns import FeatureExtraction
+from clusterModel import ClusterModel
 
 
 def cluster_columns():
@@ -112,7 +113,37 @@ if __name__=='__main__':
         ds.to_csv(final_path_file)
         print(ds.columns.values)
    
-        team2feature[k]=feature_extr.extract_feature(ds)
+        team2feature[k]=feature_extr.extract_feature(ds,k)
+
+    columns=feature_extr.get_features_name()
+    print(columns)
+
+    '''print('len cols',len(columns))
+    for k in team2feature.keys():
+        print('len list of cols',len(team2feature[k]))
+        for e in team2feature[k]:
+            print('len col:',len(e))'''
+    dataset=feature_extr.create_dataset(team2feature,columns)
+
+    print('Not_normalized_data\n',dataset.head(10))
+
+    dataset_norm=feature_extr.get_scaled_dataframe(dataset)
+
+    
+    print('Normalized_data\n',dataset_norm.head(10))
+
+    cluster_model=ClusterModel()
+
+    columns_to_use=columns.pop(0)
+    
+    dataClustered=cluster_model.clustered_data(dataset_norm,columns,len(dizionarioSinonimi.keys()))
+
+    print(dataClustered.head(20))
+
+
+    
+
+    
 
     
         

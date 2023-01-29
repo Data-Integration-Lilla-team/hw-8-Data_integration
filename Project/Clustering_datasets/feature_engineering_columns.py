@@ -1,9 +1,13 @@
 import re
 from string import punctuation
 from collections import Counter
+import pandas as pd
+from sklearn.preprocessing import MinMaxScaler
 class FeatureExtraction:
     def __init__(self):
-        pass
+        self.features=['column_name','type_of_data',
+        'type_of_string','avg_length_of_field','var_length','std_dev_length','ratio_white_space_length','ratio_num_val',
+        'min_val(int)','max_val(int)','avg(int)','variance','std_dev']
     
 
         # da adornare con data
@@ -84,7 +88,20 @@ class FeatureExtraction:
 
         return feature_vector
 
+    
+
+    
+    def create_dataset(self,data,cols):
+        list_of_data=[]
         
+        for k in data.keys():
+            for e in data[k]:
+                list_of_data.append(e)
+        
+
+        dataset=pd.DataFrame(data=list_of_data,columns=cols)
+        return dataset
+
 
 
 
@@ -98,29 +115,43 @@ class FeatureExtraction:
 
 
     #features-> 
+    #nome campo
     #1. tipo di dato: string 0, int 1, data (?)
     #2. (string)type of str->perc_:1, b or t or doll_: 2, rank_=3, other=4
     #3. (string)avg_lenght of fiald (if string)
     #4. (string)variance of lenght
     #5. (string) std deviation of lenght
     #6. (string)ratio of whitespace fields
-    #7. (string)ratio of special char
-    #8. (string)ratio of numeric values
-    #9. (int)min val
-    #10. (int)max val
-    #11. (int)avg
-    #12 (int)variance
-    #13 (int) std deviation
+    
+    #7. (string)ratio of numeric values
+    #8. (int)min val
+    #9. (int)max val
+    #10. (int)avg
+    #11 (int)variance
+    #12 (int) std deviation
+    def get_features_name(self):
+        return self.features
+
+    #normalizzazione features
+    def get_scaled_dataframe(self,ds):
+        scaler=MinMaxScaler()
+        x=[]
+        for c in self.features:
+            if 'column_name' not in c:
+                scaler.fit(ds[[c]])
+                ds[c]=scaler.transform(ds[[c]])
+            
+        return ds
 
 
-    def extract_feature(self,ds):
+    def extract_feature(self,ds,k):
         ds_features=[]                  #lista di tuple (nome campo, vettore)
         list_of_names_columns=ds.columns.values.tolist()
         i=0
         for col in ds.columns:
             
-            
-            vector_features=[list_of_names_columns[i]]
+            name_column=k+'_'+list_of_names_columns[i]
+            vector_features=[name_column]
             type_of_col=self.compute_features(ds[col])
             vector_features.append(type_of_col)
             if type_of_col==0:  #calcola le feature per la stringa, i valori numerici verranno settati a 0
