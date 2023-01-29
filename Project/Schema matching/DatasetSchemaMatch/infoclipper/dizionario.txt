@@ -1,0 +1,10 @@
+{
+"address_name":["address_name"],
+"city":['city'],
+"country":['country'],
+"name":['name'],
+"location_type":['location_type'],
+"postalcode":['postalcode'],
+"state":['state'],
+"trade_name":['trade_name']
+}

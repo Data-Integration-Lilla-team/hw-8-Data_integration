@@ -41,6 +41,6 @@
 "annual_results_for_year_ending": ['annual_results_for_year_ending'],
 "total_assets_in_usd": ['total_assets_in_usd'],
 "total_equity_in_usd": ['total_equity_in_usd'],
-"total_liabilities_in_usd": ['total_liabilities_in_usd'],
+"total_liabilities_in_usd": ['total_liabilities_in_usd']
 }
 

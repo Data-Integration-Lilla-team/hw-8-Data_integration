@@ -1,4 +1,4 @@
-,Name,MasterCap,Country,Industry,Sector
+,name,mastercap,country,industry,sector
 0,Shell plc,$207.68 B,United Kingdom,Oil & Gas Integrated,Energy
 1,AstraZeneca plc,$201.75 B,United Kingdom,Drug ManufacturersGeneral,Healthcare
 2,Linde plc,$166.07 B,United Kingdom,Specialty Chemicals,Basic Materials
@@ -11,9 +11,9 @@
 9,BP plc,$96.24 B,United Kingdom,Oil & Gas Integrated,Energy
 10,Aon Plc,$73.33 B,United Kingdom,Insurance Brokers,Financials
 11,Anglo American plc,$71.48 B,United Kingdom,Other Industrial Metals & Mining,Basic Materials
-12,Reckitt Benckiser Group plc,"(March 13, 2021)",United Kingdom,Household & Personal Products,Consumer Staples
+"12,Reckitt Benckiser Group plc,""(March 13, 2021)"",United Kingdom,Household & Personal Products,Consumer Staples"
 13,RELX plc,$58.53 B,United Kingdom,Publishing,Communication Services
-14,IHS Markit Ltd.,"(Jan. 1, 2022)",United Kingdom,Consulting Services,Industrials
+"14,IHS Markit Ltd.,""(Jan. 1, 2022)"",United Kingdom,Consulting Services,Industrials"
 15,National Grid plc,$55.88 B,United Kingdom,UtilitiesDiversified,Utilities
 16,London Stock Exchange Group plc,$53.33 B,United Kingdom,Financial Data & Stock Exchanges,Financials
 17,General Accident plc,$51.43 B,United Kingdom,InsuranceProperty & Casualty,Financials
@@ -25,7 +25,7 @@
 23,Barclays plc,$32.19 B,United Kingdom,Banks,Financials
 24,Ferguson plc,$30.52 B,United Kingdom,Industrial Distribution,Industrials
 25,BAE Systems plc,$30.51 B,United Kingdom,Aerospace & Defense,Industrials
-26,Willis Towers Watson plc,"(Jan. 1, 2022)",United Kingdom,Insurance Brokers,Financials
+"26,Willis Towers Watson plc,""(Jan. 1, 2022)"",United Kingdom,Insurance Brokers,Financials"
 27,Ashtead Group plc,$28.28 B,United Kingdom,Rental & Leasing Services,Industrials
 28,Tesco plc,$28.11 B,United Kingdom,Grocery Stores,Consumer Staples
 29,BT Group plc,$24.09 B,United Kingdom,Telecom Services,Communication Services
@@ -37,9 +37,9 @@
 35,Standard Chartered plc,$20.78 B,United Kingdom,Banks,Financials
 36,Imperial Brands plc,$20.14 B,United Kingdom,Tobacco,Consumer Staples
 37,Aviva plc,$19.82 B,United Kingdom,InsuranceDiversified,Financials
-38,Croda International plc,"(Jan. 1, 2022)",United Kingdom,Specialty Chemicals,Basic Materials
+"38,Croda International plc,""(Jan. 1, 2022)"",United Kingdom,Specialty Chemicals,Basic Materials"
 39,Scottish Mortgage Investment Trust plc,$18.78 B,United Kingdom,Asset Management,Financials
-40,Antofagasta plc,"(Jan. 1, 2022)",United Kingdom,Copper,Basic Materials
+"40,Antofagasta plc,""(Jan. 1, 2022)"",United Kingdom,Copper,Basic Materials"
 41,3i Group plc,$17.60 B,United Kingdom,Asset Management,Financials
 42,Associated British Foods plc,$17.49 B,United Kingdom,Packaged Foods,Consumer Staples
 43,WPP plc,$15.76 B,United Kingdom,Advertising Agencies,Communication Services
@@ -48,7 +48,7 @@
 46,Bunzl plc,$13.07 B,United Kingdom,Food Distribution,Consumer Staples
 47,Rentokil Initial plc,$12.78 B,United Kingdom,Specialty Business Services,Industrials
 48,InterContinental Hotels Group plc,$12.20 B,United Kingdom,Lodging,Consumer Discretionary
-49,EVRAZ plc,"(Jan. 1, 2022)",United Kingdom,Steel,Basic Materials
+"49,EVRAZ plc,""(Jan. 1, 2022)"",United Kingdom,Steel,Basic Materials"
 50,Spirax-Sarco Engineering plc,$12.14 B,United Kingdom,Specialty Industrial Machinery,Industrials
 51,Informa plc,$11.80 B,United Kingdom,Publishing,Communication Services
 52,Ocado Group plc,$11.54 B,United Kingdom,Grocery Stores,Consumer Staples
@@ -62,10 +62,10 @@
 60,JD Sports Fashion plc,$10.00 B,United Kingdom,Specialty Retail,Consumer Discretionary
 61,Admiral Group plc,$9.96 B,United Kingdom,InsuranceProperty & Casualty,Financials
 62,The Sage Group plc,$9.83 B,United Kingdom,SoftwareApplication,Technology
-63,Wm Morrison Supermarkets plc,"(Oct. 1, 2021)",United Kingdom,Grocery Stores,Consumer Staples
+"63,Wm Morrison Supermarkets plc,""(Oct. 1, 2021)"",United Kingdom,Grocery Stores,Consumer Staples"
 64,AVEVA Group plc,$9.60 B,United Kingdom,SoftwareApplication,Technology
 65,Mondi plc,$9.51 B,United Kingdom,Paper & Paper Products,Basic Materials
-66,Standard Life Aberdeen plc,"(March 13, 2021)",United Kingdom,Asset Management,Financials
+"66,Standard Life Aberdeen plc,""(March 13, 2021)"",United Kingdom,Asset Management,Financials"
 67,Pentair plc,$9.32 B,United Kingdom,Specialty Industrial Machinery,Industrials
 68,Persimmon plc,$9.07 B,United Kingdom,Residential Construction,Consumer Discretionary
 69,Burberry Group plc,$8.90 B,United Kingdom,Luxury Goods,Consumer Discretionary
@@ -100,9 +100,9 @@
 98,The Berkeley Group Holdings plc,$6.07 B,United Kingdom,Residential Construction,Consumer Discretionary
 99,F&C Investment Trust plc,$6.06 B,United Kingdom,Asset Management,Financials
 100,Pepco Group N.V.,$6.03 B,United Kingdom,Discount Stores,Consumer Staples
-101,Howden Joinery Group plc,$5.98 B,United Kingdom,"Furnishings, Fixtures & Appliances",Consumer Discretionary
+"101,Howden Joinery Group plc,$5.98 B,United Kingdom,""Furnishings, Fixtures & Appliances"",Consumer Discretionary"
 102,nVent Electric plc,$5.97 B,United Kingdom,Electrical Equipment & Parts,Industrials
-103,Investec plc,"(Jan. 1, 2022)",United Kingdom,Capital Markets,Financials
+"103,Investec plc,""(Jan. 1, 2022)"",United Kingdom,Capital Markets,Financials"
 104,Pennon Group plc,$5.91 B,United Kingdom,UtilitiesRegulated Water,Utilities
 105,DS Smith plc,$5.78 B,United Kingdom,Packaging & Containers,Consumer Discretionary
 106,The Weir Group plc,$5.74 B,United Kingdom,Specialty Industrial Machinery,Industrials
@@ -128,7 +128,7 @@
 126,Softcat plc,$4.31 B,United Kingdom,Information Technology Services,Technology
 127,ITV plc,$4.30 B,United Kingdom,Broadcasting,Communication Services
 128,Diploma plc,$4.25 B,United Kingdom,Industrial Distribution,Industrials
-129,Rotork plc,"(Jan. 1, 2022)",United Kingdom,Specialty Industrial Machinery,Industrials
+"129,Rotork plc,""(Jan. 1, 2022)"",United Kingdom,Specialty Industrial Machinery,Industrials"
 130,Abcam plc,$4.21 B,United Kingdom,Biotechnology,Healthcare
 131,Future plc,$4.20 B,United Kingdom,Publishing,Communication Services
 132,Darktrace plc,$4.13 B,United Kingdom,SoftwareInfrastructure,Technology
@@ -139,7 +139,7 @@
 137,Nomad Foods Limited,$4.04 B,United Kingdom,Packaged Foods,Consumer Staples
 138,Tate & Lyle plc,$4.01 B,United Kingdom,Packaged Foods,Consumer Staples
 139,LivaNova PLC,$3.99 B,United Kingdom,Medical Devices,Healthcare
-140,William Hill plc,"(March 13, 2021)",United Kingdom,Gambling,Consumer Discretionary
+"140,William Hill plc,""(March 13, 2021)"",United Kingdom,Gambling,Consumer Discretionary"
 141,Bellway plc,$3.95 B,United Kingdom,Residential Construction,Consumer Discretionary
 142,Alliance Trust plc,$3.93 B,United Kingdom,Asset Management,Financials
 143,Greencoat UK Wind plc,$3.92 B,United Kingdom,Asset Management,Financials
@@ -180,10 +180,10 @@
 178,Primary Health Properties plc,$2.61 B,United Kingdom,REITHealthcare Facilities,Real Estate
 179,Witan Investment Trust plc,$2.60 B,United Kingdom,Asset Management,Financials
 180,Caledonia Investments plc,$2.59 B,United Kingdom,Asset Management,Financials
-181,"Pershing Square Holdings, Ltd.","(Sept. 1, 2018)",United Kingdom,Asset Management,Financials
+"181,""Pershing Square Holdings, Ltd."",""(Sept. 1, 2018)"",United Kingdom,Asset Management,Financials"
 182,Deliveroo plc,$2.55 B,United Kingdom,Internet Retail,Consumer Discretionary
 183,Cranswick plc,$2.52 B,United Kingdom,Packaged Foods,Consumer Staples
-184,Great Portland Estates plc,"(Jan. 1, 2022)",United Kingdom,REITOffice,Real Estate
+"184,Great Portland Estates plc,""(Jan. 1, 2022)"",United Kingdom,REITOffice,Real Estate"
 185,HgCapital Trust plc,$2.48 B,United Kingdom,Asset Management,Financials
 186,Zimplats Holdings Limited,$2.48 B,United Kingdom,Other Precious Metals & Mining,Basic Materials
 187,WH Smith plc,$2.48 B,United Kingdom,Specialty Retail,Consumer Discretionary
@@ -205,22 +205,22 @@
 203,Sequoia Economic Infrastructure Inc Ord,$2.24 B,United Kingdom,Asset Management,Financials
 204,Balfour Beatty plc,$2.24 B,United Kingdom,Engineering & Construction,Industrials
 205,Kainos Group plc,$2.22 B,United Kingdom,SoftwareApplication,Technology
-206,Aggreko plc,"(March 13, 2021)",United Kingdom,Rental & Leasing Services,Industrials
+"206,Aggreko plc,""(March 13, 2021)"",United Kingdom,Rental & Leasing Services,Industrials"
 207,Personal Assets Trust,$2.18 B,United Kingdom,Asset Management,Financials
 208,Babcock International Group plc,$2.16 B,United Kingdom,Engineering & Construction,Industrials
 209,Ashmore Group plc,$2.14 B,United Kingdom,Asset Management,Financials
 210,Murray International Trust plc,$2.11 B,United Kingdom,Asset Management,Financials
 211,PageGroup plc,$2.11 B,United Kingdom,Staffing & Employment Services,Industrials
-212,Harbourvest Global Private Equity Limited,"(March 13, 2021)",United Kingdom,Asset Management,Financials
-213,Gamesys Group plc,"(March 13, 2021)",United Kingdom,Gambling,Consumer Discretionary
-214,John Laing Group plc,"(March 13, 2021)",United Kingdom,Engineering & Construction,Industrials
-215,Dixons Carphone plc,"(March 13, 2021)",United Kingdom,Specialty Retail,Consumer Discretionary
+"212,Harbourvest Global Private Equity Limited,""(March 13, 2021)"",United Kingdom,Asset Management,Financials"
+"213,Gamesys Group plc,""(March 13, 2021)"",United Kingdom,Gambling,Consumer Discretionary"
+"214,John Laing Group plc,""(March 13, 2021)"",United Kingdom,Engineering & Construction,Industrials"
+"215,Dixons Carphone plc,""(March 13, 2021)"",United Kingdom,Specialty Retail,Consumer Discretionary"
 216,Victrex plc,$2.06 B,United Kingdom,Specialty Chemicals,Basic Materials
 217,S4 Capital plc,$2.05 B,United Kingdom,Advertising Agencies,Communication Services
 218,Savills plc,$2.04 B,United Kingdom,Real Estate Services,Real Estate
 219,ASOS plc,$2.03 B,United Kingdom,Internet Retail,Consumer Discretionary
 220,Brewin Dolphin Holdings plc,$2.03 B,United Kingdom,Asset Management,Financials
-221,Calisen plc,"(March 13, 2021)",United Kingdom,Electrical Equipment & Parts,Industrials
+"221,Calisen plc,""(March 13, 2021)"",United Kingdom,Electrical Equipment & Parts,Industrials"
 222,JPMorgan American Investment Trust plc,$1.98 B,United Kingdom,Asset Management,Financials
 223,Burford Capital Limited,$1.97 B,United Kingdom,Asset Management,Financials
 224,YouGov plc,$1.96 B,United Kingdom,Advertising Agencies,Communication Services
@@ -229,7 +229,7 @@
 227,Secure Income REIT Ord,$1.94 B,United Kingdom,REITDiversified,Real Estate
 228,National Express Group plc,$1.92 B,United Kingdom,Railroads,Industrials
 229,GlobalData plc,$1.90 B,United Kingdom,Consulting Services,Industrials
-230,Polypipe Group plc,"(March 13, 2021)",United Kingdom,Building Products & Equipment,Industrials
+"230,Polypipe Group plc,""(March 13, 2021)"",United Kingdom,Building Products & Equipment,Industrials"
 231,TR Property Investment Trust,$1.89 B,United Kingdom,Asset Management,Financials
 232,Countryside Properties plc,$1.87 B,United Kingdom,Residential Construction,Consumer Discretionary
 233,Spirent Communications plc,$1.87 B,United Kingdom,SoftwareInfrastructure,Technology
@@ -246,7 +246,7 @@
 244,Ceres Power Holdings plc,$1.77 B,United Kingdom,Electrical Equipment & Parts,Industrials
 245,BlackRock World Mining Trust plc,$1.77 B,United Kingdom,Asset Management,Financials
 246,Impax Environmental Markets Trust plc,$1.74 B,United Kingdom,Asset Management,Financials
-247,James Halstead plc,"(Jan. 1, 2022)",United Kingdom,Building Products & Equipment,Industrials
+"247,James Halstead plc,""(Jan. 1, 2022)"",United Kingdom,Building Products & Equipment,Industrials"
 248,Hipgnosis Songs Fund Limited,$1.71 B,United Kingdom,Asset Management,Financials
 249,Alphawave IP Group plc,$1.71 B,United Kingdom,Semiconductors,Technology
 250,Impax Asset Management Group plc,$1.70 B,United Kingdom,Asset Management,Financials
@@ -260,8 +260,8 @@
 258,Workspace Group plc,$1.65 B,United Kingdom,REITOffice,Real Estate
 259,RSA Insurance Group plc,$1.65 B,United Kingdom,InsuranceProperty & Casualty,Financials
 260,Auction Technology Group plc,$1.64 B,United Kingdom,SoftwareApplication,Technology
-261,Daily Mail and General Trust plc,"(Jan. 1, 2022)",United Kingdom,Publishing,Communication Services
-262,Blue Prism Group plc,"(Jan. 1, 2022)",United Kingdom,SoftwareInfrastructure,Technology
+"261,Daily Mail and General Trust plc,""(Jan. 1, 2022)"",United Kingdom,Publishing,Communication Services"
+"262,Blue Prism Group plc,""(Jan. 1, 2022)"",United Kingdom,SoftwareInfrastructure,Technology"
 263,Fidelity European Values plc,$1.63 B,United Kingdom,Asset Management,Financials
 264,Helios Towers plc,$1.61 B,United Kingdom,Telecom Services,Communication Services
 265,Next Fifteen Communications Group plc,$1.61 B,United Kingdom,Advertising Agencies,Communication Services
@@ -272,19 +272,19 @@
 270,Herald Investment Trust,$1.59 B,United Kingdom,Asset Management,Financials
 271,Learning Technologies Group plc,$1.59 B,United Kingdom,Education & Training Services,Consumer Staples
 272,Bodycote plc,$1.58 B,United Kingdom,Specialty Industrial Machinery,Industrials
-273,Atrium European Real Estate Ltd,"(Jan. 1, 2022)",United Kingdom,Real Estate Services,Real Estate
+"273,Atrium European Real Estate Ltd,""(Jan. 1, 2022)"",United Kingdom,Real Estate Services,Real Estate"
 274,Telecom Plus plc,$1.58 B,United Kingdom,UtilitiesDiversified,Utilities
 275,Draper Esprit plc,$1.57 B,United Kingdom,Asset Management,Financials
 276,TP ICAP plc,$1.57 B,United Kingdom,Capital Markets,Financials
 277,Hill & Smith Holdings plc,$1.55 B,United Kingdom,Engineering & Construction,Industrials
 278,Bytes Technology Group plc,$1.54 B,United Kingdom,SoftwareApplication,Technology
-279,TalkTalk Telecom Group plc,"(March 13, 2021)",United Kingdom,Telecom Services,Communication Services
+"279,TalkTalk Telecom Group plc,""(March 13, 2021)"",United Kingdom,Telecom Services,Communication Services"
 280,Globalworth Real Estate Investments Limited,$1.54 B,United Kingdom,Real Estate Services,Real Estate
 281,Rathbone Brothers plc,$1.53 B,United Kingdom,Asset Management,Financials
 282,UK Commercial Property REIT Limited,$1.52 B,United Kingdom,Asset Management,Financials
 283,BBGI Global Infrastructure SA,$1.52 B,United Kingdom,Asset Management,Financials
 284,Jupiter Fund Management plc,$1.50 B,United Kingdom,Asset Management,Financials
-285,Octopus Titan VCT plc,"(Jan. 1, 2022)",United Kingdom,Asset Management,Financials
+"285,Octopus Titan VCT plc,""(Jan. 1, 2022)"",United Kingdom,Asset Management,Financials"
 286,JTC plc,$1.49 B,United Kingdom,Asset Management,Financials
 287,Aston Martin Lagonda Global Holdings plc,$1.49 B,United Kingdom,Auto Manufacturers,Consumer Discretionary
 288,Coats Group plc,$1.46 B,United Kingdom,Textile Manufacturing,Consumer Discretionary
@@ -299,11 +299,11 @@
 297,Euromoney Institutional Investor plc,$1.41 B,United Kingdom,Financial Data & Stock Exchanges,Financials
 298,Redde Northgate plc,$1.40 B,United Kingdom,Rental & Leasing Services,Industrials
 299,Ferroglobe PLC,$1.38 B,United Kingdom,Other Industrial Metals & Mining,Basic Materials
-300,Victoria plc,$1.37 B,United Kingdom,"Furnishings, Fixtures & Appliances",Consumer Discretionary
+"300,Victoria plc,$1.37 B,United Kingdom,""Furnishings, Fixtures & Appliances"",Consumer Discretionary"
 301,Murray Income Trust plc,$1.36 B,United Kingdom,Asset Management,Financials
 302,Moneysupermarket.com Group plc,$1.36 B,United Kingdom,Internet Content & Information,Communication Services
 303,Centamin plc,$1.36 B,United Kingdom,Gold,Basic Materials
-304,Vectura Group plc,"(Oct. 1, 2021)",United Kingdom,Drug ManufacturersGeneral,Healthcare
+"304,Vectura Group plc,""(Oct. 1, 2021)"",United Kingdom,Drug ManufacturersGeneral,Healthcare"
 305,GB Group plc,$1.35 B,United Kingdom,SoftwareApplication,Technology
 306,Supermarket Income REIT plc,$1.35 B,United Kingdom,REITRetail,Real Estate
 307,Currys Plc,$1.34 B,United Kingdom,Specialty Retail,Consumer Discretionary
@@ -314,25 +314,25 @@
 312,Hilton Food Group plc,$1.32 B,United Kingdom,Packaged Foods,Consumer Staples
 313,JD Wetherspoon plc,$1.31 B,United Kingdom,Restaurants,Consumer Discretionary
 314,Biffa plc,$1.29 B,United Kingdom,Waste Management,Industrials
-315,GCP Student Living plc,"(Dec. 1, 2021)",United Kingdom,Asset Management,Financials
+"315,GCP Student Living plc,""(Dec. 1, 2021)"",United Kingdom,Asset Management,Financials"
 316,GCP Infrastructure Investments,$1.29 B,United Kingdom,Asset Management,Financials
 317,TI Fluid Systems plc,$1.28 B,United Kingdom,Auto Parts,Consumer Discretionary
-318,"Merian Chrysalis Investment Co., Ltd.",$1.28 B,United Kingdom,Asset Management,Financials
+"318,""Merian Chrysalis Investment Co., Ltd."",$1.28 B,United Kingdom,Asset Management,Financials"
 319,Spire Healthcare Group plc,$1.27 B,United Kingdom,Medical Care Facilities,Healthcare
 320,Essentra plc,$1.26 B,United Kingdom,Specialty Chemicals,Basic Materials
 321,Law Debenture Corporation plc,$1.26 B,United Kingdom,Asset Management,Financials
 322,Clipper Logistics plc,$1.24 B,United Kingdom,Integrated Freight & Logistics,Industrials
 323,IP Group plc,$1.24 B,United Kingdom,Asset Management,Financials
 324,Vesuvius plc,$1.22 B,United Kingdom,Steel,Basic Materials
-325,St. Modwen Properties plc,"(March 13, 2021)",United Kingdom,Real EstateDevelopment,Real Estate
+"325,St. Modwen Properties plc,""(March 13, 2021)"",United Kingdom,Real EstateDevelopment,Real Estate"
 326,Stolt-Nielsen Ltd,$1.22 B,United Kingdom,Marine Shipping,Industrials
-327,European Opportunities Trust plc,"(Jan. 1, 2022)",United Kingdom,Asset Management,Financials
+"327,European Opportunities Trust plc,""(Jan. 1, 2022)"",United Kingdom,Asset Management,Financials"
 328,LXI REIT,$1.21 B,United Kingdom,REITDiversified,Real Estate
 329,BMO Commercial Property Trust,$1.21 B,United Kingdom,Asset Management,Financials
 330,BB Healthcare Trust plc,$1.19 B,United Kingdom,Asset Management,Financials
 331,Just Group plc,$1.18 B,United Kingdom,InsuranceSpecialty,Financials
 332,Schroder AsiaPacific Fund plc,$1.18 B,United Kingdom,Asset Management,Financials
-333,Sumo Group plc,"(Jan. 1, 2022)",United Kingdom,Electronic Gaming & Multimedia,Communication Services
+"333,Sumo Group plc,""(Jan. 1, 2022)"",United Kingdom,Electronic Gaming & Multimedia,Communication Services"
 334,Myovant Sciences Ltd.,$1.18 B,United Kingdom,Biotechnology,Healthcare
 335,Morgan Advanced Materials plc,$1.18 B,United Kingdom,Specialty Industrial Machinery,Industrials
 336,Smart Metering Systems plc,$1.17 B,United Kingdom,Electrical Equipment & Parts,Industrials
@@ -340,7 +340,7 @@
 338,EMIS Group plc,$1.16 B,United Kingdom,Health Information Services,Healthcare
 339,VinaCapital Vietnam Opportunity Fund Limited,$1.14 B,United Kingdom,Asset Management,Financials
 340,Kape Technologies plc,$1.14 B,United Kingdom,SoftwareInfrastructure,Technology
-341,JPMorgan Euro Small Co. Trust plc,"(Dec. 1, 2021)",United Kingdom,Asset Management,Financials
+"341,JPMorgan Euro Small Co. Trust plc,""(Dec. 1, 2021)"",United Kingdom,Asset Management,Financials"
 342,Alpha FX Group plc,$1.13 B,United Kingdom,Capital Markets,Financials
 343,Chemring Group plc,$1.13 B,United Kingdom,Aerospace & Defense,Industrials
 344,CLS Holdings plc,$1.11 B,United Kingdom,Real Estate Services,Real Estate
@@ -357,11 +357,11 @@
 355,4imprint Group plc,$1.04 B,United Kingdom,Advertising Agencies,Communication Services
 356,SDCL Energy Efficiency Income Trust plc,$1.04 B,United Kingdom,Asset Management,Financials
 357,CareTech Holdings plc,$1.04 B,United Kingdom,Medical Care Facilities,Healthcare
-358,"Global Ship Lease, Inc.",$1.03 B,United Kingdom,Marine Shipping,Industrials
+"358,""Global Ship Lease, Inc."",$1.03 B,United Kingdom,Marine Shipping,Industrials"
 359,Capital Gearing Trust plc,$1.03 B,United Kingdom,Asset Management,Financials
 360,Liontrust Asset Management plc,$1.02 B,United Kingdom,Asset Management,Financials
 361,Bicycle Therapeutics plc,$1.02 B,United Kingdom,Biotechnology,Healthcare
-362,Stock Spirits Group plc,"(Nov. 1, 2021)",United Kingdom,BeveragesWineries & Distilleries,Consumer Staples
+"362,Stock Spirits Group plc,""(Nov. 1, 2021)"",United Kingdom,BeveragesWineries & Distilleries,Consumer Staples"
 363,Provident Financial plc,$1.01 B,United Kingdom,Credit Services,Financials
 364,Baillie Gifford Japan Trust plc,$1.01 B,United Kingdom,Asset Management,Financials
 365,Focusrite plc,$1.01 B,United Kingdom,Leisure,Consumer Discretionary
@@ -369,11 +369,11 @@
 367,Pantheon Resources plc,$997.0 M,United Kingdom,Oil & Gas E&P,Energy
 368,CMC Markets plc,$985.2 M,United Kingdom,Capital Markets,Financials
 369,Tullow Oil plc,$983.5 M,United Kingdom,Oil & Gas E&P,Energy
-370,TR European Growth Trust plc,"(Jan. 1, 2022)",United Kingdom,Asset Management,Financials
+"370,TR European Growth Trust plc,""(Jan. 1, 2022)"",United Kingdom,Asset Management,Financials"
 371,Henderson Smaller Companies Investment Trust,$960.6 M,United Kingdom,Asset Management,Financials
 372,iEnergizer Limited,$957.5 M,United Kingdom,Information Technology Services,Technology
 373,Baillie Gifford US Growth Trust plc,$955.4 M,United Kingdom,Asset Management,Financials
-374,Standard Life Uk Smaller Companies Trust plc,"(Dec. 1, 2021)",United Kingdom,Asset Management,Financials
+"374,Standard Life Uk Smaller Companies Trust plc,""(Dec. 1, 2021)"",United Kingdom,Asset Management,Financials"
 375,Warehouse REIT plc,$946.9 M,United Kingdom,REITIndustrial,Real Estate
 376,The Merchants Trust plc,$946.4 M,United Kingdom,Asset Management,Financials
 377,Schroder Oriental Income Fund Limited,$945.6 M,United Kingdom,Asset Management,Financials
@@ -389,10 +389,10 @@
 387,BlackRock Throgmorton Trust plc,$904.0 M,United Kingdom,Asset Management,Financials
 388,discoverIE Group plc,$903.9 M,United Kingdom,Electronic Components,Technology
 389,Treatt plc,$903.4 M,United Kingdom,Specialty Chemicals,Basic Materials
-390,McCarthy & Stone plc,"(March 13, 2021)",United Kingdom,Medical Care Facilities,Healthcare
-391,Equiniti Group plc,"(Dec. 1, 2021)",United Kingdom,SoftwareInfrastructure,Technology
-392,"Young & Co.'s Brewery, plc",$891.4 M,United Kingdom,Restaurants,Consumer Discretionary
-393,Alternative Credit Investments plc,"(March 13, 2021)",United Kingdom,Asset Management,Financials
+"390,McCarthy & Stone plc,""(March 13, 2021)"",United Kingdom,Medical Care Facilities,Healthcare"
+"391,Equiniti Group plc,""(Dec. 1, 2021)"",United Kingdom,SoftwareInfrastructure,Technology"
+"392,""Young & Co.'s Brewery, plc"",$891.4 M,United Kingdom,Restaurants,Consumer Discretionary"
+"393,Alternative Credit Investments plc,""(March 13, 2021)"",United Kingdom,Asset Management,Financials"
 394,Watkin Jones plc,$882.2 M,United Kingdom,Residential Construction,Consumer Discretionary
 395,Ergomed plc,$870.2 M,United Kingdom,Biotechnology,Healthcare
 396,Bakkavor Group plc,$867.6 M,United Kingdom,Packaged Foods,Consumer Staples
@@ -408,7 +408,7 @@
 406,Pacific Horizon Investment Trust,$823.5 M,United Kingdom,Asset Management,Financials
 407,NextEnergy Solar Ord,$817.8 M,United Kingdom,Asset Management,Financials
 408,Genius Sports Ltd,$812.9 M,United Kingdom,Internet Content & Information,Communication Services
-409,"MAS Real Estate, Inc.","(Nov. 1, 2021)",United Kingdom,Real EstateDiversified,Real Estate
+"409,""MAS Real Estate, Inc."",""(Nov. 1, 2021)"",United Kingdom,Real EstateDiversified,Real Estate"
 410,The Vitec Group plc,$803.4 M,United Kingdom,Consumer Electronics,Technology
 411,A.G. BARR plc,$799.2 M,United Kingdom,BeveragesNon-Alcoholic,Consumer Staples
 412,Advanced Medical Solutions Group plc,$793.7 M,United Kingdom,Medical Instruments & Supplies,Healthcare
@@ -427,7 +427,7 @@
 425,RAK Petroleum plc,$737.4 M,United Kingdom,Oil & Gas E&P,Energy
 426,Asia Dragon Trust plc,$737.0 M,United Kingdom,Asset Management,Financials
 427,Oxford Biomedica plc,$734.7 M,United Kingdom,Biotechnology,Healthcare
-428,DFS Furniture plc,$733.0 M,United Kingdom,"Furnishings, Fixtures & Appliances",Consumer Discretionary
+"428,DFS Furniture plc,$733.0 M,United Kingdom,""Furnishings, Fixtures & Appliances"",Consumer Discretionary"
 429,Civitas Social Housing plc,$729.8 M,United Kingdom,REITResidential,Real Estate
 430,Ideagen plc,$728.4 M,United Kingdom,SoftwareApplication,Technology
 431,Forterra plc,$725.5 M,United Kingdom,Building Materials,Basic Materials
@@ -435,8 +435,8 @@
 433,Picton Property Income Limited,$722.2 M,United Kingdom,REITDiversified,Real Estate
 434,Empiric Student Property plc,$721.3 M,United Kingdom,REITResidential,Real Estate
 435,Greatland Gold plc,$721.2 M,United Kingdom,Gold,Basic Materials
-436,Goco Group plc,"(March 13, 2021)",United Kingdom,Information Technology Services,Technology
-437,Stenprop Ltd,"(Nov. 1, 2021)",United Kingdom,REITIndustrial,Real Estate
+"436,Goco Group plc,""(March 13, 2021)"",United Kingdom,Information Technology Services,Technology"
+"437,Stenprop Ltd,""(Nov. 1, 2021)"",United Kingdom,REITIndustrial,Real Estate"
 438,Craneware plc,$718.9 M,United Kingdom,Health Information Services,Healthcare
 439,Integrated Diagnostics Holdings plc,$718.0 M,United Kingdom,Diagnostics & Research,Healthcare
 440,Bluefield Solar Income Fund Limited,$717.5 M,United Kingdom,Asset Management,Financials
@@ -453,7 +453,7 @@
 451,Baillie Gifford Shin Nippon plc,$690.2 M,United Kingdom,Asset Management,Financials
 452,Mountview Estates plc,$688.4 M,United Kingdom,Real Estate Services,Real Estate
 453,NCC Group plc,$686.3 M,United Kingdom,SoftwareApplication,Technology
-454,IMImobile plc,"(March 13, 2021)",United Kingdom,SoftwareApplication,Technology
+"454,IMImobile plc,""(March 13, 2021)"",United Kingdom,SoftwareApplication,Technology"
 455,John Menzies plc,$682.5 M,United Kingdom,Airports & Air Services,Industrials
 456,Johnson Service Group plc,$680.7 M,United Kingdom,Specialty Business Services,Industrials
 457,Marston's plc,$671.4 M,United Kingdom,Restaurants,Consumer Discretionary
@@ -464,40 +464,40 @@
 462,Robert Walters plc,$660.2 M,United Kingdom,Staffing & Employment Services,Industrials
 463,BlackRock Greater Europe Investment Trust plc,$659.8 M,United Kingdom,Asset Management,Financials
 464,Nichols plc,$657.0 M,United Kingdom,BeveragesNon-Alcoholic,Consumer Staples
-465,Arrow Global Group plc,"(March 13, 2021)",United Kingdom,Asset Management,Financials
+"465,Arrow Global Group plc,""(March 13, 2021)"",United Kingdom,Asset Management,Financials"
 466,Halfords Group plc,$650.1 M,United Kingdom,Specialty Retail,Consumer Discretionary
-467,RDI REIT plc,"(March 13, 2021)",United Kingdom,REITDiversified,Real Estate
+"467,RDI REIT plc,""(March 13, 2021)"",United Kingdom,REITDiversified,Real Estate"
 468,Urban Logistics REIT plc,$644.0 M,United Kingdom,REITIndustrial,Real Estate
 469,Frontier Developments plc,$635.6 M,United Kingdom,Electronic Gaming & Multimedia,Communication Services
 470,Odfjell Drilling Ltd,$634.7 M,United Kingdom,Oil & Gas Drilling,Energy
 471,Helical plc,$632.1 M,United Kingdom,Real Estate Services,Real Estate
 472,Genel Energy plc,$631.9 M,United Kingdom,Oil & Gas E&P,Energy
-473,Henderson Far East Income Ltd,"(March 13, 2021)",United Kingdom,Asset Management,Financials
+"473,Henderson Far East Income Ltd,""(March 13, 2021)"",United Kingdom,Asset Management,Financials"
 474,Wincanton plc,$629.7 M,United Kingdom,Integrated Freight & Logistics,Industrials
 475,Mid-Wynd International Investment Trust plc,$625.9 M,United Kingdom,Asset Management,Financials
 476,Alfa Financial Software Holdings plc,$622.3 M,United Kingdom,SoftwareApplication,Technology
 477,The Restaurant Group plc,$616.3 M,United Kingdom,Restaurants,Consumer Discretionary
 478,Schroder Asian Total Return Investment Company plc,$612.1 M,United Kingdom,Asset Management,Financials
-479,Tritax EuroBox plc,"(March 13, 2021)",United Kingdom,REITIndustrial,Real Estate
+"479,Tritax EuroBox plc,""(March 13, 2021)"",United Kingdom,REITIndustrial,Real Estate"
 480,SIG plc,$604.7 M,United Kingdom,Industrial Distribution,Industrials
 481,Chesnara plc,$599.5 M,United Kingdom,InsuranceLife,Financials
 482,Dunedin Income Growth Investment Trust,$592.4 M,United Kingdom,Asset Management,Financials
-483,Silence Therapeutics plc,"(Nov. 1, 2021)",United Kingdom,Biotechnology,Healthcare
+"483,Silence Therapeutics plc,""(Nov. 1, 2021)"",United Kingdom,Biotechnology,Healthcare"
 484,Aberdeen Standard Asia Focus plc,$584.2 M,United Kingdom,Asset Management,Financials
 485,GCP Asset Backed Income Fund Limited,$580.1 M,United Kingdom,Asset Management,Financials
 486,Cineworld Group plc,$575.9 M,United Kingdom,Entertainment,Communication Services
 487,Kin and Carta plc,$574.8 M,United Kingdom,Specialty Business Services,Industrials
 488,Brunner Investment Trust plc,$574.7 M,United Kingdom,Asset Management,Financials
 489,Impact Healthcare Reit plc,$567.3 M,United Kingdom,REITDiversified,Real Estate
-490,Scapa Group plc,"(March 13, 2021)",United Kingdom,Specialty Chemicals,Basic Materials
+"490,Scapa Group plc,""(March 13, 2021)"",United Kingdom,Specialty Chemicals,Basic Materials"
 491,North American Income Trust (The) plc,$566.7 M,United Kingdom,Asset Management,Financials
 492,European Assets Trust plc,$564.2 M,United Kingdom,Asset Management,Financials
 493,KNOT Offshore Partners LP,$562.5 M,United Kingdom,Marine Shipping,Industrials
-494,BH Global Limited,"(March 13, 2021)",United Kingdom,Asset Management,Financials
+"494,BH Global Limited,""(March 13, 2021)"",United Kingdom,Asset Management,Financials"
 495,JPMorgan Claverhouse Investment Trust plc,$560.9 M,United Kingdom,Asset Management,Financials
 496,Aberdeen Global Premier Properties Fund,$560.6 M,United Kingdom,Asset Management,Financials
 497,Custodian REIT Ord,$559.0 M,United Kingdom,REITDiversified,Real Estate
-498,Oxford Immunotec Global PLC,"(Feb. 18, 2021)",United Kingdom,Diagnostics & Research,Healthcare
+"498,Oxford Immunotec Global PLC,""(Feb. 18, 2021)"",United Kingdom,Diagnostics & Research,Healthcare"
 499,AO World plc,$556.1 M,United Kingdom,Internet Retail,Consumer Discretionary
 500,Henry Boot plc,$555.3 M,United Kingdom,Real EstateDiversified,Real Estate
 501,CoinShares International Ltd,$551.8 M,United Kingdom,Capital Markets,Financials
@@ -516,13 +516,13 @@
 514,Octopus Renewables Infrastructure Trust plc,$523.1 M,United Kingdom,Asset Management,Financials
 515,LSL Property Services plc,$515.7 M,United Kingdom,Real Estate Services,Real Estate
 516,Hollywood Bowl Group plc,$514.5 M,United Kingdom,Leisure,Consumer Discretionary
-517,Urovant Sciences Ltd.,"(Feb. 18, 2021)",United Kingdom,Biotechnology,Healthcare
+"517,Urovant Sciences Ltd.,""(Feb. 18, 2021)"",United Kingdom,Biotechnology,Healthcare"
 518,Diverse Income Trust,$511.9 M,United Kingdom,Asset Management,Financials
 519,Panariagroup Industrie Ceramiche SpA,$510.1 M,United Kingdom,SoftwareInfrastructure,Technology
 520,Baillie Gifford European Growth Trust plc,$508.2 M,United Kingdom,Asset Management,Financials
 521,Anglo Pacific Group plc,$503.9 M,United Kingdom,Coking Coal,Basic Materials
 522,Kier Group plc,$499.2 M,United Kingdom,Engineering & Construction,Industrials
-523,Investindustrial Acquisition Corp.,"(Dec. 1, 2021)",United Kingdom,Shell Companies,Financials
+"523,Investindustrial Acquisition Corp.,""(Dec. 1, 2021)"",United Kingdom,Shell Companies,Financials"
 524,Pacific Assets Trust,$498.8 M,United Kingdom,Asset Management,Financials
 525,Regional REIT Ltd,$498.8 M,United Kingdom,REITDiversified,Real Estate
 526,On the Beach Group plc,$497.1 M,United Kingdom,Travel Services,Consumer Discretionary
@@ -539,7 +539,7 @@
 537,Petrofac Limited,$472.4 M,United Kingdom,Oil & Gas Equipment & Services,Energy
 538,Henderson European Focus Trust plc,$471.2 M,United Kingdom,Asset Management,Financials
 539,Bloomsbury Publishing plc,$470.9 M,United Kingdom,Publishing,Communication Services
-540,"Fuller, Smith & Turner plc",$470.1 M,United Kingdom,Restaurants,Consumer Discretionary
+"540,""Fuller, Smith & Turner plc"",$470.1 M,United Kingdom,Restaurants,Consumer Discretionary"
 541,Real Estate Credit Investments Limited,$470.1 M,United Kingdom,Asset Management,Financials
 542,Pendragon plc,$468.4 M,United Kingdom,Auto & Truck Dealerships,Consumer Discretionary
 543,Lowland Investment Company plc,$464.9 M,United Kingdom,Asset Management,Financials
@@ -559,12 +559,12 @@
 557,Jubilee Metals Group plc,$445.2 M,United Kingdom,Other Industrial Metals & Mining,Basic Materials
 558,Eurasia Mining plc,$440.4 M,United Kingdom,Other Precious Metals & Mining,Basic Materials
 559,Triple Point Social Housing Reit plc,$439.8 M,United Kingdom,REITDiversified,Real Estate
-560,S&U plc,"(Jan. 1, 2022)",United Kingdom,Credit Services,Financials
+"560,S&U plc,""(Jan. 1, 2022)"",United Kingdom,Credit Services,Financials"
 561,Saga plc,$434.4 M,United Kingdom,InsuranceDiversified,Financials
 562,Fidelity Asian Values plc,$433.7 M,United Kingdom,Asset Management,Financials
 563,Aberdeen New India Investment Trust plc,$433.6 M,United Kingdom,Asset Management,Financials
 564,Aberdeen Diversified Income And Growth Trust plc,$428.2 M,United Kingdom,Asset Management,Financials
-565,Headlam Group plc,$428.1 M,United Kingdom,"Furnishings, Fixtures & Appliances",Consumer Discretionary
+"565,Headlam Group plc,$428.1 M,United Kingdom,""Furnishings, Fixtures & Appliances"",Consumer Discretionary"
 566,Benchmark Holdings plc,$427.1 M,United Kingdom,Drug ManufacturersSpecialty & Generic,Healthcare
 567,Elixirr International plc,$424.0 M,United Kingdom,Consulting Services,Industrials
 568,Aberdeen New Dawn Investment Trust plc,$421.3 M,United Kingdom,Asset Management,Financials
@@ -590,28 +590,28 @@
 588,VH Global Sustainable Energy Opportunities plc,$378.8 M,United Kingdom,Asset Management,Financials
 589,CentralNic Group plc,$377.9 M,United Kingdom,Internet Content & Information,Communication Services
 590,Schroder Real Estate Investment Trust Limited,$377.6 M,United Kingdom,REITDiversified,Real Estate
-591,London Security plc,"(March 13, 2021)",United Kingdom,Security & Protection Services,Industrials
+"591,London Security plc,""(March 13, 2021)"",United Kingdom,Security & Protection Services,Industrials"
 592,Funding Circle Holdings plc,$373.9 M,United Kingdom,Credit Services,Financials
 593,Tracsis plc,$373.8 M,United Kingdom,SoftwareApplication,Technology
-594,Amryt Pharma plc,"(Jan. 1, 2022)",United Kingdom,Drug ManufacturersSpecialty & Generic,Healthcare
+"594,Amryt Pharma plc,""(Jan. 1, 2022)"",United Kingdom,Drug ManufacturersSpecialty & Generic,Healthcare"
 595,Baillie Gifford UK Growth,$372.5 M,United Kingdom,Asset Management,Financials
-596,Broadstone Acquisition Corp,"(Dec. 1, 2021)",United Kingdom,Shell Companies,Financials
+"596,Broadstone Acquisition Corp,""(Dec. 1, 2021)"",United Kingdom,Shell Companies,Financials"
 597,Speedy Hire plc,$368.9 M,United Kingdom,Specialty Business Services,Industrials
 598,IDOX plc,$368.2 M,United Kingdom,SoftwareApplication,Technology
 599,Accsys Technologies plc,$367.8 M,United Kingdom,Lumber & Wood Production,Basic Materials
-600,Premier Oil plc,"(March 13, 2021)",United Kingdom,Oil & Gas E&P,Energy
+"600,Premier Oil plc,""(March 13, 2021)"",United Kingdom,Oil & Gas E&P,Energy"
 601,Brickability Group plc,$365.0 M,United Kingdom,Industrial Distribution,Industrials
 602,Argo Blockchain plc,$362.5 M,United Kingdom,Capital Markets,Financials
-603,Charles Stanley Group plc,"(Jan. 1, 2022)",United Kingdom,Asset Management,Financials
-604,Centricus Acquisition Corp,"(Nov. 1, 2021)",United Kingdom,Shell Companies,Financials
+"603,Charles Stanley Group plc,""(Jan. 1, 2022)"",United Kingdom,Asset Management,Financials"
+"604,Centricus Acquisition Corp,""(Nov. 1, 2021)"",United Kingdom,Shell Companies,Financials"
 605,NewRiver REIT plc,$359.7 M,United Kingdom,REITRetail,Real Estate
 606,McKay Securities plc,$358.6 M,United Kingdom,REITDiversified,Real Estate
 607,Numis Corporation plc,$358.4 M,United Kingdom,Capital Markets,Financials
-608,Bacanora Lithium plc,"(Jan. 1, 2022)",United Kingdom,Other Industrial Metals & Mining,Basic Materials
+"608,Bacanora Lithium plc,""(Jan. 1, 2022)"",United Kingdom,Other Industrial Metals & Mining,Basic Materials"
 609,Photo-Me International plc,$355.9 M,United Kingdom,Leisure,Consumer Discretionary
 610,XPS Pensions Group plc,$352.9 M,United Kingdom,Personal Services,Consumer Discretionary
-611,Telit Communications plc,"(March 13, 2021)",United Kingdom,Communication Equipment,Technology
-612,"Aberdeen Emerging Markets Equity Income Fund, Inc.",$350.0 M,United Kingdom,Asset Management,Financials
+"611,Telit Communications plc,""(March 13, 2021)"",United Kingdom,Communication Equipment,Technology"
+"612,""Aberdeen Emerging Markets Equity Income Fund, Inc."",$350.0 M,United Kingdom,Asset Management,Financials"
 613,Tatton Asset Management plc,$347.2 M,United Kingdom,Asset Management,Financials
 614,IQE plc,$346.8 M,United Kingdom,Semiconductor Equipment & Materials,Technology
 615,International Biotechnology Trust,$346.3 M,United Kingdom,Asset Management,Financials
@@ -626,7 +626,7 @@
 624,Gooch & Housego plc,$336.4 M,United Kingdom,Electronic Components,Technology
 625,BlackRock Frontiers Investment Trust plc,$336.3 M,United Kingdom,Asset Management,Financials
 626,JPMorgan Smaller Companies Investment Trust plc,$336.1 M,United Kingdom,Asset Management,Financials
-627,Schroder Japan Growth Fund plc,"(March 13, 2021)",United Kingdom,Asset Management,Financials
+"627,Schroder Japan Growth Fund plc,""(March 13, 2021)"",United Kingdom,Asset Management,Financials"
 628,City of London Investment Group plc,$335.0 M,United Kingdom,Asset Management,Financials
 629,Horizonte Minerals plc,$333.4 M,United Kingdom,Other Industrial Metals & Mining,Basic Materials
 630,JPMorgan US Smaller Co. Inv Tst plc,$332.9 M,United Kingdom,Asset Management,Financials
@@ -653,10 +653,10 @@
 651,Proton Motor Power Systems plc,$305.4 M,United Kingdom,Electrical Equipment & Parts,Industrials
 652,Vertu Motors plc,$304.3 M,United Kingdom,Auto & Truck Dealerships,Consumer Discretionary
 653,Securities Trust of Scotland plc,$304.1 M,United Kingdom,Asset Management,Financials
-654,AA plc,"(March 13, 2021)",United Kingdom,Personal Services,Consumer Discretionary
+"654,AA plc,""(March 13, 2021)"",United Kingdom,Personal Services,Consumer Discretionary"
 655,Wilmington plc,$302.2 M,United Kingdom,Conglomerates,Industrials
 656,River and Mercantile Group plc,$300.5 M,United Kingdom,Asset Management,Financials
-657,Augean plc,"(March 13, 2021)",United Kingdom,Waste Management,Industrials
+"657,Augean plc,""(March 13, 2021)"",United Kingdom,Waste Management,Industrials"
 658,Ted Baker plc,$294.4 M,United Kingdom,Apparel Retail,Consumer Discretionary
 659,Augmentum Fintech plc,$292.5 M,United Kingdom,Asset Management,Financials
 660,Gemfields Group Limited,$291.7 M,United Kingdom,Other Precious Metals & Mining,Basic Materials
@@ -668,19 +668,19 @@
 666,Lindsell Train Investment Trust,$286.5 M,United Kingdom,Asset Management,Financials
 667,Petra Diamonds Limited,$285.6 M,United Kingdom,Other Precious Metals & Mining,Basic Materials
 668,Schroder UK Public Private Trust plc,$285.5 M,United Kingdom,Asset Management,Financials
-669,Tiziana Life Sciences plc,"(March 13, 2021)",United Kingdom,Biotechnology,Healthcare
+"669,Tiziana Life Sciences plc,""(March 13, 2021)"",United Kingdom,Biotechnology,Healthcare"
 670,Ecofin Global Utilities & Infrastructure Trust plc,$284.3 M,United Kingdom,Asset Management,Financials
 671,NB Global Monthly Income Fund Ltd GBP,$281.1 M,United Kingdom,Asset Management,Financials
 672,Keystone Law Group plc,$276.8 M,United Kingdom,Personal Services,Consumer Discretionary
 673,Schroder Income Growth Fund plc,$276.8 M,United Kingdom,Asset Management,Financials
 674,EKF Diagnostics Holdings plc,$275.4 M,United Kingdom,Diagnostics & Research,Healthcare
-675,AFH Financial Group plc,"(March 13, 2021)",United Kingdom,Asset Management,Financials
+"675,AFH Financial Group plc,""(March 13, 2021)"",United Kingdom,Asset Management,Financials"
 676,Redx Pharma plc,$274.0 M,United Kingdom,Biotechnology,Healthcare
 677,CC Japan Income & Growth Trust plc,$272.8 M,United Kingdom,Asset Management,Financials
 678,Montanaro UK Smaller Companies Trust,$272.1 M,United Kingdom,Asset Management,Financials
 679,Xaar plc,$271.7 M,United Kingdom,Electronic Components,Technology
 680,Galliford Try Holdings plc,$267.5 M,United Kingdom,Engineering & Construction,Industrials
-681,City Merchants High Yield Trust Limited,"(March 13, 2021)",United Kingdom,Asset Management,Financials
+"681,City Merchants High Yield Trust Limited,""(March 13, 2021)"",United Kingdom,Asset Management,Financials"
 682,Severfield plc,$266.2 M,United Kingdom,Engineering & Construction,Industrials
 683,JPMorgan Japan Small Cap Growth & Income plc,$265.8 M,United Kingdom,Asset Management,Financials
 684,Hargreave Hale AIM VCT plc,$265.7 M,United Kingdom,Asset Management,Financials
@@ -695,10 +695,10 @@
 693,Animalcare Group plc,$260.5 M,United Kingdom,Medical Care Facilities,Healthcare
 694,Andrews Sykes Group plc,$258.3 M,United Kingdom,Rental & Leasing Services,Industrials
 695,Cohort plc,$257.4 M,United Kingdom,Aerospace & Defense,Industrials
-696,The SimplyBiz Group plc,"(March 13, 2021)",United Kingdom,Consulting Services,Industrials
+"696,The SimplyBiz Group plc,""(March 13, 2021)"",United Kingdom,Consulting Services,Industrials"
 697,AEW UK REIT Ord,$253.7 M,United Kingdom,REITDiversified,Real Estate
 698,Hargreaves Services plc,$253.1 M,United Kingdom,Integrated Freight & Logistics,Industrials
-699,U and I Group plc,"(Dec. 1, 2021)",United Kingdom,Real EstateDiversified,Real Estate
+"699,U and I Group plc,""(Dec. 1, 2021)"",United Kingdom,Real EstateDiversified,Real Estate"
 700,Renalytix AI plc,$249.6 M,United Kingdom,Diagnostics & Research,Healthcare
 701,Impellam Group plc,$248.4 M,United Kingdom,Staffing & Employment Services,Industrials
 702,Hyve Group plc,$247.5 M,United Kingdom,Specialty Business Services,Industrials
@@ -735,10 +735,10 @@
 733,Pantheon International plc,$224.5 M,United Kingdom,Asset Management,Financials
 734,Ediston Property Investment Company plc,$223.1 M,United Kingdom,REITDiversified,Real Estate
 735,Bioventix plc,$222.6 M,United Kingdom,Biotechnology,Healthcare
-736,Jersey Electricity plc,"(March 13, 2021)",United Kingdom,UtilitiesRegulated Electric,Utilities
+"736,Jersey Electricity plc,""(March 13, 2021)"",United Kingdom,UtilitiesRegulated Electric,Utilities"
 737,Time Out Group plc,$220.5 M,United Kingdom,Entertainment,Communication Services
 738,James Fisher and Sons plc,$220.3 M,United Kingdom,Specialty Business Services,Industrials
-739,Zoetic International plc,"(March 13, 2021)",United Kingdom,Drug ManufacturersSpecialty & Generic,Healthcare
+"739,Zoetic International plc,""(March 13, 2021)"",United Kingdom,Drug ManufacturersSpecialty & Generic,Healthcare"
 740,Camellia plc,$217.4 M,United Kingdom,Farm Products,Consumer Staples
 741,Blancco Technology Group plc,$217.4 M,United Kingdom,SoftwareInfrastructure,Technology
 742,Instem plc,$216.7 M,United Kingdom,Health Information Services,Healthcare
@@ -747,31 +747,31 @@
 745,Petropavlovsk plc,$212.6 M,United Kingdom,Gold,Basic Materials
 746,Pensana plc,$212.0 M,United Kingdom,Other Industrial Metals & Mining,Basic Materials
 747,First Trust Dynamic Europe Equity Income Fund,$211.0 M,United Kingdom,Asset Management,Financials
-748,Invesco Income Growth Trust plc,"(March 13, 2021)",United Kingdom,Asset Management,Financials
+"748,Invesco Income Growth Trust plc,""(March 13, 2021)"",United Kingdom,Asset Management,Financials"
 749,BMO Managed Portfolio Trust plc,$210.7 M,United Kingdom,Asset Management,Financials
 750,Anexo Group plc,$206.3 M,United Kingdom,Rental & Leasing Services,Industrials
 751,Tristel plc,$206.2 M,United Kingdom,Medical Instruments & Supplies,Healthcare
 752,Inspired Plc,$206.0 M,United Kingdom,Specialty Business Services,Industrials
 753,Trifast plc,$205.2 M,United Kingdom,Tools & Accessories,Industrials
 754,Card Factory plc,$204.6 M,United Kingdom,Specialty Retail,Consumer Discretionary
-755,Churchill China plc,$203.8 M,United Kingdom,"Furnishings, Fixtures & Appliances",Consumer Discretionary
-756,Jupiter US Smaller Companies plc,"(March 13, 2021)",United Kingdom,Asset Management,Financials
+"755,Churchill China plc,$203.8 M,United Kingdom,""Furnishings, Fixtures & Appliances"",Consumer Discretionary"
+"756,Jupiter US Smaller Companies plc,""(March 13, 2021)"",United Kingdom,Asset Management,Financials"
 757,Arix Bioscience plc,$203.6 M,United Kingdom,Biotechnology,Healthcare
 758,Zotefoams plc,$202.0 M,United Kingdom,Specialty Chemicals,Basic Materials
 759,Metro Bank plc,$200.7 M,United Kingdom,Banks,Financials
-760,Nucleus Financial Group plc,"(March 13, 2021)",United Kingdom,Asset Management,Financials
+"760,Nucleus Financial Group plc,""(March 13, 2021)"",United Kingdom,Asset Management,Financials"
 761,Fonix Mobile plc,$200.6 M,United Kingdom,Information Technology Services,Technology
 762,Schroder European Real Estate Investment Trust plc,$200.5 M,United Kingdom,REITDiversified,Real Estate
 763,AVI Japan Opportunity Trust plc,$199.7 M,United Kingdom,Asset Management,Financials
 764,Springfield Properties plc,$199.7 M,United Kingdom,Residential Construction,Consumer Discretionary
 765,Novacyt SA,$198.2 M,United Kingdom,Diagnostics & Research,Healthcare
-766,Gabelli Value Plus+ Trust plc,"(March 13, 2021)",United Kingdom,Asset Management,Financials
+"766,Gabelli Value Plus+ Trust plc,""(March 13, 2021)"",United Kingdom,Asset Management,Financials"
 767,Avingtrans plc,$196.9 M,United Kingdom,Specialty Industrial Machinery,Industrials
-768,Sigma Capital Group plc,"(March 13, 2021)",United Kingdom,REITResidential,Real Estate
+"768,Sigma Capital Group plc,""(March 13, 2021)"",United Kingdom,REITResidential,Real Estate"
 769,Middlefield Canadian Income PCC,$193.3 M,United Kingdom,Asset Management,Financials
 770,Circassia Group plc,$192.8 M,United Kingdom,Biotechnology,Healthcare
 771,Henderson Diversified Income Trust plc,$191.2 M,United Kingdom,Asset Management,Financials
-772,Studio Retail Group plc,"(Jan. 1, 2022)",United Kingdom,Specialty Retail,Consumer Discretionary
+"772,Studio Retail Group plc,""(Jan. 1, 2022)"",United Kingdom,Specialty Retail,Consumer Discretionary"
 773,Foxtons Group plc,$190.6 M,United Kingdom,Real Estate Services,Real Estate
 774,BlackRock Energy and Resources Income Trust plc,$190.3 M,United Kingdom,Asset Management,Financials
 775,Venator Materials PLC,$190.2 M,United Kingdom,Specialty Chemicals,Basic Materials
@@ -779,8 +779,8 @@
 777,Chenavari Toro Income Fund Ltd,$188.2 M,United Kingdom,Asset Management,Financials
 778,Keystone Positive Change Investment Trust plc,$188.1 M,United Kingdom,Asset Management,Financials
 779,STV Group plc,$188.0 M,United Kingdom,Broadcasting,Communication Services
-780,BlackRock North American Income Trust plc,"(March 13, 2021)",United Kingdom,Asset Management,Financials
-781,ProVen VCT plc,"(Jan. 1, 2022)",United Kingdom,Asset Management,Financials
+"780,BlackRock North American Income Trust plc,""(March 13, 2021)"",United Kingdom,Asset Management,Financials"
+"781,ProVen VCT plc,""(Jan. 1, 2022)"",United Kingdom,Asset Management,Financials"
 782,Arbuthnot Banking Group plc,$186.9 M,United Kingdom,Banks,Financials
 783,M&G Credit Income Investment Trust plc,$186.8 M,United Kingdom,Asset Management,Financials
 784,Franchise Brands plc,$186.5 M,United Kingdom,Specialty Business Services,Industrials
@@ -790,7 +790,7 @@
 788,Aberforth Split Level Income Trust plc,$182.1 M,United Kingdom,Asset Management,Financials
 789,N Brown Group plc,$180.7 M,United Kingdom,Internet Retail,Consumer Discretionary
 790,Carr's Group plc,$180.0 M,United Kingdom,Farm Products,Consumer Staples
-791,Countrywide plc,"(March 13, 2021)",United Kingdom,Real Estate Services,Real Estate
+"791,Countrywide plc,""(March 13, 2021)"",United Kingdom,Real Estate Services,Real Estate"
 792,Access Intelligence plc,$179.9 M,United Kingdom,SoftwareApplication,Technology
 793,Caledonia Mining Corporation plc,$179.0 M,United Kingdom,Gold,Basic Materials
 794,H&T Group plc,$176.4 M,United Kingdom,Credit Services,Financials
@@ -805,7 +805,7 @@
 803,Sureserve Group plc,$167.4 M,United Kingdom,Engineering & Construction,Industrials
 804,Record plc,$166.8 M,United Kingdom,Asset Management,Financials
 805,Trident Royalties plc,$166.8 M,United Kingdom,Other Industrial Metals & Mining,Basic Materials
-806,"Alterola Biotech, Inc.",$165.9 M,United Kingdom,Drug ManufacturersSpecialty & Generic,Healthcare
+"806,""Alterola Biotech, Inc."",$165.9 M,United Kingdom,Drug ManufacturersSpecialty & Generic,Healthcare"
 807,Anpario plc,$165.7 M,United Kingdom,Packaged Foods,Consumer Staples
 808,Gresham Technologies plc,$165.4 M,United Kingdom,SoftwareApplication,Technology
 809,Shepherd Neame Ltd,$164.3 M,United Kingdom,BeveragesBrewers,Consumer Staples
@@ -814,7 +814,7 @@
 812,Wynnstay Group plc,$160.1 M,United Kingdom,Agricultural Inputs,Basic Materials
 813,e-therapeutics plc,$160.0 M,United Kingdom,Biotechnology,Healthcare
 814,Pharos Energy plc,$159.9 M,United Kingdom,Oil & Gas E&P,Energy
-815,Amino Technologies plc,"(March 13, 2021)",United Kingdom,Communication Equipment,Technology
+"815,Amino Technologies plc,""(March 13, 2021)"",United Kingdom,Communication Equipment,Technology"
 816,Epwin Group plc,$157.5 M,United Kingdom,Building Products & Equipment,Industrials
 817,Palace Capital plc,$157.4 M,United Kingdom,Real Estate Services,Real Estate
 818,RM plc,$156.6 M,United Kingdom,SoftwareApplication,Technology
@@ -842,7 +842,7 @@
 840,HSS Hire Group plc,$143.7 M,United Kingdom,Rental & Leasing Services,Industrials
 841,PowerHouse Energy Group plc,$143.5 M,United Kingdom,UtilitiesRenewable,Utilities
 842,Michelmersh Brick Holdings plc,$143.0 M,United Kingdom,Building Materials,Basic Materials
-843,Sanderson Design Group plc,$142.4 M,United Kingdom,"Furnishings, Fixtures & Appliances",Consumer Discretionary
+"843,Sanderson Design Group plc,$142.4 M,United Kingdom,""Furnishings, Fixtures & Appliances"",Consumer Discretionary"
 844,Arecor Therapeutics plc,$142.4 M,United Kingdom,Biotechnology,Healthcare
 845,Amedeo Air Four Plus Ltd,$141.7 M,United Kingdom,Aerospace & Defense,Industrials
 846,Costain Group plc,$141.2 M,United Kingdom,Engineering & Construction,Industrials
@@ -856,7 +856,7 @@
 854,Kropz plc,$138.8 M,United Kingdom,Agricultural Inputs,Basic Materials
 855,Surface Transforms plc,$137.7 M,United Kingdom,Auto Parts,Consumer Discretionary
 856,Warrego Energy Limited,$137.6 M,United Kingdom,Oil & Gas E&P,Energy
-857,Walker Greenbank PLC,$137.0 M,United Kingdom,"Furnishings, Fixtures & Appliances",Consumer Discretionary
+"857,Walker Greenbank PLC,$137.0 M,United Kingdom,""Furnishings, Fixtures & Appliances"",Consumer Discretionary"
 858,Manolete Partners plc,$136.7 M,United Kingdom,Consulting Services,Industrials
 859,Inland Homes plc,$136.4 M,United Kingdom,Real EstateDevelopment,Real Estate
 860,Northern 3 VCT PLC,$135.9 M,United Kingdom,Asset Management,Financials
@@ -873,13 +873,13 @@
 871,Kitwave Group plc,$127.6 M,United Kingdom,Food Distribution,Consumer Staples
 872,Staffline Group plc,$127.3 M,United Kingdom,Staffing & Employment Services,Industrials
 873,Bluejay Mining plc,$126.5 M,United Kingdom,Other Industrial Metals & Mining,Basic Materials
-874,PetroNor E&P Ltd,"(Jan. 1, 2022)",United Kingdom,Oil & Gas E&P,Energy
+"874,PetroNor E&P Ltd,""(Jan. 1, 2022)"",United Kingdom,Oil & Gas E&P,Energy"
 875,The Fulham Shore plc,$124.1 M,United Kingdom,Restaurants,Consumer Discretionary
 876,Open Orphan plc,$123.9 M,United Kingdom,Biotechnology,Healthcare
 877,Dianomi plc,$123.9 M,United Kingdom,Advertising Agencies,Communication Services
 878,Albion Enterprise VCT Plc,$123.5 M,United Kingdom,Asset Management,Financials
 879,New Star Investment Trust Plc,$123.4 M,United Kingdom,Asset Management,Financials
-880,Logistics Development Group plc,"(Jan. 1, 2022)",United Kingdom,Integrated Freight & Logistics,Industrials
+"880,Logistics Development Group plc,""(Jan. 1, 2022)"",United Kingdom,Integrated Freight & Logistics,Industrials"
 881,Quixant plc,$123.0 M,United Kingdom,Computer Hardware,Technology
 882,Belvoir Group plc,$122.9 M,United Kingdom,Real Estate Services,Real Estate
 883,Albion Development VCT PLC,$122.7 M,United Kingdom,Asset Management,Financials
@@ -897,7 +897,7 @@
 895,The Conygar Investment Company plc,$115.8 M,United Kingdom,Real EstateDiversified,Real Estate
 896,Flowtech Fluidpower plc,$114.3 M,United Kingdom,Industrial Distribution,Industrials
 897,Triple Point Energy Efficiency Infrastructure Company plc,$114.2 M,United Kingdom,Asset Management,Financials
-898,Trans-Siberian Gold plc,"(March 13, 2021)",United Kingdom,Gold,Basic Materials
+"898,Trans-Siberian Gold plc,""(March 13, 2021)"",United Kingdom,Gold,Basic Materials"
 899,Ferro-Alloy Resources Limited,$113.5 M,United Kingdom,Other Industrial Metals & Mining,Basic Materials
 900,AfriTin Mining Limited,$113.5 M,United Kingdom,Other Industrial Metals & Mining,Basic Materials
 901,Geiger Counter Ltd,$113.4 M,United Kingdom,Asset Management,Financials
@@ -914,7 +914,7 @@
 912,Gaming Realms plc,$109.3 M,United Kingdom,Gambling,Consumer Discretionary
 913,Netcall plc,$108.7 M,United Kingdom,SoftwareApplication,Technology
 914,Invinity Energy Systems plc,$108.5 M,United Kingdom,UtilitiesDiversified,Utilities
-915,Portmeirion Group plc,$108.2 M,United Kingdom,"Furnishings, Fixtures & Appliances",Consumer Discretionary
+"915,Portmeirion Group plc,$108.2 M,United Kingdom,""Furnishings, Fixtures & Appliances"",Consumer Discretionary"
 916,Distribution Finance Capital Holdings plc,$108.2 M,United Kingdom,Credit Services,Financials
 917,Velocys plc,$107.6 M,United Kingdom,Oil & Gas Equipment & Services,Energy
 918,4D pharma plc,$107.0 M,United Kingdom,Biotechnology,Healthcare
@@ -923,7 +923,7 @@
 921,Frenkel Topping Group plc,$105.7 M,United Kingdom,Asset Management,Financials
 922,Argentex Group plc,$105.7 M,United Kingdom,Capital Markets,Financials
 923,Town Centre Securities plc,$105.2 M,United Kingdom,REITDiversified,Real Estate
-924,KKV Secured Loan Fund Limited,"(Jan. 1, 2022)",United Kingdom,Asset Management,Financials
+"924,KKV Secured Loan Fund Limited,""(Jan. 1, 2022)"",United Kingdom,Asset Management,Financials"
 925,Cake Box Holdings plc,$104.9 M,United Kingdom,Grocery Stores,Consumer Staples
 926,Meridian Mining S.E.,$104.4 M,United Kingdom,Other Industrial Metals & Mining,Basic Materials
 927,Air Partner plc,$104.2 M,United Kingdom,Airports & Air Services,Industrials
@@ -951,11 +951,11 @@
 949,McBride plc,$94.8 M,United Kingdom,Household & Personal Products,Consumer Staples
 950,Trinity Exploration & Production plc,$93.2 M,United Kingdom,Oil & Gas E&P,Energy
 951,Braemar Shipping Services plc,$93.2 M,United Kingdom,Marine Shipping,Industrials
-952,Arena Events Group plc,"(Jan. 1, 2022)",United Kingdom,Advertising Agencies,Communication Services
+"952,Arena Events Group plc,""(Jan. 1, 2022)"",United Kingdom,Advertising Agencies,Communication Services"
 953,Geodrill Limited,$92.3 M,United Kingdom,Other Industrial Metals & Mining,Basic Materials
 954,OnTheMarket plc,$91.8 M,United Kingdom,Internet Content & Information,Communication Services
 955,Shoe Zone plc,$91.6 M,United Kingdom,Footwear & Accessories,Consumer Discretionary
 956,Real Estate Investors plc,$91.5 M,United Kingdom,REITDiversified,Real Estate
 957,Futura Medical plc,$91.5 M,United Kingdom,Biotechnology,Healthcare
-958,Bespoke Capital Acquisition Corp.,"(April 5, 2021)",United Kingdom,Shell Companies,Financials
+"958,Bespoke Capital Acquisition Corp.,""(April 5, 2021)"",United Kingdom,Shell Companies,Financials"
 959,IG Design Group plc,$90.6 M,United Kingdom,Specialty Retail,Consumer Discretionary

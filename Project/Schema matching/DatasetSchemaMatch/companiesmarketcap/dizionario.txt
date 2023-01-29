@@ -1,0 +1,15 @@
+{ 
+            "categories":["categories"],
+            "change_1_day":['change1d','change_1_day','change_1day'],
+            "change_1_year":['change1y','change_1_year','change_1year'],
+            "company_code":['code','codice','company_code','symbol'],
+            "country":['country'],
+            "earnings":['earnings'],
+            "employees":['employees'],
+            "market_cap":['market_cap','market_capitalization_usd','marketcap','master_cap','pricecap'],
+            "name":['name'],
+            'share_price':['price','share_price','shareprice'],
+            "revenue":['revenue'],
+            "shares":['shares']
+
+        }

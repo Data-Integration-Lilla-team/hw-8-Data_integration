@@ -1,4 +1,4 @@
-,name,country,sector,revenue_2020_EU,revenue_2017_EU,employees_number_2020,employees_number_2017,founding_year
+,name,country,sector,revenue_2020_eu,revenue_2017_eu,employees_number_2020,employees_number_2017,founding_year
 0,Swappie,Finland,Technology,97611814,507000,218,1,2016
 1,Kilo Health,Lithuania,Health,57318766,344428,177,10,2013
 2,OCI,UK,Financial Services,568322073,4325512,32,4,2012
@@ -444,7 +444,7 @@
 442,S.T.A.R. Digital,Croatia,Advertising,3211868,699907,8,10,2013
 443,Funding Options,UK,Fintech,5922043,1297717,62,29,2011
 444,Isimed,Italy,Health,4828920,1050660,14,8,2014
-445,"Sonar, SonarQube, SonarCloud, SonarLint",Switzerland,Technology,83632640,16861349,195,50,2008
+"445,""Sonar, SonarQube, SonarCloud, SonarLint"",Switzerland,Technology,83632640,16861349,195,50,2008"
 446,Scherer,Germany,Support Services,4285766,934994,30,4,2016
 447,Mycroclean Italia,Italy,Support Services,3366730,736000,24,14,2002
 448,Piscor,Italy,Ecommerce,4842410,1061360,16,8,2015
@@ -605,7 +605,7 @@
 603,COUTEAUJAPONAIS.COM,France,Retail,4579102,1272558,17,5,2004
 604,PHYSIDIA,France,Health,16746545,4656191,58,20,2010
 605,Horando Deutschland,Germany,Retail,8111269,2257390,3,2,2013
-606,"Diablochairs, Jan Nowak",Poland,Ecommerce,21520495,6549376,79,22,2004
+"606,""Diablochairs, Jan Nowak"",Poland,Ecommerce,21520495,6549376,79,22,2004"
 607,Parkster,Sweden,Technology,55139984,15711602,28,16,2011
 608,BIOTYFULL,France,Ecommerce,20248436,5642145,13,5,2015
 609,Bioksan,Spain,Food & Beverage,5914732,1650756,51,14,2014
