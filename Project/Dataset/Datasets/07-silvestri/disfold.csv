@@ -1,0 +1,1001 @@
+name,country,market_value_apr_2022,sector,stock
+Apple Inc.,united states,$2.825 T,technology,AAPL
+Microsoft Corporation,united states,$2.328 T,technology,MSFT
+Saudi Arabian Oil Company,saudi arabia,$2.297 T,energy,2222
+Alphabet Inc.,united states,$1.825 T,communication services,GOOG
+"Amazon.com, Inc.",united states,$1.642 T,consumer discretionary,AMZN
+"Tesla, Inc.",united states,$1.016 T,consumer discretionary,TSLA
+Berkshire Hathaway Inc.,united states,$798.47 B,financials,BRK.A
+Nvidia Corporation,united states,$660.38 B,technology,NVDA
+"Meta Platforms, Inc.",united states,$617.50 B,communication services,META
+Taiwan Semiconductor Manufacturing Company Limited,taiwan,$527.89 B,technology,2330
+UnitedHealth Group Incorporated,united states,$488.52 B,healthcare,UNH
+Visa Inc.,united states,$486.77 B,financials,V
+Johnson & Johnson,united states,$475.93 B,healthcare,JNJ
+Tencent Holdings Ltd,china,$441.17 B,communication services,700
+Walmart Inc.,united states,$429.05 B,consumer staples,WMT
+JPMorgan Chase & Co.,united states,$410.84 B,financials,JPM
+The Procter & Gamble Company,united states,$384.60 B,consumer staples,PG
+"Samsung Electronics Co., Ltd.",south korea,$378.35 B,technology,5930
+"LVMH Moët Hennessy - Louis Vuitton, SE",france,$359.26 B,consumer discretionary,MC
+Mastercard Incorporated,united states,$358.60 B,financials,MA
+Bank of America Corporation,united states,$350.84 B,financials,BAC
+Roche Holding AG,switzerland,$349.50 B,healthcare,ROG
+Exxon Mobil Corporation,united states,$348.72 B,energy,XOM
+Kweichow Moutai Co. Ltd,china,$348.22 B,consumer staples,600519
+"The Home Depot, Inc.",united states,$321.47 B,consumer discretionary,HD
+Chevron Corporation,united states,$315.13 B,energy,CVX
+Pfizer Inc.,united states,$300.79 B,healthcare,PFE
+AbbVie Inc.,united states,$294.27 B,healthcare,ABBV
+Alibaba Group Holding Limited,china,$290.40 B,consumer discretionary,9988
+ASML Holding N.V.,netherlands,$274.35 B,technology,ASML
+The Coca-Cola Company,united states,$273.20 B,consumer staples,KO
+Eli Lilly and Company,united states,$273.01 B,healthcare,LLY
+Broadcom Inc.,united states,$265.27 B,technology,AVGO
+Costco Wholesale Corporation,united states,$258.15 B,consumer staples,COST
+Novo Nordisk A/S,denmark,$257.24 B,healthcare,NOVO.B
+Industrial & Commercial Bank of China Ltd,china,$250.37 B,financials,601398
+The Walt Disney Company,united states,$247.88 B,communication services,DIS
+"PepsiCo, Inc.",united states,$241.05 B,consumer staples,PEP
+"Cisco Systems, Inc.",united states,$238.45 B,technology,CSCO
+Thermo Fisher Scientific Inc.,united states,$236.15 B,healthcare,TMO
+Oracle Corporation,united states,$228.18 B,technology,ORCL
+L'Oréal SA,france,$225.24 B,consumer staples,OR
+Accenture plc,ireland,$219.03 B,technology,ACN
+Comcast Corporation,united states,$218.90 B,communication services,CMCSA
+Verizon Communications Inc.,united states,$216.68 B,communication services,VZ
+Abbott Laboratories,united states,$215.02 B,healthcare,ABT
+"Nike, Inc.",united states,$213.60 B,consumer discretionary,NKE
+BHP Group,australia,$211.25 B,basic materials,BHP
+"Merck & Co., Inc.",united states,$210.38 B,healthcare,MRK
+Danaher Corporation,united states,$208.03 B,healthcare,DHR
+Shell plc,united kingdom,$207.68 B,energy,SHEL
+Novartis AG,switzerland,$204.13 B,healthcare,NOVN
+AstraZeneca plc,united kingdom,$201.75 B,healthcare,AZN
+Intel Corporation,united states,$201.72 B,technology,INTC
+Wells Fargo & Company,united states,$200.01 B,financials,WFC
+Adobe Inc.,united states,$199.57 B,technology,ADBE
+"salesforce.com, inc.",united states,$193.80 B,technology,CRM
+"United Parcel Service, Inc.",united states,$190.50 B,industrials,UPS
+China Construction Bank Corp,china,$189.37 B,financials,601939
+McDonald's Corporation,united states,$186.57 B,consumer discretionary,MCD
+China Merchants Bank Co Ltd,china,$185.98 B,financials,600036
+Contemporary Amperex Technology Co. Ltd,china,$185.67 B,industrials,300750
+Union Pacific Corporation,united states,$184.19 B,industrials,UNP
+AT&T Inc.,united states,$175.88 B,communication services,T
+Qualcomm Incorporated,united states,$172.25 B,technology,QCOM
+Texas Instruments Incorporated,united states,$171.28 B,technology,TXN
+Bristol-Myers Squibb Company,united states,$170.56 B,healthcare,BMY
+Prosus N.V.,netherlands,$170.00 B,communication services,PRX
+Linde plc,united kingdom,$166.07 B,basic materials,LIN
+"NextEra Energy, Inc.",united states,$165.53 B,utilities,NEE
+Agricultural Bank of China Ltd,china,$165.00 B,financials,601288
+"T-Mobile US, Inc.",united states,$164.31 B,communication services,TMUS
+Morgan Stanley,united states,$164.05 B,financials,MS
+"Netflix, Inc.",united states,$163.19 B,communication services,NFLX
+Royal Bank of Canada,canada,$159.74 B,financials,RY
+The Charles Schwab Corporation,united states,$158.06 B,financials,SCHW
+Philip Morris International Inc.,united states,$154.71 B,consumer staples,PM
+Medtronic plc,ireland,$151.06 B,healthcare,MDT
+Raytheon Technologies Corporation,united states,$150.96 B,industrials,RTX
+American Express Company,united states,$150.76 B,financials,AXP
+Hermès International SCA,france,$148.98 B,consumer discretionary,RMS
+Toronto-Dominion Bank,canada,$145.41 B,financials,TD
+PetroChina Company Limited,china,$144.50 B,energy,601857
+Commonwealth Bank of Australia,australia,$144.32 B,financials,CBA
+"Lowe's Companies, Inc.",united states,$143.77 B,consumer discretionary,LOW
+Amgen Inc.,united states,$141.72 B,healthcare,AMGN
+Bank of China Ltd,china,$141.22 B,financials,601988
+HSBC Holdings plc,united kingdom,$140.15 B,financials,HSBA
+China Mobile Ltd,hong kong,$139.30 B,communication services,941
+TotalEnergies SE,france,$137.50 B,energy,TTE
+Honeywell International Inc.,united states,$136.48 B,industrials,HON
+ConocoPhillips,united states,$136.32 B,energy,COP
+CVS Health Corporation,united states,$135.27 B,healthcare,CVS
+Ping An Insurance (Group) Company of China Ltd,china,$134.25 B,financials,601318
+SAP SE,germany,$134.19 B,technology,SAP
+"PayPal Holdings, Inc.",united states,$133.92 B,financials,PYPL
+Sanofi,france,$132.29 B,healthcare,SAN
+Deere & Company,united states,$130.31 B,industrials,DE
+"Advanced Micro Devices, Inc.",united states,$128.29 B,technology,AMD
+Intuit Inc.,united states,$126.77 B,technology,INTU
+Sony Group Corporation,japan,$126.64 B,technology,6758
+Rio Tinto Group,united kingdom,$125.84 B,basic materials,RIO
+AIA Group Ltd,hong kong,$125.16 B,financials,1299
+Lockheed Martin Corporation,united states,$124.98 B,industrials,LMT
+Caterpillar Inc.,united states,$124.13 B,industrials,CAT
+Anheuser-Busch InBev SA/NV,belgium,NULL,consumer staples,ABI
+Equinor ASA,NULL,$122.74 B,NULL,EQNR
+Christian Dior SE,france,$122.11 B,consumer discretionary,CDI
+"Prologis, Inc.",united states,$121.20 B,real estate,PLD
+"Applied Materials, Inc.",united states,$121.12 B,technology,AMAT
+"Anthem, Inc.",united states,$119.80 B,healthcare,ANTM
+International Business Machines Corporation,united states,$119.20 B,technology,IBM
+Unilever plc,united kingdom,$117.84 B,consumer staples,ULVR
+"BlackRock, Inc.",united states,$115.98 B,financials,BLK
+HDFC Bank Limited,india,$115.68 B,financials,HDB
+Diageo plc,united kingdom,$115.58 B,consumer staples,DGE
+American Tower Corporation (REIT),united states,$115.11 B,real estate,AMT
+Siemens AG,germany,$114.66 B,industrials,SIE
+Meituan,china,$114.28 B,consumer discretionary,3690
+Keyence Corp,japan,$113.20 B,technology,6861
+"The Goldman Sachs Group, Inc.",united states,$112.71 B,financials,GS
+Transurban Group,australia,$110.79 B,industrials,TCL
+"Industria de Diseño Textil, SA",spain,NULL,consumer discretionary,ITX
+The Boeing Company,united states,$110.46 B,industrials,BA
+GlaxoSmithKline plc,united kingdom,$109.98 B,healthcare,GSK
+Citigroup Inc.,united states,$109.56 B,financials,C
+Volkswagen AG,germany,$108.63 B,consumer discretionary,VOW3
+Starbucks Corporation,united states,$108.19 B,consumer discretionary,SBUX
+Vale SA,brazil,$107.99 B,basic materials,VALE3
+"ServiceNow, Inc.",united states,$107.99 B,technology,NOW
+Target Corporation,united states,$106.89 B,consumer staples,TGT
+Infosys Limited,india,$106.77 B,technology,INFY
+Al Rajhi Banking and Investment Corp,saudi arabia,$106.37 B,financials,1120
+"Airbnb, Inc.",united states,$105.07 B,communication services,ABNB
+"Charter Communications, Inc.",united states,$104.97 B,communication services,CHTR
+BYD Co Ltd,china,$104.42 B,consumer discretionary,2594
+Saudi Basic Industries Corp,saudi arabia,$104.00 B,basic materials,2010
+Nippon Telegraph & Telephone Corp,japan,$103.75 B,communication services,9432
+"Altria Group, Inc.",united states,$102.98 B,consumer staples,MO
+British American Tobacco plc,united kingdom,$101.44 B,consumer staples,BATS
+Stryker Corporation,united states,$101.41 B,healthcare,SYK
+S&P Global Inc.,united states,$100.84 B,financials,SPGI
+The Estée Lauder Companies Inc.,united states,$100.16 B,consumer staples,EL
+General Electric Company,united states,$99.22 B,industrials,GE
+Daimler AG,germany,NULL,consumer discretionary,DAI
+Chubb Limited,switzerland,$98.57 B,financials,CB
+Allianz SE,germany,$98.47 B,financials,ALV
+Petróleo Brasileiro S.A. - Petrobras,brazil,$98.37 B,energy,PBR
+Airbus SE,netherlands,$97.41 B,industrials,AIR
+China Life Insurance Company Limited,china,$97.31 B,financials,LFC
+"Automatic Data Processing, Inc.",united states,$96.98 B,industrials,ADP
+BP plc,united kingdom,$96.24 B,energy,BP.
+China Shenhua Energy Company Ltd,china,$95.34 B,energy,601088
+Booking Holdings Inc.,united states,$95.02 B,consumer discretionary,BKNG
+Canadian National Railway Company,canada,$94.96 B,industrials,CNR
+Enbridge Inc.,canada,$94.94 B,energy,ENB
+Schneider Electric SE,france,$94.34 B,industrials,SU
+Deutsche Telekom AG,germany,$93.01 B,communication services,DTE
+MERCK Kommanditgesellschaft auf Aktien,germany,$90.74 B,healthcare,MRK
+"Mondelez International, Inc.",united states,$90.67 B,consumer staples,MDLZ
+"JD.com, Inc.",china,$90.46 B,consumer discretionary,9618
+Vulcan International Corp,united states,$90.34 B,basic materials,VULC
+Zoetis Inc.,united states,$89.82 B,healthcare,ZTS
+CSL Limited,australia,$89.69 B,healthcare,CSL
+3M Company,united states,$88.77 B,industrials,MMM
+Duke Energy Corporation,united states,$88.76 B,utilities,DUK
+Bank of Nova Scotia,canada,$87.76 B,financials,BNS
+The Blackstone Group Inc.,united states,$87.64 B,financials,BX
+Brookfield Asset Management Inc.,canada,$87.46 B,financials,BAM.A
+Glencore plc,switzerland,$87.31 B,basic materials,GLEN
+CME Group Inc.,united states,$87.17 B,financials,CME
+"Marsh & McLennan Companies, Inc.",united states,$87.16 B,financials,MMC
+"Micron Technology, Inc.",united states,$86.49 B,technology,MU
+"Mitsubishi UFJ Financial Group, Inc.",japan,$85.03 B,financials,8306
+Cigna Corporation,united states,$84.67 B,healthcare,CI
+Shopify Inc.,canada,$83.80 B,technology,SHOP
+Air Liquide SA,france,$83.24 B,basic materials,AI
+"HCA Healthcare, Inc.",united states,$82.60 B,healthcare,HCA
+National Australia Bank Limited,australia,$81.03 B,financials,NAB
+Crown Castle International Corp. (REIT),united states,$80.92 B,real estate,CCI
+EssilorLuxottica SA,france,$80.49 B,healthcare,EL
+U.S. Bancorp,united states,$80.16 B,financials,USB
+Tokyo Electron Ltd,japan,$79.62 B,technology,8035
+Bank of Montreal,canada,$79.22 B,financials,BMO
+Kering SA,france,$78.66 B,consumer discretionary,KER
+China Yangtze Power Co. Ltd,china,$78.42 B,utilities,600900
+China Petroleum & Chemical Corporation,china,$78.39 B,energy,600028
+The Southern Company,united states,$78.38 B,utilities,SO
+Lam Research Corporation,united states,$77.60 B,technology,LRCX
+"The PNC Financial Services Group, Inc.",united states,$77.10 B,financials,PNC
+"Becton, Dickinson and Company",united states,$76.98 B,healthcare,BDX
+"Gilead Sciences, Inc.",united states,$76.15 B,healthcare,GILD
+"Regeneron Pharmaceuticals, Inc.",united states,$74.91 B,healthcare,REGN
+Truist Financial Corporation,united states,$74.79 B,financials,TFC
+Canadian Natural Resources Limited,canada,$74.78 B,energy,CNQ
+"Intercontinental Exchange, Inc.",united states,$74.17 B,financials,ICE
+"The TJX Companies, Inc.",united states,$73.99 B,consumer discretionary,TJX
+Atlassian Corporation Plc,australia,$73.72 B,technology,TEAM
+Zurich Insurance Group AG,switzerland,$73.58 B,financials,ZURN
+Edwards Lifesciences Corporation,united states,$73.38 B,healthcare,EW
+Aon Plc,united kingdom,$73.33 B,financials,AON
+Northrop Grumman Corporation,united states,$73.25 B,industrials,NOC
+KDDI Corp,japan,$73.12 B,communication services,9433
+Norfolk Southern Corporation,united states,$72.31 B,industrials,NSC
+Freeport-McMoRan Inc.,united states,$72.16 B,basic materials,FCX
+Wal-Mart de Mexico SAB de CV,mexico,$71.96 B,consumer staples,WALMEX
+PT Bank Central Asia Tbk,indonesia,$71.91 B,financials,BBCA
+"EOG Resources, Inc.",united states,$71.90 B,energy,EOG
+Siemens Healthineers AG,germany,$71.50 B,healthcare,SHL
+Anglo American plc,united kingdom,$71.48 B,basic materials,AAL
+"Moderna, Inc.",united states,$70.81 B,healthcare,MRNA
+General Dynamics Corporation,united states,$70.55 B,industrials,GD
+AXA SA,france,$70.20 B,financials,CS
+"Dominion Energy, Inc.",united states,$70.20 B,utilities,D
+Enel SpA,italy,$70.15 B,utilities,ENEL
+BNP Paribas SA,france,$69.90 B,financials,BNP
+"América Móvil, S.A.B. de C.V.",mexico,NULL,communication services,AMXA
+Public Storage,united states,$69.31 B,real estate,PSA
+UBS Group AG,switzerland,$68.93 B,financials,UBSG
+Sberbank of Russia PJSC,russia,$68.69 B,financials,SBER
+"Fiserv, Inc.",united states,$68.68 B,technology,FISV
+"Iberdrola, SA",spain,$68.23 B,utilities,IBE
+Recruit Holdings Co Ltd,japan,$68.11 B,industrials,6098
+Bayer AG,germany,$68.09 B,healthcare,BAYN
+The Sherwin-Williams Company,united states,$67.54 B,basic materials,SHW
+Vertex Pharmaceuticals Incorporated,united states,$67.49 B,healthcare,VRTX
+Illinois Tool Works Inc.,united states,$67.49 B,industrials,ITW
+The Progressive Corporation,united states,$67.31 B,financials,PGR
+Westpac Banking Corporation,australia,$67.20 B,financials,WBC
+ABB Ltd,switzerland,$67.19 B,industrials,ABBN
+"Waste Management, Inc.",united states,$66.95 B,industrials,WM
+Industrial Bank Co. Ltd,china,$66.87 B,financials,601166
+DBS Group Holdings Ltd,singapore,$66.74 B,financials,D05
+ICICI Bank Limited,india,$66.62 B,financials,IBN
+"Equinix, Inc. (REIT)",united states,$66.35 B,real estate,EQIX
+Newmont Corporation,united states,$65.89 B,basic materials,NEM
+Ford Motor Company,united states,$65.74 B,consumer discretionary,F
+Colgate-Palmolive Company,united states,$65.64 B,consumer staples,CL
+Exelon Corporation,united states,$65.53 B,utilities,EXC
+Snowflake Inc.,united states,$65.04 B,technology,SNOW
+Oriental Land Co. Ltd,japan,$64.66 B,consumer discretionary,4661
+"SK hynix, Inc.",south korea,NULL,technology,660
+AP Moller - Maersk A-S,denmark,$64.40 B,industrials,MAERSK.B
+Shin-Etsu Chemical Co Ltd,japan,$63.43 B,basic materials,4063
+FedEx Corporation,united states,$63.25 B,industrials,FDX
+Boston Scientific Corporation,united states,$63.08 B,healthcare,BSX
+PacifiCorp,united states,$62.87 B,utilities,PPWLM
+Dassault Systèmes SE,france,$62.75 B,technology,DSY
+"MetLife, Inc.",united states,$62.69 B,financials,MET
+General Motors Company,united states,$62.69 B,consumer discretionary,GM
+Sea Limited,singapore,$62.66 B,communication services,SE
+"Uber Technologies, Inc.",united states,$62.66 B,technology,UBER
+Moody's Corporation,united states,$62.58 B,financials,MCO
+Nintendo Co Ltd,japan,$62.20 B,communication services,7974
+Pioneer Natural Resources Company,united states,$62.19 B,energy,PXD
+Eaton Corporation plc,ireland,$62.17 B,industrials,ETN
+"Analog Devices, Inc.",united states,$62.00 B,technology,ADI
+"Fidelity National Information Services, Inc.",united states,$61.73 B,technology,FIS
+"Banco Santander, SA",spain,$61.67 B,financials,SAN
+Hapag-Lloyd AG,germany,$61.46 B,industrials,HLAG
+Adyen N.V.,netherlands,$61.11 B,technology,ADYEN
+Atlas Copco AB,sweden,$60.97 B,industrials,ATCO.A
+CNOOC Limited,hong kong,$60.19 B,energy,883
+Nutrien Ltd.,canada,$60.06 B,basic materials,NTR
+"Block, Inc.",united states,$59.95 B,technology,SQ
+Deutsche Post AG,germany,$59.80 B,industrials,DPWA
+"NetEase, Inc.",china,$59.76 B,communication services,9999
+Hong Kong Exchanges & Clearing Ltd,hong kong,$59.75 B,financials,388
+Capital One Financial Corporation,united states,$59.67 B,financials,COF
+Emerson Electric Co.,united states,$59.66 B,industrials,EMR
+"Palo Alto Networks, Inc.",united states,$59.65 B,technology,PANW
+Australia and New Zealand Banking Group Limited,australia,$59.55 B,financials,ANZ
+Reckitt Benckiser Group plc,united kingdom,NULL,consumer staples,RKT
+Nongfu Spring Co. Ltd,china,$59.50 B,consumer staples,9633
+Saudi Telecom Company,saudi arabia,$59.47 B,communication services,7010
+Southern Copper Corporation,united states,$59.46 B,basic materials,SCCO
+Shenzhen Mindray Bio-Medical Electronics Co. Ltd,china,$59.26 B,healthcare,300760
+Vinci SA,france,$59.01 B,industrials,DG
+"Workday, Inc.",united states,$58.70 B,technology,WDAY
+RELX plc,united kingdom,$58.53 B,communication services,REL
+Marvell Technology Group Ltd.,NULL,$58.36 B,NULL,MRVL
+"Air Products and Chemicals, Inc.",united states,$57.82 B,basic materials,APD
+Pernod Ricard SA,france,$57.75 B,consumer staples,RI
+Schlumberger Limited,united states,$57.63 B,energy,SLB
+"Marvell Technology, Inc.",united states,$57.62 B,technology,9MW
+Itaú Unibanco Holding SA,brazil,$57.45 B,financials,ITUB
+Enterprise Products Partners L.P.,united states,$57.43 B,energy,EPD
+Foshan Haitian Flavouring and Food Company Ltd,china,$57.40 B,consumer staples,603288
+Mitsubishi Corp,japan,$57.23 B,industrials,8058
+Canadian Imperial Bank of Commerce,canada,$57.20 B,financials,CM
+"Marriott International, Inc.",united states,$57.18 B,consumer discretionary,MAR
+Pinduoduo Inc.,china,$57.09 B,consumer discretionary,PDD
+IHS Markit Ltd.,united kingdom,NULL,industrials,INFO
+The Saudi National Bank,saudi arabia,$56.89 B,financials,1180
+TC Energy Corporation,canada,$56.77 B,energy,TRP
+Humana Inc.,united states,$56.55 B,healthcare,HUM
+KLA Corporation,united states,$56.48 B,technology,KLAC
+Bank of Communications Co. Ltd,china,$56.38 B,financials,601328
+Bayerische Motoren Werke AG,germany,$56.17 B,consumer discretionary,BMWB
+Macquarie Group Limited,australia,$55.99 B,financials,MQG
+National Grid plc,united kingdom,$55.88 B,utilities,NG.
+"Daikin Industries,Ltd.",japan,$55.58 B,industrials,6367
+Chugai Pharmaceutical Co. Ltd,japan,$55.31 B,healthcare,4519
+Keurig Dr Pepper Inc.,united states,$55.28 B,consumer staples,KDP
+Ergo Science Corp,united states,NULL,industrials,ERGN
+SoftBank Group Corp.,japan,$54.93 B,communication services,9984
+Heineken N.V.,netherlands,$54.87 B,consumer staples,HEIA
+Ambev SA,brazil,$54.69 B,consumer staples,ABEV3
+Canadian Pacific Railway Limited,canada,$54.59 B,industrials,CP
+Marathon Petroleum Corporation,united states,$54.54 B,energy,MPC
+"American International Group, Inc.",united states,$54.31 B,financials,AIG
+Dollar General Corporation,united states,$54.30 B,consumer staples,DG
+"Fortinet, Inc.",united states,$53.86 B,technology,FTNT
+Snap Inc.,united states,$53.86 B,communication services,SNAP
+Ferrari N.V.,italy,$53.78 B,consumer discretionary,RACE
+Lonza Group Ltd,switzerland,$53.76 B,healthcare,LONN
+London Stock Exchange Group plc,united kingdom,$53.33 B,financials,LSEG
+Thomson Reuters Corporation,canada,$53.30 B,industrials,TRI
+BASF SE,germany,$52.76 B,basic materials,BAS
+Sempra Energy,united states,$52.47 B,utilities,SRE
+Occidental Petroleum Corporation,united states,$52.30 B,energy,OXY
+"Liberty Bancshares, Inc. (OH)",united states,NULL,financials,LBSI
+Fast Retailing Co. Ltd,japan,$52.29 B,consumer discretionary,9983
+NXP Semiconductors N.V.,netherlands,$52.28 B,technology,NXPI
+"Xilinx, Inc.",united states,NULL,technology,XLNX
+ITOCHU Corp,japan,$52.19 B,industrials,8001
+Eni S.p.A.,italy,$52.00 B,energy,ENI
+Stellantis N.V.,netherlands,$51.80 B,consumer discretionary,STLA
+BCE Inc.,canada,$51.71 B,communication services,BCE
+DENSO Corp,japan,$51.58 B,consumer discretionary,6902
+Toyota Motor Corporation,japan,$51.55 B,consumer discretionary,7203
+"L3Harris Technologies, Inc.",united states,$51.51 B,industrials,LHX
+"AgriBank, FCB",united states,NULL,financials,AGRIP
+General Accident plc,united kingdom,$51.43 B,financials,GACA
+Archer-Daniels-Midland Company,united states,$51.03 B,consumer staples,ADM
+"American Electric Power Company, Inc.",united states,$50.95 B,utilities,AEP
+Fortescue Metals Group Limited,australia,$50.76 B,basic materials,FMG
+Hon Hai Precision Industry Co. Ltd,taiwan,$50.75 B,technology,2317
+China Tourism Group Duty Free Corp Ltd,china,$50.46 B,consumer discretionary,601888
+Ecolab Inc.,united states,$50.29 B,basic materials,ECL
+Novatek PJSC,russia,$50.19 B,energy,NVTK
+"Synopsys, Inc.",united states,$50.18 B,technology,SNPS
+Safran SA,france,$50.02 B,industrials,SAF
+"Illumina, Inc.",united states,$49.91 B,healthcare,ILMN
+"MercadoLibre, Inc.",argentina,$49.83 B,consumer discretionary,MELI
+"Roper Technologies, Inc.",united states,$49.66 B,industrials,ROP
+The Kraft Heinz Company,united states,$49.42 B,consumer staples,KHC
+Centene Corporation,united states,$49.32 B,healthcare,CNC
+"Paychex, Inc.",united states,$49.23 B,industrials,PAYX
+"Honda Motor Co., Ltd.",japan,$49.11 B,consumer discretionary,7267
+Hitachi Ltd,japan,$48.92 B,industrials,6501
+Scentre Group,australia,$48.83 B,real estate,SCG
+"MediaTek, Inc.",taiwan,$48.74 B,technology,2454
+Lululemon Athletica Inc.,canada,$48.52 B,consumer discretionary,LULU
+Dow Inc.,united states,$48.50 B,basic materials,DOW
+Rosneft Oil Co PJSC,russia,$48.50 B,energy,ROSN
+McKesson Corporation,united states,$48.46 B,healthcare,MCK
+Suncor Energy Inc.,canada,$48.27 B,energy,SU
+"VMware, Inc.",united states,$48.17 B,technology,VMW
+Johnson Controls International plc,ireland,$48.15 B,industrials,JCI
+"O'Reilly Automotive, Inc.",united states,$48.14 B,consumer discretionary,ORLY
+Grupo Mexico SAB de CV,mexico,$48.00 B,basic materials,GMEXICOB
+"CrowdStrike Holdings, Inc.",united states,$47.89 B,technology,CRWD
+Naspers Ltd,south africa,$47.73 B,communication services,NPN
+"Autodesk, Inc.",united states,$47.69 B,technology,ADSK
+"Prudential Financial, Inc.",united states,$47.17 B,financials,PRU
+Open Joint Stock Company OMZ,russia,$47.15 B,industrials,OMZZP
+Cognizant Technology Solutions Corporation,united states,$47.07 B,technology,CTSH
+Nucor Corporation,united states,$46.86 B,basic materials,NUE
+"DexCom, Inc.",united states,$46.86 B,healthcare,DXCM
+Banco Bradesco SA,brazil,$46.71 B,financials,BBDC3
+Nidec Corp,japan,$46.33 B,industrials,6594
+adidas AG,germany,$46.13 B,consumer discretionary,ADS1
+Sika AG,switzerland,$46.01 B,basic materials,SIKA
+"Baidu, Inc.",china,$45.98 B,communication services,9888
+Takeda Pharmaceutical Company Limited,japan,$45.89 B,healthcare,4502
+The Hershey Company,united states,$45.83 B,consumer staples,HSY
+Amphenol Corporation,united states,$45.77 B,technology,APH
+Vanjia Corp,united states,NULL,consumer discretionary,VNJA
+Vodafone Group plc,united kingdom,$45.74 B,communication services,VOD
+"IDEXX Laboratories, Inc.",united states,$45.64 B,healthcare,IDXX
+"The Travelers Companies, Inc.",united states,$45.56 B,financials,TRV
+Infineon Technologies AG,germany,$45.35 B,technology,IFXA
+"Constellation Brands, Inc.",united states,$45.21 B,consumer staples,STZ
+"Datadog, Inc.",united states,$45.13 B,technology,DDOG
+Mitsui & Co. Ltd,japan,$45.09 B,energy,8031
+Saudi Arabian Mining Company,saudi arabia,$45.00 B,basic materials,1211
+PJSC Lukoil,russia,$44.96 B,energy,LKOH
+Intesa Sanpaolo S.p.A.,italy,$44.95 B,financials,ISP
+TE Connectivity Ltd.,switzerland,$44.78 B,technology,TEL
+"AutoZone, Inc.",united states,$44.39 B,consumer discretionary,AZO
+IQVIA Holdings Inc.,united states,$44.32 B,healthcare,IQV
+Cintas Corporation,united states,$44.32 B,industrials,CTAS
+"Cadence Design Systems, Inc.",united states,$44.23 B,technology,CDNS
+"Chipotle Mexican Grill, Inc.",united states,$44.11 B,consumer discretionary,CMG
+"Sumitomo Mitsui Financial Group, Inc.",japan,$44.06 B,financials,8316
+"Samsung Biologics Co.,Ltd.",south korea,$44.01 B,healthcare,207940
+Wipro Limited,india,$43.98 B,technology,WIPRO
+Zijin Mining Group Co Ltd,china,$43.93 B,basic materials,601899
+HP Inc.,united states,$43.90 B,technology,HPQ
+Lloyds Banking Group plc,united kingdom,$43.70 B,financials,LLOY
+"Simon Property Group, Inc.",united states,$43.69 B,real estate,SPG
+Aflac Incorporated,united states,$43.59 B,financials,AFL
+Barrick Gold Corporation,canada,$43.50 B,basic materials,ABX
+Murata Manufacturing Co. Ltd,japan,$43.41 B,technology,6981
+"Kinder Morgan, Inc.",united states,$43.38 B,energy,KMI
+Kimberly-Clark Corporation,united states,$43.21 B,consumer staples,KMB
+Xiaomi Corp,china,$43.10 B,technology,1810
+Wesfarmers Limited,australia,$43.09 B,consumer discretionary,WES
+"Republic Services, Inc.",united states,$42.91 B,industrials,RSG
+HOYA Corp,japan,$42.88 B,healthcare,7741
+Yihai Kerry Arawana Holdings Co. Ltd,china,$42.84 B,consumer staples,300999
+Monster Beverage Corporation,united states,$42.81 B,consumer staples,MNST
+LONGi Green Energy Technology Co. Ltd,china,$42.68 B,technology,601012
+"Corteva, Inc.",united states,$42.66 B,basic materials,CTVA
+"General Mills, Inc.",united states,$42.65 B,consumer staples,GIS
+Seven & i Holdings Co. Ltd,japan,$42.53 B,consumer staples,3382
+DSV PANALPINA A-S,denmark,$42.49 B,industrials,DSV
+Hilton Worldwide Holdings Inc.,united states,$42.39 B,consumer discretionary,HLT
+WuXi AppTec Co. Ltd,china,$42.25 B,healthcare,603259
+Sysco Corporation,united states,$42.22 B,consumer staples,SYY
+The Kroger Co.,united states,$42.03 B,consumer staples,KR
+Manulife Financial Corporation,canada,$41.98 B,financials,MFC
+BioNTech SE,germany,$41.93 B,healthcare,22UA
+STMicroelectronics N.V.,switzerland,$41.91 B,technology,STM
+Devon Energy Corporation,united states,$41.82 B,energy,DVN
+"The Williams Companies, Inc.",united states,$41.60 B,energy,WMB
+The Allstate Corporation,united states,$41.54 B,financials,ALL
+Hang Seng Bank Limited,hong kong,$41.47 B,financials,11
+Valero Energy Corporation,united states,$41.27 B,energy,VLO
+ING Groep N.V.,netherlands,$41.25 B,financials,INGA
+MMC Norilsk Nickel PJSC,russia,$41.16 B,basic materials,GMKN
+"Motorola Solutions, Inc.",united states,$40.87 B,technology,MSI
+"East Money Information Co.,Ltd.",china,$40.83 B,communication services,300059
+The Bank of New York Mellon Corporation,united states,$40.83 B,financials,BK
+Carrier Global Corporation,united states,$40.79 B,industrials,CARR
+Oversea-Chinese Banking Corp Ltd,singapore,$40.77 B,financials,O39
+"Digital Realty Trust, Inc.",united states,$40.64 B,real estate,DLR
+"Walgreens Boots Alliance, Inc.",united states,$40.55 B,healthcare,WBA
+"Agilent Technologies, Inc.",united states,$40.49 B,healthcare,A
+Global Payments Inc.,united states,$40.35 B,industrials,GPN
+CITIC Securities Company Ltd,china,$40.17 B,financials,600030
+Baxter International Inc.,united states,$40.13 B,healthcare,BAX
+BOC Hong Kong Holdings Ltd,hong kong,$39.99 B,financials,2388
+MSCI Inc.,united states,$39.97 B,financials,MSCI
+Welltower Inc.,united states,$39.96 B,real estate,WELL
+Xcel Energy Inc.,united states,$39.76 B,utilities,XEL
+United Overseas Bank Ltd,singapore,$39.73 B,financials,U11
+Wanhua Chemical Group Co. Ltd,china,$39.73 B,basic materials,600309
+"DuPont de Nemours, Inc.",united states,$39.72 B,basic materials,DD
+EQT AB,japan,$39.71 B,financials,6EQ
+Alimentation Couche-Tard Inc.,canada,NULL,consumer staples,ATD.B
+eBay Inc.,united states,$39.34 B,consumer discretionary,EBAY
+Givaudan SA,switzerland,$39.29 B,basic materials,GIVN
+Novozymes A-S,denmark,$39.03 B,basic materials,NZYM.B
+Prudential plc,united kingdom,$39.00 B,financials,PRU
+Alcon Inc.,switzerland,$38.90 B,healthcare,ALC
+Ecopetrol SA,NULL,$38.69 B,NULL,EC
+Baker Hughes Company,united states,$38.39 B,energy,BKR
+"Banco Bilbao Vizcaya Argentaria, SA",spain,$38.25 B,financials,BBVA
+Dell Technologies Inc.,united states,$38.16 B,technology,DELL
+Kuaishou Technology,china,$38.15 B,communication services,1024
+AB Volvo,sweden,$38.13 B,industrials,VOL4
+Crédit Agricole SA,france,$38.01 B,financials,ACA
+"Dollar Tree, Inc.",united states,$38.00 B,consumer staples,DLTR
+SBA Communications Corporation,united states,$37.93 B,real estate,SBAC
+Capgemini SE,france,$37.82 B,technology,CAP
+Daiichi Sankyo Company Ltd,japan,$37.79 B,healthcare,4568
+Compass Group plc,united kingdom,$37.73 B,consumer discretionary,CPG
+Sartorius Stedim Biotech SA,france,$37.55 B,healthcare,DIM
+PT Bank Rakyat Indonesia (Persero) Tbk,indonesia,NULL,financials,BYRA
+Phillips 66,united states,$37.51 B,energy,PSX
+Electronic Arts Inc.,united states,$37.38 B,communication services,EA
+Trane Technologies plc,ireland,$37.36 B,industrials,TT
+SMC Corp,japan,$37.08 B,industrials,6273
+Parker-Hannifin Corporation,united states,$37.05 B,industrials,PH
+"Tokio Marine Holdings, Inc.",japan,NULL,financials,8766
+Jiangsu Hengrui Medicine Co. Ltd,china,$36.90 B,healthcare,600276
+"Beijing-Shanghai High-Speed Railway Co.,Ltd.",china,$36.90 B,industrials,601816
+Münchener Rückversicherungs-Gesellschaft Aktiengesellschaft in München,germany,$36.89 B,financials,MUV2
+"DoorDash, Inc.",united states,$36.74 B,communication services,DASH
+Shanghai Pudong Development Bank Co. Ltd,china,$36.72 B,financials,600000
+Constellation Software Inc.,canada,$36.67 B,technology,CSU
+Inner Mongolia Yili Industrial Group Co. Ltd,china,$36.61 B,consumer staples,600887
+TELUS Corporation,canada,$36.37 B,communication services,T
+Public Service Enterprise Group Incorporated,united states,$36.28 B,utilities,PEG
+TransDigm Group Incorporated,united states,$36.14 B,industrials,TDG
+"Waste Connections, Inc.",united states,$36.14 B,industrials,WCN
+LyondellBasell Industries N.V.,united states,$35.96 B,basic materials,LYB
+Danone SA,france,$35.93 B,consumer staples,BN
+"Cloudflare, Inc.",united states,$35.92 B,technology,NET
+NIO Limited,china,$35.86 B,consumer discretionary,NIO
+"Coinbase Global, Inc.",united states,$35.86 B,technology,COIN
+"Shanxi Xinghuacun Fen Wine Factory Co.,Ltd.",china,$35.84 B,consumer staples,600809
+Neste Oyj,finland,$35.57 B,energy,NESTE
+ResMed Inc.,united states,$35.44 B,healthcare,RMD
+Experian plc,ireland,$35.40 B,industrials,EXPN
+"Intuitive Surgical, Inc.",united states,$35.37 B,healthcare,ISRG
+Woolworths Group Limited,australia,$35.33 B,consumer staples,WOW
+MPLX LP,united states,$35.27 B,energy,MPLX
+Telstra Corporation Limited,australia,$35.24 B,communication services,TLS
+Hexagon AB,sweden,$35.21 B,technology,HXG
+Assicurazioni Generali,italy,$35.20 B,financials,G
+"AvalonBay Communities, Inc.",united states,$35.19 B,real estate,AVB
+Imperial Oil Limited,canada,$35.13 B,energy,IMO
+"Yum! Brands, Inc.",united states,$35.12 B,consumer discretionary,YUM
+Sun Hung Kai Properties Ltd,hong kong,$35.04 B,real estate,16
+"Old Dominion Freight Line, Inc.",united states,$34.94 B,industrials,ODFL
+"Cheniere Energy, Inc.",united states,$34.92 B,energy,LNG
+"Consolidated Edison, Inc.",united states,$34.89 B,utilities,ED
+China CITIC Bank Corp Ltd,china,$34.84 B,financials,601998
+Budweiser Brewing Company APAC Ltd,hong kong,$34.73 B,consumer staples,1876
+ArcelorMittal,NULL,$34.66 B,NULL,MT
+"Ameriprise Financial, Inc.",united states,$34.64 B,financials,AMP
+Fastenal Company,united states,$34.58 B,industrials,FAST
+"Align Technology, Inc.",united states,$34.49 B,healthcare,ALGN
+VERBUND AG,NULL,$34.44 B,NULL,OEW
+Sydney Airport Limited,australia,NULL,industrials,SYD
+"Verisk Analytics, Inc.",united states,$34.39 B,industrials,VRSK
+Z Holdings Corp,japan,$34.24 B,consumer discretionary,4689
+Arthur J. Gallagher & Co.,united states,$34.22 B,financials,AJG
+Chongqing Zhifei Biological Products Co. Ltd,china,$34.13 B,healthcare,300122
+Equity Residential,united states,$34.11 B,real estate,EQR
+"Chunghwa Telecom Co., Ltd.",taiwan,$34.06 B,communication services,2412
+"T. Rowe Price Group, Inc.",united states,$34.01 B,financials,TROW
+Halliburton Company,united states,$33.95 B,energy,HAL
+"Tyson Foods, Inc.",united states,$33.73 B,consumer staples,TSN
+Discover Financial Services,united states,$33.73 B,financials,DFS
+Kuehne + Nagel International AG,switzerland,$33.69 B,industrials,KNIN
+FANUC Corp,japan,$33.68 B,industrials,6954
+MTR Corp Ltd,hong kong,$33.66 B,industrials,66
+Poly Developments and Holdings Group Co. Ltd,china,$33.64 B,real estate,600048
+KKR & Co. Inc.,united states,$33.49 B,financials,KKR
+"Mizuho Financial Group, Inc.",japan,$33.47 B,financials,8411
+PTT PCL,thailand,$33.46 B,energy,PTT
+Koninklijke Ahold Delhaize N.V.,netherlands,$33.43 B,consumer staples,AD
+China Vanke Co. Ltd,china,$33.35 B,real estate,2
+International Flavors & Fragrances Inc.,united states,$33.32 B,basic materials,IFF
+Telefonaktiebolaget LM Ericsson,sweden,$33.29 B,technology,ERIC.A
+China Resources Land Ltd,hong kong,$33.26 B,real estate,1109
+"Zoom Video Communications, Inc.",united states,$33.22 B,communication services,ZM
+Otis Worldwide Corporation,united states,$33.09 B,industrials,OTIS
+Sun Life Financial Inc.,canada,$33.08 B,financials,SLF
+"Rockwell Automation, Inc.",united states,$33.05 B,industrials,ROK
+Aptiv PLC,ireland,$33.02 B,consumer discretionary,APTV
+Cenovus Energy Inc.,canada,$33.02 B,energy,CVE
+Deutsche Börse AG,germany,$32.99 B,financials,DB1
+Orange SA,france,$32.84 B,communication services,ORA
+Hess Corporation,united states,$32.81 B,energy,HES
+NatWest Group plc,united kingdom,$32.72 B,financials,NWG
+"Ross Stores, Inc.",united states,$32.71 B,consumer discretionary,ROST
+"WEC Energy Group, Inc.",united states,$32.54 B,utilities,WEC
+AmerisourceBergen Corporation,united states,$32.51 B,healthcare,ABC
+China Overseas Land & Investment Ltd,hong kong,$32.49 B,real estate,688
+WuXi Biologics,china,$32.41 B,healthcare,2269
+CITIC Ltd,hong kong,$32.33 B,industrials,267
+"Cellnex Telecom, SA",spain,$32.32 B,communication services,CLNX
+Haier Smart Home Co Ltd,china,$32.31 B,consumer discretionary,600690
+Singapore Telecommunications Ltd,singapore,$32.23 B,communication services,Z74
+ANTA Sports Products Ltd,china,$32.20 B,consumer discretionary,2020
+Barclays plc,united kingdom,$32.19 B,financials,BARC
+Brown-Forman Corporation,united states,$32.07 B,consumer staples,BF.B
+WEG SA,brazil,$32.05 B,industrials,WEGE3
+PACCAR Inc,united states,$32.04 B,industrials,PCAR
+Great Wall Motor Co Ltd,china,$32.01 B,consumer discretionary,601633
+Longfor Group Holdings Ltd,china,$31.98 B,real estate,960
+"JAPAN POST BANK Co.,Ltd.",japan,$31.93 B,financials,7182
+"PPG Industries, Inc.",united states,$31.89 B,basic materials,PPG
+Perusahaan Perseroan (Persero) PT Telekomunikasi Indonesia Tbk,indonesia,$31.78 B,communication services,TLK
+Mettler-Toledo International Inc.,united states,$31.78 B,healthcare,MTD
+"ONEOK, Inc.",united states,$31.66 B,energy,OKE
+Goodman Group,australia,$31.64 B,real estate,GMG
+Corning Incorporated,united states,$31.60 B,technology,GLW
+"Japan Tobacco, Inc.",japan,$31.59 B,consumer staples,2914
+Foxconn Industrial Internet Co. Ltd,china,$31.58 B,technology,601138
+Eversource Energy,united states,$31.56 B,utilities,ES
+China Telecom Corp Ltd,hong kong,$31.49 B,communication services,728
+CRH plc,ireland,$31.45 B,basic materials,CRH
+Japan Post Holdings Co. Ltd,japan,$31.41 B,financials,6178
+Biogen Inc.,united states,$31.35 B,healthcare,BIIB
+Swisscom AG,switzerland,$31.26 B,communication services,SCMN
+Koninklijke DSM N.V.,netherlands,$31.25 B,basic materials,DSM
+Formosa Petrochemical Corp,taiwan,$31.22 B,energy,6505
+Zhangzhou Pientzehuang Pharmaceutical. Ltd,china,$31.17 B,healthcare,600436
+"AMETEK, Inc.",united states,$31.15 B,industrials,AME
+E.ON SE,germany,$31.12 B,utilities,EOAA
+China Pacific Insurance,china,$31.04 B,financials,601601
+"Zscaler, Inc.",united states,$31.03 B,technology,ZS
+Anhui Conch Cement Company Ltd,china,$31.02 B,basic materials,600585
+Franco-Nevada Corporation,canada,$31.00 B,basic materials,FNV
+Engie SA,france,$31.00 B,utilities,ENGI
+State Street Corporation,united states,$30.95 B,financials,STT
+SAIC Motor Corp Ltd,china,$30.93 B,consumer discretionary,600104
+Nokia Corporation,finland,$30.91 B,technology,NOKIA.SEK
+"Twitter, Inc.",united states,$30.83 B,communication services,TWTR
+Veeva Systems Inc.,united states,$30.76 B,healthcare,VEEV
+Loblaw Companies Limited,canada,$30.70 B,consumer staples,L
+Energy Transfer LP,united states,$30.69 B,energy,ET
+Henkel AG & Co KGaA,germany,$30.53 B,consumer staples,HEN
+"Coupang, Inc.",south korea,$30.53 B,consumer discretionary,CPNG
+Ferguson plc,united kingdom,$30.52 B,industrials,FERG
+BAE Systems plc,united kingdom,$30.51 B,industrials,BA.
+Fifth Third Bancorp,united states,$30.46 B,financials,FITB
+"CBRE Group, Inc.",united states,$30.45 B,real estate,CBRE
+"American Water Works Company, Inc.",united states,$30.43 B,utilities,AWK
+Fujitsu Ltd,japan,$30.28 B,technology,6702
+"West Pharmaceutical Services, Inc.",united states,$30.23 B,healthcare,WST
+Compagnie de Saint-Gobain SA,france,$30.16 B,industrials,SGO
+"Alexandria Real Estate Equities, Inc.",united states,$30.10 B,real estate,ARE
+ASSA ABLOY AB,sweden,$30.05 B,industrials,ALZ
+Cummins Inc.,united states,$29.94 B,industrials,CMI
+Vestas Wind Systems A-S,denmark,$29.93 B,industrials,VWS
+Riyad Bank,saudi arabia,$29.86 B,financials,1010
+Willis Towers Watson plc,united kingdom,NULL,financials,WLTW
+"Match Group, Inc.",united states,$29.82 B,communication services,MTCH
+KBC Group NV,belgium,$29.81 B,financials,KDB
+UniCredit S.p.A.,italy,NULL,financials,UCG
+Cathay Financial Holding Co. Ltd,taiwan,$29.58 B,financials,2882
+"Copart, Inc.",united states,$29.58 B,industrials,CPRT
+Spotify Technology SA,NULL,$29.56 B,NULL,SPOT
+"Nasdaq, Inc.",united states,$29.52 B,financials,NDAQ
+Weyerhaeuser Company,united states,$29.42 B,real estate,WY
+Saudi Electricity Company,saudi arabia,$29.42 B,utilities,5110
+Ball Corporation,united states,$29.40 B,consumer discretionary,BLL
+"Keysight Technologies, Inc.",united states,$29.40 B,technology,KEYS
+"Astellas Pharma, Inc.",japan,$29.22 B,healthcare,4503
+"Amadeus IT Group, SA",spain,$29.19 B,technology,AMS
+Electricité de France SA,france,$29.17 B,utilities,EDF
+Rogers Communications Inc.,canada,$29.13 B,communication services,RCI.B
+Tongwei Co. Ltd,china,$29.10 B,consumer staples,600438
+Las Vegas Sands Corp.,united states,$29.07 B,consumer discretionary,LVS
+RWE AG,germany,$29.06 B,utilities,RWE
+COSCO SHIPPING Holdings Co Ltd,china,$28.93 B,industrials,601919
+SVB Financial Group,united states,$28.91 B,financials,SIVB
+CSX Corporation,united states,$28.90 B,industrials,CSX
+Techtronic Industries Company Ltd,hong kong,$28.75 B,industrials,669
+"Naturgy Energy Group, SA",spain,$28.71 B,utilities,NTGY
+APA Group,australia,$28.55 B,utilities,APA
+Hormel Foods Corporation,united states,$28.52 B,consumer staples,HRL
+Cerner Corporation,united states,$28.31 B,healthcare,CERN
+Ashtead Group plc,united kingdom,$28.28 B,industrials,AHT
+Equifax Inc.,united states,$28.24 B,industrials,EFX
+Semiconductor Manufacturing International Corp,china,$28.24 B,technology,688981
+Porsche Automobil Holding SE,germany,$28.15 B,consumer discretionary,PAHA
+Tesco plc,united kingdom,$28.11 B,consumer staples,TSCO
+Sirius XM Holdings Inc.,united states,$28.05 B,communication services,SIRI
+Airports of Thailand Public Company Ltd,thailand,$28.00 B,industrials,AOT
+CK Hutchison Holdings Ltd,hong kong,$27.94 B,industrials,1
+The People's Insurance Company (Group) of China Ltd,china,$27.93 B,financials,601319
+"Expedia Group, Inc.",united states,$27.91 B,consumer discretionary,EXPE
+First Republic Bank,united states,$27.90 B,financials,FRC
+Koninklijke Philips N.V.,netherlands,$27.89 B,healthcare,PHIA
+Great-West Lifeco Inc.,canada,$27.85 B,financials,GWO
+Thai Beverage Public Company Ltd,thailand,$27.81 B,consumer staples,Y92
+Swiss Re AG,switzerland,$27.80 B,financials,SREN
+Edison International,united states,$27.67 B,utilities,EIX
+Wolters Kluwer N.V.,netherlands,$27.65 B,communication services,WKL
+ON Semiconductor Corporation,united states,$27.63 B,technology,ON
+"CaixaBank, SA",spain,$27.58 B,financials,CABK
+Sampo Oyj,finland,$27.46 B,financials,SAMPO
+Extra Space Storage Inc.,united states,$27.37 B,real estate,EXR
+Sartorius AG,germany,$27.35 B,healthcare,SRT
+"D.R. Horton, Inc.",united states,$27.34 B,consumer discretionary,DHI
+"W.W. Grainger, Inc.",united states,$27.33 B,industrials,GWW
+NARI Technology Co. Ltd,china,$27.33 B,industrials,600406
+KONE Oyj,finland,$27.29 B,industrials,KNEBV
+"McCormick & Company, Incorporated",united states,$27.29 B,consumer staples,MKC
+NTT Data Corp,japan,$27.26 B,technology,9613
+Ganfeng Lithium Co. Ltd,china,$27.25 B,basic materials,2460
+Will Semiconductor Co. Ltd,china,$27.24 B,technology,603501
+"Interactive Brokers Group, Inc.",united states,$27.22 B,financials,IBKR
+Gazprom Neft PJSC,russia,$27.14 B,energy,SIBN
+Fubon Financial Holding Co. Ltd,taiwan,$27.13 B,financials,2881
+Tractor Supply Company,united states,$27.09 B,consumer discretionary,TSCO
+Chocoladefabriken Lindt & Sprüngli AG,switzerland,$27.08 B,consumer staples,LISN
+"ANSYS, Inc.",united states,$26.98 B,technology,ANSS
+Shaanxi Coal Industry Company Ltd,china,$26.95 B,energy,601225
+Aier Eye Hospital Group Co. Ltd,china,$26.95 B,healthcare,300015
+"Zimmer Biomet Holdings, Inc.",united states,$26.94 B,healthcare,ZBH
+Bridgestone Corp,japan,$26.88 B,consumer discretionary,5108
+Evolution Gaming Group AB,sweden,$26.82 B,consumer discretionary,EVO
+Beijing Wantai Biological Pharmacy Enterprise Co. Ltd,china,$26.80 B,healthcare,603392
+Vonovia SE,germany,$26.78 B,real estate,VNA
+Sandvik AB,sweden,$26.71 B,industrials,SAND
+"Cheniere Energy Partners, L.P.",united states,$26.68 B,energy,CQP
+PG&E Corporation,united states,$26.66 B,utilities,PCG
+Kansas City Southern,united states,NULL,industrials,KSU
+Unity Software Inc.,united states,$26.56 B,technology,U
+Thales SA,france,$26.55 B,industrials,HO
+Southwest Airlines Co.,united states,$26.52 B,industrials,LUV
+DTE Energy Company,united states,$26.41 B,utilities,DTE
+Intact Financial Corporation,canada,$26.40 B,financials,IFC
+Deutsche Bank AG,germany,$26.38 B,financials,DBK
+Canon Inc.,japan,$26.38 B,technology,7751
+"LYONDELLBASELL ADVANCED POLYMERS, Inc.",united states,$26.38 B,basic materials,SLMNP
+National Bank of Canada,canada,$26.29 B,financials,NA
+Sonova Holding AG,switzerland,$26.22 B,healthcare,SOON
+Realty Income Corporation,united states,$26.18 B,real estate,O
+China Everbright Bank Company Ltd,china,$26.13 B,financials,601818
+Twilio Inc.,united states,$26.09 B,communication services,TWLO
+Roblox Corp,united states,$26.05 B,communication services,RBLX
+"Telefónica, SA",spain,$26.04 B,communication services,TEF
+Central Japan Railway Co,japan,$26.00 B,industrials,9022
+Li Auto Inc.,china,$25.83 B,consumer discretionary,LI
+EnBW Energie Baden-Wuerttemberg AG,germany,$25.82 B,utilities,EBK
+"The Hartford Financial Services Group, Inc.",united states,$25.76 B,financials,HIG
+Laboratory Corporation of America Holdings,united states,$25.75 B,healthcare,LH
+"MongoDB, Inc.",united states,$25.73 B,technology,MDB
+Mitsubishi Electric Corporation,japan,$25.61 B,industrials,6503
+Banco Santander (Brasil) SA,brazil,$25.59 B,financials,SANB11
+Axis Bank Ltd,india,$25.54 B,financials,AXISBANK
+"United Rentals, Inc.",united states,$25.46 B,industrials,URI
+Nan Ya Plastics Corp,taiwan,$25.41 B,basic materials,1303
+Lennar Corporation,united states,$25.34 B,consumer discretionary,LEN
+Straumann Holding AG,switzerland,$25.31 B,healthcare,STMN
+CLP Holdings Ltd,hong kong,$25.29 B,utilities,2
+Yanzhou Coal Mining Company Ltd,china,$25.26 B,energy,600188
+FirstEnergy Corp.,united states,$25.26 B,utilities,FE
+Albemarle Corporation,united states,$25.25 B,basic materials,ALB
+CK Asset Holdings Limited,hong kong,$25.21 B,real estate,1113
+"Enphase Energy, Inc.",united states,$25.20 B,technology,ENPH
+Legrand SA,france,$25.19 B,industrials,LR
+Galaxy Entertainment Group Ltd,hong kong,$25.17 B,consumer discretionary,27
+Skandinaviska Enskilda Banken AB,sweden,$25.15 B,financials,SEB.A
+The Mosaic Company,united states,$25.09 B,basic materials,MOS
+CDW Corporation,united states,$25.04 B,technology,CDW
+"Gartner, Inc.",united states,$25.03 B,technology,IT
+"EDP Renováveis, SA",spain,NULL,utilities,EDPR
+"Delta Air Lines, Inc.",united states,$24.92 B,industrials,DAL
+Palantir Technologies Inc.,united states,$24.91 B,technology,PLTR
+Seagen Inc.,united states,$24.87 B,healthcare,SGEN
+"Diamondback Energy, Inc.",united states,$24.84 B,energy,FANG
+"VeriSign, Inc.",united states,$24.81 B,technology,VRSN
+"Church & Dwight Co., Inc.",united states,$24.81 B,consumer staples,CHD
+Ameren Corporation,united states,$24.79 B,utilities,AEE
+China Minsheng Banking Corp Ltd,china,$24.65 B,financials,600016
+"Live Nation Entertainment, Inc.",united states,$24.61 B,communication services,LYV
+Woodside Petroleum Ltd,australia,$24.60 B,energy,WPL
+Evergreen Marine Corp,taiwan,$24.49 B,industrials,2603
+"Aena S.M.E., SA",spain,$24.45 B,industrials,AENA
+XPeng Inc.,china,$24.44 B,consumer discretionary,XPEV
+Northern Trust Corporation,united states,$24.42 B,financials,NTRS
+"Slack Technologies, Inc.",united states,NULL,technology,WORK
+"Mid-America Apartment Communities, Inc.",united states,$24.18 B,real estate,MAA
+Fresenius SE & Co KGaA,germany,$24.12 B,healthcare,FRE
+FUJIFILM Holdings Corp,japan,$24.12 B,industrials,4901
+BT Group plc,united kingdom,$24.09 B,communication services,BT.A
+Vulcan Materials Company,united states,$24.08 B,basic materials,VMC
+Epiroc AB,sweden,$24.08 B,industrials,3AD2
+"Delta Electronics, Inc.",taiwan,$24.05 B,technology,2308
+Public Joint Stock Company Polyus,russia,NULL,basic materials,PLZL
+Schindler Holding AG,switzerland,$24.02 B,industrials,SCHN
+ORIX Corporation,japan,$23.97 B,financials,8591
+"Martin Marietta Materials, Inc.",united states,$23.94 B,basic materials,MLM
+CSC Financial Co. Ltd,china,$23.94 B,financials,601066
+"Best Buy Co., Inc.",united states,$23.93 B,consumer discretionary,BBY
+STERIS plc,ireland,$23.93 B,healthcare,STE
+Entergy Corporation,united states,$23.92 B,utilities,ETR
+"M3, Inc.",japan,$23.89 B,healthcare,2413
+Splunk Inc.,united states,$23.84 B,technology,SPLK
+EVE Energy Co. Ltd,china,$23.82 B,industrials,300014
+"Ventas, Inc.",united states,$23.81 B,real estate,VTR
+"Endesa, SA",spain,$23.78 B,utilities,ELE
+SSE plc,united kingdom,$23.73 B,utilities,SSE
+Compagnie Générale des Etablissements Michelin SCA,france,$23.65 B,consumer discretionary,ML
+Horizon Therapeutics Public Limited Company,ireland,$23.64 B,healthcare,HZNP
+Baoshan Iron & Steel Co. Ltd,china,$23.59 B,basic materials,600019
+"Stanley Black & Decker, Inc.",united states,$23.57 B,industrials,SWK
+Sungrow Power Supply Co. Ltd,china,$23.55 B,industrials,300274
+Beiersdorf AG,germany,$23.51 B,consumer staples,BEI
+PT Bank Mandiri (Persero) Tbk,indonesia,NULL,financials,PQ9
+First Quantum Minerals Ltd.,canada,$23.47 B,basic materials,FM
+Kubota Corp,japan,$23.46 B,industrials,6326
+MTN Group Ltd,south africa,$23.45 B,communication services,MTN
+"Maxim Integrated Products, Inc.",united states,NULL,technology,MXIM
+"Rocket Companies, Inc.",united states,$23.44 B,financials,RKT
+Fortis Inc.,canada,$23.43 B,utilities,FTS
+Formosa Plastics Corp,taiwan,$23.42 B,basic materials,1301
+Liberty Broadband Corporation,united states,$23.40 B,communication services,LBRDK
+United Microelectronics Corporation,taiwan,$23.35 B,technology,2303
+Garmin Ltd.,switzerland,$23.35 B,technology,GRMN
+Huazhu Group Limited,china,$23.34 B,consumer discretionary,HTHT
+Carnival Corporation & plc,united states,$23.29 B,consumer discretionary,CCL
+Sany Heavy Industry Co. Ltd,china,$23.27 B,industrials,600031
+Fox Corporation,united states,$23.26 B,communication services,FOXA
+Wens Foodstuff Group Co. Ltd,china,$23.20 B,consumer staples,300498
+Société Générale SA,france,$23.18 B,financials,GLE
+Terumo Corp,japan,$23.16 B,healthcare,4543
+China International Capital Corp Ltd,china,$23.13 B,financials,601995
+Invitation Homes Inc.,united states,$23.09 B,real estate,INVH
+Royalty Pharma plc,united states,$23.04 B,healthcare,RPRX
+Olympus Corp,japan,$23.00 B,healthcare,7733
+V.F. Corporation,united states,$22.96 B,consumer discretionary,VFC
+Dover Corporation,united states,$22.94 B,industrials,DOV
+PPL Corporation,united states,$22.87 B,utilities,PPL
+"Hengli Petrochemical Co.,Ltd.",china,$22.86 B,consumer discretionary,600346
+Genmab A/S,denmark,$22.83 B,healthcare,GMAB
+SABIC Agri-Nutrients Company,saudi arabia,$22.78 B,basic materials,2020
+Heineken Holding N.V.,netherlands,$22.78 B,consumer staples,HEIO
+Sands China Ltd,NULL,$18.52 B,NULL,1928
+East Japan Railway Company,japan,$22.78 B,industrials,9020
+Sociedad Química y Minera de Chile SA,chile,$22.77 B,basic materials,SQM
+Eurofins Scientific SE,NULL,NULL,NULL,ERF
+Panasonic Corp,japan,$22.73 B,technology,6752
+UCB SA,belgium,$22.71 B,healthcare,UCB
+Shanghai International Port,china,$22.65 B,industrials,600018
+Hewlett Packard Enterprise Company,united states,$22.65 B,technology,HPE
+Kellogg Company,united states,$22.63 B,consumer staples,K
+PICC Property and Casualty Company Ltd,china,$22.62 B,financials,2328
+Grupo Financiero Banorte SAB de CV,mexico,$22.60 B,financials,GFNORTEO
+Komatsu Ltd,japan,$22.56 B,industrials,6301
+The Hong Kong and China Gas Company Ltd,hong kong,$22.54 B,utilities,3
+Coca-Cola Europacific Partners plc,united kingdom,$22.53 B,consumer staples,CCEP
+"Essex Property Trust, Inc.",united states,$22.51 B,real estate,ESS
+EMS-CHEMIE HOLDING AG,switzerland,$22.48 B,basic materials,EMSN
+"Okta, Inc.",united states,$22.45 B,technology,OKTA
+China National Nuclear Power Co. Ltd,china,$22.42 B,utilities,601985
+Sumitomo Corp,japan,$22.42 B,industrials,8053
+Tata Motors Limited,india,$22.38 B,consumer discretionary,TTM
+Banco do Brasil SA,brazil,$22.36 B,financials,BBAS3
+Hennes & Mauritz AB,sweden,$22.33 B,consumer discretionary,HM.B
+"Bio-Rad Laboratories, Inc.",united states,NULL,healthcare,BIO
+Teleperformance SE,france,$22.30 B,industrials,TEP
+"Fomento Económico Mexicano, S.A.B. de C.V.",mexico,NULL,consumer staples,FEMSAUB
+"Huntington Bancshares, Inc.",united states,$22.26 B,financials,HU3
+"Continental Resources, Inc.",united states,$22.25 B,energy,CLR
+CRRC Corp Ltd,china,$22.21 B,industrials,601766
+"Skyworks Solutions, Inc.",united states,$22.17 B,technology,SWKS
+XP Inc.,brazil,NULL,financials,XPBR31
+Unicharm Corp,japan,$22.08 B,consumer staples,8113
+ZTO Express (Cayman) Inc.,china,$22.05 B,industrials,ZTO
+Geberit AG,switzerland,$22.03 B,industrials,GEBN
+Toyota Industries Corp,japan,$21.99 B,consumer discretionary,6201
+Cincinnati Financial Corporation,united states,$21.99 B,financials,CINF
+"CF Industries Holdings, Inc.",united states,$21.95 B,basic materials,CF
+NIBE Industrier AB,sweden,$21.93 B,industrials,NJB
+CNH Industrial N.V.,united kingdom,$21.93 B,industrials,CNHI
+Huntington Bancshares Incorporated,united states,$21.93 B,financials,HBAN
+Duke Realty Corporation,united states,$21.93 B,real estate,DRE
+Restaurant Brands International Limited Partnership,canada,NULL,consumer discretionary,QSP.UN
+"Monolithic Power Systems, Inc.",united states,$21.87 B,technology,MPWR
+Zebra Technologies Corporation,united states,$21.87 B,technology,ZBRA
+"Ulta Beauty, Inc.",united states,$21.82 B,consumer discretionary,ULTA
+"Dai-ichi Life Holdings, Inc.",japan,$21.76 B,financials,8750
+M&T Bank Corporation,united states,$21.74 B,financials,MTB
+KeyCorp,united states,$21.71 B,financials,KEY
+Teledyne Technologies Incorporated,united states,$21.65 B,technology,TDY
+"B3 S.A. - Brasil, Bolsa, Balcao",brazil,$21.58 B,financials,B3SA3
+"Contura Energy, Inc.",united states,$21.57 B,energy,CTRA
+"Shimano, Inc.",japan,$21.51 B,consumer discretionary,7309
+Power Corporation of Canada,canada,$21.48 B,financials,POW
+"J.B. Hunt Transport Services, Inc.",united states,$21.48 B,industrials,JBHT
+Mitsui Fudosan Co. Ltd,japan,$21.46 B,real estate,8801
+The Saudi British Bank,saudi arabia,$21.45 B,financials,1060
+SGS SA,switzerland,$21.43 B,industrials,SGSN
+Teck Resources Limited,canada,$21.41 B,basic materials,TECK.B
+Rede D'Or São Luiz SA,brazil,$21.40 B,healthcare,RDOR3
+NEXON Co. Ltd,japan,$21.36 B,communication services,3659
+"The Cooper Companies, Inc.",united states,$21.35 B,healthcare,COO
+Legal & General Group plc,united kingdom,$21.34 B,financials,LGEN
+Regions Financial Corporation,united states,$21.32 B,financials,RF
+Wheaton Precious Metals Corp.,canada,$21.26 B,basic materials,WPM
+ZoomInfo Technologies Inc.,united states,$21.23 B,technology,ZI
+ViacomCBS Inc.,united states,NULL,communication services,VIACA
+China Northern Rare Earth,china,$21.21 B,basic materials,600111
+Seagate Technology plc,ireland,$21.21 B,technology,STX
+China Mengniu Dairy Co Ltd,hong kong,$21.17 B,consumer staples,2319
+Ingersoll Rand Inc.,united states,$21.13 B,industrials,IR
+SEGRO plc,united kingdom,$21.08 B,real estate,SGRO
+Yandex N.V.,netherlands,NULL,communication services,YNDX
+Microchip Technology Incorporated,united states,$21.03 B,technology,MCHP
+"HubSpot, Inc.",united states,$20.93 B,technology,HUBS
+"FLEETCOR Technologies, Inc.",united states,$20.92 B,technology,FLT
+Fortive Corporation,united states,$20.88 B,technology,FTV
+AppLovin Corp,united states,$20.86 B,technology,APP
+Royal Caribbean Cruises Ltd.,united states,$20.81 B,consumer discretionary,RCL
+Repsol SA,spain,$20.80 B,energy,REP
+Marubeni Corp,japan,$20.78 B,industrials,8002
+Standard Chartered plc,united kingdom,$20.78 B,financials,STAN
+Li Ning Co Ltd,china,$20.75 B,consumer discretionary,2331
+CMS Energy Corporation,united states,$20.73 B,utilities,CMS
+STERIS Corp,united states,NULL,healthcare,S1TE34
+Advanced Info Service PCL,thailand,$20.65 B,communication services,ADVANC
+Kyocera Corp,japan,$20.62 B,technology,6971
+Pembina Pipeline Corporation,canada,$20.61 B,energy,PPL
+Flutter Entertainment plc,ireland,$20.58 B,consumer discretionary,FLTR
+Sojitz Corp,japan,$20.55 B,industrials,2768
+"Boston Properties, Inc.",united states,$20.54 B,real estate,BXP
+Synchrony Financial,united states,$20.43 B,financials,SYF
+Alinma Bank,saudi arabia,$20.41 B,financials,1150
+Investment AB Latour,sweden,$20.39 B,financials,LATO.B
+Mitsubishi Estate Co. Ltd,japan,$20.39 B,real estate,8802
+Guotai Junan Securities Co. Ltd,china,$20.39 B,financials,601211
+Nippon Paint Holdings Co. Ltd,japan,$20.38 B,basic materials,4612
+Carvana Co.,united states,$20.33 B,consumer discretionary,CVNA
+Markel Corporation,united states,$20.30 B,financials,MKL
+"Brown & Brown, Inc.",united states,$20.27 B,financials,BRO
+Nomura Research Institute Ltd,japan,$20.26 B,technology,4307
+MGM Resorts International,united states,$20.22 B,consumer discretionary,MGM
+Mega Financial Holding Co. Ltd,taiwan,$20.21 B,financials,2886
+Telefônica Brasil SA,brazil,$20.19 B,communication services,VIV
+Swiss Life Holding AG,switzerland,$20.16 B,financials,SLHN
+Telenor ASA,NULL,$20.15 B,NULL,TEL
+China Railway Group Ltd,hong kong,$20.15 B,industrials,390
+CTBC Financial Holding Co. Ltd,taiwan,$20.15 B,financials,2891
+Imperial Brands plc,united kingdom,$20.14 B,consumer staples,IMB
+"Principal Financial Group, Inc.",united states,$20.13 B,financials,PFG
+Norsk Hydro ASA,NULL,$20.10 B,NULL,NHY
+"PerkinElmer, Inc.",united states,$20.05 B,healthcare,PKI
+Hannover Rück SE,germany,$20.02 B,financials,HNRB
+"Sun Communities, Inc.",united states,$19.98 B,real estate,SUI
+Tradeweb Markets Inc.,united states,$19.98 B,financials,TW
+Trina Solar Co. Ltd,china,$19.94 B,technology,688599
+Vedanta Limited,india,$19.93 B,basic materials,VEDL
+"Paycom Software, Inc.",united states,$19.87 B,technology,PAYC
+Klabin SA,brazil,NULL,basic materials,KLBN11
+Kao Corp,japan,$19.85 B,consumer staples,4452
+"Teradyne, Inc.",united states,$19.85 B,technology,TER
+China Resources Beer (Holdings) Company Ltd,hong kong,$19.84 B,consumer staples,291
+China Communications Construction Co Ltd,china,$19.83 B,industrials,601800
+Aviva plc,united kingdom,$19.82 B,financials,AV.
+Standard Bank Group Ltd,south africa,$19.82 B,financials,SBK
+Ryanair Holdings plc,ireland,NULL,industrials,RY4C
+"Hologic, Inc.",united states,$19.75 B,healthcare,HOLX
+Kerry Group plc,ireland,$19.74 B,consumer staples,KRZ
+Renesas Electronics Corp,japan,$19.73 B,technology,6723
+Brookfield Infrastructure Partners L.P.,NULL,$19.70 B,NULL,BIP.UN
+Shiseido Co Ltd,japan,$19.69 B,consumer staples,4911
+CGI Inc.,canada,$19.67 B,technology,GIB.A
+Henderson Land Development Co Ltd,hong kong,$19.67 B,real estate,12
+"Bill.com Holdings, Inc.",united states,$19.65 B,technology,BILL
+Shanghai Fosun Pharmaceutical,china,$19.63 B,healthcare,600196
+"Akamai Technologies, Inc.",united states,$19.59 B,technology,AKAM
+China Tower Corp Ltd,china,$19.55 B,communication services,788
+"Huatai Securities Co., Ltd.",china,$19.55 B,financials,601688
+Marathon Oil Corporation,united states,$19.54 B,energy,MRO
+Arch Capital Group Ltd.,NULL,$19.54 B,NULL,ACGL
+TransUnion,united states,$19.53 B,industrials,TRU
+JBS SA,brazil,$19.53 B,consumer staples,JBSS3
+Shenzhou International Group Holdings Ltd,hong kong,$19.50 B,consumer discretionary,2313
+"Avantor, Inc.",united states,$19.48 B,basic materials,AVTR
+"Molina Healthcare, Inc.",united states,$19.46 B,healthcare,MOH
+"Ferrovial, SA",spain,$19.44 B,industrials,FER
+EDP - Energias de Portugal SA,NULL,$19.43 B,NULL,EDP
+Fresenius Medical Care AG & Co. KGaA,germany,$19.42 B,healthcare,FME
+Svenska Handelsbanken AB,sweden,$19.42 B,financials,SHB.A
+KB Financial Group Inc.,south korea,$19.39 B,financials,105560
+Magna International Inc.,canada,$19.36 B,consumer discretionary,MG
+Snam S.p.A.,italy,$19.27 B,utilities,SRG
+CGN Power Co. Ltd,china,$19.25 B,utilities,3816
+Croda International plc,united kingdom,NULL,basic materials,CRDA
+Warner Music Group Corp.,united states,$19.21 B,communication services,WMG
+Zhejiang Huayou Cobalt Co. Ltd,china,$19.20 B,basic materials,603799
+"SS&C Technologies Holdings, Inc.",united states,$19.15 B,technology,SSNC
+Carlsberg A-S,denmark,$19.12 B,consumer staples,CARL.A
+NICE Ltd.,israel,NULL,technology,NICE
+Waters Corporation,united states,$19.11 B,healthcare,WAT
+Otsuka Holdings Co. Ltd,japan,$19.03 B,healthcare,4578
+Tenaris SA,NULL,$18.98 B,NULL,TEN
+"Citizens Financial Group, Inc.",united states,$18.95 B,financials,CFG
+Check Point Software Technologies Ltd.,israel,$18.94 B,technology,CHKP
+Toshiba Corp,japan,$18.93 B,industrials,6502
+"LG Electronics, Inc.",south korea,$18.91 B,technology,66570
+Astra International Tbk PT,indonesia,$18.90 B,consumer discretionary,ASJA
+Omnicom Group Inc.,united states,$18.80 B,communication services,OMC
+"Aecc Aviation Power Co.,Ltd",china,$18.79 B,industrials,600893
+International Paper Company,united states,NULL,consumer discretionary,INPAP
+Scottish Mortgage Investment Trust plc,united kingdom,$18.78 B,financials,SMT
+George Weston Limited,canada,$18.77 B,consumer staples,WN
+"NetApp, Inc.",united states,$18.76 B,technology,NTAP
+"Healthpeak Properties, Inc.",united states,$18.76 B,real estate,PEAK
+"MS&AD Insurance Group Holdings, Inc.",japan,$18.75 B,financials,8725
+The Liberty SiriusXM Group,united states,$18.74 B,communication services,LSXMB
+Credit Suisse Group AG,switzerland,$18.72 B,financials,CSGN
+Air China Ltd,china,$18.72 B,industrials,601111
+Power Construction Corp of China Ltd,china,$18.69 B,industrials,601669
+"JD Health International, Inc.",china,$18.69 B,healthcare,8ZN
+South32 Limited,australia,$18.67 B,basic materials,S32
+"Huaneng Power International, Inc.",china,$18.57 B,utilities,600011
+HEICO Corporation,united states,$18.49 B,industrials,HEI
+GF Securities Co. Ltd,china,$18.44 B,financials,776
+Genuine Parts Company,united states,$18.41 B,consumer discretionary,GPC
+Vodacom Group Ltd,south africa,$18.41 B,communication services,VOD
+"Take-Two Interactive Software, Inc.",united states,$18.35 B,communication services,TTWO
+China Merchants Securities Co. Ltd,china,$18.35 B,financials,600999
+"Alnylam Pharmaceuticals, Inc.",united states,$18.33 B,healthcare,ALNY
+Aeon Co. Ltd,japan,$18.32 B,consumer discretionary,8267
+Link Real Estate Investment Trust,hong kong,$18.27 B,real estate,823
+Shionogi & Co. Ltd,japan,$18.27 B,healthcare,4507
+Ubiquiti Inc.,united states,$18.25 B,technology,UI
+"Quanta Services, Inc.",united states,$18.25 B,industrials,PWR
+"Catalent, Inc.",united states,$18.24 B,healthcare,CTLT
+Haitong Securities Co. Ltd,china,$18.23 B,financials,600837
+Asahi Group Holdings Ltd,japan,$18.21 B,consumer staples,2502
+Capitec Bank Holdings Ltd,south africa,$18.21 B,financials,CPI
+Restaurant Brands International Inc.,canada,$18.19 B,consumer discretionary,QSR
+"Yum China Holdings, Inc.",china,$18.18 B,consumer discretionary,YUMC
+CEZ AS,NULL,NULL,NULL,CEZ
+Veolia Environnement SA,france,$18.14 B,industrials,VIE
+"Avis Budget Group, Inc.",united states,$18.12 B,industrials,CAR
