@@ -1,0 +1,1001 @@
+,name,marketcap,stock,sector,industry,country
+0,apple inc.,doll_2.825 t,aapl,technology,consumer electronics,united states
+1,microsoft corporation,doll_2.328 t,msft,technology,software—infrastructure,united states
+2,saudi arabian oil company,doll_2.297 t,2222,energy,oil & gas integrated,saudi arabia
+3,alphabet inc.,doll_1.825 t,goog,communication services,internet content & information,united states
+4,"amazon.com, inc.",doll_1.642 t,amzn,consumer discretionary,internet retail,united states
+5,"tesla, inc.",doll_1.016 t,tsla,consumer discretionary,auto manufacturers,united states
+6,berkshire hathaway inc.,doll_798.47 b,brk.a,financials,financial conglomerates,united states
+7,nvidia corporation,doll_660.38 b,nvda,technology,semiconductors,united states
+8,"meta platforms, inc.",doll_617.50 b,meta,communication services,internet content & information,united states
+9,taiwan semiconductor manufacturing company limited,doll_527.89 b,2330,technology,semiconductors,taiwan
+10,unitedhealth group incorporated,doll_488.52 b,unh,healthcare,healthcare plans,united states
+11,visa inc.,doll_486.77 b,v,financials,credit services,united states
+12,johnson & johnson,doll_475.93 b,jnj,healthcare,drug manufacturers—general,united states
+13,tencent holdings ltd,doll_441.17 b,0700,communication services,internet content & information,china
+14,walmart inc.,doll_429.05 b,wmt,consumer staples,discount stores,united states
+15,jpmorgan chase & co.,doll_410.84 b,jpm,financials,banks,united states
+16,the procter & gamble company,doll_384.60 b,pg,consumer staples,household & personal products,united states
+17,"samsung electronics co., ltd.",doll_378.35 b,005930,technology,consumer electronics,south korea
+18,"lvmh moët hennessy - louis vuitton, se",doll_359.26 b,mc,consumer discretionary,luxury goods,france
+19,mastercard incorporated,doll_358.60 b,ma,financials,credit services,united states
+20,bank of america corporation,doll_350.84 b,bac,financials,banks,united states
+21,roche holding ag,doll_349.50 b,rog,healthcare,drug manufacturers—general,switzerland
+22,exxon mobil corporation,doll_348.72 b,xom,energy,oil & gas integrated,united states
+23,kweichow moutai co. ltd,doll_348.22 b,600519,consumer staples,beverages—wineries & distilleries,china
+24,"the home depot, inc.",doll_321.47 b,hd,consumer discretionary,home improvement retail,united states
+25,chevron corporation,doll_315.13 b,cvx,energy,oil & gas integrated,united states
+26,pfizer inc.,doll_300.79 b,pfe,healthcare,drug manufacturers—general,united states
+27,abbvie inc.,doll_294.27 b,abbv,healthcare,drug manufacturers—general,united states
+28,alibaba group holding limited,doll_290.40 b,9988,consumer discretionary,internet retail,china
+29,asml holding n.v.,doll_274.35 b,asml,technology,semiconductor equipment & materials,netherlands
+30,the coca-cola company,doll_273.20 b,ko,consumer staples,beverages—non-alcoholic,united states
+31,eli lilly and company,doll_273.01 b,lly,healthcare,drug manufacturers—general,united states
+32,broadcom inc.,doll_265.27 b,avgo,technology,semiconductors,united states
+33,costco wholesale corporation,doll_258.15 b,cost,consumer staples,discount stores,united states
+34,novo nordisk a/s,doll_257.24 b,novo.b,healthcare,biotechnology,denmark
+35,industrial & commercial bank of china ltd,doll_250.37 b,601398,financials,banks,china
+36,the walt disney company,doll_247.88 b,dis,communication services,entertainment,united states
+37,"pepsico, inc.",doll_241.05 b,pep,consumer staples,beverages—non-alcoholic,united states
+38,"cisco systems, inc.",doll_238.45 b,csco,technology,communication equipment,united states
+39,thermo fisher scientific inc.,doll_236.15 b,tmo,healthcare,diagnostics & research,united states
+40,oracle corporation,doll_228.18 b,orcl,technology,software—infrastructure,united states
+41,l'oréal sa,doll_225.24 b,or,consumer staples,household & personal products,france
+42,accenture plc,doll_219.03 b,acn,technology,information technology services,ireland
+43,comcast corporation,doll_218.90 b,cmcsa,communication services,entertainment,united states
+44,verizon communications inc.,doll_216.68 b,vz,communication services,telecom services,united states
+45,abbott laboratories,doll_215.02 b,abt,healthcare,medical devices,united states
+46,"nike, inc.",doll_213.60 b,nke,consumer discretionary,footwear & accessories,united states
+47,bhp group,doll_211.25 b,bhp,basic materials,other industrial metals & mining,australia
+48,"merck & co., inc.",doll_210.38 b,mrk,healthcare,drug manufacturers—general,united states
+49,danaher corporation,doll_208.03 b,dhr,healthcare,diagnostics & research,united states
+50,sea limited,doll_62.66 b,se,communication services,electronic gaming & multimedia,singapore
+51,"uber technologies, inc.",doll_62.66 b,uber,technology,software—application,united states
+52,moody's corporation,doll_62.58 b,mco,financials,financial data & stock exchanges,united states
+53,nintendo co ltd,doll_62.20 b,7974,communication services,electronic gaming & multimedia,japan
+54,pioneer natural resources company,doll_62.19 b,pxd,energy,oil & gas e&p,united states
+55,eaton corporation plc,doll_62.17 b,etn,industrials,specialty industrial machinery,ireland
+56,"analog devices, inc.",doll_62.00 b,adi,technology,semiconductors,united states
+57,"fidelity national information services, inc.",doll_61.73 b,fis,technology,information technology services,united states
+58,"banco santander, sa",doll_61.67 b,san,financials,banks,spain
+59,hapag-lloyd ag,doll_61.46 b,hlag,industrials,marine shipping,germany
+60,adyen n.v.,doll_61.11 b,adyen,technology,software—infrastructure,netherlands
+61,atlas copco ab,doll_60.97 b,atco.a,industrials,specialty industrial machinery,sweden
+62,cnooc limited,doll_60.19 b,0883,energy,oil & gas e&p,hong kong
+63,nutrien ltd.,doll_60.06 b,ntr,basic materials,agricultural inputs,canada
+64,"block, inc.",doll_59.95 b,sq,technology,software—infrastructure,united states
+65,deutsche post ag,doll_59.80 b,dpwa,industrials,integrated freight & logistics,germany
+66,"netease, inc.",doll_59.76 b,9999,communication services,internet content & information,china
+67,hong kong exchanges & clearing ltd,doll_59.75 b,0388,financials,financial data & stock exchanges,hong kong
+68,capital one financial corporation,doll_59.67 b,cof,financials,credit services,united states
+69,emerson electric co.,doll_59.66 b,emr,industrials,specialty industrial machinery,united states
+70,"palo alto networks, inc.",doll_59.65 b,panw,technology,software—infrastructure,united states
+71,australia and new zealand banking group limited,doll_59.55 b,anz,financials,banks,australia
+72,reckitt benckiser group plc,,rkt,consumer staples,household & personal products,united kingdom
+73,nongfu spring co. ltd,doll_59.50 b,9633,consumer staples,beverages—non-alcoholic,china
+74,saudi telecom company,doll_59.47 b,7010,communication services,telecom services,saudi arabia
+75,southern copper corporation,doll_59.46 b,scco,basic materials,copper,united states
+76,shenzhen mindray bio-medical electronics co. ltd,doll_59.26 b,300760,healthcare,medical devices,china
+77,vinci sa,doll_59.01 b,dg,industrials,engineering & construction,france
+78,"workday, inc.",doll_58.70 b,wday,technology,software—application,united states
+79,relx plc,doll_58.53 b,rel,communication services,publishing,united kingdom
+80,marvell technology group ltd.,doll_58.36 b,mrvl,,,
+81,"air products and chemicals, inc.",doll_57.82 b,apd,basic materials,chemicals,united states
+82,pernod ricard sa,doll_57.75 b,ri,consumer staples,beverages—wineries & distilleries,france
+83,schlumberger limited,doll_57.63 b,slb,energy,oil & gas equipment & services,united states
+84,"marvell technology, inc.",doll_57.62 b,9mw,technology,semiconductors,united states
+85,itaú unibanco holding sa,doll_57.45 b,itub,financials,banks,brazil
+86,enterprise products partners l.p.,doll_57.43 b,epd,energy,oil & gas midstream,united states
+87,foshan haitian flavouring and food company ltd,doll_57.40 b,603288,consumer staples,packaged foods,china
+88,mitsubishi corp,doll_57.23 b,8058,industrials,conglomerates,japan
+89,canadian imperial bank of commerce,doll_57.20 b,cm,financials,banks,canada
+90,"marriott international, inc.",doll_57.18 b,mar,consumer discretionary,lodging,united states
+91,pinduoduo inc.,doll_57.09 b,pdd,consumer discretionary,internet retail,china
+92,ihs markit ltd.,,info,industrials,consulting services,united kingdom
+93,the saudi national bank,doll_56.89 b,1180,financials,banks,saudi arabia
+94,tc energy corporation,doll_56.77 b,trp,energy,oil & gas midstream,canada
+95,humana inc.,doll_56.55 b,hum,healthcare,healthcare plans,united states
+96,kla corporation,doll_56.48 b,klac,technology,semiconductor equipment & materials,united states
+97,bank of communications co. ltd,doll_56.38 b,601328,financials,banks,china
+98,bayerische motoren werke ag,doll_56.17 b,bmwb,consumer discretionary,auto manufacturers,germany
+99,macquarie group limited,doll_55.99 b,mqg,financials,capital markets,australia
+100,sony group corporation,doll_126.64 b,6758,technology,consumer electronics,japan
+101,rio tinto group,doll_125.84 b,rio,basic materials,other industrial metals & mining,united kingdom
+102,aia group ltd,doll_125.16 b,1299,financials,insurance—life,hong kong
+103,lockheed martin corporation,doll_124.98 b,lmt,industrials,aerospace & defense,united states
+104,caterpillar inc.,doll_124.13 b,cat,industrials,farm & heavy construction machinery,united states
+105,anheuser-busch inbev sa/nv,,abi,consumer staples,beverages—brewers,belgium
+106,equinor asa,doll_122.74 b,eqnr,,,
+107,christian dior se,doll_122.11 b,cdi,consumer discretionary,luxury goods,france
+108,"prologis, inc.",doll_121.20 b,pld,real estate,reit—industrial,united states
+109,"applied materials, inc.",doll_121.12 b,amat,technology,semiconductor equipment & materials,united states
+110,"anthem, inc.",doll_119.80 b,antm,healthcare,healthcare plans,united states
+111,international business machines corporation,doll_119.20 b,ibm,technology,information technology services,united states
+112,unilever plc,doll_117.84 b,ulvr,consumer staples,household & personal products,united kingdom
+113,"blackrock, inc.",doll_115.98 b,blk,financials,asset management,united states
+114,hdfc bank limited,doll_115.68 b,hdb,financials,banks,india
+115,diageo plc,doll_115.58 b,dge,consumer staples,beverages—wineries & distilleries,united kingdom
+116,american tower corporation (reit),doll_115.11 b,amt,real estate,reit—specialty,united states
+117,siemens ag,doll_114.66 b,sie,industrials,specialty industrial machinery,germany
+118,meituan,doll_114.28 b,3690,consumer discretionary,internet retail,china
+119,keyence corp,doll_113.20 b,6861,technology,scientific & technical instruments,japan
+120,"the goldman sachs group, inc.",doll_112.71 b,gs,financials,capital markets,united states
+121,transurban group,doll_110.79 b,tcl,industrials,infrastructure operations,australia
+122,"industria de diseño textil, sa",,itx,consumer discretionary,apparel retail,spain
+123,the boeing company,doll_110.46 b,ba,industrials,aerospace & defense,united states
+124,glaxosmithkline plc,doll_109.98 b,gsk,healthcare,drug manufacturers—general,united kingdom
+125,citigroup inc.,doll_109.56 b,c,financials,banks,united states
+126,volkswagen ag,doll_108.63 b,vow3,consumer discretionary,auto manufacturers,germany
+127,starbucks corporation,doll_108.19 b,sbux,consumer discretionary,restaurants,united states
+128,vale sa,doll_107.99 b,vale3,basic materials,other industrial metals & mining,brazil
+129,"servicenow, inc.",doll_107.99 b,now,technology,software—application,united states
+130,target corporation,doll_106.89 b,tgt,consumer staples,discount stores,united states
+131,infosys limited,doll_106.77 b,infy,technology,information technology services,india
+132,al rajhi banking and investment corp,doll_106.37 b,1120,financials,banks,saudi arabia
+133,"airbnb, inc.",doll_105.07 b,abnb,communication services,internet content & information,united states
+134,"charter communications, inc.",doll_104.97 b,chtr,communication services,entertainment,united states
+135,byd co ltd,doll_104.42 b,002594,consumer discretionary,auto manufacturers,china
+136,saudi basic industries corp,doll_104.00 b,2010,basic materials,chemicals,saudi arabia
+137,nippon telegraph & telephone corp,doll_103.75 b,9432,communication services,telecom services,japan
+138,"altria group, inc.",doll_102.98 b,mo,consumer staples,tobacco,united states
+139,british american tobacco plc,doll_101.44 b,bats,consumer staples,tobacco,united kingdom
+140,stryker corporation,doll_101.41 b,syk,healthcare,medical devices,united states
+141,s&p global inc.,doll_100.84 b,spgi,financials,financial data & stock exchanges,united states
+142,the estée lauder companies inc.,doll_100.16 b,el,consumer staples,household & personal products,united states
+143,general electric company,doll_99.22 b,ge,industrials,specialty industrial machinery,united states
+144,daimler ag,,dai,consumer discretionary,auto manufacturers,germany
+145,chubb limited,doll_98.57 b,cb,financials,insurance—property & casualty,switzerland
+146,allianz se,doll_98.47 b,alv,financials,insurance—diversified,germany
+147,petróleo brasileiro s.a. - petrobras,doll_98.37 b,pbr,energy,oil & gas integrated,brazil
+148,airbus se,doll_97.41 b,air,industrials,aerospace & defense,netherlands
+149,china life insurance company limited,doll_97.31 b,lfc,financials,insurance—life,china
+150,"automatic data processing, inc.",doll_96.98 b,adp,industrials,staffing & employment services,united states
+151,bp plc,doll_96.24 b,bp.,energy,oil & gas integrated,united kingdom
+152,china shenhua energy company ltd,doll_95.34 b,601088,energy,thermal coal,china
+153,booking holdings inc.,doll_95.02 b,bkng,consumer discretionary,travel services,united states
+154,canadian national railway company,doll_94.96 b,cnr,industrials,railroads,canada
+155,enbridge inc.,doll_94.94 b,enb,energy,oil & gas midstream,canada
+156,schneider electric se,doll_94.34 b,su,industrials,specialty industrial machinery,france
+157,deutsche telekom ag,doll_93.01 b,dte,communication services,telecom services,germany
+158,merck kommanditgesellschaft auf aktien,doll_90.74 b,mrk,healthcare,drug manufacturers—specialty & generic,germany
+159,"mondelez international, inc.",doll_90.67 b,mdlz,consumer staples,confectioners,united states
+160,"jd.com, inc.",doll_90.46 b,9618,consumer discretionary,internet retail,china
+161,vulcan international corp,doll_90.34 b,vulc,basic materials,chemicals,united states
+162,zoetis inc.,doll_89.82 b,zts,healthcare,drug manufacturers—specialty & generic,united states
+163,csl limited,doll_89.69 b,csl,healthcare,biotechnology,australia
+164,3m company,doll_88.77 b,mmm,industrials,specialty industrial machinery,united states
+165,duke energy corporation,doll_88.76 b,duk,utilities,utilities—regulated electric,united states
+166,bank of nova scotia,doll_87.76 b,bns,financials,banks,canada
+167,the blackstone group inc.,doll_87.64 b,bx,financials,asset management,united states
+168,brookfield asset management inc.,doll_87.46 b,bam.a,financials,asset management,canada
+169,glencore plc,doll_87.31 b,glen,basic materials,other industrial metals & mining,switzerland
+170,cme group inc.,doll_87.17 b,cme,financials,financial data & stock exchanges,united states
+171,"marsh & mclennan companies, inc.",doll_87.16 b,mmc,financials,insurance brokers,united states
+172,"micron technology, inc.",doll_86.49 b,mu,technology,semiconductors,united states
+173,"mitsubishi ufj financial group, inc.",doll_85.03 b,8306,financials,banks,japan
+174,cigna corporation,doll_84.67 b,ci,healthcare,healthcare plans,united states
+175,shopify inc.,doll_83.80 b,shop,technology,software—application,canada
+176,air liquide sa,doll_83.24 b,ai,basic materials,chemicals,france
+177,"hca healthcare, inc.",doll_82.60 b,hca,healthcare,medical care facilities,united states
+178,national australia bank limited,doll_81.03 b,nab,financials,banks,australia
+179,crown castle international corp. (reit),doll_80.92 b,cci,real estate,reit—specialty,united states
+180,essilorluxottica sa,doll_80.49 b,el,healthcare,medical instruments & supplies,france
+181,u.s. bancorp,doll_80.16 b,usb,financials,banks,united states
+182,tokyo electron ltd,doll_79.62 b,8035,technology,semiconductor equipment & materials,japan
+183,bank of montreal,doll_79.22 b,bmo,financials,banks,canada
+184,kering sa,doll_78.66 b,ker,consumer discretionary,luxury goods,france
+185,china yangtze power co. ltd,doll_78.42 b,600900,utilities,utilities—independent power producers,china
+186,china petroleum & chemical corporation,doll_78.39 b,600028,energy,oil & gas integrated,china
+187,the southern company,doll_78.38 b,so,utilities,utilities—regulated electric,united states
+188,lam research corporation,doll_77.60 b,lrcx,technology,semiconductor equipment & materials,united states
+189,"the pnc financial services group, inc.",doll_77.10 b,pnc,financials,banks,united states
+190,"becton, dickinson and company",doll_76.98 b,bdx,healthcare,medical instruments & supplies,united states
+191,"gilead sciences, inc.",doll_76.15 b,gild,healthcare,drug manufacturers—general,united states
+192,"regeneron pharmaceuticals, inc.",doll_74.91 b,regn,healthcare,biotechnology,united states
+193,truist financial corporation,doll_74.79 b,tfc,financials,banks,united states
+194,canadian natural resources limited,doll_74.78 b,cnq,energy,oil & gas e&p,canada
+195,"intercontinental exchange, inc.",doll_74.17 b,ice,financials,financial data & stock exchanges,united states
+196,"the tjx companies, inc.",doll_73.99 b,tjx,consumer discretionary,apparel retail,united states
+197,atlassian corporation plc,doll_73.72 b,team,technology,software—application,australia
+198,zurich insurance group ag,doll_73.58 b,zurn,financials,insurance—diversified,switzerland
+199,edwards lifesciences corporation,doll_73.38 b,ew,healthcare,medical devices,united states
+200,hitachi ltd,doll_48.92 b,6501,industrials,conglomerates,japan
+201,scentre group,doll_48.83 b,scg,real estate,reit—retail,australia
+202,"mediatek, inc.",doll_48.74 b,2454,technology,semiconductors,taiwan
+203,lululemon athletica inc.,doll_48.52 b,lulu,consumer discretionary,apparel retail,canada
+204,dow inc.,doll_48.50 b,dow,basic materials,chemicals,united states
+205,rosneft oil co pjsc,doll_48.50 b,rosn,energy,oil & gas integrated,russia
+206,mckesson corporation,doll_48.46 b,mck,healthcare,medical distribution,united states
+207,suncor energy inc.,doll_48.27 b,su,energy,oil & gas integrated,canada
+208,"vmware, inc.",doll_48.17 b,vmw,technology,software—infrastructure,united states
+209,johnson controls international plc,doll_48.15 b,jci,industrials,engineering & construction,ireland
+210,"o'reilly automotive, inc.",doll_48.14 b,orly,consumer discretionary,specialty retail,united states
+211,grupo mexico sab de cv,doll_48.00 b,gmexicob,basic materials,other industrial metals & mining,mexico
+212,"crowdstrike holdings, inc.",doll_47.89 b,crwd,technology,software—infrastructure,united states
+213,naspers ltd,doll_47.73 b,npn,communication services,internet content & information,south africa
+214,"autodesk, inc.",doll_47.69 b,adsk,technology,software—application,united states
+215,"prudential financial, inc.",doll_47.17 b,pru,financials,insurance—life,united states
+216,open joint stock company omz,doll_47.15 b,omzzp,industrials,specialty industrial machinery,russia
+217,cognizant technology solutions corporation,doll_47.07 b,ctsh,technology,information technology services,united states
+218,nucor corporation,doll_46.86 b,nue,basic materials,steel,united states
+219,"dexcom, inc.",doll_46.86 b,dxcm,healthcare,diagnostics & research,united states
+220,banco bradesco sa,doll_46.71 b,bbdc3,financials,banks,brazil
+221,nidec corp,doll_46.33 b,6594,industrials,specialty industrial machinery,japan
+222,adidas ag,doll_46.13 b,ads1,consumer discretionary,footwear & accessories,germany
+223,sika ag,doll_46.01 b,sika,basic materials,specialty chemicals,switzerland
+224,"baidu, inc.",doll_45.98 b,9888,communication services,internet content & information,china
+225,takeda pharmaceutical company limited,doll_45.89 b,4502,healthcare,drug manufacturers—specialty & generic,japan
+226,the hershey company,doll_45.83 b,hsy,consumer staples,confectioners,united states
+227,amphenol corporation,doll_45.77 b,aph,technology,electronic components,united states
+228,vanjia corp,,vnja,consumer discretionary,residential construction,united states
+229,vodafone group plc,doll_45.74 b,vod,communication services,telecom services,united kingdom
+230,"idexx laboratories, inc.",doll_45.64 b,idxx,healthcare,diagnostics & research,united states
+231,"the travelers companies, inc.",doll_45.56 b,trv,financials,insurance—property & casualty,united states
+232,infineon technologies ag,doll_45.35 b,ifxa,technology,semiconductors,germany
+233,"constellation brands, inc.",doll_45.21 b,stz,consumer staples,beverages—wineries & distilleries,united states
+234,"datadog, inc.",doll_45.13 b,ddog,technology,software—application,united states
+235,mitsui & co. ltd,doll_45.09 b,8031,energy,oil & gas e&p,japan
+236,saudi arabian mining company ,doll_45.00 b,1211,basic materials,other industrial metals & mining,saudi arabia
+237,pjsc lukoil,doll_44.96 b,lkoh,energy,oil & gas integrated,russia
+238,intesa sanpaolo s.p.a.,doll_44.95 b,isp,financials,banks,italy
+239,te connectivity ltd.,doll_44.78 b,tel,technology,electronic components,switzerland
+240,"autozone, inc.",doll_44.39 b,azo,consumer discretionary,specialty retail,united states
+241,iqvia holdings inc.,doll_44.32 b,iqv,healthcare,diagnostics & research,united states
+242,cintas corporation,doll_44.32 b,ctas,industrials,specialty business services,united states
+243,"cadence design systems, inc.",doll_44.23 b,cdns,technology,software—application,united states
+244,"chipotle mexican grill, inc.",doll_44.11 b,cmg,consumer discretionary,restaurants,united states
+245,"sumitomo mitsui financial group, inc.",doll_44.06 b,8316,financials,banks,japan
+246,"samsung biologics co.,ltd.",doll_44.01 b,207940,healthcare,biotechnology,south korea
+247,wipro limited,doll_43.98 b,wipro,technology,information technology services,india
+248,zijin mining group co ltd,doll_43.93 b,601899,basic materials,gold,china
+249,hp inc.,doll_43.90 b,hpq,technology,computer hardware,united states
+250,shell plc,doll_207.68 b,shel,energy,oil & gas integrated,united kingdom
+251,novartis ag,doll_204.13 b,novn,healthcare,drug manufacturers—general,switzerland
+252,astrazeneca plc,doll_201.75 b,azn,healthcare,drug manufacturers—general,united kingdom
+253,intel corporation,doll_201.72 b,intc,technology,semiconductors,united states
+254,wells fargo & company,doll_200.01 b,wfc,financials,banks,united states
+255,adobe inc.,doll_199.57 b,adbe,technology,software—infrastructure,united states
+256,"salesforce.com, inc.",doll_193.80 b,crm,technology,software—application,united states
+257,"united parcel service, inc.",doll_190.50 b,ups,industrials,integrated freight & logistics,united states
+258,china construction bank corp,doll_189.37 b,601939,financials,banks,china
+259,mcdonald's corporation,doll_186.57 b,mcd,consumer discretionary,restaurants,united states
+260,china merchants bank co ltd,doll_185.98 b,600036,financials,banks,china
+261,contemporary amperex technology co. ltd,doll_185.67 b,300750,industrials,electrical equipment & parts,china
+262,union pacific corporation,doll_184.19 b,unp,industrials,railroads,united states
+263,at&t inc.,doll_175.88 b,t,communication services,telecom services,united states
+264,qualcomm incorporated,doll_172.25 b,qcom,technology,semiconductors,united states
+265,texas instruments incorporated,doll_171.28 b,txn,technology,semiconductors,united states
+266,bristol-myers squibb company,doll_170.56 b,bmy,healthcare,drug manufacturers—general,united states
+267,prosus n.v.,doll_170.00 b,prx,communication services,internet content & information,netherlands
+268,linde plc,doll_166.07 b,lin,basic materials,specialty chemicals,united kingdom
+269,"nextera energy, inc.",doll_165.53 b,nee,utilities,utilities—regulated electric,united states
+270,agricultural bank of china ltd,doll_165.00 b,601288,financials,banks,china
+271,"t-mobile us, inc.",doll_164.31 b,tmus,communication services,telecom services,united states
+272,morgan stanley,doll_164.05 b,ms,financials,capital markets,united states
+273,"netflix, inc.",doll_163.19 b,nflx,communication services,entertainment,united states
+274,royal bank of canada,doll_159.74 b,ry,financials,banks,canada
+275,the charles schwab corporation,doll_158.06 b,schw,financials,capital markets,united states
+276,philip morris international inc.,doll_154.71 b,pm,consumer staples,tobacco,united states
+277,medtronic plc,doll_151.06 b,mdt,healthcare,medical devices,ireland
+278,raytheon technologies corporation,doll_150.96 b,rtx,industrials,aerospace & defense,united states
+279,american express company,doll_150.76 b,axp,financials,credit services,united states
+280,hermès international sca,doll_148.98 b,rms,consumer discretionary,luxury goods,france
+281,toronto-dominion bank,doll_145.41 b,td,financials,banks,canada
+282,petrochina company limited,doll_144.50 b,601857,energy,oil & gas integrated,china
+283,commonwealth bank of australia,doll_144.32 b,cba,financials,banks,australia
+284,"lowe's companies, inc.",doll_143.77 b,low,consumer discretionary,home improvement retail,united states
+285,amgen inc.,doll_141.72 b,amgn,healthcare,drug manufacturers—general,united states
+286,bank of china ltd,doll_141.22 b,601988,financials,banks,china
+287,hsbc holdings plc,doll_140.15 b,hsba,financials,banks,united kingdom
+288,china mobile ltd,doll_139.30 b,0941,communication services,telecom services,hong kong
+289,totalenergies se,doll_137.50 b,tte,energy,oil & gas integrated,france
+290,honeywell international inc.,doll_136.48 b,hon,industrials,specialty industrial machinery,united states
+291,conocophillips,doll_136.32 b,cop,energy,oil & gas e&p,united states
+292,cvs health corporation,doll_135.27 b,cvs,healthcare,healthcare plans,united states
+293,ping an insurance (group) company of china ltd,doll_134.25 b,601318,financials,insurance—life,china
+294,sap se,doll_134.19 b,sap,technology,software—application,germany
+295,"paypal holdings, inc.",doll_133.92 b,pypl,financials,credit services,united states
+296,sanofi,doll_132.29 b,san,healthcare,drug manufacturers—general,france
+297,deere & company,doll_130.31 b,de,industrials,farm & heavy construction machinery,united states
+298,"advanced micro devices, inc.",doll_128.29 b,amd,technology,semiconductors,united states
+299,intuit inc.,doll_126.77 b,intu,technology,software—application,united states
+300,aon plc,doll_73.33 b,aon,financials,insurance brokers,united kingdom
+301,northrop grumman corporation,doll_73.25 b,noc,industrials,aerospace & defense,united states
+302,kddi corp,doll_73.12 b,9433,communication services,telecom services,japan
+303,norfolk southern corporation,doll_72.31 b,nsc,industrials,railroads,united states
+304,freeport-mcmoran inc.,doll_72.16 b,fcx,basic materials,copper,united states
+305,wal-mart de mexico sab de cv,doll_71.96 b,walmex,consumer staples,discount stores,mexico
+306,pt bank central asia tbk,doll_71.91 b,bbca,financials,banks,indonesia
+307,"eog resources, inc.",doll_71.90 b,eog,energy,oil & gas e&p,united states
+308,siemens healthineers ag,doll_71.50 b,shl,healthcare,diagnostics & research,germany
+309,anglo american plc,doll_71.48 b,aal,basic materials,other industrial metals & mining,united kingdom
+310,"moderna, inc.",doll_70.81 b,mrna,healthcare,biotechnology,united states
+311,general dynamics corporation,doll_70.55 b,gd,industrials,aerospace & defense,united states
+312,axa sa,doll_70.20 b,cs,financials,insurance—diversified,france
+313,"dominion energy, inc.",doll_70.20 b,d,utilities,utilities—diversified,united states
+314,enel spa,doll_70.15 b,enel,utilities,utilities—diversified,italy
+315,bnp paribas sa,doll_69.90 b,bnp,financials,banks,france
+316,"américa móvil, s.a.b. de c.v.",,amxa,communication services,telecom services,mexico
+317,public storage,doll_69.31 b,psa,real estate,reit—industrial,united states
+318,ubs group ag,doll_68.93 b,ubsg,financials,banks,switzerland
+319,sberbank of russia pjsc,doll_68.69 b,sber,financials,banks,russia
+320,"fiserv, inc.",doll_68.68 b,fisv,technology,information technology services,united states
+321,"iberdrola, sa",doll_68.23 b,ibe,utilities,utilities—diversified,spain
+322,recruit holdings co ltd,doll_68.11 b,6098,industrials,staffing & employment services,japan
+323,bayer ag,doll_68.09 b,bayn,healthcare,drug manufacturers—general,germany
+324,the sherwin-williams company,doll_67.54 b,shw,basic materials,specialty chemicals,united states
+325,vertex pharmaceuticals incorporated,doll_67.49 b,vrtx,healthcare,biotechnology,united states
+326,illinois tool works inc.,doll_67.49 b,itw,industrials,specialty industrial machinery,united states
+327,the progressive corporation,doll_67.31 b,pgr,financials,insurance—property & casualty,united states
+328,westpac banking corporation,doll_67.20 b,wbc,financials,banks,australia
+329,abb ltd,doll_67.19 b,abbn,industrials,electrical equipment & parts,switzerland
+330,"waste management, inc.",doll_66.95 b,wm,industrials,waste management,united states
+331,industrial bank co. ltd,doll_66.87 b,601166,financials,banks,china
+332,dbs group holdings ltd,doll_66.74 b,d05,financials,banks,singapore
+333,icici bank limited,doll_66.62 b,ibn,financials,banks,india
+334,"equinix, inc. (reit)",doll_66.35 b,eqix,real estate,reit—specialty,united states
+335,newmont corporation,doll_65.89 b,nem,basic materials,gold,united states
+336,ford motor company,doll_65.74 b,f,consumer discretionary,auto manufacturers,united states
+337,colgate-palmolive company,doll_65.64 b,cl,consumer staples,household & personal products,united states
+338,exelon corporation,doll_65.53 b,exc,utilities,utilities—diversified,united states
+339,snowflake inc.,doll_65.04 b,snow,technology,software—application,united states
+340,oriental land co. ltd,doll_64.66 b,4661,consumer discretionary,leisure,japan
+341,"sk hynix, inc.",,000660,technology,semiconductors,south korea
+342,ap moller - maersk a-s,doll_64.40 b,maersk.b,industrials,marine shipping,denmark
+343,shin-etsu chemical co ltd,doll_63.43 b,4063,basic materials,chemicals,japan
+344,fedex corporation,doll_63.25 b,fdx,industrials,integrated freight & logistics,united states
+345,boston scientific corporation,doll_63.08 b,bsx,healthcare,medical devices,united states
+346,pacificorp,doll_62.87 b,ppwlm,utilities,utilities—diversified,united states
+347,dassault systèmes se,doll_62.75 b,dsy,technology,software—application,france
+348,"metlife, inc.",doll_62.69 b,met,financials,insurance—life,united states
+349,general motors company,doll_62.69 b,gm,consumer discretionary,auto manufacturers,united states
+350,national grid plc,doll_55.88 b,ng.,utilities,utilities—diversified,united kingdom
+351,"daikin industries,ltd.",doll_55.58 b,6367,industrials,building products & equipment,japan
+352,chugai pharmaceutical co. ltd,doll_55.31 b,4519,healthcare,drug manufacturers—general,japan
+353,keurig dr pepper inc.,doll_55.28 b,kdp,consumer staples,beverages—non-alcoholic,united states
+354,ergo science corp,,ergn,industrials,staffing & employment services,united states
+355,softbank group corp.,doll_54.93 b,9984,communication services,telecom services,japan
+356,heineken n.v.,doll_54.87 b,heia,consumer staples,beverages—brewers,netherlands
+357,ambev sa,doll_54.69 b,abev3,consumer staples,beverages—brewers,brazil
+358,canadian pacific railway limited,doll_54.59 b,cp,industrials,railroads,canada
+359,marathon petroleum corporation,doll_54.54 b,mpc,energy,oil & gas refining & marketing,united states
+360,"american international group, inc.",doll_54.31 b,aig,financials,insurance—diversified,united states
+361,dollar general corporation,doll_54.30 b,dg,consumer staples,discount stores,united states
+362,"fortinet, inc.",doll_53.86 b,ftnt,technology,software—infrastructure,united states
+363,snap inc.,doll_53.86 b,snap,communication services,internet content & information,united states
+364,ferrari n.v.,doll_53.78 b,race,consumer discretionary,auto manufacturers,italy
+365,lonza group ltd,doll_53.76 b,lonn,healthcare,diagnostics & research,switzerland
+366,london stock exchange group plc,doll_53.33 b,lseg,financials,financial data & stock exchanges,united kingdom
+367,thomson reuters corporation,doll_53.30 b,tri,industrials,consulting services,canada
+368,basf se,doll_52.76 b,bas,basic materials,chemicals,germany
+369,sempra energy,doll_52.47 b,sre,utilities,utilities—diversified,united states
+370,occidental petroleum corporation,doll_52.30 b,oxy,energy,oil & gas e&p,united states
+371,"liberty bancshares, inc. (oh)",,lbsi,financials,banks,united states
+372,fast retailing co. ltd,doll_52.29 b,9983,consumer discretionary,apparel retail,japan
+373,nxp semiconductors n.v.,doll_52.28 b,nxpi,technology,semiconductors,netherlands
+374,"xilinx, inc.",,xlnx,technology,semiconductors,united states
+375,itochu corp,doll_52.19 b,8001,industrials,conglomerates,japan
+376,eni s.p.a.,doll_52.00 b,eni,energy,oil & gas integrated,italy
+377,stellantis n.v.,doll_51.80 b,stla,consumer discretionary,auto manufacturers,netherlands
+378,bce inc.,doll_51.71 b,bce,communication services,telecom services,canada
+379,denso corp,doll_51.58 b,6902,consumer discretionary,auto parts,japan
+380,toyota motor corporation,doll_51.55 b,7203,consumer discretionary,auto manufacturers,japan
+381,"l3harris technologies, inc.",doll_51.51 b,lhx,industrials,aerospace & defense,united states
+382,"agribank, fcb",,agrip,financials,credit services,united states
+383,general accident plc,doll_51.43 b,gaca,financials,insurance—property & casualty,united kingdom
+384,archer-daniels-midland company,doll_51.03 b,adm,consumer staples,farm products,united states
+385,"american electric power company, inc.",doll_50.95 b,aep,utilities,utilities—regulated electric,united states
+386,fortescue metals group limited,doll_50.76 b,fmg,basic materials,other industrial metals & mining,australia
+387,hon hai precision industry co. ltd,doll_50.75 b,2317,technology,electronic components,taiwan
+388,china tourism group duty free corp ltd,doll_50.46 b,601888,consumer discretionary,travel services,china
+389,ecolab inc.,doll_50.29 b,ecl,basic materials,specialty chemicals,united states
+390,novatek pjsc,doll_50.19 b,nvtk,energy,oil & gas e&p,russia
+391,"synopsys, inc.",doll_50.18 b,snps,technology,software—infrastructure,united states
+392,safran sa,doll_50.02 b,saf,industrials,aerospace & defense,france
+393,"illumina, inc.",doll_49.91 b,ilmn,healthcare,diagnostics & research,united states
+394,"mercadolibre, inc.",doll_49.83 b,meli,consumer discretionary,internet retail,argentina
+395,"roper technologies, inc.",doll_49.66 b,rop,industrials,specialty industrial machinery,united states
+396,the kraft heinz company,doll_49.42 b,khc,consumer staples,packaged foods,united states
+397,centene corporation,doll_49.32 b,cnc,healthcare,healthcare plans,united states
+398,"paychex, inc.",doll_49.23 b,payx,industrials,staffing & employment services,united states
+399,"honda motor co., ltd.",doll_49.11 b,7267,consumer discretionary,auto manufacturers,japan
+400,lloyds banking group plc,doll_43.70 b,lloy,financials,banks,united kingdom
+401,"simon property group, inc.",doll_43.69 b,spg,real estate,reit—retail,united states
+402,aflac incorporated,doll_43.59 b,afl,financials,insurance—life,united states
+403,barrick gold corporation,doll_43.50 b,abx,basic materials,gold,canada
+404,murata manufacturing co. ltd,doll_43.41 b,6981,technology,electronic components,japan
+405,"kinder morgan, inc.",doll_43.38 b,kmi,energy,oil & gas midstream,united states
+406,kimberly-clark corporation,doll_43.21 b,kmb,consumer staples,household & personal products,united states
+407,xiaomi corp,doll_43.10 b,1810,technology,consumer electronics,china
+408,wesfarmers limited,doll_43.09 b,wes,consumer discretionary,home improvement retail,australia
+409,"republic services, inc.",doll_42.91 b,rsg,industrials,waste management,united states
+410,hoya corp,doll_42.88 b,7741,healthcare,medical instruments & supplies,japan
+411,yihai kerry arawana holdings co. ltd,doll_42.84 b,300999,consumer staples,packaged foods,china
+412,monster beverage corporation,doll_42.81 b,mnst,consumer staples,beverages—non-alcoholic,united states
+413,longi green energy technology co. ltd,doll_42.68 b,601012,technology,semiconductor equipment & materials,china
+414,"corteva, inc.",doll_42.66 b,ctva,basic materials,agricultural inputs,united states
+415,"general mills, inc.",doll_42.65 b,gis,consumer staples,packaged foods,united states
+416,seven & i holdings co. ltd,doll_42.53 b,3382,consumer staples,grocery stores,japan
+417,dsv panalpina a-s,doll_42.49 b,dsv,industrials,integrated freight & logistics,denmark
+418,hilton worldwide holdings inc.,doll_42.39 b,hlt,consumer discretionary,lodging,united states
+419,wuxi apptec co. ltd,doll_42.25 b,603259,healthcare,diagnostics & research,china
+420,sysco corporation,doll_42.22 b,syy,consumer staples,food distribution,united states
+421,the kroger co.,doll_42.03 b,kr,consumer staples,grocery stores,united states
+422,manulife financial corporation,doll_41.98 b,mfc,financials,insurance—life,canada
+423,biontech se,doll_41.93 b,22ua,healthcare,biotechnology,germany
+424,stmicroelectronics n.v.,doll_41.91 b,stm,technology,semiconductors,switzerland
+425,devon energy corporation,doll_41.82 b,dvn,energy,oil & gas e&p,united states
+426,"the williams companies, inc.",doll_41.60 b,wmb,energy,oil & gas midstream,united states
+427,the allstate corporation,doll_41.54 b,all,financials,insurance—property & casualty,united states
+428,hang seng bank limited,doll_41.47 b,0011,financials,banks,hong kong
+429,valero energy corporation,doll_41.27 b,vlo,energy,oil & gas refining & marketing,united states
+430,ing groep n.v.,doll_41.25 b,inga,financials,banks,netherlands
+431,mmc norilsk nickel pjsc,doll_41.16 b,gmkn,basic materials,other industrial metals & mining,russia
+432,"motorola solutions, inc.",doll_40.87 b,msi,technology,communication equipment,united states
+433,"east money information co.,ltd.",doll_40.83 b,300059,communication services,internet content & information,china
+434,the bank of new york mellon corporation,doll_40.83 b,bk,financials,asset management,united states
+435,carrier global corporation,doll_40.79 b,carr,industrials,building products & equipment,united states
+436,oversea-chinese banking corp ltd,doll_40.77 b,o39,financials,banks,singapore
+437,"digital realty trust, inc.",doll_40.64 b,dlr,real estate,reit—office,united states
+438,"walgreens boots alliance, inc.",doll_40.55 b,wba,healthcare,pharmaceutical retailers,united states
+439,"agilent technologies, inc.",doll_40.49 b,a,healthcare,diagnostics & research,united states
+440,global payments inc.,doll_40.35 b,gpn,industrials,specialty business services,united states
+441,citic securities company ltd,doll_40.17 b,600030,financials,capital markets,china
+442,baxter international inc.,doll_40.13 b,bax,healthcare,medical instruments & supplies,united states
+443,boc hong kong holdings ltd,doll_39.99 b,2388,financials,banks,hong kong
+444,msci inc.,doll_39.97 b,msci,financials,financial data & stock exchanges,united states
+445,welltower inc.,doll_39.96 b,well,real estate,reit—healthcare facilities,united states
+446,xcel energy inc.,doll_39.76 b,xel,utilities,utilities—regulated electric,united states
+447,united overseas bank ltd,doll_39.73 b,u11,financials,banks,singapore
+448,wanhua chemical group co. ltd,doll_39.73 b,600309,basic materials,chemicals,china
+449,"dupont de nemours, inc.",doll_39.72 b,dd,basic materials,chemicals,united states
+450,eqt ab,doll_39.71 b,6eq,financials,asset management,japan
+451,alimentation couche-tard inc.,,atd.b,consumer staples,grocery stores,canada
+452,ebay inc.,doll_39.34 b,ebay,consumer discretionary,internet retail,united states
+453,givaudan sa,doll_39.29 b,givn,basic materials,specialty chemicals,switzerland
+454,novozymes a-s,doll_39.03 b,nzym.b,basic materials,chemicals,denmark
+455,prudential plc,doll_39.00 b,pru,financials,insurance—life,united kingdom
+456,alcon inc.,doll_38.90 b,alc,healthcare,medical instruments & supplies,switzerland
+457,ecopetrol sa,doll_38.69 b,ec,,,
+458,baker hughes company,doll_38.39 b,bkr,energy,oil & gas equipment & services,united states
+459,"banco bilbao vizcaya argentaria, sa",doll_38.25 b,bbva,financials,banks,spain
+460,dell technologies inc.,doll_38.16 b,dell,technology,computer hardware,united states
+461,kuaishou technology,doll_38.15 b,1024,communication services,broadcasting,china
+462,ab volvo,doll_38.13 b,vol4,industrials,farm & heavy construction machinery,sweden
+463,crédit agricole sa,doll_38.01 b,aca,financials,banks,france
+464,"dollar tree, inc.",doll_38.00 b,dltr,consumer staples,discount stores,united states
+465,sba communications corporation,doll_37.93 b,sbac,real estate,reit—specialty,united states
+466,capgemini se,doll_37.82 b,cap,technology,information technology services,france
+467,daiichi sankyo company ltd,doll_37.79 b,4568,healthcare,drug manufacturers—general,japan
+468,compass group plc,doll_37.73 b,cpg,consumer discretionary,restaurants,united kingdom
+469,sartorius stedim biotech sa,doll_37.55 b,dim,healthcare,medical instruments & supplies,france
+470,pt bank rakyat indonesia (persero) tbk,,byra,financials,banks,indonesia
+471,phillips 66,doll_37.51 b,psx,energy,oil & gas refining & marketing,united states
+472,electronic arts inc.,doll_37.38 b,ea,communication services,electronic gaming & multimedia,united states
+473,trane technologies plc,doll_37.36 b,tt,industrials,specialty industrial machinery,ireland
+474,smc corp,doll_37.08 b,6273,industrials,specialty industrial machinery,japan
+475,parker-hannifin corporation,doll_37.05 b,ph,industrials,specialty industrial machinery,united states
+476,"tokio marine holdings, inc.",,8766,financials,insurance—property & casualty,japan
+477,jiangsu hengrui medicine co. ltd,doll_36.90 b,600276,healthcare,drug manufacturers—general,china
+478,"beijing-shanghai high-speed railway co.,ltd.",doll_36.90 b,601816,industrials,railroads,china
+479,münchener rückversicherungs-gesellschaft aktiengesellschaft in münchen,doll_36.89 b,muv2,financials,insurance—reinsurance,germany
+480,"doordash, inc.",doll_36.74 b,dash,communication services,internet content & information,united states
+481,shanghai pudong development bank co. ltd,doll_36.72 b,600000,financials,banks,china
+482,constellation software inc.,doll_36.67 b,csu,technology,software—application,canada
+483,inner mongolia yili industrial group co. ltd,doll_36.61 b,600887,consumer staples,packaged foods,china
+484,telus corporation,doll_36.37 b,t,communication services,telecom services,canada
+485,public service enterprise group incorporated,doll_36.28 b,peg,utilities,utilities—diversified,united states
+486,transdigm group incorporated,doll_36.14 b,tdg,industrials,aerospace & defense,united states
+487,"waste connections, inc.",doll_36.14 b,wcn,industrials,waste management,united states
+488,lyondellbasell industries n.v.,doll_35.96 b,lyb,basic materials,specialty chemicals,united states
+489,danone sa,doll_35.93 b,bn,consumer staples,packaged foods,france
+490,"cloudflare, inc.",doll_35.92 b,net,technology,software—infrastructure,united states
+491,nio limited,doll_35.86 b,nio,consumer discretionary,auto manufacturers,china
+492,"coinbase global, inc.",doll_35.86 b,coin,technology,software—application,united states
+493,"shanxi xinghuacun fen wine factory co.,ltd.",doll_35.84 b,600809,consumer staples,beverages—wineries & distilleries,china
+494,neste oyj,doll_35.57 b,neste,energy,oil & gas refining & marketing,finland
+495,resmed inc.,doll_35.44 b,rmd,healthcare,medical instruments & supplies,united states
+496,experian plc,doll_35.40 b,expn,industrials,consulting services,ireland
+497,"intuitive surgical, inc.",doll_35.37 b,isrg,healthcare,medical instruments & supplies,united states
+498,woolworths group limited,doll_35.33 b,wow,consumer staples,grocery stores,australia
+499,mplx lp,doll_35.27 b,mplx,energy,oil & gas midstream,united states
+500,telstra corporation limited,doll_35.24 b,tls,communication services,telecom services,australia
+501,hexagon ab ,doll_35.21 b,hxg,technology,scientific & technical instruments,sweden
+502,assicurazioni generali,doll_35.20 b,g,financials,insurance—diversified,italy
+503,"avalonbay communities, inc.",doll_35.19 b,avb,real estate,reit—residential,united states
+504,imperial oil limited,doll_35.13 b,imo,energy,oil & gas integrated,canada
+505,"yum! brands, inc.",doll_35.12 b,yum,consumer discretionary,restaurants,united states
+506,sun hung kai properties ltd,doll_35.04 b,0016,real estate,real estate—development,hong kong
+507,"old dominion freight line, inc.",doll_34.94 b,odfl,industrials,trucking,united states
+508,"cheniere energy, inc.",doll_34.92 b,lng,energy,oil & gas midstream,united states
+509,"consolidated edison, inc.",doll_34.89 b,ed,utilities,utilities—regulated electric,united states
+510,china citic bank corp ltd,doll_34.84 b,601998,financials,banks,china
+511,budweiser brewing company apac ltd,doll_34.73 b,1876,consumer staples,beverages—brewers,hong kong
+512,arcelormittal,doll_34.66 b,mt,,,
+513,"ameriprise financial, inc.",doll_34.64 b,amp,financials,asset management,united states
+514,fastenal company,doll_34.58 b,fast,industrials,industrial distribution,united states
+515,"align technology, inc.",doll_34.49 b,algn,healthcare,medical devices,united states
+516,verbund ag,doll_34.44 b,oew,,,
+517,sydney airport limited,,syd,industrials,airports & air services,australia
+518,"verisk analytics, inc.",doll_34.39 b,vrsk,industrials,consulting services,united states
+519,z holdings corp,doll_34.24 b,4689,consumer discretionary,internet retail,japan
+520,arthur j. gallagher & co.,doll_34.22 b,ajg,financials,insurance brokers,united states
+521,chongqing zhifei biological products co. ltd,doll_34.13 b,300122,healthcare,biotechnology,china
+522,equity residential,doll_34.11 b,eqr,real estate,reit—residential,united states
+523,"chunghwa telecom co., ltd.",doll_34.06 b,2412,communication services,telecom services,taiwan
+524,"t. rowe price group, inc.",doll_34.01 b,trow,financials,asset management,united states
+525,halliburton company,doll_33.95 b,hal,energy,oil & gas equipment & services,united states
+526,"tyson foods, inc.",doll_33.73 b,tsn,consumer staples,farm products,united states
+527,discover financial services,doll_33.73 b,dfs,financials,credit services,united states
+528,kuehne + nagel international ag,doll_33.69 b,knin,industrials,integrated freight & logistics,switzerland
+529,fanuc corp,doll_33.68 b,6954,industrials,specialty industrial machinery,japan
+530,mtr corp ltd,doll_33.66 b,0066,industrials,railroads,hong kong
+531,poly developments and holdings group co. ltd,doll_33.64 b,600048,real estate,real estate—development,china
+532,kkr & co. inc.,doll_33.49 b,kkr,financials,asset management,united states
+533,"mizuho financial group, inc.",doll_33.47 b,8411,financials,banks,japan
+534,ptt pcl,doll_33.46 b,ptt,energy,oil & gas integrated,thailand
+535,koninklijke ahold delhaize n.v.,doll_33.43 b,ad,consumer staples,grocery stores,netherlands
+536,china vanke co. ltd,doll_33.35 b,000002,real estate,real estate—development,china
+537,international flavors & fragrances inc.,doll_33.32 b,iff,basic materials,specialty chemicals,united states
+538,telefonaktiebolaget lm ericsson,doll_33.29 b,eric.a,technology,communication equipment,sweden
+539,china resources land ltd,doll_33.26 b,1109,real estate,real estate—development,hong kong
+540,"zoom video communications, inc.",doll_33.22 b,zm,communication services,telecom services,united states
+541,otis worldwide corporation,doll_33.09 b,otis,industrials,specialty industrial machinery,united states
+542,sun life financial inc.,doll_33.08 b,slf,financials,insurance—diversified,canada
+543,"rockwell automation, inc.",doll_33.05 b,rok,industrials,specialty industrial machinery,united states
+544,aptiv plc,doll_33.02 b,aptv,consumer discretionary,auto parts,ireland
+545,cenovus energy inc.,doll_33.02 b,cve,energy,oil & gas integrated,canada
+546,deutsche börse ag,doll_32.99 b,db1,financials,financial data & stock exchanges,germany
+547,orange sa,doll_32.84 b,ora,communication services,telecom services,france
+548,hess corporation,doll_32.81 b,hes,energy,oil & gas e&p,united states
+549,natwest group plc,doll_32.72 b,nwg,financials,banks,united kingdom
+550,"ross stores, inc.",doll_32.71 b,rost,consumer discretionary,apparel retail,united states
+551,"wec energy group, inc.",doll_32.54 b,wec,utilities,utilities—regulated electric,united states
+552,amerisourcebergen corporation,doll_32.51 b,abc,healthcare,medical distribution,united states
+553,china overseas land & investment ltd,doll_32.49 b,0688,real estate,real estate—development,hong kong
+554,wuxi biologics ,doll_32.41 b,2269,healthcare,biotechnology,china
+555,citic ltd,doll_32.33 b,0267,industrials,conglomerates,hong kong
+556,"cellnex telecom, sa",doll_32.32 b,clnx,communication services,telecom services,spain
+557,haier smart home co ltd,doll_32.31 b,600690,consumer discretionary,"furnishings, fixtures & appliances",china
+558,singapore telecommunications ltd,doll_32.23 b,z74,communication services,telecom services,singapore
+559,anta sports products ltd,doll_32.20 b,2020,consumer discretionary,leisure,china
+560,barclays plc,doll_32.19 b,barc,financials,banks,united kingdom
+561,brown-forman corporation,doll_32.07 b,bf.b,consumer staples,beverages—wineries & distilleries,united states
+562,weg sa,doll_32.05 b,wege3,industrials,specialty industrial machinery,brazil
+563,paccar inc,doll_32.04 b,pcar,industrials,farm & heavy construction machinery,united states
+564,great wall motor co ltd,doll_32.01 b,601633,consumer discretionary,auto manufacturers,china
+565,longfor group holdings ltd,doll_31.98 b,0960,real estate,real estate—development,china
+566,"japan post bank co.,ltd.",doll_31.93 b,7182,financials,banks,japan
+567,"ppg industries, inc.",doll_31.89 b,ppg,basic materials,specialty chemicals,united states
+568,perusahaan perseroan (persero) pt telekomunikasi indonesia tbk,doll_31.78 b,tlk,communication services,telecom services,indonesia
+569,mettler-toledo international inc.,doll_31.78 b,mtd,healthcare,diagnostics & research,united states
+570,"oneok, inc.",doll_31.66 b,oke,energy,oil & gas midstream,united states
+571,goodman group,doll_31.64 b,gmg,real estate,reit—diversified,australia
+572,corning incorporated,doll_31.60 b,glw,technology,electronic components,united states
+573,"japan tobacco, inc.",doll_31.59 b,2914,consumer staples,tobacco,japan
+574,foxconn industrial internet co. ltd,doll_31.58 b,601138,technology,communication equipment,china
+575,eversource energy,doll_31.56 b,es,utilities,utilities—regulated electric,united states
+576,china telecom corp ltd,doll_31.49 b,0728,communication services,telecom services,hong kong
+577,crh plc,doll_31.45 b,crh,basic materials,building materials,ireland
+578,japan post holdings co. ltd,doll_31.41 b,6178,financials,banks,japan
+579,biogen inc.,doll_31.35 b,biib,healthcare,drug manufacturers—general,united states
+580,swisscom ag,doll_31.26 b,scmn,communication services,telecom services,switzerland
+581,koninklijke dsm n.v.,doll_31.25 b,dsm,basic materials,specialty chemicals,netherlands
+582,formosa petrochemical corp,doll_31.22 b,6505,energy,oil & gas refining & marketing,taiwan
+583,zhangzhou pientzehuang pharmaceutical. ltd,doll_31.17 b,600436,healthcare,drug manufacturers—general,china
+584,"ametek, inc.",doll_31.15 b,ame,industrials,specialty industrial machinery,united states
+585,e.on se,doll_31.12 b,eoaa,utilities,utilities—diversified,germany
+586,china pacific insurance ,doll_31.04 b,601601,financials,insurance—life,china
+587,"zscaler, inc.",doll_31.03 b,zs,technology,software—infrastructure,united states
+588,anhui conch cement company ltd,doll_31.02 b,600585,basic materials,building materials,china
+589,franco-nevada corporation,doll_31.00 b,fnv,basic materials,gold,canada
+590,engie sa,doll_31.00 b,engi,utilities,utilities—diversified,france
+591,state street corporation,doll_30.95 b,stt,financials,asset management,united states
+592,saic motor corp ltd,doll_30.93 b,600104,consumer discretionary,auto manufacturers,china
+593,nokia corporation,doll_30.91 b,nokia.sek,technology,communication equipment,finland
+594,"twitter, inc.",doll_30.83 b,twtr,communication services,internet content & information,united states
+595,veeva systems inc.,doll_30.76 b,veev,healthcare,health information services,united states
+596,loblaw companies limited,doll_30.70 b,l,consumer staples,grocery stores,canada
+597,energy transfer lp,doll_30.69 b,et,energy,oil & gas midstream,united states
+598,henkel ag & co kgaa,doll_30.53 b,hen,consumer staples,household & personal products,germany
+599,"coupang, inc.",doll_30.53 b,cpng,consumer discretionary,internet retail,south korea
+600,ferguson plc,doll_30.52 b,ferg,industrials,industrial distribution,united kingdom
+601,bae systems plc,doll_30.51 b,ba.,industrials,aerospace & defense,united kingdom
+602,fifth third bancorp,doll_30.46 b,fitb,financials,banks,united states
+603,"cbre group, inc.",doll_30.45 b,cbre,real estate,real estate services,united states
+604,"american water works company, inc.",doll_30.43 b,awk,utilities,utilities—regulated water,united states
+605,fujitsu ltd,doll_30.28 b,6702,technology,information technology services,japan
+606,"west pharmaceutical services, inc.",doll_30.23 b,wst,healthcare,medical instruments & supplies,united states
+607,compagnie de saint-gobain sa,doll_30.16 b,sgo,industrials,building products & equipment,france
+608,"alexandria real estate equities, inc.",doll_30.10 b,are,real estate,reit—office,united states
+609,assa abloy ab ,doll_30.05 b,alz,industrials,security & protection services,sweden
+610,cummins inc.,doll_29.94 b,cmi,industrials,specialty industrial machinery,united states
+611,vestas wind systems a-s,doll_29.93 b,vws,industrials,specialty industrial machinery,denmark
+612,riyad bank,doll_29.86 b,1010,financials,banks,saudi arabia
+613,willis towers watson plc,,wltw,financials,insurance brokers,united kingdom
+614,"match group, inc.",doll_29.82 b,mtch,communication services,internet content & information,united states
+615,kbc group nv,doll_29.81 b,kdb,financials,banks,belgium
+616,unicredit s.p.a.,,ucg,financials,banks,italy
+617,cathay financial holding co. ltd,doll_29.58 b,2882,financials,insurance—life,taiwan
+618,"copart, inc.",doll_29.58 b,cprt,industrials,specialty business services,united states
+619,spotify technology sa,doll_29.56 b,spot,,,
+620,"nasdaq, inc.",doll_29.52 b,ndaq,financials,financial data & stock exchanges,united states
+621,weyerhaeuser company,doll_29.42 b,wy,real estate,reit—specialty,united states
+622,saudi electricity company,doll_29.42 b,5110,utilities,utilities—regulated electric,saudi arabia
+623,ball corporation,doll_29.40 b,bll,consumer discretionary,packaging & containers,united states
+624,"keysight technologies, inc.",doll_29.40 b,keys,technology,scientific & technical instruments,united states
+625,"astellas pharma, inc.",doll_29.22 b,4503,healthcare,drug manufacturers—general,japan
+626,"amadeus it group, sa",doll_29.19 b,ams,technology,information technology services,spain
+627,electricité de france sa,doll_29.17 b,edf,utilities,utilities—diversified,france
+628,rogers communications inc.,doll_29.13 b,rci.b,communication services,telecom services,canada
+629,tongwei co. ltd,doll_29.10 b,600438,consumer staples,farm products,china
+630,las vegas sands corp.,doll_29.07 b,lvs,consumer discretionary,resorts & casinos,united states
+631,rwe ag,doll_29.06 b,rwe,utilities,utilities—diversified,germany
+632,cosco shipping holdings co ltd,doll_28.93 b,601919,industrials,marine shipping,china
+633,svb financial group,doll_28.91 b,sivb,financials,banks,united states
+634,csx corporation,doll_28.90 b,csx,industrials,railroads,united states
+635,techtronic industries company ltd,doll_28.75 b,0669,industrials,tools & accessories,hong kong
+636,"naturgy energy group, sa",doll_28.71 b,ntgy,utilities,utilities—regulated gas,spain
+637,apa group,doll_28.55 b,apa,utilities,utilities—regulated gas,australia
+638,hormel foods corporation,doll_28.52 b,hrl,consumer staples,packaged foods,united states
+639,cerner corporation,doll_28.31 b,cern,healthcare,health information services,united states
+640,ashtead group plc,doll_28.28 b,aht,industrials,rental & leasing services,united kingdom
+641,equifax inc.,doll_28.24 b,efx,industrials,consulting services,united states
+642,semiconductor manufacturing international corp,doll_28.24 b,688981,technology,semiconductors,china
+643,porsche automobil holding se,doll_28.15 b,paha,consumer discretionary,auto manufacturers,germany
+644,tesco plc,doll_28.11 b,tsco,consumer staples,grocery stores,united kingdom
+645,sirius xm holdings inc.,doll_28.05 b,siri,communication services,broadcasting,united states
+646,airports of thailand public company ltd,doll_28.00 b,aot,industrials,airports & air services,thailand
+647,ck hutchison holdings ltd,doll_27.94 b,0001,industrials,conglomerates,hong kong
+648,the people's insurance company (group) of china ltd,doll_27.93 b,601319,financials,insurance—property & casualty,china
+649,"expedia group, inc.",doll_27.91 b,expe,consumer discretionary,travel services,united states
+650,first republic bank,doll_27.90 b,frc,financials,banks,united states
+651,koninklijke philips n.v.,doll_27.89 b,phia,healthcare,diagnostics & research,netherlands
+652,great-west lifeco inc.,doll_27.85 b,gwo,financials,insurance—life,canada
+653,thai beverage public company ltd,doll_27.81 b,y92,consumer staples,beverages—wineries & distilleries,thailand
+654,swiss re ag,doll_27.80 b,sren,financials,insurance—reinsurance,switzerland
+655,edison international,doll_27.67 b,eix,utilities,utilities—regulated electric,united states
+656,wolters kluwer n.v.,doll_27.65 b,wkl,communication services,publishing,netherlands
+657,on semiconductor corporation,doll_27.63 b,on,technology,semiconductors,united states
+658,"caixabank, sa",doll_27.58 b,cabk,financials,banks,spain
+659,sampo oyj,doll_27.46 b,sampo,financials,insurance—diversified,finland
+660,extra space storage inc.,doll_27.37 b,exr,real estate,reit—industrial,united states
+661,sartorius ag,doll_27.35 b,srt,healthcare,medical instruments & supplies,germany
+662,"d.r. horton, inc.",doll_27.34 b,dhi,consumer discretionary,residential construction,united states
+663,"w.w. grainger, inc.",doll_27.33 b,gww,industrials,industrial distribution,united states
+664,nari technology co. ltd,doll_27.33 b,600406,industrials,specialty industrial machinery,china
+665,kone oyj,doll_27.29 b,knebv,industrials,specialty industrial machinery,finland
+666,"mccormick & company, incorporated",doll_27.29 b,mkc,consumer staples,packaged foods,united states
+667,ntt data corp,doll_27.26 b,9613,technology,information technology services,japan
+668,ganfeng lithium co. ltd,doll_27.25 b,002460,basic materials,chemicals,china
+669,will semiconductor co. ltd,doll_27.24 b,603501,technology,semiconductors,china
+670,"interactive brokers group, inc.",doll_27.22 b,ibkr,financials,capital markets,united states
+671,gazprom neft pjsc,doll_27.14 b,sibn,energy,oil & gas integrated,russia
+672,fubon financial holding co. ltd,doll_27.13 b,2881,financials,insurance—life,taiwan
+673,tractor supply company,doll_27.09 b,tsco,consumer discretionary,specialty retail,united states
+674,chocoladefabriken lindt & sprüngli ag,doll_27.08 b,lisn,consumer staples,confectioners,switzerland
+675,"ansys, inc.",doll_26.98 b,anss,technology,software—application,united states
+676,shaanxi coal industry company ltd,doll_26.95 b,601225,energy,thermal coal,china
+677,aier eye hospital group co. ltd,doll_26.95 b,300015,healthcare,medical care facilities,china
+678,"zimmer biomet holdings, inc.",doll_26.94 b,zbh,healthcare,medical devices,united states
+679,bridgestone corp,doll_26.88 b,5108,consumer discretionary,auto parts,japan
+680,evolution gaming group ab,doll_26.82 b,evo,consumer discretionary,gambling,sweden
+681,beijing wantai biological pharmacy enterprise co. ltd,doll_26.80 b,603392,healthcare,biotechnology,china
+682,vonovia se,doll_26.78 b,vna,real estate,real estate services,germany
+683,sandvik ab,doll_26.71 b,sand,industrials,specialty industrial machinery,sweden
+684,"cheniere energy partners, l.p.",doll_26.68 b,cqp,energy,oil & gas midstream,united states
+685,pg&e corporation,doll_26.66 b,pcg,utilities,utilities—regulated electric,united states
+686,kansas city southern,,ksu,industrials,railroads,united states
+687,unity software inc.,doll_26.56 b,u,technology,software—application,united states
+688,thales sa,doll_26.55 b,ho,industrials,aerospace & defense,france
+689,southwest airlines co.,doll_26.52 b,luv,industrials,airlines,united states
+690,dte energy company,doll_26.41 b,dte,utilities,utilities—regulated electric,united states
+691,intact financial corporation,doll_26.40 b,ifc,financials,insurance—property & casualty,canada
+692,deutsche bank ag,doll_26.38 b,dbk,financials,banks,germany
+693,canon inc.,doll_26.38 b,7751,technology,computer hardware,japan
+694,"lyondellbasell advanced polymers, inc.",doll_26.38 b,slmnp,basic materials,chemicals,united states
+695,national bank of canada,doll_26.29 b,,financials,banks,canada
+696,sonova holding ag,doll_26.22 b,soon,healthcare,medical instruments & supplies,switzerland
+697,realty income corporation,doll_26.18 b,o,real estate,reit—retail,united states
+698,china everbright bank company ltd,doll_26.13 b,601818,financials,banks,china
+699,twilio inc.,doll_26.09 b,twlo,communication services,internet content & information,united states
+700,roblox corp,doll_26.05 b,rblx,communication services,electronic gaming & multimedia,united states
+701,"telefónica, sa",doll_26.04 b,tef,communication services,telecom services,spain
+702,central japan railway co,doll_26.00 b,9022,industrials,railroads,japan
+703,li auto inc.,doll_25.83 b,li,consumer discretionary,auto manufacturers,china
+704,enbw energie baden-wuerttemberg ag,doll_25.82 b,ebk,utilities,utilities—diversified,germany
+705,"the hartford financial services group, inc.",doll_25.76 b,hig,financials,insurance—diversified,united states
+706,laboratory corporation of america holdings,doll_25.75 b,lh,healthcare,diagnostics & research,united states
+707,"mongodb, inc.",doll_25.73 b,mdb,technology,software—infrastructure,united states
+708,mitsubishi electric corporation,doll_25.61 b,6503,industrials,electrical equipment & parts,japan
+709,banco santander (brasil) sa,doll_25.59 b,sanb11,financials,banks,brazil
+710,axis bank ltd,doll_25.54 b,axisbank,financials,banks,india
+711,"united rentals, inc.",doll_25.46 b,uri,industrials,rental & leasing services,united states
+712,nan ya plastics corp,doll_25.41 b,1303,basic materials,specialty chemicals,taiwan
+713,lennar corporation,doll_25.34 b,len,consumer discretionary,residential construction,united states
+714,straumann holding ag,doll_25.31 b,stmn,healthcare,medical instruments & supplies,switzerland
+715,clp holdings ltd,doll_25.29 b,0002,utilities,utilities—regulated electric,hong kong
+716,yanzhou coal mining company ltd,doll_25.26 b,600188,energy,thermal coal,china
+717,firstenergy corp.,doll_25.26 b,fe,utilities,utilities—diversified,united states
+718,albemarle corporation,doll_25.25 b,alb,basic materials,specialty chemicals,united states
+719,ck asset holdings limited,doll_25.21 b,1113,real estate,real estate—development,hong kong
+720,"enphase energy, inc.",doll_25.20 b,enph,technology,solar,united states
+721,legrand sa,doll_25.19 b,lr,industrials,specialty industrial machinery,france
+722,galaxy entertainment group ltd,doll_25.17 b,0027,consumer discretionary,resorts & casinos,hong kong
+723,skandinaviska enskilda banken ab,doll_25.15 b,seb.a,financials,banks,sweden
+724,the mosaic company,doll_25.09 b,mos,basic materials,agricultural inputs,united states
+725,cdw corporation,doll_25.04 b,cdw,technology,information technology services,united states
+726,"gartner, inc.",doll_25.03 b,it,technology,information technology services,united states
+727,"edp renováveis, sa",,edpr,utilities,utilities—renewable,spain
+728,"delta air lines, inc.",doll_24.92 b,dal,industrials,airlines,united states
+729,palantir technologies inc.,doll_24.91 b,pltr,technology,software—infrastructure,united states
+730,seagen inc.,doll_24.87 b,sgen,healthcare,biotechnology,united states
+731,"diamondback energy, inc.",doll_24.84 b,fang,energy,oil & gas e&p,united states
+732,"verisign, inc.",doll_24.81 b,vrsn,technology,software—infrastructure,united states
+733,"church & dwight co., inc.",doll_24.81 b,chd,consumer staples,household & personal products,united states
+734,ameren corporation,doll_24.79 b,aee,utilities,utilities—regulated electric,united states
+735,china minsheng banking corp ltd,doll_24.65 b,600016,financials,banks,china
+736,"live nation entertainment, inc.",doll_24.61 b,lyv,communication services,entertainment,united states
+737,woodside petroleum ltd,doll_24.60 b,wpl,energy,oil & gas e&p,australia
+738,evergreen marine corp ,doll_24.49 b,2603,industrials,marine shipping,taiwan
+739,"aena s.m.e., sa",doll_24.45 b,aena,industrials,airports & air services,spain
+740,xpeng inc.,doll_24.44 b,xpev,consumer discretionary,auto manufacturers,china
+741,northern trust corporation,doll_24.42 b,ntrs,financials,asset management,united states
+742,"slack technologies, inc.",,work,technology,software—application,united states
+743,"mid-america apartment communities, inc.",doll_24.18 b,maa,real estate,reit—residential,united states
+744,fresenius se & co kgaa,doll_24.12 b,fre,healthcare,medical care facilities,germany
+745,fujifilm holdings corp,doll_24.12 b,4901,industrials,business equipment & supplies,japan
+746,bt group plc,doll_24.09 b,bt.a,communication services,telecom services,united kingdom
+747,vulcan materials company,doll_24.08 b,vmc,basic materials,building materials,united states
+748,epiroc ab ,doll_24.08 b,3ad2,industrials,farm & heavy construction machinery,sweden
+749,"delta electronics, inc.",doll_24.05 b,2308,technology,electronic components,taiwan
+750,public joint stock company polyus,,plzl,basic materials,gold,russia
+751,schindler holding ag,doll_24.02 b,schn,industrials,specialty industrial machinery,switzerland
+752,orix corporation,doll_23.97 b,8591,financials,credit services,japan
+753,"martin marietta materials, inc.",doll_23.94 b,mlm,basic materials,building materials,united states
+754,csc financial co. ltd,doll_23.94 b,601066,financials,capital markets,china
+755,"best buy co., inc.",doll_23.93 b,bby,consumer discretionary,specialty retail,united states
+756,steris plc,doll_23.93 b,ste,healthcare,medical instruments & supplies,ireland
+757,entergy corporation,doll_23.92 b,etr,utilities,utilities—diversified,united states
+758,"m3, inc.",doll_23.89 b,2413,healthcare,health information services,japan
+759,splunk inc.,doll_23.84 b,splk,technology,software—infrastructure,united states
+760,eve energy co. ltd,doll_23.82 b,300014,industrials,electrical equipment & parts,china
+761,"ventas, inc.",doll_23.81 b,vtr,real estate,reit—healthcare facilities,united states
+762,"endesa, sa",doll_23.78 b,ele,utilities,utilities—regulated electric,spain
+763,sse plc,doll_23.73 b,sse,utilities,utilities—diversified,united kingdom
+764,compagnie générale des etablissements michelin sca,doll_23.65 b,ml,consumer discretionary,auto parts,france
+765,horizon therapeutics public limited company,doll_23.64 b,hznp,healthcare,drug manufacturers—general,ireland
+766,baoshan iron & steel co. ltd,doll_23.59 b,600019,basic materials,steel,china
+767,"stanley black & decker, inc.",doll_23.57 b,swk,industrials,tools & accessories,united states
+768,sungrow power supply co. ltd,doll_23.55 b,300274,industrials,electrical equipment & parts,china
+769,beiersdorf ag,doll_23.51 b,bei,consumer staples,household & personal products,germany
+770,pt bank mandiri (persero) tbk,,pq9,financials,banks,indonesia
+771,first quantum minerals ltd.,doll_23.47 b,fm,basic materials,copper,canada
+772,kubota corp,doll_23.46 b,6326,industrials,farm & heavy construction machinery,japan
+773,mtn group ltd,doll_23.45 b,mtn,communication services,telecom services,south africa
+774,"maxim integrated products, inc.",,mxim,technology,semiconductors,united states
+775,"rocket companies, inc.",doll_23.44 b,rkt,financials,mortgage finance,united states
+776,fortis inc.,doll_23.43 b,fts,utilities,utilities—regulated electric,canada
+777,formosa plastics corp,doll_23.42 b,1301,basic materials,specialty chemicals,taiwan
+778,liberty broadband corporation,doll_23.40 b,lbrdk,communication services,entertainment,united states
+779,united microelectronics corporation,doll_23.35 b,2303,technology,semiconductors,taiwan
+780,garmin ltd.,doll_23.35 b,grmn,technology,scientific & technical instruments,switzerland
+781,huazhu group limited,doll_23.34 b,htht,consumer discretionary,lodging,china
+782,carnival corporation & plc,doll_23.29 b,ccl,consumer discretionary,travel services,united states
+783,sany heavy industry co. ltd,doll_23.27 b,600031,industrials,farm & heavy construction machinery,china
+784,fox corporation,doll_23.26 b,foxa,communication services,broadcasting,united states
+785,wens foodstuff group co. ltd,doll_23.20 b,300498,consumer staples,farm products,china
+786,société générale sa,doll_23.18 b,gle,financials,banks,france
+787,terumo corp,doll_23.16 b,4543,healthcare,medical instruments & supplies,japan
+788,china international capital corp ltd,doll_23.13 b,601995,financials,capital markets,china
+789,invitation homes inc.,doll_23.09 b,invh,real estate,reit—residential,united states
+790,royalty pharma plc,doll_23.04 b,rprx,healthcare,biotechnology,united states
+791,olympus corp,doll_23.00 b,7733,healthcare,medical instruments & supplies,japan
+792,v.f. corporation,doll_22.96 b,vfc,consumer discretionary,apparel manufacturing,united states
+793,dover corporation,doll_22.94 b,dov,industrials,specialty industrial machinery,united states
+794,ppl corporation,doll_22.87 b,ppl,utilities,utilities—regulated electric,united states
+795,"hengli petrochemical co.,ltd.",doll_22.86 b,600346,consumer discretionary,textile manufacturing,china
+796,genmab a/s,doll_22.83 b,gmab,healthcare,biotechnology,denmark
+797,sabic agri-nutrients company,doll_22.78 b,2020,basic materials,agricultural inputs,saudi arabia
+798,heineken holding n.v.,doll_22.78 b,heio,consumer staples,beverages—brewers,netherlands
+799,east japan railway company,doll_22.78 b,9020,industrials,railroads,japan
+800,sociedad química y minera de chile sa,doll_22.77 b,sqm,basic materials,chemicals,chile
+801,eurofins scientific se,,erf,,,
+802,panasonic corp,doll_22.73 b,6752,technology,consumer electronics,japan
+803,ucb sa,doll_22.71 b,ucb,healthcare,biotechnology,belgium
+804,shanghai international port ,doll_22.65 b,600018,industrials,marine shipping,china
+805,hewlett packard enterprise company,doll_22.65 b,hpe,technology,communication equipment,united states
+806,kellogg company,doll_22.63 b,k,consumer staples,packaged foods,united states
+807,picc property and casualty company ltd,doll_22.62 b,2328,financials,insurance—property & casualty,china
+808,grupo financiero banorte sab de cv,doll_22.60 b,gfnorteo,financials,banks,mexico
+809,komatsu ltd,doll_22.56 b,6301,industrials,farm & heavy construction machinery,japan
+810,the hong kong and china gas company ltd,doll_22.54 b,0003,utilities,utilities—regulated gas,hong kong
+811,coca-cola europacific partners plc,doll_22.53 b,ccep,consumer staples,beverages—non-alcoholic,united kingdom
+812,"essex property trust, inc.",doll_22.51 b,ess,real estate,reit—residential,united states
+813,ems-chemie holding ag,doll_22.48 b,emsn,basic materials,specialty chemicals,switzerland
+814,"okta, inc.",doll_22.45 b,okta,technology,software—infrastructure,united states
+815,china national nuclear power co. ltd,doll_22.42 b,601985,utilities,utilities—independent power producers,china
+816,sumitomo corp,doll_22.42 b,8053,industrials,conglomerates,japan
+817,tata motors limited,doll_22.38 b,ttm,consumer discretionary,auto manufacturers,india
+818,banco do brasil sa,doll_22.36 b,bbas3,financials,banks,brazil
+819,hennes & mauritz ab,doll_22.33 b,hm.b,consumer discretionary,apparel manufacturing,sweden
+820,"bio-rad laboratories, inc.",,bio,healthcare,medical devices,united states
+821,teleperformance se,doll_22.30 b,tep,industrials,consulting services,france
+822,"fomento económico mexicano, s.a.b. de c.v.",,femsaub,consumer staples,beverages—brewers,mexico
+823,"huntington bancshares, inc.",doll_22.26 b,hu3,financials,banks,united states
+824,"continental resources, inc.",doll_22.25 b,clr,energy,oil & gas e&p,united states
+825,crrc corp ltd,doll_22.21 b,601766,industrials,railroads,china
+826,"skyworks solutions, inc.",doll_22.17 b,swks,technology,semiconductors,united states
+827,xp inc.,,xpbr31,financials,capital markets,brazil
+828,unicharm corp,doll_22.08 b,8113,consumer staples,household & personal products,japan
+829,zto express (cayman) inc.,doll_22.05 b,zto,industrials,integrated freight & logistics,china
+830,geberit ag,doll_22.03 b,gebn,industrials,building products & equipment,switzerland
+831,toyota industries corp,doll_21.99 b,6201,consumer discretionary,auto manufacturers,japan
+832,cincinnati financial corporation,doll_21.99 b,cinf,financials,insurance—property & casualty,united states
+833,"cf industries holdings, inc.",doll_21.95 b,cf,basic materials,agricultural inputs,united states
+834,nibe industrier ab ,doll_21.93 b,njb,industrials,building products & equipment,sweden
+835,cnh industrial n.v.,doll_21.93 b,cnhi,industrials,farm & heavy construction machinery,united kingdom
+836,huntington bancshares incorporated,doll_21.93 b,hban,financials,banks,united states
+837,duke realty corporation,doll_21.93 b,dre,real estate,reit—industrial,united states
+838,restaurant brands international limited partnership,,qsp.un,consumer discretionary,restaurants,canada
+839,"monolithic power systems, inc.",doll_21.87 b,mpwr,technology,semiconductors,united states
+840,zebra technologies corporation,doll_21.87 b,zbra,technology,communication equipment,united states
+841,"ulta beauty, inc.",doll_21.82 b,ulta,consumer discretionary,specialty retail,united states
+842,"dai-ichi life holdings, inc.",doll_21.76 b,8750,financials,insurance—life,japan
+843,m&t bank corporation,doll_21.74 b,mtb,financials,banks,united states
+844,keycorp,doll_21.71 b,key,financials,banks,united states
+845,teledyne technologies incorporated,doll_21.65 b,tdy,technology,scientific & technical instruments,united states
+846,"b3 s.a. - brasil, bolsa, balcao",doll_21.58 b,b3sa3,financials,financial data & stock exchanges,brazil
+847,"contura energy, inc.",doll_21.57 b,ctra,energy,thermal coal,united states
+848,"shimano, inc.",doll_21.51 b,7309,consumer discretionary,leisure,japan
+849,power corporation of canada,doll_21.48 b,pow,financials,insurance—life,canada
+850,"j.b. hunt transport services, inc.",doll_21.48 b,jbht,industrials,integrated freight & logistics,united states
+851,mitsui fudosan co. ltd,doll_21.46 b,8801,real estate,real estate—diversified,japan
+852,the saudi british bank,doll_21.45 b,1060,financials,banks,saudi arabia
+853,sgs sa,doll_21.43 b,sgsn,industrials,consulting services,switzerland
+854,teck resources limited,doll_21.41 b,teck.b,basic materials,other industrial metals & mining,canada
+855,rede d'or são luiz sa,doll_21.40 b,rdor3,healthcare,medical care facilities,brazil
+856,nexon co. ltd,doll_21.36 b,3659,communication services,electronic gaming & multimedia,japan
+857,"the cooper companies, inc.",doll_21.35 b,coo,healthcare,medical instruments & supplies,united states
+858,legal & general group plc,doll_21.34 b,lgen,financials,insurance—life,united kingdom
+859,regions financial corporation,doll_21.32 b,rf,financials,banks,united states
+860,wheaton precious metals corp.,doll_21.26 b,wpm,basic materials,gold,canada
+861,zoominfo technologies inc.,doll_21.23 b,zi,technology,software—application,united states
+862,viacomcbs inc.,,viaca,communication services,entertainment,united states
+863,china northern rare earth ,doll_21.21 b,600111,basic materials,other industrial metals & mining,china
+864,seagate technology plc,doll_21.21 b,stx,technology,computer hardware,ireland
+865,china mengniu dairy co ltd,doll_21.17 b,2319,consumer staples,packaged foods,hong kong
+866,ingersoll rand inc.,doll_21.13 b,ir,industrials,specialty industrial machinery,united states
+867,segro plc,doll_21.08 b,sgro,real estate,reit—industrial,united kingdom
+868,yandex n.v.,,yndx,communication services,internet content & information,netherlands
+869,microchip technology incorporated,doll_21.03 b,mchp,technology,semiconductors,united states
+870,"hubspot, inc.",doll_20.93 b,hubs,technology,software—application,united states
+871,"fleetcor technologies, inc.",doll_20.92 b,flt,technology,information technology services,united states
+872,fortive corporation,doll_20.88 b,ftv,technology,scientific & technical instruments,united states
+873,applovin corp,doll_20.86 b,app,technology,software—application,united states
+874,royal caribbean cruises ltd.,doll_20.81 b,rcl,consumer discretionary,travel services,united states
+875,repsol sa,doll_20.80 b,rep,energy,oil & gas integrated,spain
+876,marubeni corp,doll_20.78 b,8002,industrials,conglomerates,japan
+877,standard chartered plc,doll_20.78 b,stan,financials,banks,united kingdom
+878,li ning co ltd,doll_20.75 b,2331,consumer discretionary,leisure,china
+879,cms energy corporation,doll_20.73 b,cms,utilities,utilities—regulated electric,united states
+880,steris corp,,s1te34,healthcare,medical devices,united states
+881,advanced info service pcl,doll_20.65 b,advanc,communication services,telecom services,thailand
+882,kyocera corp,doll_20.62 b,6971,technology,consumer electronics,japan
+883,pembina pipeline corporation,doll_20.61 b,ppl,energy,oil & gas midstream,canada
+884,flutter entertainment plc,doll_20.58 b,fltr,consumer discretionary,gambling,ireland
+885,sojitz corp,doll_20.55 b,2768,industrials,conglomerates,japan
+886,"boston properties, inc.",doll_20.54 b,bxp,real estate,reit—office,united states
+887,synchrony financial,doll_20.43 b,syf,financials,credit services,united states
+888,alinma bank,doll_20.41 b,1150,financials,banks,saudi arabia
+889,investment ab latour,doll_20.39 b,lato.b,financials,asset management,sweden
+890,mitsubishi estate co. ltd,doll_20.39 b,8802,real estate,real estate—diversified,japan
+891,guotai junan securities co. ltd,doll_20.39 b,601211,financials,capital markets,china
+892,nippon paint holdings co. ltd,doll_20.38 b,4612,basic materials,specialty chemicals,japan
+893,carvana co.,doll_20.33 b,cvna,consumer discretionary,internet retail,united states
+894,markel corporation,doll_20.30 b,mkl,financials,insurance—property & casualty,united states
+895,"brown & brown, inc.",doll_20.27 b,bro,financials,insurance brokers,united states
+896,nomura research institute ltd,doll_20.26 b,4307,technology,information technology services,japan
+897,mgm resorts international,doll_20.22 b,mgm,consumer discretionary,resorts & casinos,united states
+898,mega financial holding co. ltd,doll_20.21 b,2886,financials,banks,taiwan
+899,telefônica brasil sa,doll_20.19 b,viv,communication services,telecom services,brazil
+900,swiss life holding ag,doll_20.16 b,slhn,financials,insurance—diversified,switzerland
+901,telenor asa,doll_20.15 b,tel,,,
+902,china railway group ltd,doll_20.15 b,0390,industrials,engineering & construction,hong kong
+903,ctbc financial holding co. ltd,doll_20.15 b,2891,financials,insurance—life,taiwan
+904,imperial brands plc,doll_20.14 b,imb,consumer staples,tobacco,united kingdom
+905,"principal financial group, inc.",doll_20.13 b,pfg,financials,insurance—diversified,united states
+906,norsk hydro asa,doll_20.10 b,nhy,,,
+907,"perkinelmer, inc.",doll_20.05 b,pki,healthcare,diagnostics & research,united states
+908,hannover rück se,doll_20.02 b,hnrb,financials,insurance—reinsurance,germany
+909,"sun communities, inc.",doll_19.98 b,sui,real estate,reit—residential,united states
+910,tradeweb markets inc.,doll_19.98 b,tw,financials,capital markets,united states
+911,trina solar co. ltd,doll_19.94 b,688599,technology,solar,china
+912,vedanta limited,doll_19.93 b,vedl,basic materials,other industrial metals & mining,india
+913,"paycom software, inc.",doll_19.87 b,payc,technology,software—application,united states
+914,klabin sa,,klbn11,basic materials,paper & paper products,brazil
+915,kao corp,doll_19.85 b,4452,consumer staples,household & personal products,japan
+916,"teradyne, inc.",doll_19.85 b,ter,technology,semiconductor equipment & materials,united states
+917,china resources beer (holdings) company ltd,doll_19.84 b,0291,consumer staples,beverages—brewers,hong kong
+918,china communications construction co ltd,doll_19.83 b,601800,industrials,engineering & construction,china
+919,aviva plc,doll_19.82 b,av.,financials,insurance—diversified,united kingdom
+920,standard bank group ltd,doll_19.82 b,sbk,financials,banks,south africa
+921,ryanair holdings plc,,ry4c,industrials,airlines,ireland
+922,"hologic, inc.",doll_19.75 b,holx,healthcare,medical instruments & supplies,united states
+923,kerry group plc,doll_19.74 b,krz,consumer staples,packaged foods,ireland
+924,renesas electronics corp,doll_19.73 b,6723,technology,semiconductors,japan
+925,brookfield infrastructure partners l.p.,doll_19.70 b,bip.un,,,
+926,shiseido co ltd,doll_19.69 b,4911,consumer staples,household & personal products,japan
+927,cgi inc.,doll_19.67 b,gib.a,technology,information technology services,canada
+928,henderson land development co ltd,doll_19.67 b,0012,real estate,real estate services,hong kong
+929,"bill.com holdings, inc.",doll_19.65 b,bill,technology,software—application,united states
+930,shanghai fosun pharmaceutical ,doll_19.63 b,600196,healthcare,drug manufacturers—specialty & generic,china
+931,"akamai technologies, inc.",doll_19.59 b,akam,technology,software—infrastructure,united states
+932,china tower corp ltd,doll_19.55 b,0788,communication services,telecom services,china
+933,"huatai securities co., ltd.",doll_19.55 b,601688,financials,capital markets,china
+934,marathon oil corporation,doll_19.54 b,mro,energy,oil & gas e&p,united states
+935,arch capital group ltd.,doll_19.54 b,acgl,,,
+936,transunion,doll_19.53 b,tru,industrials,consulting services,united states
+937,jbs sa,doll_19.53 b,jbss3,consumer staples,packaged foods,brazil
+938,shenzhou international group holdings ltd,doll_19.50 b,2313,consumer discretionary,textile manufacturing,hong kong
+939,"avantor, inc.",doll_19.48 b,avtr,basic materials,specialty chemicals,united states
+940,"molina healthcare, inc.",doll_19.46 b,moh,healthcare,healthcare plans,united states
+941,"ferrovial, sa",doll_19.44 b,fer,industrials,infrastructure operations,spain
+942,edp - energias de portugal sa,doll_19.43 b,edp,,,
+943,fresenius medical care ag & co. kgaa,doll_19.42 b,fme,healthcare,medical care facilities,germany
+944,svenska handelsbanken ab,doll_19.42 b,shb.a,financials,banks,sweden
+945,kb financial group inc.,doll_19.39 b,105560,financials,banks,south korea
+946,magna international inc.,doll_19.36 b,mg,consumer discretionary,auto parts,canada
+947,snam s.p.a.,doll_19.27 b,srg,utilities,utilities—regulated gas,italy
+948,cgn power co. ltd,doll_19.25 b,003816,utilities,utilities—independent power producers,china
+949,croda international plc,,crda,basic materials,specialty chemicals,united kingdom
+950,warner music group corp.,doll_19.21 b,wmg,communication services,entertainment,united states
+951,zhejiang huayou cobalt co. ltd,doll_19.20 b,603799,basic materials,other industrial metals & mining,china
+952,"ss&c technologies holdings, inc.",doll_19.15 b,ssnc,technology,software—application,united states
+953,carlsberg a-s,doll_19.12 b,carl.a,consumer staples,beverages—brewers,denmark
+954,nice ltd.,,nice,technology,software—application,israel
+955,waters corporation,doll_19.11 b,wat,healthcare,diagnostics & research,united states
+956,otsuka holdings co. ltd,doll_19.03 b,4578,healthcare,drug manufacturers—general,japan
+957,tenaris sa,doll_18.98 b,ten,,,
+958,"citizens financial group, inc.",doll_18.95 b,cfg,financials,banks,united states
+959,check point software technologies ltd.,doll_18.94 b,chkp,technology,software—infrastructure,israel
+960,toshiba corp,doll_18.93 b,6502,industrials,specialty industrial machinery,japan
+961,"lg electronics, inc.",doll_18.91 b,066570,technology,consumer electronics,south korea
+962,astra international tbk pt,doll_18.90 b,asja,consumer discretionary,auto parts,indonesia
+963,omnicom group inc.,doll_18.80 b,omc,communication services,advertising agencies,united states
+964,"aecc aviation power co.,ltd",doll_18.79 b,600893,industrials,aerospace & defense,china
+965,international paper company,,inpap,consumer discretionary,packaging & containers,united states
+966,scottish mortgage investment trust plc,doll_18.78 b,smt,financials,asset management,united kingdom
+967,george weston limited,doll_18.77 b,wn,consumer staples,grocery stores,canada
+968,"netapp, inc.",doll_18.76 b,ntap,technology,computer hardware,united states
+969,"healthpeak properties, inc.",doll_18.76 b,peak,real estate,reit—healthcare facilities,united states
+970,"ms&ad insurance group holdings, inc.",doll_18.75 b,8725,financials,insurance—property & casualty,japan
+971,the liberty siriusxm group,doll_18.74 b,lsxmb,communication services,broadcasting,united states
+972,credit suisse group ag,doll_18.72 b,csgn,financials,banks,switzerland
+973,air china ltd,doll_18.72 b,601111,industrials,airlines,china
+974,power construction corp of china ltd,doll_18.69 b,601669,industrials,engineering & construction,china
+975,"jd health international, inc.",doll_18.69 b,8zn,healthcare,medical care facilities,china
+976,south32 limited,doll_18.67 b,s32,basic materials,other industrial metals & mining,australia
+977,"huaneng power international, inc.",doll_18.57 b,600011,utilities,utilities—independent power producers,china
+978,sands china ltd,doll_18.52 b,1928,,,
+979,heico corporation,doll_18.49 b,hei,industrials,aerospace & defense,united states
+980,gf securities co. ltd,doll_18.44 b,000776,financials,capital markets,china
+981,genuine parts company,doll_18.41 b,gpc,consumer discretionary,specialty retail,united states
+982,vodacom group ltd,doll_18.41 b,vod,communication services,telecom services,south africa
+983,"take-two interactive software, inc.",doll_18.35 b,ttwo,communication services,electronic gaming & multimedia,united states
+984,china merchants securities co. ltd,doll_18.35 b,600999,financials,capital markets,china
+985,"alnylam pharmaceuticals, inc.",doll_18.33 b,alny,healthcare,biotechnology,united states
+986,aeon co. ltd,doll_18.32 b,8267,consumer discretionary,department stores,japan
+987,link real estate investment trust,doll_18.27 b,0823,real estate,reit—retail,hong kong
+988,shionogi & co. ltd,doll_18.27 b,4507,healthcare,drug manufacturers—specialty & generic,japan
+989,ubiquiti inc.,doll_18.25 b,ui,technology,communication equipment,united states
+990,"quanta services, inc.",doll_18.25 b,pwr,industrials,engineering & construction,united states
+991,"catalent, inc.",doll_18.24 b,ctlt,healthcare,drug manufacturers—specialty & generic,united states
+992,haitong securities co. ltd,doll_18.23 b,600837,financials,capital markets,china
+993,asahi group holdings ltd,doll_18.21 b,2502,consumer staples,beverages—brewers,japan
+994,capitec bank holdings ltd,doll_18.21 b,cpi,financials,banks,south africa
+995,restaurant brands international inc.,doll_18.19 b,qsr,consumer discretionary,restaurants,canada
+996,"yum china holdings, inc.",doll_18.18 b,yumc,consumer discretionary,restaurants,china
+997,cez as,,cez,,,
+998,veolia environnement sa,doll_18.14 b,vie,industrials,waste management,france
+999,"avis budget group, inc.",doll_18.12 b,car,industrials,rental & leasing services,united states

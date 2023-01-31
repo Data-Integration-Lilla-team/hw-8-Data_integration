@@ -1,0 +1,2 @@
+'01-DDD.csv':['name', 'valuation', 'datejoined', 'country', 'city', 'industry', 'investors', 'founded', 'stage', 'totalraised']
+'04-iGMM.csv':['company', 'valuation', 'datejoined', 'country', 'city', 'industry', 'selectinvestors']

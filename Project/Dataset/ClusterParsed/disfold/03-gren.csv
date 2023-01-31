@@ -1,0 +1,1001 @@
+,name,market_capitalization_usd,stock,country,sector,industry
+0,apple inc.,2825000000000,aapl,united states,technology,consumer electronics
+1,microsoft corporation,2328000000000,msft,united states,technology,software—infrastructure
+2,saudi arabian oil company,2297000000000,2222,saudi arabia,energy,oil & gas integrated
+3,alphabet inc.,1825000000000,goog,united states,communication services,internet content & information
+4,"amazon.com, inc.",1642000000000,amzn,united states,consumer discretionary,internet retail
+5,"tesla, inc.",1016000000000,tsla,united states,consumer discretionary,auto manufacturers
+6,berkshire hathaway inc.,798470000000,brk.a,united states,financials,financial conglomerates
+7,nvidia corporation,660380000000,nvda,united states,technology,semiconductors
+8,"meta platforms, inc.",617500000000,meta,united states,communication services,internet content & information
+9,taiwan semiconductor manufacturing company limited,527890000000,2330,taiwan,technology,semiconductors
+10,unitedhealth group incorporated,488520000000,unh,united states,healthcare,healthcare plans
+11,visa inc.,486770000000,v,united states,financials,credit services
+12,johnson & johnson,475930000000,jnj,united states,healthcare,drug manufacturers—general
+13,tencent holdings ltd,441170000000,0700,china,communication services,internet content & information
+14,walmart inc.,429050000000,wmt,united states,consumer staples,discount stores
+15,jpmorgan chase & co.,410840000000,jpm,united states,financials,banks
+16,the procter & gamble company,384600000000,pg,united states,consumer staples,household & personal products
+17,"samsung electronics co., ltd.",378350000000,005930,south korea,technology,consumer electronics
+18,"lvmh moët hennessy - louis vuitton, se",359260000000,mc,france,consumer discretionary,luxury goods
+19,mastercard incorporated,358600000000,ma,united states,financials,credit services
+20,bank of america corporation,350840000000,bac,united states,financials,banks
+21,roche holding ag,349500000000,rog,switzerland,healthcare,drug manufacturers—general
+22,exxon mobil corporation,348720000000,xom,united states,energy,oil & gas integrated
+23,kweichow moutai co. ltd,348220000000,600519,china,consumer staples,beverages—wineries & distilleries
+24,"the home depot, inc.",321470000000,hd,united states,consumer discretionary,home improvement retail
+25,chevron corporation,315130000000,cvx,united states,energy,oil & gas integrated
+26,pfizer inc.,300790000000,pfe,united states,healthcare,drug manufacturers—general
+27,abbvie inc.,294270000000,abbv,united states,healthcare,drug manufacturers—general
+28,alibaba group holding limited,290400000000,9988,china,consumer discretionary,internet retail
+29,asml holding n.v.,274350000000,asml,netherlands,technology,semiconductor equipment & materials
+30,the coca-cola company,273200000000,ko,united states,consumer staples,beverages—non-alcoholic
+31,eli lilly and company,273010000000,lly,united states,healthcare,drug manufacturers—general
+32,broadcom inc.,265270000000,avgo,united states,technology,semiconductors
+33,costco wholesale corporation,258150000000,cost,united states,consumer staples,discount stores
+34,novo nordisk a/s,257240000000,novo.b,denmark,healthcare,biotechnology
+35,industrial & commercial bank of china ltd,250370000000,601398,china,financials,banks
+36,the walt disney company,247880000000,dis,united states,communication services,entertainment
+37,"pepsico, inc.",241050000000,pep,united states,consumer staples,beverages—non-alcoholic
+38,"cisco systems, inc.",238450000000,csco,united states,technology,communication equipment
+39,thermo fisher scientific inc.,236150000000,tmo,united states,healthcare,diagnostics & research
+40,oracle corporation,228180000000,orcl,united states,technology,software—infrastructure
+41,l'oréal sa,225240000000,or,france,consumer staples,household & personal products
+42,accenture plc,219030000000,acn,ireland,technology,information technology services
+43,comcast corporation,218900000000,cmcsa,united states,communication services,entertainment
+44,verizon communications inc.,216680000000,vz,united states,communication services,telecom services
+45,abbott laboratories,215020000000,abt,united states,healthcare,medical devices
+46,"nike, inc.",213600000000,nke,united states,consumer discretionary,footwear & accessories
+47,bhp group,211250000000,bhp,australia,basic materials,other industrial metals & mining
+48,"merck & co., inc.",210380000000,mrk,united states,healthcare,drug manufacturers—general
+49,danaher corporation,208030000000,dhr,united states,healthcare,diagnostics & research
+50,shell plc,207680000000,shel,united kingdom,energy,oil & gas integrated
+51,novartis ag,204130000000,novn,switzerland,healthcare,drug manufacturers—general
+52,astrazeneca plc,201750000000,azn,united kingdom,healthcare,drug manufacturers—general
+53,intel corporation,201720000000,intc,united states,technology,semiconductors
+54,wells fargo & company,200010000000,wfc,united states,financials,banks
+55,adobe inc.,199570000000,adbe,united states,technology,software—infrastructure
+56,"salesforce.com, inc.",193800000000,crm,united states,technology,software—application
+57,"united parcel service, inc.",190500000000,ups,united states,industrials,integrated freight & logistics
+58,china construction bank corp,189370000000,601939,china,financials,banks
+59,mcdonald's corporation,186570000000,mcd,united states,consumer discretionary,restaurants
+60,china merchants bank co ltd,185980000000,600036,china,financials,banks
+61,contemporary amperex technology co. ltd,185670000000,300750,china,industrials,electrical equipment & parts
+62,union pacific corporation,184190000000,unp,united states,industrials,railroads
+63,at&t inc.,175880000000,t,united states,communication services,telecom services
+64,qualcomm incorporated,172250000000,qcom,united states,technology,semiconductors
+65,texas instruments incorporated,171280000000,txn,united states,technology,semiconductors
+66,bristol-myers squibb company,170560000000,bmy,united states,healthcare,drug manufacturers—general
+67,prosus n.v.,170000000000,prx,netherlands,communication services,internet content & information
+68,linde plc,166070000000,lin,united kingdom,basic materials,specialty chemicals
+69,"nextera energy, inc.",165530000000,nee,united states,utilities,utilities—regulated electric
+70,agricultural bank of china ltd,165000000000,601288,china,financials,banks
+71,"t-mobile us, inc.",164310000000,tmus,united states,communication services,telecom services
+72,morgan stanley,164050000000,ms,united states,financials,capital markets
+73,"netflix, inc.",163190000000,nflx,united states,communication services,entertainment
+74,royal bank of canada,159740000000,ry,canada,financials,banks
+75,the charles schwab corporation,158060000000,schw,united states,financials,capital markets
+76,philip morris international inc.,154710000000,pm,united states,consumer staples,tobacco
+77,medtronic plc,151060000000,mdt,ireland,healthcare,medical devices
+78,raytheon technologies corporation,150960000000,rtx,united states,industrials,aerospace & defense
+79,american express company,150760000000,axp,united states,financials,credit services
+80,hermès international sca,148980000000,rms,france,consumer discretionary,luxury goods
+81,toronto-dominion bank,145410000000,td,canada,financials,banks
+82,petrochina company limited,144500000000,601857,china,energy,oil & gas integrated
+83,commonwealth bank of australia,144320000000,cba,australia,financials,banks
+84,"lowe's companies, inc.",143770000000,low,united states,consumer discretionary,home improvement retail
+85,amgen inc.,141720000000,amgn,united states,healthcare,drug manufacturers—general
+86,bank of china ltd,141220000000,601988,china,financials,banks
+87,hsbc holdings plc,140150000000,hsba,united kingdom,financials,banks
+88,china mobile ltd,139300000000,0941,hong kong,communication services,telecom services
+89,totalenergies se,137500000000,tte,france,energy,oil & gas integrated
+90,honeywell international inc.,136480000000,hon,united states,industrials,specialty industrial machinery
+91,conocophillips,136320000000,cop,united states,energy,oil & gas e&p
+92,cvs health corporation,135270000000,cvs,united states,healthcare,healthcare plans
+93,ping an insurance (group) company of china ltd,134250000000,601318,china,financials,insurance—life
+94,sap se,134190000000,sap,germany,technology,software—application
+95,"paypal holdings, inc.",133920000000,pypl,united states,financials,credit services
+96,sanofi,132290000000,san,france,healthcare,drug manufacturers—general
+97,deere & company,130310000000,de,united states,industrials,farm & heavy construction machinery
+98,"advanced micro devices, inc.",128290000000,amd,united states,technology,semiconductors
+99,intuit inc.,126770000000,intu,united states,technology,software—application
+100,sony group corporation,126640000000,6758,japan,technology,consumer electronics
+101,rio tinto group,125840000000,rio,united kingdom,basic materials,other industrial metals & mining
+102,aia group ltd,125160000000,1299,hong kong,financials,insurance—life
+103,lockheed martin corporation,124980000000,lmt,united states,industrials,aerospace & defense
+104,caterpillar inc.,124130000000,cat,united states,industrials,farm & heavy construction machinery
+105,anheuser-busch inbev sa/nv,123590000000,abi,belgium,consumer staples,beverages—brewers
+106,equinor asa,122740000000,eqnr,norway,energy,oil & gas integrated
+107,christian dior se,122110000000,cdi,france,consumer discretionary,luxury goods
+108,"prologis, inc.",121200000000,pld,united states,real estate,reit—industrial
+109,"applied materials, inc.",121120000000,amat,united states,technology,semiconductor equipment & materials
+110,"anthem, inc.",119800000000,antm,united states,healthcare,healthcare plans
+111,international business machines corporation,119200000000,ibm,united states,technology,information technology services
+112,unilever plc,117840000000,ulvr,united kingdom,consumer staples,household & personal products
+113,"blackrock, inc.",115980000000,blk,united states,financials,asset management
+114,hdfc bank limited,115680000000,hdb,india,financials,banks
+115,diageo plc,115580000000,dge,united kingdom,consumer staples,beverages—wineries & distilleries
+116,american tower corporation (reit),115110000000,amt,united states,real estate,reit—specialty
+117,siemens ag,114660000000,sie,germany,industrials,specialty industrial machinery
+118,meituan,114280000000,3690,china,consumer discretionary,internet retail
+119,keyence corp,113200000000,6861,japan,technology,scientific & technical instruments
+120,"the goldman sachs group, inc.",112710000000,gs,united states,financials,capital markets
+121,transurban group,110790000000,tcl,australia,industrials,infrastructure operations
+122,"industria de diseño textil, sa",110650000000,itx,spain,consumer discretionary,apparel retail
+123,the boeing company,110460000000,ba,united states,industrials,aerospace & defense
+124,glaxosmithkline plc,109980000000,gsk,united kingdom,healthcare,drug manufacturers—general
+125,citigroup inc.,109560000000,c,united states,financials,banks
+126,volkswagen ag,108630000000,vow3,germany,consumer discretionary,auto manufacturers
+127,starbucks corporation,108190000000,sbux,united states,consumer discretionary,restaurants
+128,vale sa,107990000000,vale3,brazil,basic materials,other industrial metals & mining
+129,"servicenow, inc.",107990000000,now,united states,technology,software—application
+130,target corporation,106890000000,tgt,united states,consumer staples,discount stores
+131,infosys limited,106770000000,infy,india,technology,information technology services
+132,al rajhi banking and investment corp,106370000000,1120,saudi arabia,financials,banks
+133,"airbnb, inc.",105070000000,abnb,united states,communication services,internet content & information
+134,"charter communications, inc.",104970000000,chtr,united states,communication services,entertainment
+135,byd co ltd,104420000000,002594,china,consumer discretionary,auto manufacturers
+136,saudi basic industries corp,104000000000,2010,saudi arabia,basic materials,chemicals
+137,nippon telegraph & telephone corp,103750000000,9432,japan,communication services,telecom services
+138,"altria group, inc.",102980000000,mo,united states,consumer staples,tobacco
+139,british american tobacco plc,101440000000,bats,united kingdom,consumer staples,tobacco
+140,stryker corporation,101410000000,syk,united states,healthcare,medical devices
+141,s&p global inc.,100840000000,spgi,united states,financials,financial data & stock exchanges
+142,the estée lauder companies inc.,100160000000,el,united states,consumer staples,household & personal products
+143,general electric company,99220000000,ge,united states,industrials,specialty industrial machinery
+144,daimler ag,98790000000,dai,germany,consumer discretionary,auto manufacturers
+145,chubb limited,98570000000,cb,switzerland,financials,insurance—property & casualty
+146,allianz se,98470000000,alv,germany,financials,insurance—diversified
+147,petróleo brasileiro s.a. - petrobras,98370000000,pbr,brazil,energy,oil & gas integrated
+148,airbus se,97410000000,air,netherlands,industrials,aerospace & defense
+149,china life insurance company limited,97310000000,lfc,china,financials,insurance—life
+150,"automatic data processing, inc.",96980000000,adp,united states,industrials,staffing & employment services
+151,bp plc,96240000000,bp.,united kingdom,energy,oil & gas integrated
+152,china shenhua energy company ltd,95340000000,601088,china,energy,thermal coal
+153,booking holdings inc.,95020000000,bkng,united states,consumer discretionary,travel services
+154,canadian national railway company,94960000000,cnr,canada,industrials,railroads
+155,enbridge inc.,94940000000,enb,canada,energy,oil & gas midstream
+156,schneider electric se,94340000000,su,france,industrials,specialty industrial machinery
+157,deutsche telekom ag,93010000000,dte,germany,communication services,telecom services
+158,merck kommanditgesellschaft auf aktien,90740000000,mrk,germany,healthcare,drug manufacturers—specialty & generic
+159,"mondelez international, inc.",90670000000,mdlz,united states,consumer staples,confectioners
+160,"jd.com, inc.",90460000000,9618,china,consumer discretionary,internet retail
+161,vulcan international corp,90340000000,vulc,united states,basic materials,chemicals
+162,zoetis inc.,89820000000,zts,united states,healthcare,drug manufacturers—specialty & generic
+163,csl limited,89690000000,csl,australia,healthcare,biotechnology
+164,3m company,88770000000,mmm,united states,industrials,specialty industrial machinery
+165,duke energy corporation,88760000000,duk,united states,utilities,utilities—regulated electric
+166,bank of nova scotia,87760000000,bns,canada,financials,banks
+167,the blackstone group inc.,87640000000,bx,united states,financials,asset management
+168,brookfield asset management inc.,87460000000,bam.a,canada,financials,asset management
+169,glencore plc,87310000000,glen,switzerland,basic materials,other industrial metals & mining
+170,cme group inc.,87170000000,cme,united states,financials,financial data & stock exchanges
+171,"marsh & mclennan companies, inc.",87160000000,mmc,united states,financials,insurance brokers
+172,"micron technology, inc.",86490000000,mu,united states,technology,semiconductors
+173,"mitsubishi ufj financial group, inc.",85030000000,8306,japan,financials,banks
+174,cigna corporation,84670000000,ci,united states,healthcare,healthcare plans
+175,shopify inc.,83800000000,shop,canada,technology,software—application
+176,air liquide sa,83240000000,ai,france,basic materials,chemicals
+177,"hca healthcare, inc.",82600000000,hca,united states,healthcare,medical care facilities
+178,national australia bank limited,81030000000,nab,australia,financials,banks
+179,crown castle international corp. (reit),80920000000,cci,united states,real estate,reit—specialty
+180,essilorluxottica sa,80490000000,el,france,healthcare,medical instruments & supplies
+181,u.s. bancorp,80160000000,usb,united states,financials,banks
+182,tokyo electron ltd,79620000000,8035,japan,technology,semiconductor equipment & materials
+183,bank of montreal,79220000000,bmo,canada,financials,banks
+184,kering sa,78660000000,ker,france,consumer discretionary,luxury goods
+185,china yangtze power co. ltd,78420000000,600900,china,utilities,utilities—independent power producers
+186,china petroleum & chemical corporation,78390000000,600028,china,energy,oil & gas integrated
+187,the southern company,78380000000,so,united states,utilities,utilities—regulated electric
+188,lam research corporation,77600000000,lrcx,united states,technology,semiconductor equipment & materials
+189,"the pnc financial services group, inc.",77100000000,pnc,united states,financials,banks
+190,"becton, dickinson and company",76980000000,bdx,united states,healthcare,medical instruments & supplies
+191,"gilead sciences, inc.",76150000000,gild,united states,healthcare,drug manufacturers—general
+192,"regeneron pharmaceuticals, inc.",74910000000,regn,united states,healthcare,biotechnology
+193,truist financial corporation,74790000000,tfc,united states,financials,banks
+194,canadian natural resources limited,74780000000,cnq,canada,energy,oil & gas e&p
+195,"intercontinental exchange, inc.",74170000000,ice,united states,financials,financial data & stock exchanges
+196,"the tjx companies, inc.",73990000000,tjx,united states,consumer discretionary,apparel retail
+197,atlassian corporation plc,73720000000,team,australia,technology,software—application
+198,zurich insurance group ag,73580000000,zurn,switzerland,financials,insurance—diversified
+199,edwards lifesciences corporation,73380000000,ew,united states,healthcare,medical devices
+200,aon plc,73330000000,aon,united kingdom,financials,insurance brokers
+201,northrop grumman corporation,73250000000,noc,united states,industrials,aerospace & defense
+202,kddi corp,73120000000,9433,japan,communication services,telecom services
+203,norfolk southern corporation,72310000000,nsc,united states,industrials,railroads
+204,freeport-mcmoran inc.,72160000000,fcx,united states,basic materials,copper
+205,wal-mart de mexico sab de cv,71960000000,walmex,mexico,consumer staples,discount stores
+206,pt bank central asia tbk,71910000000,bbca,indonesia,financials,banks
+207,"eog resources, inc.",71900000000,eog,united states,energy,oil & gas e&p
+208,siemens healthineers ag,71500000000,shl,germany,healthcare,diagnostics & research
+209,anglo american plc,71480000000,aal,united kingdom,basic materials,other industrial metals & mining
+210,"moderna, inc.",70810000000,mrna,united states,healthcare,biotechnology
+211,general dynamics corporation,70550000000,gd,united states,industrials,aerospace & defense
+212,axa sa,70200000000,cs,france,financials,insurance—diversified
+213,"dominion energy, inc.",70200000000,d,united states,utilities,utilities—diversified
+214,enel spa,70150000000,enel,italy,utilities,utilities—diversified
+215,bnp paribas sa,69900000000,bnp,france,financials,banks
+216,"américa móvil, s.a.b. de c.v.",69450000000,amxa,mexico,communication services,telecom services
+217,public storage,69310000000,psa,united states,real estate,reit—industrial
+218,ubs group ag,68930000000,ubsg,switzerland,financials,banks
+219,sberbank of russia pjsc,68690000000,sber,russia,financials,banks
+220,"fiserv, inc.",68680000000,fisv,united states,technology,information technology services
+221,"iberdrola, sa",68230000000,ibe,spain,utilities,utilities—diversified
+222,recruit holdings co ltd,68110000000,6098,japan,industrials,staffing & employment services
+223,bayer ag,68090000000,bayn,germany,healthcare,drug manufacturers—general
+224,the sherwin-williams company,67540000000,shw,united states,basic materials,specialty chemicals
+225,vertex pharmaceuticals incorporated,67490000000,vrtx,united states,healthcare,biotechnology
+226,illinois tool works inc.,67490000000,itw,united states,industrials,specialty industrial machinery
+227,the progressive corporation,67310000000,pgr,united states,financials,insurance—property & casualty
+228,westpac banking corporation,67200000000,wbc,australia,financials,banks
+229,abb ltd,67190000000,abbn,switzerland,industrials,electrical equipment & parts
+230,"waste management, inc.",66950000000,wm,united states,industrials,waste management
+231,industrial bank co. ltd,66870000000,601166,china,financials,banks
+232,dbs group holdings ltd,66740000000,d05,singapore,financials,banks
+233,icici bank limited,66620000000,ibn,india,financials,banks
+234,"equinix, inc. (reit)",66350000000,eqix,united states,real estate,reit—specialty
+235,newmont corporation,65890000000,nem,united states,basic materials,gold
+236,ford motor company,65740000000,f,united states,consumer discretionary,auto manufacturers
+237,colgate-palmolive company,65640000000,cl,united states,consumer staples,household & personal products
+238,exelon corporation,65530000000,exc,united states,utilities,utilities—diversified
+239,snowflake inc.,65040000000,snow,united states,technology,software—application
+240,oriental land co. ltd,64660000000,4661,japan,consumer discretionary,leisure
+241,"sk hynix, inc.",64600000000,000660,south korea,technology,semiconductors
+242,ap moller - maersk a-s,64400000000,maersk.b,denmark,industrials,marine shipping
+243,shin-etsu chemical co ltd,63430000000,4063,japan,basic materials,chemicals
+244,fedex corporation,63250000000,fdx,united states,industrials,integrated freight & logistics
+245,boston scientific corporation,63080000000,bsx,united states,healthcare,medical devices
+246,pacificorp,62870000000,ppwlm,united states,utilities,utilities—diversified
+247,dassault systèmes se,62750000000,dsy,france,technology,software—application
+248,"metlife, inc.",62690000000,met,united states,financials,insurance—life
+249,general motors company,62690000000,gm,united states,consumer discretionary,auto manufacturers
+250,sea limited,62660000000,se,singapore,communication services,electronic gaming & multimedia
+251,"uber technologies, inc.",62660000000,uber,united states,technology,software—application
+252,moody's corporation,62580000000,mco,united states,financials,financial data & stock exchanges
+253,nintendo co ltd,62200000000,7974,japan,communication services,electronic gaming & multimedia
+254,pioneer natural resources company,62190000000,pxd,united states,energy,oil & gas e&p
+255,eaton corporation plc,62170000000,etn,ireland,industrials,specialty industrial machinery
+256,"analog devices, inc.",62000000000,adi,united states,technology,semiconductors
+257,"fidelity national information services, inc.",61730000000,fis,united states,technology,information technology services
+258,"banco santander, sa",61670000000,san,spain,financials,banks
+259,hapag-lloyd ag,61460000000,hlag,germany,industrials,marine shipping
+260,adyen n.v.,61110000000,adyen,netherlands,technology,software—infrastructure
+261,atlas copco ab,60970000000,atco.a,sweden,industrials,specialty industrial machinery
+262,cnooc limited,60190000000,0883,hong kong,energy,oil & gas e&p
+263,nutrien ltd.,60060000000,ntr,canada,basic materials,agricultural inputs
+264,"block, inc.",59950000000,sq,united states,technology,software—infrastructure
+265,deutsche post ag,59800000000,dpwa,germany,industrials,integrated freight & logistics
+266,"netease, inc.",59760000000,9999,china,communication services,internet content & information
+267,hong kong exchanges & clearing ltd,59750000000,0388,hong kong,financials,financial data & stock exchanges
+268,capital one financial corporation,59670000000,cof,united states,financials,credit services
+269,emerson electric co.,59660000000,emr,united states,industrials,specialty industrial machinery
+270,"palo alto networks, inc.",59650000000,panw,united states,technology,software—infrastructure
+271,australia and new zealand banking group limited,59550000000,anz,australia,financials,banks
+272,reckitt benckiser group plc,59530000000,rkt,united kingdom,consumer staples,household & personal products
+273,nongfu spring co. ltd,59500000000,9633,china,consumer staples,beverages—non-alcoholic
+274,saudi telecom company,59470000000,7010,saudi arabia,communication services,telecom services
+275,southern copper corporation,59460000000,scco,united states,basic materials,copper
+276,shenzhen mindray bio-medical electronics co. ltd,59260000000,300760,china,healthcare,medical devices
+277,vinci sa,59010000000,dg,france,industrials,engineering & construction
+278,"workday, inc.",58700000000,wday,united states,technology,software—application
+279,relx plc,58530000000,rel,united kingdom,communication services,publishing
+280,marvell technology group ltd.,58360000000,mrvl,bermuda,technology,semiconductors
+281,"air products and chemicals, inc.",57820000000,apd,united states,basic materials,chemicals
+282,pernod ricard sa,57750000000,ri,france,consumer staples,beverages—wineries & distilleries
+283,schlumberger limited,57630000000,slb,united states,energy,oil & gas equipment & services
+284,"marvell technology, inc.",57620000000,9mw,united states,technology,semiconductors
+285,itaú unibanco holding sa,57450000000,itub,brazil,financials,banks
+286,enterprise products partners l.p.,57430000000,epd,united states,energy,oil & gas midstream
+287,foshan haitian flavouring and food company ltd,57400000000,603288,china,consumer staples,packaged foods
+288,mitsubishi corp,57230000000,8058,japan,industrials,conglomerates
+289,canadian imperial bank of commerce,57200000000,cm,canada,financials,banks
+290,"marriott international, inc.",57180000000,mar,united states,consumer discretionary,lodging
+291,pinduoduo inc.,57090000000,pdd,china,consumer discretionary,internet retail
+292,ihs markit ltd.,56940000000,info,united kingdom,industrials,consulting services
+293,the saudi national bank,56890000000,1180,saudi arabia,financials,banks
+294,tc energy corporation,56770000000,trp,canada,energy,oil & gas midstream
+295,humana inc.,56550000000,hum,united states,healthcare,healthcare plans
+296,kla corporation,56480000000,klac,united states,technology,semiconductor equipment & materials
+297,bank of communications co. ltd,56380000000,601328,china,financials,banks
+298,bayerische motoren werke ag,56170000000,bmwb,germany,consumer discretionary,auto manufacturers
+299,macquarie group limited,55990000000,mqg,australia,financials,capital markets
+300,national grid plc,55880000000,ng.,united kingdom,utilities,utilities—diversified
+301,"daikin industries,ltd.",55580000000,6367,japan,industrials,building products & equipment
+302,chugai pharmaceutical co. ltd,55310000000,4519,japan,healthcare,drug manufacturers—general
+303,keurig dr pepper inc.,55280000000,kdp,united states,consumer staples,beverages—non-alcoholic
+304,ergo science corp,55230000000,ergn,united states,industrials,staffing & employment services
+305,softbank group corp.,54930000000,9984,japan,communication services,telecom services
+306,heineken n.v.,54870000000,heia,netherlands,consumer staples,beverages—brewers
+307,ambev sa,54690000000,abev3,brazil,consumer staples,beverages—brewers
+308,canadian pacific railway limited,54590000000,cp,canada,industrials,railroads
+309,marathon petroleum corporation,54540000000,mpc,united states,energy,oil & gas refining & marketing
+310,"american international group, inc.",54310000000,aig,united states,financials,insurance—diversified
+311,dollar general corporation,54300000000,dg,united states,consumer staples,discount stores
+312,"fortinet, inc.",53860000000,ftnt,united states,technology,software—infrastructure
+313,snap inc.,53860000000,snap,united states,communication services,internet content & information
+314,ferrari n.v.,53780000000,race,italy,consumer discretionary,auto manufacturers
+315,lonza group ltd,53760000000,lonn,switzerland,healthcare,diagnostics & research
+316,london stock exchange group plc,53330000000,lseg,united kingdom,financials,financial data & stock exchanges
+317,thomson reuters corporation,53300000000,tri,canada,industrials,consulting services
+318,basf se,52760000000,bas,germany,basic materials,chemicals
+319,sempra energy,52470000000,sre,united states,utilities,utilities—diversified
+320,occidental petroleum corporation,52300000000,oxy,united states,energy,oil & gas e&p
+321,"liberty bancshares, inc. (oh)",52300000000,lbsi,united states,financials,banks
+322,fast retailing co. ltd,52290000000,9983,japan,consumer discretionary,apparel retail
+323,nxp semiconductors n.v.,52280000000,nxpi,netherlands,technology,semiconductors
+324,"xilinx, inc.",52190000000,xlnx,united states,technology,semiconductors
+325,itochu corp,52190000000,8001,japan,industrials,conglomerates
+326,eni s.p.a.,52000000000,eni,italy,energy,oil & gas integrated
+327,stellantis n.v.,51800000000,stla,netherlands,consumer discretionary,auto manufacturers
+328,bce inc.,51710000000,bce,canada,communication services,telecom services
+329,denso corp,51580000000,6902,japan,consumer discretionary,auto parts
+330,toyota motor corporation,51550000000,7203,japan,consumer discretionary,auto manufacturers
+331,"l3harris technologies, inc.",51510000000,lhx,united states,industrials,aerospace & defense
+332,"agribank, fcb",51490000000,agrip,united states,financials,credit services
+333,general accident plc,51430000000,gaca,united kingdom,financials,insurance—property & casualty
+334,archer-daniels-midland company,51030000000,adm,united states,consumer staples,farm products
+335,"american electric power company, inc.",50950000000,aep,united states,utilities,utilities—regulated electric
+336,fortescue metals group limited,50760000000,fmg,australia,basic materials,other industrial metals & mining
+337,hon hai precision industry co. ltd,50750000000,2317,taiwan,technology,electronic components
+338,china tourism group duty free corp ltd,50460000000,601888,china,consumer discretionary,travel services
+339,ecolab inc.,50290000000,ecl,united states,basic materials,specialty chemicals
+340,novatek pjsc,50190000000,nvtk,russia,energy,oil & gas e&p
+341,"synopsys, inc.",50180000000,snps,united states,technology,software—infrastructure
+342,safran sa,50020000000,saf,france,industrials,aerospace & defense
+343,"illumina, inc.",49910000000,ilmn,united states,healthcare,diagnostics & research
+344,"mercadolibre, inc.",49830000000,meli,argentina,consumer discretionary,internet retail
+345,"roper technologies, inc.",49660000000,rop,united states,industrials,specialty industrial machinery
+346,the kraft heinz company,49420000000,khc,united states,consumer staples,packaged foods
+347,centene corporation,49320000000,cnc,united states,healthcare,healthcare plans
+348,"paychex, inc.",49230000000,payx,united states,industrials,staffing & employment services
+349,"honda motor co., ltd.",49110000000,7267,japan,consumer discretionary,auto manufacturers
+350,hitachi ltd,48920000000,6501,japan,industrials,conglomerates
+351,scentre group,48830000000,scg,australia,real estate,reit—retail
+352,"mediatek, inc.",48740000000,2454,taiwan,technology,semiconductors
+353,lululemon athletica inc.,48520000000,lulu,canada,consumer discretionary,apparel retail
+354,dow inc.,48500000000,dow,united states,basic materials,chemicals
+355,rosneft oil co pjsc,48500000000,rosn,russia,energy,oil & gas integrated
+356,mckesson corporation,48460000000,mck,united states,healthcare,medical distribution
+357,suncor energy inc.,48270000000,su,canada,energy,oil & gas integrated
+358,"vmware, inc.",48170000000,vmw,united states,technology,software—infrastructure
+359,johnson controls international plc,48150000000,jci,ireland,industrials,engineering & construction
+360,"o'reilly automotive, inc.",48140000000,orly,united states,consumer discretionary,specialty retail
+361,grupo mexico sab de cv,48000000000,gmexicob,mexico,basic materials,other industrial metals & mining
+362,"crowdstrike holdings, inc.",47890000000,crwd,united states,technology,software—infrastructure
+363,naspers ltd,47730000000,npn,south africa,communication services,internet content & information
+364,"autodesk, inc.",47690000000,adsk,united states,technology,software—application
+365,"prudential financial, inc.",47170000000,pru,united states,financials,insurance—life
+366,open joint stock company omz,47150000000,omzzp,russia,industrials,specialty industrial machinery
+367,cognizant technology solutions corporation,47070000000,ctsh,united states,technology,information technology services
+368,nucor corporation,46860000000,nue,united states,basic materials,steel
+369,"dexcom, inc.",46860000000,dxcm,united states,healthcare,diagnostics & research
+370,banco bradesco sa,46710000000,bbdc3,brazil,financials,banks
+371,nidec corp,46330000000,6594,japan,industrials,specialty industrial machinery
+372,adidas ag,46130000000,ads1,germany,consumer discretionary,footwear & accessories
+373,sika ag,46010000000,sika,switzerland,basic materials,specialty chemicals
+374,"baidu, inc.",45980000000,9888,china,communication services,internet content & information
+375,takeda pharmaceutical company limited,45890000000,4502,japan,healthcare,drug manufacturers—specialty & generic
+376,the hershey company,45830000000,hsy,united states,consumer staples,confectioners
+377,amphenol corporation,45770000000,aph,united states,technology,electronic components
+378,vanjia corp,45740000000,vnja,united states,consumer discretionary,residential construction
+379,vodafone group plc,45740000000,vod,united kingdom,communication services,telecom services
+380,"idexx laboratories, inc.",45640000000,idxx,united states,healthcare,diagnostics & research
+381,"the travelers companies, inc.",45560000000,trv,united states,financials,insurance—property & casualty
+382,infineon technologies ag,45350000000,ifxa,germany,technology,semiconductors
+383,"constellation brands, inc.",45210000000,stz,united states,consumer staples,beverages—wineries & distilleries
+384,"datadog, inc.",45130000000,ddog,united states,technology,software—application
+385,mitsui & co. ltd,45090000000,8031,japan,energy,oil & gas e&p
+386,saudi arabian mining company,45000000000,1211,saudi arabia,basic materials,other industrial metals & mining
+387,pjsc lukoil,44960000000,lkoh,russia,energy,oil & gas integrated
+388,intesa sanpaolo s.p.a.,44950000000,isp,italy,financials,banks
+389,te connectivity ltd.,44780000000,tel,switzerland,technology,electronic components
+390,"autozone, inc.",44390000000,azo,united states,consumer discretionary,specialty retail
+391,iqvia holdings inc.,44320000000,iqv,united states,healthcare,diagnostics & research
+392,cintas corporation,44320000000,ctas,united states,industrials,specialty business services
+393,"cadence design systems, inc.",44230000000,cdns,united states,technology,software—application
+394,"chipotle mexican grill, inc.",44110000000,cmg,united states,consumer discretionary,restaurants
+395,"sumitomo mitsui financial group, inc.",44060000000,8316,japan,financials,banks
+396,"samsung biologics co.,ltd.",44010000000,207940,south korea,healthcare,biotechnology
+397,wipro limited,43980000000,wipro,india,technology,information technology services
+398,zijin mining group co ltd,43930000000,601899,china,basic materials,gold
+399,hp inc.,43900000000,hpq,united states,technology,computer hardware
+400,lloyds banking group plc,43700000000,lloy,united kingdom,financials,banks
+401,"simon property group, inc.",43690000000,spg,united states,real estate,reit—retail
+402,aflac incorporated,43590000000,afl,united states,financials,insurance—life
+403,barrick gold corporation,43500000000,abx,canada,basic materials,gold
+404,murata manufacturing co. ltd,43410000000,6981,japan,technology,electronic components
+405,"kinder morgan, inc.",43380000000,kmi,united states,energy,oil & gas midstream
+406,kimberly-clark corporation,43210000000,kmb,united states,consumer staples,household & personal products
+407,xiaomi corp,43100000000,1810,china,technology,consumer electronics
+408,wesfarmers limited,43090000000,wes,australia,consumer discretionary,home improvement retail
+409,"republic services, inc.",42910000000,rsg,united states,industrials,waste management
+410,hoya corp,42880000000,7741,japan,healthcare,medical instruments & supplies
+411,yihai kerry arawana holdings co. ltd,42840000000,300999,china,consumer staples,packaged foods
+412,monster beverage corporation,42810000000,mnst,united states,consumer staples,beverages—non-alcoholic
+413,longi green energy technology co. ltd,42680000000,601012,china,technology,semiconductor equipment & materials
+414,"corteva, inc.",42660000000,ctva,united states,basic materials,agricultural inputs
+415,"general mills, inc.",42650000000,gis,united states,consumer staples,packaged foods
+416,seven & i holdings co. ltd,42530000000,3382,japan,consumer staples,grocery stores
+417,dsv panalpina a-s,42490000000,dsv,denmark,industrials,integrated freight & logistics
+418,hilton worldwide holdings inc.,42390000000,hlt,united states,consumer discretionary,lodging
+419,wuxi apptec co. ltd,42250000000,603259,china,healthcare,diagnostics & research
+420,sysco corporation,42220000000,syy,united states,consumer staples,food distribution
+421,the kroger co.,42030000000,kr,united states,consumer staples,grocery stores
+422,manulife financial corporation,41980000000,mfc,canada,financials,insurance—life
+423,biontech se,41930000000,22ua,germany,healthcare,biotechnology
+424,stmicroelectronics n.v.,41910000000,stm,switzerland,technology,semiconductors
+425,devon energy corporation,41820000000,dvn,united states,energy,oil & gas e&p
+426,"the williams companies, inc.",41600000000,wmb,united states,energy,oil & gas midstream
+427,the allstate corporation,41540000000,all,united states,financials,insurance—property & casualty
+428,hang seng bank limited,41470000000,0011,hong kong,financials,banks
+429,valero energy corporation,41270000000,vlo,united states,energy,oil & gas refining & marketing
+430,ing groep n.v.,41250000000,inga,netherlands,financials,banks
+431,mmc norilsk nickel pjsc,41160000000,gmkn,russia,basic materials,other industrial metals & mining
+432,"motorola solutions, inc.",40870000000,msi,united states,technology,communication equipment
+433,"east money information co.,ltd.",40830000000,300059,china,communication services,internet content & information
+434,the bank of new york mellon corporation,40830000000,bk,united states,financials,asset management
+435,carrier global corporation,40790000000,carr,united states,industrials,building products & equipment
+436,oversea-chinese banking corp ltd,40770000000,o39,singapore,financials,banks
+437,"digital realty trust, inc.",40640000000,dlr,united states,real estate,reit—office
+438,"walgreens boots alliance, inc.",40550000000,wba,united states,healthcare,pharmaceutical retailers
+439,"agilent technologies, inc.",40490000000,a,united states,healthcare,diagnostics & research
+440,global payments inc.,40350000000,gpn,united states,industrials,specialty business services
+441,citic securities company ltd,40170000000,600030,china,financials,capital markets
+442,baxter international inc.,40130000000,bax,united states,healthcare,medical instruments & supplies
+443,boc hong kong holdings ltd,39990000000,2388,hong kong,financials,banks
+444,msci inc.,39970000000,msci,united states,financials,financial data & stock exchanges
+445,welltower inc.,39960000000,well,united states,real estate,reit—healthcare facilities
+446,xcel energy inc.,39760000000,xel,united states,utilities,utilities—regulated electric
+447,united overseas bank ltd,39730000000,u11,singapore,financials,banks
+448,wanhua chemical group co. ltd,39730000000,600309,china,basic materials,chemicals
+449,"dupont de nemours, inc.",39720000000,dd,united states,basic materials,chemicals
+450,eqt ab,39710000000,6eq,japan,financials,asset management
+451,alimentation couche-tard inc.,39560000000,atd.b,canada,consumer staples,grocery stores
+452,ebay inc.,39340000000,ebay,united states,consumer discretionary,internet retail
+453,givaudan sa,39290000000,givn,switzerland,basic materials,specialty chemicals
+454,novozymes a-s,39030000000,nzym.b,denmark,basic materials,chemicals
+455,prudential plc,39000000000,pru,united kingdom,financials,insurance—life
+456,alcon inc.,38900000000,alc,switzerland,healthcare,medical instruments & supplies
+457,ecopetrol sa,38690000000,ec,colombia,energy,oil & gas integrated
+458,baker hughes company,38390000000,bkr,united states,energy,oil & gas equipment & services
+459,"banco bilbao vizcaya argentaria, sa",38250000000,bbva,spain,financials,banks
+460,dell technologies inc.,38160000000,dell,united states,technology,computer hardware
+461,kuaishou technology,38150000000,1024,china,communication services,broadcasting
+462,ab volvo,38130000000,vol4,sweden,industrials,farm & heavy construction machinery
+463,crédit agricole sa,38010000000,aca,france,financials,banks
+464,"dollar tree, inc.",38000000000,dltr,united states,consumer staples,discount stores
+465,sba communications corporation,37930000000,sbac,united states,real estate,reit—specialty
+466,capgemini se,37820000000,cap,france,technology,information technology services
+467,daiichi sankyo company ltd,37790000000,4568,japan,healthcare,drug manufacturers—general
+468,compass group plc,37730000000,cpg,united kingdom,consumer discretionary,restaurants
+469,sartorius stedim biotech sa,37550000000,dim,france,healthcare,medical instruments & supplies
+470,pt bank rakyat indonesia (persero) tbk,37510000000,byra,indonesia,financials,banks
+471,phillips 66,37510000000,psx,united states,energy,oil & gas refining & marketing
+472,electronic arts inc.,37380000000,ea,united states,communication services,electronic gaming & multimedia
+473,trane technologies plc,37360000000,tt,ireland,industrials,specialty industrial machinery
+474,smc corp,37080000000,6273,japan,industrials,specialty industrial machinery
+475,parker-hannifin corporation,37050000000,ph,united states,industrials,specialty industrial machinery
+476,"tokio marine holdings, inc.",36990000000,8766,japan,financials,insurance—property & casualty
+477,jiangsu hengrui medicine co. ltd,36900000000,600276,china,healthcare,drug manufacturers—general
+478,"beijing-shanghai high-speed railway co.,ltd.",36900000000,601816,china,industrials,railroads
+479,münchener rückversicherungs-gesellschaft aktiengesellschaft in münchen,36890000000,muv2,germany,financials,insurance—reinsurance
+480,"doordash, inc.",36740000000,dash,united states,communication services,internet content & information
+481,shanghai pudong development bank co. ltd,36720000000,600000,china,financials,banks
+482,constellation software inc.,36670000000,csu,canada,technology,software—application
+483,inner mongolia yili industrial group co. ltd,36610000000,600887,china,consumer staples,packaged foods
+484,telus corporation,36370000000,t,canada,communication services,telecom services
+485,public service enterprise group incorporated,36280000000,peg,united states,utilities,utilities—diversified
+486,transdigm group incorporated,36140000000,tdg,united states,industrials,aerospace & defense
+487,"waste connections, inc.",36140000000,wcn,united states,industrials,waste management
+488,lyondellbasell industries n.v.,35960000000,lyb,united states,basic materials,specialty chemicals
+489,danone sa,35930000000,bn,france,consumer staples,packaged foods
+490,"cloudflare, inc.",35920000000,net,united states,technology,software—infrastructure
+491,nio limited,35860000000,nio,china,consumer discretionary,auto manufacturers
+492,"coinbase global, inc.",35860000000,coin,united states,technology,software—application
+493,"shanxi xinghuacun fen wine factory co.,ltd.",35840000000,600809,china,consumer staples,beverages—wineries & distilleries
+494,neste oyj,35570000000,neste,finland,energy,oil & gas refining & marketing
+495,resmed inc.,35440000000,rmd,united states,healthcare,medical instruments & supplies
+496,experian plc,35400000000,expn,ireland,industrials,consulting services
+497,"intuitive surgical, inc.",35370000000,isrg,united states,healthcare,medical instruments & supplies
+498,woolworths group limited,35330000000,wow,australia,consumer staples,grocery stores
+499,mplx lp,35270000000,mplx,united states,energy,oil & gas midstream
+500,telstra corporation limited,35240000000,tls,australia,communication services,telecom services
+501,hexagon ab,35210000000,hxg,sweden,technology,scientific & technical instruments
+502,assicurazioni generali,35200000000,g,italy,financials,insurance—diversified
+503,"avalonbay communities, inc.",35190000000,avb,united states,real estate,reit—residential
+504,imperial oil limited,35130000000,imo,canada,energy,oil & gas integrated
+505,"yum! brands, inc.",35120000000,yum,united states,consumer discretionary,restaurants
+506,sun hung kai properties ltd,35040000000,0016,hong kong,real estate,real estate—development
+507,"old dominion freight line, inc.",34940000000,odfl,united states,industrials,trucking
+508,"cheniere energy, inc.",34920000000,lng,united states,energy,oil & gas midstream
+509,"consolidated edison, inc.",34890000000,ed,united states,utilities,utilities—regulated electric
+510,china citic bank corp ltd,34840000000,601998,china,financials,banks
+511,budweiser brewing company apac ltd,34730000000,1876,hong kong,consumer staples,beverages—brewers
+512,arcelormittal,34660000000,mt,luxembourg,basic materials,steel
+513,"ameriprise financial, inc.",34640000000,amp,united states,financials,asset management
+514,fastenal company,34580000000,fast,united states,industrials,industrial distribution
+515,"align technology, inc.",34490000000,algn,united states,healthcare,medical devices
+516,verbund ag,34440000000,oew,austria,utilities,utilities—renewable
+517,sydney airport limited,34400000000,syd,australia,industrials,airports & air services
+518,"verisk analytics, inc.",34390000000,vrsk,united states,industrials,consulting services
+519,z holdings corp,34240000000,4689,japan,consumer discretionary,internet retail
+520,arthur j. gallagher & co.,34220000000,ajg,united states,financials,insurance brokers
+521,chongqing zhifei biological products co. ltd,34130000000,300122,china,healthcare,biotechnology
+522,equity residential,34110000000,eqr,united states,real estate,reit—residential
+523,"chunghwa telecom co., ltd.",34060000000,2412,taiwan,communication services,telecom services
+524,"t. rowe price group, inc.",34010000000,trow,united states,financials,asset management
+525,halliburton company,33950000000,hal,united states,energy,oil & gas equipment & services
+526,"tyson foods, inc.",33730000000,tsn,united states,consumer staples,farm products
+527,discover financial services,33730000000,dfs,united states,financials,credit services
+528,kuehne + nagel international ag,33690000000,knin,switzerland,industrials,integrated freight & logistics
+529,fanuc corp,33680000000,6954,japan,industrials,specialty industrial machinery
+530,mtr corp ltd,33660000000,0066,hong kong,industrials,railroads
+531,poly developments and holdings group co. ltd,33640000000,600048,china,real estate,real estate—development
+532,kkr & co. inc.,33490000000,kkr,united states,financials,asset management
+533,"mizuho financial group, inc.",33470000000,8411,japan,financials,banks
+534,ptt pcl,33460000000,ptt,thailand,energy,oil & gas integrated
+535,koninklijke ahold delhaize n.v.,33430000000,ad,netherlands,consumer staples,grocery stores
+536,china vanke co. ltd,33350000000,000002,china,real estate,real estate—development
+537,international flavors & fragrances inc.,33320000000,iff,united states,basic materials,specialty chemicals
+538,telefonaktiebolaget lm ericsson,33290000000,eric.a,sweden,technology,communication equipment
+539,china resources land ltd,33260000000,1109,hong kong,real estate,real estate—development
+540,"zoom video communications, inc.",33220000000,zm,united states,communication services,telecom services
+541,otis worldwide corporation,33090000000,otis,united states,industrials,specialty industrial machinery
+542,sun life financial inc.,33080000000,slf,canada,financials,insurance—diversified
+543,"rockwell automation, inc.",33050000000,rok,united states,industrials,specialty industrial machinery
+544,aptiv plc,33020000000,aptv,ireland,consumer discretionary,auto parts
+545,cenovus energy inc.,33020000000,cve,canada,energy,oil & gas integrated
+546,deutsche börse ag,32990000000,db1,germany,financials,financial data & stock exchanges
+547,orange sa,32840000000,ora,france,communication services,telecom services
+548,hess corporation,32810000000,hes,united states,energy,oil & gas e&p
+549,natwest group plc,32720000000,nwg,united kingdom,financials,banks
+550,"ross stores, inc.",32710000000,rost,united states,consumer discretionary,apparel retail
+551,"wec energy group, inc.",32540000000,wec,united states,utilities,utilities—regulated electric
+552,amerisourcebergen corporation,32510000000,abc,united states,healthcare,medical distribution
+553,china overseas land & investment ltd,32490000000,0688,hong kong,real estate,real estate—development
+554,wuxi biologics,32410000000,2269,china,healthcare,biotechnology
+555,citic ltd,32330000000,0267,hong kong,industrials,conglomerates
+556,"cellnex telecom, sa",32320000000,clnx,spain,communication services,telecom services
+557,haier smart home co ltd,32310000000,600690,china,consumer discretionary,"furnishings, fixtures & appliances"
+558,singapore telecommunications ltd,32230000000,z74,singapore,communication services,telecom services
+559,anta sports products ltd,32200000000,2020,china,consumer discretionary,leisure
+560,barclays plc,32190000000,barc,united kingdom,financials,banks
+561,brown-forman corporation,32070000000,bf.b,united states,consumer staples,beverages—wineries & distilleries
+562,weg sa,32050000000,wege3,brazil,industrials,specialty industrial machinery
+563,paccar inc,32040000000,pcar,united states,industrials,farm & heavy construction machinery
+564,great wall motor co ltd,32010000000,601633,china,consumer discretionary,auto manufacturers
+565,longfor group holdings ltd,31980000000,0960,china,real estate,real estate—development
+566,"japan post bank co.,ltd.",31930000000,7182,japan,financials,banks
+567,"ppg industries, inc.",31890000000,ppg,united states,basic materials,specialty chemicals
+568,perusahaan perseroan (persero) pt telekomunikasi indonesia tbk,31780000000,tlk,indonesia,communication services,telecom services
+569,mettler-toledo international inc.,31780000000,mtd,united states,healthcare,diagnostics & research
+570,"oneok, inc.",31660000000,oke,united states,energy,oil & gas midstream
+571,goodman group,31640000000,gmg,australia,real estate,reit—diversified
+572,corning incorporated,31600000000,glw,united states,technology,electronic components
+573,"japan tobacco, inc.",31590000000,2914,japan,consumer staples,tobacco
+574,foxconn industrial internet co. ltd,31580000000,601138,china,technology,communication equipment
+575,eversource energy,31560000000,es,united states,utilities,utilities—regulated electric
+576,china telecom corp ltd,31490000000,0728,hong kong,communication services,telecom services
+577,crh plc,31450000000,crh,ireland,basic materials,building materials
+578,japan post holdings co. ltd,31410000000,6178,japan,financials,banks
+579,biogen inc.,31350000000,biib,united states,healthcare,drug manufacturers—general
+580,swisscom ag,31260000000,scmn,switzerland,communication services,telecom services
+581,koninklijke dsm n.v.,31250000000,dsm,netherlands,basic materials,specialty chemicals
+582,formosa petrochemical corp,31220000000,6505,taiwan,energy,oil & gas refining & marketing
+583,zhangzhou pientzehuang pharmaceutical. ltd,31170000000,600436,china,healthcare,drug manufacturers—general
+584,"ametek, inc.",31150000000,ame,united states,industrials,specialty industrial machinery
+585,e.on se,31120000000,eoaa,germany,utilities,utilities—diversified
+586,china pacific insurance,31040000000,601601,china,financials,insurance—life
+587,"zscaler, inc.",31030000000,zs,united states,technology,software—infrastructure
+588,anhui conch cement company ltd,31020000000,600585,china,basic materials,building materials
+589,franco-nevada corporation,31000000000,fnv,canada,basic materials,gold
+590,engie sa,31000000000,engi,france,utilities,utilities—diversified
+591,state street corporation,30950000000,stt,united states,financials,asset management
+592,saic motor corp ltd,30930000000,600104,china,consumer discretionary,auto manufacturers
+593,nokia corporation,30910000000,nokia.sek,finland,technology,communication equipment
+594,"twitter, inc.",30830000000,twtr,united states,communication services,internet content & information
+595,veeva systems inc.,30760000000,veev,united states,healthcare,health information services
+596,loblaw companies limited,30700000000,l,canada,consumer staples,grocery stores
+597,energy transfer lp,30690000000,et,united states,energy,oil & gas midstream
+598,henkel ag & co kgaa,30530000000,hen,germany,consumer staples,household & personal products
+599,"coupang, inc.",30530000000,cpng,south korea,consumer discretionary,internet retail
+600,ferguson plc,30520000000,ferg,united kingdom,industrials,industrial distribution
+601,bae systems plc,30510000000,ba.,united kingdom,industrials,aerospace & defense
+602,fifth third bancorp,30460000000,fitb,united states,financials,banks
+603,"cbre group, inc.",30450000000,cbre,united states,real estate,real estate services
+604,"american water works company, inc.",30430000000,awk,united states,utilities,utilities—regulated water
+605,fujitsu ltd,30280000000,6702,japan,technology,information technology services
+606,"west pharmaceutical services, inc.",30230000000,wst,united states,healthcare,medical instruments & supplies
+607,compagnie de saint-gobain sa,30160000000,sgo,france,industrials,building products & equipment
+608,"alexandria real estate equities, inc.",30100000000,are,united states,real estate,reit—office
+609,assa abloy ab,30050000000,alz,sweden,industrials,security & protection services
+610,cummins inc.,29940000000,cmi,united states,industrials,specialty industrial machinery
+611,vestas wind systems a-s,29930000000,vws,denmark,industrials,specialty industrial machinery
+612,riyad bank,29860000000,1010,saudi arabia,financials,banks
+613,willis towers watson plc,29850000000,wltw,united kingdom,financials,insurance brokers
+614,"match group, inc.",29820000000,mtch,united states,communication services,internet content & information
+615,kbc group nv,29810000000,kdb,belgium,financials,banks
+616,unicredit s.p.a.,29650000000,ucg,italy,financials,banks
+617,cathay financial holding co. ltd,29580000000,2882,taiwan,financials,insurance—life
+618,"copart, inc.",29580000000,cprt,united states,industrials,specialty business services
+619,spotify technology sa,29560000000,spot,luxembourg,communication services,internet content & information
+620,"nasdaq, inc.",29520000000,ndaq,united states,financials,financial data & stock exchanges
+621,weyerhaeuser company,29420000000,wy,united states,real estate,reit—specialty
+622,saudi electricity company,29420000000,5110,saudi arabia,utilities,utilities—regulated electric
+623,ball corporation,29400000000,bll,united states,consumer discretionary,packaging & containers
+624,"keysight technologies, inc.",29400000000,keys,united states,technology,scientific & technical instruments
+625,"astellas pharma, inc.",29220000000,4503,japan,healthcare,drug manufacturers—general
+626,"amadeus it group, sa",29190000000,ams,spain,technology,information technology services
+627,electricité de france sa,29170000000,edf,france,utilities,utilities—diversified
+628,rogers communications inc.,29130000000,rci.b,canada,communication services,telecom services
+629,tongwei co. ltd,29100000000,600438,china,consumer staples,farm products
+630,las vegas sands corp.,29070000000,lvs,united states,consumer discretionary,resorts & casinos
+631,rwe ag,29060000000,rwe,germany,utilities,utilities—diversified
+632,cosco shipping holdings co ltd,28930000000,601919,china,industrials,marine shipping
+633,svb financial group,28910000000,sivb,united states,financials,banks
+634,csx corporation,28900000000,csx,united states,industrials,railroads
+635,techtronic industries company ltd,28750000000,0669,hong kong,industrials,tools & accessories
+636,"naturgy energy group, sa",28710000000,ntgy,spain,utilities,utilities—regulated gas
+637,apa group,28550000000,apa,australia,utilities,utilities—regulated gas
+638,hormel foods corporation,28520000000,hrl,united states,consumer staples,packaged foods
+639,cerner corporation,28310000000,cern,united states,healthcare,health information services
+640,ashtead group plc,28280000000,aht,united kingdom,industrials,rental & leasing services
+641,equifax inc.,28240000000,efx,united states,industrials,consulting services
+642,semiconductor manufacturing international corp,28240000000,688981,china,technology,semiconductors
+643,porsche automobil holding se,28150000000,paha,germany,consumer discretionary,auto manufacturers
+644,tesco plc,28110000000,tsco,united kingdom,consumer staples,grocery stores
+645,sirius xm holdings inc.,28050000000,siri,united states,communication services,broadcasting
+646,airports of thailand public company ltd,28000000000,aot,thailand,industrials,airports & air services
+647,ck hutchison holdings ltd,27940000000,0001,hong kong,industrials,conglomerates
+648,the people's insurance company (group) of china ltd,27930000000,601319,china,financials,insurance—property & casualty
+649,"expedia group, inc.",27910000000,expe,united states,consumer discretionary,travel services
+650,first republic bank,27900000000,frc,united states,financials,banks
+651,koninklijke philips n.v.,27890000000,phia,netherlands,healthcare,diagnostics & research
+652,great-west lifeco inc.,27850000000,gwo,canada,financials,insurance—life
+653,thai beverage public company ltd,27810000000,y92,thailand,consumer staples,beverages—wineries & distilleries
+654,swiss re ag,27800000000,sren,switzerland,financials,insurance—reinsurance
+655,edison international,27670000000,eix,united states,utilities,utilities—regulated electric
+656,wolters kluwer n.v.,27650000000,wkl,netherlands,communication services,publishing
+657,on semiconductor corporation,27630000000,on,united states,technology,semiconductors
+658,"caixabank, sa",27580000000,cabk,spain,financials,banks
+659,sampo oyj,27460000000,sampo,finland,financials,insurance—diversified
+660,extra space storage inc.,27370000000,exr,united states,real estate,reit—industrial
+661,sartorius ag,27350000000,srt,germany,healthcare,medical instruments & supplies
+662,"d.r. horton, inc.",27340000000,dhi,united states,consumer discretionary,residential construction
+663,"w.w. grainger, inc.",27330000000,gww,united states,industrials,industrial distribution
+664,nari technology co. ltd,27330000000,600406,china,industrials,specialty industrial machinery
+665,kone oyj,27290000000,knebv,finland,industrials,specialty industrial machinery
+666,"mccormick & company, incorporated",27290000000,mkc,united states,consumer staples,packaged foods
+667,ntt data corp,27260000000,9613,japan,technology,information technology services
+668,ganfeng lithium co. ltd,27250000000,002460,china,basic materials,chemicals
+669,will semiconductor co. ltd,27240000000,603501,china,technology,semiconductors
+670,"interactive brokers group, inc.",27220000000,ibkr,united states,financials,capital markets
+671,gazprom neft pjsc,27140000000,sibn,russia,energy,oil & gas integrated
+672,fubon financial holding co. ltd,27130000000,2881,taiwan,financials,insurance—life
+673,tractor supply company,27090000000,tsco,united states,consumer discretionary,specialty retail
+674,chocoladefabriken lindt & sprüngli ag,27080000000,lisn,switzerland,consumer staples,confectioners
+675,"ansys, inc.",26980000000,anss,united states,technology,software—application
+676,shaanxi coal industry company ltd,26950000000,601225,china,energy,thermal coal
+677,aier eye hospital group co. ltd,26950000000,300015,china,healthcare,medical care facilities
+678,"zimmer biomet holdings, inc.",26940000000,zbh,united states,healthcare,medical devices
+679,bridgestone corp,26880000000,5108,japan,consumer discretionary,auto parts
+680,evolution gaming group ab,26820000000,evo,sweden,consumer discretionary,gambling
+681,beijing wantai biological pharmacy enterprise co. ltd,26800000000,603392,china,healthcare,biotechnology
+682,vonovia se,26780000000,vna,germany,real estate,real estate services
+683,sandvik ab,26710000000,sand,sweden,industrials,specialty industrial machinery
+684,"cheniere energy partners, l.p.",26680000000,cqp,united states,energy,oil & gas midstream
+685,pg&e corporation,26660000000,pcg,united states,utilities,utilities—regulated electric
+686,kansas city southern,26590000000,ksu,united states,industrials,railroads
+687,unity software inc.,26560000000,u,united states,technology,software—application
+688,thales sa,26550000000,ho,france,industrials,aerospace & defense
+689,southwest airlines co.,26520000000,luv,united states,industrials,airlines
+690,dte energy company,26410000000,dte,united states,utilities,utilities—regulated electric
+691,intact financial corporation,26400000000,ifc,canada,financials,insurance—property & casualty
+692,deutsche bank ag,26380000000,dbk,germany,financials,banks
+693,canon inc.,26380000000,7751,japan,technology,computer hardware
+694,"lyondellbasell advanced polymers, inc.",26380000000,slmnp,united states,basic materials,chemicals
+695,national bank of canada,26290000000,,canada,financials,banks
+696,sonova holding ag,26220000000,soon,switzerland,healthcare,medical instruments & supplies
+697,realty income corporation,26180000000,o,united states,real estate,reit—retail
+698,china everbright bank company ltd,26130000000,601818,china,financials,banks
+699,twilio inc.,26090000000,twlo,united states,communication services,internet content & information
+700,roblox corp,26050000000,rblx,united states,communication services,electronic gaming & multimedia
+701,"telefónica, sa",26040000000,tef,spain,communication services,telecom services
+702,central japan railway co,26000000000,9022,japan,industrials,railroads
+703,li auto inc.,25830000000,li,china,consumer discretionary,auto manufacturers
+704,enbw energie baden-wuerttemberg ag,25820000000,ebk,germany,utilities,utilities—diversified
+705,"the hartford financial services group, inc.",25760000000,hig,united states,financials,insurance—diversified
+706,laboratory corporation of america holdings,25750000000,lh,united states,healthcare,diagnostics & research
+707,"mongodb, inc.",25730000000,mdb,united states,technology,software—infrastructure
+708,mitsubishi electric corporation,25610000000,6503,japan,industrials,electrical equipment & parts
+709,banco santander (brasil) sa,25590000000,sanb11,brazil,financials,banks
+710,axis bank ltd,25540000000,axisbank,india,financials,banks
+711,"united rentals, inc.",25460000000,uri,united states,industrials,rental & leasing services
+712,nan ya plastics corp,25410000000,1303,taiwan,basic materials,specialty chemicals
+713,lennar corporation,25340000000,len,united states,consumer discretionary,residential construction
+714,straumann holding ag,25310000000,stmn,switzerland,healthcare,medical instruments & supplies
+715,clp holdings ltd,25290000000,0002,hong kong,utilities,utilities—regulated electric
+716,yanzhou coal mining company ltd,25260000000,600188,china,energy,thermal coal
+717,firstenergy corp.,25260000000,fe,united states,utilities,utilities—diversified
+718,albemarle corporation,25250000000,alb,united states,basic materials,specialty chemicals
+719,ck asset holdings limited,25210000000,1113,hong kong,real estate,real estate—development
+720,"enphase energy, inc.",25200000000,enph,united states,technology,solar
+721,legrand sa,25190000000,lr,france,industrials,specialty industrial machinery
+722,galaxy entertainment group ltd,25170000000,0027,hong kong,consumer discretionary,resorts & casinos
+723,skandinaviska enskilda banken ab,25150000000,seb.a,sweden,financials,banks
+724,the mosaic company,25090000000,mos,united states,basic materials,agricultural inputs
+725,cdw corporation,25040000000,cdw,united states,technology,information technology services
+726,"gartner, inc.",25030000000,it,united states,technology,information technology services
+727,"edp renováveis, sa",25010000000,edpr,spain,utilities,utilities—renewable
+728,"delta air lines, inc.",24920000000,dal,united states,industrials,airlines
+729,palantir technologies inc.,24910000000,pltr,united states,technology,software—infrastructure
+730,seagen inc.,24870000000,sgen,united states,healthcare,biotechnology
+731,"diamondback energy, inc.",24840000000,fang,united states,energy,oil & gas e&p
+732,"verisign, inc.",24810000000,vrsn,united states,technology,software—infrastructure
+733,"church & dwight co., inc.",24810000000,chd,united states,consumer staples,household & personal products
+734,ameren corporation,24790000000,aee,united states,utilities,utilities—regulated electric
+735,china minsheng banking corp ltd,24650000000,600016,china,financials,banks
+736,"live nation entertainment, inc.",24610000000,lyv,united states,communication services,entertainment
+737,woodside petroleum ltd,24600000000,wpl,australia,energy,oil & gas e&p
+738,evergreen marine corp,24490000000,2603,taiwan,industrials,marine shipping
+739,"aena s.m.e., sa",24450000000,aena,spain,industrials,airports & air services
+740,xpeng inc.,24440000000,xpev,china,consumer discretionary,auto manufacturers
+741,northern trust corporation,24420000000,ntrs,united states,financials,asset management
+742,"slack technologies, inc.",24300000000,work,united states,technology,software—application
+743,"mid-america apartment communities, inc.",24180000000,maa,united states,real estate,reit—residential
+744,fresenius se & co kgaa,24120000000,fre,germany,healthcare,medical care facilities
+745,fujifilm holdings corp,24120000000,4901,japan,industrials,business equipment & supplies
+746,bt group plc,24090000000,bt.a,united kingdom,communication services,telecom services
+747,vulcan materials company,24080000000,vmc,united states,basic materials,building materials
+748,epiroc ab,24080000000,3ad2,sweden,industrials,farm & heavy construction machinery
+749,"delta electronics, inc.",24050000000,2308,taiwan,technology,electronic components
+750,public joint stock company polyus,24020000000,plzl,russia,basic materials,gold
+751,schindler holding ag,24020000000,schn,switzerland,industrials,specialty industrial machinery
+752,orix corporation,23970000000,8591,japan,financials,credit services
+753,"martin marietta materials, inc.",23940000000,mlm,united states,basic materials,building materials
+754,csc financial co. ltd,23940000000,601066,china,financials,capital markets
+755,"best buy co., inc.",23930000000,bby,united states,consumer discretionary,specialty retail
+756,steris plc,23930000000,ste,ireland,healthcare,medical instruments & supplies
+757,entergy corporation,23920000000,etr,united states,utilities,utilities—diversified
+758,"m3, inc.",23890000000,2413,japan,healthcare,health information services
+759,splunk inc.,23840000000,splk,united states,technology,software—infrastructure
+760,eve energy co. ltd,23820000000,300014,china,industrials,electrical equipment & parts
+761,"ventas, inc.",23810000000,vtr,united states,real estate,reit—healthcare facilities
+762,"endesa, sa",23780000000,ele,spain,utilities,utilities—regulated electric
+763,sse plc,23730000000,sse,united kingdom,utilities,utilities—diversified
+764,compagnie générale des etablissements michelin sca,23650000000,ml,france,consumer discretionary,auto parts
+765,horizon therapeutics public limited company,23640000000,hznp,ireland,healthcare,drug manufacturers—general
+766,baoshan iron & steel co. ltd,23590000000,600019,china,basic materials,steel
+767,"stanley black & decker, inc.",23570000000,swk,united states,industrials,tools & accessories
+768,sungrow power supply co. ltd,23550000000,300274,china,industrials,electrical equipment & parts
+769,beiersdorf ag,23510000000,bei,germany,consumer staples,household & personal products
+770,pt bank mandiri (persero) tbk,23510000000,pq9,indonesia,financials,banks
+771,first quantum minerals ltd.,23470000000,fm,canada,basic materials,copper
+772,kubota corp,23460000000,6326,japan,industrials,farm & heavy construction machinery
+773,mtn group ltd,23450000000,mtn,south africa,communication services,telecom services
+774,"maxim integrated products, inc.",23440000000,mxim,united states,technology,semiconductors
+775,"rocket companies, inc.",23440000000,rkt,united states,financials,mortgage finance
+776,fortis inc.,23430000000,fts,canada,utilities,utilities—regulated electric
+777,formosa plastics corp,23420000000,1301,taiwan,basic materials,specialty chemicals
+778,liberty broadband corporation,23400000000,lbrdk,united states,communication services,entertainment
+779,united microelectronics corporation,23350000000,2303,taiwan,technology,semiconductors
+780,garmin ltd.,23350000000,grmn,switzerland,technology,scientific & technical instruments
+781,huazhu group limited,23340000000,htht,china,consumer discretionary,lodging
+782,carnival corporation & plc,23290000000,ccl,united states,consumer discretionary,travel services
+783,sany heavy industry co. ltd,23270000000,600031,china,industrials,farm & heavy construction machinery
+784,fox corporation,23260000000,foxa,united states,communication services,broadcasting
+785,wens foodstuff group co. ltd,23200000000,300498,china,consumer staples,farm products
+786,société générale sa,23180000000,gle,france,financials,banks
+787,terumo corp,23160000000,4543,japan,healthcare,medical instruments & supplies
+788,china international capital corp ltd,23130000000,601995,china,financials,capital markets
+789,invitation homes inc.,23090000000,invh,united states,real estate,reit—residential
+790,royalty pharma plc,23040000000,rprx,united states,healthcare,biotechnology
+791,olympus corp,23000000000,7733,japan,healthcare,medical instruments & supplies
+792,v.f. corporation,22960000000,vfc,united states,consumer discretionary,apparel manufacturing
+793,dover corporation,22940000000,dov,united states,industrials,specialty industrial machinery
+794,ppl corporation,22870000000,ppl,united states,utilities,utilities—regulated electric
+795,"hengli petrochemical co.,ltd.",22860000000,600346,china,consumer discretionary,textile manufacturing
+796,genmab a/s,22830000000,gmab,denmark,healthcare,biotechnology
+797,sabic agri-nutrients company,22780000000,2020,saudi arabia,basic materials,agricultural inputs
+798,heineken holding n.v.,22780000000,heio,netherlands,consumer staples,beverages—brewers
+799,east japan railway company,22780000000,9020,japan,industrials,railroads
+800,sociedad química y minera de chile sa,22770000000,sqm,chile,basic materials,chemicals
+801,eurofins scientific se,22750000000,erf,luxembourg,healthcare,diagnostics & research
+802,panasonic corp,22730000000,6752,japan,technology,consumer electronics
+803,ucb sa,22710000000,ucb,belgium,healthcare,biotechnology
+804,shanghai international port,22650000000,600018,china,industrials,marine shipping
+805,hewlett packard enterprise company,22650000000,hpe,united states,technology,communication equipment
+806,kellogg company,22630000000,k,united states,consumer staples,packaged foods
+807,picc property and casualty company ltd,22620000000,2328,china,financials,insurance—property & casualty
+808,grupo financiero banorte sab de cv,22600000000,gfnorteo,mexico,financials,banks
+809,komatsu ltd,22560000000,6301,japan,industrials,farm & heavy construction machinery
+810,the hong kong and china gas company ltd,22540000000,0003,hong kong,utilities,utilities—regulated gas
+811,coca-cola europacific partners plc,22530000000,ccep,united kingdom,consumer staples,beverages—non-alcoholic
+812,"essex property trust, inc.",22510000000,ess,united states,real estate,reit—residential
+813,ems-chemie holding ag,22480000000,emsn,switzerland,basic materials,specialty chemicals
+814,"okta, inc.",22450000000,okta,united states,technology,software—infrastructure
+815,china national nuclear power co. ltd,22420000000,601985,china,utilities,utilities—independent power producers
+816,sumitomo corp,22420000000,8053,japan,industrials,conglomerates
+817,tata motors limited,22380000000,ttm,india,consumer discretionary,auto manufacturers
+818,banco do brasil sa,22360000000,bbas3,brazil,financials,banks
+819,hennes & mauritz ab,22330000000,hm.b,sweden,consumer discretionary,apparel manufacturing
+820,"bio-rad laboratories, inc.",22320000000,bio,united states,healthcare,medical devices
+821,teleperformance se,22300000000,tep,france,industrials,consulting services
+822,"fomento económico mexicano, s.a.b. de c.v.",22280000000,femsaub,mexico,consumer staples,beverages—brewers
+823,"huntington bancshares, inc.",22260000000,hu3,united states,financials,banks
+824,"continental resources, inc.",22250000000,clr,united states,energy,oil & gas e&p
+825,crrc corp ltd,22210000000,601766,china,industrials,railroads
+826,"skyworks solutions, inc.",22170000000,swks,united states,technology,semiconductors
+827,xp inc.,22160000000,xpbr31,brazil,financials,capital markets
+828,unicharm corp,22080000000,8113,japan,consumer staples,household & personal products
+829,zto express (cayman) inc.,22050000000,zto,china,industrials,integrated freight & logistics
+830,geberit ag,22030000000,gebn,switzerland,industrials,building products & equipment
+831,toyota industries corp,21990000000,6201,japan,consumer discretionary,auto manufacturers
+832,cincinnati financial corporation,21990000000,cinf,united states,financials,insurance—property & casualty
+833,"cf industries holdings, inc.",21950000000,cf,united states,basic materials,agricultural inputs
+834,nibe industrier ab,21930000000,njb,sweden,industrials,building products & equipment
+835,cnh industrial n.v.,21930000000,cnhi,united kingdom,industrials,farm & heavy construction machinery
+836,huntington bancshares incorporated,21930000000,hban,united states,financials,banks
+837,duke realty corporation,21930000000,dre,united states,real estate,reit—industrial
+838,restaurant brands international limited partnership,21890000000,qsp.un,canada,consumer discretionary,restaurants
+839,"monolithic power systems, inc.",21870000000,mpwr,united states,technology,semiconductors
+840,zebra technologies corporation,21870000000,zbra,united states,technology,communication equipment
+841,"ulta beauty, inc.",21820000000,ulta,united states,consumer discretionary,specialty retail
+842,"dai-ichi life holdings, inc.",21760000000,8750,japan,financials,insurance—life
+843,m&t bank corporation,21740000000,mtb,united states,financials,banks
+844,keycorp,21710000000,key,united states,financials,banks
+845,teledyne technologies incorporated,21650000000,tdy,united states,technology,scientific & technical instruments
+846,"b3 s.a. - brasil, bolsa, balcao",21580000000,b3sa3,brazil,financials,financial data & stock exchanges
+847,"contura energy, inc.",21570000000,ctra,united states,energy,thermal coal
+848,"shimano, inc.",21510000000,7309,japan,consumer discretionary,leisure
+849,power corporation of canada,21480000000,pow,canada,financials,insurance—life
+850,"j.b. hunt transport services, inc.",21480000000,jbht,united states,industrials,integrated freight & logistics
+851,mitsui fudosan co. ltd,21460000000,8801,japan,real estate,real estate—diversified
+852,the saudi british bank,21450000000,1060,saudi arabia,financials,banks
+853,sgs sa,21430000000,sgsn,switzerland,industrials,consulting services
+854,teck resources limited,21410000000,teck.b,canada,basic materials,other industrial metals & mining
+855,rede d'or são luiz sa,21400000000,rdor3,brazil,healthcare,medical care facilities
+856,nexon co. ltd,21360000000,3659,japan,communication services,electronic gaming & multimedia
+857,"the cooper companies, inc.",21350000000,coo,united states,healthcare,medical instruments & supplies
+858,legal & general group plc,21340000000,lgen,united kingdom,financials,insurance—life
+859,regions financial corporation,21320000000,rf,united states,financials,banks
+860,wheaton precious metals corp.,21260000000,wpm,canada,basic materials,gold
+861,zoominfo technologies inc.,21230000000,zi,united states,technology,software—application
+862,viacomcbs inc.,21220000000,viaca,united states,communication services,entertainment
+863,china northern rare earth,21210000000,600111,china,basic materials,other industrial metals & mining
+864,seagate technology plc,21210000000,stx,ireland,technology,computer hardware
+865,china mengniu dairy co ltd,21170000000,2319,hong kong,consumer staples,packaged foods
+866,ingersoll rand inc.,21130000000,ir,united states,industrials,specialty industrial machinery
+867,segro plc,21080000000,sgro,united kingdom,real estate,reit—industrial
+868,yandex n.v.,21050000000,yndx,netherlands,communication services,internet content & information
+869,microchip technology incorporated,21030000000,mchp,united states,technology,semiconductors
+870,"hubspot, inc.",20930000000,hubs,united states,technology,software—application
+871,"fleetcor technologies, inc.",20920000000,flt,united states,technology,information technology services
+872,fortive corporation,20880000000,ftv,united states,technology,scientific & technical instruments
+873,applovin corp,20860000000,app,united states,technology,software—application
+874,royal caribbean cruises ltd.,20810000000,rcl,united states,consumer discretionary,travel services
+875,repsol sa,20800000000,rep,spain,energy,oil & gas integrated
+876,marubeni corp,20780000000,8002,japan,industrials,conglomerates
+877,standard chartered plc,20780000000,stan,united kingdom,financials,banks
+878,li ning co ltd,20750000000,2331,china,consumer discretionary,leisure
+879,cms energy corporation,20730000000,cms,united states,utilities,utilities—regulated electric
+880,steris corp,20660000000,s1te34,united states,healthcare,medical devices
+881,advanced info service pcl,20650000000,advanc,thailand,communication services,telecom services
+882,kyocera corp,20620000000,6971,japan,technology,consumer electronics
+883,pembina pipeline corporation,20610000000,ppl,canada,energy,oil & gas midstream
+884,flutter entertainment plc,20580000000,fltr,ireland,consumer discretionary,gambling
+885,sojitz corp,20550000000,2768,japan,industrials,conglomerates
+886,"boston properties, inc.",20540000000,bxp,united states,real estate,reit—office
+887,synchrony financial,20430000000,syf,united states,financials,credit services
+888,alinma bank,20410000000,1150,saudi arabia,financials,banks
+889,investment ab latour,20390000000,lato.b,sweden,financials,asset management
+890,mitsubishi estate co. ltd,20390000000,8802,japan,real estate,real estate—diversified
+891,guotai junan securities co. ltd,20390000000,601211,china,financials,capital markets
+892,nippon paint holdings co. ltd,20380000000,4612,japan,basic materials,specialty chemicals
+893,carvana co.,20330000000,cvna,united states,consumer discretionary,internet retail
+894,markel corporation,20300000000,mkl,united states,financials,insurance—property & casualty
+895,"brown & brown, inc.",20270000000,bro,united states,financials,insurance brokers
+896,nomura research institute ltd,20260000000,4307,japan,technology,information technology services
+897,mgm resorts international,20220000000,mgm,united states,consumer discretionary,resorts & casinos
+898,mega financial holding co. ltd,20210000000,2886,taiwan,financials,banks
+899,telefônica brasil sa,20190000000,viv,brazil,communication services,telecom services
+900,swiss life holding ag,20160000000,slhn,switzerland,financials,insurance—diversified
+901,telenor asa,20150000000,tel,norway,communication services,telecom services
+902,china railway group ltd,20150000000,0390,hong kong,industrials,engineering & construction
+903,ctbc financial holding co. ltd,20150000000,2891,taiwan,financials,insurance—life
+904,imperial brands plc,20140000000,imb,united kingdom,consumer staples,tobacco
+905,"principal financial group, inc.",20130000000,pfg,united states,financials,insurance—diversified
+906,norsk hydro asa,20100000000,nhy,norway,basic materials,aluminum
+907,"perkinelmer, inc.",20050000000,pki,united states,healthcare,diagnostics & research
+908,hannover rück se,20020000000,hnrb,germany,financials,insurance—reinsurance
+909,"sun communities, inc.",19980000000,sui,united states,real estate,reit—residential
+910,tradeweb markets inc.,19980000000,tw,united states,financials,capital markets
+911,trina solar co. ltd,19940000000,688599,china,technology,solar
+912,vedanta limited,19930000000,vedl,india,basic materials,other industrial metals & mining
+913,"paycom software, inc.",19870000000,payc,united states,technology,software—application
+914,klabin sa,19860000000,klbn11,brazil,basic materials,paper & paper products
+915,kao corp,19850000000,4452,japan,consumer staples,household & personal products
+916,"teradyne, inc.",19850000000,ter,united states,technology,semiconductor equipment & materials
+917,china resources beer (holdings) company ltd,19840000000,0291,hong kong,consumer staples,beverages—brewers
+918,china communications construction co ltd,19830000000,601800,china,industrials,engineering & construction
+919,aviva plc,19820000000,av.,united kingdom,financials,insurance—diversified
+920,standard bank group ltd,19820000000,sbk,south africa,financials,banks
+921,ryanair holdings plc,19780000000,ry4c,ireland,industrials,airlines
+922,"hologic, inc.",19750000000,holx,united states,healthcare,medical instruments & supplies
+923,kerry group plc,19740000000,krz,ireland,consumer staples,packaged foods
+924,renesas electronics corp,19730000000,6723,japan,technology,semiconductors
+925,brookfield infrastructure partners l.p.,19700000000,bip.un,bermuda,utilities,utilities—diversified
+926,shiseido co ltd,19690000000,4911,japan,consumer staples,household & personal products
+927,cgi inc.,19670000000,gib.a,canada,technology,information technology services
+928,henderson land development co ltd,19670000000,0012,hong kong,real estate,real estate services
+929,"bill.com holdings, inc.",19650000000,bill,united states,technology,software—application
+930,shanghai fosun pharmaceutical,19630000000,600196,china,healthcare,drug manufacturers—specialty & generic
+931,"akamai technologies, inc.",19590000000,akam,united states,technology,software—infrastructure
+932,china tower corp ltd,19550000000,0788,china,communication services,telecom services
+933,"huatai securities co., ltd.",19550000000,601688,china,financials,capital markets
+934,marathon oil corporation,19540000000,mro,united states,energy,oil & gas e&p
+935,arch capital group ltd.,19540000000,acgl,bermuda,financials,insurance—diversified
+936,transunion,19530000000,tru,united states,industrials,consulting services
+937,jbs sa,19530000000,jbss3,brazil,consumer staples,packaged foods
+938,shenzhou international group holdings ltd,19500000000,2313,hong kong,consumer discretionary,textile manufacturing
+939,"avantor, inc.",19480000000,avtr,united states,basic materials,specialty chemicals
+940,"molina healthcare, inc.",19460000000,moh,united states,healthcare,healthcare plans
+941,"ferrovial, sa",19440000000,fer,spain,industrials,infrastructure operations
+942,edp - energias de portugal sa,19430000000,edp,portugal,utilities,utilities—diversified
+943,fresenius medical care ag & co. kgaa,19420000000,fme,germany,healthcare,medical care facilities
+944,svenska handelsbanken ab,19420000000,shb.a,sweden,financials,banks
+945,kb financial group inc.,19390000000,105560,south korea,financials,banks
+946,magna international inc.,19360000000,mg,canada,consumer discretionary,auto parts
+947,snam s.p.a.,19270000000,srg,italy,utilities,utilities—regulated gas
+948,cgn power co. ltd,19250000000,003816,china,utilities,utilities—independent power producers
+949,croda international plc,19220000000,crda,united kingdom,basic materials,specialty chemicals
+950,warner music group corp.,19210000000,wmg,united states,communication services,entertainment
+951,zhejiang huayou cobalt co. ltd,19200000000,603799,china,basic materials,other industrial metals & mining
+952,"ss&c technologies holdings, inc.",19150000000,ssnc,united states,technology,software—application
+953,carlsberg a-s,19120000000,carl.a,denmark,consumer staples,beverages—brewers
+954,nice ltd.,19120000000,nice,israel,technology,software—application
+955,waters corporation,19110000000,wat,united states,healthcare,diagnostics & research
+956,otsuka holdings co. ltd,19030000000,4578,japan,healthcare,drug manufacturers—general
+957,tenaris sa,18980000000,ten,luxembourg,energy,oil & gas equipment & services
+958,"citizens financial group, inc.",18950000000,cfg,united states,financials,banks
+959,check point software technologies ltd.,18940000000,chkp,israel,technology,software—infrastructure
+960,toshiba corp,18930000000,6502,japan,industrials,specialty industrial machinery
+961,"lg electronics, inc.",18910000000,066570,south korea,technology,consumer electronics
+962,astra international tbk pt,18900000000,asja,indonesia,consumer discretionary,auto parts
+963,omnicom group inc.,18800000000,omc,united states,communication services,advertising agencies
+964,"aecc aviation power co.,ltd",18790000000,600893,china,industrials,aerospace & defense
+965,international paper company,18780000000,inpap,united states,consumer discretionary,packaging & containers
+966,scottish mortgage investment trust plc,18780000000,smt,united kingdom,financials,asset management
+967,george weston limited,18770000000,wn,canada,consumer staples,grocery stores
+968,"netapp, inc.",18760000000,ntap,united states,technology,computer hardware
+969,"healthpeak properties, inc.",18760000000,peak,united states,real estate,reit—healthcare facilities
+970,"ms&ad insurance group holdings, inc.",18750000000,8725,japan,financials,insurance—property & casualty
+971,the liberty siriusxm group,18740000000,lsxmb,united states,communication services,broadcasting
+972,credit suisse group ag,18720000000,csgn,switzerland,financials,banks
+973,air china ltd,18720000000,601111,china,industrials,airlines
+974,power construction corp of china ltd,18690000000,601669,china,industrials,engineering & construction
+975,"jd health international, inc.",18690000000,8zn,china,healthcare,medical care facilities
+976,south32 limited,18670000000,s32,australia,basic materials,other industrial metals & mining
+977,"huaneng power international, inc.",18570000000,600011,china,utilities,utilities—independent power producers
+978,sands china ltd,18520000000,1928,macao,consumer discretionary,resorts & casinos
+979,heico corporation,18490000000,hei,united states,industrials,aerospace & defense
+980,gf securities co. ltd,18440000000,000776,china,financials,capital markets
+981,genuine parts company,18410000000,gpc,united states,consumer discretionary,specialty retail
+982,vodacom group ltd,18410000000,vod,south africa,communication services,telecom services
+983,"take-two interactive software, inc.",18350000000,ttwo,united states,communication services,electronic gaming & multimedia
+984,china merchants securities co. ltd,18350000000,600999,china,financials,capital markets
+985,"alnylam pharmaceuticals, inc.",18330000000,alny,united states,healthcare,biotechnology
+986,aeon co. ltd,18320000000,8267,japan,consumer discretionary,department stores
+987,link real estate investment trust,18270000000,0823,hong kong,real estate,reit—retail
+988,shionogi & co. ltd,18270000000,4507,japan,healthcare,drug manufacturers—specialty & generic
+989,ubiquiti inc.,18250000000,ui,united states,technology,communication equipment
+990,"quanta services, inc.",18250000000,pwr,united states,industrials,engineering & construction
+991,"catalent, inc.",18240000000,ctlt,united states,healthcare,drug manufacturers—specialty & generic
+992,haitong securities co. ltd,18230000000,600837,china,financials,capital markets
+993,asahi group holdings ltd,18210000000,2502,japan,consumer staples,beverages—brewers
+994,capitec bank holdings ltd,18210000000,cpi,south africa,financials,banks
+995,restaurant brands international inc.,18190000000,qsr,canada,consumer discretionary,restaurants
+996,"yum china holdings, inc.",18180000000,yumc,china,consumer discretionary,restaurants
+997,cez as,18160000000,cez,czechia,utilities,utilities—renewable
+998,veolia environnement sa,18140000000,vie,france,industrials,waste management
+999,"avis budget group, inc.",18120000000,car,united states,industrials,rental & leasing services

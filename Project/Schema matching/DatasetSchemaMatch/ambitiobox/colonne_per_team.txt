@@ -1,0 +1,1 @@
+'06-MarScoToc.csv':['name', 'industry', 'headquarter', 'ownership', 'foundation_year']

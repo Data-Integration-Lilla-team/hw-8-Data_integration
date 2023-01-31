@@ -1,0 +1,1001 @@
+,country,market_value_apr_2022,name,revenue_2022
+0,united states,doll_741.48 b,berkshire hathaway,doll_276.09 b
+1,china,doll_214.43 b,icbc,doll_208.13 b
+2,saudi arabia,"doll_2,292.08 b",saudi arabian oil company (saudi aramco),doll_400.38 b
+3,united states,doll_374.45 b,jpmorgan chase,doll_124.54 b
+4,china,doll_181.32 b,china construction bank,doll_202.07 b
+5,united states,"doll_1,468.4 b",amazon,doll_469.82 b
+6,united states,"doll_2,640.32 b",apple,doll_378.7 b
+7,china,doll_133.38 b,agricultural bank of china,doll_181.42 b
+8,united states,doll_303.1 b,bank of america,doll_96.83 b
+9,japan,doll_237.73 b,toyota motor,doll_281.75 b
+10,united states,"doll_1,581.72 b",alphabet,doll_257.49 b
+11,united states,"doll_2,054.37 b",microsoft,doll_184.9 b
+12,china,doll_117.83 b,bank of china,doll_152.43 b
+13,south korea,doll_367.26 b,samsung group,doll_244.16 b
+14,united states,doll_359.73 b,exxonmobil,doll_280.51 b
+15,united kingdom,doll_211.1 b,shell,doll_261.76 b
+16,china,doll_121.69 b,ping an insurance group,doll_181.37 b
+17,united states,doll_176.77 b,wells fargo,doll_84.12 b
+18,united states,doll_218.02 b,verizon communications,doll_134.35 b
+19,united states,doll_141.79 b,at&t,doll_163.03 b
+20,china,doll_142.3 b,petrochina,doll_380.31 b
+21,united states,doll_490.15 b,unitedhealth group,doll_297.55 b
+22,united states,doll_431.64 b,walmart,doll_572.75 b
+23,china,doll_167.32 b,china merchants bank,doll_71.07 b
+24,germany,doll_82.4 b,volkswagen group,doll_295.73 b
+25,united states,doll_316.23 b,chevron,doll_156.29 b
+26,united states,doll_101.48 b,citigroup,doll_79.94 b
+27,china,doll_414.28 b,tencent holdings,doll_86.86 b
+28,france,doll_127.32 b,total,doll_185.12 b
+29,china,doll_125.53 b,postal savings bank of china (psbc),doll_77.61 b
+30,hong kong,doll_147.05 b,china mobile,doll_131.49 b
+31,united states,doll_205.72 b,comcast,doll_116.39 b
+32,china,doll_237.78 b,alibaba group,doll_129.76 b
+33,united states,doll_499.86 b,meta platforms,doll_117.93 b
+34,germany,doll_96.42 b,allianz,doll_138.62 b
+35,united states,doll_150.95 b,morgan stanley,doll_60.22 b
+36,united states,doll_109.32 b,goldman sachs group,doll_62.81 b
+37,united kingdom,doll_135.3 b,hsbc holdings,doll_59.33 b
+38,france,doll_68.76 b,bnp paribas,doll_127.42 b
+39,united states,doll_477.38 b,johnson & johnson,doll_94.88 b
+40,germany,doll_74.62 b,mercedes-benz group,doll_178.94 b
+41,united states,doll_133.53 b,cvs health,doll_291.98 b
+42,united states,doll_271.83 b,pfizer,doll_81.49 b
+43,japan,doll_71.69 b,softbank,doll_96.86 b
+44,china,doll_80.81 b,sinopec,doll_384.82 b
+45,canada,doll_147.92 b,rbc,doll_45.24 b
+46,switzerland,doll_360.01 b,nestlã©,doll_95.25 b
+47,france,doll_65.75 b,axa group,doll_145.19 b
+48,russia,doll_63.56 b,gazprom,doll_117.3 b
+49,united kingdom,doll_98.38 b,bp,doll_158.01 b
+50,united states,doll_190.29 b,intel,doll_79.02 b
+51,canada,doll_132.99 b,td bank group,doll_38.51 b
+52,japan,doll_103.98 b,nippon telegraph & tel,doll_110.39 b
+53,india,doll_228.63 b,reliance industries,doll_86.85 b
+54,china,doll_68.59 b,industrial bank,doll_60.53 b
+55,japan,doll_108.84 b,sony,doll_89.9 b
+56,spain,doll_58.21 b,santander,doll_78.22 b
+57,japan,doll_75.75 b,mitsubishi ufj financial,doll_48.28 b
+58,taiwan,doll_494.6 b,taiwan semiconductor,doll_61.47 b
+59,canada,doll_60.8 b,ford motor,doll_136.34 b
+60,france,doll_346.8 b,lvmh moã«t hennessy louis vuitton,doll_75.9 b
+61,china,doll_52.82 b,bank of communications,doll_76 b
+62,united states,doll_386.53 b,procter & gamble,doll_79.62 b
+63,germany,doll_55.98 b,bmw group,doll_131.48 b
+64,brazil,doll_83.98 b,petrobras,doll_83.89 b
+65,germany,doll_91.72 b,deutsche telekom,doll_128.59 b
+66,united states,doll_273.76 b,abbvie,doll_56.2 b
+67,switzerland,doll_200.73 b,novartis,doll_51.63 b
+68,united states,doll_57.89 b,general motors,doll_127 b
+69,norway,doll_117.87 b,equinor,doll_88.37 b
+70,china,doll_43.02 b,china life insurance,doll_130.5 b
+71,switzerland,doll_308.14 b,roche holding,doll_68.69 b
+72,hong kong,doll_120.19 b,aia group,doll_45.16 b
+73,united states,doll_57.39 b,metlife,doll_71.08 b
+74,australia,doll_178.07 b,bhp group,doll_65.55 b
+75,canada,doll_310.13 b,the home depot,doll_151.16 b
+76,united states,doll_136.72 b,american express,doll_46.29 b
+77,germany,doll_102.23 b,siemens,doll_76.46 b
+78,netherlands,doll_44.26 b,stellantis,doll_176.61 b
+79,switzerland,doll_69.22 b,zurich insurance group,doll_69.58 b
+80,russia,doll_48.79 b,rosneft,doll_111.4 b
+81,united kingdom,doll_117.78 b,rio tinto,doll_63.46 b
+82,canada,doll_80.94 b,brookfield asset management,doll_78.82 b
+83,united states,doll_81.2 b,cigna,doll_174.27 b
+84,united states,doll_43.6 b,prudential financial,doll_70.93 b
+85,united states,doll_238.13 b,pepsico,doll_79.47 b
+86,united states,doll_213.83 b,merck & co.,doll_50.37 b
+87,united states,doll_121.25 b,elevance health,doll_144.35 b
+88,canada,doll_80.58 b,bank of nova scotia,doll_30.35 b
+89,united states,doll_48.73 b,american international group,doll_52.06 b
+90,switzerland,doll_79.9 b,glencore international,doll_203.41 b
+91,united states,doll_213.36 b,cisco systems,doll_51.55 b
+92,belgium,doll_118.52 b,anheuser-busch inbev,doll_54.33 b
+93,united states,doll_215.33 b,walt disney,doll_72.98 b
+94,switzerland,doll_87.31 b,chubb,doll_40.95 b
+95,hong kong,doll_31.96 b,citic,doll_91.21 b
+96,united kingdom,doll_41.34 b,lloyds banking group,doll_58.48 b
+97,united states,doll_124.33 b,ibm,doll_67.25 b
+98,france,doll_136.86 b,sanofi,doll_44.63 b
+99,united states,doll_163.03 b,united parcel service,doll_97.2 b
+100,united kingdom,doll_97.49 b,british american tobacco,doll_35.32 b
+101,switzerland,doll_56.17 b,ubs,doll_35.22 b
+102,japan,doll_44.99 b,honda motor,doll_130.16 b
+103,japan,doll_50.87 b,mitsubishi,doll_146.94 b
+104,china,doll_36.91 b,china state construction engineering,doll_205.79 b
+105,india,doll_58.39 b,state bank of india,doll_54.42 b
+106,australia,doll_130.34 b,commonwealth bank,doll_21.85 b
+107,china,doll_36.6 b,shanghai pudong development,doll_54.77 b
+108,united states,doll_149.76 b,raytheon technologies,doll_64.36 b
+109,italy,doll_65.84 b,enel,doll_99.41 b
+110,italy,doll_52.28 b,eni,doll_90.5 b
+111,united states,doll_54.88 b,capital one,doll_32.12 b
+112,united states,doll_160.98 b,bristol myers squibb,doll_46.38 b
+113,united states,doll_282.86 b,coca-cola,doll_38.73 b
+114,united states,doll_203.34 b,oracle,doll_41.83 b
+115,russia,doll_33.98 b,sberbank,doll_57.37 b
+116,canada,doll_72.74 b,bank of montreal,doll_26.53 b
+117,brazil,doll_82.03 b,vale,doll_54.4 b
+118,france,doll_35.09 b,edf,doll_99.83 b
+119,united states,doll_219.71 b,thermo fisher scientific,doll_39.21 b
+120,france,doll_31.42 b,credit agricole,doll_73.61 b
+121,netherlands,doll_88.6 b,airbus,doll_61.64 b
+122,united states,doll_253.39 b,costco wholesale,doll_210.22 b
+123,taiwan,doll_49.04 b,hon hai precision,doll_214.6 b
+124,united kingdom,doll_116.16 b,unilever,doll_62 b
+125,united states,doll_97.92 b,charter communications,doll_51.68 b
+126,japan,doll_42.33 b,sumitomo mitsui financial,doll_35.5 b
+127,united states,doll_124.43 b,conocophillips,doll_46.06 b
+128,united kingdom,doll_112.09 b,glaxosmithkline,doll_46.92 b
+129,italy,doll_41.42 b,intesa sanpaolo,doll_47.84 b
+130,canada,doll_39.76 b,manulife,doll_47.17 b
+131,united states,doll_75.48 b,us bancorp,doll_23.12 b
+132,germany,doll_51.78 b,basf,doll_92.9 b
+133,hong kong,doll_62.6 b,cnooc,doll_37.77 b
+134,united states,doll_210.98 b,abbott laboratories,doll_44.51 b
+135,spain,doll_70.26 b,iberdrola,doll_46.23 b
+136,china,doll_62.81 b,china shenhua energy,doll_52.02 b
+137,brazil,doll_52.89 b,itaãº unibanco holding,doll_35.96 b
+138,united states,doll_115.91 b,caterpillar,doll_50.98 b
+139,japan,doll_40.83 b,mitsui,doll_108.31 b
+140,japan,doll_45.95 b,itochu,doll_107.99 b
+141,united states,doll_127.6 b,charles schwab,doll_18.98 b
+142,united states,doll_67.64 b,truist financial,doll_23.19 b
+143,canada,doll_90.92 b,enbridge,doll_37.55 b
+144,japan,doll_45.78 b,hitachi,doll_91.9 b
+145,japan,doll_74.12 b,kddi,doll_49.17 b
+146,south korea,doll_37.61 b,hyundai motor,doll_102.7 b
+147,china,doll_25.26 b,china citic bank,doll_56.99 b
+148,united states,doll_436.49 b,visa,doll_25.48 b
+149,united states,doll_111.76 b,target,doll_106 b
+150,spain,doll_35.28 b,bbva-banco bilbao vizcaya,doll_41.98 b
+151,united states,"doll_1,038.73 b",tesla,doll_53.82 b
+152,united states,doll_123.81 b,deere & company,doll_44.45 b
+153,india,doll_98.28 b,hdfc bank,doll_22.51 b
+154,united kingdom,doll_31.55 b,barclays,doll_30.17 b
+155,germany,doll_35.48 b,munich re,doll_84.88 b
+156,japan,doll_26.56 b,japan post holdings,doll_103.58 b
+157,united states,doll_39.34 b,walgreens,doll_135.95 b
+158,united states,doll_189.4 b,danaher,doll_30.28 b
+159,italy,doll_31.36 b,generali group,doll_102.13 b
+160,denmark,doll_51.41 b,mã¸ller-maersk,doll_61.95 b
+161,united states,doll_130.37 b,lowe's,doll_96.25 b
+162,united states,doll_53.19 b,fedex,doll_91.55 b
+163,germany,doll_55.04 b,deutsche post,doll_96.62 b
+164,united states,doll_71.9 b,pnc financial services,doll_19.93 b
+165,united states,doll_239.64 b,broadcom,doll_28.5 b
+166,russia,doll_32.17 b,lukoil,doll_125.11 b
+167,ireland,doll_144.62 b,medtronic,doll_31.79 b
+168,germany,doll_124.02 b,sap,doll_33.18 b
+169,south korea,doll_61.31 b,sk hynix,doll_37.55 b
+170,france,doll_31.5 b,engie,doll_68.4 b
+171,united states,doll_118.82 b,lockheed martin,doll_65.75 b
+172,united states,doll_100.8 b,blackrock,doll_20.3 b
+173,australia,doll_61.42 b,westpac banking group,doll_20.46 b
+174,united states,doll_87.98 b,duke energy,doll_25.1 b
+175,united states,doll_35.64 b,dell technologies,doll_106.84 b
+176,france,doll_56.87 b,vinci,doll_59.08 b
+177,japan,doll_35.19 b,tokio marine holdings,doll_50.57 b
+178,mexico,doll_67.84 b,amã©rica mã³vil,doll_48.37 b
+179,germany,doll_28.52 b,e.on,doll_91.44 b
+180,united kingdom,doll_59.44 b,anglo american,doll_41.52 b
+181,brazil,doll_43.16 b,banco bradesco,doll_28.33 b
+182,netherlands,doll_39.03 b,ing group,doll_21.49 b
+183,ireland,doll_196.86 b,accenture,doll_56.7 b
+184,united states,doll_130.67 b,honeywell international,doll_34.39 b
+185,japan,doll_31.38 b,mizuho financial,doll_26.76 b
+186,united kingdom,doll_157.26 b,linde,doll_30.79 b
+187,luxembourg,doll_28.98 b,arcelormittal,doll_76.65 b
+188,canada,doll_51.21 b,canadian imperial bank,doll_18.66 b
+189,china,doll_32.81 b,poly developments & holdings group,doll_42.94 b
+190,united states,doll_77.51 b,micron technology,doll_31.17 b
+191,australia,doll_56.23 b,anz,doll_18.38 b
+192,taiwan,doll_30.63 b,fubon financial,doll_33.23 b
+193,china,doll_35.23 b,china telecom,doll_68.15 b
+194,united states,doll_63.62 b,hca healthcare,doll_59.72 b
+195,united states,doll_50.35 b,dow,doll_58.35 b
+196,spain,doll_29.44 b,telefã³nica,doll_46.42 b
+197,china,doll_27.92 b,china vanke,doll_71.42 b
+198,australia,doll_77.24 b,nab - national australia bank,doll_15.76 b
+199,taiwan,doll_28.9 b,cathay financial,doll_34.46 b
+200,united states,doll_149.68 b,qualcomm,doll_36.04 b
+201,france,doll_195.52 b,l'orã©al,doll_38.16 b
+202,canada,doll_36.45 b,allstate,doll_50.59 b
+203,china,doll_28.87 b,saic motor,doll_121.42 b
+204,india,doll_67.9 b,icici bank,doll_21.89 b
+205,china,doll_20.11 b,china everbright bank,doll_42.38 b
+206,united states,doll_78.17 b,gilead sciences,doll_27.37 b
+207,china,doll_22.69 b,china pacific insurance,doll_68.07 b
+208,united states,doll_489.83 b,nvidia,doll_26.91 b
+209,united states,doll_133.63 b,amgen,doll_25.99 b
+210,united states,doll_147.23 b,union pacific,doll_22.66 b
+211,japan,doll_19.9 b,dai-ichi life insurance,doll_66.73 b
+212,canada,doll_203.13 b,nike,doll_46.89 b
+213,japan,doll_45.32 b,takeda pharmaceutical,doll_31.55 b
+214,united states,doll_159.18 b,philip morris international,doll_31.51 b
+215,united states,doll_100.22 b,paypal,doll_25.56 b
+216,hong kong,doll_32.45 b,china resources land,doll_33.61 b
+217,singapore,doll_39.71 b,oversea-chinese banking,doll_22.89 b
+218,china,doll_60.55 b,midea group,doll_50.6 b
+219,united states,doll_41.54 b,travelers,doll_35.31 b
+220,united states,doll_265.45 b,eli lilly,doll_28.32 b
+221,united states,doll_89.98 b,mondelez international,doll_28.72 b
+222,united states,doll_185.03 b,mcdonald's,doll_23.22 b
+223,canada,doll_98.13 b,general electric,doll_74.08 b
+224,france,doll_19.37 b,sociã©tã© gã©nã©rale,doll_35.57 b
+225,france,doll_85.36 b,schneider electric,doll_34.16 b
+226,united states,doll_84.9 b,3m,doll_35.35 b
+227,united states,doll_41.15 b,aflac,doll_22.11 b
+228,india,doll_28.62 b,oil & natural gas,doll_66.28 b
+229,united states,doll_80.48 b,southern company,doll_23.23 b
+230,germany,doll_24.54 b,deutsche bank,doll_36.7 b
+231,thailand,doll_31.34 b,ptt,doll_70.55 b
+232,hong kong,doll_27.91 b,ck hutchison,doll_36.13 b
+233,canada,doll_74.27 b,canadian natural resources,doll_23.97 b
+234,canada,doll_30.71 b,sun life financial,doll_29.82 b
+235,united states,doll_69.84 b,northrop grumman,doll_35.67 b
+236,united states,doll_51.85 b,archer daniels midland,doll_85.26 b
+237,united states,doll_48.64 b,marathon petroleum,doll_119.78 b
+238,china,doll_16.74 b,china minsheng bank,doll_50.08 b
+239,united kingdom,doll_19.63 b,legal & general group,doll_62.51 b
+240,united states,doll_95.68 b,netflix,doll_30.4 b
+241,united states,doll_63.37 b,progressive,doll_48.07 b
+242,china,doll_30.05 b,longfor group holdings,doll_34.8 b
+243,singapore,doll_63.03 b,dbs,doll_12.4 b
+244,china,doll_25.8 b,cosco shipping,doll_51.77 b
+245,china,doll_19.1 b,china communications construction,doll_108.41 b
+246,united kingdom,doll_30.22 b,natwest group,doll_17.86 b
+247,united states,doll_47.68 b,exelon,doll_39.27 b
+248,united states,doll_56.34 b,humana,doll_84.09 b
+249,united states,doll_66.42 b,general dynamics,doll_38.47 b
+250,canada,doll_20.47 b,power corp of canada,doll_57.93 b
+251,qatar,doll_59.09 b,qatar national bank,doll_14.2 b
+252,germany,doll_70.06 b,bayer,doll_52.1 b
+253,united states,doll_30.6 b,kkr,doll_19.02 b
+254,china,doll_15.65 b,country garden holdings,doll_81.13 b
+255,united states,doll_145.27 b,nextera energy,doll_23.74 b
+256,south korea,doll_19.29 b,kb financial group,doll_33.86 b
+257,china,doll_15.36 b,china railway group,doll_166.46 b
+258,united states,doll_38.75 b,hp,doll_64.98 b
+259,finland,doll_40.26 b,nordea bank,doll_13.56 b
+260,japan,doll_39.19 b,seven & i holdings,doll_78.47 b
+261,canada,doll_46.27 b,suncor energy,doll_31.21 b
+262,united states,doll_169.72 b,salesforce.com,doll_26.49 b
+263,france,doll_81.85 b,air liquide,doll_27.58 b
+264,japan,doll_45.14 b,denso,doll_49.49 b
+265,united states,doll_35.68 b,bank of new york mellon,doll_16.09 b
+266,united states,doll_343.27 b,mastercard,doll_18.88 b
+267,brazil,doll_20.7 b,banco do brasil,doll_29.54 b
+268,united states,doll_49.2 b,centene,doll_125.98 b
+269,india,doll_52.3 b,hdfc,doll_18.48 b
+270,united states,doll_60.97 b,freeport-mcmoran,doll_24.31 b
+271,germany,doll_82.53 b,"merck kgaa, darmstadt, germany and its affiliates",doll_23.27 b
+272,spain,doll_26.82 b,caixabank,doll_14.64 b
+273,switzerland,doll_61.35 b,abb,doll_28.93 b
+274,sweden,doll_34.7 b,volvo group,doll_43.36 b
+275,united states,doll_53.05 b,occidental petroleum,doll_25.96 b
+276,united kingdom,doll_54.88 b,national grid,doll_20.77 b
+277,united states,doll_47.66 b,mckesson,doll_257.01 b
+278,south korea,doll_18.17 b,shinhan financial group,doll_29.27 b
+279,netherlands,doll_247.8 b,asml holding,doll_20.65 b
+280,canada,doll_57.39 b,nutrien,doll_27.63 b
+281,sweden,doll_63.51 b,investor ab,doll_12.81 b
+282,south korea,doll_25.82 b,kia,doll_61.01 b
+283,france,doll_31.17 b,saint-gobain,doll_52.2 b
+284,denmark,doll_252.91 b,novo nordisk,doll_22.38 b
+285,south korea,doll_18.03 b,posco,doll_66.66 b
+286,united kingdom,doll_116.05 b,diageo,doll_19 b
+287,netherlands,doll_30.57 b,royal ahold delhaize n.v.,doll_89.36 b
+288,china,doll_14.37 b,picc,doll_90.1 b
+289,united states,doll_68.82 b,dominion energy,doll_13.96 b
+290,united states,doll_41.23 b,kroger,doll_137.89 b
+291,china,doll_23.35 b,baoshan iron & steel,doll_55.52 b
+292,china,doll_343.32 b,kweichow moutai,doll_14.6 b
+293,china,doll_37.03 b,xiaomi,doll_50.91 b
+294,china,doll_37.67 b,bank of ningbo,doll_13.71 b
+295,colombia,doll_36.07 b,ecopetrol,doll_23.43 b
+296,united kingdom,doll_34.94 b,lyondellbasell industries,doll_46.15 b
+297,china,doll_148.42 b,contemporary amperex technology,doll_20.14 b
+298,italy,doll_21.62 b,unicredit,doll_27.79 b
+299,united states,doll_33.25 b,amerisourcebergen,doll_221.1 b
+300,france,doll_79.45 b,essilorluxottica,doll_23.43 b
+301,spain,doll_68.15 b,inditex,doll_32.57 b
+302,united states,doll_89.63 b,starbucks,doll_30.36 b
+303,united states,doll_43.29 b,nucor,doll_39.96 b
+304,united states,doll_65.71 b,intercontinentalexchange,doll_10.15 b
+305,united states,doll_73.7 b,tjx cos,doll_48.55 b
+306,belgium,doll_29.5 b,kbc group,doll_14.81 b
+307,united kingdom,doll_25.89 b,tesco,doll_84.17 b
+308,china,doll_23.25 b,boe technology group,doll_33.78 b
+309,united states,doll_132.17 b,blackstone,doll_15.47 b
+310,united states,doll_50.58 b,american electric,doll_16.62 b
+311,australia,doll_55.44 b,macquarie group,doll_11.21 b
+312,japan,doll_19.7 b,marubeni,doll_72.32 b
+313,switzerland,doll_24.7 b,swiss re,doll_46 b
+314,united states,doll_67.97 b,eog resources,doll_19.78 b
+315,france,doll_16.12 b,cnp assurances,doll_51.78 b
+316,united states,doll_93.89 b,automatic data processing,doll_15.7 b
+317,united states,doll_40.23 b,phillips 66,doll_111.7 b
+318,united states,doll_33.74 b,tyson foods,doll_49.52 b
+319,spain,doll_20.8 b,repsol,doll_58.8 b
+320,japan,doll_20.28 b,sumitomo,doll_48.22 b
+321,switzerland,doll_30.19 b,holcim,doll_29.35 b
+322,united states,doll_100.66 b,altria group,doll_21.11 b
+323,united states,doll_99.65 b,applied materials,doll_24.15 b
+324,germany,doll_22.61 b,daimler truck holding,doll_47 b
+325,china,doll_41.33 b,zijin mining group,doll_37.21 b
+326,saudi arabia,doll_86.46 b,the saudi national bank,doll_8.63 b
+327,switzerland,doll_69.46 b,richemont,doll_19.81 b
+328,france,doll_70.75 b,kering,doll_20.86 b
+329,saudi arabia,doll_29.83 b,saudi electricity,doll_18.49 b
+330,france,doll_37.97 b,danone,doll_28.65 b
+331,japan,doll_14.92 b,nippon steel,doll_57.54 b
+332,south korea,doll_30.55 b,lg chem,doll_37.26 b
+333,united states,doll_31.69 b,discover financial services,doll_12.8 b
+334,canada,doll_46.65 b,couche tard,doll_58.66 b
+335,china,doll_13.28 b,huaxia bank,doll_26.38 b
+336,netherlands,doll_15.72 b,nn group,doll_22.38 b
+337,united states,doll_880 m,fannie mae,doll_100.33 b
+338,germany,doll_20.43 b,fresenius,doll_44.26 b
+339,united states,doll_85.88 b,marsh & mclennan,doll_20.33 b
+340,united states,doll_30.97 b,ameriprise financial,doll_13.89 b
+341,united states,doll_72.63 b,becton dickinson,doll_19.93 b
+342,japan,doll_20.98 b,panasonic,doll_65.97 b
+343,japan,doll_16.51 b,ms&ad insurance,doll_41.89 b
+344,japan,doll_21.71 b,orix,doll_22.73 b
+345,china,doll_32.19 b,citic securities,doll_11.74 b
+346,united arab emirates,doll_69.08 b,first abu dhabi bank,doll_8.25 b
+347,canada,doll_51.83 b,bce,doll_18.7 b
+348,united states,doll_58.86 b,schlumberger,doll_23.67 b
+349,united states,doll_159.94 b,texas instruments,doll_18.34 b
+350,indonesia,doll_50.14 b,bank rakyat indonesia (bri),doll_12.77 b
+351,united kingdom,doll_19.69 b,standard chartered,doll_18.88 b
+352,ireland,doll_31.77 b,crh,doll_31 b
+353,china,doll_15.09 b,bank of beijing,doll_19.38 b
+354,united states,doll_20.13 b,paramount,doll_28.59 b
+355,china,doll_17.05 b,bank of jiangsu,doll_17.9 b
+356,united states,doll_34.51 b,dupont de nemours,doll_16.65 b
+357,china,doll_27.82 b,gree electric appliances,doll_27.88 b
+358,india,doll_16.53 b,indian oil,doll_72.2 b
+359,united states,doll_56.92 b,dollar general,doll_34.22 b
+360,united states,doll_52.89 b,kraft heinz company,doll_26.04 b
+361,singapore,doll_20.86 b,wilmar international,doll_65.84 b
+362,united states,doll_488 m,freddie mac,doll_62.24 b
+363,united states,doll_20.48 b,hewlett packard enterprise,doll_27.86 b
+364,japan,doll_30.53 b,japan tobacco,doll_21.16 b
+365,italy,doll_13.6 b,poste italiane,doll_37.48 b
+366,singapore,doll_37.99 b,united overseas bank,doll_8.89 b
+367,hong kong,doll_15.05 b,china unicom,doll_50.83 b
+368,united states,doll_42.19 b,valero energy,doll_114 b
+369,united states,doll_75.34 b,csx,doll_13.12 b
+370,denmark,doll_14.7 b,danske bank,doll_24.8 b
+371,australia,doll_47.37 b,fortescue metals group,doll_20.93 b
+372,china,doll_8.69 b,china railway construction,doll_157.66 b
+373,united states,doll_56.56 b,moderna,doll_18.4 b
+374,australia,doll_34.61 b,woolworths,doll_38.84 b
+375,china,doll_26.78 b,anhui conch cement,doll_26.05 b
+376,united states,doll_193.1 b,adobe,doll_16.13 b
+377,united states,doll_23.65 b,hartford financial services,doll_22.39 b
+378,united states,doll_26.04 b,state street,doll_11.54 b
+379,saudi arabia,doll_119.85 b,al rajhi bank,doll_6.74 b
+380,china,doll_16.34 b,power construction corporation of china,doll_70.28 b
+381,japan,doll_57.46 b,shin-etsu chemical,doll_17.2 b
+382,united states,doll_63.16 b,fiserv,doll_16.23 b
+383,united states,doll_74.68 b,regeneron pharmaceuticals,doll_16.07 b
+384,japan,doll_11.38 b,eneos holdings,doll_90.31 b
+385,india,doll_172.79 b,tata consultancy services,doll_25.73 b
+386,japan,doll_13.91 b,sompo,doll_35.67 b
+387,austria,doll_16.24 b,omv group,doll_42.02 b
+388,switzerland,doll_19.73 b,swiss life holding,doll_23.54 b
+389,china,doll_14.76 b,bank of shanghai,doll_15.94 b
+390,united states,doll_119.49 b,american tower,doll_9.36 b
+391,united states,doll_57.38 b,pioneer natural resources,doll_17.87 b
+392,hong kong,doll_34.81 b,sun hung kai properties,doll_10.26 b
+393,china,doll_38.63 b,wanhua chemical group,doll_22.43 b
+394,finland,doll_27.29 b,sampo,doll_15.9 b
+395,china,doll_19.42 b,china merchants shekou industrial zone holdings,doll_23.41 b
+396,china,doll_33.26 b,haier smart home,doll_35.16 b
+397,ireland,doll_58.35 b,eaton,doll_19.63 b
+398,south korea,doll_11.99 b,sk,doll_85.9 b
+399,ireland,doll_44.22 b,johnson controls international,doll_24.19 b
+400,brazil,doll_17.48 b,jbs,doll_64.99 b
+401,saudi arabia,doll_60.71 b,saudi telecom,doll_16.91 b
+402,bermuda,doll_15.89 b,jardine matheson,doll_35.86 b
+403,canada,doll_86.33 b,canadian national railway,doll_11.55 b
+404,united states,doll_93.79 b,stryker,doll_17.11 b
+405,finland,doll_29.66 b,nokia,doll_26.24 b
+406,japan,doll_22.76 b,mitsubishi electric,doll_40.34 b
+407,japan,doll_16.36 b,nissan motor,doll_79.17 b
+408,india,doll_20.42 b,tata steel,doll_31.07 b
+409,netherlands,doll_23.41 b,heineken,doll_25.93 b
+410,united kingdom,doll_30.15 b,bae systems,doll_26.85 b
+411,united arab emirates,doll_83.82 b,etisalat,doll_14.52 b
+412,united kingdom,doll_23.74 b,bt group,doll_28.84 b
+413,taiwan,doll_19.63 b,ctbc financial,doll_14.93 b
+414,russia,doll_38.07 b,novatek,doll_15.4 b
+415,china,doll_9.36 b,greenland holdings group,doll_84.53 b
+416,germany,doll_28.86 b,rwe group,doll_28.99 b
+417,japan,doll_46.78 b,daikin industries,doll_26.88 b
+418,netherlands,doll_11.76 b,aegon,doll_26.33 b
+419,china,doll_32.49 b,baidu,doll_19.31 b
+420,sweden,doll_28.6 b,ericsson,doll_26.95 b
+421,japan,doll_24.66 b,canon,doll_31.98 b
+422,united states,doll_22.75 b,lennar,doll_28.42 b
+423,china,doll_18.84 b,bank of nanjing,doll_12.17 b
+424,netherlands,doll_26.39 b,philips,doll_20.28 b
+425,united states,doll_52.47 b,keurig dr pepper,doll_12.68 b
+426,china,doll_83.05 b,china yangtze power,doll_8.52 b
+427,norway,doll_34.31 b,dnb bank,doll_7.79 b
+428,united states,doll_55.6 b,emerson electric,doll_18.55 b
+429,united kingdom,doll_20.62 b,imperial brands,doll_22.66 b
+430,canada,doll_104.45 b,boeing,doll_62.29 b
+431,united states,doll_43.66 b,general mills,doll_18.63 b
+432,india,doll_31.32 b,axis bank,doll_11.41 b
+433,canada,doll_24.82 b,national bank of canada,doll_9 b
+434,united states,doll_94.7 b,the estã©e lauder companies,doll_17.77 b
+435,united kingdom,doll_20.19 b,cnh industrial,doll_33.43 b
+436,canada,doll_13.28 b,fairfax financial,doll_23.57 b
+437,germany,doll_41.08 b,adidas,doll_25.1 b
+438,france,doll_22.85 b,michelin group,doll_28.13 b
+439,united states,doll_67.06 b,norfolk southern,doll_11.14 b
+440,united states,doll_18.25 b,principal financial group,doll_14.26 b
+441,united states,doll_53.11 b,sempra,doll_13.06 b
+442,finland,doll_15.64 b,fortum,doll_132.85 b
+443,mexico,doll_37.88 b,grupo mexico,doll_14.77 b
+444,united states,doll_25.28 b,d.r. horton,doll_28.89 b
+445,united states,doll_47.86 b,l3harris technologies,doll_17.81 b
+446,south africa,doll_40.31 b,naspers,doll_7.01 b
+447,south africa,doll_18.06 b,standard bank group,doll_15.9 b
+448,canada,doll_55.95 b,tc energy,doll_10.48 b
+449,russia,doll_37.75 b,norilsk nickel,doll_17.81 b
+450,spain,doll_29.75 b,naturgy energy group,doll_26.17 b
+451,canada,doll_65.39 b,waste management,doll_17.93 b
+452,germany,doll_28.33 b,henkel,doll_23.72 b
+453,taiwan,doll_46.45 b,mediatek,doll_17.66 b
+454,japan,doll_62.03 b,recruit holdings,doll_24.8 b
+455,china,doll_21.93 b,hengli petrochemical,doll_30.17 b
+456,united states,doll_40.44 b,xcel energy,doll_13.37 b
+457,united states,doll_41.92 b,corteva,doll_15.65 b
+458,united states,doll_19.23 b,synchrony financial,doll_11.37 b
+459,japan,doll_13.04 b,toyota tsusho,doll_69.53 b
+460,japan,doll_18.92 b,toyota industries,doll_23.32 b
+461,united kingdom,doll_204.56 b,astrazeneca,doll_38.68 b
+462,china,doll_3.18 b,sunac china holdings,doll_38.49 b
+463,china,doll_2.78 b,china evergrande group,doll_70.4 b
+464,japan,doll_25.7 b,bridgestone,doll_29.54 b
+465,united arab emirates,doll_26.14 b,emirates nbd,doll_8.6 b
+466,japan,doll_15.82 b,daiwa house industry,doll_38.86 b
+467,china,doll_68.56 b,jd.com,doll_147.63 b
+468,united states,doll_43.42 b,kinder morgan,doll_16.61 b
+469,china,doll_10.55 b,china national building,doll_42.58 b
+470,united states,doll_26.35 b,fifth third bank,doll_8.27 b
+471,south africa,doll_24.98 b,firstrand,doll_10.18 b
+472,france,doll_15.77 b,carrefour,doll_87.81 b
+473,japan,doll_29.14 b,fujitsu,doll_32.83 b
+474,sweden,doll_24.72 b,seb ab,doll_7.55 b
+475,russia,doll_10.48 b,surgutneftegas,doll_19.26 b
+476,china,doll_8.91 b,new china life insurance,doll_34.44 b
+477,canada,doll_42.24 b,barrick gold,doll_11.94 b
+478,denmark,doll_38.65 b,dsv panalpina,doll_28.97 b
+479,germany,doll_11.01 b,talanx,doll_51.73 b
+480,united kingdom,doll_46.36 b,vodafone,doll_53.63 b
+481,japan,doll_58.01 b,nintendo,doll_15.24 b
+482,south korea,doll_11.47 b,hana financial group,doll_13.75 b
+483,south korea,doll_15.65 b,hyundai mobis,doll_36.42 b
+484,india,doll_20.32 b,ntpc,doll_17 b
+485,malaysia,doll_24.74 b,maybank,doll_9.17 b
+486,united states,doll_80.12 b,cme group,doll_4.69 b
+487,united arab emirates,doll_42.24 b,taqa,doll_12.44 b
+488,france,doll_54.16 b,pernod ricard,doll_11.58 b
+489,indonesia,doll_26.88 b,bank mandiri,doll_9.53 b
+490,mexico,doll_27.29 b,femsa,doll_27.38 b
+491,united states,doll_29.79 b,paccar,doll_23.54 b
+492,united states,doll_34.18 b,consolidated edison,doll_13.67 b
+493,japan,doll_20.04 b,mitsui fudosan,doll_18.26 b
+494,taiwan,doll_26.68 b,evergreen marine corp. (taiwan),doll_17.52 b
+495,japan,doll_22.06 b,komatsu,doll_24.51 b
+496,china,doll_24.76 b,shaanxi coal industry,doll_22.28 b
+497,hong kong,doll_11.89 b,lenovo group,doll_70.56 b
+498,japan,doll_51.27 b,fast retailing,doll_19.27 b
+499,united kingdom,doll_52.66 b,london stock exchange,doll_9.27 b
+500,germany,doll_32.71 b,vonovia,doll_6.55 b
+501,united kingdom,doll_21.03 b,aviva,doll_45.13 b
+502,united states,doll_64.22 b,sherwin-williams,doll_19.95 b
+503,japan,doll_22.93 b,fujifilm holdings,doll_22.57 b
+504,united states,doll_125.37 b,intuit,doll_11.41 b
+505,united states,doll_64.61 b,lam research,doll_16.72 b
+506,austria,doll_13.97 b,erste group bank,doll_11.43 b
+507,united states,doll_11.2 b,lincoln national,doll_19.18 b
+508,united states,doll_35.55 b,carrier global,doll_20.61 b
+509,united states,doll_16.2 b,dish network,doll_17.88 b
+510,china,doll_11.14 b,china coal energy,doll_35.86 b
+511,germany,doll_14.14 b,continental,doll_39.91 b
+512,russia,doll_3.15 b,vtb bank,doll_21.3 b
+513,japan,doll_38.94 b,murata manufacturing,doll_16.28 b
+514,india,doll_31.13 b,larsen & toubro,doll_20.53 b
+515,united states,doll_13.79 b,ally financial,doll_10.84 b
+516,china,doll_52.53 b,netease,doll_13.59 b
+517,indonesia,doll_67.62 b,bank central asia,doll_6.1 b
+518,sweden,doll_21.5 b,volvo car,doll_32.85 b
+519,canada,doll_24.88 b,intact financial,doll_14.63 b
+520,denmark,doll_49.11 b,orsted,doll_10.99 b
+521,united states,doll_28.3 b,cummins,doll_24.02 b
+522,united states,doll_42.73 b,williams,doll_10.57 b
+523,france,doll_35.59 b,capgemini,doll_21.46 b
+524,united states,doll_126.34 b,prologis,doll_4.83 b
+525,france,doll_28.56 b,thales,doll_19.14 b
+526,france,doll_13.13 b,bouygues,doll_44.43 b
+527,mexico,doll_21.04 b,banorte,doll_10.61 b
+528,hong kong,doll_25.13 b,ck asset holdings,doll_8.32 b
+529,france,doll_31.81 b,orange,doll_50.26 b
+530,switzerland,doll_34.84 b,kuehne & nagel international,doll_35.88 b
+531,united states,doll_16.83 b,bunge,doll_59.15 b
+532,south korea,doll_9.59 b,samsung life insurance,doll_25.44 b
+533,united states,doll_45.55 b,vmware,doll_12.85 b
+534,united states,doll_15.57 b,albertsons,doll_71.89 b
+535,china,doll_10.5 b,crrc,doll_34.8 b
+536,united states,doll_27.96 b,cbre group,doll_27.75 b
+537,japan,doll_18.19 b,toshiba,doll_30.13 b
+538,south korea,doll_14.64 b,samsung c&t,doll_30.09 b
+539,india,doll_87.21 b,infosys,doll_16.33 b
+540,united kingdom,doll_36.7 b,prudential,doll_26.52 b
+541,china,doll_14.32 b,yankuang energy group,doll_16.86 b
+542,canada,doll_69.42 b,canadian pacific railway,doll_6.38 b
+543,united states,doll_15.94 b,loews,doll_14.67 b
+544,japan,doll_67.25 b,tokyo electron,doll_17.09 b
+545,south korea,doll_17.87 b,lg electronics,doll_66.12 b
+546,australia,doll_94.67 b,csl,doll_10.59 b
+547,canada,doll_18.14 b,magna international,doll_36.25 b
+548,united states,doll_81.25 b,analog devices,doll_8.44 b
+549,japan,doll_21.19 b,kubota,doll_19.99 b
+550,united states,doll_53.86 b,air products & chemicals,doll_10.94 b
+551,united states,doll_59.06 b,newmont mining,doll_12.25 b
+552,switzerland,doll_40.01 b,te connectivity,doll_15.22 b
+553,ireland,doll_68.81 b,aon,doll_12.19 b
+554,canada,doll_36.05 b,telus,doll_13.43 b
+555,united states,doll_37.7 b,dollar tree,doll_26.32 b
+556,united states,doll_19.06 b,keycorp,doll_7.45 b
+557,united kingdom,doll_26.88 b,wtw,doll_9.58 b
+558,china,doll_9 b,china zheshang bank,doll_15.99 b
+559,australia,doll_40.57 b,wesfarmers,doll_25.35 b
+560,japan,doll_15.39 b,suzuki motor,doll_32.56 b
+561,united states,doll_20.56 b,best buy,doll_51.76 b
+562,united states,doll_31.82 b,svb financial group,doll_6.08 b
+563,united states,doll_142.8 b,advanced micro devices,doll_16.43 b
+564,united states,doll_19.89 b,markel,doll_12.84 b
+565,china,doll_44.12 b,muyuan foodstuff,doll_11.27 b
+566,united states,doll_46.67 b,kimberly-clark,doll_19.79 b
+567,sweden,doll_18.56 b,swedbank,doll_6.75 b
+568,united states,doll_43.62 b,cognizant,doll_18.51 b
+569,united states,doll_28.58 b,corning,doll_14.07 b
+570,germany,doll_39.15 b,infineon technologies,doll_13.7 b
+571,united states,doll_20.76 b,citizens financial group,doll_6.88 b
+572,united states,doll_38.57 b,devon energy,doll_13.69 b
+573,japan,doll_17.94 b,asahi group holdings,doll_20.35 b
+574,india,doll_22.87 b,jsw steel,doll_17.1 b
+575,united states,doll_11.16 b,lumen technologies,doll_19.69 b
+576,united states,doll_20.03 b,regions financial,doll_6.63 b
+577,sweden,doll_19.52 b,svenska handelsbanken,doll_6.34 b
+578,united states,doll_21.49 b,raymond james financial,doll_10.43 b
+579,china,doll_84.46 b,byd,doll_32.78 b
+580,united states,doll_63.42 b,illinois tool works,doll_14.46 b
+581,china,doll_43.53 b,pinduoduo,doll_14.57 b
+582,united states,doll_61.39 b,activision blizzard,doll_8.8 b
+583,united kingdom,doll_12.59 b,liberty global,doll_10.54 b
+584,united states,doll_68.17 b,colgate-palmolive,doll_17.42 b
+585,united kingdom,doll_24.88 b,sse,doll_10.33 b
+586,taiwan,doll_23.75 b,nan ya plastics,doll_14.74 b
+587,france,doll_12.95 b,vivendi,doll_11.31 b
+588,united states,doll_36.77 b,baxter international,doll_12.78 b
+589,china,doll_8.48 b,fosun international,doll_25.02 b
+590,china,doll_12.04 b,weichai power,doll_31.4 b
+591,united states,doll_11.58 b,fidelity national financial,doll_15.63 b
+592,united states,doll_35.6 b,parker-hannifin,doll_15.29 b
+593,india,doll_20.21 b,vedanta limited,doll_16.38 b
+594,south korea,doll_9.51 b,woori financial group,doll_11.47 b
+595,united states,doll_45.06 b,sysco,doll_60.74 b
+596,australia,doll_34.21 b,telstra,doll_15.82 b
+597,switzerland,doll_18.68 b,credit suisse group,doll_30.07 b
+598,canada,doll_29.24 b,rogers communications,doll_11.79 b
+599,united states,doll_31.03 b,m&t bank,doll_5.89 b
+600,united states,doll_62.63 b,boston scientific,doll_11.89 b
+601,united states,doll_27.27 b,edison international,doll_14.9 b
+602,france,doll_5.07 b,financiere de l'odet,doll_23.37 b
+603,japan,doll_11.81 b,sumitomo mitsui trust,doll_10.67 b
+604,united states,doll_25.1 b,entergy,doll_11.71 b
+605,switzerland,doll_30.25 b,swisscom,doll_12.23 b
+606,germany,doll_25.8 b,enbw-energie baden,doll_38 b
+607,china,doll_59.33 b,hikvision,doll_12.99 b
+608,japan,doll_12.82 b,nippon yusen,doll_19.46 b
+609,united states,doll_21.35 b,stanley black & decker,doll_16.83 b
+610,united states,doll_30.94 b,oneok,doll_17.27 b
+611,united states,doll_58.74 b,marriott international,doll_13.86 b
+612,united states,doll_49.91 b,warner bros. discovery,doll_12.18 b
+613,china,doll_36.66 b,s.f. holding,doll_32.05 b
+614,united states,doll_28.01 b,delta air lines,doll_35.1 b
+615,india,doll_11.16 b,bharat petroleum,doll_43.2 b
+616,united states,doll_33.94 b,halliburton,doll_16.13 b
+617,china,doll_5.15 b,metallurgical corp of china,doll_77.3 b
+618,united states,doll_22.08 b,northern trust,doll_6.57 b
+619,germany,doll_10.91 b,heidelbergcement,doll_22.13 b
+620,taiwan,doll_19.81 b,china steel,doll_16.77 b
+621,united states,doll_31.72 b,eversource energy,doll_9.86 b
+622,china,doll_21.93 b,sany heavy industry,doll_17.59 b
+623,france,doll_138.97 b,hermã¨s international,doll_10.62 b
+624,united states,doll_17.89 b,international paper,doll_21.78 b
+625,turkey,doll_6.79 b,koã§ holding,doll_38.84 b
+626,japan,doll_40.47 b,nidec,doll_17.07 b
+627,china,doll_111.43 b,meituan,doll_27.79 b
+628,india,doll_44.83 b,kotak mahindra bank,doll_7.92 b
+629,canada,doll_19.97 b,teck resources,doll_10.75 b
+630,united states,doll_27.77 b,southwest airlines,doll_15.79 b
+631,germany,doll_32.23 b,deutsche boerse,doll_5.26 b
+632,united states,doll_25.02 b,labcorp,doll_16.12 b
+633,china,doll_20.28 b,china tower corp.,doll_13.43 b
+634,japan,doll_17.11 b,inpex,doll_11.32 b
+635,united kingdom,doll_23.43 b,coca-cola european partners,doll_16.24 b
+636,china,doll_98.98 b,wuliangye yibin,doll_8.48 b
+637,hong kong,doll_2.14 b,shimao property holdings,doll_21.82 b
+638,japan,doll_7.97 b,idemitsu kosan,doll_54.54 b
+639,taiwan,doll_29.96 b,formosa petrochemical,doll_22.2 b
+640,united states,doll_84.07 b,crown castle international,doll_6.6 b
+641,united states,doll_26.27 b,firstenergy,doll_11.41 b
+642,china,doll_21.52 b,rongsheng petrochemical,doll_27.22 b
+643,india,doll_15.11 b,hindalco industries,doll_24.33 b
+644,china,doll_13.96 b,bank of hangzhou,doll_8.7 b
+645,france,doll_7.28 b,renault,doll_54.62 b
+646,united arab emirates,doll_108.6 b,international holding company,doll_7.75 b
+647,united states,doll_21.93 b,cincinnati financial,doll_9.63 b
+648,japan,doll_19.04 b,mitsubishi estate,doll_12.14 b
+649,united states,doll_15.18 b,cleveland-cliffs,doll_22.35 b
+650,spain,doll_7.03 b,grupo acs,doll_32.9 b
+651,china,doll_13.58 b,cgn power,doll_12.47 b
+652,taiwan,doll_14.5 b,ase technology holding,doll_21.31 b
+653,japan,doll_7.25 b,jfe holdings,doll_36.46 b
+654,united states,doll_26.51 b,dte energy,doll_15.46 b
+655,china,doll_12.76 b,china hongqiao group,doll_17.76 b
+656,netherlands,doll_44.83 b,nxp semiconductors,doll_11.06 b
+657,united states,doll_15.48 b,western digital,doll_18.94 b
+658,united states,doll_90.52 b,booking holdings,doll_10.96 b
+659,japan,doll_16.11 b,aeon,doll_78.17 b
+660,united states,doll_28.21 b,first republic bank,doll_5.53 b
+661,china,doll_13.52 b,lufax holding,doll_9.67 b
+662,sweden,doll_61.42 b,atlas copco,doll_12.92 b
+663,united states,doll_61.05 b,fidelity national information (fis),doll_13.88 b
+664,japan,doll_8.74 b,mitsubishi chemical,doll_34.61 b
+665,portugal,doll_19.63 b,edp-energias de portugal,doll_17.86 b
+666,japan,doll_19.16 b,kyocera,doll_16.22 b
+667,china,doll_6.02 b,xiamen c&d,doll_109.61 b
+668,united states,doll_42.88 b,autozone,doll_15.6 b
+669,hong kong,doll_4.36 b,china taiping insurance,doll_40.91 b
+670,canada,doll_34.25 b,cenovus energy,doll_36.98 b
+671,finland,doll_36.31 b,neste,doll_17.91 b
+672,germany,doll_27.21 b,porsche automobil holding,doll_151 m
+673,sweden,doll_22.04 b,h&m - hennes & mauritz,doll_23.85 b
+674,united kingdom,doll_59.18 b,relx,doll_9.96 b
+675,united states,doll_24.11 b,pg&e,doll_20.64 b
+676,united states,doll_41.81 b,republic services,doll_11.3 b
+677,united states,doll_36.35 b,ross stores,doll_18.92 b
+678,united states,doll_32.8 b,wec energy group,doll_8.32 b
+679,united states,doll_17.06 b,cardinal health,doll_171.29 b
+680,united states,doll_14.61 b,carmax,doll_31.9 b
+681,taiwan,doll_10.52 b,china development financial,doll_12.76 b
+682,saudi arabia,doll_31.76 b,riyad bank,doll_3.23 b
+683,united states,doll_49.81 b,thomson reuters,doll_6.35 b
+684,russia,doll_10.13 b,transneft,doll_14.11 b
+685,united kingdom,doll_29.61 b,ferguson,doll_22.74 b
+686,united states,doll_43.56 b,iqvia,doll_13.87 b
+687,hong kong,doll_54.13 b,hong kong exchanges,doll_2.69 b
+688,united states,doll_31.37 b,ppg,doll_17.23 b
+689,china,doll_2.81 b,legend holding,doll_75.97 b
+690,united states,doll_50.16 b,ecolab,doll_12.73 b
+691,china,doll_6.77 b,sinopharm group,doll_80.8 b
+692,china,doll_31.7 b,luxshare precision industry,doll_23.87 b
+693,china,doll_2.86 b,seazen group,doll_26.4 b
+694,united states,doll_37.87 b,global payments,doll_8.52 b
+695,china,doll_4.17 b,china energy engineering,doll_49.75 b
+696,france,doll_52.26 b,safran,doll_17.89 b
+697,united states,doll_131.75 b,s&p global,doll_8.3 b
+698,united states,doll_19.88 b,huntington bank,doll_6.42 b
+699,bermuda,doll_17.86 b,arch capital group,doll_8.88 b
+700,united states,doll_3.93 b,jackson financial,doll_8.85 b
+701,israel,doll_15.87 b,bank leumi,doll_5.82 b
+702,ireland,doll_34.77 b,trane technologies,doll_14.14 b
+703,france,doll_21.2 b,veolia environnement,doll_33.7 b
+704,united states,doll_46.92 b,o'reilly automotive,doll_13.33 b
+705,united states,doll_30.86 b,biogen,doll_10.35 b
+706,france,doll_15.81 b,publicis groupe,doll_13.87 b
+707,south korea,doll_1.7 b,hanwha,doll_46.14 b
+708,united states,doll_24.17 b,the mosaic company,doll_12.36 b
+709,india,doll_56.8 b,bharti airtel,doll_14.98 b
+710,china,doll_16.04 b,daqin railway,doll_11.83 b
+711,united states,doll_60.27 b,uber,doll_17.45 b
+712,switzerland,doll_34.46 b,stmicroelectronics,doll_12.78 b
+713,china,doll_9.58 b,gemdale,doll_14.32 b
+714,belgium,doll_9.71 b,ageas,doll_14.42 b
+715,taiwan,doll_11.13 b,quanta computer,doll_40.44 b
+716,canada,doll_18.04 b,george weston,doll_43.37 b
+717,united states,doll_31.02 b,weyerhaeuser,doll_10.2 b
+718,south korea,doll_11.11 b,korea electric power,doll_52.9 b
+719,united states,doll_21.51 b,fox,doll_13.59 b
+720,japan,doll_11.58 b,mitsubishi heavy industries,doll_34.06 b
+721,united states,doll_16.98 b,steel dynamics,doll_20.43 b
+722,japan,doll_100.89 b,keyence,doll_6.43 b
+723,china,doll_51.73 b,longi green energy technology,doll_11.76 b
+724,united kingdom,doll_56.35 b,reckitt benckiser group,doll_18.2 b
+725,india,doll_16.3 b,coal india,doll_14.03 b
+726,japan,doll_8.21 b,aisin seiki,doll_35.4 b
+727,united states,doll_42.6 b,digital realty trust,doll_4.77 b
+728,india,doll_22.12 b,tata motors,doll_39.04 b
+729,japan,doll_10.54 b,resona holdings,doll_7.46 b
+730,united states,doll_41.33 b,simon property group,doll_5.12 b
+731,south korea,doll_6.97 b,industrial bank of korea,doll_9.44 b
+732,hong kong,doll_24.76 b,clp holdings,doll_10.8 b
+733,kuwait,doll_25.78 b,national bank of kuwait,doll_3.82 b
+734,singapore,doll_32.06 b,singtel,doll_11.84 b
+735,united states,doll_28.64 b,coinbase,doll_7.84 b
+736,united states,doll_20.04 b,centerpoint energy,doll_8.35 b
+737,saudi arabia,doll_44.95 b,saudi arabian mining,doll_7.14 b
+738,china,doll_6.47 b,china cinda asset management,doll_10.29 b
+739,japan,doll_11.72 b,asahi kasei,doll_21.79 b
+740,japan,doll_10.9 b,nec,doll_27.72 b
+741,united states,doll_16.81 b,united airlines holdings,doll_28.98 b
+742,united states,doll_17.88 b,mgm resorts,doll_9.68 b
+743,netherlands,doll_28.7 b,dsm,doll_10.88 b
+744,indonesia,doll_31.88 b,telkom indonesia,doll_10.02 b
+745,poland,doll_7.55 b,pkn orlen,doll_34.07 b
+746,china,doll_11.51 b,guotai junan securities,doll_6.7 b
+747,norway,doll_19.14 b,norsk hydro,doll_16.89 b
+748,taiwan,doll_23.28 b,formosa plastics,doll_9.79 b
+749,united states,doll_9.18 b,nrg energy,doll_26.9 b
+750,malaysia,doll_21.18 b,public bank,doll_4.51 b
+751,china,doll_9.67 b,tcl,doll_25.27 b
+752,china,doll_12.74 b,huatai securities,doll_6.04 b
+753,united states,doll_23.53 b,kellogg,doll_14.18 b
+754,china,doll_37.83 b,inner mongolia yili,doll_16.52 b
+755,united kingdom,doll_14.8 b,wpp,doll_17.61 b
+756,united states,doll_16.35 b,omnicom group,doll_14.27 b
+757,japan,doll_11.78 b,sekisui house,doll_23.39 b
+758,united states,doll_34.52 b,cheniere energy,doll_17.64 b
+759,sweden,doll_26.55 b,sandvik,doll_11.61 b
+760,thailand,doll_12.8 b,siam cement,doll_16.56 b
+761,japan,doll_20.31 b,east japan railway,doll_17.67 b
+762,united arab emirates,doll_19.45 b,abu dhabi commercial bank,doll_4.23 b
+763,china,doll_4.43 b,huishang bank,doll_10.26 b
+764,china,doll_13.08 b,great wall motor,doll_20.52 b
+765,china,doll_9.56 b,haitong securities,doll_7.8 b
+766,china,doll_6.23 b,dongfeng motor group,doll_17.5 b
+767,china,doll_3.9 b,china reinsurance group,doll_25.39 b
+768,hong kong,doll_20.39 b,henderson land,doll_3.07 b
+769,south korea,doll_32.16 b,samsung sdi,doll_11.84 b
+770,canada,doll_24.04 b,fortis (canada),doll_7.54 b
+771,south korea,doll_10.82 b,sk telecom,doll_14.63 b
+772,netherlands,doll_12.8 b,hal trust,doll_8.68 b
+773,brazil,doll_56.14 b,banco btg pactual,doll_2.71 b
+774,united states,doll_31.15 b,baker hughes company,doll_20.59 b
+775,united states,doll_37.32 b,gallagher,doll_8.05 b
+776,bermuda,doll_12.67 b,everest re group,doll_11.87 b
+777,united states,doll_41.49 b,amphenol,doll_10.88 b
+778,united states,doll_13.1 b,american airlines group,doll_34.77 b
+779,united states,doll_48.87 b,kla,doll_8.16 b
+780,japan,doll_29.26 b,astellas pharma,doll_11.84 b
+781,japan,doll_17.87 b,otsuka holding,doll_13.64 b
+782,china,doll_3.01 b,china bohai bank,doll_10.56 b
+783,thailand,doll_10.82 b,kasikornbank,doll_8.14 b
+784,israel,doll_12.88 b,bank hapoalim,doll_5.64 b
+785,australia,doll_22.85 b,woodside petroleum,doll_7.01 b
+786,hong kong,doll_33.32 b,mtr,doll_6.07 b
+787,russia,doll_10.46 b,tatneft,doll_17.39 b
+788,india,doll_4.1 b,power finance,doll_10.15 b
+789,united states,doll_85.74 b,zoetis,doll_7.78 b
+790,switzerland,doll_48.01 b,lonza group,doll_5.92 b
+791,france,doll_9.86 b,eiffage,doll_22.69 b
+792,japan,doll_7.08 b,sumitomo chemical,doll_24.41 b
+793,united states,doll_68.84 b,vertex pharmaceuticals,doll_7.6 b
+794,united states,doll_20.39 b,constellation energy,doll_19.65 b
+795,china,doll_4.19 b,cifi holdings group,doll_16.77 b
+796,austria,doll_3.98 b,raiffeisen bank international,doll_9.05 b
+797,united states,doll_10.16 b,whirlpool,doll_21.98 b
+798,germany,doll_14.43 b,siemens energy,doll_32.51 b
+799,united states,doll_13.27 b,westrock,doll_19.3 b
+800,south korea,doll_7.36 b,samsung fire & marine,doll_18.34 b
+801,united states,doll_8.75 b,us steel,doll_20.45 b
+802,finland,doll_18.74 b,upm-kymmene,doll_11.6 b
+803,taiwan,doll_16.21 b,formosa chemicals,doll_13.1 b
+804,south korea,doll_14.96 b,sk innovation,doll_40.91 b
+805,sweden,doll_16.49 b,telia,doll_10.29 b
+806,japan,doll_7.85 b,t&d holdings,doll_20.27 b
+807,spain,doll_6.24 b,mapfre,doll_23.48 b
+808,india,doll_39.09 b,hcl technologies,doll_11.19 b
+809,japan,doll_12.58 b,sumitomo realty,doll_8.42 b
+810,united states,doll_16.34 b,westlake chemical,doll_11.78 b
+811,united states,doll_30.79 b,apollo global management,doll_4.83 b
+812,united states,doll_22.72 b,united rentals,doll_9.72 b
+813,united states,doll_23.08 b,diamondback energy,doll_6.8 b
+814,united states,doll_31.04 b,otis worldwide,doll_14.3 b
+815,china,doll_4.46 b,chongqing rural bank,doll_8.68 b
+816,united states,doll_27.77 b,ball,doll_13.93 b
+817,finland,doll_15.68 b,stora enso,doll_12.01 b
+818,taiwan,doll_15.1 b,yang ming marine transport,doll_11.95 b
+819,united kingdom,doll_7.93 b,phoenix group holdings,doll_33.53 b
+820,india,doll_38.44 b,wipro,doll_10.07 b
+821,india,doll_20.57 b,power grid of india,doll_5.61 b
+822,south africa,doll_8.83 b,absa group,doll_9.04 b
+823,russia,doll_12.07 b,novolipetsk steel,doll_16.18 b
+824,japan,doll_8.61 b,sumitomo electric,doll_29.99 b
+825,united kingdom,doll_9.31 b,st. james's place,doll_24.42 b
+826,india,doll_14.77 b,grasim industries,doll_12.35 b
+827,united kingdom,doll_21.23 b,segro,doll_751 m
+828,taiwan,doll_19.32 b,mega financial holding,doll_2.62 b
+829,china,doll_16.05 b,zhongsheng group holdings,doll_27.15 b
+830,taiwan,doll_4.88 b,shin kong financial,doll_15.59 b
+831,united states,doll_20.82 b,cms energy,doll_7.4 b
+832,chile,doll_4.84 b,quinenco,doll_8.46 b
+833,germany,doll_12.57 b,evonik industries,doll_18.69 b
+834,china,doll_41.33 b,east money information,doll_2.13 b
+835,australia,doll_13.04 b,qbe insurance group,doll_13.95 b
+836,malaysia,doll_11.85 b,tenaga nasional,doll_12.7 b
+837,south korea,doll_36.14 b,naver,doll_6.14 b
+838,japan,doll_12.01 b,tdk,doll_16.26 b
+839,japan,doll_12.09 b,nomura,doll_12.89 b
+840,china,doll_3.73 b,jinke property group,doll_15.58 b
+841,japan,doll_5.79 b,tokyo electric power,doll_47.93 b
+842,united states,doll_22.9 b,cdw,doll_20.82 b
+843,united states,doll_46.07 b,the hershey company,doll_8.97 b
+844,india,doll_42.06 b,itc,doll_7.91 b
+845,poland,doll_8.57 b,pgnig group,doll_18.29 b
+846,south africa,doll_19.98 b,mtn group,doll_12.28 b
+847,united kingdom,doll_39.01 b,compass group,doll_24.5 b
+848,united states,doll_18.02 b,wr berkley,doll_9.46 b
+849,united states,doll_59.77 b,moody's,doll_6.22 b
+850,united states,doll_18.97 b,genuine parts,doll_19.7 b
+851,china,doll_37.02 b,beijing-shanghai high-speed railway,doll_4.75 b
+852,china,doll_9.13 b,aluminum corp of china,doll_41.84 b
+853,japan,doll_8.41 b,kansai electric power,doll_26.01 b
+854,united states,doll_70.56 b,public storage,doll_3.42 b
+855,china,doll_53.27 b,china international travel service,doll_10.37 b
+856,switzerland,doll_49.37 b,sika,doll_10.12 b
+857,united states,doll_14.95 b,signature bank,doll_2.48 b
+858,united states,doll_30.58 b,t rowe price,doll_7.67 b
+859,united states,doll_31.74 b,international flavors & fragrances,doll_11.66 b
+860,italy,doll_20.11 b,atlantia,doll_6.21 b
+861,united states,doll_47.95 b,roper technologies,doll_6.09 b
+862,china,doll_21.72 b,shanghai international port,doll_5.18 b
+863,japan,doll_43.87 b,daiichi sankyo,doll_9.42 b
+864,japan,doll_11.45 b,rakuten,doll_15.31 b
+865,united states,doll_13.25 b,franklin resources,doll_8.72 b
+866,ireland,doll_7.83 b,bank of ireland,doll_8.37 b
+867,japan,doll_8.9 b,mitsui osk lines,doll_10.81 b
+868,saudi arabia,doll_24.3 b,saudi british bank,doll_2.38 b
+869,united states,doll_25 b,ameren,doll_6.39 b
+870,taiwan,doll_34.87 b,chunghwa telecom,doll_7.54 b
+871,sweden,doll_29.86 b,assa abloy,doll_11.07 b
+872,china,doll_9.76 b,zte,doll_17.64 b
+873,netherlands,doll_6.61 b,asr nederland,doll_11.72 b
+874,united states,doll_17.33 b,conagra brands,doll_11.37 b
+875,germany,doll_9.18 b,commerzbank,doll_14.84 b
+876,india,doll_32.15 b,bajaj finserv,doll_8.64 b
+877,south korea,doll_4.73 b,hyundai steel,doll_19.95 b
+878,south korea,doll_5.38 b,lg display,doll_26.09 b
+879,south korea,doll_6.89 b,kt,doll_21.74 b
+880,china,doll_1.7 b,logan property holdings,doll_12.2 b
+881,united states,doll_37.09 b,public service enterprise group,doll_8.73 b
+882,russia,doll_4.47 b,en+ group international,doll_14.12 b
+883,turkey,doll_3.2 b,isbank,doll_12.25 b
+884,united states,doll_16.64 b,expeditors international,doll_16.68 b
+885,luxembourg,doll_8.59 b,ternium,doll_15.98 b
+886,czech republic,doll_23.39 b,cez group,doll_10.9 b
+887,japan,doll_9.3 b,isuzu motors,doll_21.7 b
+888,japan,doll_20.81 b,renesas electronics,doll_9.05 b
+889,netherlands,doll_46.2 b,universal music group,doll_10.05 b
+890,italy,doll_4.08 b,unipol gruppo,doll_16.89 b
+891,japan,doll_5.49 b,sbi holdings,doll_5.58 b
+892,hong kong,doll_26.31 b,techtronic industries,doll_13.2 b
+893,spain,doll_19.21 b,ferrovial,doll_8.01 b
+894,malaysia,doll_12.22 b,cimb group holdings,doll_5.66 b
+895,finland,doll_25.87 b,kone,doll_12.43 b
+896,south korea,doll_3.08 b,e-mart,doll_21.77 b
+897,china,doll_9.87 b,gf securities,doll_5.85 b
+898,china,doll_9.86 b,china merchants securities,doll_5.7 b
+899,united states,doll_9.53 b,annaly capital management,doll_731 m
+900,australia,doll_18.25 b,coles group,doll_29.38 b
+901,japan,doll_24.77 b,central japan railway,doll_8.25 b
+902,turkey,doll_2.79 b,sabanci holding,doll_10.51 b
+903,taiwan,doll_11.06 b,yuanta financial holding,doll_5.77 b
+904,chile,doll_3.49 b,antarchile,doll_24.9 b
+905,south korea,doll_10.81 b,hmm,doll_12.05 b
+906,ireland,doll_18.04 b,seagate technology,doll_11.97 b
+907,united states,doll_11.24 b,alleghany,doll_12 b
+908,china,doll_15.04 b,guosen securities,doll_3.76 b
+909,united states,doll_16.03 b,avis budget group,doll_9.31 b
+910,china,doll_5.72 b,jiangxi copper,doll_68.46 b
+911,japan,doll_6.49 b,mitsubishi ufj lease,doll_14.05 b
+912,japan,doll_13.03 b,sumitomo metal mining,doll_10.71 b
+913,taiwan,doll_9.22 b,asustek computer,doll_19.16 b
+914,united kingdom,doll_16.58 b,associated british foods,doll_18.99 b
+915,china,doll_22 b,china national nuclear power,doll_9.6 b
+916,china,doll_10.03 b,china international capital,doll_3.61 b
+917,china,doll_11.4 b,china molybdenum,doll_26.77 b
+918,united states,doll_11.77 b,equitable holdings,doll_11.04 b
+919,germany,doll_8.65 b,covestro,doll_18.8 b
+920,united kingdom,doll_6.99 b,m&g,doll_23.38 b
+921,canada,doll_57.93 b,shopify,doll_4.61 b
+922,china,doll_4.22 b,shanghai construction,doll_43.4 b
+923,sweden,doll_19.43 b,essity,doll_14.59 b
+924,united states,doll_25.52 b,ww grainger,doll_13.02 b
+925,india,doll_5.53 b,canara bank,doll_12.68 b
+926,united states,doll_12.43 b,viatris,doll_17.86 b
+927,united states,doll_29.84 b,american water works,doll_3.93 b
+928,taiwan,doll_20.33 b,united microelectronics,doll_7.63 b
+929,united states,doll_21.23 b,vf,doll_11.62 b
+930,united states,doll_90.64 b,intuitive surgical,doll_5.91 b
+931,italy,doll_18.32 b,snam,doll_3.9 b
+932,denmark,doll_28.23 b,vestas wind systems,doll_18.42 b
+933,japan,doll_11.61 b,subaru,doll_25.15 b
+934,china,doll_2.46 b,jiangsu zhongnan construction group,doll_14 b
+935,denmark,doll_17.76 b,carlsberg,doll_10.59 b
+936,united states,doll_10.86 b,builders firstsource,doll_19.89 b
+937,china,doll_16.03 b,semiconductor manufacturing international,doll_5.51 b
+938,poland,doll_10.9 b,pko bank polski,doll_4.45 b
+939,china,doll_14.99 b,enn energy holdings,doll_14.44 b
+940,hong kong,doll_8.86 b,wh group,doll_27.29 b
+941,united kingdom,doll_17.53 b,amcor,doll_13.59 b
+942,south korea,doll_2.81 b,korea gas,doll_24.03 b
+943,united states,doll_7.68 b,jefferies financial,doll_8.64 b
+944,russia,doll_11.5 b,severstal,doll_11.63 b
+945,united states,doll_31.95 b,alexandria real estate equities,doll_2.11 b
+946,switzerland,doll_10.34 b,julius baer group,doll_4.95 b
+947,south africa,doll_9.09 b,sanlam,doll_14.42 b
+948,united arab emirates,doll_14.07 b,emaar properties,doll_7.86 b
+949,vietnam,doll_16.94 b,joint stock commercial bank for foreign trade of vietnam,doll_3.91 b
+950,united states,doll_37.7 b,motorola solutions,doll_8.17 b
+951,china,doll_9.28 b,shanghai rural commercial bank,doll_5.77 b
+952,brazil,doll_6.76 b,braskem,doll_19.57 b
+953,india,doll_7.54 b,bank of baroda,doll_12.06 b
+954,south korea,doll_9.91 b,s-oil,doll_23.98 b
+955,united states,doll_23.18 b,tractor supply,doll_12.96 b
+956,australia,doll_10.27 b,suncorp group,doll_9.88 b
+957,hungary,doll_7.08 b,mol hungarian oil,doll_19.64 b
+958,ireland,doll_28.85 b,aptiv,doll_15.62 b
+959,united states,doll_7.04 b,voya financial,doll_4.23 b
+960,south korea,doll_3.37 b,gs holdings,doll_17.67 b
+961,brazil,doll_10.16 b,gerdau (cosigua),doll_14.52 b
+962,united states,doll_34.27 b,equity residential,doll_2.43 b
+963,qatar,doll_16.4 b,qatar islamic bank,doll_1.82 b
+964,united states,doll_29.2 b,hormel foods,doll_11.97 b
+965,china,doll_5.46 b,shenwan hongyuan group,doll_6.81 b
+966,united states,doll_7.59 b,reinsurance group of america,doll_16.65 b
+967,united states,doll_16.16 b,quest diagnostics,doll_10.68 b
+968,belgium,doll_10.12 b,solvay,doll_13.52 b
+969,canada,doll_21.29 b,pembina pipeline,doll_6.95 b
+970,saudi arabia,doll_17.6 b,banque saudi fransi,doll_2.19 b
+971,japan,doll_33.91 b,smc,doll_6.4 b
+972,south africa,doll_15.28 b,sasol,doll_15.54 b
+973,united states,doll_11.66 b,molson coors brewing,doll_10.28 b
+974,united states,doll_6.91 b,macy's,doll_25.29 b
+975,colombia,doll_10.89 b,bancolombia,doll_6.08 b
+976,united states,doll_41.75 b,cintas,doll_7.62 b
+977,china,doll_5.48 b,china international marine,doll_25.3 b
+978,china,doll_7.46 b,huaneng power international,doll_31.47 b
+979,canada,doll_27.23 b,restaurant brands international,doll_5.74 b
+980,poland,doll_6.44 b,grupa pzu,doll_10.1 b
+981,japan,doll_19.19 b,kao,doll_12.91 b
+982,china,doll_1.85 b,agile group holdings,doll_11.52 b
+983,united states,doll_7.57 b,arrow electronics,doll_34.48 b
+984,china,doll_8.54 b,shenzhen overseas,doll_14.88 b
+985,united states,doll_7.98 b,tenet healthcare,doll_19.45 b
+986,colombia,doll_4.78 b,grupo aval,doll_10.27 b
+987,thailand,doll_17.53 b,cp all,doll_17.65 b
+988,hong kong,doll_14.82 b,geely automobile holdings,doll_15.76 b
+989,united kingdom,doll_5.96 b,centrica,doll_20.28 b
+990,united arab emirates,doll_12.38 b,dubai islamic bank,doll_3.16 b
+991,brazil,doll_14.66 b,suzano papel e celulose,doll_7.59 b
+992,hong kong,doll_18.28 b,link reit,doll_1.47 b
+993,canada,doll_35.28 b,yum! brands,doll_6.58 b
+994,canada,doll_19.43 b,first quantum minerals,doll_8.29 b
+995,ireland,doll_12.59 b,aercap holdings,doll_4.52 b
+996,united states,doll_12.21 b,first horizon,doll_3.15 b
+997,japan,doll_10.34 b,dentsu,doll_9.88 b
+998,united states,doll_19.08 b,molina healthcare,doll_27.77 b
+999,india,doll_3.62 b,union bank of india,doll_11.28 b

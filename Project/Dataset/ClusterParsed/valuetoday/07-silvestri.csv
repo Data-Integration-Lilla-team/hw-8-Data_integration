@@ -1,0 +1,1001 @@
+,ceo,country,market_value_jan_2020,market_value_jan_2021,market_value_jan_2022,name,employees_2022,revenue_2022,sector
+0,bernard arnault,france,237.807 billion usd,313.500 billion usd,409.480 billion usd,lvmh,"150,000","70,765 million usd",fashion and luxury goods
+1,ulf mark schneider,switzerland,311.592 billion usd,336.110 billion usd,372.720 billion usd,nestle ag,"276,000","92,575 million usd",consumer defensive
+2,severin schwan,switzerland,279.684 billion usd,295.780 billion usd,356.150 billion usd,roche holding ag,"100,920","66,757 million usd",healthcare
+3,peter wennink,netherlands,127.542 billion usd,205.120 billion usd,307.330 billion usd,asml holding,"28,000","20,509 million usd",technology
+4,bob van dijk,netherlands,125.912 billion usd,176.280 billion usd,254.550 billion usd,prosus,"23,874","6,866 million usd",communication services
+5,jean paul agon,france,165.742 billion usd,211.890 billion usd,249.140 billion usd,l'oreal,"85,392","35,580 million usd",consumer defensive
+6,julie sweet,ireland,134.171 billion usd,173.070 billion usd,234.500 billion usd,accenture,"699,000","50,533 million usd",technology
+7,lars fruergaard jorgensen,denmark,137.602 billion usd,163.070 billion usd,231.350 billion usd,novo nordisk a/s,"45,971","20,838 million usd",healthcare
+8,vasant narasimhan,switzerland,215.018 billion usd,217.770 billion usd,201.260 billion usd,novartis ag,"104,323","52,877 million usd",healthcare
+9,ben van beurden,netherlands,237.102 billion usd,136.150 billion usd,181.560 billion usd,royal dutch shell,"86,000","180,640 million usd",energy
+10,pascal soriot,uk,135.300 billion usd,130.990 billion usd,178.120 billion usd,astrazeneca,"83,100","37,417 million usd",healthcare
+11,axel dumas,france,78.337 billion usd,112.040 billion usd,172.040 billion usd,hermes international,"15,417","9,898 million usd",consumer cyclical
+12,sanjiv lamba,uk,114.005 billion usd,136.550 billion usd,171.940 billion usd,linde ag,"74,207","30,793 million usd",basic materials
+13,christian klein,germany,169.596 billion usd,155.850 billion usd,162.540 billion usd,sap se,"107,415","30,682 million usd",technology
+14,pietro beccari,france,93.276 billion usd,99.873 billion usd,143.380 billion usd,christian dior,"128,339","70,765 million usd",consumer cyclical
+15,geoffrey s. martha,ireland,153.912 billion usd,157.670 billion usd,141.390 billion usd,medtronic,"90,000","31,677 million usd",healthcare
+16,roland busch,germany,108.756 billion usd,114.390 billion usd,138.710 billion usd,siemens,"303,000","68,616 million usd",industries
+17,patrick pouyanne,france,144.694 billion usd,114.130 billion usd,138.010 billion usd,totalenergies se,"105,476","184,630 million usd",energy
+18,alan jope,netherlands,151.747 billion usd,157.180 billion usd,137.220 billion usd,unilever group,"149,000","57,793 million usd",consumer defensive
+19,herbert diess,germany,111.302 billion usd,99.864 billion usd,134.250 billion usd,volkswagen,"662,575","250,120 million usd",consumer cyclical
+20,noel quinn,uk,160.680 billion usd,105.160 billion usd,132.940 billion usd,hsbc holdings,"223,448","63,644 million usd",financial services
+21,paul hudson,france,127.049 billion usd,120.410 billion usd,126.370 billion usd,sanofi,"95,442","43,171 million usd",healthcare
+22,ivan menezes,uk,103.621 billion usd,91.733 billion usd,123.290 billion usd,diageo,"28,025","18,200 million usd",consumer defensive
+23,jakob stausholm,uk,115.285 billion usd,93.792 billion usd,116.980 billion usd,rio tinto group,"49,000","63,495 million usd",basic materials
+24,dame emma walmsley,uk,116.685 billion usd,91.765 billion usd,110.320 billion usd,glaxosmithkline,"99,000","44,655 million usd",healthcare
+25,michel doukeris,belgium,163.224 billion usd,136.860 billion usd,109.500 billion usd,anheuser-busch inbev,"164,000","54,304 million usd",consumer defensive
+26,alexey miller,russia,93.956 billion usd,69.570 billion usd,108.150 billion usd,gazprom,"473,800","168,300 million usd",energy
+27,jean-pascal tricoire,france,57.457 billion usd,79.856 billion usd,107.120 billion usd,schneider electric,"166,025","31,853 million usd",power equipment
+28,guillaume faury,netherlands,117.260 billion usd,85.683 billion usd,105.090 billion usd,airbus,"125,888","57,468 million usd",industries
+29,oliver bate,germany,105.918 billion usd,100.760 billion usd,103.280 billion usd,allianz se,"150,269","114,040 million usd",financial services
+30,belen garijo,germany,52.675 billion usd,74.308 billion usd,102.500 billion usd,merck kgaa o.n.,"58,408","21,695 million usd",healthcare
+31,francois-henri pinault,france,84.010 billion usd,90.434 billion usd,101.130 billion usd,kering,"38,553","19,445 million usd",consumer cyclical
+32,pablo isla,spain,110.958 billion usd,99.765 billion usd,98.655 billion usd,inditex (industria de diseno textil),"144,116","27,708 million usd",consumer cyclical
+33,bernard looney,uk,128.560 billion usd,70.503 billion usd,97.619 billion usd,bp p.l.c.,"60,000","157,740 million usd",energy
+34,timotheus hottges,germany,78.317 billion usd,87.242 billion usd,92.028 billion usd,deutsche telekom ag,"226,291","119,890 million usd",communication services
+35,jean-laurent bonnafe,france,74.764 billion usd,65.494 billion usd,90.457 billion usd,bnp paribas,"190,000",0 million usd,financial services
+36,anders opedal,norway,67.450 billion usd,54.549 billion usd,89.918 billion usd,equinor asa,"21,245","88,744 million usd",energy
+37,jack bowles,uk,100.584 billion usd,84.670 billion usd,89.470 billion usd,british american tobacco,"55,000","33,620 million usd",consumer defensive
+38,ola kallenius,germany,61.298 billion usd,75.286 billion usd,89.412 billion usd,mercedec benz group ag,"288,481","203,830 million usd",consumer cyclical
+39,francesco milleri,france,66.781 billion usd,67.824 billion usd,89.047 billion usd,essilor luxottica,"151,017","21,842 million usd",healthcare
+40,evan g. greenberg,switzerland,70.056 billion usd,69.474 billion usd,86.661 billion usd,chubb,"31,000","40,963 million usd",financial services
+41,nick hayek jr.,switzerland,14.536 billion usd,14.068 billion usd,85.629 billion usd,swatch group ag,"32,424","7,774 million usd",consumer cyclical
+42,jerome lambert,switzerland,45.102 billion usd,51.795 billion usd,84.500 billion usd,compagnie financiere richemont sa,"34,760","19,915 million usd",consumer cyclical
+43,francois jackow,france,70.861 billion usd,77.178 billion usd,84.264 billion usd,air liquide,"67,000","25,714 million usd",basic materials
+44,herman gref,russia,90.327 billion usd,78.877 billion usd,83.756 billion usd,sberbank of russia,"285,555",0 million usd,financial services
+45,bernd montag,germany,47.672 billion usd,55.393 billion usd,81.178 billion usd,siemens healthineers ag,"52,000","19,833 million usd",healthcare
+46,francesco starace,italy,82.055 billion usd,102.430 billion usd,79.770 billion usd,enel,"66,438","94,862 million usd",utilities
+47,frank appel,germany,47.723 billion usd,61.106 billion usd,78.472 billion usd,deutsche post ag,"571,974","90,085 million usd",industries
+48,mats rahmstrom,sweden,49.329 billion usd,59.441 billion usd,78.380 billion usd,atlas copco ab,"40,000","11,646 million usd",industries
+49,johan forssell,sweden,43.995 billion usd,55.421 billion usd,77.328 billion usd,investor ab (publ),"20,054","5,459 million usd",financial services
+50,bjorn rosengren,switzerland,53.280 billion usd,58.228 billion usd,76.037 billion usd,abb,"105,000","28,945 million usd",industries
+51,igor sechin,russia,77.998 billion usd,56.470 billion usd,75.445 billion usd,rosneft oil company,"315,000","78,849 million usd",energy
+52,pieter van der,netherlands,24.983 billion usd,70.244 billion usd,75.414 billion usd,adyen,"1,750","6,606 million usd",technology
+53,thomas buberl,france,68.457 billion usd,56.640 billion usd,74.588 billion usd,axa,"96,595","111,660 million usd",financial services
+54,jose ignacio sanchez galan,spain,63.052 billion usd,86.565 billion usd,72.100 billion usd,iberdrola,"45,000","43,104 million usd",utilities
+55,bernard charles,france,42.904 billion usd,53.310 billion usd,71.224 billion usd,dassault systemes,"19,789","5,356 million usd",technology
+56,gary nagle,switzerland,42.021 billion usd,42.453 billion usd,70.870 billion usd,glencore,"134,878","203,750 million usd",basic materials
+57,,germany,54.028 billion usd,56.772 billion usd,70.505 billion usd,bayerische motoren werke (bmw),"120,726","111,210 million usd",consumer cyclical
+58,leonid viktorovich mikhelson,russia,61.322 billion usd,51.530 billion usd,69.387 billion usd,novatek,"16,821","10,411 million usd",energy
+59,,germany,70.793 billion usd,72.387 billion usd,68.991 billion usd,basf se,"110,302","86,615 million usd",basic materials
+60,soren skou,denmark,28.030 billion usd,41.974 billion usd,68.834 billion usd,a.p. moller - maersk a/s,"80,000","61,787 million usd",industries
+61,mario greco,switzerland,62.111 billion usd,61.899 billion usd,67.906 billion usd,zurich insurance group ag,"52,930","65,801 million usd",financial services
+62,craig arnold,ireland,39.310 billion usd,47.888 billion usd,66.905 billion usd,eaton corporation,"85,947","19,628 million usd",industries
+63,ralph hamers,switzerland,46.416 billion usd,51.211 billion usd,66.672 billion usd,ubs group ag,"71,551",0 million usd,financial services
+64,carlos tavares,netherlands,,47.530 billion usd,64.800 billion usd,stellantis n.v,"189,512","164,660 million usd",automobile
+65,benedetto vigna,italy,42.029 billion usd,57.566 billion usd,62.961 billion usd,ferrari,"4,556","4,706 million usd",consumer cyclical
+66,laxman narasimhan,uk,57.941 billion usd,63.484 billion usd,62.297 billion usd,reckitt benckiser group,"43,000","17,323 million usd",consumer defensive
+67,jose antonio alvarez,spain,71.788 billion usd,54.044 billion usd,61.025 billion usd,banco santander,"191,189",0 million usd,financial services
+68,martin lundstedt,sweden,35.336 billion usd,48.101 billion usd,60.845 billion usd,ab volvo,"95,850","39,083 million usd",industries
+69,xavier huillard,france,64.245 billion usd,55.686 billion usd,60.651 billion usd,vinci,"217,731","55,080 million usd",industries
+70,alexandre ricard,france,47.441 billion usd,49.849 billion usd,60.061 billion usd,pernod ricard,"18,500","8,821 million usd",consumer defensive
+71,duncan wanblad,uk,39.779 billion usd,45.192 billion usd,59.386 billion usd,anglo american,"90,000","41,554 million usd",basic materials
+72,reinhard ploss,germany,29.405 billion usd,49.718 billion usd,59.352 billion usd,infineon technologies ag,"50,288","12,188 million usd",technology
+73,vagit alekperov,russia,66.226 billion usd,45.541 billion usd,59.246 billion usd,pjsc lukoil,"101,000","110,010 million usd",energy
+74,kurt sievers,netherlands,35.769 billion usd,44.483 billion usd,58.859 billion usd,nxp semiconductors,"31,000","11,063 million usd",technology
+75,erik engstrom,uk,48.354 billion usd,47.199 billion usd,58.743 billion usd,relx,"33,500","9,482 million usd",communication services
+76,pierre-alain ruffieux,switzerland,27.306 billion usd,47.276 billion usd,57.618 billion usd,lonza group,"16,218","5,750 million usd",healthcare
+77,steven van rijswijk,netherlands,47.989 billion usd,36.659 billion usd,56.183 billion usd,ing group,"57,000",0 million usd,financial services
+78,rolf habben jansen,germany,15.139 billion usd,19.669 billion usd,55.995 billion usd,hapag-lloyd,"14,100","24,545 million usd",industries
+79,michael strugl,austria,17.611 billion usd,29.551 billion usd,55.641 billion usd,verbund ag,"2,980","4,776 million usd",utilities
+80,paul schuler,switzerland,26.539 billion usd,38.362 billion usd,55.610 billion usd,sika ag,"24,848","9,835 million usd",basic materials
+81,,russia,,,55.251 billion usd,open joint stock company omz,,387 million usd,industries
+82,kasper rorsted,germany,64.440 billion usd,70.751 billion usd,54.843 billion usd,adidas,"62,285","23,400 million usd",consumer cyclical
+83,werner baumann,germany,78.085 billion usd,57.610 billion usd,54.460 billion usd,bayer,"99,538","48,577 million usd",healthcare
+84,olivier andries,france,65.788 billion usd,60.282 billion usd,54.377 billion usd,safran,"76,800","16,677 million usd",industries
+85,carlo messina,italy,46.651 billion usd,45.193 billion usd,53.948 billion usd,intesa sanpaolo,"105,615","22,427 million usd",financial services
+86,david schwimmer,uk,35.743 billion usd,43.305 billion usd,53.536 billion usd,london stock exchange group,"24,158","8,823 million usd",financial services
+87,jens bjorn andersen,denmark,26.448 billion usd,37.874 billion usd,52.508 billion usd,dsv panalpina,"56,000","26,981 million usd",industries
+88,john pettigrew,uk,43.268 billion usd,41.826 billion usd,52.115 billion usd,national grid transco,"23,683","21,730 million usd",utilities
+89,terrence curtin,switzerland,32.389 billion usd,40.043 billion usd,51.743 billion usd,te connectivity,"89,000","14,293 million usd",technology
+90,claudio descalzi,italy,56.976 billion usd,37.260 billion usd,51.734 billion usd,eni s.p.a.,"31,495","84,380 million usd",energy
+91,,germany,8.123 billion usd,19.629 billion usd,51.375 billion usd,biontech se,"1,941","18,970 million usd",healthcare
+92,charlie nunn,uk,58.757 billion usd,35.299 billion usd,51.001 billion usd,lloyds banking group,"61,576",0 million usd,financial services
+93,lance uggla,uk,30.142 billion usd,37.882 billion usd,50.254 billion usd,ihs markit,"16,000","1,860 million usd",industries
+94,frank vang-jensen,finland,34.476 billion usd,32.835 billion usd,49.607 billion usd,nordea bank abp,"28,051",0 million usd,financial services
+95,charles f. lowrey,uk,50.487 billion usd,47.903 billion usd,49.339 billion usd,prudential,"18,687","26,500 million usd",financial services
+96,christian sinding,sweden,11.604 billion usd,24.261 billion usd,48.284 billion usd,eqt ab (publ),"1,160",150 million usd,financial services
+97,,uk,,5.823 billion usd,6.537 billion usd,f&c investment trust,,"1,275 million usd",investments
+98,c. s. venkatakrishnan,uk,42.108 billion usd,34.698 billion usd,47.535 billion usd,barclays plc,"83,000",0 million usd,financial services
+99,simon a borrows,uk,13.982 billion usd,27.376 billion usd,47.296 billion usd,3i group,282,"4,882 million usd",financial services
+100,vladimir potanin,russia,49.697 billion usd,51.115 billion usd,47.226 billion usd,mmc norilsk nickel,"75,901","17,852 million usd",basic materials
+101,mads nipper,denmark,43.383 billion usd,85.753 billion usd,46.812 billion usd,orsted a/s,"6,429","11,496 million usd",utilities
+102,philippe brassac,france,42.590 billion usd,36.631 billion usd,46.250 billion usd,credit agricole,"73,037",0 million usd,financial services
+103,gilles andrier,switzerland,29.034 billion usd,38.532 billion usd,46.065 billion usd,givaudan sa,"16,842","7,105 million usd",basic materials
+104,kevin p. clark,ireland,24.587 billion usd,35.182 billion usd,45.844 billion usd,aptiv,"151,000","15,618 million usd",consumer cyclical
+105,jean-marc chery,switzerland,24.827 billion usd,33.637 billion usd,45.434 billion usd,stmicroelectronics,"48,254","13,249 million usd",technology
+106,,ireland,,34.427 billion usd,44.959 billion usd,trane technologies plc,"37,000","14,136 million usd",industry machinery
+107,joachim wenning,germany,42.927 billion usd,41.423 billion usd,43.178 billion usd,munchener ruckversicherungs-gesellschaft,"39,642","76,540 million usd",financial services
+108,nick read,uk,51.930 billion usd,44.228 billion usd,43.005 billion usd,vodafone group,"105,000","53,685 million usd",communication services
+109,daniel ek,sweden,26.472 billion usd,59.655 billion usd,42.828 billion usd,spotify technology,"6,617","10,654 million usd",communication services
+110,brian cassin,ireland,30.293 billion usd,34.833 billion usd,42.818 billion usd,experian,"17,800","6,288 million usd",industries
+111,rolf eberhard buch,germany,29.359 billion usd,41.167 billion usd,41.881 billion usd,vonovia se,"10,622","3,622 million usd",real estate
+112,onur genc,spain,38.366 billion usd,33.030 billion usd,41.592 billion usd,banco bilbao vizcaya argentaria,"110,432",0 million usd,financial services
+113,dominic blakemore,uk,40.778 billion usd,33.248 billion usd,41.111 billion usd,compass group,"478,070","23,442 million usd",consumer cyclical
+114,albert manifold,ireland,32.175 billion usd,32.392 billion usd,41.041 billion usd,crh plc,"79,200","30,981 million usd",basic materials
+115,veronique penchienati bosetta,switzerland,53.720 billion usd,42.539 billion usd,40.795 billion usd,danone,"101,911","26,758 million usd",consumer defensive
+116,ola rollen,sweden,21.601 billion usd,33.334 billion usd,40.645 billion usd,hexagon ab (publ),"20,532","4,784 million usd",technology
+117,david layton,switzerland,24.318 billion usd,31.213 billion usd,40.541 billion usd,partners group holding ag,"1,519","2,688 million usd",financial services
+118,david j. endicott,switzerland,27.556 billion usd,32.946 billion usd,39.766 billion usd,alcon,"23,655","8,291 million usd",healthcare
+119,peter vanacker,finland,27.033 billion usd,55.316 billion usd,39.108 billion usd,neste oyj,"4,825","16,693 million usd",energy
+120,aiman ezzat,france,20.904 billion usd,25.017 billion usd,38.876 billion usd,capgemini se,"289,501","20,012 million usd",technology
+121,joachim kreuzburg,germany,15.435 billion usd,28.673 billion usd,38.531 billion usd,sartorius stedim biotech,"9,016","3,180 million usd",healthcare
+122,benoit bazin,france,22.564 billion usd,24.203 billion usd,38.477 billion usd,compagnie de saint-gobain,"167,552","48,664 million usd",ceramic products
+123,kevin murphy,uk,20.269 billion usd,27.339 billion usd,38.468 billion usd,ferguson,"34,352","22,792 million usd",industries
+124,dr. detlef trefzger,switzerland,20.313 billion usd,27.533 billion usd,38.466 billion usd,kuehne + nagel international ag,"78,249","34,867 million usd",industries
+125,johan thijs,belgium,31.905 billion usd,29.064 billion usd,38.016 billion usd,kbc group nv,"33,916",0 million usd,financial services
+126,alison rose,uk,39.388 billion usd,27.807 billion usd,37.790 billion usd,natwest group,"59,900",0 million usd,banking services
+127,borje ekholm,sweden,30.747 billion usd,39.838 billion usd,37.525 billion usd,ericsson,"101,322","24,393 million usd",technology
+128,dimitri de vreeze,netherlands,23.047 billion usd,29.568 billion usd,37.187 billion usd,dsm,"23,127","9,201 million usd",basic materials
+129,jean-bernard levy,france,34.932 billion usd,48.662 billion usd,37.063 billion usd,edf (electricite de france),"20,477","93,076 million usd",utilities
+130,henrik ehrnrooth,finland,33.917 billion usd,41.954 billion usd,36.770 billion usd,kone oyj,"61,380","11,586 million usd",industries
+131,brendan horgan,uk,14.376 billion usd,21.123 billion usd,36.701 billion usd,ashtead group,"19,386","7,962 million usd",industries
+132,kjerstin braathen,norway,29.967 billion usd,30.189 billion usd,36.683 billion usd,dnb asa,"9,200",0 million usd,financial services
+133,catherine macgregor,france,39.782 billion usd,36.848 billion usd,36.436 billion usd,engie,"171,000","63,768 million usd",utilities
+134,carsten knobel,germany,42.232 billion usd,44.557 billion usd,35.831 billion usd,henkel ag,"52,600","22,113 million usd",consumer defensive
+135,andrea orcel,italy,33.729 billion usd,20.837 billion usd,35.779 billion usd,unicredit,"90,836","18,591 million usd",financial services
+136,pekka lundmark,finland,22.288 billion usd,21.769 billion usd,35.653 billion usd,nokia corporation,"87,927","24,467 million usd",technology
+137,stefan widing,sweden,25.713 billion usd,30.542 billion usd,35.192 billion usd,sandvik ab,"37,125","10,406 million usd",industries
+138,frans muller,netherlands,27.665 billion usd,29.466 billion usd,35.061 billion usd,ahold delhaize,"232,000","83,312 million usd",consumer defensive
+139,leonhard birnbaum,germany,24.333 billion usd,28.779 billion usd,34.939 billion usd,e.on se,"78,126","77,335 million usd",utilities
+140,kristian villumsen,denmark,26.318 billion usd,32.457 billion usd,34.558 billion usd,coloplast a/s,"12,568","2,875 million usd",healthcare
+141,tobias martinez gimeno,spain,14.069 billion usd,29.097 billion usd,34.194 billion usd,cellnex telecom,"2,877","2,437 million usd",communication services
+142,nico delvaux,sweden,28.633 billion usd,27.207 billion usd,33.270 billion usd,assa abloy ab (publ),"48,000","9,976 million usd",industries
+143,frans van houten,netherlands,44.275 billion usd,48.973 billion usd,33.230 billion usd,philips,"81,592","17,151 million usd",healthcare
+144,philippe donnet,italy,32.607 billion usd,27.258 billion usd,33.226 billion usd,assicurazioni generali,"72,644","92,763 million usd",financial services
+145,bhavesh v. patel,netherlands,31.312 billion usd,30.607 billion usd,32.483 billion usd,lyondellbasell industries,"19,200","46,173 million usd",basic materials
+146,,germany,,,2.888 billion usd,software aktiengesellschaft,,833 million usd,technology
+147,jan jenisch,switzerland,21.645 billion usd,33.813 billion usd,32.100 billion usd,holcim ltd,"67,409","28,525 million usd",basic materials
+148,helena helmersson,sweden,35.101 billion usd,38.477 billion usd,32.080 billion usd,h & m hennes & mauritz ab,"153,000","20,892 million usd",consumer cyclical
+149,luis maroto,spain,35.212 billion usd,32.656 billion usd,31.937 billion usd,amadeus it group,"19,000","2,942 million usd",technology
+150,lakshmi mittal,luxembourg,18.120 billion usd,24.556 billion usd,31.726 billion usd,arcelormittal,"167,743","76,571 million usd",basic materials
+151,guillaume daniellot,switzerland,15.499 billion usd,18.350 billion usd,31.426 billion usd,straumann holding ag,"7,340","2,148 million usd",healthcare
+152,hans dieter potsch,germany,23.572 billion usd,21.034 billion usd,31.386 billion usd,porsche automobil holding se,916,0 million usd,consumer cyclical
+153,,france,29.859 billion usd,17.460 billion usd,31.344 billion usd,societe generale,"152,050",0 million usd,financial services
+154,francisco miguel reynes massanet,spain,24.667 billion usd,22.387 billion usd,31.139 billion usd,naturgy energy group,"10,540","24,398 million usd",utilities
+155,florent menegaux,france,21.983 billion usd,22.792 billion usd,31.126 billion usd,michelin,"117,500","26,222 million usd",consumer cyclical
+156,benoit coquart,france,21.989 billion usd,23.764 billion usd,31.083 billion usd,legrand sa,"36,726","7,707 million usd",industries
+157,dieter weisskopf,switzerland,21.060 billion usd,23.241 billion usd,31.017 billion usd,chocoladefabriken lindt & sprungli ag,"13,500","4,874 million usd",consumer defensive
+158,johan torgeby,sweden,21.828 billion usd,22.339 billion usd,30.552 billion usd,skandinaviska enskilda banken ab (publ.),"15,500",0 million usd,financial services
+159,theodor weimer,germany,29.108 billion usd,31.104 billion usd,30.349 billion usd,deutsche borse,"7,238","4,899 million usd",financial services
+160,ken murphy,uk,32.996 billion usd,30.989 billion usd,30.115 billion usd,tesco,"367,321","72,299 million usd",consumer defensive
+161,gerteric lindquist,sweden,10.359 billion usd,16.710 billion usd,29.791 billion usd,nibe industrier ab (publ),"18,700","3,237 million usd",industries
+162,christian mumenthaler,switzerland,32.403 billion usd,26.019 billion usd,29.683 billion usd,swiss re,"13,189","46,001 million usd",financial services
+163,christian sewing,germany,16.857 billion usd,22.724 billion usd,29.519 billion usd,deutsche bank,"84,512","25,306 million usd",financial services
+164,helena hedblom,sweden,15.363 billion usd,21.320 billion usd,29.023 billion usd,epiroc ab (publ),"13,840","4,163 million usd",industries
+165,urs schaeppi,switzerland,27.457 billion usd,27.664 billion usd,28.912 billion usd,swisscom ag,"19,062","11,888 million usd",communication services
+166,carl hess,uk,25.967 billion usd,27.148 billion usd,28.854 billion usd,willis towers watson public company,"46,600","8,998 million usd",financial services
+167,christian buhl,switzerland,20.337 billion usd,22.682 billion usd,28.741 billion usd,geberit ag,"11,908","3,678 million usd",industries
+168,nancy mckinstry,netherlands,19.591 billion usd,22.070 billion usd,28.489 billion usd,wolters kluwer,"19,169","5,258 million usd",communication services
+169,stephane richard,france,39.294 billion usd,31.509 billion usd,28.197 billion usd,orange s.a,"142,150","46,859 million usd",communication services
+170,henrik andersen,denmark,19.452 billion usd,46.277 billion usd,28.082 billion usd,vestas wind systems a/s,"29,378","17,177 million usd",industries
+171,thomas oetterli,switzerland,26.586 billion usd,29.319 billion usd,28.054 billion usd,schindler holding ag,"66,674","11,944 million usd",industries
+172,martin carlesund,sweden,5.793 billion usd,21.440 billion usd,27.955 billion usd,evolution gaming group ab (publ),"5,054","1,177 million usd",consumer cyclical
+173,torbjorn magnusson,finland,24.582 billion usd,23.379 billion usd,27.885 billion usd,sampo oyj,"9,813","14,823 million usd",financial services
+174,edmond scanlon,ireland,22.023 billion usd,28.633 billion usd,27.278 billion usd,kerry group,"26,000","8,100 million usd",consumer defensive
+175,stephan sturm,germany,37.793 billion usd,30.278 billion usd,27.032 billion usd,fresenius se,"311,269","41,347 million usd",healthcare
+176,peter jackson,ireland,20.132 billion usd,36.058 billion usd,26.926 billion usd,flutter entertainment,"14,802","7,901 million usd",consumer cyclical
+177,dolf van den brink,netherlands,27.795 billion usd,26.960 billion usd,26.890 billion usd,heineken holding,"84,000","24,179 million usd",consumer defensive
+178,markus krebber,germany,18.740 billion usd,28.467 billion usd,26.492 billion usd,rwe,"19,498","24,519 million usd",utilities
+179,damian paul gammell,uk,23.649 billion usd,22.085 billion usd,26.436 billion usd,coca-cola europacific partners plc,"33,200","15,167 million usd",consumer defensive
+180,michael o'leary,ireland,18.407 billion usd,25.366 billion usd,26.286 billion usd,ryanair holdings,"15,016","4,799 million usd",industries
+181,markus rauramo,finland,22.066 billion usd,21.309 billion usd,26.201 billion usd,fortum oyj,"19,933","123,860 million usd",utilities
+182,daniel julien,france,14.376 billion usd,20.518 billion usd,26.036 billion usd,teleperformance se,"383,233","7,841 million usd",industries
+183,magdalena martullo-blocher,switzerland,15.334 billion usd,22.332 billion usd,25.924 billion usd,ems-chemie holding ag,"2,653","2,339 million usd",basic materials
+184,antoine frerot,france,15.152 billion usd,13.786 billion usd,25.903 billion usd,veolia environnement,"171,450","28,500 million usd",industries
+185,jose maria alvarez-pallete lopez,spain,37.098 billion usd,20.749 billion usd,25.322 billion usd,telefonica sa,"114,042","43,283 million usd",communication services
+186,,ireland,14.142 billion usd,14.254 billion usd,25.068 billion usd,kingspan group,"15,500","7,160 million usd",industries
+187,nigel wilson,uk,24.020 billion usd,21.720 billion usd,24.974 billion usd,legal & general group,"13,876","58,239 million usd",financial services
+188,maurici lucena betriu,spain,28.411 billion usd,25.974 billion usd,24.610 billion usd,aena s.m.e,"8,771","2,554 million usd",industries
+189,cees 't hart,denmark,21.859 billion usd,23.423 billion usd,24.428 billion usd,carlsberg a/s,"40,010","9,862 million usd",consumer defensive
+190,thomas gottstein,switzerland,33.894 billion usd,31.600 billion usd,24.376 billion usd,credit suisse group,"48,770",0 million usd,financial services
+191,niklas oestberg,germany,14.969 billion usd,30.812 billion usd,24.268 billion usd,delivery hero se,"22,000","5,853 million usd",online food delivery
+192,frankie ng,switzerland,20.839 billion usd,23.990 billion usd,24.206 billion usd,sgs sa,"94,000","6,809 million usd",industries
+193,vicente reynal,ireland,14.759 billion usd,19.028 billion usd,24.170 billion usd,ingersoll-rand (ireland),"15,900","5,150 million usd",industries
+194,johan hjertonsson,sweden,10.218 billion usd,15.444 billion usd,24.169 billion usd,investment ab latour (publ),,"1,950 million usd",financial services
+195,gonzalo gortazar rotaeche,spain,19.263 billion usd,15.292 billion usd,24.065 billion usd,caixabank,"36,597",0 million usd,financial services
+196,,uk,24.674 billion usd,21.512 billion usd,24.023 billion usd,bae systems,"90,500","25,553 million usd",industries
+197,philip jansen,uk,26.305 billion usd,17.934 billion usd,23.734 billion usd,bt group,"99,700","24,558 million usd",communication services
+198,jan g. j. van de winkel,denmark,14.474 billion usd,26.503 billion usd,23.695 billion usd,genmab a/s,781,"1,255 million usd",healthcare
+199,,germany,23.664 billion usd,18.937 billion usd,23.677 billion usd,hannover ruck se,"3,073","28,844 million usd",financial services
+200,alistair phillips-davies,uk,19.795 billion usd,21.373 billion usd,23.668 billion usd,sse plc,"12,489","10,139 million usd",utilities
+201,,uk,10.630 billion usd,24.444 billion usd,23.531 billion usd,scottish mortgage investment trust,,"-2,986 million usd",financial services
+202,dan carestio,ireland,12.904 billion usd,16.172 billion usd,23.486 billion usd,steris,"13,000","4,584 million usd",healthcare
+203,jose d. bogas galvez,spain,28.364 billion usd,28.813 billion usd,23.401 billion usd,endesa,"9,591","23,031 million usd",utilities
+204,frank mastiaux,germany,15.774 billion usd,18.471 billion usd,23.389 billion usd,enbw energie baden-wurttemberg ag,"23,293","32,138 million usd",utilities
+205,vincent warnery,germany,27.097 billion usd,26.085 billion usd,23.055 billion usd,beiersdorf,"20,465","8,405 million usd",consumer defensive
+206,arnd kaldowski,switzerland,14.554 billion usd,16.591 billion usd,23.019 billion usd,sonova holding ag,"14,508","3,492 million usd",healthcare
+207,jens henriksson,sweden,17.388 billion usd,19.524 billion usd,22.817 billion usd,swedbank ab (publ),"17,373",0 million usd,financial services
+208,magnus groth,sweden,23.832 billion usd,22.900 billion usd,22.550 billion usd,essity ab (publ),"46,000","12,796 million usd",consumer defensive
+209,steve cutler,ireland,9.088 billion usd,10.290 billion usd,22.366 billion usd,icon public company,"37,960","5,480 million usd",healthcare
+210,timothy p walbert,ireland,6.720 billion usd,16.145 billion usd,22.265 billion usd,horizon therapeutics public company,"1,395","3,226 million usd",healthcare
+211,amanda blanc,uk,21.918 billion usd,17.469 billion usd,22.112 billion usd,aviva,"31,700","43,116 million usd",financial services
+212,carina akerstrom,sweden,22.579 billion usd,20.173 billion usd,22.068 billion usd,svenska handelsbanken ab (publ),"22,000",0 million usd,financial services
+213,george g. weston,uk,26.625 billion usd,24.510 billion usd,22.066 billion usd,associated british foods,"128,000","18,174 million usd",consumer defensive
+214,,germany,26.749 billion usd,29.982 billion usd,21.978 billion usd,continental ag,"236,386","33,755 million usd",consumer cyclical
+215,pavel sergeevich grachev,russia,22.766 billion usd,27.861 billion usd,21.976 billion usd,pjsc polyus,"20,000","3,287 million usd",basic materials
+216,sigve brekke,norway,25.459 billion usd,23.666 billion usd,21.969 billion usd,telenor asa,"18,000","12,347 million usd",communication services
+217,,uk,12.967 billion usd,15.440 billion usd,21.946 billion usd,segro,355,715 million usd,real estate
+218,ignacio madridejos fernandez,spain,22.219 billion usd,20.174 billion usd,21.934 billion usd,ferrovial,"18,515","7,469 million usd",industries
+219,ester baiget,denmark,13.801 billion usd,15.999 billion usd,21.906 billion usd,novozymes a/s,"6,527","2,213 million usd",healthcare
+220,scott w. wine,uk,15.322 billion usd,17.351 billion usd,21.872 billion usd,cnh industrial,"64,016","19,474 million usd",industries
+221,gilles g. martin,luxembourg,10.135 billion usd,15.941 billion usd,21.550 billion usd,eurofins scientific se,"55,000","7,402 million usd",healthcare
+222,,spain,10.161 billion usd,24.462 billion usd,21.292 billion usd,edp renovaveis,"1,566","1,936 million usd",utilities
+223,stefan bomhard,uk,23.870 billion usd,19.871 billion usd,21.145 billion usd,imperial brands,"30,300","42,923 million usd",consumer defensive
+224,jussi pesonen,finland,18.589 billion usd,,20.972 billion usd,upm-kymmene oyj,"17,512","10,815 million usd",basic materials
+225,paolo bertoluzzo,italy,9.200 billion usd,12.492 billion usd,20.896 billion usd,nexi,"1,996","3,084 million usd",technology
+226,thierry vanlancker,netherlands,22.070 billion usd,20.392 billion usd,20.741 billion usd,akzo nobel,"32,200","10,565 million usd",basic materials
+227,jean-christophe tellier,belgium,15.043 billion usd,19.456 billion usd,20.612 billion usd,ucb sa,"8,006","6,366 million usd",healthcare
+228,oliver hughes,russia,4.853 billion usd,4.619 billion usd,20.605 billion usd,tcs group holding,"528,748",0 million usd,financial services
+229,joao manuel brito martins,portugal,15.771 billion usd,24.766 billion usd,20.438 billion usd,edp - energias de portugal,"12,236","16,511 million usd",utilities
+230,bill winters,uk,30.742 billion usd,20.108 billion usd,20.378 billion usd,standard chartered,"84,740",0 million usd,financial services
+231,john elkann,netherlands,18.068 billion usd,18.676 billion usd,20.374 billion usd,exor,"268,979","33,607 million usd",financial services
+232,alfred stern,austria,18.424 billion usd,13.137 billion usd,20.210 billion usd,omv group,"25,391","39,182 million usd",energy
+233,daniel benes,czech republic,12.049 billion usd,12.806 billion usd,20.163 billion usd,cez a. s,"27,200","9,595 million usd",utilities
+234,bernhard spalt,austria,15.609 billion usd,12.317 billion usd,19.926 billion usd,erste group bank ag,"44,596","7,597 million usd",financial services
+235,patrick frost,switzerland,15.924 billion usd,14.950 billion usd,19.922 billion usd,swiss life holding ag,"9,823","22,872 million usd",financial services
+236,heinz-juergen bertram,germany,13.640 billion usd,17.876 billion usd,19.804 billion usd,symrise ag,"10,531","4,215 million usd",basic materials
+237,benjamin loh,netherlands,5.604 billion usd,10.620 billion usd,19.787 billion usd,asm international nv,"2,583","1,905 million usd",technology
+238,arkady volozh,russia,14.488 billion usd,24.519 billion usd,19.592 billion usd,yandex,"11,864","3,206 million usd",communication services
+239,marco alvera,italy,17.350 billion usd,18.317 billion usd,19.225 billion usd,snam,"3,388","3,284 million usd",utilities
+240,david schneider,germany,12.794 billion usd,27.576 billion usd,19.103 billion usd,zalando se,"14,194","11,410 million usd",consumer cyclical
+241,rice powell,germany,22.203 billion usd,24.319 billion usd,18.809 billion usd,fresenius medical care ag & co. kgaa,"125,364","19,416 million usd",healthcare
+242,remo ruffini,italy,11.469 billion usd,15.434 billion usd,18.758 billion usd,moncler,"4,561","2,255 million usd",consumer cyclical
+243,patrice caine,france,22.328 billion usd,19.414 billion usd,18.756 billion usd,thales,"80,702","17,844 million usd",industries
+244,fabien simon,netherlands,,,18.578 billion usd,jde peet's n.v.,"19,000","7,715 million usd",consumer defensive
+245,steve foots,uk,8.745 billion usd,12.542 billion usd,18.577 billion usd,croda international,"4,000","2,473 million usd",basic materials
+246,christian bruch,germany,,26.230 billion usd,18.494 billion usd,siemens energy,"91,000","31,387 million usd",engineering products
+247,vladimir bogdanov,russia,34.556 billion usd,17.600 billion usd,18.439 billion usd,surgutneftegas,"116,000","17,669 million usd",energy
+248,mark read,uk,17.603 billion usd,13.405 billion usd,18.269 billion usd,wpp plc,"100,000","16,757 million usd",communication services
+249,vivek badrinath,germany,,,18.162 billion usd,vantage towers ag,327,"1,023 million usd",industries
+250,josu jon imaz,spain,23.062 billion usd,15.345 billion usd,18.162 billion usd,repsol,"23,739","54,819 million usd",energy
+251,ivan arriagada,uk,11.854 billion usd,19.419 billion usd,18.128 billion usd,antofagasta,"23,248","7,470 million usd",basic materials
+252,aleksandr shevelev,russia,12.842 billion usd,14.926 billion usd,17.528 billion usd,pao severstal,"52,200","6,870 million usd",basic materials
+253,bjorn gulden,germany,11.312 billion usd,16.982 billion usd,17.486 billion usd,puma se,"14,374","7,499 million usd",consumer cyclical
+254,markus weber,germany,11.391 billion usd,11.861 billion usd,17.301 billion usd,carl zeiss meditec ag,"3,000","1,814 million usd",healthcare
+255,arthur sadoun,france,10.824 billion usd,12.182 billion usd,17.224 billion usd,publicis groupe,"79,051","12,935 million usd",communication services
+256,david knibbe,netherlands,12.993 billion usd,14.075 billion usd,17.104 billion usd,nn group,"15,417","25,930 million usd",financial services
+257,matteo del fante,italy,14.853 billion usd,13.180 billion usd,17.079 billion usd,poste italiane spa,"118,523","31,629 million usd",industries
+258,stephane dedeyan,france,13.796 billion usd,11.012 billion usd,17.021 billion usd,cnp assurances sa,"5,353","48,298 million usd",financial services
+259,grigory vitalevich fedorishin,russia,14.074 billion usd,17.079 billion usd,16.921 billion usd,novolipetsk steel,"52,800","16,196 million usd",basic materials
+260,klaus-dieter maubach,germany,12.178 billion usd,12.576 billion usd,16.886 billion usd,uniper se,"11,644","180,700 million usd",utilities
+261,rolv erik ryssdal,norway,8.271 billion usd,11.346 billion usd,16.683 billion usd,adevinta asa,"4,700","1,139 million usd",communication services
+262,ian gallienne,belgium,16.524 billion usd,15.336 billion usd,16.677 billion usd,groupe bruxelles lambert sa,"59,000","8,495 million usd",financial services
+263,aengus kelly,ireland,8.203 billion usd,5.914 billion usd,16.583 billion usd,aercap holdings,376,"4,587 million usd",industries
+264,valerie baudson,france,15.945 billion usd,16.380 billion usd,16.574 billion usd,amundi,"4,700","3,531 million usd",financial services
+265,jack truong,ireland,13.897 billion usd,16.976 billion usd,16.505 billion usd,james hardie industries,"4,861","3,613 million usd",basic materials
+266,tom erixon,sweden,11.115 billion usd,11.482 billion usd,16.501 billion usd,alfa laval ab (publ),"17,883","4,296 million usd",industries
+267,hilde merete aasheim,norway,7.527 billion usd,9.466 billion usd,16.447 billion usd,norsk hydro asa,"34,240","15,410 million usd",basic materials
+268,morten hubbe,denmark,8.899 billion usd,9.516 billion usd,16.442 billion usd,tryg a/s,"4,000","3,691 million usd",financial services
+269,gilles grapinet,france,13.156 billion usd,26.854 billion usd,16.384 billion usd,worldline,"20,000","3,688 million usd",technology
+270,tim hauwermeiren,netherlands,6.933 billion usd,14.022 billion usd,16.128 billion usd,argenx se,336,497 million usd,healthcare
+271,dr. jan michael mrosik,germany,16.828 billion usd,21.805 billion usd,16.125 billion usd,knorr-bremse,"29,000","6,703 million usd",consumer cyclical
+272,,france,13.429 billion usd,13.946 billion usd,16.110 billion usd,carrefour sa,"322,164","81,863 million usd",consumer defensive
+273,,france,13.104 billion usd,12.070 billion usd,16.011 billion usd,bollore,"79,207","19,765 million usd",communication services
+274,harold boel,belgium,7.317 billion usd,11.377 billion usd,16.000 billion usd,sofina societe anonyme,,"2,650 million usd",financial services
+275,tim steiner,uk,11.894 billion usd,23.415 billion usd,15.933 billion usd,ocado group,"17,121","3,270 million usd",consumer defensive
+276,allison kirkby,sweden,18.383 billion usd,16.799 billion usd,15.857 billion usd,telia company ab (publ),"20,700","9,276 million usd",communication services
+277,roland diggelmann,uk,21.055 billion usd,18.518 billion usd,15.688 billion usd,smith & nephew,"17,500","5,212 million usd",healthcare
+278,jerre stead,uk,5.218 billion usd,18.003 billion usd,15.685 billion usd,clarivate plc,"8,300","1,876 million usd",technology
+279,stefano antonio donnarumma,italy,13.404 billion usd,15.286 billion usd,15.647 billion usd,terna s.p.a. ,"4,735","2,462 million usd",utilities
+280,carlo bertazzo,italy,19.043 billion usd,14.658 billion usd,15.611 billion usd,atlantia,"30,745","7,043 million usd",industries
+281,andrew williams,uk,10.914 billion usd,12.671 billion usd,15.584 billion usd,halma,"7,120","1,796 million usd",industries
+282,andreas nauen,spain,11.972 billion usd,27.381 billion usd,15.524 billion usd,siemens gamesa renewable energy,"24,500","11,237 million usd",industries
+283,robert kunze-concewitz,italy,10.541 billion usd,12.785 billion usd,15.491 billion usd,davide campari-milano,"4,000","2,394 million usd",consumer defensive
+284,christian kullmann,germany,14.321 billion usd,15.140 billion usd,15.424 billion usd,evonik industries ag,"33,004","16,480 million usd",basic materials
+285,carsten rasch egeriis,denmark,14.286 billion usd,14.088 billion usd,15.411 billion usd,danske bank a/s,"21,754",0 million usd,financial services
+286,,russia,20.544 billion usd,13.970 billion usd,15.311 billion usd,transneft,"115,900","15,816 million usd",energy
+287,alexandre merieux,france,10.573 billion usd,16.798 billion usd,15.281 billion usd,biomerieux,"12,000","3,720 million usd",healthcare
+288,michael zahn,germany,14.834 billion usd,18.289 billion usd,15.251 billion usd,deutsche wohnen se,"1,339","2,271 million usd",real estate
+289,nicholas j. anderson,uk,10.528 billion usd,11.789 billion usd,15.248 billion usd,spirax-sarco engineering,85,"1,759 million usd",industries
+290,miuccia prada,italy,12.543 billion usd,16.898 billion usd,15.139 billion usd,prada,"13,331","3,708 million usd",consumer cyclical
+291,annica bresky,finland,12.362 billion usd,15.005 billion usd,15.063 billion usd,stora enso oyj,"22,094","11,201 million usd",basic materials
+292,robert swaak,netherlands,17.404 billion usd,9.181 billion usd,15.059 billion usd,abn amro bank,"17,813",0 million usd,financial services
+293,mike fries,uk,14.020 billion usd,13.905 billion usd,15.016 billion usd,liberty global,"11,200","10,311 million usd",communication services
+294,peter cowgill,uk,10.574 billion usd,11.445 billion usd,15.001 billion usd,jd sports fashion,"61,053","10,086 million usd",consumer cyclical
+295,evgenii nikitin,russia,7.366 billion usd,7.333 billion usd,14.968 billion usd,united company rusal,,"11,994 million usd",basic materials
+296,sasndor csanyi,hungary,14.823 billion usd,12.280 billion usd,14.752 billion usd,otp bank nyrt,"38,626",0 million usd,financial services
+297,philipp rickenbacher,switzerland,11.248 billion usd,12.707 billion usd,14.734 billion usd,julius bar gruppe ag,"6,606",0 million usd,financial services
+298,,russia,29.337 billion usd,29.590 billion usd,14.690 billion usd,pjsc tatneft,"60,000","11,843 million usd",energy
+299,pedro manuel de castro soares dos santos,portugal,10.498 billion usd,10.576 billion usd,14.681 billion usd,jeronimo martins sgps,"123,458","23,020 million usd",consumer defensive
+300,anthony smurfit,ireland,9.381 billion usd,12.111 billion usd,14.596 billion usd,smurfit kappa group,"46,000","11,138 million usd",consumer cyclical
+301,iwona duda,poland,10.978 billion usd,10.020 billion usd,14.476 billion usd,pko bank polski en,"23,693",,financial services
+302,warren east,uk,17.247 billion usd,12.729 billion usd,14.458 billion usd,rolls-royce holdings,"50,000","14,684 million usd",industries
+303,didier michaud-daniel,france,11.824 billion usd,11.905 billion usd,14.433 billion usd,bureau veritas sa,"78,395","5,489 million usd",industries
+304,bertrand camus,france,9.469 billion usd,12.408 billion usd,14.416 billion usd,suez sa,"86,195","20,307 million usd",utilities
+305,,monaco,13.656 billion usd,12.158 billion usd,14.241 billion usd,hal trust,"51,397","7,311 million usd",financial services
+306,arnaud de puyfontaine,france,34.413 billion usd,35.068 billion usd,14.134 billion usd,vivendi,"42,800","10,548 million usd",communication services
+307,rob smith,germany,8.501 billion usd,11.358 billion usd,14.105 billion usd,kion group ag,"39,602","11,344 million usd",industries
+308,simon wolfson,uk,12.111 billion usd,12.883 billion usd,14.071 billion usd,next plc,"25,491","5,447 million usd",consumer cyclical
+309,dominik von achten,germany,14.598 billion usd,15.242 billion usd,14.035 billion usd,heidelberg cement ag,"51,209","18,713 million usd",basic materials
+310,christian kohlpaintner,germany,8.471 billion usd,11.917 billion usd,13.934 billion usd,brenntag ag,"17,237","15,849 million usd",basic materials
+311,martin bouygues,france,16.359 billion usd,15.598 billion usd,13.909 billion usd,bouygues sa,"129,000","41,423 million usd",industries
+312,henri poupart-lafarge,france,10.843 billion usd,16.912 billion usd,13.861 billion usd,alstom sa,"75,000","15,466 million usd",industries
+313,bracken p. darrell,switzerland,7.946 billion usd,16.635 billion usd,13.772 billion usd,logitech international,"9,000","5,691 million usd",technology
+314,michael allison,switzerland,5.051 billion usd,7.411 billion usd,13.761 billion usd,vat group ag,,958 million usd,industries
+315,andy ransom,uk,10.983 billion usd,12.922 billion usd,13.741 billion usd,rentokil initial,"44,500","3,869 million usd",industries
+316,helena stjernholm,sweden,10.820 billion usd,14.257 billion usd,13.700 billion usd,ab industrivarden (publ),15,"2,820 million usd",financial services
+317,augustin de romanet,france,19.584 billion usd,12.784 billion usd,13.570 billion usd,aeroports de paris sa,"22,448","3,060 million usd",industries
+318,fredrik lundberg,sweden,11.419 billion usd,13.217 billion usd,13.450 billion usd,l e lundbergforetagen ab (publ),"3,287","2,607 million usd",financial services
+319,denis machuel,france,17.256 billion usd,12.310 billion usd,13.308 billion usd,sodexo,"412,088","19,206 million usd",industries
+320,paolo rocca,luxembourg,13.626 billion usd,9.618 billion usd,13.234 billion usd,tenaris,"19,399","6,521 million usd",energy
+321,jette nygaard-andersen,uk,,9.490 billion usd,13.233 billion usd,entain plc,,"5,013 million usd",casinos
+322,axel wachtmeister,sweden,6.199 billion usd,8.670 billion usd,13.168 billion usd,lifco ab (publ),"6,265","1,835 million usd",industries
+323,,uk,,,13.132 billion usd,wise plc,"2,243",658 million usd,digital payment solution services
+324,,norway,11.273 billion usd,10.855 billion usd,13.126 billion usd,yara international asa,"16,818","16,617 million usd",basic materials
+325,,switzerland,12.062 billion usd,13.187 billion usd,13.023 billion usd,barry callebaut ag,"12,783","7,661 million usd",consumer defensive
+326,,netherlands,12.764 billion usd,12.728 billion usd,13.014 billion usd,kpn,"10,102","5,792 million usd",communication services
+327,,switzerland,12.237 billion usd,11.842 billion usd,12.999 billion usd,coca-cola hbc ag,"26,000","7,899 million usd",consumer defensive
+328,,germany,13.721 billion usd,13.693 billion usd,12.896 billion usd,traton se,"82,600","30,611 million usd",industries
+329,,sweden,7.612 billion usd,12.209 billion usd,12.777 billion usd,svenska cellulosa aktiebolaget sca (publ),"4,253","1,976 million usd",basic materials
+330,,netherlands,11.262 billion usd,12.085 billion usd,12.763 billion usd,randstad,"34,680","27,148 million usd",industries
+331,,sweden,8.904 billion usd,12.323 billion usd,12.748 billion usd,swedish match ab (publ),"6,735","1,941 million usd",consumer defensive
+332,,sweden,8.767 billion usd,9.338 billion usd,12.743 billion usd,fastighets ab balder (publ),784,940 million usd,real estate
+333,,italy,8.649 billion usd,11.362 billion usd,12.714 billion usd,recordati industria chimica e farmaceutica,"4,362","1,580 million usd",healthcare
+334,,uk,9.391 billion usd,11.258 billion usd,12.678 billion usd,bunzl,"19,853","13,463 million usd",consumer defensive
+335,,germany,8.780 billion usd,11.905 billion usd,12.615 billion usd,covestro ag,"17,883","17,525 million usd",basic materials
+336,,uk,14.230 billion usd,12.079 billion usd,12.609 billion usd,schroders,"5,500","3,873 million usd",financial services
+337,,finland,6.854 billion usd,10.220 billion usd,12.580 billion usd,kesko oyj,"17,650","12,453 million usd",consumer defensive
+338,,uk,12.537 billion usd,11.675 billion usd,12.579 billion usd,intercontinental hotels group,"350,000","2,907 million usd",consumer cyclical
+339,,uk,9.809 billion usd,12.584 billion usd,12.576 billion usd,aveva group,"6,250","1,396 million usd",technology
+340,,uk,8.891 billion usd,11.790 billion usd,12.546 billion usd,admiral group,"11,445","2,029 million usd",financial services
+341,,uk,11.288 billion usd,11.417 billion usd,12.465 billion usd,mondi,"26,000","8,511 million usd",basic materials
+342,,belgium,12.149 billion usd,12.322 billion usd,12.455 billion usd,solvay sa,,"12,601 million usd",basic materials
+343,,belgium,11.853 billion usd,12.199 billion usd,12.455 billion usd,umicore sa,,"26,508 million usd",industries
+344,,germany,12.576 billion usd,9.777 billion usd,12.435 billion usd,talanx ag,"23,527","43,116 million usd",financial services
+345,,uk,12.384 billion usd,12.464 billion usd,12.318 billion usd,intertek group,"43,800","3,647 million usd",industries
+346,,germany,8.007 billion usd,8.495 billion usd,12.312 billion usd,nemetschek se,"3,300",681 million usd,technology
+347,,uk,8.254 billion usd,8.328 billion usd,12.264 billion usd,st. james's place,"2,014","23,498 million usd",financial services
+348,,norway,13.404 billion usd,11.447 billion usd,12.256 billion usd,mowi asa,"11,684","4,631 million usd",consumer defensive
+349,,uk,7.310 billion usd,9.396 billion usd,12.136 billion usd,evraz,"69,619","13,486 million usd",basic materials
+350,,uk,11.430 billion usd,12.068 billion usd,12.121 billion usd,persimmon,"5,000","4,725 million usd",consumer cyclical
+351,,france,12.624 billion usd,13.896 billion usd,12.103 billion usd,edenred sa,"10,000","1,793 million usd",financial services
+352,,norway,10.427 billion usd,11.092 billion usd,12.078 billion usd,gjensidige forsikring asa,"3,700","3,661 million usd",financial services
+353,,denmark,7.678 billion usd,9.507 billion usd,12.074 billion usd,demant a/s,"15,000","2,726 million usd",healthcare
+354,,sweden,9.720 billion usd,9.997 billion usd,11.908 billion usd,ica gruppen ab (publ),"24,043","15,154 million usd",consumer defensive
+355,,denmark,4.154 billion usd,11.142 billion usd,11.812 billion usd,pandora a/s,"22,236","3,462 million usd",consumer cyclical
+356,,germany,3.573 billion usd,13.444 billion usd,11.707 billion usd,hellofresh se,"4,477","6,604 million usd",consumer cyclical
+357,,norway,11.808 billion usd,8.956 billion usd,11.615 billion usd,aker bp asa,"1,742","5,639 million usd",energy
+358,,sweden,9.647 billion usd,11.756 billion usd,11.604 billion usd,ab skf (publ),"42,602","8,582 million usd",industries
+359,,germany,15.006 billion usd,13.784 billion usd,11.584 billion usd,mtu aero engines ag,"10,313","4,187 million usd",industries
+360,,switzerland,11.799 billion usd,9.740 billion usd,11.546 billion usd,vifor pharma ag,"2,384","1,865 million usd",healthcare
+361,,germany,7.677 billion usd,12.089 billion usd,11.462 billion usd,qiagen,"5,610","2,251 million usd",healthcare
+362,,uk,10.715 billion usd,8.723 billion usd,11.445 billion usd,sage group,"11,785","2,416 million usd",technology
+363,,uk,,,11.390 billion usd,allfunds group plc,,"3,142 million usd",financial services
+364,,russia,9.515 billion usd,9.662 billion usd,11.361 billion usd,alrosa,"32,475","2,988 million usd",basic materials
+365,,ireland,11.576 billion usd,10.711 billion usd,11.358 billion usd,allegion,"11,000","2,867 million usd",industries
+366,,netherlands,4.614 billion usd,7.220 billion usd,11.329 billion usd,imcd,"3,049","3,785 million usd",basic materials
+367,,netherlands,1.390 billion usd,0.925 billion usd,11.322 billion usd,eurocommercial properties,,237 million usd,real estate
+368,,france,14.132 billion usd,12.644 billion usd,11.287 billion usd,renault sa,"179,565","50,927 million usd",consumer cyclical
+369,,france,6.152 billion usd,9.316 billion usd,11.237 billion usd,remy cointreau sa,"1,832","1,312 million usd",consumer defensive
+370,,germany,8.338 billion usd,8.019 billion usd,11.192 billion usd,commerzbank ag,"46,724",0 million usd,financial services
+371,,netherlands,9.269 billion usd,8.071 billion usd,11.152 billion usd,aegon,"22,322","46,124 million usd",financial services
+372,,italy,6.432 billion usd,9.304 billion usd,11.131 billion usd,amplifon spa,"11,265","2,147 million usd",healthcare
+373,,uk,14.483 billion usd,11.277 billion usd,11.092 billion usd,informa plc,"11,000","2,354 million usd",communication services
+374,,germany,9.246 billion usd,10.543 billion usd,11.071 billion usd,rational ag,"2,216",779 million usd,industries
+375,,spain,21.151 billion usd,17.417 billion usd,11.020 billion usd,grifols,"23,668","5,436 million usd",healthcare
+376,,sweden,2.426 billion usd,5.264 billion usd,11.009 billion usd,samhallsbyggnadsbolaget i norden ab (publ),,623 million usd,real estate
+377,,spain,10.940 billion usd,11.005 billion usd,10.989 billion usd,red electrica corporacion,"2,051","2,151 million usd",utilities
+378,,sweden,4.504 billion usd,7.750 billion usd,10.980 billion usd,indutrade ab (publ),"7,000","2,280 million usd",industries
+379,,italy,5.841 billion usd,11.611 billion usd,10.961 billion usd,infrastrutture wireless italiane,,865 million usd,communication services
+380,,france,8.067 billion usd,8.735 billion usd,10.936 billion usd,arkema,"19,794","10,490 million usd",basic materials
+381,,uk,3.423 billion usd,21.687 billion usd,10.907 billion usd,farfetch,"5,441","2,256 million usd",consumer cyclical
+382,,uk,16.830 billion usd,10.852 billion usd,10.857 billion usd,international consolidated airlines group,"64,734","9,312 million usd",industries
+383,,sweden,5.627 billion usd,6.329 billion usd,10.831 billion usd,getinge ab,"10,818","2,840 million usd",healthcare
+384,,italy,13.134 billion usd,10.082 billion usd,10.821 billion usd,telecom italia,"52,347","15,311 million usd",communication services
+385,,sweden,2.547 billion usd,10.056 billion usd,10.813 billion usd,embracer group ab (publ),"5,500","1,606 million usd",communication services
+386,,italy,7.447 billion usd,9.934 billion usd,10.812 billion usd,finecobank banca fineco,"1,225",0 million usd,financial services
+387,,netherlands,7.952 billion usd,16.734 billion usd,10.712 billion usd,just eat takeaway.com,"5,423","4,953 million usd",retail
+388,,germany,10.112 billion usd,10.510 billion usd,10.661 billion usd,kabel deutschland holding ag,"4,081","2,630 million usd",communication services
+389,,sweden,10.233 billion usd,10.454 billion usd,10.603 billion usd,skanska ab (publ),"31,517","15,106 million usd",industries
+390,,belgium,11.242 billion usd,9.922 billion usd,10.560 billion usd,ageas sa/nv,"10,045","13,033 million usd",financial services
+391,,sweden,9.849 billion usd,7.646 billion usd,10.560 billion usd,lundin energy ab (publ),,0 million usd,energy
+392,,russia,7.500 billion usd,8.501 billion usd,10.489 billion usd,magnitogorsk iron & steel works (mmk),"17,887","11,869 million usd",basic materials
+393,,denmark,10.505 billion usd,13.537 billion usd,10.437 billion usd,chr. hansen holding a/s,"3,700","1,187 million usd",basic materials
+394,,sweden,5.270 billion usd,6.993 billion usd,10.390 billion usd,ab sagax (publ),77,326 million usd,real estate
+395,,france,22.188 billion usd,10.890 billion usd,10.389 billion usd,unibail-rodamco-westfield,"3,495","2,776 million usd",real estate
+396,,netherlands,5.800 billion usd,7.660 billion usd,10.375 billion usd,euronext,"1,400","1,430 million usd",financial services
+397,,uk,10.007 billion usd,9.298 billion usd,10.253 billion usd,barratt developments,"6,655","5,667 million usd",consumer cyclical
+398,,spain,5.686 billion usd,7.751 billion usd,10.238 billion usd,acciona,"38,967","8,931 million usd",industries
+399,,switzerland,,,10.215 billion usd,on holding ag,883,768 million usd,
+400,,france,13.215 billion usd,11.313 billion usd,10.197 billion usd,gecina sa,504,676 million usd,real estate
+401,,italy,9.741 billion usd,7.902 billion usd,10.176 billion usd,mediobanca banca di credito finanziario,,"2,584 million usd",financial services
+402,,belgium,3.777 billion usd,4.398 billion usd,10.153 billion usd,d'ieteren sa,,"3,703 million usd",consumer cyclical
+403,,germany,8.208 billion usd,11.156 billion usd,10.144 billion usd,leg immobilien ag,"1,400","1,058 million usd",real estate
+404,,sweden,10.770 billion usd,9.047 billion usd,10.059 billion usd,tele2 ab (publ),"9,000","2,813 million usd",communication services
+405,,austria,8.477 billion usd,6.674 billion usd,10.044 billion usd,raiffeisen bank international ag,,0 million usd,financial services
+406,,uk,15.334 billion usd,11.828 billion usd,10.033 billion usd,melrose industries,"55,621","9,010 million usd",industries
+407,,norway,4.763 billion usd,7.177 billion usd,9.995 billion usd,tomra systems asa,"4,530","1,222 million usd",industries
+408,,uk,8.667 billion usd,8.297 billion usd,9.970 billion usd,sensata technologies holding,"19,200","3,820 million usd",technology
+409,,uk,8.876 billion usd,8.317 billion usd,9.912 billion usd,united utilities group,"5,354","2,193 million usd",utilities
+410,,uk,8.046 billion usd,7.477 billion usd,9.908 billion usd,severn trent,"6,800","2,289 million usd",utilities
+411,,italy,6.393 billion usd,9.324 billion usd,9.903 billion usd,prysmian,"28,000","14,035 million usd",industries
+412,,france,11.262 billion usd,9.527 billion usd,9.902 billion usd,eiffage sa,"72,500","21,155 million usd",industries
+413,,russia,5.080 billion usd,5.468 billion usd,9.857 billion usd,pjsc phosagro,,"3,784 million usd",basic materials
+414,,uk,6.309 billion usd,7.803 billion usd,9.857 billion usd,kingfisher,"78,000","15,527 million usd",consumer cyclical
+415,,sweden,7.334 billion usd,5.948 billion usd,9.846 billion usd,ssab ab (publ),"14,500","10,069 million usd",basic materials
+416,,finland,8.826 billion usd,8.747 billion usd,9.813 billion usd,elisa oyj,,"2,201 million usd",communication services
+417,,russia,4.145 billion usd,5.274 billion usd,9.777 billion usd,pik group,,"8,016 million usd",real estate
+418,,france,11.052 billion usd,9.083 billion usd,9.762 billion usd,dassault aviation sa,"12,757","7,985 million usd",industries
+419,,luxembourg,,,9.749 billion usd,allegro.eu sa,,"1,258 million usd",consumer cyclical
+420,,uk,11.873 billion usd,9.904 billion usd,9.748 billion usd,burberry group,"9,892","3,329 million usd",consumer cyclical
+421,,norway,10.460 billion usd,10.093 billion usd,9.741 billion usd,orkla asa,"18,110","5,649 million usd",consumer defensive
+422,,finland,,,9.699 billion usd,metso outotec oyj,,"4,668 million usd",industries
+423,,switzerland,11.433 billion usd,10.190 billion usd,9.642 billion usd,temenos ag,"7,500",967 million usd,technology
+424,,italy,7.122 billion usd,11.346 billion usd,9.625 billion usd,diasorin,"2,024","1,237 million usd",healthcare
+425,,germany,9.049 billion usd,7.557 billion usd,9.597 billion usd,deutsche lufthansa ag,"138,353","18,526 million usd",industries
+426,,luxembourg,4.808 billion usd,7.090 billion usd,9.570 billion usd,ternium,"20,173","16,090 million usd",basic materials
+427,,germany,6.103 billion usd,6.436 billion usd,9.497 billion usd,gea group,"18,232","5,182 million usd",industries
+428,,sweden,7.380 billion usd,14.023 billion usd,9.333 billion usd,kinnevik ab,40,177 million usd,financial services
+429,,sweden,7.629 billion usd,8.044 billion usd,9.243 billion usd,autoliv,"61,000","8,230 million usd",consumer cyclical
+430,,poland,8.371 billion usd,5.119 billion usd,9.217 billion usd,santander bank polska,,0 million usd,financial services
+431,,uk,7.046 billion usd,7.874 billion usd,9.205 billion usd,auto trader group,909,509 million usd,ecommerce
+432,,france,12.666 billion usd,9.422 billion usd,9.107 billion usd,accor sa,"260,000","2,429 million usd",consumer cyclical
+433,,uk,7.080 billion usd,9.573 billion usd,9.101 billion usd,phoenix group holdings,"5,752","32,010 million usd",financial services
+434,,switzerland,2.166 billion usd,6.194 billion usd,9.007 billion usd,bachem holding ag,,522 million usd,basic materials
+435,,poland,5.906 billion usd,8.458 billion usd,8.999 billion usd,polskie gornictwo naftowe i gazownictwo,"24,608","14,692 million usd",energy
+436,,sweden,6.687 billion usd,6.995 billion usd,8.934 billion usd,castellum ab (publ),,667 million usd,real estate
+437,,switzerland,5.096 billion usd,7.358 billion usd,8.856 billion usd,sig combibloc group ag,,"2,271 million usd",consumer cyclical
+438,,uk,12.014 billion usd,9.891 billion usd,8.838 billion usd,hargreaves lansdown,"1,610",687 million usd,financial services
+439,,sweden,4.919 billion usd,7.383 billion usd,8.827 billion usd,husqvarna ab (publ),,"4,941 million usd",industries
+440,,poland,,,8.817 billion usd,dino polska s.a.,,"3,140 million usd",consumer defensive
+441,,portugal,13.908 billion usd,8.840 billion usd,8.809 billion usd,galp energia sgps,"6,114","18,119 million usd",energy
+442,,uk,7.417 billion usd,7.770 billion usd,8.805 billion usd,rightmove,650,398 million usd,communication services
+443,,france,9.392 billion usd,9.289 billion usd,8.793 billion usd,getlink se,,853 million usd,industries
+444,,sweden,1.751 billion usd,10.239 billion usd,8.747 billion usd,sinch ab (publ),"1,892","1,699 million usd",communication services
+445,,uk,6.731 billion usd,6.859 billion usd,8.725 billion usd,j sainsbury,"111,900","35,211 million usd",consumer defensive
+446,,belgium,5.495 billion usd,8.152 billion usd,8.707 billion usd,elia system operator sa,,"2,811 million usd",utilities
+447,,uk,8.646 billion usd,8.556 billion usd,8.688 billion usd,whitbread,"35,455","2,006 million usd",consumer cyclical
+448,,france,7.545 billion usd,9.101 billion usd,8.653 billion usd,seb sa,"34,000","8,880 million usd",consumer cyclical
+449,,greece,8.006 billion usd,,8.617 billion usd,hellenic telecommunications organization,"16,291","3,712 million usd",communication services
+450,,luxembourg,7.606 billion usd,7.432 billion usd,8.611 billion usd,rtl group sa,"16,264","6,635 million usd",communication services
+451,,finland,6.713 billion usd,5.893 billion usd,8.608 billion usd,wartsila oyj abp,"18,307","5,265 million usd",industries
+452,,czech republic,6.199 billion usd,7.559 billion usd,8.600 billion usd,avast,"1,803",941 million usd,technology
+453,,uk,8.510 billion usd,8.236 billion usd,8.575 billion usd,taylor wimpey,"6,029","5,608 million usd",consumer cyclical
+454,,italy,6.203 billion usd,6.614 billion usd,8.556 billion usd,edison s.p.a,"13,351","11,736 million usd",utilities
+455,,germany,6.030 billion usd,9.125 billion usd,8.475 billion usd,bechtle ag,"11,487","5,303 million usd",technology
+456,,belgium,4.730 billion usd,6.012 billion usd,8.440 billion usd,warehouses de pauw,,306 million usd,real estate
+457,,germany,7.185 billion usd,8.530 billion usd,8.440 billion usd,dws group gmbh & co. kgaa,"3,600","2,846 million usd",financial services
+458,,switzerland,10.370 billion usd,10.733 billion usd,8.426 billion usd,adecco group ag,"30,264","23,086 million usd",industries
+459,,france,5.148 billion usd,8.701 billion usd,8.376 billion usd,la francaise des jeux societe anonyme,,"2,254 million usd",consumer cyclical
+460,,russia,9.813 billion usd,6.660 billion usd,8.283 billion usd,vtb bank,,0 million usd,financial services
+461,,germany,8.757 billion usd,8.170 billion usd,8.281 billion usd,telefonica deutschland holding ag,"8,500","8,557 million usd",communication services
+462,,ireland,8.353 billion usd,9.196 billion usd,8.263 billion usd,jazz pharmaceuticals,"1,620","3,094 million usd",healthcare
+463,,luxembourg,5.236 billion usd,7.064 billion usd,8.242 billion usd,b&m european value retail,"32,000","5,504 million usd",consumer defensive
+464,,uk,6.343 billion usd,6.744 billion usd,8.241 billion usd,intermediate capital group,,900 million usd,financial services
+465,,netherlands,,,8.231 billion usd,ctp n.v.,,407 million usd,real estate
+466,,uk,6.269 billion usd,11.381 billion usd,8.210 billion usd,fresnillo,"5,510","2,703 million usd",basic materials
+467,,ireland,8.495 billion usd,6.978 billion usd,8.206 billion usd,dcc,"12,773","17,556 million usd",energy
+468,,poland,4.235 billion usd,4.139 billion usd,8.205 billion usd,lpp sa,,"14,025 million usd",consumer cyclical
+469,,czech republic,6.939 billion usd,5.762 billion usd,8.192 billion usd,komercni banka,,0 million usd,financial services
+470,,netherlands,7.778 billion usd,7.880 billion usd,8.164 billion usd,grandvision,"33,681",3 million usd,consumer cyclical
+471,,hong kong,13.154 billion usd,7.799 billion usd,8.125 billion usd,swire pacific,"130,716","11,532 million usd",industries
+472,,denmark,4.970 billion usd,7.650 billion usd,8.120 billion usd,rockwool international a/s,"11,700","3,403 million usd",industries
+473,,norway,6.975 billion usd,9.231 billion usd,8.105 billion usd,schibsted asa,"5,182","1,638 million usd",communication services
+474,,ireland,6.173 billion usd,4.868 billion usd,8.068 billion usd,bank of ireland group,"9,211",0 million usd,financial services
+475,,italy,8.173 billion usd,7.470 billion usd,8.042 billion usd,unipolsai assicurazioni,,"16,253 million usd",financial services
+476,,sweden,5.219 billion usd,7.826 billion usd,8.010 billion usd,holmen aktiebolag (publ.),,"2,045 million usd",basic materials
+477,,norway,5.825 billion usd,6.600 billion usd,7.995 billion usd,salmar asa,"1,702","1,685 million usd",consumer defensive
+478,,uk,2.773 billion usd,4.664 billion usd,7.965 billion usd,endava,"6,624",525 million usd,technology
+479,,uk,6.528 billion usd,4.983 billion usd,7.937 billion usd,meggitt,"10,000","1,949 million usd",industries
+480,,france,9.994 billion usd,8.592 billion usd,7.885 billion usd,covivio,,858 million usd,real estate
+481,,uk,,,7.845 billion usd,oxford nanopore technologies plc,628,174 million usd,healthcare
+482,,uk,9.771 billion usd,6.832 billion usd,7.833 billion usd,land securities group,530,800 million usd,real estate
+483,,germany,6.294 billion usd,7.158 billion usd,7.827 billion usd,hella gmbh & co. kgaa,"39,000","6,324 million usd",consumer cyclical
+484,,switzerland,8.371 billion usd,7.916 billion usd,7.821 billion usd,baloise holding ag,,"9,381 million usd",financial services
+485,,germany,3.852 billion usd,7.032 billion usd,7.800 billion usd,wacker chemie ag,"14,542","6,711 million usd",basic materials
+486,,france,7.535 billion usd,6.840 billion usd,7.703 billion usd,ipsen,"5,700","3,243 million usd",healthcare
+487,,switzerland,5.418 billion usd,6.427 billion usd,7.695 billion usd,wizz air holdings,,"1,663 million usd",industries
+488,,denmark,6.094 billion usd,10.303 billion usd,7.624 billion usd,gn store nord a/s,"6,525","2,293 million usd",healthcare
+489,,sweden,7.631 billion usd,5.761 billion usd,7.611 billion usd,beijer ref ab (publ),,"1,778 million usd",industries
+490,,uk,3.875 billion usd,5.593 billion usd,7.604 billion usd,electrocomponents,"7,044","2,615 million usd",industries
+491,,france,8.565 billion usd,9.413 billion usd,7.584 billion usd,valeo sa,"110,300","18,664 million usd",consumer cyclical
+492,,sweden,5.676 billion usd,5.984 billion usd,7.533 billion usd,trelleborg ab (publ),"22,209","3,562 million usd",industries
+493,,uk,8.372 billion usd,6.574 billion usd,7.512 billion usd,m&g plc,"5,961","19,279 million usd",financial services
+494,,uk,6.978 billion usd,7.031 billion usd,7.502 billion usd,ds smith,"29,300","8,529 million usd",consumer cyclical
+495,,switzerland,4.617 billion usd,5.287 billion usd,7.500 billion usd,belimo holding ag,,811 million usd,industries
+496,,italy,3.399 billion usd,5.285 billion usd,7.483 billion usd,interpump group,"7,418","1,734 million usd",industries
+497,,denmark,6.781 billion usd,6.932 billion usd,7.478 billion usd,kobenhavns lufthavne a/s,,237 million usd,industries
+498,,germany,4.408 billion usd,4.791 billion usd,7.446 billion usd,sixt se,"8,500","2,467 million usd",industries
+499,,russia,5.346 billion usd,7.874 billion usd,7.445 billion usd,magnit,"300,000","24,871 million usd",consumer defensive
+500,,germany,3.979 billion usd,6.029 billion usd,7.422 billion usd,evotec se,"3,030",618 million usd,healthcare
+501,,italy,7.371 billion usd,6.349 billion usd,7.400 billion usd,banca mediolanum,"2,321","7,067 million usd",financial services
+502,,germany,6.281 billion usd,6.365 billion usd,7.397 billion usd,cts eventim ag & co. kgaa,"3,202",440 million usd,communication services
+503,,switzerland,3.264 billion usd,4.890 billion usd,7.339 billion usd,datwyler holding,"7,000","1,004 million usd",industries
+504,,uk,5.256 billion usd,5.631 billion usd,7.336 billion usd,howden joinery group,"10,000","2,734 million usd",consumer cyclical
+505,,netherlands,4.967 billion usd,4.929 billion usd,7.327 billion usd,aalberts nv,"16,094","3,221 million usd",industries
+506,,france,11.156 billion usd,6.451 billion usd,7.308 billion usd,klepierre sa,"1,100","1,352 million usd",real estate
+507,,italy,,,7.306 billion usd,pirelli & c. s.p.a.,"31,575","5,764 million usd",consumer cyclical
+508,,italy,5.988 billion usd,5.398 billion usd,7.301 billion usd,pirelli & c,"31,600","5,329 million usd",consumer cyclical
+509,,germany,6.653 billion usd,7.850 billion usd,7.300 billion usd,united internet ag,"9,638","6,104 million usd",communication services
+510,,uk,4.516 billion usd,5.898 billion usd,7.286 billion usd,janus henderson group,"2,000","2,767 million usd",financial services
+511,,switzerland,8.753 billion usd,7.390 billion usd,7.283 billion usd,swiss prime site ag,,776 million usd,real estate
+512,,germany,5.523 billion usd,6.970 billion usd,7.277 billion usd,gsw immobilien ag,,378 million usd,real estate
+513,,uk,10.352 billion usd,8.416 billion usd,7.267 billion usd,abrdn plc,"6,029","2,236 million usd",financial services
+514,,uk,8.000 billion usd,8.082 billion usd,7.254 billion usd,berkeley group holdings,"2,709","2,766 million usd",consumer cyclical
+515,,germany,9.112 billion usd,6.158 billion usd,7.243 billion usd,thyssenkrupp ag,"103,598","37,519 million usd",industries
+516,,spain,12.155 billion usd,9.409 billion usd,7.216 billion usd,acs actividades de construccion y servicios,"65,000","30,703 million usd",industries
+517,,poland,5.048 billion usd,9.875 billion usd,7.184 billion usd,kghm polska miedz,"18,444","6,259 million usd",basic materials
+518,,spain,2.714 billion usd,4.926 billion usd,7.182 billion usd,fluidra,"5,500","2,446 million usd",industries
+519,,russia,0.120 billion usd,0.134 billion usd,7.143 billion usd,x5 retail group,"339,716","36,232 million usd",consumer defensive
+520,,ireland,9.285 billion usd,5.557 billion usd,7.131 billion usd,aib group,"9,520","2,419 million usd",financial services
+521,,uk,,3.885 billion usd,7.094 billion usd,airtel africa,"3,300","4,714 million usd",telecom
+522,,uk,7.887 billion usd,6.176 billion usd,7.090 billion usd,british land company,783,483 million usd,real estate
+523,,luxembourg,10.928 billion usd,10.084 billion usd,7.077 billion usd,aroundtown sa,500,"1,085 million usd",real estate
+524,,russia,3.743 billion usd,3.267 billion usd,7.030 billion usd,vsmpo-avisma corporation,,"1,463 million usd",basic materials
+525,,uk,3.027 billion usd,4.618 billion usd,7.026 billion usd,royal mail,"177,047","14,973 million usd",industries
+526,,norway,4.801 billion usd,4.785 billion usd,7.026 billion usd,aker asa,"28,000",668 million usd,energy
+527,,sweden,2.375 billion usd,2.833 billion usd,7.009 billion usd,vitrolife ab (publ),,178 million usd,healthcare
+528,,switzerland,7.350 billion usd,6.938 billion usd,6.968 billion usd,clariant ag,,"4,539 million usd",basic materials
+529,,russia,9.394 billion usd,7.930 billion usd,6.920 billion usd,mobile telesystems,"58,415","4,847 million usd",communication services
+530,,uk,7.969 billion usd,17.615 billion usd,6.878 billion usd,novocure,"1,023",535 million usd,healthcare
+531,,austria,5.087 billion usd,6.370 billion usd,6.864 billion usd,voestalpine ag,"49,000","14,923 million usd",basic materials
+532,,uk,5.806 billion usd,3.646 billion usd,6.830 billion usd,marks and spencer group,,"12,821 million usd",consumer cyclical
+533,,sweden,7.085 billion usd,6.652 billion usd,6.815 billion usd,ab electrolux (publ),"48,000","13,317 million usd",technology
+534,,italy,2.939 billion usd,4.497 billion usd,6.809 billion usd,reply,"9,059","1,636 million usd",technology
+535,,netherlands,2.268 billion usd,2.720 billion usd,6.791 billion usd,hunter douglas,"22,000","4,606 million usd",consumer cyclical
+536,,france,7.380 billion usd,6.987 billion usd,6.746 billion usd,faurecia s.e,"104,739","17,226 million usd",consumer cyclical
+537,,uk,6.391 billion usd,7.937 billion usd,6.713 billion usd,hikma pharmaceuticals,"8,578","2,553 million usd",healthcare
+538,,france,3.351 billion usd,5.803 billion usd,6.707 billion usd,somfy sa,,"1,477 million usd",consumer cyclical
+539,,switzerland,3.878 billion usd,5.861 billion usd,6.698 billion usd,bkw ag,"10,500","3,617 million usd",utilities
+540,,switzerland,6.979 billion usd,9.250 billion usd,6.694 billion usd,banque cantonale vaudoise,"1,896","1,023 million usd",financial services
+541,,luxembourg,7.025 billion usd,7.408 billion usd,6.679 billion usd,cpi property group,"4,353",663 million usd,real estate
+542,,denmark,7.511 billion usd,8.909 billion usd,6.653 billion usd,ascendis pharma a/s,482,8 million usd,healthcare
+543,,france,5.283 billion usd,5.490 billion usd,6.650 billion usd,eurazeo se,270,"6,147 million usd",financial services
+544,,uk,,,6.630 billion usd,pepco group n.v.,,"4,191 million usd",consumer defensive
+545,,uk,3.868 billion usd,5.102 billion usd,6.583 billion usd,dechra pharmaceuticals,"1,753",716 million usd,healthcare
+546,,switzerland,3.320 billion usd,5.800 billion usd,6.579 billion usd,tecan group,"2,050","1,012 million usd",healthcare
+547,,france,6.335 billion usd,5.683 billion usd,6.567 billion usd,ald sa,,"11,536 million usd",industries
+548,,switzerland,6.967 billion usd,5.516 billion usd,6.563 billion usd,helvetia holding ag,"11,687","12,977 million usd",financial services
+549,,france,4.049 billion usd,4.754 billion usd,6.540 billion usd,rexel,"24,000","16,203 million usd",industries
+550,,germany,7.823 billion usd,5.553 billion usd,6.540 billion usd,fraport ag,"22,514","2,364 million usd",industries
+551,,uk,,5.823 billion usd,6.537 billion usd,f&c investment trust,,"1,275 million usd",investments
+552,,netherlands,5.430 billion usd,5.548 billion usd,6.512 billion usd,asr nederland,"3,934","10,866 million usd",financial services
+553,,belgium,5.144 billion usd,5.021 billion usd,6.501 billion usd,ackermans & van haaren nv,,"4,756 million usd",industries
+554,,netherlands,4.025 billion usd,5.247 billion usd,6.405 billion usd,signify,"37,926","7,567 million usd",industries
+555,,uk,7.493 billion usd,5.187 billion usd,6.405 billion usd,easyjet,"14,000","1,935 million usd",industries
+556,,france,8.397 billion usd,8.460 billion usd,6.390 billion usd,orpea sa,,"4,297 million usd",healthcare
+557,,finland,3.637 billion usd,4.252 billion usd,6.381 billion usd,valmet oyj,,"4,340 million usd",industries
+558,,sweden,4.767 billion usd,6.589 billion usd,6.300 billion usd,sweco ab (publ),,"2,310 million usd",industries
+559,,france,3.793 billion usd,4.062 billion usd,6.295 billion usd,financiere de l'odet sa,,"26,066 million usd",industries
+560,,uk,4.342 billion usd,3.962 billion usd,6.287 billion usd,nvent electric,"8,800","2,462 million usd",industries
+561,,belgium,9.323 billion usd,6.376 billion usd,6.257 billion usd,proximus,"11,423","6,107 million usd",communication services
+562,,uk,7.970 billion usd,5.879 billion usd,6.253 billion usd,itv,"6,273","4,582 million usd",communication services
+563,,switzerland,4.642 billion usd,5.458 billion usd,6.250 billion usd,emmi ag,,"4,185 million usd",consumer defensive
+564,,netherlands,2.906 billion usd,4.361 billion usd,6.240 billion usd,be semiconductor industries,"1,618",826 million usd,technology
+565,,uk,5.211 billion usd,7.063 billion usd,6.227 billion usd,weir group,"13,500","2,565 million usd",industries
+566,,uk,6.723 billion usd,6.918 billion usd,6.163 billion usd,pearson plc,"32,000","4,549 million usd",education
+567,,switzerland,3.609 billion usd,2.543 billion usd,6.160 billion usd,goodyear tire & rubber company,"62,000","17,478 million usd",consumer cyclical
+568,,denmark,4.141 billion usd,10.713 billion usd,6.160 billion usd,ambu a/s,"3,500",594 million usd,healthcare
+569,,uk,4.175 billion usd,4.336 billion usd,6.143 billion usd,imi,"10,776","1,135 million usd",industries
+570,,belgium,1.848 billion usd,3.098 billion usd,6.140 billion usd,vgp nv,,49 million usd,real estate
+571,,sweden,2.464 billion usd,3.890 billion usd,6.088 billion usd,thule group ab (publ),,"1,101 million usd",consumer cyclical
+572,,uk,,3.946 billion usd,6.005 billion usd,tritax big box reit,,244 million usd,real estate
+573,,luxembourg,3.463 billion usd,3.657 billion usd,6.002 billion usd,l'occitane international,"9,000","1,780 million usd",consumer defensive
+574,,norway,1.111 billion usd,3.054 billion usd,5.965 billion usd,nordic semiconductor asa,767,610 million usd,technology
+575,,italy,6.446 billion usd,5.325 billion usd,5.945 billion usd,hera,,"7,808 million usd",utilities
+576,,spain,6.710 billion usd,5.721 billion usd,5.942 billion usd,enagas,361,"1,075 million usd",utilities
+577,,norway,2.904 billion usd,3.645 billion usd,5.914 billion usd,kongsberg gruppen asa,,"2,826 million usd",industries
+578,,france,4.336 billion usd,3.886 billion usd,5.890 billion usd,alten sa,,"2,924 million usd",technology
+579,,uk,7.056 billion usd,3.722 billion usd,5.883 billion usd,centrica,"26,932","24,284 million usd",utilities
+580,,uk,6.160 billion usd,5.690 billion usd,5.868 billion usd,unite group,"1,400",353 million usd,real estate
+581,,finland,4.595 billion usd,5.447 billion usd,5.868 billion usd,kojamo oyj,296,431 million usd,real estate
+582,,sweden,5.699 billion usd,4.853 billion usd,5.860 billion usd,axfood ab (publ),,"6,136 million usd",consumer defensive
+583,,germany,7.231 billion usd,8.457 billion usd,5.857 billion usd,scout24 ag,"1,530",389 million usd,communication services
+584,,austria,5.416 billion usd,5.119 billion usd,5.840 billion usd,telekom austria ag,"18,153","4,664 million usd",communication services
+585,,uk,1.841 billion usd,2.330 billion usd,5.838 billion usd,future,,804 million usd,communication services
+586,,germany,7.186 billion usd,5.543 billion usd,5.797 billion usd,schaeffler ag,"87,700","15,279 million usd",consumer cyclical
+587,,france,7.911 billion usd,5.978 billion usd,5.772 billion usd,scor se,"2,945","19,625 million usd",financial services
+588,,uk,,4.428 billion usd,5.768 billion usd,rit capital partners,,"1,242 million usd",investments
+589,,italy,5.823 billion usd,4.939 billion usd,5.764 billion usd,a2a,"12,978","12,739 million usd",utilities
+590,,sweden,2.171 billion usd,3.720 billion usd,5.762 billion usd,addtech ab (publ.),"3,000","1,323 million usd",industries
+591,,germany,7.909 billion usd,3.758 billion usd,5.759 billion usd,tui ag,"48,330","5,218 million usd",consumer cyclical
+592,,germany,5.968 billion usd,6.599 billion usd,5.741 billion usd,lanxess,"14,866","8,335 million usd",basic materials
+593,,germany,,14.428 billion usd,5.739 billion usd,curevac,500,102 million usd,healthcare
+594,,france,8.426 billion usd,11.823 billion usd,5.737 billion usd,ubisoft entertainment sa,"18,045","2,124 million usd",communication services
+595,,netherlands,4.422 billion usd,4.012 billion usd,5.729 billion usd,oci,"3,147","6,318 million usd",basic materials
+596,,germany,4.010 billion usd,4.316 billion usd,5.718 billion usd,lechwerke ag,,"1,621 million usd",utilities
+597,,switzerland,5.588 billion usd,5.364 billion usd,5.709 billion usd,flughafen zurich ag,,728 million usd,industries
+598,,sweden,4.075 billion usd,5.102 billion usd,5.699 billion usd,wallenstam ab (publ),,246 million usd,real estate
+599,,russia,2.980 billion usd,3.274 billion usd,5.695 billion usd,acron,,"1,970 million usd",basic materials
+600,,france,6.583 billion usd,4.827 billion usd,5.691 billion usd,jcdecaux sa,"10,234","2,521 million usd",communication services
+601,,finland,6.580 billion usd,6.414 billion usd,5.691 billion usd,orion oyj,"3,337","1,148 million usd",healthcare
+602,,belgium,7.213 billion usd,8.005 billion usd,5.674 billion usd,etn. fr. colruyt nv,,"10,046 million usd",consumer defensive
+603,,luxembourg,3.381 billion usd,3.835 billion usd,5.622 billion usd,shurgard self storage,751,331 million usd,real estate
+604,,denmark,4.460 billion usd,5.650 billion usd,5.599 billion usd,royal unibrew a/s,"2,631","1,294 million usd",consumer defensive
+605,,sweden,1.621 billion usd,3.037 billion usd,5.588 billion usd,medicover ab (publ),,130 million usd,healthcare
+606,,france,8.073 billion usd,5.666 billion usd,5.569 billion usd,icade,,"1,831 million usd",real estate
+607,,switzerland,6.322 billion usd,6.150 billion usd,5.568 billion usd,psp swiss property ag,,862 million usd,real estate
+608,,luxembourg,,,5.566 billion usd,ardagh metal packaging s.a.,"16,400","4,055 million usd",consumer cyclical
+609,,germany,6.670 billion usd,7.134 billion usd,5.545 billion usd,fuchs petrolub se,"5,600","2,870 million usd",basic materials
+610,,germany,9.060 billion usd,6.841 billion usd,5.534 billion usd,hochtief,"46,644","23,579 million usd",industries
+611,,austria,4.162 billion usd,4.070 billion usd,5.528 billion usd,bawag group ag,"4,353","1,338 million usd",financial services
+612,,germany,,,5.504 billion usd,synlab ag,,"4,152 million usd",healthcare
+613,,uk,4.424 billion usd,4.480 billion usd,5.499 billion usd,spectris,"8,450","1,714 million usd",technology
+614,,sweden,4.958 billion usd,5.082 billion usd,5.494 billion usd,aak ab (publ.),"3,978","3,758 million usd",consumer defensive
+615,,germany,4.042 billion usd,5.944 billion usd,5.467 billion usd,gelsenwasser ag,"1,595","6,298 million usd",utilities
+616,,ireland,6.922 billion usd,6.104 billion usd,5.447 billion usd,perrigo company,"11,500","4,138 million usd",healthcare
+617,,uk,3.042 billion usd,3.733 billion usd,5.433 billion usd,diploma plc,,"1,044 million usd",industries
+618,,finland,4.020 billion usd,4.851 billion usd,5.432 billion usd,nokian renkaat oyj,,"1,891 million usd",automobile parts
+619,,uk,6.198 billion usd,4.984 billion usd,5.418 billion usd,bellway,"2,889","3,677 million usd",real estate
+620,,uk,7.603 billion usd,6.396 billion usd,5.417 billion usd,johnson matthey,"15,352","18,875 million usd",basic materials
+621,,germany,6.775 billion usd,6.761 billion usd,5.416 billion usd,fielmann,"22,245","1,678 million usd",consumer cyclical
+622,,belgium,2.367 billion usd,3.633 billion usd,5.406 billion usd,lotus bakeries nv,"2,155",827 million usd,consumer defensive
+623,,switzerland,3.596 billion usd,4.407 billion usd,5.387 billion usd,sfs group ag,"10,692","2,030 million usd",industries
+624,,poland,6.152 billion usd,5.224 billion usd,5.384 billion usd,cyfrowy polsat,,"2,613 million usd",communication services
+625,,uk,3.101 billion usd,3.205 billion usd,5.365 billion usd,frasers group,"19,962","4,270 million usd",consumer cyclical
+626,,denmark,2.684 billion usd,4.474 billion usd,5.340 billion usd,alk-abello a/s,,580 million usd,healthcare
+627,,italy,5.078 billion usd,5.124 billion usd,5.308 billion usd,italgas,,"1,427 million usd",utilities
+628,,austria,3.482 billion usd,3.879 billion usd,5.294 billion usd,evn ag,"7,428","2,641 million usd",utilities
+629,,italy,3.198 billion usd,4.694 billion usd,5.283 billion usd,de'longhi,"8,607","3,219 million usd",consumer cyclical
+630,,switzerland,3.531 billion usd,4.846 billion usd,5.280 billion usd,dksh holding,,"11,883 million usd",industries
+631,,uk,2.720 billion usd,3.632 billion usd,5.271 billion usd,mimecast,"1,800",501 million usd,technology
+632,,sweden,1.678 billion usd,4.367 billion usd,5.258 billion usd,avanza bank holding ab (publ),450,408 million usd,financial services
+633,,uk,5.755 billion usd,5.903 billion usd,5.255 billion usd,direct line insurance group,"10,762","4,285 million usd",financial services
+634,,france,5.839 billion usd,5.227 billion usd,5.249 billion usd,wendel,,"8,276 million usd",financial services
+635,,uk,5.201 billion usd,5.460 billion usd,5.225 billion usd,convatec group,"9,400","2,038 million usd",healthcare
+636,,greece,4.157 billion usd,4.529 billion usd,5.217 billion usd,greek organization of football prognostics,"1,503","1,245 million usd",consumer cyclical
+637,,spain,4.824 billion usd,4.368 billion usd,5.196 billion usd,fomento de construcciones y contratas,,"6,657 million usd",industries
+638,,sweden,5.714 billion usd,5.135 billion usd,5.181 billion usd,fabege ab (publ),,313 million usd,real estate
+639,,austria,4.497 billion usd,4.453 billion usd,5.179 billion usd,andritz ag,"28,400","7,129 million usd",industries
+640,,switzerland,3.353 billion usd,10.903 billion usd,5.178 billion usd,crispr therapeutics ag,410,914 million usd,healthcare
+641,,poland,6.228 billion usd,4.961 billion usd,5.174 billion usd,powszechny zaklad ubezpieczen sa,"43,310",,financial services
+642,,uk,5.921 billion usd,4.740 billion usd,5.170 billion usd,derwent london,,318 million usd,real estate
+643,,denmark,4.277 billion usd,3.785 billion usd,5.159 billion usd,topdanmark a/s,,"4,653 million usd",financial services
+644,,germany,5.597 billion usd,5.818 billion usd,5.157 billion usd,varta ag,"4,800",902 million usd,industries
+645,,poland,9.076 billion usd,7.420 billion usd,5.140 billion usd,cd projekt,"1,111",,communication services
+646,,poland,4.370 billion usd,2.048 billion usd,5.132 billion usd,mbank,,,financial services
+647,,switzerland,3.574 billion usd,4.643 billion usd,5.125 billion usd,bucher industries ag,,"3,398 million usd",industry machinery
+648,,germany,2.507 billion usd,4.643 billion usd,5.122 billion usd,jungheinrich,"18,019","4,238 million usd",industries
+649,,spain,6.677 billion usd,4.403 billion usd,5.116 billion usd,merlin properties socimi,218,516 million usd,real estate
+650,,iceland,3.872 billion usd,4.529 billion usd,5.115 billion usd,marel,,"1,500 million usd",industries
+651,,luxembourg,,,5.059 billion usd,inpost s.a.,,"4,580 million usd",industries
+652,,belgium,3.832 billion usd,4.008 billion usd,5.057 billion usd,cofinimmo sa,,323 million usd,real estate
+653,,uk,,,5.053 billion usd,dr. martens plc,,"1,069 million usd",footwear
+654,,hungary,4.160 billion usd,4.607 billion usd,5.027 billion usd,richter gedeon vegyeszeti gyar nyilvanosan mukodo,,"1,829 million usd",healthcare
+655,,spain,6.505 billion usd,4.934 billion usd,4.990 billion usd,inmobiliaria colonial socimi,200,316 million usd,real estate
+656,,switzerland,4.007 billion usd,4.406 billion usd,4.977 billion usd,vontobel holding ag,"2,094","2,080 million usd",financial services
+657,,uk,,7.000 billion usd,4.970 billion usd,deliveroo plc,"2,300","2,148 million usd",online food delivery
+658,,sweden,6.840 billion usd,5.860 billion usd,4.958 billion usd,securitas ab,"355,000","11,416 million usd",industries
+659,,spain,6.721 billion usd,4.842 billion usd,4.948 billion usd,bankinter,"8,668","2,036 million usd",financial services
+660,,norway,3.697 billion usd,3.452 billion usd,4.933 billion usd,storebrand asa,"2,200","13,218 million usd",financial services
+661,,ireland,3.422 billion usd,4.179 billion usd,4.922 billion usd,glanbia,"7,385","4,628 million usd",consumer defensive
+662,,denmark,7.588 billion usd,6.811 billion usd,4.912 billion usd,h. lundbeck a/s,"5,806","2,412 million usd",healthcare
+663,,italy,3.805 billion usd,3.818 billion usd,4.897 billion usd,banca generali,"72,644","1,406 million usd",financial services
+664,,switzerland,4.451 billion usd,4.604 billion usd,4.894 billion usd,bb biotech ag,,-367 million usd,healthcare
+665,,uk,,,4.893 billion usd,atotech ltd,"3,862","1,234 million usd",electronics
+666,,france,9.172 billion usd,10.112 billion usd,4.881 billion usd,atos se,"110,000","10,836 million usd",technology
+667,,switzerland,,,4.875 billion usd,sportradar,"2,300",561 million usd,media
+668,,italy,3.470 billion usd,3.322 billion usd,4.854 billion usd,banco bpm societa per azioni,"22,000","4,362 million usd",financial services
+669,,uk,3.428 billion usd,4.365 billion usd,4.853 billion usd,ig group holdings,,"1,157 million usd",financial services
+670,,uk,5.391 billion usd,4.644 billion usd,4.829 billion usd,travis perkins,"30,000","6,086 million usd",industries
+671,,switzerland,4.771 billion usd,5.098 billion usd,4.824 billion usd,dufry ag,,"4,189 million usd",consumer cyclical
+672,,germany,4.604 billion usd,4.388 billion usd,4.804 billion usd,1&1 ag,"3,163","4,312 million usd",communication services
+673,,germany,2.401 billion usd,3.758 billion usd,4.799 billion usd,dermapharm holding se,,942 million usd,healthcare
+674,,italy,4.068 billion usd,4.260 billion usd,4.780 billion usd,brembo,,"2,784 million usd",consumer cyclical
+675,,uk,,,4.767 billion usd,harbour energy plc,,"3,478 million usd",energy
+676,,italy,,,4.757 billion usd,stevanato group s.p.a.,,930 million usd,medical equipment
+677,,uk,3.687 billion usd,4.802 billion usd,4.752 billion usd,abcam,"1,492",613 million usd,healthcare
+678,,denmark,2.314 billion usd,5.018 billion usd,4.738 billion usd,netcompany group a/s,,537 million usd,technology
+679,,norway,3.967 billion usd,4.149 billion usd,4.736 billion usd,leroy seafood group asa,,"2,630 million usd",consumer defensive
+680,,france,5.205 billion usd,4.907 billion usd,4.729 billion usd,colas sa,,"14,588 million usd",industries
+681,,uk,3.668 billion usd,3.461 billion usd,4.728 billion usd,inchcape,"17,300","10,138 million usd",consumer cyclical
+682,,uk,,4.328 billion usd,4.725 billion usd,polar capital technology trust,,-300 million usd,investments
+683,,sweden,3.531 billion usd,3.664 billion usd,4.723 billion usd,hexpol ab (publ),,"1,697 million usd",basic materials
+684,,sweden,,,4.722 billion usd,oatly group ab,792,643 million usd,non-alcoholic beverages
+685,,belgium,3.120 billion usd,3.897 billion usd,4.710 billion usd,melexis nv,"1,449",709 million usd,technology
+686,,italy,2.463 billion usd,2.957 billion usd,4.697 billion usd,brunello cucinelli,"2,127",785 million usd,consumer cyclical
+687,,sweden,5.245 billion usd,5.104 billion usd,4.686 billion usd,elekta ab (publ),,"1,371 million usd",healthcare
+688,,uk,1.282 billion usd,1.895 billion usd,4.686 billion usd,watches of switzerland group,,"1,458 million usd",consumer cyclical
+689,,uk,3.653 billion usd,5.734 billion usd,4.675 billion usd,sophos group,"3,500",709 million usd,technology
+690,,italy,3.202 billion usd,4.243 billion usd,4.662 billion usd,erg spa,,"1,359 million usd",utilities
+691,,france,3.404 billion usd,4.181 billion usd,4.650 billion usd,tikehau capital,,454 million usd,financial services
+692,,austria,3.328 billion usd,5.950 billion usd,4.642 billion usd,ams ag,"30,000","5,557 million usd",technology
+693,,belgium,3.124 billion usd,3.956 billion usd,4.635 billion usd,aedifica sa,,255 million usd,real estate
+694,,uk,,4.608 billion usd,4.627 billion usd,hicl infrastructure,491,437 million usd,investments
+695,,germany,3.102 billion usd,4.680 billion usd,4.619 billion usd,siltronic ag,"3,800","1,550 million usd",technology
+696,,uk,,,4.577 billion usd,arrival,"1,300",0 million usd,electric vehicles
+697,,luxembourg,8.091 billion usd,5.343 billion usd,4.573 billion usd,ses,"2,159","1,966 million usd",communication services
+698,,france,1.958 billion usd,2.709 billion usd,4.563 billion usd,interparfums sa,396,618 million usd,consumer defensive
+699,,ireland,2.069 billion usd,3.265 billion usd,4.557 billion usd,adient,"77,000","13,680 million usd",consumer cyclical
+700,,finland,4.878 billion usd,5.370 billion usd,4.547 billion usd,huhtamaki oyj,"18,600","3,942 million usd",consumer cyclical
+701,,france,3.886 billion usd,3.630 billion usd,4.547 billion usd,compagnie du cambodge,,200 million usd,industries
+702,,germany,2.791 billion usd,3.410 billion usd,4.531 billion usd,aurubis ag,"7,400","17,978 million usd",basic materials
+703,,belgium,3.211 billion usd,4.523 billion usd,4.507 billion usd,financiere de tubize sa,,421 million usd,healthcare
+704,,uk,,,4.459 billion usd,greencoat uk wind,,561 million usd,asset management
+705,,germany,4.514 billion usd,5.581 billion usd,4.454 billion usd,stroer se & co. kgaa,"13,000","1,627 million usd",communication services
+706,,switzerland,4.981 billion usd,4.524 billion usd,4.454 billion usd,stadler rail ag,"8,500","3,888 million usd",industries
+707,,italy,3.611 billion usd,3.373 billion usd,4.452 billion usd,salvatore ferragamo,,"1,252 million usd",consumer cyclical
+708,,france,,,4.438 billion usd,nexans s.a.,,"8,134 million usd",industries
+709,,uk,3.208 billion usd,3.733 billion usd,4.436 billion usd,softcat,"1,500","1,362 million usd",technology
+710,,sweden,,,4.432 billion usd,nordnet ab (publ),,331 million usd,financial services
+711,,uk,,3.305 billion usd,4.429 billion usd,smithson investment trust,,709 million usd,asset management
+712,,russia,3.886 billion usd,4.904 billion usd,4.424 billion usd,moscow exchange micex-rts,,500 million usd,financial services
+713,,uk,2.612 billion usd,5.020 billion usd,4.421 billion usd,games workshop group,"2,436",488 million usd,consumer cyclical
+714,,sweden,1.237 billion usd,0.920 billion usd,4.412 billion usd,corem property group ab (publ),,297 million usd,real estate
+715,,sweden,3.050 billion usd,3.986 billion usd,4.403 billion usd,dometic group ab (publ),,"2,281 million usd",technology
+716,,luxembourg,2.666 billion usd,3.326 billion usd,4.398 billion usd,aperam,"9,500","5,100 million usd",basic materials
+717,,uk,3.573 billion usd,3.218 billion usd,4.395 billion usd,livanova,"4,000","1,035 million usd",healthcare
+718,,netherlands,7.002 billion usd,6.649 billion usd,4.389 billion usd,vopak,"5,688","1,353 million usd",energy
+719,,uk,,,4.350 billion usd,petershill partners plc,,,financial services
+720,,austria,3.585 billion usd,3.555 billion usd,4.343 billion usd,strabag se,,"15,293 million usd",industries
+721,,russia,3.771 billion usd,4.585 billion usd,4.341 billion usd,federal hydro-generating company - rushydro,,"5,360 million usd",utilities
+722,,uk,4.766 billion usd,4.320 billion usd,4.337 billion usd,tate & lyle,"4,193","1,620 million usd",consumer defensive
+723,,uk,,3.755 billion usd,4.337 billion usd,3i infrastructure,,485 million usd,investments
+724,,france,2.141 billion usd,3.149 billion usd,4.331 billion usd,nexans,,"8,134 million usd",industries
+725,,italy,4.385 billion usd,4.485 billion usd,4.306 billion usd,acea spa,,"4,381 million usd",utilities
+726,,france,3.232 billion usd,3.473 billion usd,4.306 billion usd,spie sa,"45,500","7,714 million usd",industries
+727,,uk,,,4.301 billion usd,"diversey holdings, ltd.","8,500","2,618 million usd",fmcg
+728,,uk,5.663 billion usd,5.481 billion usd,4.299 billion usd,pennon group,"5,239",933 million usd,utilities
+729,,sweden,0.858 billion usd,,4.280 billion usd,addlife ab (publ),,847 million usd,healthcare
+730,,uk,2.682 billion usd,3.821 billion usd,4.278 billion usd,computacenter,,"8,924 million usd",technology
+731,,luxembourg,2.482 billion usd,2.898 billion usd,4.276 billion usd,brederode sa,,"1,106 million usd",financial services
+732,,germany,4.992 billion usd,4.542 billion usd,4.261 billion usd,rheinmetall ag,"25,767","6,241 million usd",industries
+733,,uk,,3.972 billion usd,4.254 billion usd,alliance trust,,763 million usd,financial services
+734,,uk,4.835 billion usd,2.482 billion usd,4.240 billion usd,greggs,"19,000","1,631 million usd",consumer defensive
+735,,belgium,5.216 billion usd,4.864 billion usd,4.230 billion usd,telenet group holding nv,,"2,862 million usd",communication services
+736,,austria,2.710 billion usd,4.019 billion usd,4.227 billion usd,mayr-melnhof karton ag,"9,938","3,068 million usd",consumer cyclical
+737,,uk,,,4.225 billion usd,ihs holding ltd,,"1,579 million usd",telecom
+738,,russia,1.165 billion usd,1.450 billion usd,4.221 billion usd,raspadskaya,,"2,098 million usd",basic materials
+739,,spain,1.556 billion usd,2.556 billion usd,4.216 billion usd,laboratorios farmaceuticos rovi,,715 million usd,healthcare
+740,,italy,4.883 billion usd,4.565 billion usd,4.211 billion usd,buzzi unicem,,"3,444 million usd",basic materials
+741,,denmark,4.600 billion usd,5.893 billion usd,4.206 billion usd,simcorp a/s,"1,901",547 million usd,technology
+742,,uk,3.893 billion usd,3.796 billion usd,4.205 billion usd,rotork,"3,400",755 million usd,industries
+743,,russia,,,4.201 billion usd,united aircraft corporation,,"7,694 million usd",industries
+744,,austria,3.398 billion usd,3.566 billion usd,4.180 billion usd,wienerberger ag,,"4,380 million usd",basic materials
+745,,spain,6.800 billion usd,2.416 billion usd,4.173 billion usd,banco de sabadell,"23,458","5,486 million usd",financial services
+746,,france,2.937 billion usd,6.489 billion usd,4.172 billion usd,neoen,255,367 million usd,utilities
+747,,uk,,4.268 billion usd,4.159 billion usd,monks investment trust,,-730 million usd,investments
+748,,uk,,2.730 billion usd,4.159 billion usd,man group,"1,456","1,481 million usd",financial services
+749,,italy,6.773 billion usd,4.138 billion usd,4.149 billion usd,leonardo,"49,882","15,591 million usd",industries
+750,,switzerland,2.428 billion usd,3.561 billion usd,4.149 billion usd,vz holding ag,"1,030",415 million usd,financial services
+751,,uk,,3.655 billion usd,4.138 billion usd,s4 capital,,808 million usd,advertising
+752,,uk,,3.327 billion usd,4.116 billion usd,the renewables infrastructure group limited,,231 million usd,renewable energy
+753,,switzerland,,,4.115 billion usd,polypeptide group ag,973,282 million usd,healthcare
+754,,norway,3.032 billion usd,4.070 billion usd,4.114 billion usd,entra asa,,294 million usd,real estate
+755,,russia,5.933 billion usd,5.325 billion usd,4.114 billion usd,inter rao ues,,"16,208 million usd",utilities
+756,,uk,2.709 billion usd,3.747 billion usd,4.111 billion usd,genus,,676 million usd,healthcare
+757,,uk,2.544 billion usd,2.636 billion usd,4.106 billion usd,big yellow group,361,201 million usd,real estate
+758,,spain,4.199 billion usd,4.187 billion usd,4.097 billion usd,grupo catalana occidente,"7,587","4,602 million usd",financial services
+759,,isle of man,5.417 billion usd,3.829 billion usd,4.082 billion usd,nepi rockcastle,,536 million usd,real estate
+760,,luxembourg,5.100 billion usd,4.699 billion usd,4.055 billion usd,iwg,"12,000","2,955 million usd",industries
+761,,uk,3.166 billion usd,4.026 billion usd,4.055 billion usd,fevertree drinks,,413 million usd,consumer defensive
+762,,germany,0.832 billion usd,2.355 billion usd,4.053 billion usd,verbio vereinigte bioenergie ag,,"1,026 million usd",utilities
+763,,netherlands,2.041 billion usd,2.960 billion usd,4.036 billion usd,arcadis nv,"28,000","2,828 million usd",industries
+764,,germany,3.397 billion usd,2.293 billion usd,4.034 billion usd,hugo boss ag,,"3,073 million usd",consumer cyclical
+765,,sweden,1.820 billion usd,2.408 billion usd,4.033 billion usd,veoneer,,"1,657 million usd",consumer cyclical
+766,,uk,3.666 billion usd,3.036 billion usd,4.019 billion usd,beazley,,"3,291 million usd",financial services
+767,,france,2.044 billion usd,3.400 billion usd,4.007 billion usd,trigano,"10,021","3,235 million usd",consumer cyclical
+768,,uk,4.073 billion usd,1.783 billion usd,4.001 billion usd,investec group,,"2,292 million usd",financial services
+769,,france,4.616 billion usd,3.671 billion usd,3.987 billion usd,elis sa,"45,000","3,362 million usd",industries
+770,,germany,5.943 billion usd,4.070 billion usd,3.977 billion usd,metro ag,"97,639","27,316 million usd",consumer defensive
+771,,uk,,2.248 billion usd,3.966 billion usd,safestore holdings,700,247 million usd,property investments
+772,,belgium,4.007 billion usd,3.335 billion usd,3.963 billion usd,kbc ancora sca,,532 million usd,financial services
+773,,greece,,,3.954 billion usd,public power corporation s.a.,"13,832","5,704 million usd",utilities
+774,,norway,2.943 billion usd,2.678 billion usd,3.953 billion usd,sparebank 1 sr-bank asa,969,,financial services
+775,,italy,4.175 billion usd,3.401 billion usd,3.952 billion usd,unipol gruppo,"11,836","16,280 million usd",financial services
+776,,uk,,3.749 billion usd,3.947 billion usd,international public partnerships ld,,154 million usd,investments
+777,,germany,3.302 billion usd,3.200 billion usd,3.946 billion usd,alstria office reit-ag,167,245 million usd,real estate
+778,,italy,3.356 billion usd,3.064 billion usd,3.936 billion usd,azimut holding,"1,162","1,635 million usd",financial services
+779,,sweden,1.707 billion usd,3.416 billion usd,3.932 billion usd,sectra ab (publ),820,184 million usd,healthcare
+780,,sweden,2.567 billion usd,3.641 billion usd,3.931 billion usd,billerudkorsnas ab (publ),"4,407","2,778 million usd",basic materials
+781,,denmark,2.258 billion usd,2.643 billion usd,3.924 billion usd,ringkjobing landbobank a/s,626,343 million usd,financial services
+782,,germany,3.665 billion usd,4.614 billion usd,3.922 billion usd,tag immobilien ag,"1,354",481 million usd,real estate
+783,,spain,3.124 billion usd,3.299 billion usd,3.919 billion usd,cie automotive,,"3,606 million usd",consumer cyclical
+784,,france,4.101 billion usd,5.006 billion usd,3.916 billion usd,compagnie plastic omnium sa,"31,000","7,978 million usd",consumer cyclical
+785,,ireland,,3.026 billion usd,3.903 billion usd,grafton group plc,,"2,799 million usd",construction materials
+786,,switzerland,2.013 billion usd,3.028 billion usd,3.898 billion usd,siegfried holding ag,"3,500","1,179 million usd",healthcare
+787,,switzerland,2.158 billion usd,3.631 billion usd,3.895 billion usd,also holding ag,"4,081","13,671 million usd",technology
+788,,germany,0.689 billion usd,1.478 billion usd,3.893 billion usd,zooplus ag,,"1,800 million usd",consumer cyclical
+789,,uk,5.393 billion usd,4.823 billion usd,3.887 billion usd,homeserve,,"1,683 million usd",industries
+790,,ireland,3.114 billion usd,3.175 billion usd,3.883 billion usd,alkermes,"2,245","1,173 million usd",healthcare
+791,,france,2.834 billion usd,3.231 billion usd,3.864 billion usd,lagardere sca,,"5,169 million usd",consumer cyclical
+792,,greece,3.823 billion usd,2.582 billion usd,3.861 billion usd,eurobank ergasias,,"1,933 million usd",financial services
+793,,france,3.868 billion usd,3.646 billion usd,3.856 billion usd,societe fonciere lyonnaise sa,75,192 million usd,real estate
+794,,austria,2.521 billion usd,2.677 billion usd,3.855 billion usd,lenzing,,"2,420 million usd",basic materials
+795,,switzerland,3.664 billion usd,3.797 billion usd,3.853 billion usd,luzerner kantonalbank ag,"1,049",607 million usd,financial services
+796,,netherlands,3.480 billion usd,3.575 billion usd,3.847 billion usd,royal boskalis westminster,"7,484","2,955 million usd",industries
+797,,italy,4.019 billion usd,3.338 billion usd,3.846 billion usd,iren spa,"8,000","4,908 million usd",utilities
+798,,luxembourg,4.080 billion usd,4.386 billion usd,3.841 billion usd,grand city properties,800,578 million usd,real estate
+799,,austria,3.677 billion usd,3.242 billion usd,3.839 billion usd,vienna insurance group ag,"25,000","10,974 million usd",financial services
+800,,switzerland,0.638 billion usd,0.692 billion usd,3.824 billion usd,dottikon es holding ag,630,261 million usd,basic materials
+801,,sweden,2.604 billion usd,3.738 billion usd,3.820 billion usd,nordic entertainment group ab (publ),"1,900","1,342 million usd",communication services
+802,,uk,2.709 billion usd,4.051 billion usd,3.805 billion usd,atlantica yield,,"1,211 million usd",utilities
+803,,france,2.232 billion usd,2.445 billion usd,3.803 billion usd,virbac sa,"4,900","1,063 million usd",healthcare
+804,,france,0.086 billion usd,2.985 billion usd,3.798 billion usd,altarea,,"2,981 million usd",real estate
+805,,france,3.759 billion usd,2.993 billion usd,3.798 billion usd,altarea sca,"1,983","2,981 million usd",real estate
+806,,austria,3.965 billion usd,3.491 billion usd,3.782 billion usd,ca immobilien anlagen ag,,296 million usd,real estate
+807,,poland,3.911 billion usd,3.279 billion usd,3.770 billion usd,pge polska grupa energetyczna,"40,141","11,073 million usd",utilities
+808,,germany,,,3.770 billion usd,dmg mori aktiengesellschaft,"12,160","2,263 million usd",industries
+809,,spain,,,3.770 billion usd,"zardoya otis, s.a.",,889 million usd,industries
+810,,denmark,2.799 billion usd,2.777 billion usd,3.761 billion usd,jyske bank a/s,"3,593","1,288 million usd",financial services
+811,,uk,3.099 billion usd,3.357 billion usd,3.741 billion usd,dunelm group,"6,519","1,574 million usd",consumer cyclical
+812,,germany,3.507 billion usd,4.700 billion usd,3.730 billion usd,compugroup medical societas europaea,,"1,131 million usd",healthcare
+813,,czech republic,3.235 billion usd,3.507 billion usd,3.720 billion usd,o2 czech republic,"4,993","1,655 million usd",communication services
+814,,faroe islands,4.482 billion usd,4.161 billion usd,3.709 billion usd,p/f bakkafrost,"1,699",747 million usd,consumer defensive
+815,,uk,,,3.707 billion usd,darktrace plc,900,281 million usd,artificial intelligence
+816,,germany,3.582 billion usd,3.777 billion usd,3.706 billion usd,prosiebensat.1 media se,,"4,957 million usd",communication services
+817,,spain,3.109 billion usd,2.975 billion usd,3.679 billion usd,acerinox,"8,331","7,396 million usd",basic materials
+818,,sweden,3.094 billion usd,3.198 billion usd,3.663 billion usd,peab ab (publ),"15,000","6,246 million usd",industries
+819,,finland,2.486 billion usd,3.732 billion usd,3.661 billion usd,metsa board oyj,"2,389","2,299 million usd",basic materials
+820,,switzerland,3.031 billion usd,3.258 billion usd,3.659 billion usd,galenica ag,"7,048","4,102 million usd",healthcare
+821,,uk,3.632 billion usd,2.646 billion usd,3.657 billion usd,virgin money uk,"8,613","1,793 million usd",financial services
+822,,austria,3.873 billion usd,3.626 billion usd,3.656 billion usd,oberbank ag,,597 million usd,financial services
+823,,uk,,2.844 billion usd,3.638 billion usd,londonmetric property,,157 million usd,real estate
+824,,uk,2.734 billion usd,2.828 billion usd,3.637 billion usd,bovis homes group,,"2,137 million usd",consumer cyclical
+825,,finland,2.387 billion usd,3.909 billion usd,3.631 billion usd,tietoevry corporation,"23,632","3,114 million usd",technology
+826,,uk,,10.430 billion usd,3.624 billion usd,thg plc,"7,000","2,566 million usd",ecommerce
+827,,belgium,2.756 billion usd,2.611 billion usd,3.624 billion usd,compagnie d'entreprises cfe sa,,"1,125 million usd",industries
+828,,germany,2.951 billion usd,3.419 billion usd,3.624 billion usd,mainova ag,"2,853","3,741 million usd",utilities
+829,,sweden,,,3.623 billion usd,fortnox ab (publ),,99 million usd,technology
+830,,uk,3.403 billion usd,3.150 billion usd,3.610 billion usd,jet2 plc,,"1,450 million usd",industries
+831,,finland,3.693 billion usd,3.874 billion usd,3.609 billion usd,tietoevry oyj,"23,632","3,114 million usd",technology
+832,,uk,,2.855 billion usd,3.592 billion usd,vistry group,"1,227","3,130 million usd",real estate
+833,,france,3.476 billion usd,3.991 billion usd,3.592 billion usd,imerys,"16,300","4,833 million usd",basic materials
+834,,france,3.288 billion usd,3.257 billion usd,3.572 billion usd,sopra steria group sa,"46,000","5,164 million usd",technology
+835,,switzerland,1.887 billion usd,2.526 billion usd,3.564 billion usd,interroll holding ag,,664 million usd,industries
+836,,russia,2.999 billion usd,4.012 billion usd,3.556 billion usd,rostelecom,,"5,261 million usd",communication services
+837,,denmark,4.557 billion usd,3.196 billion usd,3.545 billion usd,iss a/s,"471,056","10,562 million usd",industries
+838,,luxembourg,3.661 billion usd,3.449 billion usd,3.545 billion usd,reinet investments,,"1,223 million usd",financial services
+839,,germany,2.458 billion usd,1.833 billion usd,3.534 billion usd,k+s,,"3,544 million usd",basic materials
+840,,switzerland,4.047 billion usd,4.755 billion usd,3.531 billion usd,idorsia ltd,,37 million usd,healthcare
+841,,poland,,,3.503 billion usd,bnp paribas bank polska s.a.,,"12,388 million usd",financial services
+842,,sweden,4.647 billion usd,3.828 billion usd,3.501 billion usd,saab ab (publ),,"4,150 million usd",industries
+843,,spain,3.173 billion usd,2.762 billion usd,3.501 billion usd,corporacion financiera alba,"1,783",259 million usd,financial services
+844,,switzerland,3.149 billion usd,3.622 billion usd,3.484 billion usd,allreal holding ag,,598 million usd,real estate
+845,,finland,0.589 billion usd,1.682 billion usd,3.456 billion usd,qt group oyj,,133 million usd,technology
+846,,germany,0.645 billion usd,1.976 billion usd,3.452 billion usd,tradegate ag wertpapierhandelsbank,,252 million usd,financial services
+847,,austria,1.254 billion usd,1.805 billion usd,3.440 billion usd,pierer mobility ag,"4,586","2,040 million usd",consumer cyclical
+848,,france,2.153 billion usd,2.302 billion usd,3.440 billion usd,rothschild & co sca,"3,500","2,761 million usd",financial services
+849,,uk,4.061 billion usd,3.747 billion usd,3.426 billion usd,quilter,"4,325","6,218 million usd",financial services
+850,,germany,2.307 billion usd,3.836 billion usd,3.426 billion usd,hypoport ag,"2,049",446 million usd,financial services
+851,,germany,2.984 billion usd,2.681 billion usd,3.412 billion usd,freenet ag,"4,004","2,555 million usd",communication services
+852,,uk,3.222 billion usd,2.965 billion usd,3.408 billion usd,britvic,"4,460","1,864 million usd",consumer defensive
+853,,switzerland,3.964 billion usd,3.423 billion usd,3.404 billion usd,oc oerlikon corporation ag,,"2,834 million usd",industries
+854,,sweden,1.531 billion usd,5.592 billion usd,3.403 billion usd,q-linea ab (publ),200,1 million usd,healthcare
+855,,belgium,13.756 billion usd,6.475 billion usd,3.397 billion usd,galapagos nv,"1,319",593 million usd,healthcare
+856,,switzerland,1.915 billion usd,2.207 billion usd,3.374 billion usd,inficon holding ag,,515 million usd,technology
+857,,finland,2.285 billion usd,2.656 billion usd,3.368 billion usd,cargotec corporation,"11,552","3,656 million usd",industries
+858,,germany,2.427 billion usd,2.541 billion usd,3.362 billion usd,krones ag,,"3,633 million usd",industries
+859,,uk,2.500 billion usd,2.591 billion usd,3.353 billion usd,onesavings bank,"1,828",,financial services
+860,,france,3.666 billion usd,3.575 billion usd,3.346 billion usd,gaztransport & technigaz sa,553,347 million usd,energy
+861,,uk,3.492 billion usd,3.278 billion usd,3.344 billion usd,hays,"11,377","7,760 million usd",industries
+862,,france,3.928 billion usd,4.005 billion usd,3.310 billion usd,korian,,"4,754 million usd",healthcare
+863,,netherlands,2.108 billion usd,2.199 billion usd,3.307 billion usd,basic-fit,"5,110",375 million usd,consumer cyclical
+864,,sweden,,,3.301 billion usd,cint group ab (publ),299,138 million usd,technology
+865,,germany,1.658 billion usd,1.817 billion usd,3.300 billion usd,kuka,"13,676","3,285 million usd",industries
+866,,sweden,2.981 billion usd,3.447 billion usd,3.297 billion usd,wihlborgs fastigheter ab (publ),236,324 million usd,real estate
+867,,uk,3.440 billion usd,2.753 billion usd,3.283 billion usd,redrow,"2,368","2,284 million usd",real estate
+868,,finland,2.484 billion usd,2.773 billion usd,3.269 billion usd,konecranes,,"3,513 million usd",industries
+869,,switzerland,3.788 billion usd,3.542 billion usd,3.263 billion usd,sulzer ltd,"15,054","3,376 million usd",industries
+870,,germany,2.400 billion usd,2.814 billion usd,3.263 billion usd,durr,,,industries
+871,,sweden,1.692 billion usd,2.633 billion usd,3.254 billion usd,bure equity ab (publ),350,,financial services
+872,,france,6.198 billion usd,4.950 billion usd,3.253 billion usd,rubis,,"4,588 million usd",utilities
+873,,france,2.299 billion usd,2.612 billion usd,3.250 billion usd,fromageries bel sa,,"4,078 million usd",consumer defensive
+874,,switzerland,2.719 billion usd,2.721 billion usd,3.242 billion usd,forbo holding ag,"5,317","1,342 million usd",industries
+875,,uk,,2.892 billion usd,3.236 billion usd,ninety one,,795 million usd,asset management
+876,,uk,1.562 billion usd,2.036 billion usd,3.236 billion usd,drax group,"3,015","6,865 million usd",utilities
+877,,switzerland,,,3.235 billion usd,softwareone holding ag,,"1,031 million usd",technology
+878,,uk,3.769 billion usd,2.989 billion usd,3.229 billion usd,shaftesbury,,149 million usd,real estate
+879,,germany,3.731 billion usd,2.902 billion usd,3.193 billion usd,sudzucker ag,"20,129","7,596 million usd",consumer defensive
+880,,romania,3.340 billion usd,2.695 billion usd,3.167 billion usd,sngn romgaz sa,,"1,306 million usd",energy
+881,,sweden,4.102 billion usd,3.170 billion usd,3.164 billion usd,intrum ab (publ),,"1,886 million usd",financial services
+882,,uk,,2.125 billion usd,3.158 billion usd,harbourvest global private equity limited,,"1,056 million usd",asset management
+883,,isle of man,1.681 billion usd,1.806 billion usd,3.142 billion usd,playtech,,"1,205 million usd",consumer cyclical
+884,,austria,2.734 billion usd,2.404 billion usd,3.140 billion usd,immofinanz ag,325,375 million usd,real estate
+885,,uk,2.174 billion usd,2.848 billion usd,3.132 billion usd,rws holdings,,921 million usd,industries
+886,,greece,3.148 billion usd,2.493 billion usd,3.128 billion usd,national bank of greece,"9,107","2,027 million usd",financial services
+887,,uk,2.474 billion usd,2.613 billion usd,3.119 billion usd,grainger,"23,100","13,022 million usd",real estate
+888,,sweden,,,3.108 billion usd,vimian group ab (publ),,173 million usd,consumer cyclical
+889,,france,4.908 billion usd,2.664 billion usd,3.096 billion usd,air france-klm sa,"82,132","15,789 million usd",industries
+890,,uk,2.658 billion usd,3.356 billion usd,3.094 billion usd,countryside properties,,"1,819 million usd",consumer cyclical
+891,,sweden,2.155 billion usd,2.448 billion usd,3.089 billion usd,jm ab (publ),,"1,659 million usd",consumer cyclical
+892,,uk,1.884 billion usd,2.846 billion usd,3.089 billion usd,pets at home group,,"1,551 million usd",consumer cyclical
+893,,uk,9.680 billion usd,4.274 billion usd,3.087 billion usd,technipfmc,"37,966","6,403 million usd",energy
+894,,sweden,0.551 billion usd,1.649 billion usd,3.077 billion usd,mips ab (publ),,64 million usd,consumer cyclical
+895,,uk,0.486 billion usd,3.668 billion usd,3.077 billion usd,itm power,190,5 million usd,technology
+896,,sweden,1.461 billion usd,2.209 billion usd,3.076 billion usd,arjo ab (publ),,961 million usd,healthcare
+897,,uk,1.985 billion usd,2.014 billion usd,3.070 billion usd,ultra electronics holdings,"4,500","1,001 million usd",industries
+898,,uk,,,3.069 billion usd,the schiehallion fund limited,,37 million usd,financial services
+899,,italy,2.668 billion usd,2.555 billion usd,3.061 billion usd,bper banca,"13,550",,financial services
+900,,russia,2.321 billion usd,3.618 billion usd,3.061 billion usd,sistema public joint stock financial corporation,,"13,186 million usd",conglomerate
+901,,sweden,1.542 billion usd,1.829 billion usd,3.059 billion usd,nyfosa ab (publ),67,261 million usd,real estate
+902,,russia,2.547 billion usd,2.498 billion usd,3.059 billion usd,credit bank of moscow (public joint-stock company),"9,000",,financial services
+903,,uk,,3.157 billion usd,3.051 billion usd,worldwide healthcare trust,333,-155 million usd,investments
+904,,russia,4.402 billion usd,4.751 billion usd,3.047 billion usd,rosseti,,"16,458 million usd",utilities
+905,,greece,3.355 billion usd,1.812 billion usd,3.045 billion usd,alpha bank,"10,528",-257 million usd,financial services
+906,,switzerland,0.744 billion usd,1.428 billion usd,3.039 billion usd,swissquote group holding ltd,,568 million usd,financial services
+907,,sweden,1.680 billion usd,2.691 billion usd,3.030 billion usd,nolato ab (publ),,"1,231 million usd",industries
+908,,luxembourg,1.459 billion usd,2.129 billion usd,3.027 billion usd,befesa,"1,137",821 million usd,industries
+909,,switzerland,1.671 billion usd,2.204 billion usd,3.015 billion usd,lem holding sa,,321 million usd,technology
+910,,france,1.956 billion usd,2.271 billion usd,3.013 billion usd,argan sa,,173 million usd,real estate
+911,,denmark,2.855 billion usd,2.585 billion usd,3.009 billion usd,dfds a/s,"8,213","2,645 million usd",industries
+912,,finland,,,3.004 billion usd,outokumpu oyj,"9,915","8,503 million usd",basic materials
+913,,sweden,2.643 billion usd,3.400 billion usd,2.997 billion usd,af poyry ab (publ),"17,000","2,131 million usd",industries
+914,,netherlands,4.564 billion usd,2.641 billion usd,2.991 billion usd,veon,"46,492","7,786 million usd",communication services
+915,,austria,2.614 billion usd,2.361 billion usd,2.989 billion usd,osterreichische post ag,,"2,778 million usd",industries
+916,,uk,1.430 billion usd,,2.985 billion usd,valaris,"4,500","1,451 million usd",energy
+917,,russia,5.159 billion usd,3.671 billion usd,2.985 billion usd,public joint stock oil company bashneft,,"13,435 million usd",energy
+918,,uk,3.615 billion usd,6.529 billion usd,2.984 billion usd,asos,"3,824","5,189 million usd",consumer cyclical
+919,,france,3.863 billion usd,2.881 billion usd,2.979 billion usd,covivio hotels societe anonyme,,"1,107 million usd",real estate
+920,,spain,2.812 billion usd,2.758 billion usd,2.978 billion usd,gestamp automocion,,"8,925 million usd",consumer cyclical
+921,,italy,0.860 billion usd,1.939 billion usd,2.970 billion usd,sesa,,"2,361 million usd",technology
+922,,uk,,2.181 billion usd,2.963 billion usd,caledonia investments,,728 million usd,investments
+923,,switzerland,,,2.958 billion usd,bystronic ag,,,industries
+924,,uk,3.189 billion usd,2.848 billion usd,2.954 billion usd,close brothers group,"3,000","1,204 million usd",financial services
+925,,spain,2.465 billion usd,3.277 billion usd,2.953 billion usd,viscofan,"4,609","1,069 million usd",consumer cyclical
+926,,spain,3.353 billion usd,3.548 billion usd,2.944 billion usd,ebro foods,,"2,677 million usd",consumer defensive
+927,,sweden,6.650 billion usd,3.333 billion usd,2.943 billion usd,hufvudstaden ab (publ),,280 million usd,real estate
+928,,france,5.055 billion usd,3.305 billion usd,2.928 billion usd,casino guichard-perrachon societe anonyme,,"34,251 million usd",consumer defensive
+929,,romania,,,2.921 billion usd,fondul proprietatea sa,,"1,143 million usd",financial services
+930,,switzerland,1.491 billion usd,1.961 billion usd,2.918 billion usd,medacta group sa,,400 million usd,healthcare
+931,,sweden,4.409 billion usd,3.229 billion usd,2.912 billion usd,pandox ab (publ),,347 million usd,consumer cyclical
+932,,spain,2.826 billion usd,3.275 billion usd,2.905 billion usd,vidrala,"3,500","1,196 million usd",consumer cyclical
+933,,sweden,0.830 billion usd,1.392 billion usd,2.898 billion usd,troax group ab (publ),,278 million usd,industries
+934,,france,0.787 billion usd,0.143 billion usd,2.890 billion usd,europcar mobility group,"8,999",0 million usd,industries
+935,,austria,3.137 billion usd,2.393 billion usd,2.888 billion usd,uniqa insurance group ag,,,financial services
+936,,france,2.153 billion usd,2.412 billion usd,2.884 billion usd,ramsay generale de sante sa,,"4,021 million usd",healthcare
+937,,italy,1.589 billion usd,2.333 billion usd,2.883 billion usd,carel industries,,333 million usd,technology
+938,,switzerland,2.776 billion usd,2.780 billion usd,2.878 billion usd,st. galler kantonalbank ag,,514 million usd,financial services
+939,,uk,,2.679 billion usd,2.872 billion usd,mercantile investment trust (the),,314 million usd,asset management
+940,,netherlands,3.838 billion usd,3.725 billion usd,2.871 billion usd,sbm offshore,"4,507","3,672 million usd",energy
+941,,denmark,1.402 billion usd,1.857 billion usd,2.871 billion usd,alm. brand a/s,"1,725",781 million usd,financial services
+942,,spain,1.800 billion usd,1.376 billion usd,2.871 billion usd,unicaja banco,,,financial services
+943,,uk,2.859 billion usd,2.780 billion usd,2.870 billion usd,victrex,900,413 million usd,basic materials
+944,,ireland,1.290 billion usd,2.907 billion usd,2.867 billion usd,keywords studios,,512 million usd,communication services
+945,,uk,1.234 billion usd,2.043 billion usd,2.861 billion usd,kainos group,,356 million usd,technology
+946,,germany,2.613 billion usd,3.020 billion usd,2.853 billion usd,software ag,,919 million usd,technology
+947,,italy,1.575 billion usd,2.321 billion usd,2.851 billion usd,falck renewables,,627 million usd,utilities
+948,,luxembourg,5.101 billion usd,3.925 billion usd,2.847 billion usd,millicom international cellular,"22,000","4,617 million usd",communication services
+949,,germany,2.449 billion usd,3.355 billion usd,2.845 billion usd,gerresheimer ag,"9,872","1,652 million usd",healthcare
+950,,uk,4.824 billion usd,4.202 billion usd,2.844 billion usd,ashmore group,,299 million usd,financial services
+951,,uk,,,2.837 billion usd,paysafe limited,,"1,487 million usd",technology
+952,,uk,,,2.828 billion usd,templeton emerging markets investment trust plc,,"1,257 million usd",financial services
+953,,sweden,2.081 billion usd,2.693 billion usd,2.825 billion usd,bravida holding ab (publ),,"2,319 million usd",industries
+954,,uk,,2.702 billion usd,2.823 billion usd,wh smith,"14,321","1,176 million usd",retail
+955,,poland,2.467 billion usd,2.333 billion usd,2.818 billion usd,orange polska,,"2,813 million usd",communication services
+956,,germany,2.097 billion usd,2.038 billion usd,2.818 billion usd,mvv energie ag,,"4,669 million usd",utilities
+957,,germany,,,2.816 billion usd,nagarro se,,546 million usd,technology
+958,,belgium,2.896 billion usd,2.929 billion usd,2.805 billion usd,solvac,,329 million usd,basic materials
+959,,germany,2.118 billion usd,2.612 billion usd,2.804 billion usd,kws saat se & co. kgaa,"5,709","1,310 million usd",consumer defensive
+960,,iceland,3.399 billion usd,3.356 billion usd,2.801 billion usd,ossur,"4,000",718 million usd,healthcare
+961,,france,3.784 billion usd,2.595 billion usd,2.792 billion usd,eutelsat communications,,"1,233 million usd",technology
+962,,uk,3.904 billion usd,2.439 billion usd,2.789 billion usd,ssp group,"39,549","1,107 million usd",consumer cyclical
+963,,russia,4.048 billion usd,3.817 billion usd,2.780 billion usd,federal grid company of unified energy system,,"3,900 million usd",utilities
+964,,germany,,,2.776 billion usd,h&k ag,,,industries
+965,,netherlands,1.863 billion usd,3.329 billion usd,2.773 billion usd,corbion,"2,267","1,180 million usd",basic materials
+966,,portugal,3.556 billion usd,2.267 billion usd,2.773 billion usd,banco comercial portugues,,,financial services
+967,,uk,,2.799 billion usd,2.770 billion usd,assura,,160 million usd,real estate
+968,,uk,2.233 billion usd,2.010 billion usd,2.768 billion usd,pagegroup,,"1,935 million usd",industries
+969,,luxembourg,3.439 billion usd,2.543 billion usd,2.767 billion usd,samsonite international,"14,500","2,020 million usd",consumer cyclical
+970,,uk,,2.666 billion usd,2.759 billion usd,finsbury growth & income trust,,279 million usd,asset management
+971,,portugal,,,2.759 billion usd,"the navigator company, s.a.",,"1,595 million usd",paper and pulp
+972,,belgium,1.729 billion usd,1.900 billion usd,2.753 billion usd,nv bekaert sa,,"5,337 million usd",industries
+973,,russia,2.795 billion usd,2.245 billion usd,2.748 billion usd,nizhnekamskneftekhim,,"2,527 million usd",basic materials
+974,,netherlands,1.817 billion usd,1.262 billion usd,2.738 billion usd,cnova,,"2,389 million usd",consumer cyclical
+975,,sweden,3.292 billion usd,2.711 billion usd,2.737 billion usd,atrium ljungberg ab (publ),,328 million usd,real estate
+976,,uk,2.325 billion usd,2.530 billion usd,2.733 billion usd,cranswick,"6,988","2,365 million usd",consumer defensive
+977,,norway,0.645 billion usd,1.170 billion usd,2.731 billion usd,arendals fossekompani asa,,476 million usd,utilities
+978,,malta,14.605 billion usd,22.595 billion usd,2.729 billion usd,kindred group,"1,564","1,671 million usd",consumer cyclical
+979,,sweden,0.898 billion usd,1.468 billion usd,2.727 billion usd,hms networks ab (publ),,209 million usd,technology
+980,,uk,,2.757 billion usd,2.721 billion usd,primary health properties,,192 million usd,real estate
+981,,sweden,1.107 billion usd,1.868 billion usd,2.714 billion usd,lagercrantz group ab (publ),,517 million usd,technology
+982,,uk,,1.735 billion usd,2.710 billion usd,hg capital trust,,803 million usd,asset management
+983,,france,2.514 billion usd,2.684 billion usd,2.703 billion usd,robertet sa,,606 million usd,basic materials
+984,,germany,1.029 billion usd,1.953 billion usd,2.702 billion usd,secunet security networks,,337 million usd,technology
+985,,malta,,,2.689 billion usd,unibet group plc,,,consumer cyclical
+986,,switzerland,2.957 billion usd,2.338 billion usd,2.673 billion usd,dormakaba holding ag,,"2,861 million usd",industries
+987,,norway,1.161 billion usd,1.127 billion usd,2.671 billion usd,wallenius wilhelmsen asa,,"3,884 million usd",industries
+988,,uk,2.181 billion usd,1.868 billion usd,2.668 billion usd,savills,,0 million usd,real estate
+989,,france,,,2.667 billion usd,technip energies n.v.,,"7,096 million usd",energy
+990,,spain,3.015 billion usd,2.548 billion usd,2.653 billion usd,compania de distribucion integral logista holdings,,"11,930 million usd",industries
+991,,france,1.847 billion usd,1.958 billion usd,2.648 billion usd,constellium se,,"6,150 million usd",basic materials
+992,,switzerland,0.980 billion usd,1.723 billion usd,2.647 billion usd,comet holding ag,,549 million usd,technology
+993,,denmark,0.867 billion usd,1.785 billion usd,2.638 billion usd,bavarian nordic a/s,,255 million usd,healthcare
+994,,germany,,,2.631 billion usd,encavis ag,,332 million usd,utilities
+995,,uk,1.945 billion usd,2.027 billion usd,2.620 billion usd,domino's pizza group,,743 million usd,consumer cyclical
+996,,germany,7.101 billion usd,10.737 billion usd,2.617 billion usd,teamviewer ag,"1,200",553 million usd,technology
+997,,germany,1.464 billion usd,2.013 billion usd,2.610 billion usd,gag immobilien ag,,390 million usd,real estate
+998,,france,2.794 billion usd,2.387 billion usd,2.600 billion usd,nexity sa,,"4,467 million usd",real estate
+999,,sweden,1.851 billion usd,2.225 billion usd,2.598 billion usd,fastpartner ab (publ),,175 million usd,real estate

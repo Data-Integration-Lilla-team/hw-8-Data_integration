@@ -1,0 +1,55 @@
+threshold:0.2
+address->('address', 0)
+est_of_ownership->('est_of_ownership', 0)
+hhid->('hhid', 0)('id', 0.5)('name', 0.25)('type', 0.25)
+id->('hhid', 0.5)('id', 0)('name', 0.25)('type', 0.25)
+industry->('industry', 0)
+name->('hhid', 0.25)('id', 0.25)('name', 0)('nation', 0.25)('type', 0.3333333333333333)
+nation->('name', 0.25)('nation', 0)
+sic_code->('sic_code', 0)
+type->('hhid', 0.25)('id', 0.25)('name', 0.3333333333333333)('type', 0)
+
+threshold:0.30000000000000004
+address->('address', 0)
+est_of_ownership->('est_of_ownership', 0)
+hhid->('hhid', 0)('id', 0.5)
+id->('hhid', 0.5)('id', 0)
+industry->('industry', 0)
+name->('name', 0)('type', 0.3333333333333333)
+nation->('nation', 0)
+sic_code->('sic_code', 0)
+type->('name', 0.3333333333333333)('type', 0)
+
+threshold:0.4
+address->('address', 0)
+est_of_ownership->('est_of_ownership', 0)
+hhid->('hhid', 0)('id', 0.5)
+id->('hhid', 0.5)('id', 0)
+industry->('industry', 0)
+name->('name', 0)
+nation->('nation', 0)
+sic_code->('sic_code', 0)
+type->('type', 0)
+
+threshold:0.5
+address->('address', 0)
+est_of_ownership->('est_of_ownership', 0)
+hhid->('hhid', 0)
+id->('id', 0)
+industry->('industry', 0)
+name->('name', 0)
+nation->('nation', 0)
+sic_code->('sic_code', 0)
+type->('type', 0)
+
+threshold:0.6
+address->('address', 0)
+est_of_ownership->('est_of_ownership', 0)
+hhid->('hhid', 0)
+id->('id', 0)
+industry->('industry', 0)
+name->('name', 0)
+nation->('nation', 0)
+sic_code->('sic_code', 0)
+type->('type', 0)
+

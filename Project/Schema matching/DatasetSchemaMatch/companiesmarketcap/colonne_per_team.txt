@@ -1,0 +1,8 @@
+'00-avengers.csv':['id', 'name', 'rank', 'market_cap', 'country', 'share_price', 'change_1_day', 'change_1_year', 'categories']
+'01-DDD.csv':['name', 'rank', 'marketcap', 'country', 'share_price', 'change1d', 'change1y', 'categories']
+'02-GioPonSpiz.csv':['name', 'codice', 'pricecap', 'price', 'country']
+'03-gren.csv':['name', 'market_capitalization_usd', 'price', 'country']
+'04-iGMM.csv':['name', 'code', 'rank', 'marketcap', 'country', 'shareprice', 'change_1day', 'change_1year', 'categories']
+'05-MalPatSaj.csv':['name', 'symbol', 'marketcap', 'price', 'country']
+'06-MarScoToc.csv':['name', 'master_cap', 'country', 'rank', 'share_price']
+'09-wissel.csv':['url', 'id', 'name', 'company_code', 'marketcap', 'share_price', 'earnings', 'revenue', 'shares', 'employees']

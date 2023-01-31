@@ -1,0 +1,961 @@
+,name,mastercap,country,industry,sector
+0,shell plc,doll_207.68 b,united kingdom,oil & gas integrated,energy
+1,astrazeneca plc,doll_201.75 b,united kingdom,drug manufacturersgeneral,healthcare
+2,linde plc,doll_166.07 b,united kingdom,specialty chemicals,basic materials
+3,hsbc holdings plc,doll_140.15 b,united kingdom,banks,financials
+4,rio tinto group,doll_125.84 b,united kingdom,other industrial metals & mining,basic materials
+5,unilever plc,doll_117.84 b,united kingdom,household & personal products,consumer staples
+6,diageo plc,doll_115.58 b,united kingdom,beverageswineries & distilleries,consumer staples
+7,glaxosmithkline plc,doll_109.98 b,united kingdom,drug manufacturersgeneral,healthcare
+8,british american tobacco plc,doll_101.44 b,united kingdom,tobacco,consumer staples
+9,bp plc,doll_96.24 b,united kingdom,oil & gas integrated,energy
+10,aon plc,doll_73.33 b,united kingdom,insurance brokers,financials
+11,anglo american plc,doll_71.48 b,united kingdom,other industrial metals & mining,basic materials
+12,reckitt benckiser group plc,"(march 13, 2021)",united kingdom,household & personal products,consumer staples
+13,relx plc,doll_58.53 b,united kingdom,publishing,communication services
+14,ihs markit ltd.,"(jan. 1, 2022)",united kingdom,consulting services,industrials
+15,national grid plc,doll_55.88 b,united kingdom,utilitiesdiversified,utilities
+16,london stock exchange group plc,doll_53.33 b,united kingdom,financial data & stock exchanges,financials
+17,general accident plc,doll_51.43 b,united kingdom,insuranceproperty & casualty,financials
+18,vodafone group plc,doll_45.74 b,united kingdom,telecom services,communication services
+19,lloyds banking group plc,doll_43.70 b,united kingdom,banks,financials
+20,prudential plc,doll_39.00 b,united kingdom,insurancelife,financials
+21,compass group plc,doll_37.73 b,united kingdom,restaurants,consumer discretionary
+22,natwest group plc,doll_32.72 b,united kingdom,banks,financials
+23,barclays plc,doll_32.19 b,united kingdom,banks,financials
+24,ferguson plc,doll_30.52 b,united kingdom,industrial distribution,industrials
+25,bae systems plc,doll_30.51 b,united kingdom,aerospace & defense,industrials
+26,willis towers watson plc,"(jan. 1, 2022)",united kingdom,insurance brokers,financials
+27,ashtead group plc,doll_28.28 b,united kingdom,rental & leasing services,industrials
+28,tesco plc,doll_28.11 b,united kingdom,grocery stores,consumer staples
+29,bt group plc,doll_24.09 b,united kingdom,telecom services,communication services
+30,sse plc,doll_23.73 b,united kingdom,utilitiesdiversified,utilities
+31,coca-cola europacific partners plc,doll_22.53 b,united kingdom,beveragesnon-alcoholic,consumer staples
+32,cnh industrial n.v.,doll_21.93 b,united kingdom,farm & heavy construction machinery,industrials
+33,legal & general group plc,doll_21.34 b,united kingdom,insurancelife,financials
+34,segro plc,doll_21.08 b,united kingdom,reitindustrial,real estate
+35,standard chartered plc,doll_20.78 b,united kingdom,banks,financials
+36,imperial brands plc,doll_20.14 b,united kingdom,tobacco,consumer staples
+37,aviva plc,doll_19.82 b,united kingdom,insurancediversified,financials
+38,croda international plc,"(jan. 1, 2022)",united kingdom,specialty chemicals,basic materials
+39,scottish mortgage investment trust plc,doll_18.78 b,united kingdom,asset management,financials
+40,antofagasta plc,"(jan. 1, 2022)",united kingdom,copper,basic materials
+41,3i group plc,doll_17.60 b,united kingdom,asset management,financials
+42,associated british foods plc,doll_17.49 b,united kingdom,packaged foods,consumer staples
+43,wpp plc,doll_15.76 b,united kingdom,advertising agencies,communication services
+44,smith & nephew plc,doll_14.09 b,united kingdom,medical devices,healthcare
+45,liberty global plc,doll_13.61 b,united kingdom,entertainment,communication services
+46,bunzl plc,doll_13.07 b,united kingdom,food distribution,consumer staples
+47,rentokil initial plc,doll_12.78 b,united kingdom,specialty business services,industrials
+48,intercontinental hotels group plc,doll_12.20 b,united kingdom,lodging,consumer discretionary
+49,evraz plc,"(jan. 1, 2022)",united kingdom,steel,basic materials
+50,spirax-sarco engineering plc,doll_12.14 b,united kingdom,specialty industrial machinery,industrials
+51,informa plc,doll_11.80 b,united kingdom,publishing,communication services
+52,ocado group plc,doll_11.54 b,united kingdom,grocery stores,consumer staples
+53,intertek group plc,doll_11.03 b,united kingdom,consulting services,industrials
+54,rolls-royce holdings plc,doll_10.97 b,united kingdom,aerospace & defense,industrials
+55,schroders plc,doll_10.48 b,united kingdom,asset management,financials
+56,next plc,doll_10.44 b,united kingdom,apparel retail,consumer discretionary
+57,united utilities group plc,doll_10.30 b,united kingdom,utilitiesregulated water,utilities
+58,st. james's place plc,doll_10.21 b,united kingdom,financial conglomerates,financials
+59,severn trent plc,doll_10.12 b,united kingdom,utilitiesregulated water,utilities
+60,jd sports fashion plc,doll_10.00 b,united kingdom,specialty retail,consumer discretionary
+61,admiral group plc,doll_9.96 b,united kingdom,insuranceproperty & casualty,financials
+62,the sage group plc,doll_9.83 b,united kingdom,softwareapplication,technology
+63,wm morrison supermarkets plc,"(oct. 1, 2021)",united kingdom,grocery stores,consumer staples
+64,aveva group plc,doll_9.60 b,united kingdom,softwareapplication,technology
+65,mondi plc,doll_9.51 b,united kingdom,paper & paper products,basic materials
+66,standard life aberdeen plc,"(march 13, 2021)",united kingdom,asset management,financials
+67,pentair plc,doll_9.32 b,united kingdom,specialty industrial machinery,industrials
+68,persimmon plc,doll_9.07 b,united kingdom,residential construction,consumer discretionary
+69,burberry group plc,doll_8.90 b,united kingdom,luxury goods,consumer discretionary
+70,novocure limited,doll_8.54 b,united kingdom,medical instruments & supplies,healthcare
+71,endava plc,doll_8.10 b,united kingdom,softwareinfrastructure,technology
+72,phoenix group holdings plc,doll_8.10 b,united kingdom,insurancelife,financials
+73,auto trader group plc,doll_8.03 b,united kingdom,internet content & information,communication services
+74,nepi rockcastle plc,doll_7.94 b,united kingdom,real estatediversified,real estate
+75,melrose industries plc,doll_7.93 b,united kingdom,specialty industrial machinery,industrials
+76,pershing square holdings ord,doll_7.88 b,united kingdom,asset management,financials
+77,capri holdings limited,doll_7.79 b,united kingdom,apparel manufacturing,consumer discretionary
+78,meggitt plc,doll_7.79 b,united kingdom,aerospace & defense,industrials
+79,land securities group plc,doll_7.76 b,united kingdom,reitdiversified,real estate
+80,m&g plc,doll_7.59 b,united kingdom,asset management,financials
+81,smiths group plc,doll_7.57 b,united kingdom,specialty industrial machinery,industrials
+82,whitbread plc,doll_7.55 b,united kingdom,restaurants,consumer discretionary
+83,pearson plc,doll_7.52 b,united kingdom,publishing,communication services
+84,j sainsbury plc,doll_7.42 b,united kingdom,grocery stores,consumer staples
+85,allfunds group plc,doll_7.28 b,united kingdom,asset management,financials
+86,kingfisher plc,doll_7.10 b,united kingdom,home improvement retail,consumer discretionary
+87,rightmove plc,doll_7.09 b,united kingdom,internet content & information,communication services
+88,airtel africa plc,doll_7.02 b,united kingdom,telecom services,communication services
+89,barratt developments plc,doll_7.02 b,united kingdom,residential construction,consumer discretionary
+90,intermediate capital group plc,doll_6.77 b,united kingdom,asset management,financials
+91,electrocomponents plc,doll_6.64 b,united kingdom,industrial distribution,industrials
+92,british land company plc,doll_6.51 b,united kingdom,reitdiversified,real estate
+93,endeavour mining corporation,doll_6.35 b,united kingdom,gold,basic materials
+94,taylor wimpey plc,doll_6.25 b,united kingdom,residential construction,consumer discretionary
+95,hargreaves lansdown plc,doll_6.25 b,united kingdom,asset management,financials
+96,the unite group plc,doll_6.12 b,united kingdom,reitdiversified,real estate
+97,janus henderson group plc,doll_6.10 b,united kingdom,asset management,financials
+98,the berkeley group holdings plc,doll_6.07 b,united kingdom,residential construction,consumer discretionary
+99,f&c investment trust plc,doll_6.06 b,united kingdom,asset management,financials
+100,pepco group n.v.,doll_6.03 b,united kingdom,discount stores,consumer staples
+101,howden joinery group plc,doll_5.98 b,united kingdom,"furnishings, fixtures & appliances",consumer discretionary
+102,nvent electric plc,doll_5.97 b,united kingdom,electrical equipment & parts,industrials
+103,investec plc,"(jan. 1, 2022)",united kingdom,capital markets,financials
+104,pennon group plc,doll_5.91 b,united kingdom,utilitiesregulated water,utilities
+105,ds smith plc,doll_5.78 b,united kingdom,packaging & containers,consumer discretionary
+106,the weir group plc,doll_5.74 b,united kingdom,specialty industrial machinery,industrials
+107,dechra pharmaceuticals plc,doll_5.72 b,united kingdom,drug manufacturersgeneral,healthcare
+108,sareum holdings plc,doll_5.60 b,united kingdom,biotechnology,healthcare
+109,convatec group plc,doll_5.49 b,united kingdom,medical instruments & supplies,healthcare
+110,tritax big box reit plc,doll_5.48 b,united kingdom,reitretail,real estate
+111,farfetch limited,doll_5.29 b,united kingdom,internet retail,consumer discretionary
+112,rit capital partners,doll_5.28 b,united kingdom,asset management,financials
+113,mimecast limited,doll_5.12 b,united kingdom,softwareinfrastructure,technology
+114,international game technology plc,doll_5.06 b,united kingdom,gambling,consumer discretionary
+115,direct line insurance group plc,doll_4.92 b,united kingdom,insurancediversified,financials
+116,derwent london plc,doll_4.82 b,united kingdom,reitoffice,real estate
+117,imi plc,doll_4.79 b,united kingdom,specialty industrial machinery,industrials
+118,johnson matthey plc,doll_4.79 b,united kingdom,specialty chemicals,basic materials
+119,hicl infrastructure plc,doll_4.59 b,united kingdom,asset management,financials
+120,wizz air holdings plc,doll_4.52 b,united kingdom,airlines,industrials
+121,atotech ltd,doll_4.48 b,united kingdom,electronic components,technology
+122,computacenter plc,doll_4.44 b,united kingdom,information technology services,technology
+123,frasers group plc,doll_4.33 b,united kingdom,specialty retail,consumer discretionary
+124,man group plc,doll_4.33 b,united kingdom,asset management,financials
+125,royal mail plc,doll_4.31 b,united kingdom,integrated freight & logistics,industrials
+126,softcat plc,doll_4.31 b,united kingdom,information technology services,technology
+127,itv plc,doll_4.30 b,united kingdom,broadcasting,communication services
+128,diploma plc,doll_4.25 b,united kingdom,industrial distribution,industrials
+129,rotork plc,"(jan. 1, 2022)",united kingdom,specialty industrial machinery,industrials
+130,abcam plc,doll_4.21 b,united kingdom,biotechnology,healthcare
+131,future plc,doll_4.20 b,united kingdom,publishing,communication services
+132,darktrace plc,doll_4.13 b,united kingdom,softwareinfrastructure,technology
+133,3i infrastructure plc,doll_4.11 b,united kingdom,asset management,financials
+134,drax group plc,doll_4.11 b,united kingdom,utilitiesrenewable,utilities
+135,ig group holdings plc,doll_4.04 b,united kingdom,capital markets,financials
+136,polar capital technology trust,doll_4.04 b,united kingdom,asset management,financials
+137,nomad foods limited,doll_4.04 b,united kingdom,packaged foods,consumer staples
+138,tate & lyle plc,doll_4.01 b,united kingdom,packaged foods,consumer staples
+139,livanova plc,doll_3.99 b,united kingdom,medical devices,healthcare
+140,william hill plc,"(march 13, 2021)",united kingdom,gambling,consumer discretionary
+141,bellway plc,doll_3.95 b,united kingdom,residential construction,consumer discretionary
+142,alliance trust plc,doll_3.93 b,united kingdom,asset management,financials
+143,greencoat uk wind plc,doll_3.92 b,united kingdom,asset management,financials
+144,atlantica sustainable infrastructure plc,doll_3.87 b,united kingdom,utilitiesrenewable,utilities
+145,safestore holdings plc,doll_3.76 b,united kingdom,reitindustrial,real estate
+146,homeserve plc,doll_3.72 b,united kingdom,specialty business services,industrials
+147,the renewables infrastructure group limited,doll_3.71 b,united kingdom,asset management,financials
+148,international public partnerships ld,doll_3.70 b,united kingdom,asset management,financials
+149,renishaw plc,doll_3.66 b,united kingdom,scientific & technical instruments,technology
+150,travis perkins plc,doll_3.63 b,united kingdom,building products & equipment,industrials
+151,technipfmc plc,doll_3.58 b,united kingdom,oil & gas equipment & services,energy
+152,watches of switzerland group plc,doll_3.57 b,united kingdom,luxury goods,consumer discretionary
+153,big yellow group plc,doll_3.57 b,united kingdom,reitindustrial,real estate
+154,beazley plc,doll_3.45 b,united kingdom,insuranceproperty & casualty,financials
+155,smithson investment trust plc,doll_3.43 b,united kingdom,asset management,financials
+156,monks investment trust,doll_3.42 b,united kingdom,asset management,financials
+157,inchcape plc,doll_3.41 b,united kingdom,auto & truck dealerships,consumer discretionary
+158,jet2 plc,doll_3.35 b,united kingdom,travel services,consumer discretionary
+159,osb group plc,doll_3.35 b,united kingdom,mortgage finance,financials
+160,greggs plc,doll_3.33 b,united kingdom,grocery stores,consumer staples
+161,easyjet plc,doll_3.33 b,united kingdom,airlines,industrials
+162,virgin money uk plc,doll_3.31 b,united kingdom,banks,financials
+163,londonmetric property plc,doll_3.31 b,united kingdom,reitdiversified,real estate
+164,dr. martens plc,doll_3.17 b,united kingdom,footwear & accessories,consumer discretionary
+165,quilter plc,doll_3.16 b,united kingdom,asset management,financials
+166,games workshop group plc,doll_3.14 b,united kingdom,leisure,consumer discretionary
+167,shaftesbury plc,doll_3.10 b,united kingdom,reitretail,real estate
+168,ultra electronics holdings plc,doll_3.10 b,united kingdom,aerospace & defense,industrials
+169,britvic plc,doll_2.93 b,united kingdom,beveragesnon-alcoholic,consumer staples
+170,dunelm group plc,doll_2.91 b,united kingdom,specialty retail,consumer discretionary
+171,energean plc,doll_2.83 b,united kingdom,oil & gas e&p,energy
+172,worldwide healthcare,doll_2.77 b,united kingdom,asset management,financials
+173,fevertree drinks plc,doll_2.77 b,united kingdom,beveragesnon-alcoholic,consumer staples
+174,vistry group plc,doll_2.76 b,united kingdom,residential construction,consumer discretionary
+175,hays plc,doll_2.69 b,united kingdom,staffing & employment services,industrials
+176,grainger plc,doll_2.68 b,united kingdom,real estate services,real estate
+177,itm power plc,doll_2.64 b,united kingdom,electronic components,technology
+178,primary health properties plc,doll_2.61 b,united kingdom,reithealthcare facilities,real estate
+179,witan investment trust plc,doll_2.60 b,united kingdom,asset management,financials
+180,caledonia investments plc,doll_2.59 b,united kingdom,asset management,financials
+181,"pershing square holdings, ltd.","(sept. 1, 2018)",united kingdom,asset management,financials
+182,deliveroo plc,doll_2.55 b,united kingdom,internet retail,consumer discretionary
+183,cranswick plc,doll_2.52 b,united kingdom,packaged foods,consumer staples
+184,great portland estates plc,"(jan. 1, 2022)",united kingdom,reitoffice,real estate
+185,hgcapital trust plc,doll_2.48 b,united kingdom,asset management,financials
+186,zimplats holdings limited,doll_2.48 b,united kingdom,other precious metals & mining,basic materials
+187,wh smith plc,doll_2.48 b,united kingdom,specialty retail,consumer discretionary
+188,finsbury growth & income trust plc,doll_2.46 b,united kingdom,asset management,financials
+189,redrow plc,doll_2.44 b,united kingdom,residential construction,consumer discretionary
+190,playtech plc,doll_2.44 b,united kingdom,gambling,consumer discretionary
+191,close brothers group plc,doll_2.43 b,united kingdom,capital markets,financials
+192,pets at home group plc,doll_2.37 b,united kingdom,specialty retail,consumer discretionary
+193,ssp group plc,doll_2.35 b,united kingdom,restaurants,consumer discretionary
+194,assura plc,doll_2.35 b,united kingdom,reithealthcare facilities,real estate
+195,diversey holdings ltd,doll_2.35 b,united kingdom,personal services,consumer discretionary
+196,the city of london investment trust plc,doll_2.34 b,united kingdom,asset management,financials
+197,serco group plc,doll_2.34 b,united kingdom,specialty business services,industrials
+198,manchester united plc,doll_2.33 b,united kingdom,leisure,consumer discretionary
+199,domino's pizza group plc,doll_2.32 b,united kingdom,restaurants,consumer discretionary
+200,vivo energy plc,doll_2.27 b,united kingdom,oil & gas refining & marketing,energy
+201,qinetiq group plc,doll_2.27 b,united kingdom,aerospace & defense,industrials
+202,mercantile investment trust (the) plc,doll_2.26 b,united kingdom,asset management,financials
+203,sequoia economic infrastructure inc ord,doll_2.24 b,united kingdom,asset management,financials
+204,balfour beatty plc,doll_2.24 b,united kingdom,engineering & construction,industrials
+205,kainos group plc,doll_2.22 b,united kingdom,softwareapplication,technology
+206,aggreko plc,"(march 13, 2021)",united kingdom,rental & leasing services,industrials
+207,personal assets trust,doll_2.18 b,united kingdom,asset management,financials
+208,babcock international group plc,doll_2.16 b,united kingdom,engineering & construction,industrials
+209,ashmore group plc,doll_2.14 b,united kingdom,asset management,financials
+210,murray international trust plc,doll_2.11 b,united kingdom,asset management,financials
+211,pagegroup plc,doll_2.11 b,united kingdom,staffing & employment services,industrials
+212,harbourvest global private equity limited,"(march 13, 2021)",united kingdom,asset management,financials
+213,gamesys group plc,"(march 13, 2021)",united kingdom,gambling,consumer discretionary
+214,john laing group plc,"(march 13, 2021)",united kingdom,engineering & construction,industrials
+215,dixons carphone plc,"(march 13, 2021)",united kingdom,specialty retail,consumer discretionary
+216,victrex plc,doll_2.06 b,united kingdom,specialty chemicals,basic materials
+217,s4 capital plc,doll_2.05 b,united kingdom,advertising agencies,communication services
+218,savills plc,doll_2.04 b,united kingdom,real estate services,real estate
+219,asos plc,doll_2.03 b,united kingdom,internet retail,consumer discretionary
+220,brewin dolphin holdings plc,doll_2.03 b,united kingdom,asset management,financials
+221,calisen plc,"(march 13, 2021)",united kingdom,electrical equipment & parts,industrials
+222,jpmorgan american investment trust plc,doll_1.98 b,united kingdom,asset management,financials
+223,burford capital limited,doll_1.97 b,united kingdom,asset management,financials
+224,yougov plc,doll_1.96 b,united kingdom,advertising agencies,communication services
+225,capital & counties properties plc,doll_1.95 b,united kingdom,reitretail,real estate
+226,sanne group plc,doll_1.94 b,united kingdom,asset management,financials
+227,secure income reit ord,doll_1.94 b,united kingdom,reitdiversified,real estate
+228,national express group plc,doll_1.92 b,united kingdom,railroads,industrials
+229,globaldata plc,doll_1.90 b,united kingdom,consulting services,industrials
+230,polypipe group plc,"(march 13, 2021)",united kingdom,building products & equipment,industrials
+231,tr property investment trust,doll_1.89 b,united kingdom,asset management,financials
+232,countryside properties plc,doll_1.87 b,united kingdom,residential construction,consumer discretionary
+233,spirent communications plc,doll_1.87 b,united kingdom,softwareinfrastructure,technology
+234,rws holdings plc,doll_1.87 b,united kingdom,consulting services,industrials
+235,integrafin holdings plc,doll_1.86 b,united kingdom,asset management,financials
+236,mitchells & butlers plc,doll_1.85 b,united kingdom,restaurants,consumer discretionary
+237,the bankers investment trust plc,doll_1.83 b,united kingdom,asset management,financials
+238,ascential plc,doll_1.83 b,united kingdom,advertising agencies,communication services
+239,micro focus international plc,doll_1.81 b,united kingdom,softwareinfrastructure,technology
+240,hammerson plc,doll_1.79 b,united kingdom,reitretail,real estate
+241,sirius real estate limited,doll_1.79 b,united kingdom,real estate services,real estate
+242,marshalls plc,doll_1.78 b,united kingdom,building materials,basic materials
+243,jpmorgan emerging markets investment trust plc,doll_1.78 b,united kingdom,asset management,financials
+244,ceres power holdings plc,doll_1.77 b,united kingdom,electrical equipment & parts,industrials
+245,blackrock world mining trust plc,doll_1.77 b,united kingdom,asset management,financials
+246,impax environmental markets trust plc,doll_1.74 b,united kingdom,asset management,financials
+247,james halstead plc,"(jan. 1, 2022)",united kingdom,building products & equipment,industrials
+248,hipgnosis songs fund limited,doll_1.71 b,united kingdom,asset management,financials
+249,alphawave ip group plc,doll_1.71 b,united kingdom,semiconductors,technology
+250,impax asset management group plc,doll_1.70 b,united kingdom,asset management,financials
+251,paragon banking group plc,doll_1.70 b,united kingdom,mortgage finance,financials
+252,contourglobal plc,doll_1.68 b,united kingdom,utilitiesrenewable,utilities
+253,synthomer plc,doll_1.68 b,united kingdom,specialty chemicals,basic materials
+254,oxford instruments plc,doll_1.67 b,united kingdom,semiconductor equipment & materials,technology
+255,aj bell plc,doll_1.66 b,united kingdom,capital markets,financials
+256,gamma communications plc,doll_1.66 b,united kingdom,telecom services,communication services
+257,cvs group plc,doll_1.65 b,united kingdom,personal services,consumer discretionary
+258,workspace group plc,doll_1.65 b,united kingdom,reitoffice,real estate
+259,rsa insurance group plc,doll_1.65 b,united kingdom,insuranceproperty & casualty,financials
+260,auction technology group plc,doll_1.64 b,united kingdom,softwareapplication,technology
+261,daily mail and general trust plc,"(jan. 1, 2022)",united kingdom,publishing,communication services
+262,blue prism group plc,"(jan. 1, 2022)",united kingdom,softwareinfrastructure,technology
+263,fidelity european values plc,doll_1.63 b,united kingdom,asset management,financials
+264,helios towers plc,doll_1.61 b,united kingdom,telecom services,communication services
+265,next fifteen communications group plc,doll_1.61 b,united kingdom,advertising agencies,communication services
+266,clinigen group plc,doll_1.61 b,united kingdom,medical distribution,healthcare
+267,trainline plc,doll_1.60 b,united kingdom,travel services,consumer discretionary
+268,aberforth smaller companies trust plc,doll_1.60 b,united kingdom,asset management,financials
+269,fdm group (holdings) plc,doll_1.60 b,united kingdom,information technology services,technology
+270,herald investment trust,doll_1.59 b,united kingdom,asset management,financials
+271,learning technologies group plc,doll_1.59 b,united kingdom,education & training services,consumer staples
+272,bodycote plc,doll_1.58 b,united kingdom,specialty industrial machinery,industrials
+273,atrium european real estate ltd,"(jan. 1, 2022)",united kingdom,real estate services,real estate
+274,telecom plus plc,doll_1.58 b,united kingdom,utilitiesdiversified,utilities
+275,draper esprit plc,doll_1.57 b,united kingdom,asset management,financials
+276,tp icap plc,doll_1.57 b,united kingdom,capital markets,financials
+277,hill & smith holdings plc,doll_1.55 b,united kingdom,engineering & construction,industrials
+278,bytes technology group plc,doll_1.54 b,united kingdom,softwareapplication,technology
+279,talktalk telecom group plc,"(march 13, 2021)",united kingdom,telecom services,communication services
+280,globalworth real estate investments limited,doll_1.54 b,united kingdom,real estate services,real estate
+281,rathbone brothers plc,doll_1.53 b,united kingdom,asset management,financials
+282,uk commercial property reit limited,doll_1.52 b,united kingdom,asset management,financials
+283,bbgi global infrastructure sa,doll_1.52 b,united kingdom,asset management,financials
+284,jupiter fund management plc,doll_1.50 b,united kingdom,asset management,financials
+285,octopus titan vct plc,"(jan. 1, 2022)",united kingdom,asset management,financials
+286,jtc plc,doll_1.49 b,united kingdom,asset management,financials
+287,aston martin lagonda global holdings plc,doll_1.49 b,united kingdom,auto manufacturers,consumer discretionary
+288,coats group plc,doll_1.46 b,united kingdom,textile manufacturing,consumer discretionary
+289,john wood group plc,doll_1.45 b,united kingdom,oil & gas integrated,energy
+290,cairn energy plc,doll_1.45 b,united kingdom,oil & gas e&p,energy
+291,clarkson plc,doll_1.44 b,united kingdom,marine shipping,industrials
+292,edinburgh investment trust plc,doll_1.43 b,united kingdom,asset management,financials
+293,serica energy plc,doll_1.43 b,united kingdom,oil & gas e&p,energy
+294,morgan sindall group plc,doll_1.43 b,united kingdom,engineering & construction,industrials
+295,avi global trust plc,doll_1.42 b,united kingdom,asset management,financials
+296,syncona limited,doll_1.42 b,united kingdom,asset management,financials
+297,euromoney institutional investor plc,doll_1.41 b,united kingdom,financial data & stock exchanges,financials
+298,redde northgate plc,doll_1.40 b,united kingdom,rental & leasing services,industrials
+299,ferroglobe plc,doll_1.38 b,united kingdom,other industrial metals & mining,basic materials
+300,victoria plc,doll_1.37 b,united kingdom,"furnishings, fixtures & appliances",consumer discretionary
+301,murray income trust plc,doll_1.36 b,united kingdom,asset management,financials
+302,moneysupermarket.com group plc,doll_1.36 b,united kingdom,internet content & information,communication services
+303,centamin plc,doll_1.36 b,united kingdom,gold,basic materials
+304,vectura group plc,"(oct. 1, 2021)",united kingdom,drug manufacturersgeneral,healthcare
+305,gb group plc,doll_1.35 b,united kingdom,softwareapplication,technology
+306,supermarket income reit plc,doll_1.35 b,united kingdom,reitretail,real estate
+307,currys plc,doll_1.34 b,united kingdom,specialty retail,consumer discretionary
+308,immunocore holdings plc,doll_1.34 b,united kingdom,biotechnology,healthcare
+309,apax global alpha limited,doll_1.33 b,united kingdom,asset management,financials
+310,premier foods plc,doll_1.33 b,united kingdom,packaged foods,consumer staples
+311,thg plc,doll_1.33 b,united kingdom,specialty retail,consumer discretionary
+312,hilton food group plc,doll_1.32 b,united kingdom,packaged foods,consumer staples
+313,jd wetherspoon plc,doll_1.31 b,united kingdom,restaurants,consumer discretionary
+314,biffa plc,doll_1.29 b,united kingdom,waste management,industrials
+315,gcp student living plc,"(dec. 1, 2021)",united kingdom,asset management,financials
+316,gcp infrastructure investments,doll_1.29 b,united kingdom,asset management,financials
+317,ti fluid systems plc,doll_1.28 b,united kingdom,auto parts,consumer discretionary
+318,"merian chrysalis investment co., ltd.",doll_1.28 b,united kingdom,asset management,financials
+319,spire healthcare group plc,doll_1.27 b,united kingdom,medical care facilities,healthcare
+320,essentra plc,doll_1.26 b,united kingdom,specialty chemicals,basic materials
+321,law debenture corporation plc,doll_1.26 b,united kingdom,asset management,financials
+322,clipper logistics plc,doll_1.24 b,united kingdom,integrated freight & logistics,industrials
+323,ip group plc,doll_1.24 b,united kingdom,asset management,financials
+324,vesuvius plc,doll_1.22 b,united kingdom,steel,basic materials
+325,st. modwen properties plc,"(march 13, 2021)",united kingdom,real estatedevelopment,real estate
+326,stolt-nielsen ltd,doll_1.22 b,united kingdom,marine shipping,industrials
+327,european opportunities trust plc,"(jan. 1, 2022)",united kingdom,asset management,financials
+328,lxi reit,doll_1.21 b,united kingdom,reitdiversified,real estate
+329,bmo commercial property trust,doll_1.21 b,united kingdom,asset management,financials
+330,bb healthcare trust plc,doll_1.19 b,united kingdom,asset management,financials
+331,just group plc,doll_1.18 b,united kingdom,insurancespecialty,financials
+332,schroder asiapacific fund plc,doll_1.18 b,united kingdom,asset management,financials
+333,sumo group plc,"(jan. 1, 2022)",united kingdom,electronic gaming & multimedia,communication services
+334,myovant sciences ltd.,doll_1.18 b,united kingdom,biotechnology,healthcare
+335,morgan advanced materials plc,doll_1.18 b,united kingdom,specialty industrial machinery,industrials
+336,smart metering systems plc,doll_1.17 b,united kingdom,electrical equipment & parts,industrials
+337,edinburgh worldwide investment trust plc,doll_1.16 b,united kingdom,asset management,financials
+338,emis group plc,doll_1.16 b,united kingdom,health information services,healthcare
+339,vinacapital vietnam opportunity fund limited,doll_1.14 b,united kingdom,asset management,financials
+340,kape technologies plc,doll_1.14 b,united kingdom,softwareinfrastructure,technology
+341,jpmorgan euro small co. trust plc,"(dec. 1, 2021)",united kingdom,asset management,financials
+342,alpha fx group plc,doll_1.13 b,united kingdom,capital markets,financials
+343,chemring group plc,doll_1.13 b,united kingdom,aerospace & defense,industrials
+344,cls holdings plc,doll_1.11 b,united kingdom,real estate services,real estate
+345,volution group plc,doll_1.09 b,united kingdom,building products & equipment,industrials
+346,scottish american investment company plc,doll_1.09 b,united kingdom,asset management,financials
+347,pz cussons plc,doll_1.08 b,united kingdom,household & personal products,consumer staples
+348,blackrock smaller companies trust,doll_1.07 b,united kingdom,asset management,financials
+349,jpmorgan japanese investment trust plc,doll_1.06 b,united kingdom,asset management,financials
+350,digital 9 infrastructure plc,doll_1.06 b,united kingdom,asset management,financials
+351,aberdeen total dynamic dividend fund,doll_1.06 b,united kingdom,asset management,financials
+352,standard life private equity trust plc,doll_1.06 b,united kingdom,asset management,financials
+353,mitie group plc,doll_1.05 b,united kingdom,specialty business services,industrials
+354,icg enterprise trust plc,doll_1.04 b,united kingdom,asset management,financials
+355,4imprint group plc,doll_1.04 b,united kingdom,advertising agencies,communication services
+356,sdcl energy efficiency income trust plc,doll_1.04 b,united kingdom,asset management,financials
+357,caretech holdings plc,doll_1.04 b,united kingdom,medical care facilities,healthcare
+358,"global ship lease, inc.",doll_1.03 b,united kingdom,marine shipping,industrials
+359,capital gearing trust plc,doll_1.03 b,united kingdom,asset management,financials
+360,liontrust asset management plc,doll_1.02 b,united kingdom,asset management,financials
+361,bicycle therapeutics plc,doll_1.02 b,united kingdom,biotechnology,healthcare
+362,stock spirits group plc,"(nov. 1, 2021)",united kingdom,beverageswineries & distilleries,consumer staples
+363,provident financial plc,doll_1.01 b,united kingdom,credit services,financials
+364,baillie gifford japan trust plc,doll_1.01 b,united kingdom,asset management,financials
+365,focusrite plc,doll_1.01 b,united kingdom,leisure,consumer discretionary
+366,temple bar investment trust plc,doll_998.7 m,united kingdom,asset management,financials
+367,pantheon resources plc,doll_997.0 m,united kingdom,oil & gas e&p,energy
+368,cmc markets plc,doll_985.2 m,united kingdom,capital markets,financials
+369,tullow oil plc,doll_983.5 m,united kingdom,oil & gas e&p,energy
+370,tr european growth trust plc,"(jan. 1, 2022)",united kingdom,asset management,financials
+371,henderson smaller companies investment trust,doll_960.6 m,united kingdom,asset management,financials
+372,ienergizer limited,doll_957.5 m,united kingdom,information technology services,technology
+373,baillie gifford us growth trust plc,doll_955.4 m,united kingdom,asset management,financials
+374,standard life uk smaller companies trust plc,"(dec. 1, 2021)",united kingdom,asset management,financials
+375,warehouse reit plc,doll_946.9 m,united kingdom,reitindustrial,real estate
+376,the merchants trust plc,doll_946.4 m,united kingdom,asset management,financials
+377,schroder oriental income fund limited,doll_945.6 m,united kingdom,asset management,financials
+378,nb private equity partners limited,doll_937.2 m,united kingdom,asset management,financials
+379,jpmorgan global growth & income plc,doll_931.6 m,united kingdom,asset management,financials
+380,elementis plc,doll_928.5 m,united kingdom,specialty chemicals,basic materials
+381,ibstock plc,doll_925.5 m,united kingdom,building materials,basic materials
+382,team17 group plc,doll_920.7 m,united kingdom,electronic gaming & multimedia,communication services
+383,crest nicholson holdings plc,doll_915.0 m,united kingdom,residential construction,consumer discretionary
+384,marlowe plc,doll_906.3 m,united kingdom,security & protection services,industrials
+385,yellow cake plc,doll_905.8 m,united kingdom,uranium,energy
+386,bh macro limited gbp,doll_904.5 m,united kingdom,asset management,financials
+387,blackrock throgmorton trust plc,doll_904.0 m,united kingdom,asset management,financials
+388,discoverie group plc,doll_903.9 m,united kingdom,electronic components,technology
+389,treatt plc,doll_903.4 m,united kingdom,specialty chemicals,basic materials
+390,mccarthy & stone plc,"(march 13, 2021)",united kingdom,medical care facilities,healthcare
+391,equiniti group plc,"(dec. 1, 2021)",united kingdom,softwareinfrastructure,technology
+392,"young & co.'s brewery, plc",doll_891.4 m,united kingdom,restaurants,consumer discretionary
+393,alternative credit investments plc,"(march 13, 2021)",united kingdom,asset management,financials
+394,watkin jones plc,doll_882.2 m,united kingdom,residential construction,consumer discretionary
+395,ergomed plc,doll_870.2 m,united kingdom,biotechnology,healthcare
+396,bakkavor group plc,doll_867.6 m,united kingdom,packaged foods,consumer staples
+397,the rank group plc,doll_853.8 m,united kingdom,gambling,consumer discretionary
+398,hochschild mining plc,doll_852.3 m,united kingdom,gold,basic materials
+399,third point investors limited,doll_836.6 m,united kingdom,asset management,financials
+400,alliance pharma plc,doll_834.5 m,united kingdom,drug manufacturersspecialty & generic,healthcare
+401,polar capital holdings plc,doll_830.3 m,united kingdom,asset management,financials
+402,centessa pharmaceuticals ltd,doll_830.1 m,united kingdom,biotechnology,healthcare
+403,tyman plc,doll_829.2 m,united kingdom,building products & equipment,industrials
+404,restore plc,doll_828.8 m,united kingdom,specialty business services,industrials
+405,ruffer investment company limited,doll_827.8 m,united kingdom,asset management,financials
+406,pacific horizon investment trust,doll_823.5 m,united kingdom,asset management,financials
+407,nextenergy solar ord,doll_817.8 m,united kingdom,asset management,financials
+408,genius sports ltd,doll_812.9 m,united kingdom,internet content & information,communication services
+409,"mas real estate, inc.","(nov. 1, 2021)",united kingdom,real estatediversified,real estate
+410,the vitec group plc,doll_803.4 m,united kingdom,consumer electronics,technology
+411,a.g. barr plc,doll_799.2 m,united kingdom,beveragesnon-alcoholic,consumer staples
+412,advanced medical solutions group plc,doll_793.7 m,united kingdom,medical instruments & supplies,healthcare
+413,the scottish investment trust plc,doll_791.8 m,united kingdom,asset management,financials
+414,jpmorgan indian investment trust plc,doll_785.9 m,united kingdom,asset management,financials
+415,keller group plc,doll_778.1 m,united kingdom,engineering & construction,industrials
+416,reach plc,doll_777.1 m,united kingdom,publishing,communication services
+417,bank of georgia group plc,doll_777.1 m,united kingdom,banks,financials
+418,mortgage advice bureau (holdings) plc,doll_771.4 m,united kingdom,mortgage finance,financials
+419,target healthcare reit plc,doll_769.6 m,united kingdom,reitdiversified,real estate
+420,sabre insurance group plc,doll_766.4 m,united kingdom,insurance brokers,financials
+421,m.p. evans group plc,doll_758.2 m,united kingdom,farm products,consumer staples
+422,hotel chocolat group plc,doll_756.6 m,united kingdom,confectioners,consumer staples
+423,stagecoach group plc,doll_751.1 m,united kingdom,railroads,industrials
+424,renew holdings plc,doll_744.0 m,united kingdom,engineering & construction,industrials
+425,rak petroleum plc,doll_737.4 m,united kingdom,oil & gas e&p,energy
+426,asia dragon trust plc,doll_737.0 m,united kingdom,asset management,financials
+427,oxford biomedica plc,doll_734.7 m,united kingdom,biotechnology,healthcare
+428,dfs furniture plc,doll_733.0 m,united kingdom,"furnishings, fixtures & appliances",consumer discretionary
+429,civitas social housing plc,doll_729.8 m,united kingdom,reitresidential,real estate
+430,ideagen plc,doll_728.4 m,united kingdom,softwareapplication,technology
+431,forterra plc,doll_725.5 m,united kingdom,building materials,basic materials
+432,harworth group plc,doll_723.6 m,united kingdom,real estatedevelopment,real estate
+433,picton property income limited,doll_722.2 m,united kingdom,reitdiversified,real estate
+434,empiric student property plc,doll_721.3 m,united kingdom,reitresidential,real estate
+435,greatland gold plc,doll_721.2 m,united kingdom,gold,basic materials
+436,goco group plc,"(march 13, 2021)",united kingdom,information technology services,technology
+437,stenprop ltd,"(nov. 1, 2021)",united kingdom,reitindustrial,real estate
+438,craneware plc,doll_718.9 m,united kingdom,health information services,healthcare
+439,integrated diagnostics holdings plc,doll_718.0 m,united kingdom,diagnostics & research,healthcare
+440,bluefield solar income fund limited,doll_717.5 m,united kingdom,asset management,financials
+441,sthree plc,doll_717.1 m,united kingdom,staffing & employment services,industrials
+442,twentyfour income ord,doll_716.5 m,united kingdom,asset management,financials
+443,fw thorpe plc,doll_714.9 m,united kingdom,electrical equipment & parts,industrials
+444,torm plc,doll_713.8 m,united kingdom,oil & gas midstream,energy
+445,north atlantic smaller companies,doll_712.9 m,united kingdom,asset management,financials
+446,the prs reit plc,doll_705.5 m,united kingdom,reitresidential,real estate
+447,scion tech growth i,doll_704.0 m,united kingdom,shell companies,financials
+448,boussard & gavaudan holdings eur,doll_695.3 m,united kingdom,asset management,financials
+449,navigator holdings ltd.,doll_691.8 m,united kingdom,oil & gas midstream,energy
+450,fd technologies plc,doll_690.5 m,united kingdom,information technology services,technology
+451,baillie gifford shin nippon plc,doll_690.2 m,united kingdom,asset management,financials
+452,mountview estates plc,doll_688.4 m,united kingdom,real estate services,real estate
+453,ncc group plc,doll_686.3 m,united kingdom,softwareapplication,technology
+454,imimobile plc,"(march 13, 2021)",united kingdom,softwareapplication,technology
+455,john menzies plc,doll_682.5 m,united kingdom,airports & air services,industrials
+456,johnson service group plc,doll_680.7 m,united kingdom,specialty business services,industrials
+457,marston's plc,doll_671.4 m,united kingdom,restaurants,consumer discretionary
+458,hunting plc,doll_669.9 m,united kingdom,oil & gas equipment & services,energy
+459,ecclesiastical insurance office plc,doll_666.8 m,united kingdom,insurancelife,financials
+460,senior plc,doll_662.6 m,united kingdom,aerospace & defense,industrials
+461,enquest plc,doll_661.5 m,united kingdom,oil & gas e&p,energy
+462,robert walters plc,doll_660.2 m,united kingdom,staffing & employment services,industrials
+463,blackrock greater europe investment trust plc,doll_659.8 m,united kingdom,asset management,financials
+464,nichols plc,doll_657.0 m,united kingdom,beveragesnon-alcoholic,consumer staples
+465,arrow global group plc,"(march 13, 2021)",united kingdom,asset management,financials
+466,halfords group plc,doll_650.1 m,united kingdom,specialty retail,consumer discretionary
+467,rdi reit plc,"(march 13, 2021)",united kingdom,reitdiversified,real estate
+468,urban logistics reit plc,doll_644.0 m,united kingdom,reitindustrial,real estate
+469,frontier developments plc,doll_635.6 m,united kingdom,electronic gaming & multimedia,communication services
+470,odfjell drilling ltd,doll_634.7 m,united kingdom,oil & gas drilling,energy
+471,helical plc,doll_632.1 m,united kingdom,real estate services,real estate
+472,genel energy plc,doll_631.9 m,united kingdom,oil & gas e&p,energy
+473,henderson far east income ltd,"(march 13, 2021)",united kingdom,asset management,financials
+474,wincanton plc,doll_629.7 m,united kingdom,integrated freight & logistics,industrials
+475,mid-wynd international investment trust plc,doll_625.9 m,united kingdom,asset management,financials
+476,alfa financial software holdings plc,doll_622.3 m,united kingdom,softwareapplication,technology
+477,the restaurant group plc,doll_616.3 m,united kingdom,restaurants,consumer discretionary
+478,schroder asian total return investment company plc,doll_612.1 m,united kingdom,asset management,financials
+479,tritax eurobox plc,"(march 13, 2021)",united kingdom,reitindustrial,real estate
+480,sig plc,doll_604.7 m,united kingdom,industrial distribution,industrials
+481,chesnara plc,doll_599.5 m,united kingdom,insurancelife,financials
+482,dunedin income growth investment trust,doll_592.4 m,united kingdom,asset management,financials
+483,silence therapeutics plc,"(nov. 1, 2021)",united kingdom,biotechnology,healthcare
+484,aberdeen standard asia focus plc,doll_584.2 m,united kingdom,asset management,financials
+485,gcp asset backed income fund limited,doll_580.1 m,united kingdom,asset management,financials
+486,cineworld group plc,doll_575.9 m,united kingdom,entertainment,communication services
+487,kin and carta plc,doll_574.8 m,united kingdom,specialty business services,industrials
+488,brunner investment trust plc,doll_574.7 m,united kingdom,asset management,financials
+489,impact healthcare reit plc,doll_567.3 m,united kingdom,reitdiversified,real estate
+490,scapa group plc,"(march 13, 2021)",united kingdom,specialty chemicals,basic materials
+491,north american income trust (the) plc,doll_566.7 m,united kingdom,asset management,financials
+492,european assets trust plc,doll_564.2 m,united kingdom,asset management,financials
+493,knot offshore partners lp,doll_562.5 m,united kingdom,marine shipping,industrials
+494,bh global limited,"(march 13, 2021)",united kingdom,asset management,financials
+495,jpmorgan claverhouse investment trust plc,doll_560.9 m,united kingdom,asset management,financials
+496,aberdeen global premier properties fund,doll_560.6 m,united kingdom,asset management,financials
+497,custodian reit ord,doll_559.0 m,united kingdom,reitdiversified,real estate
+498,oxford immunotec global plc,"(feb. 18, 2021)",united kingdom,diagnostics & research,healthcare
+499,ao world plc,doll_556.1 m,united kingdom,internet retail,consumer discretionary
+500,henry boot plc,doll_555.3 m,united kingdom,real estatediversified,real estate
+501,coinshares international ltd,doll_551.8 m,united kingdom,capital markets,financials
+502,volex plc,doll_549.6 m,united kingdom,electrical equipment & parts,industrials
+503,judges scientific plc,doll_545.0 m,united kingdom,scientific & technical instruments,technology
+504,paypoint plc,doll_542.9 m,united kingdom,information technology services,technology
+505,brooks macdonald group plc,doll_539.2 m,united kingdom,asset management,financials
+506,strix group plc,doll_537.9 m,united kingdom,electronic components,technology
+507,central asia metals plc,doll_535.2 m,united kingdom,copper,basic materials
+508,aberdeen asian income fund limited,doll_532.4 m,united kingdom,asset management,financials
+509,avon protection plc,doll_531.4 m,united kingdom,aerospace & defense,industrials
+510,avon rubber plc,doll_528.6 m,united kingdom,aerospace & defense,industrials
+511,jpmorgan global emerging markets income trust,doll_527.6 m,united kingdom,asset management,financials
+512,starwood european real estate finance ltd,doll_526.0 m,united kingdom,asset management,financials
+513,mattioli woods plc,doll_523.7 m,united kingdom,asset management,financials
+514,octopus renewables infrastructure trust plc,doll_523.1 m,united kingdom,asset management,financials
+515,lsl property services plc,doll_515.7 m,united kingdom,real estate services,real estate
+516,hollywood bowl group plc,doll_514.5 m,united kingdom,leisure,consumer discretionary
+517,urovant sciences ltd.,"(feb. 18, 2021)",united kingdom,biotechnology,healthcare
+518,diverse income trust,doll_511.9 m,united kingdom,asset management,financials
+519,panariagroup industrie ceramiche spa,doll_510.1 m,united kingdom,softwareinfrastructure,technology
+520,baillie gifford european growth trust plc,doll_508.2 m,united kingdom,asset management,financials
+521,anglo pacific group plc,doll_503.9 m,united kingdom,coking coal,basic materials
+522,kier group plc,doll_499.2 m,united kingdom,engineering & construction,industrials
+523,investindustrial acquisition corp.,"(dec. 1, 2021)",united kingdom,shell companies,financials
+524,pacific assets trust,doll_498.8 m,united kingdom,asset management,financials
+525,regional reit ltd,doll_498.8 m,united kingdom,reitdiversified,real estate
+526,on the beach group plc,doll_497.1 m,united kingdom,travel services,consumer discretionary
+527,phoenix spree deutschland limited,doll_496.7 m,united kingdom,reitresidential,real estate
+528,jpmorgan elect plc managed growth,doll_492.6 m,united kingdom,asset management,financials
+529,compass pathways plc,doll_492.2 m,united kingdom,medical care facilities,healthcare
+530,inspecs group plc,doll_491.8 m,united kingdom,medical instruments & supplies,healthcare
+531,jpmorgan asia growth & income plc,doll_490.7 m,united kingdom,asset management,financials
+532,kistos plc,doll_487.0 m,united kingdom,asset management,financials
+533,templeton emerging markets investment trust temit,doll_484.4 m,united kingdom,asset management,financials
+534,luxfer holdings plc,doll_483.8 m,united kingdom,specialty industrial machinery,industrials
+535,mj gleeson plc,doll_483.4 m,united kingdom,residential construction,consumer discretionary
+536,polar capital global healthcare trust,doll_477.7 m,united kingdom,asset management,financials
+537,petrofac limited,doll_472.4 m,united kingdom,oil & gas equipment & services,energy
+538,henderson european focus trust plc,doll_471.2 m,united kingdom,asset management,financials
+539,bloomsbury publishing plc,doll_470.9 m,united kingdom,publishing,communication services
+540,"fuller, smith & turner plc",doll_470.1 m,united kingdom,restaurants,consumer discretionary
+541,real estate credit investments limited,doll_470.1 m,united kingdom,asset management,financials
+542,pendragon plc,doll_468.4 m,united kingdom,auto & truck dealerships,consumer discretionary
+543,lowland investment company plc,doll_464.9 m,united kingdom,asset management,financials
+544,honeycomb investment trust plc,doll_463.3 m,united kingdom,asset management,financials
+545,standard life investments property income trust,doll_463.0 m,united kingdom,reitdiversified,real estate
+546,bmo private equity trust plc,doll_462.7 m,united kingdom,asset management,financials
+547,tt electronics plc,doll_461.9 m,united kingdom,electronic components,technology
+548,capita plc,doll_460.2 m,united kingdom,specialty business services,industrials
+549,lookers plc,doll_459.3 m,united kingdom,auto & truck dealerships,consumer discretionary
+550,alpha financial markets consulting plc,doll_458.9 m,united kingdom,consulting services,industrials
+551,bmo capital and income investment trust plc,doll_455.1 m,united kingdom,asset management,financials
+552,riverstone energy limited,doll_454.4 m,united kingdom,asset management,financials
+553,henderson international income trust,doll_453.6 m,united kingdom,asset management,financials
+554,accesso technology group plc,doll_450.9 m,united kingdom,softwareapplication,technology
+555,vp plc,doll_450.2 m,united kingdom,rental & leasing services,industrials
+556,devro plc,doll_449.0 m,united kingdom,packaged foods,consumer staples
+557,jubilee metals group plc,doll_445.2 m,united kingdom,other industrial metals & mining,basic materials
+558,eurasia mining plc,doll_440.4 m,united kingdom,other precious metals & mining,basic materials
+559,triple point social housing reit plc,doll_439.8 m,united kingdom,reitdiversified,real estate
+560,s&u plc,"(jan. 1, 2022)",united kingdom,credit services,financials
+561,saga plc,doll_434.4 m,united kingdom,insurancediversified,financials
+562,fidelity asian values plc,doll_433.7 m,united kingdom,asset management,financials
+563,aberdeen new india investment trust plc,doll_433.6 m,united kingdom,asset management,financials
+564,aberdeen diversified income and growth trust plc,doll_428.2 m,united kingdom,asset management,financials
+565,headlam group plc,doll_428.1 m,united kingdom,"furnishings, fixtures & appliances",consumer discretionary
+566,benchmark holdings plc,doll_427.1 m,united kingdom,drug manufacturersspecialty & generic,healthcare
+567,elixirr international plc,doll_424.0 m,united kingdom,consulting services,industrials
+568,aberdeen new dawn investment trust plc,doll_421.3 m,united kingdom,asset management,financials
+569,scion tech growth ii,doll_421.1 m,united kingdom,shell companies,financials
+570,luceco plc,doll_420.8 m,united kingdom,electrical equipment & parts,industrials
+571,the gym group plc,doll_417.0 m,united kingdom,leisure,consumer discretionary
+572,trian investors 1 ltd,doll_415.4 m,united kingdom,asset management,financials
+573,gresham house plc,doll_406.7 m,united kingdom,asset management,financials
+574,marshall motor holdings plc,doll_406.3 m,united kingdom,auto & truck dealerships,consumer discretionary
+575,fundsmith emerging equities trust plc,doll_405.3 m,united kingdom,asset management,financials
+576,jpmorgan china growth & income plc,doll_402.8 m,united kingdom,asset management,financials
+577,home reit plc,doll_399.0 m,united kingdom,reitdiversified,real estate
+578,audioboom group plc,doll_397.8 m,united kingdom,internet content & information,communication services
+579,pensionbee group plc,doll_392.8 m,united kingdom,softwareapplication,technology
+580,scottish oriental smaller companies trust plc,doll_391.4 m,united kingdom,asset management,financials
+581,frp advisory group plc,doll_391.2 m,united kingdom,capital markets,financials
+582,martin currie global portfolio investment trust,doll_390.9 m,united kingdom,asset management,financials
+583,afc energy plc,doll_390.7 m,united kingdom,electrical equipment & parts,industrials
+584,aberdeen standard european logistics income plc,doll_385.7 m,united kingdom,reitindustrial,real estate
+585,porvair plc,doll_385.4 m,united kingdom,pollution & treatment controls,industrials
+586,rps group plc,doll_384.6 m,united kingdom,consulting services,industrials
+587,adriatic metals plc,doll_379.9 m,united kingdom,other industrial metals & mining,basic materials
+588,vh global sustainable energy opportunities plc,doll_378.8 m,united kingdom,asset management,financials
+589,centralnic group plc,doll_377.9 m,united kingdom,internet content & information,communication services
+590,schroder real estate investment trust limited,doll_377.6 m,united kingdom,reitdiversified,real estate
+591,london security plc,"(march 13, 2021)",united kingdom,security & protection services,industrials
+592,funding circle holdings plc,doll_373.9 m,united kingdom,credit services,financials
+593,tracsis plc,doll_373.8 m,united kingdom,softwareapplication,technology
+594,amryt pharma plc,"(jan. 1, 2022)",united kingdom,drug manufacturersspecialty & generic,healthcare
+595,baillie gifford uk growth,doll_372.5 m,united kingdom,asset management,financials
+596,broadstone acquisition corp,"(dec. 1, 2021)",united kingdom,shell companies,financials
+597,speedy hire plc,doll_368.9 m,united kingdom,specialty business services,industrials
+598,idox plc,doll_368.2 m,united kingdom,softwareapplication,technology
+599,accsys technologies plc,doll_367.8 m,united kingdom,lumber & wood production,basic materials
+600,premier oil plc,"(march 13, 2021)",united kingdom,oil & gas e&p,energy
+601,brickability group plc,doll_365.0 m,united kingdom,industrial distribution,industrials
+602,argo blockchain plc,doll_362.5 m,united kingdom,capital markets,financials
+603,charles stanley group plc,"(jan. 1, 2022)",united kingdom,asset management,financials
+604,centricus acquisition corp,"(nov. 1, 2021)",united kingdom,shell companies,financials
+605,newriver reit plc,doll_359.7 m,united kingdom,reitretail,real estate
+606,mckay securities plc,doll_358.6 m,united kingdom,reitdiversified,real estate
+607,numis corporation plc,doll_358.4 m,united kingdom,capital markets,financials
+608,bacanora lithium plc,"(jan. 1, 2022)",united kingdom,other industrial metals & mining,basic materials
+609,photo-me international plc,doll_355.9 m,united kingdom,leisure,consumer discretionary
+610,xps pensions group plc,doll_352.9 m,united kingdom,personal services,consumer discretionary
+611,telit communications plc,"(march 13, 2021)",united kingdom,communication equipment,technology
+612,"aberdeen emerging markets equity income fund, inc.",doll_350.0 m,united kingdom,asset management,financials
+613,tatton asset management plc,doll_347.2 m,united kingdom,asset management,financials
+614,iqe plc,doll_346.8 m,united kingdom,semiconductor equipment & materials,technology
+615,international biotechnology trust,doll_346.3 m,united kingdom,asset management,financials
+616,aurora acquisition corp,doll_345.6 m,united kingdom,shell companies,financials
+617,naked wines plc,doll_344.9 m,united kingdom,beverageswineries & distilleries,consumer staples
+618,cvc credit partners european opportunities limited,doll_344.1 m,united kingdom,asset management,financials
+619,goodwin plc,doll_343.4 m,united kingdom,specialty industrial machinery,industrials
+620,savannah energy plc,doll_343.4 m,united kingdom,oil & gas e&p,energy
+621,ab dynamics plc,doll_341.2 m,united kingdom,auto parts,consumer discretionary
+622,unicorn aim vct plc,doll_341.0 m,united kingdom,asset management,financials
+623,motorpoint group plc,doll_339.2 m,united kingdom,auto & truck dealerships,consumer discretionary
+624,gooch & housego plc,doll_336.4 m,united kingdom,electronic components,technology
+625,blackrock frontiers investment trust plc,doll_336.3 m,united kingdom,asset management,financials
+626,jpmorgan smaller companies investment trust plc,doll_336.1 m,united kingdom,asset management,financials
+627,schroder japan growth fund plc,"(march 13, 2021)",united kingdom,asset management,financials
+628,city of london investment group plc,doll_335.0 m,united kingdom,asset management,financials
+629,horizonte minerals plc,doll_333.4 m,united kingdom,other industrial metals & mining,basic materials
+630,jpmorgan us smaller co. inv tst plc,doll_332.9 m,united kingdom,asset management,financials
+631,loungers plc,doll_330.3 m,united kingdom,restaurants,consumer discretionary
+632,troy income & growth trust plc,doll_328.7 m,united kingdom,asset management,financials
+633,premier miton group plc,doll_325.6 m,united kingdom,asset management,financials
+634,jpmorgan mid cap investment trust plc,doll_324.3 m,united kingdom,asset management,financials
+635,octopus apollo vct,doll_322.6 m,united kingdom,asset management,financials
+636,dignity plc,doll_322.0 m,united kingdom,personal services,consumer discretionary
+637,james latham plc,doll_321.3 m,united kingdom,industrial distribution,industrials
+638,the independent investment trust plc,doll_320.1 m,united kingdom,asset management,financials
+639,adaptimmune therapeutics plc,doll_315.8 m,united kingdom,biotechnology,healthcare
+640,eurocell plc,doll_315.3 m,united kingdom,building products & equipment,industrials
+641,gateley (holdings) plc,doll_314.9 m,united kingdom,consulting services,industrials
+642,i3 energy plc,doll_312.9 m,united kingdom,oil & gas e&p,energy
+643,cqs new city high yield fund limited,doll_311.8 m,united kingdom,asset management,financials
+644,invesco asia trust plc,doll_311.3 m,united kingdom,asset management,financials
+645,fidelity japan trust plc,doll_309.2 m,united kingdom,asset management,financials
+646,angle plc,doll_307.5 m,united kingdom,diagnostics & research,healthcare
+647,ricardo plc,doll_307.5 m,united kingdom,consulting services,industrials
+648,verona pharma plc,doll_307.5 m,united kingdom,biotechnology,healthcare
+649,autolus therapeutics plc,doll_307.3 m,united kingdom,biotechnology,healthcare
+650,secure trust bank plc,doll_306.4 m,united kingdom,banks,financials
+651,proton motor power systems plc,doll_305.4 m,united kingdom,electrical equipment & parts,industrials
+652,vertu motors plc,doll_304.3 m,united kingdom,auto & truck dealerships,consumer discretionary
+653,securities trust of scotland plc,doll_304.1 m,united kingdom,asset management,financials
+654,aa plc,"(march 13, 2021)",united kingdom,personal services,consumer discretionary
+655,wilmington plc,doll_302.2 m,united kingdom,conglomerates,industrials
+656,river and mercantile group plc,doll_300.5 m,united kingdom,asset management,financials
+657,augean plc,"(march 13, 2021)",united kingdom,waste management,industrials
+658,ted baker plc,doll_294.4 m,united kingdom,apparel retail,consumer discretionary
+659,augmentum fintech plc,doll_292.5 m,united kingdom,asset management,financials
+660,gemfields group limited,doll_291.7 m,united kingdom,other precious metals & mining,basic materials
+661,bmo real estate investments ltd,doll_291.5 m,united kingdom,reitdiversified,real estate
+662,henderson high income trust,doll_290.7 m,united kingdom,asset management,financials
+663,cerillion plc,doll_290.0 m,united kingdom,softwareapplication,technology
+664,fintel plc,doll_288.7 m,united kingdom,consulting services,industrials
+665,mears group plc,doll_286.6 m,united kingdom,specialty business services,industrials
+666,lindsell train investment trust,doll_286.5 m,united kingdom,asset management,financials
+667,petra diamonds limited,doll_285.6 m,united kingdom,other precious metals & mining,basic materials
+668,schroder uk public private trust plc,doll_285.5 m,united kingdom,asset management,financials
+669,tiziana life sciences plc,"(march 13, 2021)",united kingdom,biotechnology,healthcare
+670,ecofin global utilities & infrastructure trust plc,doll_284.3 m,united kingdom,asset management,financials
+671,nb global monthly income fund ltd gbp,doll_281.1 m,united kingdom,asset management,financials
+672,keystone law group plc,doll_276.8 m,united kingdom,personal services,consumer discretionary
+673,schroder income growth fund plc,doll_276.8 m,united kingdom,asset management,financials
+674,ekf diagnostics holdings plc,doll_275.4 m,united kingdom,diagnostics & research,healthcare
+675,afh financial group plc,"(march 13, 2021)",united kingdom,asset management,financials
+676,redx pharma plc,doll_274.0 m,united kingdom,biotechnology,healthcare
+677,cc japan income & growth trust plc,doll_272.8 m,united kingdom,asset management,financials
+678,montanaro uk smaller companies trust,doll_272.1 m,united kingdom,asset management,financials
+679,xaar plc,doll_271.7 m,united kingdom,electronic components,technology
+680,galliford try holdings plc,doll_267.5 m,united kingdom,engineering & construction,industrials
+681,city merchants high yield trust limited,"(march 13, 2021)",united kingdom,asset management,financials
+682,severfield plc,doll_266.2 m,united kingdom,engineering & construction,industrials
+683,jpmorgan japan small cap growth & income plc,doll_265.8 m,united kingdom,asset management,financials
+684,hargreave hale aim vct plc,doll_265.7 m,united kingdom,asset management,financials
+685,supreme plc,doll_265.6 m,united kingdom,electrical equipment & parts,industrials
+686,jpmorgan global core real assets limited,doll_265.1 m,united kingdom,asset management,financials
+687,norcros plc,doll_264.8 m,united kingdom,building products & equipment,industrials
+688,independent oil and gas plc,doll_264.7 m,united kingdom,oil & gas e&p,energy
+689,ilika plc,doll_264.5 m,united kingdom,electrical equipment & parts,industrials
+690,macfarlane group plc,doll_263.9 m,united kingdom,packaging & containers,consumer discretionary
+691,m&c saatchi plc,doll_262.6 m,united kingdom,advertising agencies,communication services
+692,schroder uk mid cap,doll_261.1 m,united kingdom,asset management,financials
+693,animalcare group plc,doll_260.5 m,united kingdom,medical care facilities,healthcare
+694,andrews sykes group plc,doll_258.3 m,united kingdom,rental & leasing services,industrials
+695,cohort plc,doll_257.4 m,united kingdom,aerospace & defense,industrials
+696,the simplybiz group plc,"(march 13, 2021)",united kingdom,consulting services,industrials
+697,aew uk reit ord,doll_253.7 m,united kingdom,reitdiversified,real estate
+698,hargreaves services plc,doll_253.1 m,united kingdom,integrated freight & logistics,industrials
+699,u and i group plc,"(dec. 1, 2021)",united kingdom,real estatediversified,real estate
+700,renalytix ai plc,doll_249.6 m,united kingdom,diagnostics & research,healthcare
+701,impellam group plc,doll_248.4 m,united kingdom,staffing & employment services,industrials
+702,hyve group plc,doll_247.5 m,united kingdom,specialty business services,industrials
+703,residential secure income plc,doll_247.5 m,united kingdom,reitresidential,real estate
+704,manchester & london investment trust plc,doll_247.3 m,united kingdom,asset management,financials
+705,baillie gifford china growth trust plc,doll_246.9 m,united kingdom,asset management,financials
+706,mulberry group plc,doll_246.6 m,united kingdom,footwear & accessories,consumer discretionary
+707,wandisco plc,doll_245.5 m,united kingdom,softwareapplication,technology
+708,medica group plc,doll_245.5 m,united kingdom,medical devices,healthcare
+709,the pebble group plc,doll_245.0 m,united kingdom,advertising agencies,communication services
+710,tribal group plc,doll_244.3 m,united kingdom,softwareapplication,technology
+711,water intelligence plc,doll_244.2 m,united kingdom,specialty business services,industrials
+712,strategic equity capital plc,doll_243.9 m,united kingdom,asset management,financials
+713,hurricane energy plc,doll_243.8 m,united kingdom,oil & gas e&p,energy
+714,science group plc,doll_243.4 m,united kingdom,consulting services,industrials
+715,tpximpact holdings plc,doll_240.2 m,united kingdom,information technology services,technology
+716,agronomics limited,doll_239.9 m,united kingdom,biotechnology,healthcare
+717,amati aim vct plc,doll_238.2 m,united kingdom,asset management,financials
+718,iomart group plc,doll_238.0 m,united kingdom,softwareinfrastructure,technology
+719,k3 capital group plc,doll_237.2 m,united kingdom,capital markets,financials
+720,avacta group plc,doll_232.9 m,united kingdom,biotechnology,healthcare
+721,quartix holdings plc,doll_232.6 m,united kingdom,scientific & technical instruments,technology
+722,curtis banks group plc,doll_231.8 m,united kingdom,asset management,financials
+723,sdi group plc,doll_230.6 m,united kingdom,scientific & technical instruments,technology
+724,begbies traynor group plc,doll_230.4 m,united kingdom,specialty business services,industrials
+725,aurora investment trust,doll_229.9 m,united kingdom,asset management,financials
+726,creo medical limited,doll_228.9 m,united kingdom,medical devices,healthcare
+727,aptitude software group plc,doll_228.8 m,united kingdom,softwareapplication,technology
+728,aberdeen standard equity income trust plc,doll_228.7 m,united kingdom,asset management,financials
+729,invesco perpetual uk smaller companies investment trust plc,doll_228.4 m,united kingdom,asset management,financials
+730,twentyfour select monthly income fund limited,doll_225.7 m,united kingdom,asset management,financials
+731,ten entertainment group plc,doll_225.2 m,united kingdom,leisure,consumer discretionary
+732,blackrock latin american investment trust plc,doll_224.6 m,united kingdom,asset management,financials
+733,pantheon international plc,doll_224.5 m,united kingdom,asset management,financials
+734,ediston property investment company plc,doll_223.1 m,united kingdom,reitdiversified,real estate
+735,bioventix plc,doll_222.6 m,united kingdom,biotechnology,healthcare
+736,jersey electricity plc,"(march 13, 2021)",united kingdom,utilitiesregulated electric,utilities
+737,time out group plc,doll_220.5 m,united kingdom,entertainment,communication services
+738,james fisher and sons plc,doll_220.3 m,united kingdom,specialty business services,industrials
+739,zoetic international plc,"(march 13, 2021)",united kingdom,drug manufacturersspecialty & generic,healthcare
+740,camellia plc,doll_217.4 m,united kingdom,farm products,consumer staples
+741,blancco technology group plc,doll_217.4 m,united kingdom,softwareinfrastructure,technology
+742,instem plc,doll_216.7 m,united kingdom,health information services,healthcare
+743,allergy therapeutics plc,doll_216.3 m,united kingdom,drug manufacturersspecialty & generic,healthcare
+744,octopus aim vct plc,doll_215.3 m,united kingdom,asset management,financials
+745,petropavlovsk plc,doll_212.6 m,united kingdom,gold,basic materials
+746,pensana plc,doll_212.0 m,united kingdom,other industrial metals & mining,basic materials
+747,first trust dynamic europe equity income fund,doll_211.0 m,united kingdom,asset management,financials
+748,invesco income growth trust plc,"(march 13, 2021)",united kingdom,asset management,financials
+749,bmo managed portfolio trust plc,doll_210.7 m,united kingdom,asset management,financials
+750,anexo group plc,doll_206.3 m,united kingdom,rental & leasing services,industrials
+751,tristel plc,doll_206.2 m,united kingdom,medical instruments & supplies,healthcare
+752,inspired plc,doll_206.0 m,united kingdom,specialty business services,industrials
+753,trifast plc,doll_205.2 m,united kingdom,tools & accessories,industrials
+754,card factory plc,doll_204.6 m,united kingdom,specialty retail,consumer discretionary
+755,churchill china plc,doll_203.8 m,united kingdom,"furnishings, fixtures & appliances",consumer discretionary
+756,jupiter us smaller companies plc,"(march 13, 2021)",united kingdom,asset management,financials
+757,arix bioscience plc,doll_203.6 m,united kingdom,biotechnology,healthcare
+758,zotefoams plc,doll_202.0 m,united kingdom,specialty chemicals,basic materials
+759,metro bank plc,doll_200.7 m,united kingdom,banks,financials
+760,nucleus financial group plc,"(march 13, 2021)",united kingdom,asset management,financials
+761,fonix mobile plc,doll_200.6 m,united kingdom,information technology services,technology
+762,schroder european real estate investment trust plc,doll_200.5 m,united kingdom,reitdiversified,real estate
+763,avi japan opportunity trust plc,doll_199.7 m,united kingdom,asset management,financials
+764,springfield properties plc,doll_199.7 m,united kingdom,residential construction,consumer discretionary
+765,novacyt sa,doll_198.2 m,united kingdom,diagnostics & research,healthcare
+766,gabelli value plus+ trust plc,"(march 13, 2021)",united kingdom,asset management,financials
+767,avingtrans plc,doll_196.9 m,united kingdom,specialty industrial machinery,industrials
+768,sigma capital group plc,"(march 13, 2021)",united kingdom,reitresidential,real estate
+769,middlefield canadian income pcc,doll_193.3 m,united kingdom,asset management,financials
+770,circassia group plc,doll_192.8 m,united kingdom,biotechnology,healthcare
+771,henderson diversified income trust plc,doll_191.2 m,united kingdom,asset management,financials
+772,studio retail group plc,"(jan. 1, 2022)",united kingdom,specialty retail,consumer discretionary
+773,foxtons group plc,doll_190.6 m,united kingdom,real estate services,real estate
+774,blackrock energy and resources income trust plc,doll_190.3 m,united kingdom,asset management,financials
+775,venator materials plc,doll_190.2 m,united kingdom,specialty chemicals,basic materials
+776,mercia asset management plc,doll_189.1 m,united kingdom,asset management,financials
+777,chenavari toro income fund ltd,doll_188.2 m,united kingdom,asset management,financials
+778,keystone positive change investment trust plc,doll_188.1 m,united kingdom,asset management,financials
+779,stv group plc,doll_188.0 m,united kingdom,broadcasting,communication services
+780,blackrock north american income trust plc,"(march 13, 2021)",united kingdom,asset management,financials
+781,proven vct plc,"(jan. 1, 2022)",united kingdom,asset management,financials
+782,arbuthnot banking group plc,doll_186.9 m,united kingdom,banks,financials
+783,m&g credit income investment trust plc,doll_186.8 m,united kingdom,asset management,financials
+784,franchise brands plc,doll_186.5 m,united kingdom,specialty business services,industrials
+785,bango plc,doll_186.4 m,united kingdom,information technology services,technology
+786,equals group plc,doll_183.2 m,united kingdom,credit services,financials
+787,duke royalty limited,doll_182.4 m,united kingdom,asset management,financials
+788,aberforth split level income trust plc,doll_182.1 m,united kingdom,asset management,financials
+789,n brown group plc,doll_180.7 m,united kingdom,internet retail,consumer discretionary
+790,carr's group plc,doll_180.0 m,united kingdom,farm products,consumer staples
+791,countrywide plc,"(march 13, 2021)",united kingdom,real estate services,real estate
+792,access intelligence plc,doll_179.9 m,united kingdom,softwareapplication,technology
+793,caledonia mining corporation plc,doll_179.0 m,united kingdom,gold,basic materials
+794,h&t group plc,doll_176.4 m,united kingdom,credit services,financials
+795,knights group holdings plc,doll_174.6 m,united kingdom,specialty business services,industrials
+796,mind gym plc,doll_174.3 m,united kingdom,specialty business services,industrials
+797,aquis exchange plc,doll_173.9 m,united kingdom,financial data & stock exchanges,financials
+798,tmt investments plc,doll_170.9 m,united kingdom,asset management,financials
+799,superdry plc,doll_170.6 m,united kingdom,apparel manufacturing,consumer discretionary
+800,castings plc,doll_169.0 m,united kingdom,specialty industrial machinery,industrials
+801,calnex solutions plc,doll_169.0 m,united kingdom,communication equipment,technology
+802,aberdeen income credit strategies fund,doll_168.3 m,united kingdom,asset management,financials
+803,sureserve group plc,doll_167.4 m,united kingdom,engineering & construction,industrials
+804,record plc,doll_166.8 m,united kingdom,asset management,financials
+805,trident royalties plc,doll_166.8 m,united kingdom,other industrial metals & mining,basic materials
+806,"alterola biotech, inc.",doll_165.9 m,united kingdom,drug manufacturersspecialty & generic,healthcare
+807,anpario plc,doll_165.7 m,united kingdom,packaged foods,consumer staples
+808,gresham technologies plc,doll_165.4 m,united kingdom,softwareapplication,technology
+809,shepherd neame ltd,doll_164.3 m,united kingdom,beveragesbrewers,consumer staples
+810,chariot ltd.,doll_163.9 m,united kingdom,oil & gas e&p,energy
+811,the character group plc,doll_163.7 m,united kingdom,leisure,consumer discretionary
+812,wynnstay group plc,doll_160.1 m,united kingdom,agricultural inputs,basic materials
+813,e-therapeutics plc,doll_160.0 m,united kingdom,biotechnology,healthcare
+814,pharos energy plc,doll_159.9 m,united kingdom,oil & gas e&p,energy
+815,amino technologies plc,"(march 13, 2021)",united kingdom,communication equipment,technology
+816,epwin group plc,doll_157.5 m,united kingdom,building products & equipment,industrials
+817,palace capital plc,doll_157.4 m,united kingdom,real estate services,real estate
+818,rm plc,doll_156.6 m,united kingdom,softwareapplication,technology
+819,global value fund limited,doll_155.0 m,united kingdom,asset management,financials
+820,james cropper plc,doll_154.7 m,united kingdom,paper & paper products,basic materials
+821,artemis alpha trust plc,doll_153.1 m,united kingdom,asset management,financials
+822,foresight enterprise vct plc,doll_153.0 m,united kingdom,asset management,financials
+823,dialight plc,doll_152.0 m,united kingdom,electrical equipment & parts,industrials
+824,rbg holdings plc,doll_150.1 m,united kingdom,specialty business services,industrials
+825,up global sourcing holdings plc,doll_148.5 m,united kingdom,specialty retail,consumer discretionary
+826,advanced oncotherapy plc,doll_147.5 m,united kingdom,medical devices,healthcare
+827,octopus aim vct 2 plc,doll_146.9 m,united kingdom,asset management,financials
+828,helios underwriting plc,doll_146.8 m,united kingdom,insuranceproperty & casualty,financials
+829,aferian plc,doll_146.8 m,united kingdom,broadcasting,communication services
+830,eagle eye solutions group plc,doll_146.4 m,united kingdom,softwareapplication,technology
+831,phoenix global resources plc,doll_146.2 m,united kingdom,oil & gas e&p,energy
+832,nwf group plc,doll_146.1 m,united kingdom,oil & gas refining & marketing,energy
+833,assetco plc,doll_145.9 m,united kingdom,security & protection services,industrials
+834,vaccitech plc,doll_145.5 m,united kingdom,biotechnology,healthcare
+835,edtechx holdings acquisition corp,doll_145.0 m,united kingdom,shell companies,financials
+836,eckoh plc,doll_144.6 m,united kingdom,information technology services,technology
+837,b.p. marsh & partners plc,doll_144.3 m,united kingdom,asset management,financials
+838,the property franchise group plc,doll_144.0 m,united kingdom,real estate services,real estate
+839,eco animal health group plc,doll_143.8 m,united kingdom,drug manufacturersspecialty & generic,healthcare
+840,hss hire group plc,doll_143.7 m,united kingdom,rental & leasing services,industrials
+841,powerhouse energy group plc,doll_143.5 m,united kingdom,utilitiesrenewable,utilities
+842,michelmersh brick holdings plc,doll_143.0 m,united kingdom,building materials,basic materials
+843,sanderson design group plc,doll_142.4 m,united kingdom,"furnishings, fixtures & appliances",consumer discretionary
+844,arecor therapeutics plc,doll_142.4 m,united kingdom,biotechnology,healthcare
+845,amedeo air four plus ltd,doll_141.7 m,united kingdom,aerospace & defense,industrials
+846,costain group plc,doll_141.2 m,united kingdom,engineering & construction,industrials
+847,esken limited,doll_140.8 m,united kingdom,conglomerates,industrials
+848,zoo digital group plc,doll_140.6 m,united kingdom,softwareapplication,technology
+849,the income & growth vct plc,doll_140.2 m,united kingdom,asset management,financials
+850,topps tiles plc,doll_139.9 m,united kingdom,home improvement retail,consumer discretionary
+851,downing one vct plc,doll_139.8 m,united kingdom,asset management,financials
+852,ep global opportunities trust,doll_139.1 m,united kingdom,asset management,financials
+853,northern venture trust plc,doll_138.9 m,united kingdom,asset management,financials
+854,kropz plc,doll_138.8 m,united kingdom,agricultural inputs,basic materials
+855,surface transforms plc,doll_137.7 m,united kingdom,auto parts,consumer discretionary
+856,warrego energy limited,doll_137.6 m,united kingdom,oil & gas e&p,energy
+857,walker greenbank plc,doll_137.0 m,united kingdom,"furnishings, fixtures & appliances",consumer discretionary
+858,manolete partners plc,doll_136.7 m,united kingdom,consulting services,industrials
+859,inland homes plc,doll_136.4 m,united kingdom,real estatedevelopment,real estate
+860,northern 3 vct plc,doll_135.9 m,united kingdom,asset management,financials
+861,shanta gold limited,doll_135.5 m,united kingdom,gold,basic materials
+862,mpac group plc,doll_135.3 m,united kingdom,specialty industrial machinery,industrials
+863,d4t4 solutions plc,doll_135.1 m,united kingdom,softwareapplication,technology
+864,bmo uk high income trust plc,doll_133.2 m,united kingdom,asset management,financials
+865,value and indexed property income trust plc,doll_132.1 m,united kingdom,asset management,financials
+866,solid state plc,doll_131.7 m,united kingdom,electronic components,technology
+867,personal group holdings plc,doll_131.5 m,united kingdom,insuranceproperty & casualty,financials
+868,northern 2 vct plc,doll_131.0 m,united kingdom,asset management,financials
+869,crystal amber fund ld,doll_129.9 m,united kingdom,asset management,financials
+870,capital & regional plc,doll_128.1 m,united kingdom,reitretail,real estate
+871,kitwave group plc,doll_127.6 m,united kingdom,food distribution,consumer staples
+872,staffline group plc,doll_127.3 m,united kingdom,staffing & employment services,industrials
+873,bluejay mining plc,doll_126.5 m,united kingdom,other industrial metals & mining,basic materials
+874,petronor e&p ltd,"(jan. 1, 2022)",united kingdom,oil & gas e&p,energy
+875,the fulham shore plc,doll_124.1 m,united kingdom,restaurants,consumer discretionary
+876,open orphan plc,doll_123.9 m,united kingdom,biotechnology,healthcare
+877,dianomi plc,doll_123.9 m,united kingdom,advertising agencies,communication services
+878,albion enterprise vct plc,doll_123.5 m,united kingdom,asset management,financials
+879,new star investment trust plc,doll_123.4 m,united kingdom,asset management,financials
+880,logistics development group plc,"(jan. 1, 2022)",united kingdom,integrated freight & logistics,industrials
+881,quixant plc,doll_123.0 m,united kingdom,computer hardware,technology
+882,belvoir group plc,doll_122.9 m,united kingdom,real estate services,real estate
+883,albion development vct plc,doll_122.7 m,united kingdom,asset management,financials
+884,doric nimrod air three ltd,doll_121.8 m,united kingdom,rental & leasing services,industrials
+885,achilles therapeutics plc,doll_121.7 m,united kingdom,biotechnology,healthcare
+886,nexus infrastructure plc,doll_121.7 m,united kingdom,engineering & construction,industrials
+887,beeks trading corporation ltd.,doll_121.1 m,united kingdom,softwareinfrastructure,technology
+888,celtic plc,doll_118.6 m,united kingdom,leisure,consumer discretionary
+889,schroder bsc social impact trust plc,doll_118.5 m,united kingdom,asset management,financials
+890,warpaint london plc,doll_118.5 m,united kingdom,household & personal products,consumer staples
+891,jpmorgan european investment trust plc,doll_118.3 m,united kingdom,asset management,financials
+892,dewhurst plc,doll_117.5 m,united kingdom,electrical equipment & parts,industrials
+893,the city pub group plc,doll_117.5 m,united kingdom,restaurants,consumer discretionary
+894,oncimmune holdings plc,doll_116.8 m,united kingdom,biotechnology,healthcare
+895,the conygar investment company plc,doll_115.8 m,united kingdom,real estatediversified,real estate
+896,flowtech fluidpower plc,doll_114.3 m,united kingdom,industrial distribution,industrials
+897,triple point energy efficiency infrastructure company plc,doll_114.2 m,united kingdom,asset management,financials
+898,trans-siberian gold plc,"(march 13, 2021)",united kingdom,gold,basic materials
+899,ferro-alloy resources limited,doll_113.5 m,united kingdom,other industrial metals & mining,basic materials
+900,afritin mining limited,doll_113.5 m,united kingdom,other industrial metals & mining,basic materials
+901,geiger counter ltd,doll_113.4 m,united kingdom,asset management,financials
+902,diaceutics plc,doll_113.0 m,united kingdom,biotechnology,healthcare
+903,aberdeen asia-pacific income investment company limited,doll_112.6 m,united kingdom,asset management,financials
+904,finsbury food group plc,doll_112.3 m,united kingdom,packaged foods,consumer staples
+905,mereo biopharma group plc,doll_112.1 m,united kingdom,biotechnology,healthcare
+906,sourcebio international plc,doll_112.0 m,united kingdom,medical care facilities,healthcare
+907,kr1 plc,doll_111.6 m,united kingdom,asset management,financials
+908,scancell holdings plc,doll_110.9 m,united kingdom,biotechnology,healthcare
+909,smiths news plc,doll_110.7 m,united kingdom,publishing,communication services
+910,gear4music (holdings) plc,doll_109.9 m,united kingdom,internet retail,consumer discretionary
+911,icg-longbow senior secured uk property debt investments,doll_109.6 m,united kingdom,asset management,financials
+912,gaming realms plc,doll_109.3 m,united kingdom,gambling,consumer discretionary
+913,netcall plc,doll_108.7 m,united kingdom,softwareapplication,technology
+914,invinity energy systems plc,doll_108.5 m,united kingdom,utilitiesdiversified,utilities
+915,portmeirion group plc,doll_108.2 m,united kingdom,"furnishings, fixtures & appliances",consumer discretionary
+916,distribution finance capital holdings plc,doll_108.2 m,united kingdom,credit services,financials
+917,velocys plc,doll_107.6 m,united kingdom,oil & gas equipment & services,energy
+918,4d pharma plc,doll_107.0 m,united kingdom,biotechnology,healthcare
+919,kooth plc,doll_106.4 m,united kingdom,internet content & information,communication services
+920,british smaller companies vct 2 plc,doll_106.3 m,united kingdom,asset management,financials
+921,frenkel topping group plc,doll_105.7 m,united kingdom,asset management,financials
+922,argentex group plc,doll_105.7 m,united kingdom,capital markets,financials
+923,town centre securities plc,doll_105.2 m,united kingdom,reitdiversified,real estate
+924,kkv secured loan fund limited,"(jan. 1, 2022)",united kingdom,asset management,financials
+925,cake box holdings plc,doll_104.9 m,united kingdom,grocery stores,consumer staples
+926,meridian mining s.e.,doll_104.4 m,united kingdom,other industrial metals & mining,basic materials
+927,air partner plc,doll_104.2 m,united kingdom,airports & air services,industrials
+928,eleco plc,doll_104.2 m,united kingdom,softwareapplication,technology
+929,maven income and growth vct 4 plc,doll_103.8 m,united kingdom,asset management,financials
+930,epe special opportunities limited,doll_103.7 m,united kingdom,asset management,financials
+931,rainbow rare earths limited,doll_102.0 m,united kingdom,other industrial metals & mining,basic materials
+932,gem diamonds limited,doll_101.8 m,united kingdom,other precious metals & mining,basic materials
+933,iqgeo group plc,doll_101.4 m,united kingdom,softwareapplication,technology
+934,zephyr energy plc,doll_101.3 m,united kingdom,oil & gas e&p,energy
+935,scs group plc,doll_101.3 m,united kingdom,specialty retail,consumer discretionary
+936,caspian sunrise plc,doll_101.0 m,united kingdom,oil & gas e&p,energy
+937,science in sport plc,doll_100.8 m,united kingdom,packaged foods,consumer staples
+938,enwell energy plc,doll_99.8 m,united kingdom,oil & gas e&p,energy
+939,accrol group holdings plc,doll_98.6 m,united kingdom,household & personal products,consumer staples
+940,ceiba investments ltd,doll_98.5 m,united kingdom,asset management,financials
+941,the alumasc group plc,doll_98.3 m,united kingdom,building products & equipment,industrials
+942,woodbois limited,doll_98.2 m,united kingdom,lumber & wood production,basic materials
+943,savannah resources plc,doll_97.4 m,united kingdom,other industrial metals & mining,basic materials
+944,virgin wines uk plc,doll_97.4 m,united kingdom,beverageswineries & distilleries,consumer staples
+945,xpediator plc,doll_95.7 m,united kingdom,integrated freight & logistics,industrials
+946,inspiration healthcare group plc,doll_95.4 m,united kingdom,medical devices,healthcare
+947,aquila energy efficiency trust plc,doll_95.3 m,united kingdom,asset management,financials
+948,purplebricks group plc,doll_95.2 m,united kingdom,real estate services,real estate
+949,mcbride plc,doll_94.8 m,united kingdom,household & personal products,consumer staples
+950,trinity exploration & production plc,doll_93.2 m,united kingdom,oil & gas e&p,energy
+951,braemar shipping services plc,doll_93.2 m,united kingdom,marine shipping,industrials
+952,arena events group plc,"(jan. 1, 2022)",united kingdom,advertising agencies,communication services
+953,geodrill limited,doll_92.3 m,united kingdom,other industrial metals & mining,basic materials
+954,onthemarket plc,doll_91.8 m,united kingdom,internet content & information,communication services
+955,shoe zone plc,doll_91.6 m,united kingdom,footwear & accessories,consumer discretionary
+956,real estate investors plc,doll_91.5 m,united kingdom,reitdiversified,real estate
+957,futura medical plc,doll_91.5 m,united kingdom,biotechnology,healthcare
+958,bespoke capital acquisition corp.,"(april 5, 2021)",united kingdom,shell companies,financials
+959,ig design group plc,doll_90.6 m,united kingdom,specialty retail,consumer discretionary

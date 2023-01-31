@@ -1,0 +1,1 @@
+'00-avengers.csv':['id', 'name', 'address', 'nation', 'hhid', 'industry', 'sic_code', 'type', 'est_of_ownership']

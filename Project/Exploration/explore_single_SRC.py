@@ -2,8 +2,9 @@
 import pandas as pd
 import os
 import numpy as np
-from parser_custom import Parser_custom
+
 from Levenshtein import distance
+from parser_custom import Parser_custom
 class Explorer:
     def __init__(self):
         pass
@@ -16,8 +17,9 @@ class Explorer:
         with open(fileTGT, 'w') as f:
     
             f.write(string)
+
 #crea un dizionario composto da:
-#1. nome team
+#1. nome file
 #2. path del csv
     def get_files_name(self,base_path):
         file_names=dict()                  
@@ -151,7 +153,16 @@ class Explorer:
         
         fig.savefig(os.path.join(base_path,name), bbox_inches='tight', transparent=True)
 
+
+
+    #INPUT: path del cluster di tabelle, nome sorgente
+    #ESEMPIO: 'ambitiobox': 'Project\\Dataset\\Clusters\\ambitiobox'
+    #OUTPUT: dizionario unificato dettato da correlazione nomi colonna, cluster dati
     def explore_single_data(self, base_path, src):
+
+        
+        print('PATH',src)           #nome del sorgente
+        print('Data path',base_path)    #path verso il folder del cluster
 
         base_path=base_path
 
@@ -161,19 +172,24 @@ class Explorer:
 
         file_matrice_correlazione='matrice_correlazioneLevinstein.txt'
 
+       
+
+        files_name=self.get_files_name(base_path)       #dizionario nome team, path table
+       
+
+
+
         
-
-        files_name=self.get_files_name(base_path)
-        print(files_name)
-
+        pars_data=Parser_custom()
         #compute columns: per ogni file definiamo le colonne
-        col4file=self.get_col_4_files(files_name)
+        col4file=self.get_col_4_files(files_name)               #lista di colonne per ogni dataset in un sorgente
         string=''
         #preparazioen stringa da scrivere
         for k in col4file.keys():
             string=string+'TEAM:'+k+'-> COLS: '+ str(col4file[k])+'\n'
 
         self.write_infos_on_file(file_all_columns4ds,base_path,string)
+        
 
         #creazione di un indice invertito dove andiamo ad inserire nome_colonna->doc
         print('inverted index')

@@ -1,0 +1,2 @@
+'09-wissel.csv':['url', 'id', 'name', 'company_id', 'company_status', 'company_type', 'registration_date', 'incorporation_date', 'dissolution_date', 'office_address']
+'10-DeBiGa.csv':['name', 'company_number', 'registered_office_address', 'company_status', 'company_type', 'company_creation_date', 'nature_of_business']

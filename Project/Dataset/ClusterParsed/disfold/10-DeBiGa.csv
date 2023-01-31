@@ -1,0 +1,1001 @@
+,name,market_cap,stock,country,sector,industry,headquarters,founded,employees,ceo
+0,"avis budget group, inc.",doll_18.12 b,car,united states,industrials,rental & leasing services,"parsippany,nj,unitedstates", 2006 ," 16,000", mr. joseph a. ferraro
+1,telefônica brasil sa,doll_20.19 b,viv,brazil,communication services,telecom services,"sã£opaulo,sp,brazil", 1998," 34,000", mr. christian  mauad gebara
+2,east japan railway company,doll_22.78 b,9020,japan,industrials,railroads,"tokyo,japan",," 71,973", mr. yuji  fukasawa
+3,twilio inc.,doll_26.09 b,twlo,united states,communication services,internet content & information,"sanfrancisco,ca,unitedstates", 2008," 7,867", mr. jeffrey  lawson
+4,"delta electronics, inc.",doll_24.05 b,2308,taiwan,technology,electronic components,"taipei,taiwan",,, mr. ping  cheng
+5,power corporation of canada,doll_21.48 b,pow,canada,financials,insurance—life,"montrã©al,qc,canada", 1925," 30,000", mr. robert jeffrey orr
+6,"expedia group, inc.",doll_27.91 b,expe,united states,consumer discretionary,travel services,"seattle,wa,unitedstates"," october 22, 1996"," 14,800", mr. peter maxwell kern
+7,croda international plc,doll_19.22 b,crda,united kingdom,basic materials,specialty chemicals,"goole,unitedkingdom", 1925," 4,000",
+8,"coupang, inc.",doll_30.53 b,cpng,south korea,consumer discretionary,internet retail,"seoul,southkorea",," 68,000", mr. bom suk  kim
+9,mplx lp,doll_35.27 b,mplx,united states,energy,oil & gas midstream,"findlay,oh,unitedstates", 1988," 1,139", mr. michael j. hennigan
+10,natwest group plc,doll_32.72 b,nwg,united kingdom,financials,banks,"edinburgh,unitedkingdom", 25 march 1968," 58,735", ms. alison marie rose-slade b.a.
+11,"dupont de nemours, inc.",doll_39.72 b,dd,united states,basic materials,chemicals,"wilmington,de,unitedstates"," september 1, 2017"," 28,000", mr. edward d. breen
+12,hp inc.,doll_43.90 b,hpq,united states,technology,computer hardware,"paloalto,ca,unitedstates"," january 1, 1939"," 51,000", mr. enrique j. lores
+13,"honda motor co., ltd.",doll_49.11 b,7267,japan,consumer discretionary,auto manufacturers,"tokyo,japan"," hamamatsu, japan october 1946, incorporated 24 september 1948"," 211,374", mr. toshihiro  mibe
+14,macquarie group limited,doll_55.99 b,mqg,australia,financials,capital markets,"sydney,nsw,australia", 1969," 17,209"," ms. shemara r. wikramanayake b.com., l.l.b., llb, bcom (unsw)"
+15,general motors company,doll_62.69 b,gm,united states,consumer discretionary,auto manufacturers,"detroit,mi,unitedstates"," september 16, 1908"," 157,000", ms. mary t. barra
+16,edwards lifesciences corporation,doll_73.38 b,ew,united states,healthcare,medical devices,"irvine,ca,unitedstates", 1958," 15,700", mr. michael a. mussallem
+17,zurich insurance group ag,doll_73.58 b,zurn,switzerland,financials,insurance—diversified,"zurich,switzerland",," 55,000", mr. mario  greco
+18,atlassian corporation plc,doll_73.72 b,team,australia,technology,software—application,"sydney,nsw,australia", 2002," 7,388", mr. michael  cannon-brookes
+19,"the tjx companies, inc.",doll_73.99 b,tjx,united states,consumer discretionary,apparel retail,"framingham,ma,unitedstates", 1987," 270,000", mr. ernie l. herrman
+20,"intercontinental exchange, inc.",doll_74.17 b,ice,united states,financials,financial data & stock exchanges,"atlanta,ga,unitedstates"," may 11, 2000"," 8,858", mr. jeffrey c. sprecher
+21,canadian natural resources limited,doll_74.78 b,cnq,canada,energy,oil & gas e&p,"calgary,ab,canada",," 9,735",
+22,truist financial corporation,doll_74.79 b,tfc,united states,financials,banks,"charlotte,nc,unitedstates", 1872," 50,283", mr. william henry rogers jr.
+23,"regeneron pharmaceuticals, inc.",doll_74.91 b,regn,united states,healthcare,biotechnology,"tarrytown,ny,unitedstates", 1988," 10,368"," dr. leonard s. schleifer m.d., ph.d."
+24,"gilead sciences, inc.",doll_76.15 b,gild,united states,healthcare,drug manufacturers—general,"fostercity,ca,unitedstates"," june 22, 1987"," 14,400", mr. daniel p.  o'day
+25,"becton, dickinson and company",doll_76.98 b,bdx,united states,healthcare,medical instruments & supplies,"franklinlakes,nj,unitedstates"," east rutherford, new jersey 1897"," 75,000", mr. thomas e. polen jr.
+26,"the pnc financial services group, inc.",doll_77.10 b,pnc,united states,financials,banks,"pittsburgh,pa,unitedstates"," april 10, 1845"," 57,668", mr. william s. demchak
+27,lam research corporation,doll_77.60 b,lrcx,united states,technology,semiconductor equipment & materials,"fremont,ca,unitedstates", 1980," 16,300", mr. timothy m. archer
+28,the southern company,doll_78.38 b,so,united states,utilities,utilities—regulated electric,"atlanta,ga,unitedstates", 1945," 27,027", mr. thomas a. fanning
+29,china petroleum & chemical corporation,doll_78.39 b,600028,china,energy,oil & gas integrated,"beijing,china"," beijing, china 25 february 2000"," 384,065",
+30,china yangtze power co. ltd,doll_78.42 b,600900,china,utilities,utilities—independent power producers,"beijing,china",," 3,985",
+31,kering sa,doll_78.66 b,ker,france,consumer discretionary,luxury goods,"paris,france",," 42,811", mr. franã§ois-henri  pinault
+32,bank of montreal,doll_79.22 b,bmo,canada,financials,banks,"montreal,qc,canada", montreal bank 23 june 1817," 43,863", mr. william darryl white
+33,tokyo electron ltd,doll_79.62 b,8035,japan,technology,semiconductor equipment & materials,"tokyo,japan",," 14,479", mr. toshiki  kawai
+34,u.s. bancorp,doll_80.16 b,usb,united states,financials,banks,"minneapolis,mn,unitedstates"," july 13, 1863"," 68,796", mr. andrew j. cecere
+35,essilorluxottica sa,doll_80.49 b,el,france,healthcare,medical instruments & supplies,"paris,france",," 144,888", mr. francesco  milleri
+36,crown castle international corp. (reit),doll_80.92 b,cci,united states,real estate,reit—specialty,"houston,tx,unitedstates", 1994," 5,000", mr. jay a. brown
+37,national australia bank limited,doll_81.03 b,nab,australia,financials,banks,"docklands,vic,australia", 1982," 32,741"," mr. ross maxwell mcewan b.b.s., cbe"
+38,"hca healthcare, inc.",doll_82.60 b,hca,united states,healthcare,medical care facilities,"nashville,tn,unitedstates", 1968," 204,000", mr. samuel n. hazen
+39,air liquide sa,doll_83.24 b,ai,france,basic materials,chemicals,"paris,france",," 66,400", mr. benoit  potier
+40,shopify inc.,doll_83.80 b,shop,canada,technology,software—application,"ottawa,on,canada", 2006," 10,000", mr. tobias  lã¼tke
+41,cigna corporation,doll_84.67 b,ci,united states,healthcare,healthcare plans,"bloomfield,ct,unitedstates", 1982," 72,226", mr. david michael cordani
+42,"mitsubishi ufj financial group, inc.",doll_85.03 b,8306,japan,financials,banks,"tokyo,japan"," october 1, 2005"," 132,700", mr. hironori  kamezawa
+43,"micron technology, inc.",doll_86.49 b,mu,united states,technology,semiconductors,"boise,id,unitedstates"," october 5, 1978"," 43,000", mr. sanjay  mehrotra
+44,"marsh & mclennan companies, inc.",doll_87.16 b,mmc,united states,financials,insurance brokers,"newyork,ny,unitedstates", 1905," 83,000", mr. daniel s. glaser
+45,cme group inc.,doll_87.17 b,cme,united states,financials,financial data & stock exchanges,"chicago,il,unitedstates", 1848," 3,480", mr. terrence a. duffy
+46,glencore plc,doll_87.31 b,glen,switzerland,basic materials,other industrial metals & mining,"baar,switzerland", 1974," 81,284", mr. gary  nagle
+47,brookfield asset management inc.,doll_87.46 b,bam.a,canada,financials,asset management,"toronto,on,canada", 1899," 150,000", mr. james bruce flatt
+48,the blackstone group inc.,doll_87.64 b,bx,united states,financials,asset management,"newyork,ny,unitedstates", 1985," 3,795"," mr. stephen allen schwarzman b.a., m.b.a."
+49,bank of nova scotia,doll_87.76 b,bns,canada,financials,banks,"halifax,ns,canada"," march 30, 1832"," 89,782"," mr. brian johnston porter a.m.p., b.com."
+50,duke energy corporation,doll_88.76 b,duk,united states,utilities,utilities—regulated electric,"charlotte,nc,unitedstates", 1904," 27,605", ms. lynn j. good
+51,3m company,doll_88.77 b,mmm,united states,industrials,specialty industrial machinery,"st.paul,mn,unitedstates"," june 13, 1902"," 95,000", mr. michael f. roman
+52,csl limited,doll_89.69 b,csl,australia,healthcare,biotechnology,"parkville,vic,australia", 1916," 25,000", mr. paul r. perreault b.a.
+53,zoetis inc.,doll_89.82 b,zts,united states,healthcare,drug manufacturers—specialty & generic,"parsippany,nj,unitedstates", 1952 ," 12,100", ms. kristin c. peck
+54,vulcan international corp,doll_90.34 b,vulc,united states,basic materials,chemicals,"wilmington,de,unitedstates",, 68,
+55,"jd.com, inc.",doll_90.46 b,9618,china,consumer discretionary,internet retail,"beijing,china", 6 june 2009," 310,000", mr. qiangdong  liu
+56,"mondelez international, inc.",doll_90.67 b,mdlz,united states,consumer staples,confectioners,"chicago,il,unitedstates"," december 10, 1923"," 79,000", mr. dirk  van de put
+57,merck kommanditgesellschaft auf aktien,doll_90.74 b,mrk,germany,healthcare,drug manufacturers—specialty & generic,"darmstadt,germany",," 60,334", ms. belen  garijo lopez m.d.
+58,deutsche telekom ag,doll_93.01 b,dte,germany,communication services,telecom services,"bonn,germany",," 216,528", mr. timotheus  hottges
+59,schneider electric se,doll_94.34 b,su,france,industrials,specialty industrial machinery,"rueil-malmaison,france",," 166,025", mr. jean-pascal  tricoire
+60,enbridge inc.,doll_94.94 b,enb,canada,energy,oil & gas midstream,"calgary,ab,canada"," april 30, 1949 as interprovincial pipe line company"," 10,900", mr. al  monaco
+61,canadian national railway company,doll_94.96 b,cnr,canada,industrials,railroads,"montreal,qc,canada", 6 june 1919," 22,604", ms. tracy a. robinson
+62,booking holdings inc.,doll_95.02 b,bkng,united states,consumer discretionary,travel services,"norwalk,ct,unitedstates", 1996," 20,097", mr. glenn d. fogel
+63,china shenhua energy company ltd,doll_95.34 b,601088,china,energy,thermal coal,"beijing,china",," 77,029",
+64,bp plc,doll_96.24 b,bp.,united kingdom,energy,oil & gas integrated,"london,unitedkingdom", 14 april 1909 as the anglo-persian oil company," 60,000",
+65,"automatic data processing, inc.",doll_96.98 b,adp,united states,industrials,staffing & employment services,"roseland,nj,unitedstates", 1949," 56,000", mr. carlos a. rodriguez
+66,"metlife, inc.",doll_62.69 b,met,united states,financials,insurance—life,"newyork,ny,unitedstates"," march 24, 1868"," 49,000", mr. michel abbas khalaf
+67,dassault systèmes se,doll_62.75 b,dsy,france,technology,software—application,"velizy-villacoublay,france",," 20,496", mr. bernard s. charles
+68,pacificorp,doll_62.87 b,ppwlm,united states,utilities,utilities—diversified,"portland,or,unitedstates",," 4,800", mr. william j. fehrman
+69,boston scientific corporation,doll_63.08 b,bsx,united states,healthcare,medical devices,, 1979," 41,000", mr. michael f. mahoney
+70,fedex corporation,doll_63.25 b,fdx,united states,industrials,integrated freight & logistics,"memphis,tn,unitedstates"," may 5, 1971"," 384,000", mr. frederick w. smith
+71,shin-etsu chemical co ltd,doll_63.43 b,4063,japan,basic materials,chemicals,"tokyo,japan",," 24,629",
+72,ap moller - maersk a-s,doll_64.40 b,maersk.b,denmark,industrials,marine shipping,"copenhagen,denmark",," 95,000", mr. soren  skou
+73,"sk hynix, inc.",doll_64.60 b,000660,south korea,technology,semiconductors,"icheon-si,southkorea",," 29,047",
+74,oriental land co. ltd,doll_64.66 b,4661,japan,consumer discretionary,leisure,"urayasu,japan",," 8,782", mr. toshio  kagami
+75,snowflake inc.,doll_65.04 b,snow,united states,technology,software—application,"sanmateo,ca,unitedstates"," july 23, 2012"," 2,495", mr. frank  slootman
+76,exelon corporation,doll_65.53 b,exc,united states,utilities,utilities—diversified,"chicago,il,unitedstates"," october 20, 2000"," 31,518", mr. christopher mark crane
+77,colgate-palmolive company,doll_65.64 b,cl,united states,consumer staples,household & personal products,"newyork,ny,unitedstates", 1806," 33,800", mr. noel r. wallace
+78,ford motor company,doll_65.74 b,f,united states,consumer discretionary,auto manufacturers,"dearborn,mi,unitedstates"," june 16, 1903"," 183,000", mr. james d. farley jr.
+79,newmont corporation,doll_65.89 b,nem,united states,basic materials,gold,"denver,co,unitedstates", 1921," 14,400", mr. thomas ronald palmer
+80,"equinix, inc. (reit)",doll_66.35 b,eqix,united states,real estate,reit—specialty,"redwoodcity,ca,unitedstates", 1998," 10,944", mr. charles j. meyers
+81,icici bank limited,doll_66.62 b,ibn,india,financials,banks,"mumbai,india", 5 january 1994," 98,750", mr. sandeep  bakhshi b.e.
+82,dbs group holdings ltd,doll_66.74 b,d05,singapore,financials,banks,"singapore,singapore",," 33,000", mr. piyush  gupta
+83,industrial bank co. ltd,doll_66.87 b,601166,china,financials,banks,"fuzhou,china",," 59,630",
+84,"waste management, inc.",doll_66.95 b,wm,united states,industrials,waste management,"houston,tx,unitedstates"," january 1, 1968"," 48,500", mr. james c. fish jr.
+85,abb ltd,doll_67.19 b,abbn,switzerland,industrials,electrical equipment & parts,"zurich,switzerland", 1988," 104,400",
+86,westpac banking corporation,doll_67.20 b,wbc,australia,financials,banks,"sydney,nsw,australia",," 40,143"," mr. peter francis king f.c.a., bec, fca"
+87,the progressive corporation,doll_67.31 b,pgr,united states,financials,insurance—property & casualty,"mayfield,oh,unitedstates"," march 10, 1937"," 49,077", ms. susan patricia griffith
+88,illinois tool works inc.,doll_67.49 b,itw,united states,industrials,specialty industrial machinery,"glenview,il,unitedstates", 1912," 45,000", mr. e. scott santi
+89,vertex pharmaceuticals incorporated,doll_67.49 b,vrtx,united states,healthcare,biotechnology,"boston,ma,unitedstates", 1989," 3,900"," dr. reshma  kewalramani fasn, m.d."
+90,the sherwin-williams company,doll_67.54 b,shw,united states,basic materials,specialty chemicals,"cleveland,oh,unitedstates"," cleveland, ohio, u.s. 1866"," 61,000", mr. john g. morikis
+91,bayer ag,doll_68.09 b,bayn,germany,healthcare,drug manufacturers—general,"leverkusen,germany",," 95,950", mr. werner  baumann
+92,recruit holdings co ltd,doll_68.11 b,6098,japan,industrials,staffing & employment services,"tokyo,japan",," 46,800", mr. hisayuki  idekoba
+93,"iberdrola, sa",doll_68.23 b,ibe,spain,utilities,utilities—diversified,"bilbao,spain",," 38,702", mr. jose ignacio  sanchez galan
+94,"fiserv, inc.",doll_68.68 b,fisv,united states,technology,information technology services,"brookfield,wi,unitedstates", 1984," 44,000", mr. frank j. bisignano
+95,sberbank of russia pjsc,doll_68.69 b,sber,russia,financials,banks,"moscow,russia",," 287,866", mr. herman oskarovich gref
+96,ubs group ag,doll_68.93 b,ubsg,switzerland,financials,banks,"zurich,switzerland", 29 june 1998," 71,385", mr. ralph a. j. g. hamers
+97,public storage,doll_69.31 b,psa,united states,real estate,reit—industrial,"glendale,ca,unitedstates", 1972," 5,800", mr. joseph d. russell jr.
+98,"américa móvil, s.a.b. de c.v.",doll_69.45 b,amxa,mexico,communication services,telecom services,"mexicocity,df,mexico", 1986," 181,205", mr. daniel hajj aboumrad
+99,bnp paribas sa,doll_69.90 b,bnp,france,financials,banks,"paris,france",," 190,000", mr. jean-laurent  bonnafe
+100,enel spa,doll_70.15 b,enel,italy,utilities,utilities—diversified,"rome,rm,italy",," 66,279", mr. francesco  starace
+101,"dominion energy, inc.",doll_70.20 b,d,united states,utilities,utilities—diversified,"richmond,va,unitedstates"," virginia, u.s. 1983"," 17,100", mr. robert m. blue
+102,axa sa,doll_70.20 b,cs,france,financials,insurance—diversified,"paris,france",," 106,128", dr. thomas  buberl
+103,general dynamics corporation,doll_70.55 b,gd,united states,industrials,aerospace & defense,," february 7, 1899"," 103,100", ms. phebe n. novakovic
+104,"moderna, inc.",doll_70.81 b,mrna,united states,healthcare,biotechnology,"cambridge,ma,unitedstates", september 2010," 2,700", mr. stephane  bancel
+105,anglo american plc,doll_71.48 b,aal,united kingdom,basic materials,other industrial metals & mining,"london,unitedkingdom", 1917," 106,000"," mr. mark  cutifani b.e., beng (mining), fellow ausimm, cengfimmm, dba"
+106,siemens healthineers ag,doll_71.50 b,shl,germany,healthcare,diagnostics & research,"erlangen,germany",," 66,800", dr. bernhard  montag
+107,"eog resources, inc.",doll_71.90 b,eog,united states,energy,oil & gas e&p,"houston,tx,unitedstates", 1999," 2,800", mr. ezra y. yacob
+108,pt bank central asia tbk,doll_71.91 b,bbca,indonesia,financials,banks,"jakarta,indonesia",," 25,370",
+109,wal-mart de mexico sab de cv,doll_71.96 b,walmex,mexico,consumer staples,discount stores,"mexicocity,df,mexico",," 231,259", mr. guilherme  de souza macedo loureiro
+110,freeport-mcmoran inc.,doll_72.16 b,fcx,united states,basic materials,copper,"phoenix,az,unitedstates", 1912," 24,700", mr. richard c. adkerson
+111,norfolk southern corporation,doll_72.31 b,nsc,united states,industrials,railroads,"norfolk,va,unitedstates"," july 23, 1980 in norfolk, virginia, united states"," 18,100", mr. james a. squires
+112,kddi corp,doll_73.12 b,9433,japan,communication services,telecom services,"tokyo,japan",," 47,320",
+113,northrop grumman corporation,doll_73.25 b,noc,united states,industrials,aerospace & defense,"fallschurch,va,unitedstates", 1994," 88,000", ms. kathy j. warden
+114,aon plc,doll_73.33 b,aon,united kingdom,financials,insurance brokers,"london,unitedkingdom", 1982," 50,000", mr. gregory clarence case
+115,bayerische motoren werke ag,doll_56.17 b,bmwb,germany,consumer discretionary,auto manufacturers,"munich,germany",," 118,909", mr. oliver  zipse
+116,bank of communications co. ltd,doll_56.38 b,601328,china,financials,banks,"shanghai,china",," 90,238",
+117,kla corporation,doll_56.48 b,klac,united states,technology,semiconductor equipment & materials,"milpitas,ca,unitedstates", 1997," 11,300", mr. richard p. wallace
+118,humana inc.,doll_56.55 b,hum,united states,healthcare,healthcare plans,"louisville,ky,unitedstates"," august 18, 1961"," 95,500", mr. bruce dale broussard
+119,tc energy corporation,doll_56.77 b,trp,canada,energy,oil & gas midstream,"calgary,ab,canada",," 7,017", mr. francois lionel poirier
+120,the saudi national bank,doll_56.89 b,1180,saudi arabia,financials,banks,"riyadh,saudiarabia",," 16,113", mr. saeed  bin mohammed a. al-ghamdi
+121,ihs markit ltd.,doll_56.94 b,info,united kingdom,industrials,consulting services,"london,unitedkingdom", 1959," 16,000",
+122,pinduoduo inc.,doll_57.09 b,pdd,china,consumer discretionary,internet retail,"shanghai,china",," 7,986", mr. lei  chen
+123,"marriott international, inc.",doll_57.18 b,mar,united states,consumer discretionary,lodging,"bethesda,md,unitedstates"," march 5, 1927"," 120,000", mr. anthony g. capuano jr.
+124,canadian imperial bank of commerce,doll_57.20 b,cm,canada,financials,banks,"toronto,on,canada"," june 1, 1961"," 46,030", mr. victor g. dodig
+125,mitsubishi corp,doll_57.23 b,8058,japan,industrials,conglomerates,"tokyo,japan",,, mr. takehiko  kakiuchi
+126,foshan haitian flavouring and food company ltd,doll_57.40 b,603288,china,consumer staples,packaged foods,"foshan,china",," 6,058",
+127,enterprise products partners l.p.,doll_57.43 b,epd,united states,energy,oil & gas midstream,"houston,tx,unitedstates", 1968," 7,000", mr. a. james teague
+128,itaú unibanco holding sa,doll_57.45 b,itub,brazil,financials,banks,"sã£opaulo,sp,brazil",," 99,600", mr. milton maluhy filho
+129,"marvell technology, inc.",doll_57.62 b,9mw,united states,technology,semiconductors,"wilmington,de,unitedstates",," 6,695", mr. matthew j. murphy
+130,schlumberger limited,doll_57.63 b,slb,united states,energy,oil & gas equipment & services,"houston,tx,unitedstates", 1926," 92,000", mr. olivier  le peuch
+131,pernod ricard sa,doll_57.75 b,ri,france,consumer staples,beverages—wineries & distilleries,"paris,france",," 18,500", mr. alexandre  ricard
+132,"air products and chemicals, inc.",doll_57.82 b,apd,united states,basic materials,chemicals,"allentown,pa,unitedstates", 1940," 20,000", mr. seifollah  ghasemi
+133,marvell technology group ltd.,doll_58.36 b,mrvl,bermuda,                                        technology                                    ,                                        semiconductors                                    ,"hamilton,bermuda", 1995," 6,695", mr. matthew j. murphy
+134,relx plc,doll_58.53 b,rel,united kingdom,communication services,publishing,"london,unitedkingdom", 1993," 33,500", mr. erik  engstrom
+135,"workday, inc.",doll_58.70 b,wday,united states,technology,software—application,"pleasanton,ca,unitedstates", march 2005," 15,200", mr. aneel  bhusri
+136,vinci sa,doll_59.01 b,dg,france,industrials,engineering & construction,"rueil-malmaison,france",," 218,569", mr. xavier m. p. huillard
+137,shenzhen mindray bio-medical electronics co. ltd,doll_59.26 b,300760,china,healthcare,medical devices,"shenzhen,china",," 11,833",
+138,southern copper corporation,doll_59.46 b,scco,united states,basic materials,copper,"phoenix,az,unitedstates", 1952," 14,700", mr. oscar  gonzalez rocha
+139,saudi telecom company,doll_59.47 b,7010,saudi arabia,communication services,telecom services,"riyadh,saudiarabia",,,
+140,nongfu spring co. ltd,doll_59.50 b,9633,china,consumer staples,beverages—non-alcoholic,"hangzhou,china",," 20,773",
+141,reckitt benckiser group plc,doll_59.53 b,rkt,united kingdom,consumer staples,household & personal products,"slough,unitedkingdom", 1814," 43,000",
+142,australia and new zealand banking group limited,doll_59.55 b,anz,australia,financials,banks,"melbourne,vic,australia", 1 october 1970," 39,684"," mr. shayne cary elliott b.com, b.com."
+143,"palo alto networks, inc.",doll_59.65 b,panw,united states,technology,software—infrastructure,"santaclara,ca,unitedstates", 2005," 11,527", mr. nikesh  arora c.f.a.
+144,emerson electric co.,doll_59.66 b,emr,united states,industrials,specialty industrial machinery,"saintlouis,mo,unitedstates", 1890," 86,700", mr. surendralal lanca karsanbhai
+145,capital one financial corporation,doll_59.67 b,cof,united states,financials,credit services,"mclean,va,unitedstates"," july 21, 1994"," 50,767", mr. richard d. fairbank
+146,hong kong exchanges & clearing ltd,doll_59.75 b,0388,hong kong,financials,financial data & stock exchanges,"central,hongkong",," 2,146", mr. alejandro nicolas  aguzin
+147,"netease, inc.",doll_59.76 b,9999,china,communication services,internet content & information,"hangzhou,china", june 1997," 18,129", mr. lei  ding
+148,deutsche post ag,doll_59.80 b,dpwa,germany,industrials,integrated freight & logistics,"bonn,germany",," 548,042", dr. frank  appel
+149,"block, inc.",doll_59.95 b,sq,united states,technology,software—infrastructure,"sanfrancisco,ca,unitedstates"," february 14, 2009"," 8,521", mr. jack  dorsey
+150,nutrien ltd.,doll_60.06 b,ntr,canada,basic materials,agricultural inputs,"saskatoon,sk,canada",," 23,500", mr. kenneth a. seitz
+151,cnooc limited,doll_60.19 b,0883,hong kong,energy,oil & gas e&p,"central,hongkong", august 1999," 18,151", mr. keqiang  xu
+152,atlas copco ab,doll_60.97 b,atco.a,sweden,industrials,specialty industrial machinery,"nacka,sweden",," 42,862", mr. mats  rahmstrã¶m
+153,adyen n.v.,doll_61.11 b,adyen,netherlands,technology,software—infrastructure,"amsterdam,netherlands",," 2,180", mr. pieter willem van der does
+154,hapag-lloyd ag,doll_61.46 b,hlag,germany,industrials,marine shipping,"hamburg,germany",," 14,106", mr. rolf habben jansen
+155,"banco santander, sa",doll_61.67 b,san,spain,financials,banks,"madrid,spain", 15 may 1857," 177,033", mr. jose antonio  alvarez alvarez
+156,"fidelity national information services, inc.",doll_61.73 b,fis,united states,technology,information technology services,"jacksonville,fl,unitedstates", 1968," 65,000", mr. gary adam norcross
+157,"analog devices, inc.",doll_62.00 b,adi,united states,technology,semiconductors,"norwood,ma,unitedstates"," cambridge, massachusetts, united states 1965"," 24,700", mr. vincent t. roche
+158,eaton corporation plc,doll_62.17 b,etn,ireland,industrials,specialty industrial machinery,"dublin,ireland", 1911," 85,947", mr. craig  arnold
+159,pioneer natural resources company,doll_62.19 b,pxd,united states,energy,oil & gas e&p,"irving,tx,unitedstates", 1997," 1,932", mr. scott douglas sheffield
+160,nintendo co ltd,doll_62.20 b,7974,japan,communication services,electronic gaming & multimedia,"kyoto,japan",," 6,574",
+161,moody's corporation,doll_62.58 b,mco,united states,financials,financial data & stock exchanges,"newyork,ny,unitedstates", 1909 ," 13,460", mr. robert scott fauber
+162,"uber technologies, inc.",doll_62.66 b,uber,united states,technology,software—application,"sanfrancisco,ca,unitedstates", march 2009," 29,300", mr. dara  khosrowshahi
+163,sea limited,doll_62.66 b,se,singapore,communication services,electronic gaming & multimedia,"singapore,singapore",," 29,800", mr. xiaodong  li
+164,"paychex, inc.",doll_49.23 b,payx,united states,industrials,staffing & employment services,"rochester,ny,unitedstates", 1971," 15,000", mr. martin  mucci
+165,centene corporation,doll_49.32 b,cnc,united states,healthcare,healthcare plans,"st.louis,mo,unitedstates", 1984," 72,500", ms. sarah m. london
+166,the kraft heinz company,doll_49.42 b,khc,united states,consumer staples,packaged foods,"pittsburgh,pa,unitedstates"," july 2, 2015"," 36,000", mr. miguel  patricio
+167,"roper technologies, inc.",doll_49.66 b,rop,united states,industrials,specialty industrial machinery,"sarasota,fl,unitedstates", 1890," 19,300", mr. laurence neil hunn
+168,"mercadolibre, inc.",doll_49.83 b,meli,argentina,consumer discretionary,internet retail,"buenosaires,argentina"," august 2, 1999"," 29,957", mr. marcos  eduardo galperã­n
+169,"illumina, inc.",doll_49.91 b,ilmn,united states,healthcare,diagnostics & research,"sandiego,ca,unitedstates", 1998," 9,800", mr. francis a. desouza
+170,safran sa,doll_50.02 b,saf,france,industrials,aerospace & defense,"paris,france",," 77,008", mr. olivier  andries
+171,"synopsys, inc.",doll_50.18 b,snps,united states,technology,software—infrastructure,"mountainview,ca,unitedstates"," 1986 in research triangle park, north carolina."," 16,361", dr. aart j. de geus
+172,novatek pjsc,doll_50.19 b,nvtk,russia,energy,oil & gas e&p,"tarko-sale,russia",,, mr. leonid viktorovich mikhelson
+173,ecolab inc.,doll_50.29 b,ecl,united states,basic materials,specialty chemicals,"saintpaul,mn,unitedstates", 1923 ," 47,000", mr. christophe  beck
+174,china tourism group duty free corp ltd,doll_50.46 b,601888,china,consumer discretionary,travel services,"beijing,china",," 14,217",
+175,hon hai precision industry co. ltd,doll_50.75 b,2317,taiwan,technology,electronic components,"newtaipeicity,taiwan",,,
+176,fortescue metals group limited,doll_50.76 b,fmg,australia,basic materials,other industrial metals & mining,"eastperth,wa,australia", 2003," 10,232", ms. elizabeth anne gaines ca
+177,"american electric power company, inc.",doll_50.95 b,aep,united states,utilities,utilities—regulated electric,"columbus,oh,unitedstates", 1906," 16,688", mr. nicholas k. akins
+178,archer-daniels-midland company,doll_51.03 b,adm,united states,consumer staples,farm products,"chicago,il,unitedstates"," minneapolis, minnesota, u.s.1902"," 39,218", mr. juan ricardo luciano
+179,general accident plc,doll_51.43 b,gaca,united kingdom,financials,insurance—property & casualty,,,,
+180,"agribank, fcb",doll_51.49 b,agrip,united states,financials,credit services,"saintpaul,mn,unitedstates",,,
+181,"l3harris technologies, inc.",doll_51.51 b,lhx,united states,industrials,aerospace & defense,"melbourne,fl,unitedstates"," june 29, 2019"," 47,000"," mr. christopher e. kubasik cpa, cpa"
+182,toyota motor corporation,doll_51.55 b,7203,japan,consumer discretionary,auto manufacturers,"toyota,japan"," august 28, 1937"," 371,365", mr. akio  toyoda
+183,denso corp,doll_51.58 b,6902,japan,consumer discretionary,auto parts,"kariya,japan",," 168,391", mr. koji  arima
+184,bce inc.,doll_51.71 b,bce,canada,communication services,telecom services,"verdun,qc,canada", 1983," 49,781", mr. mirko  bibic
+185,stellantis n.v.,doll_51.80 b,stla,netherlands,consumer discretionary,auto manufacturers,"amsterdam,netherlands",," 281,595", mr. carlos  tavares
+186,eni s.p.a.,doll_52.00 b,eni,italy,energy,oil & gas integrated,"rome,rm,italy", 10 february 1953," 31,495", mr. claudio  descalzi
+187,itochu corp,doll_52.19 b,8001,japan,industrials,conglomerates,"tokyo,japan",," 125,944", mr. masahiro  okafuji
+188,"xilinx, inc.",doll_52.19 b,xlnx,united states,technology,semiconductors,"sanjose,ca,unitedstates", 1984," 4,890", mr. victor  peng
+189,nxp semiconductors n.v.,doll_52.28 b,nxpi,netherlands,technology,semiconductors,"eindhoven,netherlands", established in 2006," 31,000", mr. kurt  sievers
+190,fast retailing co. ltd,doll_52.29 b,9983,japan,consumer discretionary,apparel retail,"yamaguchi,japan",," 55,589", mr. tadashi  yanai
+191,"liberty bancshares, inc. (oh)",doll_52.30 b,lbsi,united states,financials,banks,"ada,oh,unitedstates",,, mr. ronald l. zimmerly jr.
+192,occidental petroleum corporation,doll_52.30 b,oxy,united states,energy,oil & gas e&p,"houston,tx,unitedstates", june 1909," 11,678", ms. vicki a. hollub
+193,sempra energy,doll_52.47 b,sre,united states,utilities,utilities—diversified,"sandiego,ca,unitedstates", 1998," 15,390", mr. jeffrey walker martin
+194,basf se,doll_52.76 b,bas,germany,basic materials,chemicals,"ludwigshafenamrhein,germany",," 108,718", dr. martin  brudermuller
+195,thomson reuters corporation,doll_53.30 b,tri,canada,industrials,consulting services,"toronto,on,canada",," 24,400"," mr. stephen john hasker b.com., m.b.a."
+196,london stock exchange group plc,doll_53.33 b,lseg,united kingdom,financials,financial data & stock exchanges,"london,unitedkingdom", 23 june 2007," 24,158", mr. david a. schwimmer
+197,lonza group ltd,doll_53.76 b,lonn,switzerland,healthcare,diagnostics & research,"basel,switzerland",," 16,218",
+198,ferrari n.v.,doll_53.78 b,race,italy,consumer discretionary,auto manufacturers,"maranello,mo,italy", 13 september 1939," 4,609", mr. benedetto  vigna
+199,snap inc.,doll_53.86 b,snap,united states,communication services,internet content & information,"santamonica,ca,unitedstates"," september 16, 2011"," 5,661", mr. evan  spiegel
+200,"fortinet, inc.",doll_53.86 b,ftnt,united states,technology,software—infrastructure,"sunnyvale,ca,unitedstates", 2000," 10,195", mr. ken  xie
+201,dollar general corporation,doll_54.30 b,dg,united states,consumer staples,discount stores,"goodlettsville,tn,unitedstates", october 1939," 163,000", mr. todd j. vasos
+202,"american international group, inc.",doll_54.31 b,aig,united states,financials,insurance—diversified,"newyork,ny,unitedstates"," december 19, 1919"," 36,600", mr. peter salvatore zaffino
+203,marathon petroleum corporation,doll_54.54 b,mpc,united states,energy,oil & gas refining & marketing,"findlay,oh,unitedstates"," november 9, 2009"," 17,700", mr. michael j. hennigan
+204,canadian pacific railway limited,doll_54.59 b,cp,canada,industrials,railroads,"calgary,ab,canada", 16 february 1881," 11,834", mr. keith e. creel
+205,ambev sa,doll_54.69 b,abev3,brazil,consumer staples,beverages—brewers,"sã£opaulo,sp,brazil",," 53,000", mr. jean jereissati neto
+206,heineken n.v.,doll_54.87 b,heia,netherlands,consumer staples,beverages—brewers,"amsterdam,netherlands",," 81,070", mr. rudolf gijsbert servaas van den brink
+207,softbank group corp.,doll_54.93 b,9984,japan,communication services,telecom services,"tokyo,japan",," 58,786", mr. masayoshi  son
+208,ergo science corp,doll_55.23 b,ergn,united states,industrials,staffing & employment services,"northandover,ma,unitedstates",,,
+209,keurig dr pepper inc.,doll_55.28 b,kdp,united states,consumer staples,beverages—non-alcoholic,"burlington,ma,unitedstates", 1981," 27,500", mr. robert j. gamgort
+210,chugai pharmaceutical co. ltd,doll_55.31 b,4519,japan,healthcare,drug manufacturers—general,"tokyo,japan",," 7,664", dr. osamu  okuda
+211,"daikin industries,ltd.",doll_55.58 b,6367,japan,industrials,building products & equipment,"osaka,japan",," 84,870", mr. masanori  togawa
+212,national grid plc,doll_55.88 b,ng.,united kingdom,utilities,utilities—diversified,"london,unitedkingdom", 1990," 23,683",
+213,zijin mining group co ltd,doll_43.93 b,601899,china,basic materials,gold,"longyan,china",," 43,876",
+214,wipro limited,doll_43.98 b,wipro,india,technology,information technology services,"bengaluru,india", 29 december 1945," 220,000", mr. thierry  delaporte
+215,"samsung biologics co.,ltd.",doll_44.01 b,207940,south korea,healthcare,biotechnology,"incheon,southkorea",," 3,247", mr. john chongbo  rim
+216,"sumitomo mitsui financial group, inc.",doll_44.06 b,8316,japan,financials,banks,"tokyo,japan"," june 6, 1996"," 86,800", mr. jun  ohta
+217,"chipotle mexican grill, inc.",doll_44.11 b,cmg,united states,consumer discretionary,restaurants,"newportbeach,ca,unitedstates"," july 13, 1993"," 97,660", mr. brian r. niccol
+218,"cadence design systems, inc.",doll_44.23 b,cdns,united states,technology,software—application,"sanjose,ca,unitedstates", 1988," 9,300", dr. anirudh  devgan ph.d.
+219,cintas corporation,doll_44.32 b,ctas,united states,industrials,specialty business services,"cincinnati,oh,unitedstates", 1929," 40,000", mr. todd m. schneider
+220,iqvia holdings inc.,doll_44.32 b,iqv,united states,healthcare,diagnostics & research,"durham,nc,unitedstates", 1982," 79,000", mr. ari  bousbib
+221,"autozone, inc.",doll_44.39 b,azo,united states,consumer discretionary,specialty retail,"memphis,tn,unitedstates"," july 4, 1979"," 65,100", mr. william c. rhodes iii
+222,te connectivity ltd.,doll_44.78 b,tel,switzerland,technology,electronic components,"schaffhausen,switzerland", 2007," 85,000", mr. terrence r. curtin cpa
+223,intesa sanpaolo s.p.a.,doll_44.95 b,isp,italy,financials,banks,"turin,to,italy",," 78,000", mr. carlo  messina
+224,pjsc lukoil,doll_44.96 b,lkoh,russia,energy,oil & gas integrated,"moscow,russia",," 101,374", mr. vagit yusufovich alekperov
+225,saudi arabian mining company,doll_45.00 b,1211,saudi arabia,basic materials,other industrial metals & mining,"riyadh,saudiarabia",,, mr. robert g. wilt
+226,mitsui & co. ltd,doll_45.09 b,8031,japan,energy,oil & gas e&p,"tokyo,japan",," 44,509", mr. kenichi  hori
+227,"datadog, inc.",doll_45.13 b,ddog,united states,technology,software—application,"newyork,ny,unitedstates", 2010," 3,200", mr. olivier  pomel
+228,"constellation brands, inc.",doll_45.21 b,stz,united states,consumer staples,beverages—wineries & distilleries,"victor,ny,unitedstates", 1945," 9,300", mr. william a. newlands
+229,infineon technologies ag,doll_45.35 b,ifxa,germany,technology,semiconductors,"munich,germany",," 50,280", dr. reinhard  ploss
+230,"the travelers companies, inc.",doll_45.56 b,trv,united states,financials,insurance—property & casualty,"newyork,ny,unitedstates", 1853," 30,184", mr. alan david schnitzer
+231,"idexx laboratories, inc.",doll_45.64 b,idxx,united states,healthcare,diagnostics & research,"westbrook,me,unitedstates", 1983," 10,350", mr. jonathan j. mazelsky
+232,vodafone group plc,doll_45.74 b,vod,united kingdom,communication services,telecom services,"newbury,unitedkingdom", 16 september 1991," 105,000", mr. nicholas jonathan read
+233,vanjia corp,doll_45.74 b,vnja,united states,consumer discretionary,residential construction,"houston,tx,unitedstates",,, ms. su hua tian
+234,amphenol corporation,doll_45.77 b,aph,united states,technology,electronic components,"wallingford,ct,unitedstates", 1932," 90,000", mr. richard adam norwitt
+235,the hershey company,doll_45.83 b,hsy,united states,consumer staples,confectioners,"hershey,pa,unitedstates"," february 8, 1894"," 16,620", ms. michele gross buck
+236,takeda pharmaceutical company limited,doll_45.89 b,4502,japan,healthcare,drug manufacturers—specialty & generic,"tokyo,japan"," doshomachi, osaka, japan june 12, 1781"," 47,099", mr. christophe  weber
+237,"baidu, inc.",doll_45.98 b,9888,china,communication services,internet content & information,"beijing,china"," january 1, 2000"," 45,500", mr. yanhong  li
+238,sika ag,doll_46.01 b,sika,switzerland,basic materials,specialty chemicals,"baar,switzerland",," 26,272",
+239,adidas ag,doll_46.13 b,ads1,germany,consumer discretionary,footwear & accessories,"herzogenaurach,germany",," 53,870", mr. kasper bo rorsted
+240,nidec corp,doll_46.33 b,6594,japan,industrials,specialty industrial machinery,"kyoto,japan",, 758, mr. jun  seki
+241,banco bradesco sa,doll_46.71 b,bbdc3,brazil,financials,banks,"osasco,sp,brazil"," march 10, 1943"," 85,264"," mr. octavio  de lazari jr., junior"
+242,"dexcom, inc.",doll_46.86 b,dxcm,united states,healthcare,diagnostics & research,"sandiego,ca,unitedstates", 1999," 6,300", mr. kevin ronald sayer
+243,nucor corporation,doll_46.86 b,nue,united states,basic materials,steel,"charlotte,nc,unitedstates",," 28,800", mr. leon j. topalian
+244,cognizant technology solutions corporation,doll_47.07 b,ctsh,united states,technology,information technology services,"teaneck,nj,unitedstates", 26 january 1994," 330,600", mr. brian  humphries
+245,open joint stock company omz,doll_47.15 b,omzzp,russia,industrials,specialty industrial machinery,"moscow,russia",,, igor y. zhilkin
+246,"prudential financial, inc.",doll_47.17 b,pru,united states,financials,insurance—life,"newark,nj,unitedstates", 1875," 40,916", mr. charles frederick lowrey jr.
+247,"autodesk, inc.",doll_47.69 b,adsk,united states,technology,software—application,"sanrafael,ca,unitedstates"," january 30, 1982"," 12,600", dr. andrew  anagnost
+248,naspers ltd,doll_47.73 b,npn,south africa,communication services,internet content & information,"capetown,southafrica",," 28,445", mr. bob  van dijk
+249,"crowdstrike holdings, inc.",doll_47.89 b,crwd,united states,technology,software—infrastructure,"sunnyvale,ca,unitedstates", 2011," 4,965", mr. george r. kurtz
+250,grupo mexico sab de cv,doll_48.00 b,gmexicob,mexico,basic materials,other industrial metals & mining,"mexicocity,df,mexico",," 29,707",
+251,"o'reilly automotive, inc.",doll_48.14 b,orly,united states,consumer discretionary,specialty retail,"springfield,mo,unitedstates"," december 2, 1957"," 82,852", mr. gregory d. johnson
+252,johnson controls international plc,doll_48.15 b,jci,ireland,industrials,engineering & construction,"cork,ireland", 1885," 101,000", mr. george r. oliver
+253,"vmware, inc.",doll_48.17 b,vmw,united states,technology,software—infrastructure,"paloalto,ca,unitedstates"," february 10, 1998"," 34,000", mr. rangarajan  raghuram
+254,suncor energy inc.,doll_48.27 b,su,canada,energy,oil & gas integrated,"calgary,ab,canada"," montreal, quebec, canada in 1919"," 16,922", mr. mark s. little
+255,mckesson corporation,doll_48.46 b,mck,united states,healthcare,medical distribution,"irving,tx,unitedstates"," new york city, united states1833"," 59,000", mr. brian s. tyler ph.d.
+256,rosneft oil co pjsc,doll_48.50 b,rosn,russia,energy,oil & gas integrated,"moscow,russia",,, mr. igor ivanovich sechin
+257,dow inc.,doll_48.50 b,dow,united states,basic materials,chemicals,"midland,mi,unitedstates"," april 1, 2019"," 35,700", mr. james r. fitterling
+258,lululemon athletica inc.,doll_48.52 b,lulu,canada,consumer discretionary,apparel retail,"vancouver,bc,canada", 1998," 25,000", mr. calvin r. mcdonald
+259,"mediatek, inc.",doll_48.74 b,2454,taiwan,technology,semiconductors,"hsinchucity,taiwan",,, dr. lih shyng  tsai ph.d.
+260,scentre group,doll_48.83 b,scg,australia,real estate,reit—retail,"sydney,nsw,australia", 2014," 2,780", mr. peter kenneth allen
+261,hitachi ltd,doll_48.92 b,6501,japan,industrials,conglomerates,"tokyo,japan",," 350,864", mr. toshiaki  higashihara
+262,wanhua chemical group co. ltd,doll_39.73 b,600309,china,basic materials,chemicals,"yantai,china",," 19,692",
+263,united overseas bank ltd,doll_39.73 b,u11,singapore,financials,banks,"singapore,singapore",," 24,346"," mr. ee cheong  wee b.sc., m.a."
+264,xcel energy inc.,doll_39.76 b,xel,united states,utilities,utilities—regulated electric,"minneapolis,mn,unitedstates", 1909," 11,321", mr. robert c. frenzel
+265,welltower inc.,doll_39.96 b,well,united states,real estate,reit—healthcare facilities,"toledo,oh,unitedstates", 1970, 464, mr. shankh s. mitra
+266,msci inc.,doll_39.97 b,msci,united states,financials,financial data & stock exchanges,"newyork,ny,unitedstates", 1968," 4,303", mr. henry a. fernandez
+267,boc hong kong holdings ltd,doll_39.99 b,2388,hong kong,financials,banks,"central,hongkong",," 14,462", mr. yu  sun
+268,baxter international inc.,doll_40.13 b,bax,united states,healthcare,medical instruments & supplies,"deerfield,il,unitedstates", 1931," 60,000", mr. jose e. almeida
+269,citic securities company ltd,doll_40.17 b,600030,china,financials,capital markets,"shenzhen,china",," 11,380",
+270,global payments inc.,doll_40.35 b,gpn,united states,industrials,specialty business services,"atlanta,ga,unitedstates", 2000," 25,000", mr. jeffrey s. sloan j.d.
+271,"agilent technologies, inc.",doll_40.49 b,a,united states,healthcare,diagnostics & research,"santaclara,ca,unitedstates", 1999," 17,200", mr. michael r. mcmullen
+272,"walgreens boots alliance, inc.",doll_40.55 b,wba,united states,healthcare,pharmaceutical retailers,"deerfield,il,unitedstates"," december 31, 2014"," 202,000", ms. rosalind gates brewer
+273,"digital realty trust, inc.",doll_40.64 b,dlr,united states,real estate,reit—office,"sanfrancisco,ca,unitedstates", 2004," 3,030", mr. arthur william stein
+274,oversea-chinese banking corp ltd,doll_40.77 b,o39,singapore,financials,banks,"singapore,singapore",," 29,622",
+275,carrier global corporation,doll_40.79 b,carr,united states,industrials,building products & equipment,"palmbeachgardens,fl,unitedstates"," june 26, 1915"," 58,000", mr. david l. gitlin
+276,the bank of new york mellon corporation,doll_40.83 b,bk,united states,financials,asset management,"newyork,ny,unitedstates"," july 1, 2007"," 49,100", mr. thomas p. gibbons
+277,"east money information co.,ltd.",doll_40.83 b,300059,china,communication services,internet content & information,"shanghai,china",," 5,696",
+278,"motorola solutions, inc.",doll_40.87 b,msi,united states,technology,communication equipment,"chicago,il,unitedstates"," january 4, 2011"," 18,700", mr. gregory q. brown
+279,mmc norilsk nickel pjsc,doll_41.16 b,gmkn,russia,basic materials,other industrial metals & mining,"moscow,russia",,,
+280,ing groep n.v.,doll_41.25 b,inga,netherlands,financials,banks,"amsterdam,netherlands",," 57,000", mr. steven j. a. van rijswijk
+281,valero energy corporation,doll_41.27 b,vlo,united states,energy,oil & gas refining & marketing,"sanantonio,tx,unitedstates"," january 1, 1980"," 9,794", mr. joseph w. gorder
+282,hang seng bank limited,doll_41.47 b,0011,hong kong,financials,banks,"central,hongkong",," 9,396",
+283,the allstate corporation,doll_41.54 b,all,united states,financials,insurance—property & casualty,"northbrook,il,unitedstates"," april 17, 1931"," 54,300", mr. thomas joseph wilson ii
+284,"the williams companies, inc.",doll_41.60 b,wmb,united states,energy,oil & gas midstream,"tulsa,ok,unitedstates", 1908," 4,783", mr. alan s. armstrong
+285,devon energy corporation,doll_41.82 b,dvn,united states,energy,oil & gas e&p,"oklahomacity,ok,unitedstates", 1971," 1,600", mr. richard e. muncrief
+286,stmicroelectronics n.v.,doll_41.91 b,stm,switzerland,technology,semiconductors,"geneva,switzerland",," 48,254", mr. jean-marc  chery
+287,biontech se,doll_41.93 b,22ua,germany,healthcare,biotechnology,"mainz,germany", 2008," 2,800", prof. ugur  sahin m.d.
+288,manulife financial corporation,doll_41.98 b,mfc,canada,financials,insurance—life,"toronto,on,canada"," june 23, 1887"," 38,000", mr. rocco  gori
+289,the kroger co.,doll_42.03 b,kr,united states,consumer staples,grocery stores,"cincinnati,oh,unitedstates", 1883," 500,000", mr. william rodney mcmullen
+290,sysco corporation,doll_42.22 b,syy,united states,consumer staples,food distribution,"houston,tx,unitedstates"," march 19, 1969"," 58,000", mr. kevin p. hourican
+291,wuxi apptec co. ltd,doll_42.25 b,603259,china,healthcare,diagnostics & research,"shanghai,china",," 34,912", dr. ge  li ph.d.
+292,hilton worldwide holdings inc.,doll_42.39 b,hlt,united states,consumer discretionary,lodging,"mclean,va,unitedstates"," may 31, 1919"," 142,000", mr. christopher j. nassetta
+293,dsv panalpina a-s,doll_42.49 b,dsv,denmark,industrials,integrated freight & logistics,"hedehusene,denmark",," 77,958", mr. jens bjorn andersen
+294,seven & i holdings co. ltd,doll_42.53 b,3382,japan,consumer staples,grocery stores,"tokyo,japan",," 58,975",
+295,"general mills, inc.",doll_42.65 b,gis,united states,consumer staples,packaged foods,"minneapolis,mn,unitedstates"," june 20, 1866"," 35,000", mr. jeffrey l. harmening
+296,"corteva, inc.",doll_42.66 b,ctva,united states,basic materials,agricultural inputs,"wilmington,de,unitedstates", 2019," 21,000"," mr. charles victor magro b.sc. (chem), mba"
+297,longi green energy technology co. ltd,doll_42.68 b,601012,china,technology,semiconductor equipment & materials,"xi'an,china",," 46,631",
+298,monster beverage corporation,doll_42.81 b,mnst,united states,consumer staples,beverages—non-alcoholic,"corona,ca,unitedstates", 1935," 3,458", mr. rodney cyril sacks
+299,yihai kerry arawana holdings co. ltd,doll_42.84 b,300999,china,consumer staples,packaged foods,"shanghai,china",," 34,389",
+300,hoya corp,doll_42.88 b,7741,japan,healthcare,medical instruments & supplies,"tokyo,japan",," 37,245", mr. eiichiro  ikeda
+301,"republic services, inc.",doll_42.91 b,rsg,united states,industrials,waste management,"phoenix,az,unitedstates"," july 2, 1998"," 35,000", mr. jon  vander ark
+302,wesfarmers limited,doll_43.09 b,wes,australia,consumer discretionary,home improvement retail,"perth,wa,australia", 1914," 122,000", mr. robert g. scott
+303,xiaomi corp,doll_43.10 b,1810,china,technology,consumer electronics,"beijing,china",," 33,427", mr. jun  lei
+304,kimberly-clark corporation,doll_43.21 b,kmb,united states,consumer staples,household & personal products,"dallas,tx,unitedstates", 1872," 45,000", mr. michael d. hsu
+305,"kinder morgan, inc.",doll_43.38 b,kmi,united states,energy,oil & gas midstream,"houston,tx,unitedstates", 1997," 10,529", mr. steven j. kean
+306,murata manufacturing co. ltd,doll_43.41 b,6981,japan,technology,electronic components,"nagaokakyo,japan",," 77,398",
+307,barrick gold corporation,doll_43.50 b,abx,canada,basic materials,gold,"toronto,on,canada", 1983," 18,421", dr. dennis mark bristow
+308,aflac incorporated,doll_43.59 b,afl,united states,financials,insurance—life,"columbus,ga,unitedstates"," november 17, 1955"," 12,447", mr. daniel paul amos
+309,"simon property group, inc.",doll_43.69 b,spg,united states,real estate,reit—retail,"indianapolis,in,unitedstates", 1993," 2,400", mr. david e. simon
+310,lloyds banking group plc,doll_43.70 b,lloy,united kingdom,financials,banks,"london,unitedkingdom",," 57,955",
+311,woolworths group limited,doll_35.33 b,wow,australia,consumer staples,grocery stores,"bellavista,nsw,australia", 22 september 1924," 210,067"," mr. bradford leon banducci bcomm (acc), llb, mba"
+312,"intuitive surgical, inc.",doll_35.37 b,isrg,united states,healthcare,medical instruments & supplies,"sunnyvale,ca,unitedstates", 1995," 9,793", dr. gary s. guthart ph.d.
+313,experian plc,doll_35.40 b,expn,ireland,industrials,consulting services,"dublin,ireland", 1996," 20,000", mr. brian j. cassin
+314,resmed inc.,doll_35.44 b,rmd,united states,healthcare,medical instruments & supplies,"sandiego,ca,unitedstates", 1989," 7,970"," mr. michael j. farrell be, mba, sm"
+315,neste oyj,doll_35.57 b,neste,finland,energy,oil & gas refining & marketing,"espoo,finland",," 4,719", mr. peter z. e. vanacker
+316,"shanxi xinghuacun fen wine factory co.,ltd.",doll_35.84 b,600809,china,consumer staples,beverages—wineries & distilleries,"fenyang,china",," 12,614",
+317,"coinbase global, inc.",doll_35.86 b,coin,united states,technology,software—application,"wilmington,de,unitedstates",," 3,730", mr. brian  armstrong
+318,nio limited,doll_35.86 b,nio,china,consumer discretionary,auto manufacturers,"shanghai,china", november 2014," 7,763", mr. william  li
+319,"cloudflare, inc.",doll_35.92 b,net,united states,technology,software—infrastructure,"sanfrancisco,ca,unitedstates", july 2009," 2,440", mr. matthew  prince
+320,danone sa,doll_35.93 b,bn,france,consumer staples,packaged foods,"paris,france",," 98,105",
+321,lyondellbasell industries n.v.,doll_35.96 b,lyb,united states,basic materials,specialty chemicals,"houston,tx,unitedstates", 2007," 19,100", mr. kenneth todd lane
+322,"waste connections, inc.",doll_36.14 b,wcn,united states,industrials,waste management,," 1997 in folsom, california"," 19,998", mr. worthing f. jackman
+323,transdigm group incorporated,doll_36.14 b,tdg,united states,industrials,aerospace & defense,"cleveland,oh,unitedstates", 1993," 13,300", dr. kevin m. stein ph.d.
+324,public service enterprise group incorporated,doll_36.28 b,peg,united states,utilities,utilities—diversified,"newark,nj,unitedstates", 1903," 12,684", dr. ralph  izzo ph.d.
+325,telus corporation,doll_36.37 b,t,canada,communication services,telecom services,"vancouver,bc,canada", 1990," 90,800"," mr. darren  entwistle b.a., ll.d., m.b.a."
+326,inner mongolia yili industrial group co. ltd,doll_36.61 b,600887,china,consumer staples,packaged foods,"hohhot,china",," 59,159",
+327,constellation software inc.,doll_36.67 b,csu,canada,technology,software—application,"toronto,on,canada", 1995," 16,000",
+328,shanghai pudong development bank co. ltd,doll_36.72 b,600000,china,financials,banks,"shanghai,china",," 61,686",
+329,"doordash, inc.",doll_36.74 b,dash,united states,communication services,internet content & information,"sanfrancisco,ca,unitedstates", january 2013," 8,600", mr. tony  xu
+330,münchener rückversicherungs-gesellschaft aktiengesellschaft in münchen,doll_36.89 b,muv2,germany,financials,insurance—reinsurance,"munich,germany",," 39,281", dr. torsten  jeworrek
+331,"beijing-shanghai high-speed railway co.,ltd.",doll_36.90 b,601816,china,industrials,railroads,"beijing,china",, 57,
+332,jiangsu hengrui medicine co. ltd,doll_36.90 b,600276,china,healthcare,drug manufacturers—general,"lianyungang,china",," 28,903",
+333,"tokio marine holdings, inc.",doll_36.99 b,8766,japan,financials,insurance—property & casualty,"tokyo,japan",," 43,257", mr. satoru  komiya
+334,parker-hannifin corporation,doll_37.05 b,ph,united states,industrials,specialty industrial machinery,"cleveland,oh,unitedstates"," 1917, cleveland, ohio, u.s."," 54,640", mr. thomas l. williams
+335,smc corp,doll_37.08 b,6273,japan,industrials,specialty industrial machinery,"tokyo,japan",," 20,619",
+336,trane technologies plc,doll_37.36 b,tt,ireland,industrials,specialty industrial machinery,"swords,ireland", 1871," 37,000", mr. david s. regnery
+337,phillips 66,doll_37.51 b,psx,united states,energy,oil & gas refining & marketing,"houston,tx,unitedstates", 1927," 14,000", mr. greg c. garland
+338,electronic arts inc.,doll_37.38 b,ea,united states,communication services,electronic gaming & multimedia,"redwoodcity,ca,unitedstates"," may 27, 1982"," 11,000", mr. andrew  wilson
+339,pt bank rakyat indonesia (persero) tbk,doll_37.51 b,byra,indonesia,financials,banks,"jakarta,indonesia",," 79,398",
+340,sartorius stedim biotech sa,doll_37.55 b,dim,france,healthcare,medical instruments & supplies,"aubagne,france",," 10,409", dr. joachim  kreuzburg
+341,compass group plc,doll_37.73 b,cpg,united kingdom,consumer discretionary,restaurants,"chertsey,unitedkingdom", 1941," 480,000", mr. dominic  blakemore
+342,daiichi sankyo company ltd,doll_37.79 b,4568,japan,healthcare,drug manufacturers—general,"tokyo,japan",," 16,033"," mr. sunao  manabe d.v.m., ph.d."
+343,capgemini se,doll_37.82 b,cap,france,technology,information technology services,"paris,france",," 324,700", mr. aiman  ezzat
+344,sba communications corporation,doll_37.93 b,sbac,united states,real estate,reit—specialty,"bocaraton,fl,unitedstates",," 1,596", mr. jeffrey a. stoops
+345,"dollar tree, inc.",doll_38.00 b,dltr,united states,consumer staples,discount stores,"chesapeake,va,unitedstates", 1986," 61,886", mr. michael a. witynski
+346,crédit agricole sa,doll_38.01 b,aca,france,financials,banks,"montrouge,france",," 75,975", mr. philippe  brassac
+347,ab volvo,doll_38.13 b,vol4,sweden,industrials,farm & heavy construction machinery,"gothenburg,sweden",," 92,144", mr. martin  lundstedt m.sc.
+348,kuaishou technology,doll_38.15 b,1024,china,communication services,broadcasting,"beijing,china",," 27,125", mr. yixiao  cheng
+349,dell technologies inc.,doll_38.16 b,dell,united states,technology,computer hardware,"roundrock,tx,unitedstates"," september 7, 2016"," 133,000", mr. michael saul dell
+350,"banco bilbao vizcaya argentaria, sa",doll_38.25 b,bbva,spain,financials,banks,"bilbao,spain",," 110,432", mr. onur  genc
+351,baker hughes company,doll_38.39 b,bkr,united states,energy,oil & gas equipment & services,"houston,tx,unitedstates", 1907," 54,000", mr. lorenzo  simonelli
+352,ecopetrol sa,doll_38.69 b,ec,colombia,                                        energy                                    ,                                        oil & gas integrated                                    ,"bogotã¡,colombia", 1921," 18,000",
+353,alcon inc.,doll_38.90 b,alc,switzerland,healthcare,medical instruments & supplies,"geneva,switzerland"," 1945, fort worth, texas, united states"," 24,389", mr. david j. endicott
+354,prudential plc,doll_39.00 b,pru,united kingdom,financials,insurance—life,"london,unitedkingdom", 1848," 23,000",
+355,novozymes a-s,doll_39.03 b,nzym.b,denmark,basic materials,chemicals,"bagsvaerd,denmark",," 6,184", ms. ester  baiget
+356,givaudan sa,doll_39.29 b,givn,switzerland,basic materials,specialty chemicals,"vernier,switzerland",," 16,842",
+357,ebay inc.,doll_39.34 b,ebay,united states,consumer discretionary,internet retail,"sanjose,ca,unitedstates"," september 3, 1995"," 10,800", mr. jamie j. iannone
+358,alimentation couche-tard inc.,doll_39.56 b,atd.b,canada,consumer staples,grocery stores,"laval,qc,canada", 1980," 98,000", mr. brian p. hannasch
+359,eqt ab,doll_39.71 b,6eq,japan,financials,asset management,"tokyo,japan",," 1,059", mr. christian  sinding
+360,hess corporation,doll_32.81 b,hes,united states,energy,oil & gas e&p,"newyork,ny,unitedstates"," december 11, 1919"," 1,545", mr. john b. hess
+361,orange sa,doll_32.84 b,ora,france,communication services,telecom services,"paris,france", 1 january 1988," 132,002", mr. stephane  richard
+362,deutsche börse ag,doll_32.99 b,db1,germany,financials,financial data & stock exchanges,"eschborn,germany",," 8,855", dr. theodor  weimer
+363,cenovus energy inc.,doll_33.02 b,cve,canada,energy,oil & gas integrated,"calgary,ab,canada", 2009," 5,938", mr. alexander j. pourbaix
+364,aptiv plc,doll_33.02 b,aptv,ireland,consumer discretionary,auto parts,"dublin,ireland", 1994," 155,000", mr. kevin p. clark
+365,"rockwell automation, inc.",doll_33.05 b,rok,united states,industrials,specialty industrial machinery,"milwaukee,wi,unitedstates", 1903," 24,500", mr. blake d. moret
+366,sun life financial inc.,doll_33.08 b,slf,canada,financials,insurance—diversified,"toronto,on,canada",," 22,719"," mr. kevin david strain c.a., cpa"
+367,otis worldwide corporation,doll_33.09 b,otis,united states,industrials,specialty industrial machinery,"farmington,ct,unitedstates", 20 september 1853," 70,000", ms. judith f. marks
+368,"zoom video communications, inc.",doll_33.22 b,zm,united states,communication services,telecom services,"sanjose,ca,unitedstates"," april 21, 2011"," 6,787", mr. eric s. yuan
+369,china resources land ltd,doll_33.26 b,1109,hong kong,real estate,real estate—development,"wanchai,hongkong",," 47,537",
+370,telefonaktiebolaget lm ericsson,doll_33.29 b,eric.a,sweden,technology,communication equipment,"stockholm,sweden"," stockholm, sweden 1876"," 100,454"," mr. e. borje ekholm mba, msc"
+371,international flavors & fragrances inc.,doll_33.32 b,iff,united states,basic materials,specialty chemicals,"newyork,ny,unitedstates", 1889 ," 24,000", mr. franklin k. clyburn jr.
+372,china vanke co. ltd,doll_33.35 b,000002,china,real estate,real estate—development,"shenzhen,china",," 140,565", mr. jiusheng  zhu mba
+373,koninklijke ahold delhaize n.v.,doll_33.43 b,ad,netherlands,consumer staples,grocery stores,"zaandam,netherlands",," 144,550", mr. frans w. h. muller
+374,ptt pcl,doll_33.46 b,ptt,thailand,energy,oil & gas integrated,"bangkok,thailand",,, mr. auttapol  rerkpiboon
+375,"mizuho financial group, inc.",doll_33.47 b,8411,japan,financials,banks,"tokyo,japan", 2001," 54,492", mr. masahiro  kihara
+376,kkr & co. inc.,doll_33.49 b,kkr,united states,financials,asset management,"newyork,ny,unitedstates", 1976," 3,238", mr. joseph y. bae
+377,poly developments and holdings group co. ltd,doll_33.64 b,600048,china,real estate,real estate—development,"guangzhou,china",," 61,201",
+378,mtr corp ltd,doll_33.66 b,0066,hong kong,industrials,railroads,"kowloonbay,hongkong",," 31,968", dr. chak-pui  kam
+379,fanuc corp,doll_33.68 b,6954,japan,industrials,specialty industrial machinery,"yamanashi,japan",," 8,256", mr. kenji  yamaguchi
+380,kuehne + nagel international ag,doll_33.69 b,knin,switzerland,industrials,integrated freight & logistics,"schindellegi,switzerland",," 73,516", dr. detlef a. trefzger
+381,discover financial services,doll_33.73 b,dfs,united states,financials,credit services,"riverwoods,il,unitedstates", 1985," 16,700", mr. roger crosby hochschild
+382,"tyson foods, inc.",doll_33.73 b,tsn,united states,consumer staples,farm products,"springdale,ar,unitedstates", 1935," 137,000", mr. donnie d. king
+383,halliburton company,doll_33.95 b,hal,united states,energy,oil & gas equipment & services,"houston,tx,unitedstates", 1919," 40,000", mr. jeffrey allen miller
+384,"t. rowe price group, inc.",doll_34.01 b,trow,united states,financials,asset management,"baltimore,md,unitedstates", 1937," 7,529"," mr. robert w. sharps c.f.a., cpa, cfa, cpa"
+385,"chunghwa telecom co., ltd.",doll_34.06 b,2412,taiwan,communication services,telecom services,"taipeicity,taiwan"," june 15, 1996"," 20,341", mr. chi-mau  sheih
+386,equity residential,doll_34.11 b,eqr,united states,real estate,reit—residential,"chicago,il,unitedstates", 1969," 2,400", mr. mark j. parrell
+387,chongqing zhifei biological products co. ltd,doll_34.13 b,300122,china,healthcare,biotechnology,"chongqing,china",," 3,380",
+388,arthur j. gallagher & co.,doll_34.22 b,ajg,united states,financials,insurance brokers,"rollingmeadows,il,unitedstates", 1927," 39,000", mr. j. patrick gallagher jr.
+389,z holdings corp,doll_34.24 b,4689,japan,consumer discretionary,internet retail,"tokyo,japan",," 22,531", mr. kentaro  kawabe
+390,"verisk analytics, inc.",doll_34.39 b,vrsk,united states,industrials,consulting services,"jerseycity,nj,unitedstates", 1971," 9,367", mr. scott g. stephenson
+391,sydney airport limited,doll_34.40 b,syd,australia,industrials,airports & air services,"sydney,nsw,australia", 2002, 418,
+392,verbund ag,doll_34.44 b,oew,austria,                                        utilities                                    ,                                        utilities—renewable                                    ,"vienna,austria",," 2,870", dr. michael  strugl m.b.a.
+393,"align technology, inc.",doll_34.49 b,algn,united states,healthcare,medical devices,"tempe,az,unitedstates", 1997," 22,540", mr. joseph m. hogan
+394,fastenal company,doll_34.58 b,fast,united states,industrials,industrial distribution,"winona,mn,unitedstates", 1967," 18,370", mr. daniel l. florness
+395,"ameriprise financial, inc.",doll_34.64 b,amp,united states,financials,asset management,"minneapolis,mn,unitedstates", 1894," 12,000", mr. james m. cracchiolo
+396,arcelormittal,doll_34.66 b,mt,luxembourg,                                        basic materials                                    ,                                        steel                                    ,"luxembourgcity,luxembourg",," 158,000", mr. aditya  mittal
+397,budweiser brewing company apac ltd,doll_34.73 b,1876,hong kong,consumer staples,beverages—brewers,"causewaybay,hongkong",," 26,038", mr. jan eli b.  craps
+398,china citic bank corp ltd,doll_34.84 b,601998,china,financials,banks,"beijing,china",," 57,062",
+399,"consolidated edison, inc.",doll_34.89 b,ed,united states,utilities,utilities—regulated electric,"newyork,ny,unitedstates", 1823 as the new york gas light company," 13,871", mr. timothy p. cawley
+400,"cheniere energy, inc.",doll_34.92 b,lng,united states,energy,oil & gas midstream,"houston,tx,unitedstates", 1996," 1,550", mr. jack a. fusco
+401,"old dominion freight line, inc.",doll_34.94 b,odfl,united states,industrials,trucking,"thomasville,nc,unitedstates", 1934," 23,663", mr. greg c. gantt
+402,sun hung kai properties ltd,doll_35.04 b,0016,hong kong,real estate,real estate—development,"wanchai,hongkong",," 38,500",
+403,"yum! brands, inc.",doll_35.12 b,yum,united states,consumer discretionary,restaurants,"louisville,ky,unitedstates"," october 6, 1997"," 36,000", mr. david w. gibbs
+404,imperial oil limited,doll_35.13 b,imo,canada,energy,oil & gas integrated,"calgary,ab,canada", 1880," 5,400", mr. bradley william corson bs
+405,"avalonbay communities, inc.",doll_35.19 b,avb,united states,real estate,reit—residential,"arlington,va,unitedstates", 1978," 2,839", mr. benjamin w. schall
+406,assicurazioni generali,doll_35.20 b,g,italy,financials,insurance—diversified,"trieste,italy",," 74,621", mr. philippe roger donnet
+407,hexagon ab,doll_35.21 b,hxg,sweden,technology,scientific & technical instruments,"stockholm,sweden",," 22,097"," mr. ola  rollã©n b.sc., b.sc. (econ.)"
+408,telstra corporation limited,doll_35.24 b,tls,australia,communication services,telecom services,"melbourne,vic,australia", 1 july 1975," 26,728"," mr. andrew richard penn m.b.a., amp, mba, bec, fcca, hfaipm"
+409,henkel ag & co kgaa,doll_30.53 b,hen,germany,consumer staples,household & personal products,"düsseldorf,germany",," 52,450", dr. carsten  knobel
+410,"twitter, inc.",doll_30.83 b,twtr,united states,communication services,internet content & information,"sanfrancisco,ca,unitedstates"," march 21, 2006"," 7,500", mr. parag  agrawal
+411,energy transfer lp,doll_30.69 b,et,united states,energy,oil & gas midstream,"dallas,tx,unitedstates", 1995," 12,558", mr. marshall s. mccrea iii
+412,loblaw companies limited,doll_30.70 b,l,canada,consumer staples,grocery stores,"brampton,on,canada"," toronto, ontario, canada 1956"," 200,000"," mr. galen g. weston b.a., m.b.a, m.b.a."
+413,veeva systems inc.,doll_30.76 b,veev,united states,healthcare,health information services,"pleasanton,ca,unitedstates", 2007," 4,506", mr. peter p. gassner
+414,nokia corporation,doll_30.91 b,nokia.sek,finland,technology,communication equipment,"espoo,finland", 12 may 1865," 87,927", mr. pekka ilmari lundmark
+415,saic motor corp ltd,doll_30.93 b,600104,china,consumer discretionary,auto manufacturers,"shanghai,china",," 204,815",
+416,state street corporation,doll_30.95 b,stt,united states,financials,asset management,"boston,ma,unitedstates", 1792," 38,784", mr. ronald philip o'hanley
+417,engie sa,doll_31.00 b,engi,france,utilities,utilities—diversified,"courbevoie,france",," 154,364", ms. catherine  macgregor
+418,anhui conch cement company ltd,doll_31.02 b,600585,china,basic materials,building materials,"wuhu,china",," 47,539",
+419,franco-nevada corporation,doll_31.00 b,fnv,canada,basic materials,gold,"toronto,on,canada",, 38, mr. paul  brink
+420,china pacific insurance,doll_31.04 b,601601,china,financials,insurance—life,"shanghai,china",," 110,940",
+421,"zscaler, inc.",doll_31.03 b,zs,united states,technology,software—infrastructure,"sanjose,ca,unitedstates", 2007," 3,153", mr. jagtar singh chaudhry
+422,e.on se,doll_31.12 b,eoaa,germany,utilities,utilities—diversified,"essen,germany",," 63,227", dr. leonhard  birnbaum
+423,"ametek, inc.",doll_31.15 b,ame,united states,industrials,specialty industrial machinery,"berwyn,pa,unitedstates", 1930," 18,500", mr. david a. zapico
+424,zhangzhou pientzehuang pharmaceutical. ltd,doll_31.17 b,600436,china,healthcare,drug manufacturers—general,"zhangzhou,china",," 2,526",
+425,formosa petrochemical corp,doll_31.22 b,6505,taiwan,energy,oil & gas refining & marketing,"mailiao,taiwan",,,
+426,koninklijke dsm n.v.,doll_31.25 b,dsm,netherlands,basic materials,specialty chemicals,"heerlen,netherlands",," 21,358", mr. dimitri  de vreeze
+427,swisscom ag,doll_31.26 b,scmn,switzerland,communication services,telecom services,"bern,switzerland",," 18,905", mr. urs  schaeppi lic. oec. hsg
+428,biogen inc.,doll_31.35 b,biib,united states,healthcare,drug manufacturers—general,"cambridge,ma,unitedstates", 1978," 9,610", mr. michel  vounatsos
+429,japan post holdings co. ltd,doll_31.41 b,6178,japan,financials,banks,"tokyo,japan",," 243,612", mr. hiroya  masuda
+430,crh plc,doll_31.45 b,crh,ireland,basic materials,building materials,"dublin,ireland"," cement limited 1936, roadstone limited 1949 & merger to form cement roadstone holdings 1970"," 77,400",
+431,china telecom corp ltd,doll_31.49 b,0728,hong kong,communication services,telecom services,"wanchai,hongkong",," 278,922", mr. ruiwen  ke
+432,eversource energy,doll_31.56 b,es,united states,utilities,utilities—regulated electric,"springfield,ma,unitedstates", 1966," 9,227", mr. joseph r. nolan jr.
+433,foxconn industrial internet co. ltd,doll_31.58 b,601138,china,technology,communication equipment,"shenzhen,china",," 196,159", mr. hongmeng  cheng
+434,"japan tobacco, inc.",doll_31.59 b,2914,japan,consumer staples,tobacco,"tokyo,japan",," 55,381", mr. masamichi  terabatake
+435,corning incorporated,doll_31.60 b,glw,united states,technology,electronic components,"corning,ny,unitedstates", 1851," 61,200", mr. wendell p. weeks
+436,goodman group,doll_31.64 b,gmg,australia,real estate,reit—diversified,"rosebery,nsw,australia", 1989, 941, mr. gregory leith goodman
+437,"oneok, inc.",doll_31.66 b,oke,united states,energy,oil & gas midstream,"tulsa,ok,unitedstates", 1906," 2,847", mr. pierce h. norton ii
+438,mettler-toledo international inc.,doll_31.78 b,mtd,united states,healthcare,diagnostics & research,"columbus,oh,unitedstates", 1945," 15,600", mr. patrick k. kaltenbach
+439,perusahaan perseroan (persero) pt telekomunikasi indonesia tbk,doll_31.78 b,tlk,indonesia,communication services,telecom services,"bandung,indonesia", 23 october 1856," 20,817",
+440,"ppg industries, inc.",doll_31.89 b,ppg,united states,basic materials,specialty chemicals,"pittsburgh,pa,unitedstates", 1883," 49,300", mr. michael h. mcgarry
+441,"japan post bank co.,ltd.",doll_31.93 b,7182,japan,financials,banks,"tokyo,japan",," 12,451",
+442,longfor group holdings ltd,doll_31.98 b,0960,china,real estate,real estate—development,"beijing,china",," 44,065", mr. xuping  chen
+443,great wall motor co ltd,doll_32.01 b,601633,china,consumer discretionary,auto manufacturers,"baoding,china",," 63,174",
+444,paccar inc,doll_32.04 b,pcar,united states,industrials,farm & heavy construction machinery,"bellevue,wa,unitedstates", 1905," 28,500", mr. r. preston feight
+445,weg sa,doll_32.05 b,wege3,brazil,industrials,specialty industrial machinery,"jaraguádosul,sc,brazil",," 36,987", mr. harry  schmelzer jr.
+446,brown-forman corporation,doll_32.07 b,bf.b,united states,consumer staples,beverages—wineries & distilleries,"louisville,ky,unitedstates", 1870," 4,700", mr. lawson e. whiting
+447,barclays plc,doll_32.19 b,barc,united kingdom,financials,banks,"london,unitedkingdom", 17 november 1690," 81,600", mr. coimbatore sundararajan venkatakrishnan
+448,anta sports products ltd,doll_32.20 b,2020,china,consumer discretionary,leisure,"jinjiang,china",," 52,000", mr. shizhong  ding
+449,singapore telecommunications ltd,doll_32.23 b,z74,singapore,communication services,telecom services,"singapore,singapore",," 22,914", mr. kuan moon  yuen
+450,haier smart home co ltd,doll_32.31 b,600690,china,consumer discretionary,"furnishings, fixtures & appliances","qingdao,china",," 99,299",
+451,"cellnex telecom, sa",doll_32.32 b,clnx,spain,communication services,telecom services,"madrid,spain",," 2,877", mr. tobias  martinez gimeno
+452,citic ltd,doll_32.33 b,0267,hong kong,industrials,conglomerates,"central,hongkong",," 135,304",
+453,wuxi biologics,doll_32.41 b,2269,china,healthcare,biotechnology,"wuxi,china",," 9,864", dr. zhisheng  chen
+454,china overseas land & investment ltd,doll_32.49 b,0688,hong kong,real estate,real estate—development,"central,hongkong",," 5,916", mr. zhichao  zhang
+455,amerisourcebergen corporation,doll_32.51 b,abc,united states,healthcare,medical distribution,"chesterbrook,pa,unitedstates", merger between amerisource health and bergen brunswig in 2001," 38,000", mr. steven h. collis
+456,"wec energy group, inc.",doll_32.54 b,wec,united states,utilities,utilities—regulated electric,"milwaukee,wi,unitedstates", 1896," 6,938", mr. scott j. lauber
+457,"ross stores, inc.",doll_32.71 b,rost,united states,consumer discretionary,apparel retail,"dublin,ca,unitedstates", 1982," 88,100", ms. barbara  rentler
+458,cgn power co. ltd,doll_19.25 b,003816,china,utilities,utilities—independent power producers,"shenzhen,china",," 18,248",
+459,snam s.p.a.,doll_19.27 b,srg,italy,utilities,utilities—regulated gas,"sandonatomilanese,mi,italy",," 3,388", mr. marco  alverã 
+460,magna international inc.,doll_19.36 b,mg,canada,consumer discretionary,auto parts,"aurora,on,canada", 1957," 158,000", mr. seetarama swamy kotagiri
+461,kb financial group inc.,doll_19.39 b,105560,south korea,financials,banks,"seoul,southkorea"," september 29, 2008"," 25,428", dr. jong-kyoo  yoon ph.d.
+462,svenska handelsbanken ab,doll_19.42 b,shb.a,sweden,financials,banks,"stockholm,sweden",," 10,793", mr. carl  cederschiold
+463,fresenius medical care ag & co. kgaa,doll_19.42 b,fme,germany,healthcare,medical care facilities,"badhomburg,germany",," 122,909", mr. robert maurice powell jr.
+464,edp - energias de portugal sa,doll_19.43 b,edp,portugal,                                        utilities                                    ,                                        utilities—diversified                                    ,"lisbon,portugal",," 12,236", mr. miguel stilwell de andrade
+465,"ferrovial, sa",doll_19.44 b,fer,spain,industrials,infrastructure operations,"madrid,spain",," 18,680", mr. ignacio madridejos fernandez
+466,"molina healthcare, inc.",doll_19.46 b,moh,united states,healthcare,healthcare plans,"longbeach,ca,unitedstates", 1980," 14,000", mr. joseph michael zubretsky
+467,"avantor, inc.",doll_19.48 b,avtr,united states,basic materials,specialty chemicals,"radnor,pa,unitedstates", 1904," 13,500", mr. michael  stubblefield
+468,shenzhou international group holdings ltd,doll_19.50 b,2313,hong kong,consumer discretionary,textile manufacturing,"kowloon,hongkong",," 94,400", mr. guanlin  huang
+469,jbs sa,doll_19.53 b,jbss3,brazil,consumer staples,packaged foods,"saopaulo,sp,brazil",," 250,000", mr. gilberto  tomazoni
+470,transunion,doll_19.53 b,tru,united states,industrials,consulting services,"chicago,il,unitedstates"," february 8, 1968"," 10,200", mr. christopher a. cartwright
+471,arch capital group ltd.,doll_19.54 b,acgl,bermuda,                                        financials                                    ,                                        insurance—diversified                                    ,"pembroke,bermuda", 1995," 5,200", mr. marc  grandisson
+472,marathon oil corporation,doll_19.54 b,mro,united states,energy,oil & gas e&p,"houston,tx,unitedstates", 1887," 1,531", mr. lee m. tillman
+473,"huatai securities co., ltd.",doll_19.55 b,601688,china,financials,capital markets,"nanjing,china",," 7,375", mr. yi  zhou
+474,china tower corp ltd,doll_19.55 b,0788,china,communication services,telecom services,"beijing,china",," 20,500",
+475,"akamai technologies, inc.",doll_19.59 b,akam,united states,technology,software—infrastructure,"cambridge,ma,unitedstates", 1998," 8,700", dr. f. thomson leighton
+476,shanghai fosun pharmaceutical,doll_19.63 b,600196,china,healthcare,drug manufacturers—specialty & generic,"shanghai,china",," 32,258", mr. yifang  wu
+477,"bill.com holdings, inc.",doll_19.65 b,bill,united states,technology,software—application,"paloalto,ca,unitedstates", 2006," 1,384", mr. rene a. lacerte
+478,henderson land development co ltd,doll_19.67 b,0012,hong kong,real estate,real estate services,"central,hongkong",," 10,059",
+479,cgi inc.,doll_19.67 b,gib.a,canada,technology,information technology services,"montreal,qc,canada", june 1976," 82,000", mr. george d. schindler
+480,shiseido co ltd,doll_19.69 b,4911,japan,consumer staples,household & personal products,"tokyo,japan",," 39,035", mr. masahiko  uotani
+481,brookfield infrastructure partners l.p.,doll_19.70 b,bip.un,bermuda,                                        utilities                                    ,                                        utilities—diversified                                    ,"hamilton,bermuda"," january 14, 2008",,
+482,renesas electronics corp,doll_19.73 b,6723,japan,technology,semiconductors,"tokyo,japan",," 18,612", mr. hidetoshi  shibata
+483,kerry group plc,doll_19.74 b,krz,ireland,consumer staples,packaged foods,"tralee,ireland",," 22,000", mr. edmond  scanlon
+484,"hologic, inc.",doll_19.75 b,holx,united states,healthcare,medical instruments & supplies,"marlborough,ma,unitedstates", 1985," 6,705", mr. stephen p. macmillan
+485,ryanair holdings plc,doll_19.78 b,ry4c,ireland,industrials,airlines,"swords,ireland", 28 november 1984," 17,000", mr. michael  o'leary
+486,standard bank group ltd,doll_19.82 b,sbk,south africa,financials,banks,"johannesburg,southafrica",," 49,224"," mr. simpiwe kenneth tshabalala amp, b.a., ba, hdip tax, l.l.b., l.l.m., llb, llm"
+487,aviva plc,doll_19.82 b,av.,united kingdom,financials,insurance—diversified,"london,unitedkingdom", 2000," 22,000",
+488,china communications construction co ltd,doll_19.83 b,601800,china,industrials,engineering & construction,"beijing,china",," 133,294",
+489,china resources beer (holdings) company ltd,doll_19.84 b,0291,hong kong,consumer staples,beverages—brewers,"wanchai,hongkong",," 25,000", mr. xiaohai  hou
+490,"teradyne, inc.",doll_19.85 b,ter,united states,technology,semiconductor equipment & materials,"northreading,ma,unitedstates", 1960," 5,900", mr. mark e. jagiela
+491,kao corp,doll_19.85 b,4452,japan,consumer staples,household & personal products,"tokyo,japan",," 33,409", mr. yoshihiro  hasebe
+492,klabin sa,doll_19.86 b,klbn11,brazil,basic materials,paper & paper products,"saopaulo,sp,brazil",,, mr. cristiano cardoso teixeira
+493,"paycom software, inc.",doll_19.87 b,payc,united states,technology,software—application,"oklahomacity,ok,unitedstates", 1998," 5,385", mr. chad r. richison
+494,vedanta limited,doll_19.93 b,vedl,india,basic materials,other industrial metals & mining,"mumbai,india", 22 april 2003 as angelchange limited ," 17,047", mr. sunil  duggal
+495,trina solar co. ltd,doll_19.94 b,688599,china,technology,solar,"changzhou,china",," 18,645",
+496,tradeweb markets inc.,doll_19.98 b,tw,united states,financials,capital markets,"newyork,ny,unitedstates", 1998," 1,046", mr. lee  olesky
+497,"sun communities, inc.",doll_19.98 b,sui,united states,real estate,reit—residential,"southfield,mi,unitedstates", 1975," 4,948", mr. gary a. shiffman
+498,hannover rück se,doll_20.02 b,hnrb,germany,financials,insurance—reinsurance,"hanover,germany",," 3,346", mr. jean-jacques  henchoz
+499,"perkinelmer, inc.",doll_20.05 b,pki,united states,healthcare,diagnostics & research,"waltham,ma,unitedstates", 1937," 16,700", dr. prahlad r. singh ph.d.
+500,norsk hydro asa,doll_20.10 b,nhy,norway,                                        basic materials                                    ,                                        aluminum                                    ,"oslo,norway",," 31,264", ms. hilde merete aasheim
+501,"principal financial group, inc.",doll_20.13 b,pfg,united states,financials,insurance—diversified,"desmoines,ia,unitedstates", 1879," 18,600", mr. daniel joseph houston
+502,imperial brands plc,doll_20.14 b,imb,united kingdom,consumer staples,tobacco,"bristol,unitedkingdom", 1901," 30,300", mr. stefan  bomhard
+503,ctbc financial holding co. ltd,doll_20.15 b,2891,taiwan,financials,insurance—life,"taipeicity,taiwan",," 21,159",
+504,china railway group ltd,doll_20.15 b,0390,hong kong,industrials,engineering & construction,"kowloon,hongkong",," 288,729",
+505,telenor asa,doll_20.15 b,tel,norway,                                        communication services                                    ,                                        telecom services                                    ,"fornebu,norway",," 18,000", mr. sigve  brekke
+506,swiss life holding ag,doll_20.16 b,slhn,switzerland,financials,insurance—diversified,"zurich,switzerland",," 8,623", dr. patrick  frost
+507,the people's insurance company (group) of china ltd,doll_27.93 b,601319,china,financials,insurance—property & casualty,"beijing,china",," 193,494",
+508,ck hutchison holdings ltd,doll_27.94 b,0001,hong kong,industrials,conglomerates,"central,hongkong",," 172,907",
+509,airports of thailand public company ltd,doll_28.00 b,aot,thailand,industrials,airports & air services,"bangkok,thailand",,,
+510,sirius xm holdings inc.,doll_28.05 b,siri,united states,communication services,broadcasting,"newyork,ny,unitedstates"," july 29, 2008"," 5,590", ms. jennifer c. witz
+511,porsche automobil holding se,doll_28.15 b,paha,germany,consumer discretionary,auto manufacturers,"stuttgart,germany",, 888, mr. george  wills
+512,semiconductor manufacturing international corp,doll_28.24 b,688981,china,technology,semiconductors,"shanghai,china",," 17,354", dr. hai jun  zhao
+513,tesco plc,doll_28.11 b,tsco,united kingdom,consumer staples,grocery stores,"welwyngardencity,unitedkingdom"," 1919 (1919) - hackney, london, england"," 360,000", mr. ken  murphy
+514,equifax inc.,doll_28.24 b,efx,united states,industrials,consulting services,"atlanta,ga,unitedstates", 1899," 12,700", mr. mark w. begor
+515,ashtead group plc,doll_28.28 b,aht,united kingdom,industrials,rental & leasing services,"london,unitedkingdom", 1947," 21,033", mr. brendan  horgan
+516,cerner corporation,doll_28.31 b,cern,united states,healthcare,health information services,"northkansascity,mo,unitedstates", 1979," 25,150", dr. david todd feinberg mba
+517,hormel foods corporation,doll_28.52 b,hrl,united states,consumer staples,packaged foods,"austin,mn,unitedstates", 1891," 20,000", mr. james p. snee
+518,apa group,doll_28.55 b,apa,australia,utilities,utilities—regulated gas,"sydney,nsw,australia",," 2,000"," mr. robert anthony wheals c.a., b.com., bcom, ca, gaicd, maicd"
+519,"naturgy energy group, sa",doll_28.71 b,ntgy,spain,utilities,utilities—regulated gas,"humanesdemadrid,spain",," 7,231", mr. francisco miguel  reynã©s massanet
+520,techtronic industries company ltd,doll_28.75 b,0669,hong kong,industrials,tools & accessories,"kwaichung,hongkong",," 51,426"," mr. joseph  galli jr., bsba, m.b.a., mba."
+521,csx corporation,doll_28.90 b,csx,united states,industrials,railroads,"jacksonville,fl,unitedstates"," november 1, 1980"," 20,900", mr. james m. foote
+522,svb financial group,doll_28.91 b,sivb,united states,financials,banks,"santaclara,ca,unitedstates", 1983," 6,567", mr. gregory w. becker
+523,cosco shipping holdings co ltd,doll_28.93 b,601919,china,industrials,marine shipping,"shanghai,china",," 29,379",
+524,rwe ag,doll_29.06 b,rwe,germany,utilities,utilities—diversified,"essen,germany",," 18,902", dr. markus  krebber
+525,las vegas sands corp.,doll_29.07 b,lvs,united states,consumer discretionary,resorts & casinos,"lasvegas,nv,unitedstates"," november 17, 1988"," 44,500", mr. robert glen goldstein
+526,tongwei co. ltd,doll_29.10 b,600438,china,consumer staples,farm products,"chengdu,china",," 25,549",
+527,rogers communications inc.,doll_29.13 b,rci.b,canada,communication services,telecom services,"toronto,on,canada",," 23,000"," mr. anthony  staffieri f.c.a., fca, fcpa"
+528,electricité de france sa,doll_29.17 b,edf,france,utilities,utilities—diversified,"paris,france",," 163,423", mr. jean-bernard  levy
+529,"amadeus it group, sa",doll_29.19 b,ams,spain,technology,information technology services,"madrid,spain",," 15,936", mr. luis  maroto camino
+530,"astellas pharma, inc.",doll_29.22 b,4503,japan,healthcare,drug manufacturers—general,"tokyo,japan",," 15,455", mr. kenji  yasukawa ph.d.
+531,"keysight technologies, inc.",doll_29.40 b,keys,united states,technology,scientific & technical instruments,"santarosa,ca,unitedstates", 2014," 14,300", mr. ronald s. nersesian
+532,ball corporation,doll_29.40 b,bll,united states,consumer discretionary,packaging & containers,"westminster,ca,unitedstates", 1880," 24,300", mr. john a. hayes
+533,saudi electricity company,doll_29.42 b,5110,saudi arabia,utilities,utilities—regulated electric,"riyadh,saudiarabia",,,
+534,weyerhaeuser company,doll_29.42 b,wy,united states,real estate,reit—specialty,"seattle,wa,unitedstates", 1900," 9,214"," mr. devin w. stockfish esq., j.d."
+535,"nasdaq, inc.",doll_29.52 b,ndaq,united states,financials,financial data & stock exchanges,"newyork,ny,unitedstates"," february 8, 1971"," 5,814", ms. adena t. friedman
+536,spotify technology sa,doll_29.56 b,spot,luxembourg,                                        communication services                                    ,                                        internet content & information                                    ,"luxembourg,luxembourg", 23 april 2006," 6,617", mr. daniel g. ek
+537,"copart, inc.",doll_29.58 b,cprt,united states,industrials,specialty business services,"dallas,tx,unitedstates"," vallejo, california 1982"," 8,600", mr. a. jayson adair
+538,cathay financial holding co. ltd,doll_29.58 b,2882,taiwan,financials,insurance—life,"taipei,taiwan",," 57,347",
+539,unicredit s.p.a.,doll_29.65 b,ucg,italy,financials,banks,"milan,mi,italy",," 80,879", mr. andrea  orcel
+540,kbc group nv,doll_29.81 b,kdb,belgium,financials,banks,"brussels,belgium",," 33,916", mr. johan  thijs
+541,"match group, inc.",doll_29.82 b,mtch,united states,communication services,internet content & information,"dallas,tx,unitedstates", 1986," 2,500", ms. sharmistha  dubey
+542,willis towers watson plc,doll_29.85 b,wltw,united kingdom,financials,insurance brokers,"london,unitedkingdom", 5 january 2016," 46,000", mr. carl a. hess
+543,riyad bank,doll_29.86 b,1010,saudi arabia,financials,banks,"riyadh,saudiarabia",," 5,660", mr. mohammed abdullah al-yahya
+544,vestas wind systems a-s,doll_29.93 b,vws,denmark,industrials,specialty industrial machinery,"aarhus,denmark",," 29,427", mr. henrik  andersen
+545,cummins inc.,doll_29.94 b,cmi,united states,industrials,specialty industrial machinery,"columbus,in,unitedstates", 1919," 59,900", mr. n. thomas linebarger
+546,assa abloy ab,doll_30.05 b,alz,sweden,industrials,security & protection services,"stockholm,sweden",," 51,000", mr. nico  delvaux
+547,"alexandria real estate equities, inc.",doll_30.10 b,are,united states,real estate,reit—office,"pasadena,ca,unitedstates", october 1994, 559, mr. peter m. moglia
+548,compagnie de saint-gobain sa,doll_30.16 b,sgo,france,industrials,building products & equipment,"courbevoie,france",," 167,816", mr. benoit  bazin
+549,"west pharmaceutical services, inc.",doll_30.23 b,wst,united states,healthcare,medical instruments & supplies,"exton,pa,unitedstates", 1923," 10,065", mr. eric m. green
+550,fujitsu ltd,doll_30.28 b,6702,japan,technology,information technology services,"tokyo,japan",," 126,371", mr. takahito  tokita
+551,"american water works company, inc.",doll_30.43 b,awk,united states,utilities,utilities—regulated water,"camden,nj,unitedstates", 1886," 6,400", ms. m. susan hardwick
+552,"cbre group, inc.",doll_30.45 b,cbre,united states,real estate,real estate services,"losangeles,ca,unitedstates"," august 27, 1906"," 105,000", mr. robert e. sulentic
+553,fifth third bancorp,doll_30.46 b,fitb,united states,financials,banks,"cincinnati,oh,unitedstates"," june 17, 1858"," 19,112", mr. gregory d. carmichael
+554,bae systems plc,doll_30.51 b,ba.,united kingdom,industrials,aerospace & defense,"london,unitedkingdom", 30 november 1999," 89,600",
+555,ferguson plc,doll_30.52 b,ferg,united kingdom,industrials,industrial distribution,"wokingham,unitedkingdom",," 31,000", mr. kevin  murphy
+556,"shimano, inc.",doll_21.51 b,7309,japan,consumer discretionary,leisure,"sakai,japan",," 12,244", mr. yozo  shimano
+557,"contura energy, inc.",doll_21.57 b,ctra,united states,energy,thermal coal,"bristol,tn,unitedstates"," july 26, 2016", 936, mr. thomas e. jorden
+558,"b3 s.a. - brasil, bolsa, balcao",doll_21.58 b,b3sa3,brazil,financials,financial data & stock exchanges,"saopaulo,sp,brazil",,, mr. gilson  finkelsztain
+559,teledyne technologies incorporated,doll_21.65 b,tdy,united states,technology,scientific & technical instruments,"thousandoaks,ca,unitedstates", 1960," 14,500", dr. robert  mehrabian
+560,keycorp,doll_21.71 b,key,united states,financials,banks,"cleveland,oh,unitedstates", 1825," 17,654", mr. christopher marrott gorman
+561,m&t bank corporation,doll_21.74 b,mtb,united states,financials,banks,"buffalo,ny,unitedstates"," august 29, 1856"," 17,115", mr. rene f. jones cpa
+562,"dai-ichi life holdings, inc.",doll_21.76 b,8750,japan,financials,insurance—life,"tokyo,japan",," 64,823",
+563,"ulta beauty, inc.",doll_21.82 b,ulta,united states,consumer discretionary,specialty retail,"bolingbrook,il,unitedstates", 1990," 16,000", mr. david c. kimbell
+564,zebra technologies corporation,doll_21.87 b,zbra,united states,technology,communication equipment,"lincolnshire,il,unitedstates", 1969," 9,800", mr. anders  gustafsson
+565,"monolithic power systems, inc.",doll_21.87 b,mpwr,united states,technology,semiconductors,"kirkland,wa,unitedstates", 1997," 2,773", mr. michael r. hsing
+566,restaurant brands international limited partnership,doll_21.89 b,qsp.un,canada,consumer discretionary,restaurants,"toronto,on,canada",," 5,700",
+567,duke realty corporation,doll_21.93 b,dre,united states,real estate,reit—industrial,"indianapolis,in,unitedstates", 1972, 340, mr. james b. connor
+568,huntington bancshares incorporated,doll_21.93 b,hban,united states,financials,banks,"columbus,oh,unitedstates", 1866," 18,442", mr. stephen d. steinour
+569,cnh industrial n.v.,doll_21.93 b,cnhi,united kingdom,industrials,farm & heavy construction machinery,"london,unitedkingdom", 2012," 71,895", mr. scott wellington wine
+570,nibe industrier ab,doll_21.93 b,njb,sweden,industrials,building products & equipment,"markaryd,sweden",," 20,400", mr. gerteric  lindquist
+571,"cf industries holdings, inc.",doll_21.95 b,cf,united states,basic materials,agricultural inputs,"deerfield,il,unitedstates", 1946 ," 2,970", mr. w. anthony will
+572,cincinnati financial corporation,doll_21.99 b,cinf,united states,financials,insurance—property & casualty,"fairfield,oh,unitedstates"," cincinnati, ohio, u.s 1950"," 5,166"," mr. steven justus johnston c.f.a., cera, cfa, fcas, maaa"
+573,toyota industries corp,doll_21.99 b,6201,japan,consumer discretionary,auto manufacturers,"kariya,japan",," 66,947",
+574,geberit ag,doll_22.03 b,gebn,switzerland,industrials,building products & equipment,"rapperswil-jona,switzerland",," 11,149", dr. christian  buhl
+575,zto express (cayman) inc.,doll_22.05 b,zto,china,industrials,integrated freight & logistics,"shanghai,china",," 22,536", mr. meisong  lai
+576,unicharm corp,doll_22.08 b,8113,japan,consumer staples,household & personal products,"tokyo,japan",," 16,665", mr. takahisa  takahara
+577,xp inc.,doll_22.16 b,xpbr31,brazil,financials,capital markets,"sã£opaulo,sp,brazil", may 2001," 3,000", mr. thiago  maffra
+578,"skyworks solutions, inc.",doll_22.17 b,swks,united states,technology,semiconductors,"irvine,ca,unitedstates", 2002," 11,000", mr. liam k. griffin
+579,crrc corp ltd,doll_22.21 b,601766,china,industrials,railroads,"beijing,china",," 164,177",
+580,"continental resources, inc.",doll_22.25 b,clr,united states,energy,oil & gas e&p,"oklahomacity,ok,unitedstates",," 1,254"," mr. william b. berry b.sc., m.sc."
+581,"huntington bancshares, inc.",doll_22.26 b,hu3,united states,financials,banks,"columbus,oh,unitedstates",," 18,442", mr. stephen d. steinour
+582,"fomento económico mexicano, s.a.b. de c.v.",doll_22.28 b,femsaub,mexico,consumer staples,beverages—brewers,"monterrey,nl,mexico", 1890," 320,808", mr. alfonso  garza garza
+583,teleperformance se,doll_22.30 b,tep,france,industrials,consulting services,"paris,france",," 420,000", mr. daniel  julien
+584,"bio-rad laboratories, inc.",doll_22.32 b,bio,united states,healthcare,medical devices,"hercules,ca,unitedstates", 1952," 7,900", mr. norman d. schwartz
+585,hennes & mauritz ab,doll_22.33 b,hm.b,sweden,consumer discretionary,apparel manufacturing,"stockholm,sweden",," 155,000",
+586,banco do brasil sa,doll_22.36 b,bbas3,brazil,financials,banks,"brasilia,df,brazil",," 84,597", mr. fausto  de andrade ribeiro
+587,tata motors limited,doll_22.38 b,ttm,india,consumer discretionary,auto manufacturers,"mumbai,india", 1945," 75,278", mr. thierry yves henri  bollore
+588,sumitomo corp,doll_22.42 b,8053,japan,industrials,conglomerates,"tokyo,japan",," 74,920", mr. masayuki  hyodo
+589,china national nuclear power co. ltd,doll_22.42 b,601985,china,utilities,utilities—independent power producers,"beijing,china",," 14,506",
+590,"okta, inc.",doll_22.45 b,okta,united states,technology,software—infrastructure,"sanfrancisco,ca,unitedstates", january 2009," 5,030", mr. todd  mckinnon
+591,ems-chemie holding ag,doll_22.48 b,emsn,switzerland,basic materials,specialty chemicals,"domat/ems,switzerland",," 2,646", ms. magdalena  martullo-blocher
+592,"essex property trust, inc.",doll_22.51 b,ess,united states,real estate,reit—residential,"sanmateo,ca,unitedstates", 1971," 1,739", mr. michael j. schall cpa
+593,coca-cola europacific partners plc,doll_22.53 b,ccep,united kingdom,consumer staples,beverages—non-alcoholic,"uxbridge,unitedkingdom",," 22,000", mr. damian paul gammell
+594,the hong kong and china gas company ltd,doll_22.54 b,0003,hong kong,utilities,utilities—regulated gas,"northpoint,hongkong",," 55,302",
+595,komatsu ltd,doll_22.56 b,6301,japan,industrials,farm & heavy construction machinery,"tokyo,japan",," 61,564", mr. hiroyuki  ogawa
+596,grupo financiero banorte sab de cv,doll_22.60 b,gfnorteo,mexico,financials,banks,"santafe,df,mexico",,, mr. jose marcos  ramirez miguel
+597,picc property and casualty company ltd,doll_22.62 b,2328,china,financials,insurance—property & casualty,"beijing,china",," 171,508",
+598,kellogg company,doll_22.63 b,k,united states,consumer staples,packaged foods,"battlecreek,mi,unitedstates"," february 19, 1906"," 31,000", mr. steven a. cahillane
+599,hewlett packard enterprise company,doll_22.65 b,hpe,united states,technology,communication equipment,"houston,tx,unitedstates"," november 1, 2015"," 60,400", mr. antonio fabio neri
+600,shanghai international port,doll_22.65 b,600018,china,industrials,marine shipping,"shanghai,china",," 14,068", mr. jun  yan
+601,ucb sa,doll_22.71 b,ucb,belgium,healthcare,biotechnology,"brussels,belgium",," 8,600", mr. jean-christophe  tellier
+602,panasonic corp,doll_22.73 b,6752,japan,technology,consumer electronics,"kadoma,japan",," 240,786", mr. yuki  kusumi
+603,eurofins scientific se,doll_22.75 b,erf,luxembourg,                                        healthcare                                    ,                                        diagnostics & research                                    ,"luxembourgcity,luxembourg",," 57,992", dr. gilles g. martin ph.d.
+604,sociedad química y minera de chile sa,doll_22.77 b,sqm,chile,basic materials,chemicals,"santiago,chile"," june 11th, 1968"," 6,081",
+605,epiroc ab,doll_24.08 b,3ad2,sweden,industrials,farm & heavy construction machinery,"nacka,sweden",," 15,529", ms. helena  hedblom m.sc.
+606,vulcan materials company,doll_24.08 b,vmc,united states,basic materials,building materials,"birmingham,al,unitedstates", 1909 as birmingham slag company," 11,912", mr. james thomas hill
+607,bt group plc,doll_24.09 b,bt.a,united kingdom,communication services,telecom services,"london,unitedkingdom", 18 june 1846," 99,700", mr. philip eric rene jansen
+608,fujifilm holdings corp,doll_24.12 b,4901,japan,industrials,business equipment & supplies,"tokyo,japan",," 73,275", mr. teiichi  goto
+609,fresenius se & co kgaa,doll_24.12 b,fre,germany,healthcare,medical care facilities,"badhomburgvorderhohe,germany",," 316,078", mr. stephan  sturm
+610,"mid-america apartment communities, inc.",doll_24.18 b,maa,united states,real estate,reit—residential,"germantown,tn,unitedstates", 1977," 2,429", mr. h. eric bolton jr.
+611,"slack technologies, inc.",doll_24.30 b,work,united states,technology,software—application,"sanfrancisco,ca,unitedstates"," vancouver, british columbia, canada 2009"," 1,664", mr. phanich  sodsee
+612,northern trust corporation,doll_24.42 b,ntrs,united states,financials,asset management,"chicago,il,unitedstates", 1889," 21,100", mr. michael g. o'grady
+613,xpeng inc.,doll_24.44 b,xpev,china,consumer discretionary,auto manufacturers,"guangzhou,china", 2014," 5,084", mr. xiaopeng  he
+614,"aena s.m.e., sa",doll_24.45 b,aena,spain,industrials,airports & air services,"madrid,spain",," 8,162", mr. maurici  lucena betriu
+615,evergreen marine corp,doll_24.49 b,2603,taiwan,industrials,marine shipping,"taipei,taiwan",,,
+616,woodside petroleum ltd,doll_24.60 b,wpl,australia,energy,oil & gas e&p,"perth,wa,australia", 26 july 1954," 3,684"," ms. marguerite eileen o'neill b.sc., m.sc."
+617,"live nation entertainment, inc.",doll_24.61 b,lyv,united states,communication services,entertainment,"beverlyhills,ca,unitedstates"," january 25, 2010"," 10,200", mr. michael  rapino
+618,china minsheng banking corp ltd,doll_24.65 b,600016,china,financials,banks,"beijing,china",," 59,262",
+619,ameren corporation,doll_24.79 b,aee,united states,utilities,utilities—regulated electric,"st.louis,mo,unitedstates", 1997," 9,116", mr. martin j. lyons jr.
+620,"church & dwight co., inc.",doll_24.81 b,chd,united states,consumer staples,household & personal products,"ewing,nj,unitedstates"," 1847: as john dwight and company 1896: as church & dwight, co."," 5,100", mr. matthew thomas farrell
+621,"verisign, inc.",doll_24.81 b,vrsn,united states,technology,software—infrastructure,"reston,va,unitedstates"," april 12, 1995", 902, mr. d. james bidzos
+622,"diamondback energy, inc.",doll_24.84 b,fang,united states,energy,oil & gas e&p,"midland,tx,unitedstates",, 870, mr. travis d. stice
+623,seagen inc.,doll_24.87 b,sgen,united states,healthcare,biotechnology,"bothell,wa,unitedstates", 1997," 2,675", dr. clay b. siegall
+624,palantir technologies inc.,doll_24.91 b,pltr,united states,technology,software—infrastructure,"denver,co,unitedstates", 2003," 2,920", dr. alexander c. karp
+625,"delta air lines, inc.",doll_24.92 b,dal,united states,industrials,airlines,"atlanta,ga,unitedstates"," march 2, 1925"," 83,000", mr. edward h. bastian
+626,"edp renováveis, sa",doll_25.01 b,edpr,spain,utilities,utilities—renewable,"madrid,spain",," 2,114", mr. miguel stilwell de andrade
+627,"gartner, inc.",doll_25.03 b,it,united states,technology,information technology services,"stamford,ct,unitedstates", 1979," 16,600", mr. eugene a. hall
+628,cdw corporation,doll_25.04 b,cdw,united states,technology,information technology services,"lincolnshire,il,unitedstates", 1984," 13,900", ms. christine a. leahy
+629,the mosaic company,doll_25.09 b,mos,united states,basic materials,agricultural inputs,"tampa,fl,unitedstates"," october 22, 2004"," 12,525", mr. james c. o'rourke p.eng.
+630,skandinaviska enskilda banken ab,doll_25.15 b,seb.a,sweden,financials,banks,"stockholm,sweden",," 15,500", mr. johan  torgeby
+631,galaxy entertainment group ltd,doll_25.17 b,0027,hong kong,consumer discretionary,resorts & casinos,"central,hongkong",," 17,088",
+632,legrand sa,doll_25.19 b,lr,france,industrials,specialty industrial machinery,"limoges,france",," 38,207", mr. benoã®t  coquart
+633,"enphase energy, inc.",doll_25.20 b,enph,united states,technology,solar,"fremont,ca,unitedstates", 2006," 2,260", mr. badrinarayanan  kothandaraman
+634,ck asset holdings limited,doll_25.21 b,1113,hong kong,real estate,real estate—development,"central,hongkong",," 54,000",
+635,albemarle corporation,doll_25.25 b,alb,united states,basic materials,specialty chemicals,"charlotte,nc,unitedstates", 1994," 6,000", mr. jerry kent masters jr.
+636,firstenergy corp.,doll_25.26 b,fe,united states,utilities,utilities—diversified,"akron,oh,unitedstates"," november 7, 1997"," 12,395", mr. steven e. strah
+637,yanzhou coal mining company ltd,doll_25.26 b,600188,china,energy,thermal coal,"zoucheng,china",," 63,869",
+638,clp holdings ltd,doll_25.29 b,0002,hong kong,utilities,utilities—regulated electric,"hunghom,hongkong",," 7,061", mr. richard kendall  lancaster be
+639,straumann holding ag,doll_25.31 b,stmn,switzerland,healthcare,medical instruments & supplies,"basel,switzerland",," 8,692", mr. guillaume  daniellot
+640,lennar corporation,doll_25.34 b,len,united states,consumer discretionary,residential construction,"miami,fl,unitedstates", 1954," 10,753", mr. jonathan m. jaffe
+641,nan ya plastics corp,doll_25.41 b,1303,taiwan,basic materials,specialty chemicals,"kaohsiung,taiwan",,,
+642,"united rentals, inc.",doll_25.46 b,uri,united states,industrials,rental & leasing services,"stamford,ct,unitedstates"," august 14, 1997"," 20,400", mr. matthew j. flannery
+643,axis bank ltd,doll_25.54 b,axisbank,india,financials,banks,"mumbai,india",," 86,266", mr. amitabh  chaudhry
+644,banco santander (brasil) sa,doll_25.59 b,sanb11,brazil,financials,banks,"saopaulo,sp,brazil", 1982," 48,834", mr. mario roberto opice leao
+645,"mongodb, inc.",doll_25.73 b,mdb,united states,technology,software—infrastructure,"newyork,ny,unitedstates", 2007," 2,539", mr. dev c. ittycheria
+646,mitsubishi electric corporation,doll_25.61 b,6503,japan,industrials,electrical equipment & parts,"tokyo,japan"," january 15, 1921"," 145,653", mr. kei  uruma
+647,laboratory corporation of america holdings,doll_25.75 b,lh,united states,healthcare,diagnostics & research,"burlington,nc,unitedstates"," september 5, 1978"," 67,950", mr. adam h. schechter
+648,"the hartford financial services group, inc.",doll_25.76 b,hig,united states,financials,insurance—diversified,"hartford,ct,unitedstates", 1810," 18,100", mr. christopher jerome swift cpa
+649,enbw energie baden-wuerttemberg ag,doll_25.82 b,ebk,germany,utilities,utilities—diversified,"karlsruhe,germany",," 24,519", dr. frank  mastiaux
+650,li auto inc.,doll_25.83 b,li,china,consumer discretionary,auto manufacturers,"beijing,china", 2015," 11,901", mr. xiang  li
+651,central japan railway co,doll_26.00 b,9022,japan,industrials,railroads,"nagoya,japan",," 30,153",
+652,"telefónica, sa",doll_26.04 b,tef,spain,communication services,telecom services,"madrid,spain", 19 april 1924," 104,150", mr. jose marã­a  alvarez-pallete lopez
+653,roblox corp,doll_26.05 b,rblx,united states,communication services,electronic gaming & multimedia,"sanmateo,ca,unitedstates",," 1,600", mr. david  baszucki
+654,china everbright bank company ltd,doll_26.13 b,601818,china,financials,banks,"beijing,china",," 46,989",
+655,realty income corporation,doll_26.18 b,o,united states,real estate,reit—retail,"sandiego,ca,unitedstates", 1969, 367, mr. sumit  roy
+656,sonova holding ag,doll_26.22 b,soon,switzerland,healthcare,medical instruments & supplies,"stafa,switzerland",," 14,922", mr. arnd  kaldowski
+657,national bank of canada,doll_26.29 b,,canada,financials,banks,"montreal,qc,canada", november 1979," 27,804", mr. laurent  ferreira
+658,"lyondellbasell advanced polymers, inc.",doll_26.38 b,slmnp,united states,basic materials,chemicals,"fairlawn,oh,unitedstates",," 5,300", mr. bhavesh v. patel
+659,canon inc.,doll_26.38 b,7751,japan,technology,computer hardware,"tokyo,japan", 10 august 1937," 184,034", mr. fujio  mitarai
+660,deutsche bank ag,doll_26.38 b,dbk,germany,financials,banks,"frankfurtammain,germany", 10 march 1869," 82,969", mr. christian  sewing
+661,intact financial corporation,doll_26.40 b,ifc,canada,financials,insurance—property & casualty,"toronto,on,canada", 1809," 26,000", mr. charles j. g. brindamour b.sc.
+662,dte energy company,doll_26.41 b,dte,united states,utilities,utilities—regulated electric,"detroit,mi,unitedstates",," 10,300", mr. gerard m. anderson
+663,southwest airlines co.,doll_26.52 b,luv,united states,industrials,airlines,"dallas,tx,unitedstates"," march 15, 1967"," 55,100", mr. robert e. jordan
+664,thales sa,doll_26.55 b,ho,france,industrials,aerospace & defense,"courbevoie,france",," 81,098", mr. patrice  caine
+665,unity software inc.,doll_26.56 b,u,united states,technology,software—application,"sanfrancisco,ca,unitedstates", 2004," 5,245", mr. john s. riccitiello
+666,kansas city southern,doll_26.59 b,ksu,united states,industrials,railroads,"kansascity,mo,unitedstates", 1887," 6,522", mr. patrick j. ottensmeyer
+667,pg&e corporation,doll_26.66 b,pcg,united states,utilities,utilities—regulated electric,"sanfrancisco,ca,unitedstates", 1905," 26,000", ms. patricia kessler poppe
+668,"cheniere energy partners, l.p.",doll_26.68 b,cqp,united states,energy,oil & gas midstream,"houston,tx,unitedstates",,, mr. jack a. fusco
+669,sandvik ab,doll_26.71 b,sand,sweden,industrials,specialty industrial machinery,"stockholm,sweden",," 44,133", mr. stefan  widing
+670,vonovia se,doll_26.78 b,vna,germany,real estate,real estate services,"bochum,germany",," 16,051", mr. rolf eberhard buch
+671,beijing wantai biological pharmacy enterprise co. ltd,doll_26.80 b,603392,china,healthcare,biotechnology,"beijing,china",," 3,103",
+672,evolution gaming group ab,doll_26.82 b,evo,sweden,consumer discretionary,gambling,"stockholm,sweden",," 8,987",
+673,bridgestone corp,doll_26.88 b,5108,japan,consumer discretionary,auto parts,"tokyo,japan",," 138,036", mr. shuichi  ishibashi
+674,"zimmer biomet holdings, inc.",doll_26.94 b,zbh,united states,healthcare,medical devices,"warsaw,in,unitedstates", 1927," 19,500", mr. bryan c. hanson
+675,aier eye hospital group co. ltd,doll_26.95 b,300015,china,healthcare,medical care facilities,"changsha,china",," 22,808",
+676,shaanxi coal industry company ltd,doll_26.95 b,601225,china,energy,thermal coal,"xi'an,china",," 36,344",
+677,"ansys, inc.",doll_26.98 b,anss,united states,technology,software—application,"canonsburg,pa,unitedstates"," canonsburg, pennsylvania, united states 1970"," 5,100", dr. ajei s. gopal ph.d.
+678,chocoladefabriken lindt & sprüngli ag,doll_27.08 b,lisn,switzerland,consumer staples,confectioners,"kilchberg,switzerland",," 14,000", dr. dieter  weisskopf ph.d.
+679,tractor supply company,doll_27.09 b,tsco,united states,consumer discretionary,specialty retail,"brentwood,tn,unitedstates", 1938," 22,000", mr. harry a. lawton iii
+680,fubon financial holding co. ltd,doll_27.13 b,2881,taiwan,financials,insurance—life,"taipei,taiwan",," 44,461",
+681,gazprom neft pjsc,doll_27.14 b,sibn,russia,energy,oil & gas integrated,"saintpetersburg,russia",,, mr. alexander valerievich dyukov
+682,"interactive brokers group, inc.",doll_27.22 b,ibkr,united states,financials,capital markets,"greenwich,ct,unitedstates"," new york city, united states 1978"," 2,571", mr. milan  galik
+683,will semiconductor co. ltd,doll_27.24 b,603501,china,technology,semiconductors,"shanghai,china",," 3,291",
+684,ganfeng lithium co. ltd,doll_27.25 b,002460,china,basic materials,chemicals,"xinyu,china",," 5,533", mr. liangbin  li
+685,ntt data corp,doll_27.26 b,9613,japan,technology,information technology services,"tokyo,japan",," 139,677", mr. hiroshi  honma
+686,"mccormick & company, incorporated",doll_27.29 b,mkc,united states,consumer staples,packaged foods,"huntvalley,md,unitedstates", 1889," 14,000", mr. lawrence e. kurzius
+687,kone oyj,doll_27.29 b,knebv,finland,industrials,specialty industrial machinery,"espoo,finland",," 62,720", mr. henrik  ehrnrooth m.sc. (econ)
+688,nari technology co. ltd,doll_27.33 b,600406,china,industrials,specialty industrial machinery,"nanjing,china",," 8,806",
+689,"w.w. grainger, inc.",doll_27.33 b,gww,united states,industrials,industrial distribution,"lakeforest,il,unitedstates", 1927," 22,700", mr. donald g. macpherson
+690,"d.r. horton, inc.",doll_27.34 b,dhi,united states,consumer discretionary,residential construction,"arlington,tx,unitedstates", 1978," 11,788", mr. david v. auld
+691,sartorius ag,doll_27.35 b,srt,germany,healthcare,medical instruments & supplies,"gottingen,germany",," 13,832", dr. joachim  kreuzburg
+692,extra space storage inc.,doll_27.37 b,exr,united states,real estate,reit—industrial,"saltlakecity,ut,unitedstates", 1977," 4,309", mr. joseph daniel margolis j.d.
+693,sampo oyj,doll_27.46 b,sampo,finland,financials,insurance—diversified,"helsinki,finland",," 13,340", mr. torbjorn  magnusson
+694,"caixabank, sa",doll_27.58 b,cabk,spain,financials,banks,"valencia,spain",," 49,607", mr. gonzalo maria  gortazar rotaeche
+695,on semiconductor corporation,doll_27.63 b,on,united states,technology,semiconductors,"phoenix,az,unitedstates", 1999," 30,000", mr. hassane s. el-khoury
+696,wolters kluwer n.v.,doll_27.65 b,wkl,netherlands,communication services,publishing,"alphenaandenrijn,netherlands",," 19,454", ms. nancy  mckinstry
+697,edison international,doll_27.67 b,eix,united states,utilities,utilities—regulated electric,"rosemead,ca,unitedstates", 1886," 13,003", mr. pedro j. pizarro
+698,swiss re ag,doll_27.80 b,sren,switzerland,financials,insurance—reinsurance,"zurich,switzerland",," 13,985",
+699,thai beverage public company ltd,doll_27.81 b,y92,thailand,consumer staples,beverages—wineries & distilleries,"bangkok,thailand",,, mr. thapana  sirivadhanabhakdi
+700,great-west lifeco inc.,doll_27.85 b,gwo,canada,financials,insurance—life,"winnipeg,mb,canada", 1891," 28,000", mr. paul anthony mahon
+701,koninklijke philips n.v.,doll_27.89 b,phia,netherlands,healthcare,diagnostics & research,"amsterdam,netherlands", 15 may 1891," 78,189", mr. franã§ois adrianus van houten
+702,first republic bank,doll_27.90 b,frc,united states,financials,banks,"sanfrancisco,ca,unitedstates", 1985," 6,295", mr. michael j. roffler
+703,heineken holding n.v.,doll_22.78 b,heio,netherlands,consumer staples,beverages—brewers,"amsterdam,netherlands",," 82,257",
+704,sabic agri-nutrients company,doll_22.78 b,2020,saudi arabia,basic materials,agricultural inputs,"jubail,saudiarabia",,, mr. abdulrahman ahmed shamsaddin
+705,genmab a/s,doll_22.83 b,gmab,denmark,healthcare,biotechnology,"copenhagen,denmark",," 1,212", dr. jan g.j. van de winkel
+706,"hengli petrochemical co.,ltd.",doll_22.86 b,600346,china,consumer discretionary,textile manufacturing,"dalian,china",," 29,522",
+707,ppl corporation,doll_22.87 b,ppl,united states,utilities,utilities—regulated electric,"allentown,pa,unitedstates"," june 4, 1920"," 5,607", mr. vincent  sorgi
+708,dover corporation,doll_22.94 b,dov,united states,industrials,specialty industrial machinery,"downersgrove,il,unitedstates", 1955," 25,000", mr. richard joseph tobin
+709,v.f. corporation,doll_22.96 b,vfc,united states,consumer discretionary,apparel manufacturing,"greenwoodvillage,co,unitedstates", october 1899," 27,200", mr. steven e. rendle
+710,olympus corp,doll_23.00 b,7733,japan,healthcare,medical instruments & supplies,"tokyo,japan",," 31,653", mr. yasuo  takeuchi
+711,royalty pharma plc,doll_23.04 b,rprx,united states,healthcare,biotechnology,"newyork,ny,unitedstates",,, mr. pablo gerardo legorreta
+712,invitation homes inc.,doll_23.09 b,invh,united states,real estate,reit—residential,"dallas,tx,unitedstates", 2012," 1,240", mr. dallas b. tanner
+713,china international capital corp ltd,doll_23.13 b,601995,china,financials,capital markets,"beijing,china",," 9,372", mr. zhaohui  huang
+714,terumo corp,doll_23.16 b,4543,japan,healthcare,medical instruments & supplies,"tokyo,japan",," 26,482", mr. shinjiro  sato
+715,société générale sa,doll_23.18 b,gle,france,financials,banks,"paris,france",," 124,089", mr. frederic  oudea
+716,wens foodstuff group co. ltd,doll_23.20 b,300498,china,consumer staples,farm products,"yunfu,china",," 52,809",
+717,fox corporation,doll_23.26 b,foxa,united states,communication services,broadcasting,"newyork,ny,unitedstates"," january 1, 2019"," 9,000", mr. lachlan keith murdoch
+718,sany heavy industry co. ltd,doll_23.27 b,600031,china,industrials,farm & heavy construction machinery,"beijing,china",," 24,586",
+719,carnival corporation & plc,doll_23.29 b,ccl,united states,consumer discretionary,travel services,"miami,fl,unitedstates", 1972," 40,000", mr. arnold w. donald
+720,huazhu group limited,doll_23.34 b,htht,china,consumer discretionary,lodging,"shanghai,china", 2005," 18,352",
+721,garmin ltd.,doll_23.35 b,grmn,switzerland,technology,scientific & technical instruments,"schaffhausen,switzerland", october 1989," 18,700", mr. clifton  albert pemble
+722,united microelectronics corporation,doll_23.35 b,2303,taiwan,technology,semiconductors,"hsinchucity,taiwan",," 19,500",
+723,liberty broadband corporation,doll_23.40 b,lbrdk,united states,communication services,entertainment,"englewood,co,unitedstates",,, mr. gregory b. maffei
+724,formosa plastics corp,doll_23.42 b,1301,taiwan,basic materials,specialty chemicals,"kaohsiung,taiwan",,,
+725,fortis inc.,doll_23.43 b,fts,canada,utilities,utilities—regulated electric,"st.john's,nf,canada",," 9,095", mr. david gerard hutchens
+726,"rocket companies, inc.",doll_23.44 b,rkt,united states,financials,mortgage finance,"detroit,mi,unitedstates", 1985," 26,000", mr. jay d. farner
+727,"maxim integrated products, inc.",doll_23.44 b,mxim,united states,technology,semiconductors,"sanjose,ca,unitedstates", 1983," 7,100",
+728,mtn group ltd,doll_23.45 b,mtn,south africa,communication services,telecom services,"johannesburg,southafrica",," 21,975"," mr. ralph tendai mupita b.sc., m.b.a."
+729,kubota corp,doll_23.46 b,6326,japan,industrials,farm & heavy construction machinery,"osaka,japan",," 43,293",
+730,first quantum minerals ltd.,doll_23.47 b,fm,canada,basic materials,copper,"toronto,on,canada", 1983," 20,000", mr. philip kelvin rodda pascall
+731,pt bank mandiri (persero) tbk,doll_23.51 b,pq9,indonesia,financials,banks,"jakarta,indonesia",," 37,840",
+732,beiersdorf ag,doll_23.51 b,bei,germany,consumer staples,household & personal products,"hamburg,germany",," 20,567", mr. vincent  warnery
+733,sungrow power supply co. ltd,doll_23.55 b,300274,china,industrials,electrical equipment & parts,"hefei,china",," 4,492", mr. ren xian  cao
+734,"stanley black & decker, inc.",doll_23.57 b,swk,united states,industrials,tools & accessories,"newbritain,ct,unitedstates", 1843," 71,300", mr. james m. loree
+735,baoshan iron & steel co. ltd,doll_23.59 b,600019,china,basic materials,steel,"shanghai,china",," 47,710",
+736,horizon therapeutics public limited company,doll_23.64 b,hznp,ireland,healthcare,drug manufacturers—general,"dublin,ireland", 2005," 1,890", mr. timothy p. walbert
+737,compagnie générale des etablissements michelin sca,doll_23.65 b,ml,france,consumer discretionary,auto parts,"clermont-ferrand,france",," 118,400", mr. florent  menegaux
+738,sse plc,doll_23.73 b,sse,united kingdom,utilities,utilities—diversified,"perth,unitedkingdom", 1998," 11,865", mr. alistair  phillips-davies
+739,"endesa, sa",doll_23.78 b,ele,spain,utilities,utilities—regulated electric,"madrid,spain",," 9,258", mr. jose damian  bogas galvez
+740,"ventas, inc.",doll_23.81 b,vtr,united states,real estate,reit—healthcare facilities,"chicago,il,unitedstates", 1998, 434, ms. debra a. cafaro
+741,eve energy co. ltd,doll_23.82 b,300014,china,industrials,electrical equipment & parts,"huizhou,china",," 9,669",
+742,splunk inc.,doll_23.84 b,splk,united states,technology,software—infrastructure,"sanfrancisco,ca,unitedstates", october 2003," 7,500", mr. graham vivian smith
+743,"m3, inc.",doll_23.89 b,2413,japan,healthcare,health information services,"tokyo,japan",," 8,249",
+744,entergy corporation,doll_23.92 b,etr,united states,utilities,utilities—diversified,"neworleans,la,unitedstates", 1913," 12,369", mr. leo p. denault
+745,steris plc,doll_23.93 b,ste,ireland,healthcare,medical instruments & supplies,"dublin,ireland", 1985," 13,000", mr. daniel a. carestio
+746,"best buy co., inc.",doll_23.93 b,bby,united states,consumer discretionary,specialty retail,"richfield,mn,unitedstates"," august 22, 1966"," 57,750", ms. corie sue barry
+747,csc financial co. ltd,doll_23.94 b,601066,china,financials,capital markets,"beijing,china",," 9,994",
+748,"martin marietta materials, inc.",doll_23.94 b,mlm,united states,basic materials,building materials,"raleigh,nc,unitedstates", 1993," 10,000", mr. c. howard nye
+749,orix corporation,doll_23.97 b,8591,japan,financials,credit services,"tokyo,japan",," 33,153", mr. makoto  inoue
+750,schindler holding ag,doll_24.02 b,schn,switzerland,industrials,specialty industrial machinery,"hergiswil,switzerland",," 69,015", mr. silvio  napoli
+751,public joint stock company polyus,doll_24.02 b,plzl,russia,basic materials,gold,"moscow,russia",,,
+752,mega financial holding co. ltd,doll_20.21 b,2886,taiwan,financials,banks,"taipei,taiwan",," 9,594",
+753,mgm resorts international,doll_20.22 b,mgm,united states,consumer discretionary,resorts & casinos,"lasvegas,nv,unitedstates", 1986," 52,000", mr. william joseph hornbuckle iv
+754,nomura research institute ltd,doll_20.26 b,4307,japan,technology,information technology services,"tokyo,japan",," 16,196", mr. shingo  konomoto
+755,"brown & brown, inc.",doll_20.27 b,bro,united states,financials,insurance brokers,"daytonabeach,fl,unitedstates", 1939," 12,023"," mr. j. powell brown c.p.c.u., cpcu"
+756,markel corporation,doll_20.30 b,mkl,united states,financials,insurance—property & casualty,"glenallen,va,unitedstates", 1930," 20,300", mr. thomas sinnickson gayner
+757,carvana co.,doll_20.33 b,cvna,united states,consumer discretionary,internet retail,"tempe,az,unitedstates", 2012," 21,000", mr. ernest c. garcia iii
+758,nippon paint holdings co. ltd,doll_20.38 b,4612,japan,basic materials,specialty chemicals,"osaka,japan",," 27,318",
+759,guotai junan securities co. ltd,doll_20.39 b,601211,china,financials,capital markets,"shanghai,china",," 15,198",
+760,mitsubishi estate co. ltd,doll_20.39 b,8802,japan,real estate,real estate—diversified,"tokyo,japan",," 9,982", mr. junichi  yoshida
+761,investment ab latour,doll_20.39 b,lato.b,sweden,financials,asset management,"gothenburg,sweden",," 8,001", mr. johan  hjertonsson mba
+762,alinma bank,doll_20.41 b,1150,saudi arabia,financials,banks,"riyadh,saudiarabia",," 3,280",
+763,synchrony financial,doll_20.43 b,syf,united states,financials,credit services,"stamford,ct,unitedstates"," september 12, 2003"," 18,000", mr. brian d. doubles
+764,"boston properties, inc.",doll_20.54 b,bxp,united states,real estate,reit—office,"boston,ma,unitedstates", 1970, 743, mr. owen david thomas
+765,sojitz corp,doll_20.55 b,2768,japan,industrials,conglomerates,"tokyo,japan",," 19,463", mr. masayoshi  fujimoto
+766,flutter entertainment plc,doll_20.58 b,fltr,ireland,consumer discretionary,gambling,"dublin,ireland", 2 february 2016," 16,813", mr. jeremy peter jackson
+767,pembina pipeline corporation,doll_20.61 b,ppl,canada,energy,oil & gas midstream,"calgary,ab,canada",," 2,349", mr. j. scott burrows
+768,kyocera corp,doll_20.62 b,6971,japan,technology,consumer electronics,"kyoto,japan",," 78,490", mr. hideo  tanimoto
+769,advanced info service pcl,doll_20.65 b,advanc,thailand,communication services,telecom services,"bangkok,thailand",,, mr. somchai  lertsutiwong
+770,steris corp,doll_20.66 b,s1te34,united states,healthcare,medical devices,"mentor,oh,unitedstates",,, mr. walter m. rosebrough jr.
+771,cms energy corporation,doll_20.73 b,cms,united states,utilities,utilities—regulated electric,"jackson,mi,unitedstates", 1886," 8,504", mr. garrick j. rochow
+772,li ning co ltd,doll_20.75 b,2331,china,consumer discretionary,leisure,"beijing,china",," 4,019", mr. ning  li
+773,standard chartered plc,doll_20.78 b,stan,united kingdom,financials,banks,"london,unitedkingdom"," as chartered bank of india, australia, and china on 29 december 1853"," 81,770",
+774,marubeni corp,doll_20.78 b,8002,japan,industrials,conglomerates,"tokyo,japan",,, mr. masumi  kakinoki
+775,repsol sa,doll_20.80 b,rep,spain,energy,oil & gas integrated,"madrid,spain",," 23,268", mr. josu jon  imaz san miguel ph.d.
+776,royal caribbean cruises ltd.,doll_20.81 b,rcl,united states,consumer discretionary,travel services,"miami,fl,unitedstates", 1997 ," 84,900", mr. jason t. liberty
+777,applovin corp,doll_20.86 b,app,united states,technology,software—application,"paloalto,ca,unitedstates",," 1,594", mr. adam arash foroughi
+778,fortive corporation,doll_20.88 b,ftv,united states,technology,scientific & technical instruments,"everett,wa,unitedstates", 2016," 18,000", mr. james a. lico
+779,"fleetcor technologies, inc.",doll_20.92 b,flt,united states,technology,information technology services,"atlanta,ga,unitedstates", 2000," 9,700", mr. ronald f. clarke
+780,"hubspot, inc.",doll_20.93 b,hubs,united states,technology,software—application,"cambridge,ma,unitedstates", june 2006," 5,895", ms. yamini  rangan
+781,microchip technology incorporated,doll_21.03 b,mchp,united states,technology,semiconductors,"chandler,az,unitedstates", 1989," 19,500", mr. ganesh  moorthy
+782,yandex n.v.,doll_21.05 b,yndx,netherlands,communication services,internet content & information,"schiphol,netherlands", 23 september 1997," 18,004", mr. arkady  volozh
+783,segro plc,doll_21.08 b,sgro,united kingdom,real estate,reit—industrial,"london,unitedkingdom", 1920, 385, mr. david john rivers sleath o.b.e.
+784,ingersoll rand inc.,doll_21.13 b,ir,united states,industrials,specialty industrial machinery,"davidson,nc,unitedstates", 1859," 16,000", mr. vicente  reynal
+785,china mengniu dairy co ltd,doll_21.17 b,2319,hong kong,consumer staples,packaged foods,"causewaybay,hongkong",," 43,397", mr. minfang  lu
+786,seagate technology plc,doll_21.21 b,stx,ireland,technology,computer hardware,"dublin,ireland"," november 1, 1979"," 40,000", dr. william david mosley
+787,china northern rare earth,doll_21.21 b,600111,china,basic materials,other industrial metals & mining,"baotou,china",," 9,111",
+788,viacomcbs inc.,doll_21.22 b,viaca,united states,communication services,entertainment,"newyork,ny,unitedstates"," december 4, 2019"," 22,965", mr. robert marc bakish
+789,zoominfo technologies inc.,doll_21.23 b,zi,united states,technology,software—application,"vancouver,wa,unitedstates", 2007," 2,742", mr. henry l. schuck
+790,wheaton precious metals corp.,doll_21.26 b,wpm,canada,basic materials,gold,"vancouver,bc,canada", 2004, 44," mr. randy v. j. smallwood p.eng, p.eng."
+791,regions financial corporation,doll_21.32 b,rf,united states,financials,banks,"birmingham,al,unitedstates", 1971," 19,626", mr. john m. turner jr.
+792,legal & general group plc,doll_21.34 b,lgen,united kingdom,financials,insurance—life,"london,unitedkingdom", 1836," 10,046", dr. nigel david wilson
+793,"the cooper companies, inc.",doll_21.35 b,coo,united states,healthcare,medical instruments & supplies,"sanramon,ca,unitedstates", 1958 ," 12,000", mr. albert g. white iii
+794,nexon co. ltd,doll_21.36 b,3659,japan,communication services,electronic gaming & multimedia,"tokyo,japan",," 6,288", mr. owen  mahoney
+795,rede d'or são luiz sa,doll_21.40 b,rdor3,brazil,healthcare,medical care facilities,"saopaulo,sp,brazil",,, mr. paulo junqueira moll
+796,teck resources limited,doll_21.41 b,teck.b,canada,basic materials,other industrial metals & mining,"vancouver,bc,canada",," 10,600"," mr. donald r. lindsay b.sc. honours, m.b.a"
+797,sgs sa,doll_21.43 b,sgsn,switzerland,industrials,consulting services,"geneva,switzerland",," 96,216",
+798,the saudi british bank,doll_21.45 b,1060,saudi arabia,financials,banks,"riyadh,saudiarabia",," 4,156", mr. anthony william cripps
+799,mitsui fudosan co. ltd,doll_21.46 b,8801,japan,real estate,real estate—diversified,"tokyo,japan",," 23,992", mr. masanobu  komoda
+800,"j.b. hunt transport services, inc.",doll_21.48 b,jbht,united states,industrials,integrated freight & logistics,"lowell,ar,unitedstates"," august 10, 1961"," 33,045", mr. john n. roberts iii
+801,veolia environnement sa,doll_18.14 b,vie,france,industrials,waste management,"aubervilliers,france",," 171,450", mr. antoine  frã©rot
+802,cez as,doll_18.16 b,cez,czechia,                                        utilities                                    ,                                        utilities—renewable                                    ,"prague,czechia",," 28,000", engineer daniel  beneâ
+803,"yum china holdings, inc.",doll_18.18 b,yumc,china,consumer discretionary,restaurants,"shanghai,china"," november 1, 2016"," 147,000", ms. joey  wat
+804,restaurant brands international inc.,doll_18.19 b,qsr,canada,consumer discretionary,restaurants,"toronto,on,canada"," december 15, 2014"," 5,700",
+805,capitec bank holdings ltd,doll_18.21 b,cpi,south africa,financials,banks,"stellenbosch,southafrica",," 14,789"," mr. gerhardus metselaar fourie b.com., m.b.a., b.comm (hons), mba"
+806,asahi group holdings ltd,doll_18.21 b,2502,japan,consumer staples,beverages—brewers,"tokyo,japan",," 30,020", mr. atsushi  katsuki
+807,haitong securities co. ltd,doll_18.23 b,600837,china,financials,capital markets,"shanghai,china",," 11,282",
+808,"catalent, inc.",doll_18.24 b,ctlt,united states,healthcare,drug manufacturers—specialty & generic,"somerset,nj,unitedstates", 2007," 17,300", mr. john r. chiminski
+809,"quanta services, inc.",doll_18.25 b,pwr,united states,industrials,engineering & construction,"houston,tx,unitedstates", 1997," 43,700", mr. earl c. austin jr.
+810,ubiquiti inc.,doll_18.25 b,ui,united states,technology,communication equipment,"newyork,ny,unitedstates", october 2003," 1,223", mr. robert j. pera
+811,shionogi & co. ltd,doll_18.27 b,4507,japan,healthcare,drug manufacturers—specialty & generic,"osaka,japan",," 5,485", dr. isao  teshirogi ph.d.
+812,link real estate investment trust,doll_18.27 b,0823,hong kong,real estate,reit—retail,"kwuntong,hongkong",," 1,100", mr. kwok lung  hongchoy
+813,aeon co. ltd,doll_18.32 b,8267,japan,consumer discretionary,department stores,"chiba,japan",," 155,578",
+814,"alnylam pharmaceuticals, inc.",doll_18.33 b,alny,united states,healthcare,biotechnology,"cambridge,ma,unitedstates", 2002," 1,665"," dr. yvonne l. greenstreet m.b.a., mba, mbchb"
+815,china merchants securities co. ltd,doll_18.35 b,600999,china,financials,capital markets,"shenzhen,china",," 10,169",
+816,"take-two interactive software, inc.",doll_18.35 b,ttwo,united states,communication services,electronic gaming & multimedia,"newyork,ny,unitedstates"," september 30, 1993"," 6,495", mr. strauss h. zelnick esq.
+817,vodacom group ltd,doll_18.41 b,vod,south africa,communication services,telecom services,"midrand,southafrica",," 7,642", mr. mohamed shameel aziz joosub
+818,genuine parts company,doll_18.41 b,gpc,united states,consumer discretionary,specialty retail,"atlanta,ga,unitedstates", 1925," 52,000", mr. paul d. donahue
+819,gf securities co. ltd,doll_18.44 b,000776,china,financials,capital markets,"guangzhou,china",," 12,307",
+820,heico corporation,doll_18.49 b,hei,united states,industrials,aerospace & defense,"hollywood,fl,unitedstates", 1957 as heinicke instruments," 5,600", mr. laurans a. mendelson
+821,sands china ltd,doll_18.52 b,1928,macao,                                        consumer discretionary                                    ,                                        resorts & casinos                                    ,"taipa,macao",," 25,751", mr. robert glen goldstein
+822,"huaneng power international, inc.",doll_18.57 b,600011,china,utilities,utilities—independent power producers,"beijing,china", 30 june 1994 in beijing," 57,513",
+823,south32 limited,doll_18.67 b,s32,australia,basic materials,other industrial metals & mining,"perth,wa,australia",," 13,576"," mr. graham  kerr bbus, fcpa"
+824,"jd health international, inc.",doll_18.69 b,8zn,china,healthcare,medical care facilities,"beijing,china",," 2,576", mr. enlin  jin
+825,power construction corp of china ltd,doll_18.69 b,601669,china,industrials,engineering & construction,"beijing,china",," 132,125",
+826,air china ltd,doll_18.72 b,601111,china,industrials,airlines,"beijing,china",," 89,373",
+827,credit suisse group ag,doll_18.72 b,csgn,switzerland,financials,banks,"zurich,switzerland", 1856," 50,110", dr. thomas p. gottstein
+828,the liberty siriusxm group,doll_18.74 b,lsxmb,united states,communication services,broadcasting,"englewood,co,unitedstates", 1991, 84,
+829,"ms&ad insurance group holdings, inc.",doll_18.75 b,8725,japan,financials,insurance—property & casualty,"tokyo,japan",," 41,501", mr. noriyuki  hara
+830,"healthpeak properties, inc.",doll_18.76 b,peak,united states,real estate,reit—healthcare facilities,"denver,co,unitedstates", 1985, 196, mr. thomas m. herzog
+831,"netapp, inc.",doll_18.76 b,ntap,united states,technology,computer hardware,"sunnyvale,ca,unitedstates", 1992," 11,000", mr. george  kurian
+832,george weston limited,doll_18.77 b,wn,canada,consumer staples,grocery stores,"toronto,on,canada"," toronto, ontario, canada 1882"," 215,298"," mr. galen g. weston b.a., m.b.a, m.b.a."
+833,scottish mortgage investment trust plc,doll_18.78 b,smt,united kingdom,financials,asset management,, 1909,,
+834,international paper company,doll_18.78 b,inpap,united states,consumer discretionary,packaging & containers,"memphis,tn,unitedstates", 1898," 49,300",
+835,"aecc aviation power co.,ltd",doll_18.79 b,600893,china,industrials,aerospace & defense,"xi'an,china",," 34,977",
+836,omnicom group inc.,doll_18.80 b,omc,united states,communication services,advertising agencies,"newyork,ny,unitedstates", 1986," 71,700", mr. john d. wren
+837,astra international tbk pt,doll_18.90 b,asja,indonesia,consumer discretionary,auto parts,"jakarta,indonesia",," 123,894",
+838,"lg electronics, inc.",doll_18.91 b,066570,south korea,technology,consumer electronics,"seoul,southkorea",," 37,245", mr. joo-wan  cho
+839,toshiba corp,doll_18.93 b,6502,japan,industrials,specialty industrial machinery,"tokyo,japan",," 117,300", mr. taro  shimada
+840,check point software technologies ltd.,doll_18.94 b,chkp,israel,technology,software—infrastructure,"telaviv,israel", 1993," 6,000", mr. gil  shwed
+841,"citizens financial group, inc.",doll_18.95 b,cfg,united states,financials,banks,"providence,ri,unitedstates", 1828," 17,463", mr. bruce winfield van saun
+842,tenaris sa,doll_18.98 b,ten,luxembourg,                                        energy                                    ,                                        oil & gas equipment & services                                    ,"luxembourgcity,luxembourg", 2001," 22,776", mr. paolo  rocca
+843,otsuka holdings co. ltd,doll_19.03 b,4578,japan,healthcare,drug manufacturers—general,"tokyo,japan",," 33,151", mr. tatsuo  higuchi
+844,waters corporation,doll_19.11 b,wat,united states,healthcare,diagnostics & research,"milford,ma,unitedstates", 1958," 7,800", dr. udit  batra ph.d.
+845,nice ltd.,doll_19.12 b,nice,israel,technology,software—application,"raâanana,israel", 1986," 6,800",
+846,carlsberg a-s,doll_19.12 b,carl.a,denmark,consumer staples,beverages—brewers,"copenhagen,denmark",," 39,000", mr. cees c. â´t hart
+847,"ss&c technologies holdings, inc.",doll_19.15 b,ssnc,united states,technology,software—application,"windsor,ct,unitedstates"," march 1, 1986"," 24,900", mr. william c. stone
+848,zhejiang huayou cobalt co. ltd,doll_19.20 b,603799,china,basic materials,other industrial metals & mining,"tongxiang,china",," 8,079",
+849,warner music group corp.,doll_19.21 b,wmg,united states,communication services,entertainment,"newyork,ny,unitedstates"," april 6, 1958"," 5,900", mr. stephen forbes cooper
+850,equinor asa,doll_122.74 b,eqnr,norway,                                        energy                                    ,                                        oil & gas integrated                                    ,"stavanger,norway", 14 june 1972," 21,126", mr. anders  opedal
+851,aia group ltd,doll_125.16 b,1299,hong kong,financials,insurance—life,"central,hongkong",," 23,000",
+852,lockheed martin corporation,doll_124.98 b,lmt,united states,industrials,aerospace & defense,"bethesda,md,unitedstates"," march 15, 1995"," 114,000", mr. james d. taiclet jr.
+853,caterpillar inc.,doll_124.13 b,cat,united states,industrials,farm & heavy construction machinery,"deerfield,il,unitedstates"," april 15, 1925"," 107,700", mr. d. james umpleby iii
+854,anheuser-busch inbev sa/nv,doll_123.59 b,abi,belgium,consumer staples,beverages—brewers,"leuven,belgium",," 169,339",
+855,christian dior se,doll_122.11 b,cdi,france,consumer discretionary,luxury goods,"paris,france",," 119,243", mr. sidney  toledano
+856,rio tinto group,doll_125.84 b,rio,united kingdom,basic materials,other industrial metals & mining,"london,unitedkingdom", 1873," 49,000"," mr. jakob  stausholm m.s., ms"
+857,sony group corporation,doll_126.64 b,6758,japan,technology,consumer electronics,"tokyo,japan", 7 may 1946," 109,700", mr. kenichiro  yoshida
+858,the boeing company,doll_110.46 b,ba,united states,industrials,aerospace & defense,"chicago,il,unitedstates"," july 15, 1916"," 142,000", mr. david l. calhoun
+859,"industria de diseño textil, sa",doll_110.65 b,itx,spain,consumer discretionary,apparel retail,"corunna,spain",," 104,431", mr. oscar garcia maceiras
+860,transurban group,doll_110.79 b,tcl,australia,industrials,infrastructure operations,"melbourne,vic,australia"," 14 march 1996, melbourne", 672," mr. scott  charlton m.b.a., bsci, beng (elec), mba, member of fei, fta"
+861,"the goldman sachs group, inc.",doll_112.71 b,gs,united states,financials,capital markets,"newyork,ny,unitedstates", 1869," 43,900", mr. david  solomon
+862,keyence corp,doll_113.20 b,6861,japan,technology,scientific & technical instruments,"osaka,japan",," 8,380",
+863,meituan,doll_114.28 b,3690,china,consumer discretionary,internet retail,"beijing,china",," 69,205", mr. xing  wang
+864,china life insurance company limited,doll_97.31 b,lfc,china,financials,insurance—life,"beijing,china", 1949," 104,160",
+865,intuit inc.,doll_126.77 b,intu,united states,technology,software—application,"mountainview,ca,unitedstates", 1983," 13,500", mr. sasan k. goodarzi
+866,danaher corporation,doll_208.03 b,dhr,united states,healthcare,diagnostics & research,"washington,dc,unitedstates", 1969," 78,000", mr. rainer m. blair
+867,"merck & co., inc.",doll_210.38 b,mrk,united states,healthcare,drug manufacturers—general,"kenilworth,nj,unitedstates", 1891," 67,000", mr. robert m. davis j.d.
+868,bhp group,doll_211.25 b,bhp,australia,basic materials,other industrial metals & mining,"melbourne,vic,australia", 1885," 40,110"," mr. mike p. henry b.sc., bsc (chem)"
+869,"nike, inc.",doll_213.60 b,nke,united states,consumer discretionary,footwear & accessories,"beaverton,or,unitedstates"," january 25, 1964"," 73,300", mr. john j. donahoe ii
+870,abbott laboratories,doll_215.02 b,abt,united states,healthcare,medical devices,"northchicago,il,unitedstates", 1888," 113,000", mr. robert b. ford
+871,verizon communications inc.,doll_216.68 b,vz,united states,communication services,telecom services,"newyork,ny,unitedstates"," october 7, 1983"," 118,400", mr. hans e. vestberg
+872,comcast corporation,doll_218.90 b,cmcsa,united states,communication services,entertainment,"philadelphia,pa,unitedstates"," june 28, 1963"," 189,000", mr. brian l. roberts
+873,accenture plc,doll_219.03 b,acn,ireland,technology,information technology services,"dublin,ireland", 1989," 699,000", ms. julie t. spellman sweet
+874,l'oréal sa,doll_225.24 b,or,france,consumer staples,household & personal products,"clichy,france",," 85,400", mr. nicolas  hieronimus
+875,oracle corporation,doll_228.18 b,orcl,united states,technology,software—infrastructure,"redwoodcity,ca,unitedstates"," june 16, 1977"," 132,000", ms. safra ada catz
+876,thermo fisher scientific inc.,doll_236.15 b,tmo,united states,healthcare,diagnostics & research,"waltham,ma,unitedstates", 1956," 130,000", mr. marc n. casper
+877,"cisco systems, inc.",doll_238.45 b,csco,united states,technology,communication equipment,"sanjose,ca,unitedstates"," december 10, 1984"," 79,500", mr. charles h. robbins
+878,"pepsico, inc.",doll_241.05 b,pep,united states,consumer staples,beverages—non-alcoholic,"purchase,ny,unitedstates"," august 28, 1898"," 309,000", mr. ramon luis laguarta
+879,the walt disney company,doll_247.88 b,dis,united states,communication services,entertainment,"burbank,ca,unitedstates"," october 16, 1923"," 152,000", mr. robert a. chapek
+880,industrial & commercial bank of china ltd,doll_250.37 b,601398,china,financials,banks,"beijing,china",," 439,787",
+881,novo nordisk a/s,doll_257.24 b,novo.b,denmark,healthcare,biotechnology,"bagsvaerd,denmark"," december 21, 1923"," 47,792", mr. lars fruergaard jorgensen
+882,costco wholesale corporation,doll_258.15 b,cost,united states,consumer staples,discount stores,"issaquah,wa,unitedstates"," july 12, 1976"," 288,000", mr. w. craig jelinek
+883,broadcom inc.,doll_265.27 b,avgo,united states,technology,semiconductors,"sanjose,ca,unitedstates", 1961," 20,000", mr. hock e. tan
+884,eli lilly and company,doll_273.01 b,lly,united states,healthcare,drug manufacturers—general,"indianapolis,in,unitedstates", 1876," 35,000", mr. david a. ricks
+885,the coca-cola company,doll_273.20 b,ko,united states,consumer staples,beverages—non-alcoholic,"atlanta,ga,unitedstates"," january 29, 1892"," 79,000", mr. james robert b. quincey
+886,asml holding n.v.,doll_274.35 b,asml,netherlands,technology,semiconductor equipment & materials,"veldhoven,netherlands", 1984," 29,861", mr. peter t. f. m. wennink
+887,alibaba group holding limited,doll_290.40 b,9988,china,consumer discretionary,internet retail,"hangzhou,china", 28 june 1999," 259,316", mr. yong  zhang
+888,abbvie inc.,doll_294.27 b,abbv,united states,healthcare,drug manufacturers—general,"northchicago,il,unitedstates", 2013," 50,000", mr. richard a. gonzalez
+889,pfizer inc.,doll_300.79 b,pfe,united states,healthcare,drug manufacturers—general,"newyork,ny,unitedstates", 1849," 79,000"," dr. albert  bourla d.v.m., dvm, ph.d."
+890,chevron corporation,doll_315.13 b,cvx,united states,energy,oil & gas integrated,"sanramon,ca,unitedstates"," september 10, 1879"," 42,595", mr. michael k. wirth
+891,"the home depot, inc.",doll_321.47 b,hd,united states,consumer discretionary,home improvement retail,"atlanta,ga,unitedstates"," february 6, 1978"," 490,600", mr. edward p. decker
+892,kweichow moutai co. ltd,doll_348.22 b,600519,china,consumer staples,beverages—wineries & distilleries,"renhuai,china",," 29,031",
+893,exxon mobil corporation,doll_348.72 b,xom,united states,energy,oil & gas integrated,"irving,tx,unitedstates"," november 30, 1999"," 63,000", mr. darren w. woods
+894,roche holding ag,doll_349.50 b,rog,switzerland,healthcare,drug manufacturers—general,"basel,switzerland",," 100,920", dr. severin  schwan ph.d.
+895,bank of america corporation,doll_350.84 b,bac,united states,financials,banks,"charlotte,nc,unitedstates", 1998," 208,000", mr. brian thomas moynihan
+896,mastercard incorporated,doll_358.60 b,ma,united states,financials,credit services,"purchase,ny,unitedstates", 1966," 24,000", mr. michael  miebach
+897,"lvmh moët hennessy - louis vuitton, se",doll_359.26 b,mc,france,consumer discretionary,luxury goods,"paris,france",," 148,343", mr. bernard  arnault
+898,"samsung electronics co., ltd.",doll_378.35 b,005930,south korea,technology,consumer electronics,"suwon-si,southkorea",,, mr. jong-hee  han
+899,the procter & gamble company,doll_384.60 b,pg,united states,consumer staples,household & personal products,"cincinnati,oh,unitedstates"," october 31, 1837"," 101,000", mr. jon r. moeller
+900,jpmorgan chase & co.,doll_410.84 b,jpm,united states,financials,banks,"newyork,ny,unitedstates"," december 1, 2000"," 271,025", mr. james  dimon
+901,walmart inc.,doll_429.05 b,wmt,united states,consumer staples,discount stores,"bentonville,ar,unitedstates"," july 2, 1962"," 2,300,000", mr. c. douglas mcmillon
+902,tencent holdings ltd,doll_441.17 b,0700,china,communication services,internet content & information,"shenzhen,china",," 112,771", mr. huateng pony  ma
+903,johnson & johnson,doll_475.93 b,jnj,united states,healthcare,drug manufacturers—general,"newbrunswick,nj,unitedstates", january 1886," 141,700", mr. joaquin  duato
+904,visa inc.,doll_486.77 b,v,united states,financials,credit services,"sanfrancisco,ca,unitedstates"," september 18, 1958"," 21,500", mr. alfred francis kelly jr.
+905,unitedhealth group incorporated,doll_488.52 b,unh,united states,healthcare,healthcare plans,"minnetonka,mn,unitedstates", 1977," 350,000", sir andrew philip witty
+906,taiwan semiconductor manufacturing company limited,doll_527.89 b,2330,taiwan,technology,semiconductors,"hsinchu,taiwan"," industrial technology research institute, hsinchu, taiwan.1987"," 54,193", dr. c. c.  wei
+907,"meta platforms, inc.",doll_617.50 b,meta,united states,communication services,internet content & information,"menlopark,ca,unitedstates"," january 4, 2004"," 71,970", mr. mark elliot zuckerberg
+908,nvidia corporation,doll_660.38 b,nvda,united states,technology,semiconductors,"santaclara,ca,unitedstates"," april 5, 1993"," 22,473", mr. jen-hsun  huang
+909,berkshire hathaway inc.,doll_798.47 b,brk.a,united states,financials,financial conglomerates,"omaha,ne,unitedstates", 1839," 372,000", mr. warren e. buffett
+910,"tesla, inc.",doll_1.016 t,tsla,united states,consumer discretionary,auto manufacturers,"paloalto,ca,unitedstates"," july 1, 2003"," 99,290", mr. elon r. musk
+911,"amazon.com, inc.",doll_1.642 t,amzn,united states,consumer discretionary,internet retail,"seattle,wa,unitedstates"," july 5, 1994"," 1,608,000", mr. andrew r. jassy
+912,alphabet inc.,doll_1.825 t,goog,united states,communication services,internet content & information,"mountainview,ca,unitedstates"," october 2, 2015"," 156,500", mr. sundar  pichai
+913,saudi arabian oil company,doll_2.297 t,2222,saudi arabia,energy,oil & gas integrated,"dhahran,saudiarabia",,, mr. amin h. nasser
+914,microsoft corporation,doll_2.328 t,msft,united states,technology,software—infrastructure,"redmond,wa,unitedstates"," april 4, 1975"," 181,000", mr. satya  nadella
+915,apple inc.,doll_2.825 t,aapl,united states,technology,consumer electronics,"cupertino,ca,unitedstates"," april 1, 1976"," 100,000", mr. timothy d. cook
+916,"advanced micro devices, inc.",doll_128.29 b,amd,united states,technology,semiconductors,"santaclara,ca,unitedstates"," may 1, 1969"," 15,500", dr. lisa t. su ph.d.
+917,deere & company,doll_130.31 b,de,united states,industrials,farm & heavy construction machinery,"moline,il,unitedstates", 1837," 75,550", mr. john c. may ii
+918,sanofi,doll_132.29 b,san,france,healthcare,drug manufacturers—general,"paris,france", 1973," 95,442", mr. paul  hudson
+919,"paypal holdings, inc.",doll_133.92 b,pypl,united states,financials,credit services,"sanjose,ca,unitedstates", december 1998," 30,900", mr. daniel h. schulman
+920,sap se,doll_134.19 b,sap,germany,technology,software—application,"walldorf,germany"," weinheim, germany1972"," 107,415", mr. christian  klein
+921,ping an insurance (group) company of china ltd,doll_134.25 b,601318,china,financials,insurance—life,"shenzhen,china",," 355,982", mr. bo  yao
+922,cvs health corporation,doll_135.27 b,cvs,united states,healthcare,healthcare plans,"woonsocket,ri,unitedstates", 1963," 216,000", ms. karen sue lynch
+923,conocophillips,doll_136.32 b,cop,united states,energy,oil & gas e&p,"houston,tx,unitedstates", 30 august 2002," 9,900", mr. ryan m. lance
+924,honeywell international inc.,doll_136.48 b,hon,united states,industrials,specialty industrial machinery,"charlotte,nc,unitedstates", 1906," 99,000", mr. darius e. adamczyk
+925,totalenergies se,doll_137.50 b,tte,france,energy,oil & gas integrated,"paris,france", 28 march 1924," 105,476", mr. patrick  pouyannã©
+926,china mobile ltd,doll_139.30 b,0941,hong kong,communication services,telecom services,"hongkong,hongkong",," 449,934", mr. xin  dong
+927,hsbc holdings plc,doll_140.15 b,hsba,united kingdom,financials,banks,"london,unitedkingdom", first established on 3 march 1865," 219,697", mr. noel paul quinn
+928,bank of china ltd,doll_141.22 b,601988,china,financials,banks,"beijing,china",," 309,084",
+929,amgen inc.,doll_141.72 b,amgn,united states,healthcare,drug manufacturers—general,"thousandoaks,ca,unitedstates"," april 8, 1980"," 24,200", mr. robert a. bradway
+930,"lowe's companies, inc.",doll_143.77 b,low,united states,consumer discretionary,home improvement retail,"mooresville,nc,unitedstates"," march 25, 1921"," 300,000", mr. marvin r. ellison
+931,commonwealth bank of australia,doll_144.32 b,cba,australia,financials,banks,"sydney,nsw,australia", 22 december 1911," 47,532", mr. matthew  comyn
+932,petrochina company limited,doll_144.50 b,601857,china,energy,oil & gas integrated,"beijing,china", 5 november 1999," 432,003",
+933,toronto-dominion bank,doll_145.41 b,td,canada,financials,banks,"toronto,on,canada", 1 february 1955," 90,000", mr. bharat b. masrani
+934,hermès international sca,doll_148.98 b,rms,france,consumer discretionary,luxury goods,"paris,france", 1837," 17,595",
+935,american express company,doll_150.76 b,axp,united states,financials,credit services,"newyork,ny,unitedstates"," march 18, 1850"," 64,000", mr. stephen joseph squeri
+936,raytheon technologies corporation,doll_150.96 b,rtx,united states,industrials,aerospace & defense,"waltham,ma,unitedstates", 2020," 174,000", mr. gregory j. hayes
+937,medtronic plc,doll_151.06 b,mdt,ireland,healthcare,medical devices,"dublin,ireland", 2001 ," 90,000", mr. geoffrey straub martha
+938,philip morris international inc.,doll_154.71 b,pm,united states,consumer staples,tobacco,"newyork,ny,unitedstates", 2008," 69,600", mr. jacek  olczak
+939,the charles schwab corporation,doll_158.06 b,schw,united states,financials,capital markets,"sanfrancisco,ca,unitedstates", 1971," 33,400", mr. walter william bettinger ii
+940,royal bank of canada,doll_159.74 b,ry,canada,financials,banks,"toronto,on,canada",," 85,211", mr. david i. mckay
+941,"netflix, inc.",doll_163.19 b,nflx,united states,communication services,entertainment,"losgatos,ca,unitedstates"," august 29, 1997"," 11,300", mr. wilmot reed hastings jr.
+942,morgan stanley,doll_164.05 b,ms,united states,financials,capital markets,"newyork,ny,unitedstates", 1935," 75,000", mr. james patrick gorman
+943,"t-mobile us, inc.",doll_164.31 b,tmus,united states,communication services,telecom services,"bellevue,wa,unitedstates", 1994," 75,000", mr. g. michael sievert
+944,agricultural bank of china ltd,doll_165.00 b,601288,china,financials,banks,"beijing,china",," 459,000",
+945,"nextera energy, inc.",doll_165.53 b,nee,united states,utilities,utilities—regulated electric,"junobeach,fl,unitedstates", 1984," 15,000", mr. john w. ketchum
+946,linde plc,doll_166.07 b,lin,united kingdom,basic materials,specialty chemicals,"guildford,unitedkingdom", 21 june 1879," 72,327", mr. sanjiv  lamba
+947,prosus n.v.,doll_170.00 b,prx,netherlands,communication services,internet content & information,"amsterdam,netherlands",," 23,939", mr. bob  van dijk
+948,bristol-myers squibb company,doll_170.56 b,bmy,united states,healthcare,drug manufacturers—general,"newyork,ny,unitedstates", 1887," 32,200", dr. giovanni  caforio m.d.
+949,texas instruments incorporated,doll_171.28 b,txn,united states,technology,semiconductors,"dallas,tx,unitedstates", 1930," 31,000", mr. richard k. templeton
+950,qualcomm incorporated,doll_172.25 b,qcom,united states,technology,semiconductors,"sandiego,ca,unitedstates", july 1985," 45,000", mr. cristiano renno amon
+951,at&t inc.,doll_175.88 b,t,united states,communication services,telecom services,"dallas,tx,unitedstates"," october 5, 1983"," 203,000", mr. john t. stankey
+952,union pacific corporation,doll_184.19 b,unp,united states,industrials,railroads,"omaha,ne,unitedstates", 1969 ," 29,905", mr. lance m. fritz
+953,contemporary amperex technology co. ltd,doll_185.67 b,300750,china,industrials,electrical equipment & parts,"ningde,china",," 33,078",
+954,china merchants bank co ltd,doll_185.98 b,600036,china,financials,banks,"shenzhen,china",," 103,669", mr. huiyu  tian mpa
+955,mcdonald's corporation,doll_186.57 b,mcd,united states,consumer discretionary,restaurants,"chicago,il,unitedstates"," may 15, 1940"," 100,000", mr. christopher j. kempczinski
+956,china construction bank corp,doll_189.37 b,601939,china,financials,banks,"beijing,china",," 373,814",
+957,"united parcel service, inc.",doll_190.50 b,ups,united states,industrials,integrated freight & logistics,"atlanta,ga,unitedstates"," august 28, 1907"," 267,890", ms. carol b. tome
+958,"salesforce.com, inc.",doll_193.80 b,crm,united states,technology,software—application,"sanfrancisco,ca,unitedstates"," february 3, 1999"," 73,541", mr. marc r. benioff
+959,adobe inc.,doll_199.57 b,adbe,united states,technology,software—infrastructure,"sanjose,ca,unitedstates", december 1982," 25,988", mr. shantanu  narayen
+960,wells fargo & company,doll_200.01 b,wfc,united states,financials,banks,"sanfrancisco,ca,unitedstates", 1929," 247,848", mr. charles w. scharf
+961,intel corporation,doll_201.72 b,intc,united states,technology,semiconductors,"santaclara,ca,unitedstates"," july 18, 1968"," 121,100", mr. patrick p. gelsinger
+962,astrazeneca plc,doll_201.75 b,azn,united kingdom,healthcare,drug manufacturers—general,"cambridge,unitedkingdom", 6 april 1999," 83,100"," mr. pascal  soriot d.v.m., m.b.a."
+963,novartis ag,doll_204.13 b,novn,switzerland,healthcare,drug manufacturers—general,"basel,switzerland", march 1996," 104,323",
+964,shell plc,doll_207.68 b,shel,united kingdom,energy,oil & gas integrated,"london,unitedkingdom",," 87,000", mr. ben  van beurden
+965,airbus se,doll_97.41 b,air,netherlands,industrials,aerospace & defense,"leiden,netherlands",," 121,056", mr. guillaume m.j.d faury
+966,petróleo brasileiro s.a. - petrobras,doll_98.37 b,pbr,brazil,energy,oil & gas integrated,"riodejaneiro,rj,brazil", 3 october 1953," 46,416", mr. joaquim silva e luna
+967,allianz se,doll_98.47 b,alv,germany,financials,insurance—diversified,"munich,germany",," 155,411", mr. oliver  bate
+968,chubb limited,doll_98.57 b,cb,switzerland,financials,insurance—property & casualty,"zurich,switzerland"," hamilton, bermuda 1985"," 31,000", mr. evan g. greenberg
+969,daimler ag,doll_98.79 b,dai,germany,consumer discretionary,auto manufacturers,"stuttgart,germany",," 289,282", mr. ola  kallenius
+970,general electric company,doll_99.22 b,ge,united states,industrials,specialty industrial machinery,"boston,ma,unitedstates"," april 15, 1892"," 168,000", mr. h. lawrence culp jr.
+971,the estée lauder companies inc.,doll_100.16 b,el,united states,consumer staples,household & personal products,"newyork,ny,unitedstates", 1946," 44,640", mr. fabrizio  freda
+972,s&p global inc.,doll_100.84 b,spgi,united states,financials,financial data & stock exchanges,"newyork,ny,unitedstates", 1917," 22,850", mr. douglas l. peterson m.b.a.
+973,stryker corporation,doll_101.41 b,syk,united states,healthcare,medical devices,"kalamazoo,mi,unitedstates", 1941," 46,000", mr. kevin a. lobo
+974,british american tobacco plc,doll_101.44 b,bats,united kingdom,consumer staples,tobacco,"london,unitedkingdom", 1902," 54,365", mr. jack marie henry david bowles
+975,"altria group, inc.",doll_102.98 b,mo,united states,consumer staples,tobacco,"richmond,va,unitedstates", 1985," 6,000", mr. william f. gifford jr.
+976,nippon telegraph & telephone corp,doll_103.75 b,9432,japan,communication services,telecom services,"tokyo,japan",," 324,667", mr. jun  sawada
+977,saudi basic industries corp,doll_104.00 b,2010,saudi arabia,basic materials,chemicals,"riyadh,saudiarabia",,, mr. yousef  bin abdullah al-benyan
+978,byd co ltd,doll_104.42 b,002594,china,consumer discretionary,auto manufacturers,"shenzhen,china",," 224,280", mr. chuan-fu  wang
+979,"charter communications, inc.",doll_104.97 b,chtr,united states,communication services,entertainment,"stamford,ct,unitedstates", 1993," 93,700", mr. thomas m. rutledge
+980,"airbnb, inc.",doll_105.07 b,abnb,united states,communication services,internet content & information,"sanfrancisco,ca,unitedstates", august 2008," 6,132", mr. brian  chesky
+981,al rajhi banking and investment corp,doll_106.37 b,1120,saudi arabia,financials,banks,"riyadh,saudiarabia",," 15,078",
+982,infosys limited,doll_106.77 b,infy,india,technology,information technology services,"bengaluru,india", 2 july 1981," 292,067", mr. salil satish parekh
+983,target corporation,doll_106.89 b,tgt,united states,consumer staples,discount stores,"minneapolis,mn,unitedstates"," june 24, 1902"," 450,000", mr. brian c. cornell
+984,"servicenow, inc.",doll_107.99 b,now,united states,technology,software—application,"santaclara,ca,unitedstates", 2003," 16,881", mr. william r. mcdermott
+985,vale sa,doll_107.99 b,vale3,brazil,basic materials,other industrial metals & mining,"riodejaneiro,rj,brazil",,,
+986,starbucks corporation,doll_108.19 b,sbux,united states,consumer discretionary,restaurants,"seattle,wa,unitedstates"," march 30, 1971"," 383,000", mr. kevin r. johnson
+987,volkswagen ag,doll_108.63 b,vow3,germany,consumer discretionary,auto manufacturers,"wolfsburg,germany",," 645,318", dr. herbert  diess
+988,citigroup inc.,doll_109.56 b,c,united states,financials,banks,"newyork,ny,unitedstates"," october 8, 1998"," 220,092", ms. jane nind fraser
+989,glaxosmithkline plc,doll_109.98 b,gsk,united kingdom,healthcare,drug manufacturers—general,"brentford,unitedkingdom", december 2000," 90,096", ms. emma n. walmsley
+990,siemens ag,doll_114.66 b,sie,germany,industrials,specialty industrial machinery,"munich,germany",," 303,000", dr. roland  busch dipl.phys.
+991,american tower corporation (reit),doll_115.11 b,amt,united states,real estate,reit—specialty,"boston,ma,unitedstates", 1995," 6,378", mr. thomas a. bartlett cpa
+992,diageo plc,doll_115.58 b,dge,united kingdom,consumer staples,beverages—wineries & distilleries,"london,unitedkingdom",," 27,783", mr. ivan m. menezes
+993,hdfc bank limited,doll_115.68 b,hdb,india,financials,banks,"mumbai,india",," 134,412", mr. sashidhar  jagdishan
+994,"blackrock, inc.",doll_115.98 b,blk,united states,financials,asset management,"newyork,ny,unitedstates", 1988," 18,400", mr. laurence douglas fink
+995,unilever plc,doll_117.84 b,ulvr,united kingdom,consumer staples,household & personal products,"london,unitedkingdom", 2 september 1929," 148,012", mr. alan w. jope
+996,international business machines corporation,doll_119.20 b,ibm,united states,technology,information technology services,"armonk,ny,unitedstates"," june 16, 1911"," 282,100", mr. arvind  krishna
+997,"anthem, inc.",doll_119.80 b,antm,united states,healthcare,healthcare plans,"indianapolis,in,unitedstates", anthem and wellpoint health networks merger in 2004," 98,200", ms. gail koziara boudreaux
+998,"applied materials, inc.",doll_121.12 b,amat,united states,technology,semiconductor equipment & materials,"santaclara,ca,unitedstates"," november 10, 1967"," 28,500", mr. gary e. dickerson
+999,"prologis, inc.",doll_121.20 b,pld,united states,real estate,reit—industrial,"sanfrancisco,ca,unitedstates", 1983," 2,053", mr. hamid r. moghadam

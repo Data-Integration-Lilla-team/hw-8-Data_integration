@@ -1,0 +1,1 @@
+'10-DeBiGa.csv':['name', 'headquarters', 'number_of_employees', 'address', 'industry', 'website', 'market_cap', 'telephone', 'revenue']

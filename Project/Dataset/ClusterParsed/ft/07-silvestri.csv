@@ -1,0 +1,1001 @@
+,country,employees_2017,employees_2020,founding_year,name,revenue_2017,revenue_2020,sector
+0,finland,1,218.0,2016,swappie,"507,000","97,611,814",technology
+1,lithuania,10,177.0,2013,kilo health,"344,428","57,318,766",health
+2,uk,4,32.0,2012,oci,"4,325,512","568,322,073",financial services
+3,uk,4,800.0,2016,onlyfans,"2,652,185","316,732,986",technology
+4,germany,9,365.0,2017,enpal,"486,165","56,109,613",energy
+5,germany,2,9.0,2017,mr consulting,"150,908","13,165,586",waste management & recycling
+6,uk,12,57.0,2015,thriva,"251,668","18,732,563",health
+7,france,15,200.0,2015,exotec,"706,700","47,597,000",industrial goods
+8,italy,1,10.0,2015,winelivery,"111,500","7,337,290",ecommerce
+9,sweden,5,117.0,2015,instabox,"392,055","24,484,879",technology
+10,austria,12,180.0,2016,waterdrop,"680,197","41,205,930",food & beverage
+11,france,2,11.0,2016,one lease,"153,046","9,015,211",support services
+12,italy,13,251.0,2017,datlas*,"155,406","9,034,926",technology
+13,uk,36,224.0,2016,zego,"229,201","12,158,046",fintech
+14,germany,5,24.0,2017,hcl-logistics,"238,118","11,387,156",transport
+15,uk,4,34.0,2016,popsa,"454,975","21,455,864",technology
+16,switzerland,2,41.0,2017,unit8,"149,397","7,234,981",technology
+17,finland,6,49.0,2016,luoto company,"325,585","14,338,668",technology
+18,austria,9,29.0,2014,journi print,"160,624","6,851,839",ecommerce
+19,france,23,228.0,2017,portify,"274,575","11,583,215",support services
+20,norway,8,45.0,2015,tibber,"782,918","30,886,935",energy
+21,poland,6,18.0,2013,rascal industry,"238,451","9,008,822",fashion
+22,italy,20,509.0,2017,pegaso security,"207,120","8,375,180",support services
+23,uk,72,581.0,2016,tide,"416,562","16,136,633",fintech
+24,italy,1,1.0,2017,euro top brand,"363,010","13,888,900",retail
+25,uk,6,26.0,2011,bold security group,"181,772","6,238,378",support services
+26,norway,10,140.0,2013,play magnus group,"214,673","6,461,790",games industry
+27,uk,1,7.0,2016,blue whale growth fund,"170,950","5,189,391",financial services
+28,belgium,3,65.0,2016,kazidomi,"263,663","8,042,499",ecommerce
+29,latvia,90,800.0,2012,sun finance,"4,044,537","121,306,296",fintech
+30,italy,21,56.0,2015,credimi,"381,830","11,301,520",financial services
+31,germany,8,133.0,2017,sirplus,"155,043","4,540,000",retail
+32,the netherlands,6,31.0,2016,aihr | academy to innovate hr,"125,682","3,584,553",education
+33,luxembourg,9,27.0,2015,logistics capital partners (lcp),"7,403,458","210,563,743",property
+34,germany,2,10.0,2017,sã¼dwest invest,"210,820","5,820,402",property
+35,france,7,7.0,2000,corade (plurimmo),"2,039,961","56,018,731",property
+36,spain,4,5.0,2006,carranco,"155,310","4,176,440",food & beverage
+37,poland,10,50.0,2014,telemedi,"182,100","4,452,513",health
+38,germany,22,56.0,2014,inkitt,"229,713","5,926,970",technology
+39,italy,1,2.0,2016,h.k.trading,"225,380","5,721,590",retail
+40,uk,16,124.0,2015,attest,"194,090","4,864,178",technology
+41,france,na,11.0,2016,lgm immobilier,"101,311","2,549,778",property
+42,the netherlands,7,29.0,2017,wolfram chain*,"100,711","2,431,371",management consulting
+43,germany,3,38.0,2017,rightnow,"379,771","8,951,132",technology
+44,uk,7,63.0,2014,eo charging,"757,323","17,158,962",technology
+45,italy,2,9.0,2013,chetariffa.it,"110,200","2,495,860",support services
+46,uk,26,90.0,2017,simply,"744,092","16,483,836",financial services
+47,uk,24,187.0,2015,salary finance,"387,995","8,593,220",fintech
+48,sweden,2,10.0,2017,dbt,"179,204","3,837,994",fintech
+49,poland,15,140.0,2016,tutlo,"388,565","7,778,203",education
+50,france,4,27.0,2013,ponera,"1,186,853","25,901,607",ecommerce
+51,greece,0,2.0,2014,active energy solutions,"640,056","13,312,033",energy
+52,france,2,8.0,2012,acteam enr,"103,240","2,133,691",energy
+53,uk,8,70.0,2015,everflow,"3,188,715","64,223,085",technology
+54,uk,1,1.0,2016,azure prism,"238,216","4,752,777",retail
+55,germany,2,7.0,2017,wr logistics,"585,280","11,662,200",transport
+56,uk,14,61.0,2011,iproov,"376,519","7,435,887",technology
+57,italy,1,5.0,2017,spin up,"203,950","4,009,330",advertising
+58,germany,4,16.0,2012,begreat,"270,090","5,141,555",retail
+59,italy,2,17.0,2017,tsunami nutrition*,"369,000","6,945,000",ecommerce
+60,the netherlands,2,6.0,2016,matt sleeps,"535,070","9,789,240",interiors
+61,uk,28,138.0,2013,tessian,"858,482","15,365,580",technology
+62,germany,98,369.0,2016,solarisbank,"2,007,000","35,938,000",financial services
+63,france,2,21.0,2016,m2dg (myflexoffice),"375,323","6,630,617",support services
+64,italy,2,11.0,2004,eukon,"362,320","6,393,680",health
+65,italy,3,13.0,2016,evolution adv,"805,870","14,175,780",advertising
+66,spain,47,274.0,2001,making science,"3,306,795","57,670,541",technology
+67,italy,45,207.0,2014,everli,"6,287,460","109,248,030",ecommerce
+68,finland,12,73.0,2014,appfollow,"128,176","2,210,636",technology
+69,poland,40,190.0,2013,synerise,"255,062","3,999,023",technology
+70,poland,4,8.0,2010,chaikola,"330,763","5,158,786",food & beverage
+71,germany,4,12.0,2015,scolution,"107,492","1,825,546",technology
+72,france,3,15.0,2017,jl&p,"131,164","2,212,606",energy
+73,italy,8,50.0,2017,efarma.com,"1,199,580","20,150,800",pharmaceuticals
+74,uk,22,138.0,2013,elvie,"2,474,341","40,813,930",technology
+75,italy,1,5.0,2010,farmarelax,"270,750","4,459,170",personal & household goods
+76,uk,20,99.0,2008,omnisend,"742,746","11,761,268",technology
+77,italy,1,5.0,2017,world trade group,"314,150","4,897,950",fashion
+78,france,2,32.0,2016,besteam conseil,"249,176","3,871,782",technology
+79,uk,5,96.0,2016,motorway,"320,411","4,838,407",automobiles
+80,germany,0,26.0,2014,iso public services,"672,821","10,019,903",technology
+81,uk,106,918.0,2015,octopus energy,"145,398,192","2,120,071,949",energy
+82,uk,8,82.0,2017,cyberiam*,"387,161","5,639,335",cyber security
+83,italy,2,17.0,2017,cbweed*,"245,000","3,500,000",personal & household goods
+84,portugal,18,46.0,2015,catraport,"518,613","7,294,549",automobiles
+85,france,13,106.0,2016,ouihelp,"262,421","3,686,617",support services
+86,denmark,33,67.0,2013,inpay,"1,702,000","23,803,000",fintech
+87,italy,4,10.0,2017,m.g.i. meccaniche generali irpine,"188,680","2,610,700",industrial goods
+88,uk,7,80.0,2016,glencar construction,"7,930,094","107,860,442",construction
+89,uk,9,23.0,2010,qmee,"925,527","12,571,314",technology
+90,italy,1,10.0,2015,myappfree,"422,420","5,764,870",advertising
+91,germany,8,55.0,2014,investa dienstleistungen,"159,707","2,176,136",support services
+92,sweden,19,58.0,2014,polarium energy solutions,"5,581,858","74,065,413",batteries
+93,italy,4,5.0,2016,baroni home,"113,072","1,531,358",ecommerce
+94,uk,6,45.0,2013,dayshape,"247,465","3,320,479",technology
+95,italy,3,8.0,2016,marketers company,"139,300","1,880,460",advertising
+96,spain,2,5.0,2017,easo magno,"228,076","3,061,854",beauty
+97,germany,1,10.0,2016,greyfood,"684,874","9,187,050",retail
+98,uk,3,9.0,2016,misfits health,"171,057","2,266,155",food & beverage
+99,france,1,5.0,2010,meilleursbiens.com,"291,481","3,864,176",property
+100,uk,5,36.0,2011,fasanara capital,"882,099","11,527,860",financial services
+101,cyprus,44,122.0,2015,ntechlab,"664,000","8,730,000",technology
+102,italy,2,5.0,2016,babylino sensitive,"217,460","2,851,840",personal & household goods
+103,the netherlands,24,54.0,2012,fastned,"530,667","6,890,000",technology
+104,portugal,2,6.0,2009,oxray,"427,339","5,465,756",health
+105,germany,3,4.0,2017,zega invest,"299,598","3,785,340",property
+106,hungary,2,7.0,2016,abylon consulting,"159,128","1,721,315",technology
+107,norway,20,77.0,2005,milrab,"6,753,191","79,302,201",ecommerce
+108,belgium,7,55.0,2015,urbantz,"242,368","3,031,099",technology
+109,uk,6,32.0,2017,tricas construction,"1,281,462","15,880,745",construction
+110,italy,6,10.0,2017,florence one,"131,691","1,629,099",technology
+111,germany,8,35.0,2014,ergotopia,"620,283","7,664,825",retail
+112,hungary,5,17.0,2011,mcule.com kft.,"252,713","2,683,264",chemicals & pharmaceuticals
+113,italy,9,18.0,2014,filo,"815,690","10,049,610",technology
+114,italy,4,11.0,2014,homepal,"130,290","1,603,990",property
+115,germany,55,310.0,2014,staffbase,"2,201,178","26,894,501",technology
+116,france,2,4.0,2016,ilon materiel,"207,327","2,512,300",construction
+117,ireland,7,25.0,2014,bio-marine,"133,200","1,612,837",personal & household goods
+118,france,2,18.0,2016,isodeco,"241,411","2,906,133",construction
+119,italy,18,42.0,2010,treedom,"560,150","6,709,720",support services
+120,germany,3,20.0,2016,fenstermaxx24,"712,855","8,466,121",retail
+121,germany,7,31.0,2017,pohl & sã¶hne gerã¼stbau,"180,824","2,124,763",construction
+122,france,3,13.0,2013,yso corp,"570,012","6,689,503",media
+123,italy,2,10.0,2017,gyada cosmetics,"156,130","1,830,610",beauty
+124,uk,47,190.0,2014,privitar,"855,321","9,923,965",technology
+125,uk,1,25.0,2015,delineate,"288,095","3,332,661",technology
+126,poland,75,563.0,2016,spyrosoft,"2,326,082","24,721,755",technology
+127,slovakia,6,37.0,2014,bio energy solutions,"1,383,205","16,006,537",waste management & recycling
+128,italy,2,51.0,2015,increso,"281,000","3,230,000",management consulting
+129,italy,1,46.0,2016,lsg - logistic & service group,"777,410","8,873,180",transport
+130,sweden,19,125.0,2015,energihem,"2,527,006","28,004,684",construction
+131,uk,48,164.0,2012,amity,"522,712","5,743,440",technology
+132,germany,4,43.0,2014,goyago,"337,525","3,729,920",retail
+133,france,23,140.0,2016,la regie de portage salarial,"692,440","7,638,731",support services
+134,denmark,5,15.0,2007,dall energy,"551,000","6,013,000",energy
+135,germany,5,44.0,2014,appinio,"330,500","3,597,000",technology
+136,italy,14,33.0,2015,pinsami,"455,000","4,892,000",food & beverage
+137,france,1,1.0,2013,aer trading,"1,643,572","17,575,388",retail
+138,france,1,4.0,2014,valumen,"205,554","2,196,424",support services
+139,france,4,14.0,2016,follow,"643,299","6,844,818",advertising
+140,germany,4,173.0,2016,darpdecade,"628,384","6,624,660",retail
+141,estonia,399,1798.0,2013,bolt,"21,098,843","221,393,889",technology
+142,italy,2,5.0,2014,kiteworldshop.com,"160,539","1,671,984",ecommerce
+143,germany,10,19.0,2006,peter kenkel,"2,131,000","22,137,000",retail
+144,denmark,32,292.0,2014,templafy,"1,521,010","15,486,451",technology
+145,italy,17,99.0,2014,comservice,"194,780","2,016,300",support services
+146,italy,1,5.0,2017,falcor presse,"291,720","2,996,770",industrial goods
+147,the netherlands,8,40.0,2017,roomraccoon,"167,000","1,715,334",technology
+148,spain,37,95.0,2013,signaturit,"552,355","5,639,953",technology
+149,uk,31,191.0,2015,modulr,"1,269,382","12,789,098",fintech
+150,germany,17,63.0,2012,profishop,"4,340,517","43,812,068",ecommerce
+151,the netherlands,2,15.0,2015,floer,"249,975","2,520,013",interiors
+152,italy,4,12.0,2011,audiosalus,"156,300","1,569,480",retail
+153,uk,2,26.0,2016,statsbomb,"204,620","2,027,170",technology
+154,italy,2,8.0,2013,theras biocare,"2,693,390","26,633,230",pharmaceuticals
+155,uk,32,61.0,2016,stenn,"3,058,141","29,615,571",fintech
+156,hungary,30,180.0,2012,nanushka,"2,456,563","20,825,934",fashion
+157,germany,10,60.0,2016,dpm - deutsches personal management,"230,800","2,267,760",support services
+158,uk,84,243.0,2013,monese,"1,870,109","18,196,451",fintech
+159,spain,40,288.0,2005,arquimea,"7,450,099","72,044,361",technology
+160,france,4,18.0,2013,groupe perspective,"280,390","2,709,000",education
+161,sweden,37,155.0,2014,funnel,"1,217,338","11,499,031",technology
+162,germany,5,49.0,2015,living quarter,"529,371","5,016,731",health
+163,sweden,38,287.0,2013,svea solar,"7,177,912","66,146,911",energy
+164,ireland,6,16.0,2016,bevcraft group,"429,505","4,046,859",food & beverage
+165,uk,767,932.0,2013,learning technologies group,"2,096,570","19,446,429",technology
+166,italy,2,9.0,2014,cura farma,"479,290","4,436,220",health
+167,lithuania,2,7.0,2013,kamado bono,"735,758","6,801,734",personal & household goods
+168,spain,3,47.0,2007,sipadan,"374,200","3,457,203",management consulting
+169,czech republic,18,45.0,2013,dateio,"530,785","4,710,733",fintech
+170,germany,4,16.0,2016,crest investment,"533,144","4,857,817",property
+171,italy,2,19.0,2017,componenti digitali,"308,810","2,805,850",retail
+172,germany,3,6.0,2006,immo-konzepte,"252,871","2,269,276",property
+173,denmark,3,41.0,2014,swipbox,"1,052,796","9,391,760",technology
+174,sweden,9,85.0,2015,nextory,"3,046,667","26,534,087",media
+175,poland,32,176.0,2016,itds polska,"1,057,443","8,609,941",technology
+176,italy,4,5.0,2015,savait,"237,410","2,108,040",ecommerce
+177,spain,3,18.0,2015,adpone,"1,255,372","11,124,512",advertising
+178,lithuania,350,1000.0,2012,nord security,"18,035,029","156,623,915",cyber security
+179,the netherlands,25,226.0,2012,mews,"2,531,000","22,386,000",technology
+180,spain,9,35.0,2015,titulae,"551,128","4,870,863",education
+181,ireland,5,40.0,2016,systeme.io,"273,552","2,407,982",ecommerce
+182,greece,20,30.0,2003,eodh sa,"299,988","2,597,612",aerospace & defence
+183,italy,2,5.0,2015,multix solutions,"1,340,430","11,586,460",health
+184,france,2,12.0,2016,b2digit,"228,982","1,978,128",technology
+185,uk,5,47.0,2015,a million ads,"570,564","4,882,837",advertising
+186,the netherlands,5,25.0,2013,woodwatch,"651,170","5,590,390",retail
+187,france,3,12.0,2010,fenãªtres du doubs,"262,280","2,238,347",construction
+188,germany,3,65.0,2016,koesea,"400,000","3,400,000",construction
+189,italy,14,38.0,2011,podium advanced technologies,"2,133,310","18,025,740",automobiles
+190,croatia,109,166.0,2010,spegra,"2,025,879","17,059,791",construction
+191,spain,18,117.0,2013,gpainnova,"1,815,680","15,245,617",industrial goods
+192,italy,4,23.0,2016,soluzione tasse,"2,264,940","18,939,430",management consulting
+193,germany,2,15.0,2016,velocultour,"295,731","2,458,500",retail
+194,hungary,2,7.0,2011,butorpiac.hu,"305,268","2,184,336",ecommerce
+195,czech republic,8,44.0,2016,success solutions,"327,218","2,633,664",technology
+196,denmark,1,1.0,1989,bug bite thing europe,"191,679","1,577,878",health
+197,estonia,4,24.0,2015,dexatel,"1,349,733","11,087,980",technology
+198,italy,1,6.0,2015,gemco,"481,510","3,941,900",construction
+199,france,,,2015,lyonnaise de construction et renovation,"812,371","6,640,842",construction
+200,uk,204,702.0,2012,gousto,"26,112,757","210,945,370",food & beverage
+201,uk,4,6.0,2010,winter in venice,"1,575,522","12,682,062",beauty
+202,germany,18,72.0,2007,infratech bau,"7,415,334","60,067,088",construction
+203,italy,3,46.0,2016,4streets building innovation tunnels bridges roads,"833,230","6,739,630",construction
+204,uk,31,95.0,2013,landbay,"1,119,178","8,980,496",fintech
+205,sweden,3,18.0,2012,degoo,"249,818","1,973,775",technology
+206,germany,52,320.0,2016,franco fresco,"6,280,267","50,723,858",food & beverage
+207,uk,25,84.0,2014,lendable,"5,026,349","40,305,193",fintech
+208,germany,2,6.0,2014,ulrich mã¼ller wealth academy,"440,369","3,516,744",education
+209,germany,19,84.0,2012,cerascreen,"1,315,000","10,499,782",health
+210,france,24,43.0,2011,eqinov,"8,811,708","70,183,744",energy
+211,italy,7,12.0,1996,serre famiglia pederiva viticoltori dal 1958,"1,134,730","9,022,020",food & beverage
+212,uk,68,170.0,2013,bloom & wild,"19,757,296","155,595,726",ecommerce
+213,germany,9,29.0,2016,brã¤utigam,"796,207","6,315,124",automobiles
+214,finland,1,7.0,2006,newil & bau,"2,448,858","19,420,672",construction
+215,spain,271,411.0,2015,id finance,"13,157,000","103,634,000",fintech
+216,sweden,74,600.0,2014,kry,"10,152,222","77,764,611",health
+217,italy,4,25.0,2015,sixth sense,"500,440","3,916,570",technology
+218,italy,7,19.0,2014,nethive,"506,730","3,960,770",cyber security
+219,uk,3,8.0,2016,latitude investment management,"225,964","1,750,466",financial services
+220,sweden,10,68.0,2015,qred,"3,989,355","30,414,122",fintech
+221,germany,15,55.0,2016,oculavis,"504,357","3,924,472",technology
+222,italy,5,30.0,2015,the information lab,"548,180","4,253,110",technology
+223,germany,6,10.0,2015,md sonnenschutztechnik,"524,750","4,068,621",construction
+224,croatia,7,43.0,2017,syntio,"274,966","2,127,532",technology
+225,denmark,3,13.0,2016,bomae,"214,713","1,662,487",financial services
+226,uk,6,18.0,2014,gophr,"755,191","5,738,336",technology
+227,germany,20,110.0,2012,memory pc,"7,522,000","57,375,000",retail
+228,germany,2,6.0,2017,sollis solargroãhandel,"1,556,607","11,860,100",retail
+229,greece,37,123.0,2015,spotawheel,"2,058,315","15,646,588",automobiles
+230,uk,18,83.0,2012,ooni pizza ovens,"8,508,398","63,879,414",personal & household goods
+231,germany,10,35.0,2015,robovox distributions,"2,570,000","19,427,000",retail
+232,uk,92,650.0,2000,centralnic group,"26,626,422","197,260,279",technology
+233,germany,16,83.0,2003,bernd andert transporte,"546,226","4,105,262",transport
+234,uk,16,18.0,2007,bluewater bio,"2,708,983","20,201,424",technology
+235,italy,25,107.0,2012,tecma solutions,"975,140","7,319,870",technology
+236,poland,21,48.0,2015,delante,"316,525","2,160,094",sales & marketing
+237,germany,8,15.0,2015,intumind,"884,885","6,560,962",health
+238,germany,10,15.0,2016,saljol,"559,778","4,146,403",health
+239,germany,9,20.0,2014,tkd solutions,"2,146,950","15,874,245",telecoms
+240,finland,5,15.0,2016,kuori,"340,000","2,501,902",technology
+241,sweden,21,42.0,2010,ferroamp,"1,062,649","7,645,003",energy
+242,uk,6,23.0,2016,valor real estate partners,"621,636","4,534,588",financial services
+243,france,2,14.0,2013,anexiti,"350,019","2,565,735",technology
+244,france,6,23.0,2017,genius,"330,522","2,417,902",support services
+245,italy,3,31.0,2015,instilla,"410,520","2,993,310",advertising
+246,spain,12,60.0,2012,footdistrict,"2,051,133","14,942,262",ecommerce
+247,sweden,12,36.0,2012,spiideo,"674,805","4,799,358",technology
+248,uk,14,118.0,2012,contractpodai,"670,685","4,875,622",technology
+249,germany,5,15.0,2017,tarhan bauausfã¼hrungen,"255,000","1,851,000",construction
+250,uk,44,218.0,2010,matillion,"3,417,815","24,580,709",technology
+251,germany,2,5.0,2017,extra mile live service,"364,485","2,637,501",retail
+252,france,17,173.0,2013,littlebig connection,"15,653,388","111,538,883",support services
+253,italy,15,50.0,2011,spc general service,"954,700","6,788,660",construction
+254,spain,156,801.0,2008,jobandtalent,"49,833,511","352,879,165",technology
+255,uk,14,20.0,2016,financial house,"2,669,247","18,766,625",fintech
+256,poland,8,42.0,2013,mylead,"309,471","2,004,501",sales & marketing
+257,italy,15,74.0,2016,mia-platform,"923,730","6,515,510",technology
+258,italy,20,32.0,1976,tecnimed,"1,354,980","9,551,790",health
+259,uk,5,22.0,2015,longevity partners,"335,460","2,336,243",retail
+260,italy,56,345.0,2015,nexumstp,"3,659,630","25,667,400",management consulting
+261,france,3,16.0,2016,g-on,"259,342","1,810,459",support services
+262,uk,3,10.0,2016,picnic,"219,999","1,508,869",advertising
+263,italy,2,36.0,2012,egomnia,"276,750","1,901,140",technology
+264,uk,10,40.0,2012,loyaltylion,"657,382","4,483,296",technology
+265,norway,22,142.0,2016,remarkable,"18,106,514","115,793,390",technology
+266,uk,119,673.0,2016,kubrick,"4,829,922","32,614,354",management consulting
+267,italy,7,35.0,2012,contrader,"688,860","4,682,960",technology
+268,germany,39,89.0,2008,samont,"2,880,891","19,577,339",industrial goods
+269,italy,1,5.0,2017,sirive,"667,170","4,527,690",construction
+270,spain,10,15.0,2014,multienergia verde,"21,640,253","146,453,604",energy
+271,belgium,1,6.0,2013,wielandts upmt,"226,295","1,529,270",technology
+272,sweden,4,13.0,2015,asket,"991,534","6,525,278",fashion
+273,czech republic,10,45.0,2015,central warehouse solution,"274,790","1,788,545",transport
+274,italy,2,21.0,2015,chef in camicia,"310,810","2,071,960",advertising
+275,uk,9,28.0,2015,piper homes,"4,601,266","30,436,232",construction
+276,spain,12,33.0,2014,alturas cubiertas y fachadas,"1,411,811","9,375,243",construction
+277,germany,2,11.0,2015,autosalon uhingen,"1,587,500","10,540,000",automobiles
+278,france,1,5.0,2013,yumi beauty,"404,819","2,678,257",chemicals & pharmaceuticals
+279,france,2,7.0,2016,for me lab,"251,795","1,652,073",ecommerce
+280,sweden,7,25.0,2015,stockholms elbolag,"5,033,032","32,265,912",energy
+281,germany,21,84.0,1999,flohr,"3,241,629","21,249,638",waste management & recycling
+282,italy,1,4.0,2008,agricodem,"436,610","2,856,530",agricultural commodities
+283,germany,14,80.0,2005,dach schutzbekleidung,"6,936,038","45,227,730",industrial goods
+284,germany,7,16.0,2017,em-tec energiemontagen,"461,000","3,002,729",construction
+285,romania,8,9.0,2014,wave studio,"656,172","4,105,688",technology
+286,croatia,3,17.0,2013,bazzar,"1,034,093","6,686,617",retail
+287,the netherlands,10,43.0,2015,cybersprint,"449,771","2,914,738",cyber security
+288,italy,19,34.0,2012,brandon group,"4,954,590","32,039,000",ecommerce
+289,germany,1,13.0,2014,feiniko handelsgesellschaft,"4,979,484","32,168,909",retail
+290,italy,2,21.0,2015,pharmagrin,"422,610","2,701,410",health
+291,czech republic,1,3.0,2016,life m,"322,050","2,001,844",technology
+292,portugal,5,16.0,2012,plã¡sticos dã£o / sacos & saquetas,"304,833","1,946,703",industrial goods
+293,germany,19,70.0,2010,logipal24,"789,058","4,967,568",transport
+294,the netherlands,23,22.0,2012,pastbook,"5,361,088","33,651,532",technology
+295,uk,6,21.0,2013,bluefin,"4,653,721","28,993,287",ecommerce
+296,uk,4,18.0,2016,milk & honey pr,"245,974","1,528,900",sales & marketing
+297,france,70,220.0,1990,prodeval,"11,756,712","73,514,217",energy
+298,finland,23,110.0,2013,virta,"1,765,457","11,029,402",technology
+299,italy,4,28.0,2015,bizaway,"318,940","1,989,950",travel & leisure
+300,france,2,6.0,2015,karl & lã©on,"385,266","2,391,019",retail
+301,uk,39,80.0,2001,identity,"3,733,539","22,885,804",management consulting
+302,hungary,4,55.0,2016,blackbelt holding,"923,000","5,695,000",technology
+303,france,1,13.0,2010,dynveo,"598,678","3,687,780",retail
+304,czech republic,7,29.0,2016,favi,"4,174,549","24,995,030",ecommerce
+305,finland,4,27.0,2016,hopkins,"737,936","4,534,346",sales & marketing
+306,italy,3,7.0,2016,ap italian luxury,"698,300","4,283,930",fashion
+307,uk,20,45.0,2015,novicap,"551,848","3,383,802",fintech
+308,italy,1,5.0,2013,iglm store,"1,277,410","7,790,420",ecommerce
+309,germany,8,41.0,1999,luis technology,"1,644,899","10,000,511",technology
+310,uk,55,275.0,2016,quantexa,"5,643,295","33,902,755",fintech
+311,italy,9,37.0,2014,enerbrain,"685,370","4,131,370",energy
+312,germany,7,28.0,2013,brinckmann,"1,002,579","6,037,461",construction
+313,italy,6,12.0,1982,lmg building,"1,043,440","6,255,970",construction
+314,norway,12,33.0,2013,nordic unmanned,"1,122,907","6,305,237",aerospace & defence
+315,france,2,6.0,2017,hemisphere,"1,091,925","6,484,822",property
+316,germany,23,87.0,2017,therapiezentrum.com nw,"492,860","2,916,337",health
+317,uk,39,82.0,2010,beauhurst,"916,511","5,355,215",technology
+318,romania,43,49.0,2017,c.u.n. cargo carriers,"1,207,613","7,103,702",transport
+319,italy,23,34.0,2016,mg project,"1,396,400","8,208,450",telecoms
+320,germany,3,6.0,2015,bonmea,"2,484,783","14,597,418",retail
+321,italy,2,6.0,2007,oceanis yachts,"521,250","3,059,130",travel & leisure
+322,france,2,8.0,2016,opus db,"2,076,139","12,171,118",construction
+323,france,9,27.0,2013,devensys cybersecurity,"580,644","3,403,055",technology
+324,cyprus,25,104.0,2016,project agora,"3,380,420","19,798,875",advertising
+325,germany,5,19.0,2012,bettertrust,"853,561","4,981,938",advertising
+326,italy,3,10.0,2014,banale,"352,000","2,051,370",ecommerce
+327,the netherlands,5,17.0,2013,maatwerk online,"287,985","1,673,382",sales & marketing
+328,france,1,6.0,2011,les constructeurs du bois,"877,275","5,087,783",property
+329,italy,6,10.0,2013,esserre pharma,"441,260","2,556,640",pharmaceuticals
+330,uk,8,18.0,2014,onbuy.com,"473,344","2,720,319",ecommerce
+331,france,27,108.0,2015,gojob,"7,007,000","40,546,000",support services
+332,germany,6,10.0,2016,newroom,"638,739","3,669,217",retail
+333,italy,3,9.0,2016,christmas the original,"347,190","1,994,200",retail
+334,germany,5,16.0,2016,dimaxbau,"349,641","2,003,989",construction
+335,germany,2,9.0,2013,comnovis it,"332,372","1,900,000",technology
+336,germany,4,8.0,2016,die direktkontakter,"493,000","2,818,000",support services
+337,italy,30,400.0,2010,mega trasporti,"3,185,180","18,168,170",transport
+338,france,9,40.0,2014,lehibou,"2,423,113","13,816,792",technology
+339,italy,3,13.0,2014,stufe a pellet italia,"631,500","3,598,050",interiors
+340,uk,31,46.0,2012,aquis exchange,"2,267,165","12,824,155",financial services
+341,uk,8,50.0,2015,chattermill,"408,336","2,306,045",technology
+342,germany,10,45.0,2016,schã¶nertel,"2,884,392","16,388,546",construction
+343,italy,8,57.0,2011,global work,"558,820","3,174,000",telecoms
+344,germany,1,9.0,2012,allygatr,"338,300","1,914,500",support services
+345,uk,3,14.0,2013,cru wine,"1,644,134","9,235,946",food & beverage
+346,italy,5,8.0,2004,abc rent,"3,878,370","21,818,000",automobiles
+347,uk,20,57.0,2011,superior wellness,"9,719,653","54,150,622",personal & household goods
+348,austria,3,12.0,2016,schrott24,"2,610,679","14,641,523",waste management & recycling
+349,italy,3,14.0,2017,mazzoni etech,"419,240","2,344,440",industrial goods
+350,france,4,6.0,1996,berdugo immobilier,"2,696,485","15,049,845",property
+351,lithuania,9,37.0,2016,nova rent,"1,600,000","8,900,000",industrial goods
+352,czech republic,13,38.0,2013,rouvy,"751,071","4,058,269",games industry
+353,italy,3,4.0,2015,business analysis & legal expertise - b.a.l.e.,"532,690","2,943,020",management consulting
+354,poland,172,381.0,2000,jmb,"12,709,000","70,179,000",energy
+355,france,2,13.0,2016,nocnoc,"289,766","1,596,167",travel & leisure
+356,uk,5,33.0,2013,crowdproperty,"539,486","2,941,537",fintech
+357,france,4,42.0,2015,tutosâme,"910,963","4,989,872",education
+358,italy,4,10.0,2011,studio ekoâ,"318,370","1,740,660",management consulting
+359,uk,2,7.0,2010,beings,"348,129","1,881,768",technology
+360,poland,3,6.0,2013,dmrgroupltd.com,"1,418,769","7,050,124",chemicals & pharmaceuticals
+361,uk,35,119.0,2014,ice telecommunications ltd,"2,982,238","16,067,551",telecoms
+362,italy,18,95.0,2012,gallas group,"856,790","4,640,710",support services
+363,italy,4,10.0,2010,etracom,"4,253,600","22,952,660",ecommerce
+364,uk,38,88.0,2015,xalient,"4,893,654","26,199,717",technology
+365,italy,5,,2009,labevolution,"1,349,250","7,264,130",health
+366,italy,9,20.0,2015,kuadra,"635,400","3,400,580",interiors
+367,spain,3,8.0,2014,kyo electric,"1,013,181","5,402,302",telecoms
+368,uk,13,32.0,2012,sopost,"1,481,398","7,825,138",technology
+369,italy,7,44.0,2016,s.f.r.e.,"564,910","3,004,290",construction
+370,germany,60,262.0,2012,sportstech,"20,436,426","108,500,233",retail
+371,france,40,98.0,2014,opã©ra energie,"2,127,151","11,218,211",energy
+372,uk,28,76.0,2010,routenote,"7,339,330","38,428,858",technology
+373,uk,26,40.0,2016,doctify,"461,671","2,409,255",health
+374,uk,30,67.0,2008,fruugo,"4,176,347","21,793,194",ecommerce
+375,germany,7,15.0,2012,insidemarketing,"569,646","2,971,846",technology
+376,italy,2,11.0,2013,falzi,"391,540","2,037,320",waste management & recycling
+377,spain,62,504.0,2015,atrys health,"6,035,116","31,396,438",health
+378,italy,1,4.0,2016,il cantiere costruzioni,"826,430","4,297,790",construction
+379,germany,13,22.0,2004,soorce,"3,013,629","15,639,618",support services
+380,belgium,26,85.0,2013,sortlist,"655,000","3,396,000",technology
+381,poland,90,234.0,2010,virtuslab,"2,635,420","12,468,548",technology
+382,sweden,5,16.0,2012,skalhuset.se,"1,454,711","7,342,811",ecommerce
+383,germany,6,26.0,2013,vipino,"2,148,122","11,067,681",retail
+384,italy,30,133.0,2015,gea service,"1,304,060","6,673,050",waste management & recycling
+385,italy,12,62.0,2016,gellify,"1,090,920","5,581,540",technology
+386,uk,42,92.0,2014,billion dollar boy,"2,577,297","13,085,484",advertising
+387,italy,19,58.0,2014,westrafo,"4,356,500","22,072,700",energy
+388,the netherlands,10,21.0,2015,goboony,"340,309","1,718,442",travel & leisure
+389,italy,60,180.0,2016,multiservice ambrosiana,"846,360","4,266,770",support services
+390,germany,16,65.0,2016,b&c systems,"1,061,327","5,339,538",construction
+391,bulgaria,31,10.0,2014,s&g solar,"792,093","3,980,920",energy
+392,romania,40,120.0,2007,bittnet,"4,641,712","22,436,395",management consulting
+393,belgium,47,204.0,2013,ibanfirst,"2,408,187","12,062,697",fintech
+394,germany,20,46.0,2013,uplink network,"5,629,906","28,140,196",telecoms
+395,france,6,25.0,2015,base organic food,"2,163,006","10,802,997",agricultural commodities
+396,uk,20,74.0,2009,currentbody,"7,671,961","38,002,441",ecommerce
+397,uk,1,6.0,2016,apex aero,"770,031","3,812,785",aerospace & defence
+398,poland,25,59.0,2016,startup development house,"303,615","1,514,111",technology
+399,italy,8,806.0,2010,gruppo gheron,"11,728,040","58,422,800",health
+400,italy,5,30.0,2016,dyflowing,"341,370","1,696,320",technology
+401,germany,22,40.0,2016,digital masters,"608,053","3,019,110",advertising
+402,germany,3,17.0,2017,prusseit auto-outlet,"520,998","2,576,602",automobiles
+403,norway,30,72.0,2002,techouse,"6,863,940","31,852,584",energy
+404,italy,3,8.0,2016,svs,"1,965,560","9,694,310",construction
+405,uk,18,86.0,2017,telcoswitch group,"1,543,824","7,519,236",telecoms
+406,germany,3,8.0,2017,bothe-reimann tortechnik,"464,354","2,277,791",construction
+407,italy,8,12.0,2012,e-pol / personalizzalo,"3,284,400","16,089,160",ecommerce
+408,spain,3,18.0,2016,riluxa,"700,007","3,428,464",interiors
+409,france,6,8.0,2002,modalis,"3,915,724","19,169,652",transport
+410,france,8,27.0,2016,olympp,"1,127,652","5,512,134",technology
+411,germany,4,25.0,2013,zeck fishing,"1,401,463","6,806,664",retail
+412,bulgaria,16,25.0,2011,storpool storage,"681,460","3,306,191",technology
+413,germany,72,164.0,2013,vimcar,"3,035,269","14,674,011",technology
+414,france,5,8.0,2011,joannes distribution sas,"1,468,200","7,064,900",retail
+415,france,8,30.0,2011,sourcing force,"2,663,699","12,806,965",technology
+416,germany,16,60.0,2000,schalttechnik nord,"2,601,157","12,489,032",technology
+417,germany,5,27.0,2015,dgc,"329,298","1,577,296",cyber security
+418,france,28,202.0,2013,superprof,"2,136,626","10,168,214",education
+419,uk,12,48.0,2011,improveasy,"5,602,132","26,446,798",management consulting
+420,france,8,30.0,2014,viarã©no,"1,459,655","6,937,737",construction
+421,slovakia,10,19.0,2013,cmt,"411,858","1,951,232",waste management & recycling
+422,poland,31,97.0,2014,rets,"1,201,964","5,206,032",property
+423,uk,33,104.0,2007,mubi,"3,954,351","18,356,623",media
+424,italy,3,27.0,2001,dynamicom education,"1,906,790","9,018,160",education
+425,slovakia,25,47.0,2015,touch4it,"437,747","2,064,141",technology
+426,italy,4,8.0,1986,tattahome.com,"595,800","2,800,000",interiors
+427,uk,37,90.0,2006,speechmatics,"1,541,070","7,161,145",technology
+428,spain,20,118.0,2012,samy road,"4,163,750","19,458,114",advertising
+429,italy,6,9.0,2006,prometeo,"766,510","3,580,500",support services
+430,uk,65,260.0,2015,dialectica,"3,688,264","17,078,846",management consulting
+431,uk,32,62.0,2009,wolf & badger,"2,508,842","11,604,670",ecommerce
+432,france,28,94.0,2009,eco co2,"1,982,251","9,220,216",support services
+433,hungary,3,20.0,2011,lakã³gã©p kft.,"6,328,462","25,335,854",construction
+434,germany,9,20.0,2017,beyer betonwaren,"443,694","2,062,749",construction
+435,france,12,42.0,2011,fill up mã©dia,"1,081,079","4,999,802",media
+436,italy,4,6.0,1984,zara imballaggi fabriano,"496,790","2,297,210",industrial goods
+437,poland,744,1177.0,1994,cd projekt,"110,835,763","468,257,487",games industry
+438,germany,1,10.0,2015,vpace bikes,"573,145","2,643,580",retail
+439,spain,0,6.0,2014,tooltester,"790,712","3,646,507",sales & marketing
+440,estonia,2,7.0,2015,bunker partner,"22,060,642","101,726,265",energy
+441,france,40,130.0,2006,tikamoon,"12,200,275","56,122,322",ecommerce
+442,croatia,10,8.0,2013,s.t.a.r. digital,"699,907","3,211,868",advertising
+443,uk,29,62.0,2011,funding options,"1,297,717","5,922,043",fintech
+444,italy,8,14.0,2014,isimed,"1,050,660","4,828,920",health
+445,switzerland,50,195.0,2008,"sonar, sonarqube, sonarcloud, sonarlint","16,861,349","83,632,640",technology
+446,germany,4,30.0,2016,scherer,"934,994","4,285,766",support services
+447,italy,14,24.0,2002,mycroclean italia,"736,000","3,366,730",support services
+448,italy,8,16.0,2015,piscor,"1,061,360","4,842,410",ecommerce
+449,italy,1,3.0,2016,marwincar,"1,114,200","5,083,140",automobiles
+450,uk,288,1038.0,1993,brighton & hove albion football club,"32,824,451","148,505,285",travel & leisure
+451,bulgaria,5,60.0,2015,inpe transport,"398,676","1,816,274",transport
+452,poland,266,773.0,2013,rtb house,"45,981,552","191,601,076",technology
+453,france,27,38.0,2010,obiz,"3,389,300","15,377,000",media
+454,italy,33,70.0,2012,vmway,"3,525,720","15,901,220",technology
+455,poland,8,12.0,2009,legimi,"1,698,358","7,007,093",media
+456,germany,5,11.0,2011,msg beauty,"645,633","2,910,737",retail
+457,germany,4,11.0,2014,leogra trading,"1,128,243","5,078,464",retail
+458,italy,10,32.0,2012,benefind,"505,520","2,262,490",technology
+459,italy,5,13.0,2017,ab oil & gas service,"516,640","2,310,000",support services
+460,spain,14,23.0,2013,mailtrack,"775,341","3,445,698",technology
+461,uk,15,33.0,2013,bumper,"771,504","3,394,214",fintech
+462,germany,22,46.0,2015,otl - online trainer,"1,492,190","6,607,564",health
+463,italy,9,17.0,2014,macingo technologies,"361,790","1,601,000",support services
+464,germany,120,210.0,2014,mycs,"8,935,361","39,355,846",retail
+465,germany,23,92.0,2008,audience serv,"1,389,534","6,107,018",advertising
+466,italy,4,8.0,2012,start,"857,590","3,769,100",telecoms
+467,the netherlands,8,29.0,2010,mvh media,"544,943","2,391,654",sales & marketing
+468,france,1,2.0,2010,pure gaming,"1,593,667","6,984,956",ecommerce
+469,uk,4,8.0,1998,parcel compare,"2,091,995","9,085,936",transport
+470,italy,71,81.0,1979,ames centro polidiagnostico strumentale,"9,235,130","40,391,360",health
+471,italy,1,6.0,2016,arcadia italia,"743,130","3,249,140",energy
+472,uk,16,43.0,2016,zia lucia,"1,119,494","4,853,930",restaurants
+473,italy,16,37.0,1952,travaglini costruzioni,"1,062,010","4,603,740",construction
+474,spain,10,81.0,2008,versa design zycle,"2,199,640","9,501,888",technology
+475,germany,5,15.0,2016,maucher consult,"452,091","1,952,000",construction
+476,italy,51,137.0,2015,ayes,"2,510,930","10,827,070",technology
+477,italy,1,5.0,2016,brandup group,"630,660","2,718,640",advertising
+478,italy,11,19.0,2012,opyn,"969,930","4,168,220",financial services
+479,uk,4,8.0,2014,var capital,"499,815","2,132,001",financial services
+480,uk,9,25.0,2017,storyterrace,"667,467","2,843,048",technology
+481,slovenia,8,22.0,2009,blubit,"691,140","2,964,852",technology
+482,france,9,9.0,2014,zenâup,"441,271","1,891,361",insurance
+483,germany,17,25.0,2001,lã¶rcher bauunternehmen,"917,735","3,932,792",construction
+484,the netherlands,23,62.0,2010,barcode architects,"1,134,256","4,851,997",architecture
+485,france,9,27.0,2002,top chaleur,"1,702,165","7,260,096",retail
+486,italy,52,160.0,1999,seingim,"3,163,540","13,479,380",construction
+487,uk,21,49.0,2008,amphibian scaffolding,"948,813","4,011,415",construction
+488,liechtenstein,205,551.0,2009,beliani,"20,298,288","93,438,770",ecommerce
+489,sweden,17,45.0,2011,hatstore,"4,195,789","17,453,187",ecommerce
+490,italy,19,27.0,2006,carpenteria martino,"2,286,000","9,719,750",construction
+491,uk,61,147.0,2012,capitalontap,"19,489,369","82,238,372",fintech
+492,poland,199,637.0,2008,netguru,"8,933,769","34,677,235",technology
+493,italy,6,7.0,2014,fazio,"799,170","3,375,810",retail
+494,germany,37,84.0,2010,grillfã¼rst,"9,145,411","38,599,408",retail
+495,italy,14,18.0,2017,dealernet,"5,394,020","22,704,300",automobiles
+496,germany,14,57.0,2013,alpha real estate,"28,378,990","119,161,137",property
+497,belgium,12,74.0,2013,appwise,"1,084,812","4,546,110",technology
+498,greece,17,55.0,2014,convert group,"666,118","2,789,489",technology
+499,sweden,17,65.0,2013,revolution race,"21,841,341","89,332,521",ecommerce
+500,france,11,40.0,2009,gong galaxy,"2,708,258","11,320,706",retail
+501,italy,8,8.0,2011,gdr costruzioni,"376,440","1,573,480",construction
+502,italy,1,4.0,2015,emporio elettrico,"473,640","1,979,050",ecommerce
+503,uk,15,87.0,2012,exscientia ai,"2,606,296","10,807,048",technology
+504,uk,128,324.0,2005,featurespace,"5,688,822","23,501,473",fintech
+505,france,3,11.0,2016,xl energies,"2,013,403","8,358,760",energy
+506,spain,20,43.0,2015,claveria,"1,137,450","4,715,363",support services
+507,germany,3,4.0,2010,timberagents,"1,280,989","5,302,985",retail
+508,france,2,30.0,2012,fermeture econâhome,"451,196","1,862,632",construction
+509,sweden,20,70.0,2014,nrse,"815,449","3,268,813",management consulting
+510,germany,16,21.0,2011,simwert,"6,450,759","26,386,701",telecoms
+511,uk,2,24.0,2015,flex legal,"1,064,498","4,319,146",law
+512,norway,15,41.0,2010,documaster,"868,552","3,328,791",technology
+513,germany,1,4.0,2014,immo-team allgã¤u,"5,381,108","21,974,565",construction
+514,germany,17,57.0,2014,creditshelf,"1,201,900","4,899,200",financial services
+515,italy,7,10.0,2016,blife,"1,016,480","4,133,980",food & beverage
+516,italy,9,18.0,2004,nohup,"1,177,860","4,785,480",technology
+517,poland,17,56.0,2012,noctuai,"657,377","2,443,117",technology
+518,germany,47,96.0,2013,ares,"3,450,000","14,000,000",industrial goods
+519,uk,242,399.0,2000,moonpig group,"102,139,979","411,390,748",ecommerce
+520,uk,15,22.0,2016,wealth club,"1,685,348","6,774,867",financial services
+521,france,4,25.0,2016,factory,"3,119,000","12,609,000",property
+522,spain,2,6.0,2016,beck ingredients,"1,865,319","7,532,293",health
+523,hungary,3,3.0,2010,mentors & partners group,"524,552","1,822,227",management consulting
+524,the netherlands,4,9.0,2011,sb supply,"1,081,844","4,363,977",ecommerce
+525,czech republic,8,24.0,2015,mediaboard,"572,798","2,243,594",media
+526,france,20,80.0,2012,dw trans,"2,357,096","9,485,173",transport
+527,france,2,4.0,2006,nacelexpert,"679,247","2,727,392",industrial goods
+528,germany,14,31.0,2015,keylight,"871,779","3,499,555",technology
+529,italy,3,13.0,2011,technacy,"762,200","3,059,440",technology
+530,france,12,25.0,2011,genoskin,"700,823","2,810,120",chemicals & pharmaceuticals
+531,uk,12,21.0,2013,payment assist,"1,518,678","5,993,895",fintech
+532,germany,14,65.0,2013,my boo,"1,184,000","4,706,000",retail
+533,sweden,11,25.0,2012,84codes.com,"3,118,698","12,120,207",technology
+534,germany,6,20.0,2013,klg liquida,"1,267,224","5,034,595",chemicals & pharmaceuticals
+535,france,8,35.0,2011,ignimission,"574,323","2,280,542",technology
+536,italy,4,7.0,2013,adamant bionrg,"29,718,000","117,997,000",energy
+537,uk,2,5.0,2015,xplort,"571,513","2,252,358",interiors
+538,uk,7,12.0,2010,bambridge accountants,"855,283","3,368,822",financial services
+539,slovakia,7,13.0,2016,g2park,"732,924","2,902,148",property
+540,italy,2,5.0,2014,pelizzari studio,"663,100","2,625,660",architecture
+541,the netherlands,4,9.0,2014,postex,"1,334,213","5,248,908",technology
+542,italy,5,5.0,2013,consorzio stabile ambientemilia,"2,492,730","9,752,760",waste management & recycling
+543,italy,6,12.0,2016,yocabeâ,"842,600","3,293,860",ecommerce
+544,france,19,33.0,2012,chez nestor,"2,189,720","8,559,263",property
+545,italy,2,9.0,2016,mint italia,"621,500","2,415,110",transport
+546,the netherlands,27,233.0,2012,sendcloud,"21,052,232","81,775,452",ecommerce
+547,italy,6,10.0,2008,datakey software engineering,"488,940","1,898,000",technology
+548,romania,21,41.0,2015,metaminds,"8,605,113","32,103,084",cyber security
+549,italy,11,29.0,2012,time vision,"721,090","2,793,340",education
+550,germany,16,36.0,2013,werksrã¤der24,"3,847,000","14,896,000",automobiles
+551,uk,35,70.0,2008,fod mobility group,"3,465,675","13,309,945",technology
+552,italy,10,60.0,2007,selferg,"531,960","2,050,130",energy
+553,lithuania,45,94.0,2012,poppri fashion auctions,"3,386,414","13,028,856",ecommerce
+554,uk,156,194.0,2008,vizion network,"30,862,156","117,817,156",automobiles
+555,uk,27,66.0,2017,beyond law group*,"2,159,010","8,233,616",law
+556,germany,13,14.0,2014,eda warehousing,"1,190,000","4,570,000",transport
+557,germany,45,90.0,2013,bpv,"5,923,571","22,704,275",telecoms
+558,france,29,81.0,2013,ultra premium direct,"5,422,583","20,779,890",agricultural commodities
+559,spain,12,24.0,2013,afr-ix telecom,"2,593,649","9,933,867",telecoms
+560,poland,28,44.0,2010,blue energy,"1,293,181","4,527,970",cyber security
+561,france,5,15.0,2013,câjuste paris,"628,388","2,404,398",retail
+562,france,13,44.0,2007,sos-accessoire,"3,848,262","14,690,408",ecommerce
+563,germany,18,27.0,2017,hannes kã¶nig,"2,295,632","8,750,671",construction
+564,germany,6,9.0,2007,zanatta media group,"2,202,906","8,383,859",advertising
+565,uk,18,20.0,1997,wastepack,"5,924,389","22,373,295",waste management & recycling
+566,italy,7,17.0,2010,radar consulting italia,"416,960","1,580,450",support services
+567,france,32,53.0,2014,agriconomie,"9,838,779","37,248,117",agricultural commodities
+568,spain,187,364.0,2014,anytech365,"4,985,758","18,743,704",technology
+569,uk,4,12.0,2013,cladspray solutions,"499,484","1,863,819",construction
+570,france,10,50.0,2015,im global partner,"8,392,541","31,463,692",financial services
+571,italy,2,6.0,1983,confinvest,"10,982,110","41,130,000",precious metals
+572,france,2,3.0,2012,ethic technology,"2,229,273","8,340,824",technology
+573,italy,6,7.0,2001,bomax,"19,088,830","71,290,680",telecoms
+574,germany,4,15.0,2017,kk-trade,"1,174,770","4,383,254",retail
+575,germany,4,26.0,2015,marsapet,"1,061,642","3,960,200",retail
+576,italy,8,16.0,2015,gruppo tera,"5,428,300","20,222,750",ecommerce
+577,italy,7,14.0,2009,codiceplastico,"824,450","3,068,430",technology
+578,romania,185,426.0,2005,tremend,"5,772,716","20,679,155",technology
+579,spain,17,61.0,2010,doofinder,"1,771,758","6,590,434",technology
+580,lithuania,80,780.0,2004,hostinger,"6,955,394","25,860,664",technology
+581,switzerland,9,39.0,2013,catalyx,"1,627,160","6,540,543",sales & marketing
+582,bulgaria,6,9.0,2016,harness code,"599,612","2,223,308",sales & marketing
+583,italy,5,17.0,2014,nanoprom chemicals,"749,940","2,779,910",chemicals & pharmaceuticals
+584,spain,27,49.0,2012,elite,"2,716,240","10,060,550",construction
+585,poland,26,119.0,2012,appunite,"1,310,532","4,424,063",technology
+586,france,2,7.0,2006,eskalia et nakupenda,"410,775","1,515,414",retail
+587,germany,3,12.0,2006,lgx logistics,"2,191,733","8,070,059",transport
+588,portugal,11,22.0,2015,polipop,"910,392","3,351,671",industrial goods
+589,italy,1,10.0,2016,stampasi,"691,110","2,543,820",ecommerce
+590,italy,45,67.0,1984,cam,"3,336,600","12,280,490",industrial goods
+591,france,12,37.0,2012,plug in digital,"3,743,740","13,767,602",media
+592,poland,82,241.0,2009,predica,"5,233,937","17,589,082",technology
+593,spain,2,19.0,2009,ocean transport,"1,304,073","4,783,846",transport
+594,uk,103,75.0,1997,serinus,"5,474,802","19,651,446",energy
+595,germany,20,50.0,2009,demv deutscher maklerverbund,"1,375,943","5,012,841",financial services
+596,spain,53,221.0,1996,sti norland,"54,990,779","199,822,150",energy
+597,germany,27,76.0,2011,hd elektrotechnik,"1,158,042","4,207,672",technology
+598,italy,1,9.0,2017,engenie group,"558,480","2,025,040",technology
+599,france,25,64.0,2016,groupe n.a.t,"1,156,596","4,180,122",support services
+600,italy,2,5.0,2015,la sarraz pictures,"419,430","1,513,710",media
+601,germany,5,9.0,2016,smart-planet,"1,276,483","4,598,207",retail
+602,italy,8,49.0,2015,sidea group,"674,560","2,429,590",management consulting
+603,france,5,17.0,2004,couteaujaponais.com,"1,272,558","4,579,102",retail
+604,france,20,58.0,2010,physidia,"4,656,191","16,746,545",health
+605,germany,2,3.0,2013,horando deutschland,"2,257,390","8,111,269",retail
+606,poland,22,79.0,2004,"diablochairs, jan nowak","6,549,376","21,520,495",ecommerce
+607,sweden,16,28.0,2011,parkster,"15,711,602","55,139,984",technology
+608,france,5,13.0,2015,biotyfull,"5,642,145","20,248,436",ecommerce
+609,spain,14,51.0,2014,bioksan,"1,650,756","5,914,732",food & beverage
+610,norway,37,118.0,1999,trippel,"910,070","3,057,807",support services
+611,uk,15,32.0,2013,yourparkingspace limited,"3,904,618","13,863,431",technology
+612,france,1,35.0,2012,carslift,"622,989","2,226,659",automobiles
+613,germany,5,11.0,2009,zimmerei nordmann,"580,537","2,074,577",construction
+614,germany,20,40.0,2015,si silicone innovation,"1,018,843","3,640,511",industrial goods
+615,germany,8,12.0,2010,a.u.e. genc warenhandels-ug,"5,573,000","19,890,000",retail
+616,italy,10,18.0,2010,mgvision,"1,127,170","4,010,560",advertising
+617,italy,13,26.0,2015,new general service,"433,540","1,539,360",support services
+618,france,15,41.0,2010,andre renovation,"3,266,703","11,594,389",construction
+619,italy,10,14.0,2017,m.d.g. components unipersonale,"644,440","2,283,970",industrial goods
+620,bulgaria,5,22.0,2011,amco-bulgaria,"1,778,274","6,298,606",retail
+621,uk,16,39.0,2005,symprove,"3,498,275","12,298,843",personal & household goods
+622,uk,10,22.0,2015,tecknuovo,"7,477,852","26,273,556",technology
+623,france,62,217.0,2010,platform.sh,"6,242,232","22,077,678",technology
+624,germany,5,46.0,2011,isg express logistik,"1,646,307","5,822,692",transport
+625,italy,55,173.0,2008,manelli impresa,"12,259,540","43,355,980",construction
+626,portugal,22,53.0,2009,sa formaã§ã£o,"1,031,733","3,647,652",education
+627,germany,3,14.0,2015,sm sektmanufaktur,"681,652","2,408,586",industrial goods
+628,germany,8,31.0,2011,beauty consult deutschland,"1,055,100","3,725,665",health
+629,italy,5,8.0,1977,finauto,"3,350,270","11,789,870",automobiles
+630,france,18,21.0,2009,aucoffre.com,"32,428,296","114,037,838",financial services
+631,uk,37,46.0,2014,divido,"1,084,616","3,786,036",fintech
+632,germany,6,17.0,2016,r&k ingenieure,"1,482,100","5,210,500",construction
+633,uk,11,25.0,2011,nephos technologies,"5,031,697","17,559,447",technology
+634,uk,8,15.0,2002,la vida,"2,178,629","7,572,128",support services
+635,uk,4,12.0,2012,midstream lighting,"2,363,526","8,204,844",technology
+636,france,2,2.0,2014,propulse it,"1,809,858","6,326,861",technology
+637,spain,25,30.0,2012,additius santa maria,"9,100,083","31,757,362",agricultural commodities
+638,france,3,15.0,2017,conexio telecom,"547,084","1,908,640",telecoms
+639,germany,5,9.0,2012,tripin,"1,568,506","5,465,080",retail
+640,hungary,4,9.0,1996,continental wood kft.,"910,973","2,724,073",industrial goods
+641,italy,71,120.0,2008,geoteam,"2,195,780","7,623,730",energy
+642,france,4,7.0,2014,leascorp,"5,325,214","18,481,247",financial services
+643,uk,3,19.0,2014,positive healthcare,"1,954,609","6,731,831",management consulting
+644,germany,4,8.0,2010,ralph schmolke,"658,317","2,281,929",retail
+645,italy,2,10.0,2016,roomie milano,"1,079,340","3,728,920",property
+646,romania,40,89.0,2007,trencadis corp,"6,137,755","20,410,511",technology
+647,france,4,11.0,2016,worteks,"541,582","1,870,845",technology
+648,france,27,74.0,2015,remove,"2,608,093","8,988,475",construction
+649,czech republic,15,27.0,2006,citadelo,"452,557","1,556,521",cyber security
+650,germany,13,26.0,2017,grill autoservice,"5,283,415","18,141,216",automobiles
+651,spain,8,15.0,2013,inbrooll,"776,268","2,663,110",industrial goods
+652,germany,3,4.0,2010,cross,"25,858,983","88,590,000",retail
+653,italy,2,6.0,2010,b1gas s.p.a,"12,106,480","41,474,660",energy
+654,italy,8,10.0,2009,filva,"1,808,710","6,188,900",construction
+655,italy,2,6.0,2005,archingest,"1,030,000","3,515,000",construction
+656,uk,51,124.0,2009,alpha fx group,"15,241,075","51,640,733",financial services
+657,switzerland,7,50.0,2012,lemonads,"1,451,770","4,952,255",advertising
+658,norway,71,213.0,2007,signicat,"13,309,441","42,514,150",technology
+659,germany,41,55.0,1965,alfred dã¶pker,"22,730,529","77,358,225",construction
+660,germany,42,88.0,2001,bavaria-ei,"3,842,670","13,067,279",retail
+661,lithuania,57,245.0,2015,oxylabs.io,"7,381,686","25,040,954",technology
+662,germany,2,5.0,2014,a.s.h. automobile,"687,958","2,333,452",automobiles
+663,hungary,18,57.0,2007,vascular,"9,987,236","29,099,679",health
+664,france,30,57.0,2015,andjaro,"943,718","3,189,298",support services
+665,germany,22,34.0,2013,rã¶hrtaler wertstoff,"973,460","3,286,187",waste management & recycling
+666,uk,6,7.0,2016,autel karnetic,"2,543,343","8,520,830",technology
+667,italy,8,10.0,2013,discoup.com,"616,520","2,075,110",advertising
+668,cyprus,52,85.0,2011,hellas direct,"10,247,832","34,488,971",insurance
+669,germany,30,45.0,2009,herrles,"3,044,054","10,242,075",automobiles
+670,austria,6,12.0,2016,investmentpunk academy,"947,000","3,179,000",education
+671,germany,6,13.0,2015,born stahlbau,"1,351,164","4,527,093",industrial goods
+672,germany,5,7.0,2016,rettel projektbau,"2,410,212","8,073,458",construction
+673,italy,2,4.0,2005,suntronic,"700,960","2,347,320",energy
+674,italy,6,42.0,2014,tmt,"3,811,838","12,763,524",industrial goods
+675,germany,2,5.0,2015,gedankenburg,"881,275","2,950,010",advertising
+676,sweden,6,16.0,2013,svop special vehicle operation,"1,385,662","4,526,309",automobiles
+677,uk,132,415.0,2011,glenholme healthcare group,"4,476,517","14,845,073",health
+678,france,230,720.0,2013,audensiel,"17,203,160","57,451,279",technology
+679,spain,34,106.0,2011,ivnosys,"2,618,069","8,743,069",technology
+680,spain,30,45.0,2012,mulconsa,"2,002,982","6,687,402",construction
+681,germany,14,54.0,2004,50nrth,"10,518,963","35,107,348",retail
+682,croatia,6,10.0,2008,delecto,"793,957","2,649,288",retail
+683,poland,7,47.0,2015,mardruk opakowania,"1,058,063","3,226,645",industrial goods
+684,france,15,40.0,2012,manang,"1,862,272","6,205,559",construction
+685,germany,21,27.0,2011,bestbion dx,"4,461,170","14,863,628",health
+686,uk,7,21.0,2015,avamore capital,"772,943","2,552,248",financial services
+687,germany,13,30.0,2011,solaris and more,"1,414,501","4,692,660",energy
+688,uk,8,11.0,2015,clearcycle,"660,767","2,176,368",retail
+689,france,12,35.0,2005,opteamis,"4,180,523","13,856,500",support services
+690,spain,10,20.0,2010,codenor,"1,926,967","6,385,196",construction
+691,france,8,18.0,2015,happybulle,"1,271,353","4,209,975",ecommerce
+692,uk,46,158.0,2013,aurora energy research,"4,587,687","15,079,425",energy
+693,spain,19,14.0,2003,bacci,"7,265,350","24,048,302",fashion
+694,italy,8,25.0,2013,emilia foods,"8,110,160","26,824,140",food & beverage
+695,italy,82,211.0,2001,t.e.a.m. - ti educa a migliorare,"1,020,690","3,370,490",health
+696,poland,30,75.0,2016,brainhub,"1,163,241","3,513,741",technology
+697,italy,10,9.0,2016,assitech,"810,750","2,675,750",construction
+698,uk,4,11.0,2016,schott packaging,"694,501","2,272,847",ecommerce
+699,italy,12,30.0,2010,alba,"1,001,740","3,299,330",energy
+700,uk,219,740.0,2013,fintru,"9,915,609","32,392,546",financial services
+701,italy,4,5.0,2011,global edilizia,"1,226,000","4,028,000",construction
+702,uk,2,381.0,2016,tpximpact,"17,515,305","57,093,437",management consulting
+703,italy,6,9.0,2010,lgs sportlab,"1,222,870","4,014,220",advertising
+704,germany,4,45.0,2005,weiser brandschutz & technik,"1,825,769","5,986,199",construction
+705,uk,13,47.0,2013,fairfax and favor,"5,602,279","18,178,322",fashion
+706,france,39,85.0,2014,fao consulting,"2,384,156","7,781,600",technology
+707,italy,8,37.0,2010,gruppo del barba consulting,"1,794,120","5,855,040",financial services
+708,uk,62,109.0,2003,exclaimer,"8,075,796","26,143,857",technology
+709,italy,25,77.0,2013,join business management consulting,"3,128,700","10,189,790",management consulting
+710,germany,27,57.0,2003,vennes,"5,244,000","17,048,000",construction
+711,the netherlands,7,31.0,2013,piggy,"906,341","2,946,126",technology
+712,finland,40,130.0,2007,epassi,"63,207,258","205,312,456",fintech
+713,germany,150,315.0,2010,atheneum partners,"10,300,000","33,400,000",technology
+714,uk,211,454.0,1999,pharmacy2u,"48,580,102","156,232,906",technology
+715,france,6,18.0,2011,phoenix developpement,"556,159","1,797,294",support services
+716,germany,10,25.0,2016,wiwie transport,"1,300,000","4,200,000",transport
+717,romania,23,31.0,2003,mevas auto center,"834,708","2,595,034",automobiles
+718,germany,21,35.0,2015,bk beachhouse mode,"1,602,458","5,172,479",retail
+719,italy,3,9.0,2015,f.lli urso,"622,800","2,009,090",construction
+720,uk,61,166.0,2011,gohenry,"6,882,489","22,020,382",financial services
+721,italy,634,816.0,2014,adrilog,"17,727,950","57,057,180",transport
+722,uk,2,6.0,2015,attachment,"2,250,946","7,191,249",advertising
+723,france,15,25.0,2015,paris herbes,"4,020,469","12,934,943",agricultural commodities
+724,france,37,28.0,2015,interlog logistic,"1,703,819","5,480,946",transport
+725,italy,34,75.0,1975,conglomerati bituminosi,"10,393,680","33,371,870",construction
+726,belgium,5,26.0,2010,nikkel art,"1,172,617","3,762,160",ecommerce
+727,italy,9,25.0,2011,esyen,"1,206,770","3,868,940",technology
+728,uk,104,165.0,2014,sav-eco packaging ltd,"5,322,238","16,923,940",industrial goods
+729,germany,8,19.0,2016,elmar mair tiefbau,"719,638","2,302,685",construction
+730,spain,12,15.0,2014,atlas innovative engineering,"1,094,666","3,495,981",energy
+731,france,48,76.0,2010,secure-ic,"2,171,492","6,934,182",technology
+732,france,16,36.0,2014,datalyo,"1,111,687","3,544,255",technology
+733,uk,14,29.0,2016,signify technology,"805,029","2,547,992",management consulting
+734,uk,20,59.0,2017,boxt,"12,127,395","38,373,430",ecommerce
+735,uk,55,158.0,2010,james and james fulfilment,"9,762,332","30,887,883",ecommerce
+736,italy,5,9.0,2014,armonie,"879,670","2,803,150",food & beverage
+737,italy,1,5.0,2017,maverick group,"1,674,690","5,313,290",technology
+738,italy,10,29.0,2012,brainpull,"1,344,240","4,264,120",advertising
+739,france,4,15.0,2014,wiseband,"516,164","1,636,674",media
+740,france,4,15.0,2013,groupe ezdo la boulangerie des gourmets,"12,867,410","40,777,823",agricultural commodities
+741,poland,257,396.0,2010,pakar service,"3,363,800","9,729,642",support services
+742,france,62,117.0,2000,bio-uv,"10,181,000","32,175,000",industrial goods
+743,italy,2,14.0,2015,f.g. service,"809,450","2,554,140",construction
+744,italy,2,125.0,2012,allways logistics system,"3,033,150","9,569,120",transport
+745,sweden,75,164.0,2013,matsmart,"16,075,963","49,576,899",ecommerce
+746,germany,2,5.0,2016,autargo,"573,070","1,807,173",construction
+747,norway,7,9.0,2015,brewshop.no,"1,484,883","4,392,988",food & beverage
+748,italy,3,15.0,2016,visualitics,"676,000","2,131,000",technology
+749,germany,14,32.0,2016,hifi extra,"15,610,826","49,190,436",retail
+750,germany,70,150.0,2013,ankerkraut,"8,271,702","26,010,474",food & beverage
+751,italy,98,205.0,2008,gda,"6,615,000","20,745,690",fashion
+752,italy,9,25.0,2006,nexid,"859,960","2,696,270",technology
+753,italy,7,16.0,2013,gs studio & service,"666,210","2,087,000",energy
+754,italy,60,160.0,2006,neosperience,"5,229,000","16,367,000",technology
+755,slovenia,11,16.0,2010,lunos,"2,031,522","6,356,404",technology
+756,italy,39,71.0,2013,meic costruzioni,"3,342,120","10,456,300",construction
+757,uk,12,14.0,2016,trident lifting solutions ltd,"5,105,700","15,846,632",construction
+758,germany,28,69.0,2010,smart battery solutions,"3,264,000","10,203,000",technology
+759,germany,10,20.0,2003,eu-bay commerce,"2,601,485","8,122,686",retail
+760,germany,6,20.0,2009,jens rabe academy,"1,171,373","3,655,345",education
+761,uk,407,1251.0,2010,hyperoptic,"18,649,681","57,766,084",telecoms
+762,france,2,21.0,2009,sepale,"2,531,055","7,879,983",energy
+763,italy,19,33.0,2005,3a informatica,"633,990","1,970,000",telecoms
+764,france,10,22.0,2014,emsproto,"1,009,846","3,136,947",ecommerce
+765,france,9,13.0,2011,laboratoires dermosun,"1,815,835","5,626,849",chemicals & pharmaceuticals
+766,italy,13,23.0,2013,saico,"2,177,950","6,737,600",construction
+767,italy,9,19.0,1956,nutis,"2,124,990","6,566,530",food & beverage
+768,poland,12,23.0,2011,ogrodosfera.pl,"4,693,330","13,256,472",ecommerce
+769,france,17,30.0,2010,svti,"1,290,312","3,981,300",industrial goods
+770,italy,13,38.0,2011,enhancers,"1,087,520","3,352,210",technology
+771,france,6,16.0,2012,agripower france,"2,498,792","7,701,275",waste management & recycling
+772,italy,8,18.0,2014,next turbo technologies,"3,080,610","9,481,040",industrial goods
+773,italy,46,98.0,2013,velvet media italia,"1,759,490","5,411,160",advertising
+774,italy,9,35.0,2016,booster box,"667,837","2,049,365",advertising
+775,slovakia,3,2.0,2014,rmf group,"1,072,117","3,289,892",food & beverage
+776,uk,89,140.0,2005,darwin group limited,"23,141,358","70,393,894",construction
+777,poland,90,230.0,2012,itfs,"3,730,405","10,446,862",technology
+778,france,9,25.0,2015,skillsday,"1,031,988","3,154,795",education
+779,finland,23,34.0,2010,gapps,"2,850,000","8,707,000",technology
+780,italy,6,15.0,1984,maxfel,"720,650","2,201,160",interiors
+781,spain,33,55.0,2012,herrero brigantina,"4,832,212","14,725,853",insurance
+782,italy,3,6.0,2016,manitech,"1,263,420","3,834,910",industrial goods
+783,italy,6,16.0,2016,tradeco,"1,944,720","5,889,890",industrial goods
+784,france,13,28.0,2012,mon chasseur immo,"1,585,727","4,794,423",property
+785,france,20,75.0,2013,upslide,"2,737,704","8,274,214",support services
+786,france,5,18.0,2015,cogeclim energies,"868,406","2,622,506",construction
+787,hungary,10,14.0,2004,cellarius,"989,785","2,571,079",sales & marketing
+788,germany,75,141.0,2014,careful-service,"1,173,908","3,537,769",health
+789,lithuania,24,30.0,2007,softneta,"590,642","1,778,249",health
+790,uk,64,161.0,2016,progeny,"5,561,585","16,601,337",financial services
+791,france,29,57.0,2009,web geo services,"8,022,358","24,114,000",technology
+792,germany,,,2013,spedition ibov,"1,140,000","3,424,863",transport
+793,germany,21,25.0,2014,mypostcard.com,"2,119,022","6,358,307",retail
+794,germany,2,3.0,2013,variosan,"1,078,808","3,233,968",retail
+795,germany,8,36.0,2013,riedle + bertsch,"777,849","2,331,579",technology
+796,italy,23,50.0,1999,mobili fiver,"3,973,460","11,897,820",interiors
+797,france,11,46.0,2015,klc desamiantage,"2,065,220","6,182,419",construction
+798,france,3,6.0,2014,secret arts of spirits,"1,105,569","3,308,224",retail
+799,uk,68,184.0,2011,mpb group limited,"24,429,686","72,503,245",ecommerce
+800,germany,5,12.0,2016,3zehn auto discount,"8,527,777","25,448,057",automobiles
+801,france,50,67.0,2012,adikteev,"15,292,051","45,616,000",technology
+802,germany,3,50.0,2009,fundis reitsport,"2,370,645","7,066,208",retail
+803,germany,9,17.0,2009,antriebstechnik ebner-seibold,"753,352","2,245,423",retail
+804,belgium,30,102.0,2011,invibes advertising,"3,880,663","11,530,000",technology
+805,italy,18,34.0,2014,jointly il welfare condiviso,"808,700","2,400,550",support services
+806,sweden,10,23.0,2012,abtot mark & anlã¤ggning ab,"3,450,305","9,983,094",construction
+807,germany,10,36.0,2012,dusapro immobilien,"11,484,801","33,903,865",property
+808,france,4,8.0,2012,soldats films,"787,160","2,320,653",media
+809,italy,120,287.0,2016,eagleprojects,"5,137,900","15,140,480",telecoms
+810,italy,15,43.0,2013,agile lab,"1,897,650","5,590,450",technology
+811,norway,4,8.0,2012,importpris.no,"1,126,971","3,113,197",ecommerce
+812,germany,18,72.0,2011,truu,"4,245,861","12,472,561",industrial goods
+813,france,5,15.0,2016,lâatelier,"1,461,226","4,288,024",technology
+814,germany,7,22.0,2014,frigoclim kã¤lte-klima,"1,326,082","3,890,690",construction
+815,germany,3,5.0,2013,m coffee company,"722,795","2,117,442",retail
+816,france,12,22.0,2011,protextyl,"1,818,032","5,324,116",retail
+817,france,14,18.0,2009,sp architecte,"964,998","2,825,876",construction
+818,spain,54,178.0,2011,embargos a lo bestia,"7,709,375","22,559,217",retail
+819,ireland,2,3.0,2011,snigel,"7,000,063","20,479,764",technology
+820,germany,5,120.0,2006,ims rettungsdienst,"650,000","1,900,000",health
+821,italy,1,16.0,2017,way2global sb,"828,820","2,411,600",support services
+822,uk,3,33.0,2014,media access solutions,"1,181,642","3,407,930",support services
+823,spain,21,44.0,2008,exadi,"14,649,568","42,525,086",sales and marketing
+824,germany,10,29.0,2014,fiber-service-gesellschaft,"1,395,607","4,049,655",telecoms
+825,poland,140,280.0,2010,tenderhut (group),"3,868,483","10,264,611",technology
+826,spain,12,30.0,2016,worldwide fishing company,"48,449,141","140,442,673",food & beverage
+827,italy,26,43.0,2013,doctor hail spa,"6,246,592","18,101,114",automobiles
+828,germany,650,1500.0,2011,kbs group,"14,500,000","42,006,000",support services
+829,estonia,5,12.0,2017,terre ehitus,"723,064","2,089,215",construction
+830,germany,7,19.0,2013,bauer energiekonzepte,"12,554,325","36,223,730",energy
+831,italy,26,77.0,2001,new euroart,"3,226,280","9,307,640",construction
+832,italy,8,16.0,2015,capelli for you,"575,120","1,658,750",beauty
+833,uk,133,371.0,2014,ogury,"37,992,902","108,758,853",advertising
+834,germany,7,17.0,2017,tft ernst,"698,300","2,012,427",construction
+835,uk,31,55.0,2001,somerford associates,"6,564,162","18,757,685",technology
+836,germany,12,38.0,2012,arcadia investment,"2,818,652","8,102,218",property
+837,italy,112,186.0,2009,filoblu,"19,351,090","55,564,420",management consulting
+838,uk,8,21.0,2016,tribus digital,"685,567","1,952,800",technology
+839,italy,20,35.0,2014,doit,"1,060,000","3,040,000",technology
+840,uk,8,23.0,2009,global perspectives,"2,329,522","6,631,496",health
+841,italy,8,25.0,1999,pirene,"527,910","1,512,680",support services
+842,uk,39,183.0,2012,ipulse,"36,995,102","105,149,602",personal & household goods
+843,germany,23,47.0,2002,blue networks,"2,322,241","6,626,713",technology
+844,germany,20,35.0,2009,n. schwegler,"3,686,000","10,514,000",construction
+845,germany,7,15.0,2002,marcus lutz bau,"659,402","1,874,438",construction
+846,germany,3,4.0,2008,hkr-technik,"2,462,478","6,996,880",retail
+847,germany,18,30.0,2007,licht + strom,"1,424,633","4,039,340",technology
+848,germany,15,40.0,2009,die autowelt,"5,915,499","16,754,654",automobiles
+849,france,4,9.0,2012,artheau aviation,"3,977,562","11,263,318",aerospace & defence
+850,italy,13,22.0,2000,cepo,"1,592,170","4,503,670",industrial goods
+851,france,1,2.0,2013,sneakers & jackets,"1,022,714","2,888,273",financial services
+852,uk,11,26.0,2009,89up,"647,020","1,814,237",advertising
+853,france,na,4.0,2016,luxury & performance selection,"2,281,929","6,444,045",automobiles
+854,uk,117,395.0,2012,grayce group,"6,381,674","17,890,928",management consulting
+855,italy,1,4.0,1993,nemesi italia,"581,520","1,640,000",technology
+856,uk,12,40.0,1994,halo service solutions,"1,799,189","5,037,087",technology
+857,uk,36,73.0,2012,raspberry pi,"28,668,484","80,066,074",technology
+858,italy,8,17.0,2010,giopato & coombes,"1,944,000","5,467,910",interiors
+859,germany,4,8.0,2016,ship it,"1,207,009","3,391,041",retail
+860,germany,19,47.0,2012,rheinische scheidestã¤tte,"29,564,866","83,044,963",retail
+861,poland,34,90.0,2011,whites agency,"1,586,246","4,076,348",advertising
+862,italy,1,38.0,2017,casa di riposo medicalizzata sempione*,"867,960","2,436,000",health
+863,poland,135,269.0,2014,cshark,"4,608,343","11,828,515",technology
+864,italy,30,47.0,2015,zinox laser,"2,269,510","6,364,000",interiors
+865,italy,14,20.0,2013,tera automation,"1,778,890","4,987,860",industrial goods
+866,italy,12,16.0,2014,innova hts,"3,137,630","8,792,400",health
+867,czech republic,8,20.0,2013,kentigen,"554,004","1,507,867",technology
+868,belgium,13,23.0,2015,teal partners,"1,386,701","3,873,750",technology
+869,italy,16,47.0,2010,lm medical division,"4,040,060","11,281,040",health
+870,germany,25,47.0,2003,bec,"2,809,036","7,843,183",technology
+871,croatia,41,81.0,1995,xylon,"1,610,149","4,491,888",technology
+872,germany,2,9.0,2017,spedition kai rindert,"1,083,821","3,018,684",transport
+873,italy,16,22.0,2009,co.ge.sa. costruzioni generali saba,"1,241,760","3,453,730",construction
+874,sweden,13,20.0,2010,skã¤rgã¥rdstunnan/skargards,"5,547,537","15,082,088",ecommerce
+875,italy,1,14.0,2015,autonova milano,"1,006,280","2,790,680",automobiles
+876,germany,25,40.0,2011,polarstern,"10,925,375","30,270,074",energy
+877,germany,5,15.0,2013,halsdorfer + ingenieure projekt,"11,207,566","31,038,460",property
+878,france,9,23.0,2015,opna,"838,200","2,317,903",support services
+879,spain,25,39.0,2010,stikets,"3,372,820","9,318,626",ecommerce
+880,italy,18,18.0,1994,campustore,"12,479,120","34,410,600",education
+881,croatia,14,27.0,2013,ars futura,"574,487","1,580,154",technology
+882,italy,64,116.0,2015,cemir security,"1,028,730","2,835,330",support services
+883,czech republic,40,60.0,2009,borgy cz,"8,362,568","22,419,033",personal & household goods
+884,france,190,600.0,2007,groupe zephyr,"5,908,517","16,264,645",health
+885,france,25,57.0,2015,dernier cri,"1,438,184","3,956,061",technology
+886,germany,10,37.0,2016,yes!devs,"800,000","2,200,000",technology
+887,germany,19,36.0,2009,hydroflex group,"4,788,000","13,166,000",retail
+888,italy,7,31.0,2016,proteko service,"2,003,540","5,502,450",support services
+889,hungary,26,26.0,2012,minicrm,"944,107","2,232,347",technology
+890,italy,13,39.0,2001,cnq consorzio nazionale qualitã ,"783,460","2,151,050",waste management & recycling
+891,czech republic,,,2010,accolade,"31,477,723","83,981,636",property
+892,spain,9,27.0,2009,panel sandwich,"3,517,519","9,637,845",construction
+893,france,28,32.0,1991,symbiose informatique,"12,074,454","33,080,096",technology
+894,italy,24,51.0,2012,g.engineering,"6,024,830","16,504,780",industrial goods
+895,france,50,200.0,2011,i-particuliers,"1,488,875","4,071,600",property
+896,germany,25,48.0,2012,henco,"2,550,263","6,970,679",retail
+897,italy,25,53.0,2007,giglio.com,"9,283,620","25,355,630",ecommerce
+898,sweden,5,16.0,2013,alphaspel,"1,699,234","4,535,769",retail
+899,lithuania,14,24.0,2014,sapiegos klinika,"579,436","1,578,677",health
+900,uk,9,25.0,2010,opencorporates,"1,010,498","2,730,677",technology
+901,france,22,49.0,2012,be cloud,"3,811,605","10,371,094",support services
+902,poland,60,130.0,2014,drukarnia piga.pl,"1,632,988","4,064,038",ecommerce
+903,france,84,227.0,2010,groupe mister menuiserie,"25,003,047","68,009,314",ecommerce
+904,germany,51,79.0,1999,insetto,"2,210,651","6,010,130",retail
+905,portugal,9,13.0,2005,technophage,"823,381","2,237,180",pharmaceuticals
+906,france,25,68.0,2008,skalis portage salarial,"2,287,420","6,202,068",support services
+907,germany,5,11.0,2016,peoplegrapher,"1,314,806","3,561,298",advertising
+908,italy,2,4.0,2016,reveg fruit,"870,070","2,356,570",food & beverage
+909,bulgaria,39,79.0,2016,sciant,"1,178,653","3,192,139",technology
+910,germany,50,130.0,2012,boender & beutel,"5,376,347","14,550,131",industrial goods
+911,france,419,456.0,2003,ekinops,"34,291,000","92,800,000",telecoms
+912,portugal,12,13.0,1938,sano-tã©cnica,"1,838,120","4,972,658",health
+913,germany,16,24.0,2013,mã¶belando,"6,170,577","16,692,390",retail
+914,italy,12,37.0,2011,democom,"1,238,210","3,347,950",telecoms
+915,italy,3,11.0,2009,erbagil,"1,490,280","4,021,010",pharmaceuticals
+916,finland,9,32.0,2014,axopar boats,"29,247,774","78,765,693",travel & leisure
+917,italy,11,54.0,2012,advanced composites solutions,"2,006,100","5,393,690",automobiles
+918,italy,12,34.0,2000,spartivento yachts & charter,"1,932,580","5,194,630",travel & leisure
+919,poland,39,64.0,2014,seargin,"7,576,080","18,624,755",technology
+920,germany,28,32.0,2009,ttp holding,"13,997,000","37,607,000",support services
+921,sweden,5,14.0,2011,sweef furniture,"3,620,585","9,506,903",retail
+922,hungary,5,10.0,2008,sonic tanã¡csadã³ ã©s szolgã¡ltatã³ kft,"2,009,719","4,646,080",technology
+923,belgium,30,71.0,2014,spotit,"7,606,472","20,387,729",cyber security
+924,france,11,27.0,2016,label experience,"655,366","1,756,470",financial services
+925,italy,2,724.0,2015,lmm logistics,"5,268,390","14,113,040",transport
+926,spain,15,35.0,2008,medicalfit,"888,395","2,378,517",health
+927,italy,23,26.0,2017,nuova mg,"794,770","2,126,840",industrial goods
+928,france,7,30.0,2016,innov and co handicap,"702,609","1,879,824",technology
+929,france,33,31.0,2003,alma entreprise,"5,023,015","13,438,347",construction
+930,italy,8,15.0,2016,radit,"703,190","1,879,520",support services
+931,france,80,220.0,2013,regional express,"8,552,857","22,841,800",transport
+932,france,26,59.0,2004,aravati,"2,500,644","6,671,500",support services
+933,germany,4,7.0,2013,pã¶hner hamburg,"5,851,000","15,603,000",retail
+934,germany,18,21.0,2010,schreinerei huber,"986,286","2,629,044",construction
+935,france,12,12.0,1996,isr,"1,741,112","4,637,943",technology
+936,germany,2,5.0,2008,kinga mathe,"676,431","1,800,494",retail
+937,lithuania,20,24.0,1992,rivile,"1,467,195","3,905,042",technology
+938,france,8,20.0,2016,magarantie5ans,"3,477,788","9,253,546",retail
+939,france,36,98.0,2012,bebeboutik,"10,944,325","29,080,296",retail
+940,austria,88,122.0,2011,radar cyber security,"4,794,822","12,727,043",technology
+941,france,49,121.0,2004,clair group,"14,683,064","38,960,985",aerospace & defence
+942,germany,105,221.0,2009,appsfactory,"6,801,966","18,044,631",technology
+943,uk,142,250.0,2010,stiltz homelifts,"14,051,407","36,960,953",interiors
+944,romania,48,105.0,2012,star stone,"1,729,707","4,409,476",construction
+945,uk,10,22.0,2016,coptrz,"2,395,445","6,297,471",aerospace & defence
+946,uk,15,35.0,2014,nurole,"1,236,098","3,249,493",technology
+947,germany,10,15.0,2016,abao energy,"910,386","2,406,917",construction
+948,italy,16,32.0,2011,welol next,"1,017,320","2,685,440",technology
+949,uk,22,75.0,2010,intent hq,"2,199,126","5,762,891",technology
+950,france,14,20.0,2009,cafã© du cycliste,"2,826,571","7,445,865",ecommerce
+951,germany,5,8.0,2016,langer lã¼ftungs- und klimaanlagen,"1,749,794","4,609,256",construction
+952,france,60,130.0,2010,formind,"6,398,583","16,845,354",cyber security
+953,france,4,20.0,2010,oasis smart sim europe**,"1,167,000","3,065,165",telecoms
+954,italy,9,13.0,2013,aferetica,"2,429,230","6,376,910",health
+955,italy,15,37.0,2014,zero,"16,000,000","42,000,000",energy
+956,france,20,70.0,2011,skills,"4,443,710","11,650,138",support services
+957,italy,1,22.0,2015,3e studio,"1,071,090","2,804,580",support services
+958,slovakia,1,5.0,2013,pannonia steel,"675,645","1,768,886",construction
+959,italy,15,21.0,2009,kronos,"9,009,270","23,579,000",fashion
+960,italy,11,22.0,2007,lasaponaria,"2,409,730","6,304,690",beauty
+961,germany,50,95.0,2013,die wuhlewanderer,"1,900,000","4,970,000",health
+962,sweden,26,27.0,2007,imint vidhance,"1,897,113","4,851,538",technology
+963,italy,18,47.0,2016,arte e passione,"639,410","1,671,730",restaurants
+964,france,29,87.0,2011,paul marius,"9,515,000","24,869,602",retail
+965,bulgaria,330,730.0,2012,scalefocus,"12,686,177","33,137,857",technology
+966,germany,7,16.0,2014,whiskyzone,"4,117,340","10,750,866",retail
+967,italy,63,113.0,2002,targa telematics,"14,327,610","37,386,150",technology
+968,uk,23,50.0,2003,sian wholesale ltd,"28,939,861","74,719,260",transport
+969,sweden,54,104.0,2002,visage technologies,"2,233,448","5,677,639",technology
+970,lithuania,1,1.0,2016,riotloc,"596,906","1,551,468",games industry
+971,uk,31,34.0,2003,bullionvault,"6,278,456","16,196,046",precious metals
+972,spain,9,23.0,2000,3a antioxidants,"2,968,892","7,704,000",chemicals & pharmaceuticals
+973,germany,3,6.0,2016,on metall,"997,518","2,587,718",industrial goods
+974,the netherlands,22,39.0,2012,scribbr,"3,417,536","8,862,818",education
+975,france,500,1000.0,2007,selectra,"24,320,734","62,951,353",energy
+976,italy,7,13.0,2010,energetic,"661,860","1,711,470",energy
+977,france,7,9.0,2007,faveod,"1,005,658","2,598,585",support services
+978,spain,5,15.0,2013,cye energia,"9,161,867","23,673,728",energy
+979,finland,33,105.0,2008,integrata oy,"3,647,000","9,409,000",financial services
+980,germany,15,25.0,2010,regular trade,"4,526,000","11,671,000",retail
+981,hungary,6,15.0,2011,expleo,"900,686","2,696,785",energy
+982,italy,21,21.0,2015,confezioni velvet,"1,302,640","3,355,870",fashion
+983,germany,12,10.0,1998,activ bilanz,"6,712,146","17,286,985",property
+984,italy,5,12.0,2011,family nation,"2,059,190","5,300,370",ecommerce
+985,greece,13,19.0,1994,majar â matzaridis bros,"5,144,442","13,224,865",technology
+986,spain,431,791.0,1996,izertis,"19,753,150","50,740,841",technology
+987,italy,1,5.0,2016,fashion commerce,"916,000","2,349,000",ecommerce
+988,uk,41,105.0,2009,bulk tainer logistics limited,"21,717,432","56,054,130",transport
+989,italy,12,22.0,2016,wingeco,"1,332,330","3,407,310",industrial goods
+990,poland,12,25.0,2021,meblobranie.pl,"6,909,799","19,295,429",ecommerce
+991,spain,39,67.0,1898,queraltã³,"8,575,344","21,900,903",ecommerce
+992,slovakia,8,12.0,1993,phobos,"1,382,844","3,529,454",automobiles
+993,italy,13,5.0,2013,archita engineering,"1,074,130","2,739,230",support services
+994,spain,10,27.0,2006,celeritas,"22,805,398","58,139,933",transport
+995,germany,15,45.0,2014,peopleforecast,"818,658","2,086,411",technology
+996,italy,41,12.0,2014,digitalpa,"679,440","1,731,340",management consulting
+997,germany,100,150.0,2003,faktenkontor,"12,153,143","30,967,000",advertising
+998,france,13,53.0,2012,clareo,"7,399,729","18,854,708",retail
+999,italy,5,5.0,2013,laca trade,"9,717,860","24,741,510",property

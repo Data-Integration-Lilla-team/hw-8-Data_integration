@@ -6,7 +6,7 @@ from Levenshtein import distance
 
 
 
-
+#navigazione della directory Dataset/Clusters e applicazione logica per ogni cluster
 def get_SRC_to_path(basic_path):
     Sorgenti2path=dict()                  
     for f in os.listdir(base_path):
@@ -43,13 +43,15 @@ if __name__=='__main__':
     #andiamo ad effettuare della anlisi relative a campi in overlap
     base_path='Project\\Dataset\\Clusters\\'
     
-    Sorgenti2path=get_SRC_to_path(base_path)
+    Sorgenti2path=get_SRC_to_path(base_path)        #per ogni sorgente (cluster name) associamo il path del dir per raggiungere le tabelle contenute in esso 
+                                                    #(name_cluster: path_cluster)
     print(Sorgenti2path)
 
 
     
-    Sorgenti2team=get_SRC_to_datasets(Sorgenti2path)
-
+    Sorgenti2team=get_SRC_to_datasets(Sorgenti2path)    #dizionario in cui, per ogni sorgente (cluster name) associamo una lista di tuple (nome team, path)
+    print('SRC to taem')
+    print(Sorgenti2team)
    
 
     informazioni_per_SRC='Project\\Dataset\\Informazioni'
@@ -65,6 +67,7 @@ if __name__=='__main__':
     #esplorazione dei dati
     from explore_single_SRC import Explorer
     explorer=Explorer()
+    
     for k in Sorgenti2path.keys():
-        explorer.explore_single_data(Sorgenti2path[k],k)
+        explorer.explore_single_data(Sorgenti2path[k],k)        #applicazione logica per ogni cluster (sorgente)
         

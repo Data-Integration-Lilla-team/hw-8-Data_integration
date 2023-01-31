@@ -21,6 +21,11 @@ def get_file_names(base_path):
     
 
     return file_names
+
+
+    
+
+   
 def get_col_4_files(files):
 
     col_4_team=dict()
@@ -138,7 +143,14 @@ if __name__=='__main__':
     
     dataClustered=cluster_model.clustered_data(dataset_norm,columns,len(dizionarioSinonimi.keys()))
 
-    print(dataClustered.head(20))
+
+    name='clustered_rows.csv'
+    file_name=final_path+name
+
+    dataClustered.to_csv(file_name)
+    
+    clusters=pd.from_csv(file_name)
+    
 
 
     

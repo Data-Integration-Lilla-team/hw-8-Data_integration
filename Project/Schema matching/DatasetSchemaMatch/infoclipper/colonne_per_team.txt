@@ -1,0 +1,1 @@
+'09-wissel.csv':['index', 'url', 'name', 'trade_name', 'address_name', 'postalcode', 'city', 'state', 'country', 'location_type']

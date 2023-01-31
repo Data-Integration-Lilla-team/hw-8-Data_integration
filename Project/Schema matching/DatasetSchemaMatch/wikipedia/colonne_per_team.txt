@@ -1,0 +1,4 @@
+'02-GioPonSpiz.csv':['name', 'industry', 'sector', 'headquarters', 'founded']
+'05-MalPatSaj.csv':['name', 'industry', 'sector', 'headquarters', 'founded', 'notes']
+'06-MarScoToc.csv':['name', 'industry', 'headquarters', 'founded', 'area_served']
+'10-DeBiGa.csv':['name', 'type', 'industry', 'founded', 'founders', 'headquarters', 'key_people', 'services', 'revenue', 'operating_income', 'total_assets', 'number_of_employees', 'website']

@@ -90,6 +90,26 @@ class Parser_custom():
             ds[c]=ds[c].replace(dic_to_replace,regex=True)
             if isinstance(ds[c].head(1)[0], str):
                 ds[c]=ds[c].str.lower()
+    
+    def parse_data_values(self,ds):
+        dic_to_replace=dict()
+        dic_to_replace={'%':'_perc',
+                        
+                        
+                        '#':'rank_',
+                        '\$': 'doll_'
+        }
+        columns=ds.columns
+        cols_to_lower_case=[]
+        import re
+
+       
+        #ds=ds.fillna(0)
+        for c in columns:
+            
+            ds[c]=ds[c].replace(dic_to_replace,regex=True)
+            if isinstance(ds[c].head(1)[0], str):
+                ds[c]=ds[c].str.lower()
 
            
 

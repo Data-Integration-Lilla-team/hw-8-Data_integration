@@ -1,0 +1,6 @@
+'00-avengers.csv':['id', 'name', 'world_rank', 'annual_revenue_in_usd', 'annual_net_income_in_usd', 'annual_results_for_year_ending', 'total_assets_in_usd', 'total_liabilities_in_usd', 'total_equity_in_usd', 'headquarters_region_city', 'headquarters_country', 'headquarters_sub_region', 'headquarters_continent', 'company_business', 'number_of_employees', 'ceo', 'founders', 'company_website']
+'02-GioPonSpiz.csv':['name', 'world_rank', 'marketvalue', 'marketcap', 'ceo', 'country']
+'03-gren.csv':['name', 'annual_revenue_usd', 'annual_net_income_usd', 'market_capitalization_2022', 'employees_number', 'ceo', 'headquarters_country', 'wikipedia_page_url', 'twitter_page_url', 'facebook_page_url']
+'04-iGMM.csv':['name', 'ceo', 'market_value__jan_07_2022', 'world_rank__jan_07_2022', 'market_value__jan_1st_2020', 'world_rank__jan_2020', 'headquarters_country', 'number_of_employees', 'company_business', 'annual_revenue_in_usd', 'annual_net_income_in_usd', 'company_website']
+'07-silvestri.csv':['ceo', 'country', 'market_value_jan_2020', 'market_value_jan_2021', 'market_value_jan_2022', 'name', 'employees_2022', 'revenue_2022', 'sector']
+'08-slytherin.csv':['link', 'rank', 'name', 'ceo', 'founded', 'revenue', 'country', 'industry']

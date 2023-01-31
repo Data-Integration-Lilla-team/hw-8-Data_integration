@@ -1,10 +1,13 @@
 import pandas as pd
 from parser_c import Parser_custom
 import os
+'''
+Classe specializzata nel rinominare i nomi delle colonne dei dataset
+'''
 class Rename_columns:
 
     def __init__(self):
-        pass
+        self.final_path='Project\\Dataset\\Clusters_CSV\\parsed\\'
 
     #rename column->per ogni ds di un cluster rinonimiamo i nomi delle colonne in modo tale da avere uno schema univoco.
     #trasformazione->1. row name to parsed name

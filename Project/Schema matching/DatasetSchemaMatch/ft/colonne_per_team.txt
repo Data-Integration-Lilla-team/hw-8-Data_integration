@@ -1,0 +1,4 @@
+'01-DDD.csv':['name', 'country', 'sector', 'absolute_growth_rate_pct', 'compound_annual_growth_rate_cagr_pct', 'revenue_2020_euro', 'revenue_2017_euro', 'number_of_employees_2020', 'number_of_employees_2017', 'founding_year']
+'03-gren.csv':['name', 'country', 'sector', 'revenue_2020_eu', 'revenue_2017_eu', 'employees_number_2020', 'employees_number_2017', 'founding_year']
+'07-silvestri.csv':['country', 'employees_2017', 'employees_2020', 'founding_year', 'name', 'revenue_2017', 'revenue_2020', 'sector']
+'08-slytherin.csv':['link', 'name', 'country', 'industry', 'revenue', 'employees', 'founded']
