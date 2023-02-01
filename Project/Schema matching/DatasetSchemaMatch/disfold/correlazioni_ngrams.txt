@@ -1,4 +1,4 @@
-threshold:0.2
+threshold:0.2 avg jaccard:0.7319999999999999
 categories->('categories', 1.0)
 ceo->('ceo', 1.0)
 code->('code', 1.0)
@@ -25,7 +25,7 @@ revenue->('revenue', 1.0)
 sector->('sector', 1.0)
 stock->('stock', 1.0)
 
-threshold:0.30000000000000004
+threshold:0.30000000000000004 avg jaccard:0.7286666666666666
 categories->('categories', 1.0)
 ceo->('ceo', 1.0)
 code->('code', 1.0)
@@ -52,7 +52,7 @@ revenue->('revenue', 1.0)
 sector->('sector', 1.0)
 stock->('stock', 1.0)
 
-threshold:0.4
+threshold:0.4 avg jaccard:0.7126666666666666
 categories->('categories', 1.0)
 ceo->('ceo', 1.0)
 code->('code', 1.0)
@@ -79,7 +79,7 @@ revenue->('revenue', 1.0)
 sector->('sector', 1.0)
 stock->('stock', 1.0)
 
-threshold:0.5
+threshold:0.5 avg jaccard:0.7493333333333332
 categories->('categories', 1.0)
 ceo->('ceo', 1.0)
 code->('code', 1.0)
@@ -106,7 +106,7 @@ revenue->('revenue', 1.0)
 sector->('sector', 1.0)
 stock->('stock', 1.0)
 
-threshold:0.6
+threshold:0.6 avg jaccard:0.7759999999999999
 categories->('categories', 1.0)
 ceo->('ceo', 1.0)
 code->('code', 1.0)

@@ -1,4 +1,4 @@
-threshold:0.2
+threshold:0.2 avg jaccard:0.6035714285714285
 company_creation_date->('company_creation_date', 1.0)('company_id', 0.2962962962962963)('company_number', 0.25806451612903225)('company_status', 0.25806451612903225)('company_type', 0.32142857142857145)('dissolution_date', 0.28125)('incorporation_date', 0.30303030303030304)('registration_date', 0.3125)
 company_id->('company_creation_date', 0.2962962962962963)('company_id', 1.0)('company_number', 0.4)('company_status', 0.4)('company_type', 0.4444444444444444)
 company_number->('company_creation_date', 0.25806451612903225)('company_id', 0.4)('company_number', 1.0)('company_status', 0.3333333333333333)('company_type', 0.36363636363636365)
@@ -14,7 +14,7 @@ registered_office_address->('office_address', 0.4827586206896552)('registered_of
 registration_date->('company_creation_date', 0.3125)('dissolution_date', 0.32142857142857145)('incorporation_date', 0.39285714285714285)('registration_date', 1.0)
 url->('url', 1.0)
 
-threshold:0.30000000000000004
+threshold:0.30000000000000004 avg jaccard:0.6452380952380953
 company_creation_date->('company_creation_date', 1.0)('company_type', 0.32142857142857145)('incorporation_date', 0.30303030303030304)('registration_date', 0.3125)
 company_id->('company_id', 1.0)('company_number', 0.4)('company_status', 0.4)('company_type', 0.4444444444444444)
 company_number->('company_id', 0.4)('company_number', 1.0)('company_status', 0.3333333333333333)('company_type', 0.36363636363636365)
@@ -30,7 +30,7 @@ registered_office_address->('office_address', 0.4827586206896552)('registered_of
 registration_date->('company_creation_date', 0.3125)('dissolution_date', 0.32142857142857145)('incorporation_date', 0.39285714285714285)('registration_date', 1.0)
 url->('url', 1.0)
 
-threshold:0.4
+threshold:0.4 avg jaccard:0.8214285714285714
 company_creation_date->('company_creation_date', 1.0)
 company_id->('company_id', 1.0)('company_number', 0.4)('company_status', 0.4)('company_type', 0.4444444444444444)
 company_number->('company_id', 0.4)('company_number', 1.0)
@@ -46,7 +46,7 @@ registered_office_address->('office_address', 0.4827586206896552)('registered_of
 registration_date->('registration_date', 1.0)
 url->('url', 1.0)
 
-threshold:0.5
+threshold:0.5 avg jaccard:0.7857142857142857
 company_creation_date->('company_creation_date', 1.0)
 company_id->('company_id', 1.0)
 company_number->('company_number', 1.0)
@@ -62,7 +62,7 @@ registered_office_address->('registered_office_address', 1.0)
 registration_date->('registration_date', 1.0)
 url->('url', 1.0)
 
-threshold:0.6
+threshold:0.6 avg jaccard:0.7857142857142857
 company_creation_date->('company_creation_date', 1.0)
 company_id->('company_id', 1.0)
 company_number->('company_number', 1.0)

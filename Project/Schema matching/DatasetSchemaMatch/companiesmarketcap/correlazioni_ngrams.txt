@@ -1,4 +1,4 @@
-threshold:0.2
+threshold:0.2 avg jaccard:0.7053571428571427
 categories->('categories', 1.0)
 change1d->('change1d', 1.0)('change1y', 0.5384615384615384)('change_1_day', 0.3333333333333333)('change_1_year', 0.3157894736842105)('change_1day', 0.35294117647058826)('change_1year', 0.3333333333333333)
 change1y->('change1d', 0.5384615384615384)('change1y', 1.0)('change_1_day', 0.4117647058823529)('change_1_year', 0.3157894736842105)('change_1day', 0.4375)('change_1year', 0.3333333333333333)
@@ -28,7 +28,7 @@ shares->('share_price', 0.3125)('shareprice', 0.3333333333333333)('shares', 1.0)
 symbol->('symbol', 1.0)
 url->('url', 1.0)
 
-threshold:0.30000000000000004
+threshold:0.30000000000000004 avg jaccard:0.6696428571428571
 categories->('categories', 1.0)
 change1d->('change1d', 1.0)('change1y', 0.5384615384615384)('change_1_day', 0.3333333333333333)('change_1_year', 0.3157894736842105)('change_1day', 0.35294117647058826)('change_1year', 0.3333333333333333)
 change1y->('change1d', 0.5384615384615384)('change1y', 1.0)('change_1_day', 0.4117647058823529)('change_1_year', 0.3157894736842105)('change_1day', 0.4375)('change_1year', 0.3333333333333333)
@@ -58,7 +58,7 @@ shares->('share_price', 0.3125)('shareprice', 0.3333333333333333)('shares', 1.0)
 symbol->('symbol', 1.0)
 url->('url', 1.0)
 
-threshold:0.4
+threshold:0.4 avg jaccard:0.601190476190476
 categories->('categories', 1.0)
 change1d->('change1d', 1.0)('change1y', 0.5384615384615384)
 change1y->('change1d', 0.5384615384615384)('change1y', 1.0)('change_1_day', 0.4117647058823529)('change_1day', 0.4375)
@@ -88,7 +88,7 @@ shares->('shares', 1.0)
 symbol->('symbol', 1.0)
 url->('url', 1.0)
 
-threshold:0.5
+threshold:0.5 avg jaccard:0.6154761904761904
 categories->('categories', 1.0)
 change1d->('change1d', 1.0)('change1y', 0.5384615384615384)
 change1y->('change1d', 0.5384615384615384)('change1y', 1.0)
@@ -118,7 +118,7 @@ shares->('shares', 1.0)
 symbol->('symbol', 1.0)
 url->('url', 1.0)
 
-threshold:0.6
+threshold:0.6 avg jaccard:0.6214285714285713
 categories->('categories', 1.0)
 change1d->('change1d', 1.0)
 change1y->('change1y', 1.0)

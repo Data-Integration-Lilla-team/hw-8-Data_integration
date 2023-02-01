@@ -1,4 +1,4 @@
-threshold:0.2
+threshold:0.2 avg jaccard:0.9027777777777777
 city->('city', 1.0)
 company->('company', 1.0)('country', 0.2)
 country->('company', 0.2)('country', 1.0)
@@ -12,7 +12,7 @@ stage->('stage', 1.0)
 totalraised->('totalraised', 1.0)
 valuation->('valuation', 1.0)
 
-threshold:0.30000000000000004
+threshold:0.30000000000000004 avg jaccard:0.9583333333333334
 city->('city', 1.0)
 company->('company', 1.0)
 country->('country', 1.0)
@@ -26,7 +26,7 @@ stage->('stage', 1.0)
 totalraised->('totalraised', 1.0)
 valuation->('valuation', 1.0)
 
-threshold:0.4
+threshold:0.4 avg jaccard:0.9583333333333334
 city->('city', 1.0)
 company->('company', 1.0)
 country->('country', 1.0)
@@ -40,7 +40,7 @@ stage->('stage', 1.0)
 totalraised->('totalraised', 1.0)
 valuation->('valuation', 1.0)
 
-threshold:0.5
+threshold:0.5 avg jaccard:0.875
 city->('city', 1.0)
 company->('company', 1.0)
 country->('country', 1.0)
@@ -54,7 +54,7 @@ stage->('stage', 1.0)
 totalraised->('totalraised', 1.0)
 valuation->('valuation', 1.0)
 
-threshold:0.6
+threshold:0.6 avg jaccard:0.875
 city->('city', 1.0)
 company->('company', 1.0)
 country->('country', 1.0)

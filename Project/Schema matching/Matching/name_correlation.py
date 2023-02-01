@@ -7,6 +7,7 @@ import pandas as pd
 from Levenshtein import distance
 import ngram
 import os
+from evaluator import Eval
 import numpy as np
 class NameCorr:
 
@@ -133,6 +134,30 @@ class NameCorr:
         
         fig.savefig(os.path.join(self.path_destinazione,name), bbox_inches='tight', transparent=True)
 
+    #computa un dizionario nome_colonna->lista sinonimi senza il punteggio di similitudine
+    def compute_sim4column_no_score(self, sim4col):
+        out=dict()
+        for k in sim4col.keys():
+            lista=[]
+            for i in sim4col [k]:
+                lista.append(i[0])
+            
+            out[k]=lista
+        return out
+    
+    def evalBestThreshold(self, scores):
+        best=0
+        thresh=0
+        for k in scores.keys():
+            score=scores[k]
+            if score>best:
+                best=score
+                thresh=k
+            
+        return (best,thresh)
+
+        
+
 #=======================================================================
 #====================LEVI=============================================
 #=====================================================================
@@ -182,9 +207,11 @@ class NameCorr:
 
     #metodo per la creazione della matrice di similarità mediante LEVINSTEIN
     #si impongono più threshold
-    def compute_LEVI_sim(self, inverted_index):
+    def compute_LEVI_sim(self, inverted_index, test):
         i=self.min
         stringa=''
+        jaccard_dist_eval=dict()
+        eval=Eval()
         while(i<=self.max):
             
             stringa=stringa+'threshold:'+str(i)+'\n'
@@ -192,6 +219,13 @@ class NameCorr:
             res=self.compute_similarityLEVI(inverted_index,i)
             matrice_correlazioneLevi=res[0]
             sim4column=res[1]
+            sim4column_no_score=self.compute_sim4column_no_score(sim4column)
+            score=eval.evaluate(sim4column_no_score,test)
+            jaccard_dist_eval[i]=score
+            stringa=stringa+' avg jaccard:'+str(score)+'\n'
+            
+            
+
             for k in sim4column.keys():
                 stringa=stringa+k+'->'
                 for e in sim4column[k]:
@@ -200,7 +234,16 @@ class NameCorr:
                 stringa=stringa+'\n'
             stringa=stringa+'\n'
             i+=self.step
+        best_thershold=self.evalBestThreshold(jaccard_dist_eval)
+        
+     
+        best_result_all=self.compute_sim_ngrams(inverted_index,best_thershold[1])
+        matrice_correlazioneLevi=best_result_all[0]
+        best_result=best_result_all[1]
+        out=self.compute_sim4column_no_score(best_result)
+
         self.save_infos_levi(stringa,matrice_correlazioneLevi)
+        return out
 
 #=======================================================================
 #====================NGRAMS=============================================
@@ -217,7 +260,8 @@ class NameCorr:
         
         N=3
         list_of_tokens=sorted(inverted_index.keys())
-        
+        jaccard_dist_eval=dict()
+        eval=Eval()
         sim4column=dict()
         List1 = list_of_tokens
         List2 = list_of_tokens
@@ -248,15 +292,21 @@ class NameCorr:
         return [matrice_correlazione,sim4column]
 
     #correlazione via Ngrams
-    def compute_Ngrams_sim(self, inverted_index):
+    def compute_Ngrams_sim(self, inverted_index,test):
         stringa=''
+        eval=Eval()
+        jaccard_dist_eval=dict()
         i=self.min
         while(i<=self.max):
-            stringa=stringa+'threshold:'+str(i)+'\n'
+            stringa=stringa+'threshold:'+str(i)
             
             res=self.compute_sim_ngrams(inverted_index,i)
             matrice_correlazioneNgrams=res[0]
             sim4column=res[1]
+            sim4column_no_score=self.compute_sim4column_no_score(sim4column)
+            score=eval.evaluate(sim4column_no_score,test)
+            jaccard_dist_eval[i]=score
+            stringa=stringa+' avg jaccard:'+str(score)+'\n'
             for k in sim4column.keys():
                 stringa=stringa+k+'->'
                 for e in sim4column[k]:
@@ -265,20 +315,34 @@ class NameCorr:
                 stringa=stringa+'\n'
             stringa=stringa+'\n'
             i+=self.step
-        self.save_infos_ngrams(stringa,matrice_correlazioneNgrams)
+        best_thershold=self.evalBestThreshold(jaccard_dist_eval)
+        best_result_all=self.compute_sim_ngrams(inverted_index,best_thershold[1])
+        matrice_correlazioneNgrams=best_result_all[0]
+        best_result=best_result_all[1]
+        out=self.compute_sim4column_no_score(best_result)
 
+
+        self.save_infos_levi(stringa,matrice_correlazioneNgrams)
+        return out
         
         
-    def computeCorr(self, files):
+    def computeCorr(self, files, validation_set):
         #calcolo delle colonne per dataset
         col4file=self.get_col_4_files(files)               #lista di colonne per ogni dataset in un sorgente
-        print('Cluster',self.cluster)
-        print('inverted index')
+       
         inverted_index=self.create_inverted_index(col4file)
         
-        self.compute_LEVI_sim(inverted_index)
+        resultLevi=self.compute_LEVI_sim(inverted_index,validation_set)
 
-        self.compute_Ngrams_sim(inverted_index)
+        resultNgrams=self.compute_Ngrams_sim(inverted_index,validation_set)
+
+        resultLevi.update(resultNgrams)
+
+        
+
+        
+        return resultLevi
+        
        
         
         

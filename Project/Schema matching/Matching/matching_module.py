@@ -23,6 +23,8 @@ class MatchingModule:
 
         self.path_destinazione='Project\\Schema matching\\DatasetSchemaMatch\\'+k         #dove andranno tutte le elaborazioni
 
+        self.path_sinonimus_dic=self.path_destinazione+'\\'+'column_sinonimi.txt'
+
 #per ogni dataset del sorgente, genera il suo path
 #esempio:
 #sorgente: disfold
@@ -54,6 +56,44 @@ class MatchingModule:
 
 
 
+    def create_list_from_vect(self, values):
+        values=values.replace('[','')
+        values=values.replace(']','')
+        values=values.replace("\n","")
+        values=values.replace("'","")
+        values=values.replace('"','')
+        values=values.replace(" ",'')
+        
+        
+
+        values=values.split(',')
+        values.pop(len(values)-1)
+        return values
+
+    def create_validation_sic_dic(self):
+        d = {}
+        with open(self.path_sinonimus_dic) as f:
+            for line in f:
+                if '{' not in line and '}' not in line:
+                    elementi= line.split(':')
+                    key=elementi[0]
+                    values=elementi[1]
+                    
+                    list_val=self.create_list_from_vect(values)
+                    d[key]=list_val
+
+            
+            for k in d.keys():
+                if len(d[k])==0:
+                    print('errore')
+        
+        return d
+
+
+                
+
+            
+
 
 
     #riceve in input:
@@ -61,20 +101,26 @@ class MatchingModule:
     #lista di tuple (nome team, path dataset)
     #restituisce il dizionario calcolato dei sinonimi
     def create_dic_sin(self,path_cluster, clusterName):
+
+        validation_set=self.create_validation_sic_dic()         #acquisizioine del file .txt 'column_sinonimi.txt' e conversione in dizionario
+
         
         file_names=self.get_files_name(path_cluster)
         #computazione della name correlation
+        print(clusterName)
         nameCorr=NameCorr(clusterName)
-        #nameCorr.computeCorr(file_names)
+        dic_name_correlation=nameCorr.computeCorr(file_names,validation_set)
+        for k in dic_name_correlation.keys():
+            print(k,dic_name_correlation[k])
 
         #calcola il numero di attributi da imporre come massimo per cluster
         #max cluster=max columns distinte
-        max_clusters=self.compute_max_clusters(file_names)-1
+        #max_clusters=self.compute_max_clusters(file_names)-1
 
         #computazione clustering data
-        dataClustering=ClusterData(clusterName)
-        print(clusterName)
-        dataClustering.clusterData(file_names,max_clusters)
+       # dataClustering=ClusterData(clusterName)
+        #print(clusterName)
+        #dataClustering.clusterData(file_names,max_clusters)
 
 
 

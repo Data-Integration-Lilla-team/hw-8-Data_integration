@@ -1,4 +1,4 @@
-threshold:0.2
+threshold:0.2 avg jaccard:0.6040372670807453
 absolute_growth_rate_pct->('absolute_growth_rate_pct', 1.0)('compound_annual_growth_rate_cagr_pct', 0.30612244897959184)
 compound_annual_growth_rate_cagr_pct->('absolute_growth_rate_pct', 0.30612244897959184)('compound_annual_growth_rate_cagr_pct', 1.0)
 country->('country', 1.0)
@@ -23,7 +23,7 @@ revenue_2020_eu->('revenue', 0.3684210526315789)('revenue_2017', 0.4761904761904
 revenue_2020_euro->('revenue', 0.3333333333333333)('revenue_2017', 0.43478260869565216)('revenue_2017_eu', 0.44)('revenue_2017_euro', 0.6521739130434783)('revenue_2020', 0.5714285714285714)('revenue_2020_eu', 0.7142857142857143)('revenue_2020_euro', 1.0)
 sector->('sector', 1.0)
 
-threshold:0.30000000000000004
+threshold:0.30000000000000004 avg jaccard:0.5652173913043478
 absolute_growth_rate_pct->('absolute_growth_rate_pct', 1.0)('compound_annual_growth_rate_cagr_pct', 0.30612244897959184)
 compound_annual_growth_rate_cagr_pct->('absolute_growth_rate_pct', 0.30612244897959184)('compound_annual_growth_rate_cagr_pct', 1.0)
 country->('country', 1.0)
@@ -48,7 +48,7 @@ revenue_2020_eu->('revenue', 0.3684210526315789)('revenue_2017', 0.4761904761904
 revenue_2020_euro->('revenue', 0.3333333333333333)('revenue_2017', 0.43478260869565216)('revenue_2017_eu', 0.44)('revenue_2017_euro', 0.6521739130434783)('revenue_2020', 0.5714285714285714)('revenue_2020_eu', 0.7142857142857143)('revenue_2020_euro', 1.0)
 sector->('sector', 1.0)
 
-threshold:0.4
+threshold:0.4 avg jaccard:0.6198757763975155
 absolute_growth_rate_pct->('absolute_growth_rate_pct', 1.0)
 compound_annual_growth_rate_cagr_pct->('compound_annual_growth_rate_cagr_pct', 1.0)
 country->('country', 1.0)
@@ -73,7 +73,7 @@ revenue_2020_eu->('revenue_2017', 0.47619047619047616)('revenue_2017_eu', 0.6190
 revenue_2020_euro->('revenue_2017', 0.43478260869565216)('revenue_2017_eu', 0.44)('revenue_2017_euro', 0.6521739130434783)('revenue_2020', 0.5714285714285714)('revenue_2020_eu', 0.7142857142857143)('revenue_2020_euro', 1.0)
 sector->('sector', 1.0)
 
-threshold:0.5
+threshold:0.5 avg jaccard:0.6565217391304347
 absolute_growth_rate_pct->('absolute_growth_rate_pct', 1.0)
 compound_annual_growth_rate_cagr_pct->('compound_annual_growth_rate_cagr_pct', 1.0)
 country->('country', 1.0)
@@ -98,7 +98,7 @@ revenue_2020_eu->('revenue_2017_eu', 0.6190476190476191)('revenue_2020', 0.63157
 revenue_2020_euro->('revenue_2017_euro', 0.6521739130434783)('revenue_2020', 0.5714285714285714)('revenue_2020_eu', 0.7142857142857143)('revenue_2020_euro', 1.0)
 sector->('sector', 1.0)
 
-threshold:0.6
+threshold:0.6 avg jaccard:0.5572463768115942
 absolute_growth_rate_pct->('absolute_growth_rate_pct', 1.0)
 compound_annual_growth_rate_cagr_pct->('compound_annual_growth_rate_cagr_pct', 1.0)
 country->('country', 1.0)

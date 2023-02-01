@@ -1,4 +1,4 @@
-threshold:0.2
+threshold:0.2 avg jaccard:0.8333333333333333
 assets->('assets', 1.0)
 ceo->('ceo', 1.0)
 country->('country', 1.0)
@@ -14,7 +14,7 @@ revenue->('revenue', 1.0)('revenue_2022', 0.4375)
 revenue_2022->('revenue', 0.4375)('revenue_2022', 1.0)
 sales->('sales', 1.0)
 
-threshold:0.30000000000000004
+threshold:0.30000000000000004 avg jaccard:0.8333333333333333
 assets->('assets', 1.0)
 ceo->('ceo', 1.0)
 country->('country', 1.0)
@@ -30,7 +30,7 @@ revenue->('revenue', 1.0)('revenue_2022', 0.4375)
 revenue_2022->('revenue', 0.4375)('revenue_2022', 1.0)
 sales->('sales', 1.0)
 
-threshold:0.4
+threshold:0.4 avg jaccard:0.8333333333333333
 assets->('assets', 1.0)
 ceo->('ceo', 1.0)
 country->('country', 1.0)
@@ -46,7 +46,7 @@ revenue->('revenue', 1.0)('revenue_2022', 0.4375)
 revenue_2022->('revenue', 0.4375)('revenue_2022', 1.0)
 sales->('sales', 1.0)
 
-threshold:0.5
+threshold:0.5 avg jaccard:0.7142857142857144
 assets->('assets', 1.0)
 ceo->('ceo', 1.0)
 country->('country', 1.0)
@@ -62,7 +62,7 @@ revenue->('revenue', 1.0)
 revenue_2022->('revenue_2022', 1.0)
 sales->('sales', 1.0)
 
-threshold:0.6
+threshold:0.6 avg jaccard:0.7142857142857144
 assets->('assets', 1.0)
 ceo->('ceo', 1.0)
 country->('country', 1.0)

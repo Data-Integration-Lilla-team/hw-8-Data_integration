@@ -1,40 +1,40 @@
-threshold:0.2
-founded->('founded', 0)
-industry->('industry', 0)
-locations->('locations', 0)
-name->('name', 0)('size', 0.3333333333333333)
-size->('name', 0.3333333333333333)('size', 0)('website', 0.25)
-website->('size', 0.25)('website', 0)
+threshold:0.2 avg jaccard:1.0
+founded->('founded', 1.0)
+industry->('industry', 1.0)
+locations->('locations', 1.0)
+name->('name', 1.0)
+size->('size', 1.0)
+website->('website', 1.0)
 
-threshold:0.30000000000000004
-founded->('founded', 0)
-industry->('industry', 0)
-locations->('locations', 0)
-name->('name', 0)('size', 0.3333333333333333)
-size->('name', 0.3333333333333333)('size', 0)
-website->('website', 0)
+threshold:0.30000000000000004 avg jaccard:1.0
+founded->('founded', 1.0)
+industry->('industry', 1.0)
+locations->('locations', 1.0)
+name->('name', 1.0)
+size->('size', 1.0)
+website->('website', 1.0)
 
-threshold:0.4
-founded->('founded', 0)
-industry->('industry', 0)
-locations->('locations', 0)
-name->('name', 0)
-size->('size', 0)
-website->('website', 0)
+threshold:0.4 avg jaccard:1.0
+founded->('founded', 1.0)
+industry->('industry', 1.0)
+locations->('locations', 1.0)
+name->('name', 1.0)
+size->('size', 1.0)
+website->('website', 1.0)
 
-threshold:0.5
-founded->('founded', 0)
-industry->('industry', 0)
-locations->('locations', 0)
-name->('name', 0)
-size->('size', 0)
-website->('website', 0)
+threshold:0.5 avg jaccard:1.0
+founded->('founded', 1.0)
+industry->('industry', 1.0)
+locations->('locations', 1.0)
+name->('name', 1.0)
+size->('size', 1.0)
+website->('website', 1.0)
 
-threshold:0.6
-founded->('founded', 0)
-industry->('industry', 0)
-locations->('locations', 0)
-name->('name', 0)
-size->('size', 0)
-website->('website', 0)
+threshold:0.6 avg jaccard:1.0
+founded->('founded', 1.0)
+industry->('industry', 1.0)
+locations->('locations', 1.0)
+name->('name', 1.0)
+size->('size', 1.0)
+website->('website', 1.0)
 

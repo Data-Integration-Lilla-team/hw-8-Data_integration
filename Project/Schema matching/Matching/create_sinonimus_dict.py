@@ -100,7 +100,7 @@ def create_sin_dic(sorgente2path):
 
 if __name__=='__main__':  
     
-    base_path='Project\\Dataset\\Clusters_CSV\\original'    #path dei .csv originali
+    base_path='Project\\Dataset\\ClustersCSV'    #path dei .csv originali
 
     #per ogni sorgente (cluster name) associamo il path del dir per raggiungere le tabelle contenute in esso 
      #(name_cluster: path_cluster)

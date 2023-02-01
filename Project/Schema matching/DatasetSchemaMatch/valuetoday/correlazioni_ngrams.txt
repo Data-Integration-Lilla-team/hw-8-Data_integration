@@ -1,4 +1,4 @@
-threshold:0.2
+threshold:0.2 avg jaccard:0.4846806939830195
 annual_net_income_in_usd->('annual_net_income_in_usd', 1.0)('annual_net_income_usd', 0.8148148148148148)('annual_revenue_in_usd', 0.4411764705882353)('annual_revenue_usd', 0.3142857142857143)('total_assets_in_usd', 0.20512820512820512)('total_equity_in_usd', 0.20512820512820512)
 annual_net_income_usd->('annual_net_income_in_usd', 0.8148148148148148)('annual_net_income_usd', 1.0)('annual_revenue_in_usd', 0.35294117647058826)('annual_revenue_usd', 0.3870967741935484)
 annual_results_for_year_ending->('annual_results_for_year_ending', 1.0)('annual_revenue_usd', 0.20930232558139536)
@@ -43,7 +43,7 @@ world_rank->('rank', 0.2857142857142857)('world_rank', 1.0)('world_rank__jan_07_
 world_rank__jan_07_2022->('market_value__jan_07_2022', 0.3333333333333333)('market_value_jan_2022', 0.2)('world_rank', 0.37037037037037035)('world_rank__jan_07_2022', 1.0)('world_rank__jan_2020', 0.6206896551724138)
 world_rank__jan_2020->('market_value__jan_1st_2020', 0.21951219512195122)('market_value_jan_2020', 0.25)('world_rank', 0.4166666666666667)('world_rank__jan_07_2022', 0.6206896551724138)('world_rank__jan_2020', 1.0)
 
-threshold:0.30000000000000004
+threshold:0.30000000000000004 avg jaccard:0.5325027685492801
 annual_net_income_in_usd->('annual_net_income_in_usd', 1.0)('annual_net_income_usd', 0.8148148148148148)('annual_revenue_in_usd', 0.4411764705882353)('annual_revenue_usd', 0.3142857142857143)
 annual_net_income_usd->('annual_net_income_in_usd', 0.8148148148148148)('annual_net_income_usd', 1.0)('annual_revenue_in_usd', 0.35294117647058826)('annual_revenue_usd', 0.3870967741935484)
 annual_results_for_year_ending->('annual_results_for_year_ending', 1.0)
@@ -88,7 +88,7 @@ world_rank->('world_rank', 1.0)('world_rank__jan_07_2022', 0.37037037037037035)(
 world_rank__jan_07_2022->('market_value__jan_07_2022', 0.3333333333333333)('world_rank', 0.37037037037037035)('world_rank__jan_07_2022', 1.0)('world_rank__jan_2020', 0.6206896551724138)
 world_rank__jan_2020->('world_rank', 0.4166666666666667)('world_rank__jan_07_2022', 0.6206896551724138)('world_rank__jan_2020', 1.0)
 
-threshold:0.4
+threshold:0.4 avg jaccard:0.5965116279069766
 annual_net_income_in_usd->('annual_net_income_in_usd', 1.0)('annual_net_income_usd', 0.8148148148148148)('annual_revenue_in_usd', 0.4411764705882353)
 annual_net_income_usd->('annual_net_income_in_usd', 0.8148148148148148)('annual_net_income_usd', 1.0)
 annual_results_for_year_ending->('annual_results_for_year_ending', 1.0)
@@ -133,7 +133,7 @@ world_rank->('world_rank', 1.0)('world_rank__jan_2020', 0.4166666666666667)
 world_rank__jan_07_2022->('world_rank__jan_07_2022', 1.0)('world_rank__jan_2020', 0.6206896551724138)
 world_rank__jan_2020->('world_rank', 0.4166666666666667)('world_rank__jan_07_2022', 0.6206896551724138)('world_rank__jan_2020', 1.0)
 
-threshold:0.5
+threshold:0.5 avg jaccard:0.6705426356589145
 annual_net_income_in_usd->('annual_net_income_in_usd', 1.0)('annual_net_income_usd', 0.8148148148148148)
 annual_net_income_usd->('annual_net_income_in_usd', 0.8148148148148148)('annual_net_income_usd', 1.0)
 annual_results_for_year_ending->('annual_results_for_year_ending', 1.0)
@@ -178,7 +178,7 @@ world_rank->('world_rank', 1.0)
 world_rank__jan_07_2022->('world_rank__jan_07_2022', 1.0)('world_rank__jan_2020', 0.6206896551724138)
 world_rank__jan_2020->('world_rank__jan_07_2022', 0.6206896551724138)('world_rank__jan_2020', 1.0)
 
-threshold:0.6
+threshold:0.6 avg jaccard:0.7224806201550386
 annual_net_income_in_usd->('annual_net_income_in_usd', 1.0)('annual_net_income_usd', 0.8148148148148148)
 annual_net_income_usd->('annual_net_income_in_usd', 0.8148148148148148)('annual_net_income_usd', 1.0)
 annual_results_for_year_ending->('annual_results_for_year_ending', 1.0)
