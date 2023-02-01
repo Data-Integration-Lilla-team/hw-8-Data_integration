@@ -115,12 +115,12 @@ class MatchingModule:
 
         #calcola il numero di attributi da imporre come massimo per cluster
         #max cluster=max columns distinte
-        #max_clusters=self.compute_max_clusters(file_names)-1
+        max_clusters=self.compute_max_clusters(file_names)-1
 
         #computazione clustering data
-       # dataClustering=ClusterData(clusterName)
-        #print(clusterName)
-        #dataClustering.clusterData(file_names,max_clusters)
+        dataClustering=ClusterData(clusterName)
+        print(clusterName)
+        dataClustering.clusterData(file_names,max_clusters)
 
 
 

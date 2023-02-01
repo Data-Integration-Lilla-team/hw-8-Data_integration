@@ -4,6 +4,7 @@ modulo per la claterizzazione
 from sklearn.cluster import KMeans
 import matplotlib.pyplot as plt
 
+
 class ClusterModel:
     def __init__(self,cluster_name):
         self.clusterName=cluster_name
