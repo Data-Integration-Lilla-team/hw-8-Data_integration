@@ -105,7 +105,14 @@ class MatchingModule:
             
 
 
-
+    def merge_dict(self, data_c, name_corr):
+        output=dict()
+        for k in data_c.keys():
+            elementi_A=set(data_c[k])
+            elementi_B=set(name_corr[k])
+            unione=list(elementi_A.union(elementi_B))
+            output[k]=unione
+        return output
     #riceve in input:
     #Nome sorgente
     #lista di tuple (nome team, path dataset)
@@ -132,18 +139,18 @@ class MatchingModule:
         print(clusterName)
         dic_data_clustering=dataClustering.clusterData(file_names,max_clusters,validation_set)
 
-        full_dic=dic_data_clustering
-        full_dic.update(dic_name_correlation)
+        full_dic=self.merge_dict(dic_data_clustering,dic_name_correlation)
+        print(full_dic)
         evaluator=Eval()
         score=evaluator.evaluate(full_dic,validation_set)
 
-        stringa=''
+        stringa='\nNUOVO GIRO'
         with open(self.path_file_valutazione_pre_val, 'a') as f:
             stringa=clusterName+' Score: '+str(score)+'\n'
             f.write(stringa)
         
-        stringa=''
-        with open(self.path_file_dic_sin_pre_val, 'a') as f:
+        stringa='\n'
+        with open(self.path_file_dic_sin_pre_val, 'w') as f:
             for k in full_dic.keys():
                 stringa=stringa+k+'->'+str(full_dic[k])+'\n'
             f.write(stringa)

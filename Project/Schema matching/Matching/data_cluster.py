@@ -92,6 +92,9 @@ class ClusterData:
         print(columns)
         dataClustered=clusterModel.clustered_data_explor(dataset,columns,validation_set,max_clusters=max_clusters)
 
+        if 'symbol' in dataClustered:
+            print(dataClustered['symbol'])
+
         return dataClustered
 
 

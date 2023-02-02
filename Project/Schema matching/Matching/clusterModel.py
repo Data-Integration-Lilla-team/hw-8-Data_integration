@@ -5,11 +5,14 @@ from sklearn.cluster import KMeans
 import matplotlib.pyplot as plt
 from evaluator import Eval
 import pandas as pd
+import warnings
 
 
 class ClusterModel:
     def __init__(self,cluster_name):
         self.clusterName=cluster_name
+
+        self.threshold_inertia=0.20
         
         self.path_destinazione='Project\\Schema matching\\DatasetSchemaMatch\\'+self.clusterName
         
@@ -121,7 +124,7 @@ class ClusterModel:
             score=eval.evaluate(dic_sin,validation)
             print('cluster k=',k,'score.>',score)
             jaccard_dist_eval[k]=score
-            stringa=stringa+'avg jaccard: '+str(score)+'Inertia: '+str(km.inertia_)+'\n'
+            stringa=stringa+' avg jaccard: '+str(score)+' Inertia:  '+str(km.inertia_)+'\n'
             for i in dic_sin.keys():
                 stringa=stringa+i+'->'
                 for e in dic_sin[i]:
@@ -131,6 +134,17 @@ class ClusterModel:
 
             ss.append(km.inertia_)
 
+
+            #arriviamo sotto una soglia di inerzia
+            if km.inertia_<=self.threshold_inertia:
+                print(self.clusterName,'FOUND MIN:',km.inertia_, ' with K=',k)
+                best_result=self.clustered_data(data,columns,k)
+                ds_csv=best_result[1]
+                dic_sin_best=best_result[0]
+                self.save_infos_kmeans(stringa,ds_csv)
+                return dic_sin_best
+
+        #se non troviamo il minimo locale desiderato, lavoriamo con jaccard
         best_K=self.evalBestK(jaccard_dist_eval)[1]
         best_result=self.clustered_data(data,columns,best_K)
         ds_csv=best_result[1]
@@ -154,7 +168,7 @@ class ClusterModel:
 
 
     def clustered_data(self,data,columns,max_clusters=14):
-       
+            warnings.filterwarnings('ignore')
             km=KMeans(n_clusters=max_clusters)
             km.fit(data[columns])
             data['cluster']=km.fit_predict(data[columns])
