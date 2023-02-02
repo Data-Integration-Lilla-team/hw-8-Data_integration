@@ -1,0 +1,88 @@
+N.Clusters2avg jaccard: 0.2222222222222222Inertia: 4.826068657724981
+nation->nation, address, industry, name, type, id, hhid, sic_code, 
+address->nation, address, industry, name, type, id, hhid, sic_code, 
+industry->nation, address, industry, name, type, id, hhid, sic_code, 
+name->nation, address, industry, name, type, id, hhid, sic_code, 
+type->nation, address, industry, name, type, id, hhid, sic_code, 
+id->nation, address, industry, name, type, id, hhid, sic_code, 
+hhid->nation, address, industry, name, type, id, hhid, sic_code, 
+sic_code->nation, address, industry, name, type, id, hhid, sic_code, 
+est_of_ownership->est_of_ownership, 
+
+N.Clusters3avg jaccard: 0.3333333333333333Inertia: 1.861398590896363
+type->type, id, nation, hhid, 
+id->type, id, nation, hhid, 
+nation->type, id, nation, hhid, 
+hhid->type, id, nation, hhid, 
+name->name, industry, address, sic_code, 
+industry->name, industry, address, sic_code, 
+address->name, industry, address, sic_code, 
+sic_code->name, industry, address, sic_code, 
+est_of_ownership->est_of_ownership, 
+
+N.Clusters4avg jaccard: 0.4444444444444444Inertia: 1.081710634716817
+type->type, id, nation, hhid, 
+id->type, id, nation, hhid, 
+nation->type, id, nation, hhid, 
+hhid->type, id, nation, hhid, 
+name->name, address, sic_code, 
+address->name, address, sic_code, 
+sic_code->name, address, sic_code, 
+industry->industry, 
+est_of_ownership->est_of_ownership, 
+
+N.Clusters5avg jaccard: 0.5555555555555556Inertia: 0.5037612142328298
+id->id, nation, hhid, 
+nation->id, nation, hhid, 
+hhid->id, nation, hhid, 
+name->name, address, sic_code, 
+address->name, address, sic_code, 
+sic_code->name, address, sic_code, 
+industry->industry, 
+type->type, 
+est_of_ownership->est_of_ownership, 
+
+N.Clusters6avg jaccard: 0.6666666666666666Inertia: 0.26027256776901597
+id->id, nation, hhid, 
+nation->id, nation, hhid, 
+hhid->id, nation, hhid, 
+name->name, sic_code, 
+sic_code->name, sic_code, 
+address->address, 
+industry->industry, 
+type->type, 
+est_of_ownership->est_of_ownership, 
+
+N.Clusters7avg jaccard: 0.7777777777777778Inertia: 0.11393185484020368
+id->id, nation, hhid, 
+nation->id, nation, hhid, 
+hhid->id, nation, hhid, 
+name->name, 
+address->address, 
+industry->industry, 
+sic_code->sic_code, 
+type->type, 
+est_of_ownership->est_of_ownership, 
+
+N.Clusters8avg jaccard: 0.8888888888888888Inertia: 0.012455899247580633
+id->id, 
+name->name, 
+address->address, 
+nation->nation, hhid, 
+hhid->nation, hhid, 
+industry->industry, 
+sic_code->sic_code, 
+type->type, 
+est_of_ownership->est_of_ownership, 
+
+N.Clusters9avg jaccard: 1.0Inertia: 0.0
+id->id, 
+name->name, 
+address->address, 
+nation->nation, 
+hhid->hhid, 
+industry->industry, 
+sic_code->sic_code, 
+type->type, 
+est_of_ownership->est_of_ownership, 
+

@@ -48,6 +48,9 @@ class NameCorr:
         self.path_name_file_correlazioni_ngrams=self.path_destinazione+'\\'+self.name_file_correlazione_ngrams
 
 
+       
+
+
     #stampa su un file di un dizionario
     def print_on_txt_file(self, col4file):
         stringa=''

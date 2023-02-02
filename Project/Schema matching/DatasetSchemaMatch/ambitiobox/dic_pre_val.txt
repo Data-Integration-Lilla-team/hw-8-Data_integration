@@ -1,0 +1,5 @@
+name->['name']
+industry->['industry']
+headquarter->['headquarter']
+ownership->['ownership']
+foundation_year->['foundation_year']

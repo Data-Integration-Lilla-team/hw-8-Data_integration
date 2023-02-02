@@ -163,7 +163,7 @@ class FeatureExtraction:
         i=0
         for col in ds.columns:
             if i>0:
-                name_column=k+'_'+list_of_names_columns[i]
+                name_column=k+'-'+list_of_names_columns[i]
                 vector_features=[name_column]
                 type_of_col=self.compute_features(ds[col])
                 

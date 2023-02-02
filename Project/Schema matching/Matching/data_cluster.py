@@ -81,7 +81,7 @@ class ClusterData:
     #1 estraiamo le features
     #2 inseriamo in un dataframe pandas
     #3 clusterizziamo
-    def clusterData(self, files,max_clusters):
+    def clusterData(self, files,max_clusters,validation_set):
         dataset=self.create_dataset(files)          #creazione del dataset di features
 
         dataset.to_csv(self.path_dataset_norm)
@@ -90,7 +90,11 @@ class ClusterData:
         columns=list(dataset.columns)
         columns.pop(0)
         print(columns)
-        dataClustered=clusterModel.clustered_data_explor(dataset,columns,max_clusters=max_clusters)
+        dataClustered=clusterModel.clustered_data_explor(dataset,columns,validation_set,max_clusters=max_clusters)
+
+        return dataClustered
+
+
 
         
         

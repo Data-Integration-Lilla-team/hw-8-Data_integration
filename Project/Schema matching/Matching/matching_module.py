@@ -2,6 +2,7 @@ import os
 from name_correlation import NameCorr
 from data_cluster import ClusterData
 import pandas as pd
+from evaluator import Eval
 
 '''
 Modulo responsabile della creazione dei dizionari di sinonimi.
@@ -24,6 +25,15 @@ class MatchingModule:
         self.path_destinazione='Project\\Schema matching\\DatasetSchemaMatch\\'+k         #dove andranno tutte le elaborazioni
 
         self.path_sinonimus_dic=self.path_destinazione+'\\'+'column_sinonimi.txt'
+
+         #prestazioni pre_valentine
+        self.name_file_valutazione_pre_val='prestazione_pre_val.txt'
+        self.path_file_valutazione_pre_val='Project\\Schema matching\\Matching'+'\\'+self.name_file_valutazione_pre_val
+
+        #dic_utlimato
+        self.name_file_dic_sin_pre_val='dic_pre_val.txt'
+        self.path_file_dic_sin_pre_val=self.path_destinazione+'\\'+self.name_file_dic_sin_pre_val
+
 
 #per ogni dataset del sorgente, genera il suo path
 #esempio:
@@ -110,8 +120,8 @@ class MatchingModule:
         print(clusterName)
         nameCorr=NameCorr(clusterName)
         dic_name_correlation=nameCorr.computeCorr(file_names,validation_set)
-        for k in dic_name_correlation.keys():
-            print(k,dic_name_correlation[k])
+        #for k in dic_name_correlation.keys():
+        #   print(k,dic_name_correlation[k])
 
         #calcola il numero di attributi da imporre come massimo per cluster
         #max cluster=max columns distinte
@@ -120,7 +130,25 @@ class MatchingModule:
         #computazione clustering data
         dataClustering=ClusterData(clusterName)
         print(clusterName)
-        dataClustering.clusterData(file_names,max_clusters)
+        dic_data_clustering=dataClustering.clusterData(file_names,max_clusters,validation_set)
+
+        full_dic=dic_data_clustering
+        full_dic.update(dic_name_correlation)
+        evaluator=Eval()
+        score=evaluator.evaluate(full_dic,validation_set)
+
+        stringa=''
+        with open(self.path_file_valutazione_pre_val, 'a') as f:
+            stringa=clusterName+' Score: '+str(score)+'\n'
+            f.write(stringa)
+        
+        stringa=''
+        with open(self.path_file_dic_sin_pre_val, 'a') as f:
+            for k in full_dic.keys():
+                stringa=stringa+k+'->'+str(full_dic[k])+'\n'
+            f.write(stringa)
+
+
 
 
 
