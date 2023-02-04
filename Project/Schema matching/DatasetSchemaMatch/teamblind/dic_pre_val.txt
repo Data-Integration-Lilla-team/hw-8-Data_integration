@@ -1,0 +1,6 @@
+name->['name', 'industry']
+industry->['name', 'industry']
+website->['website']
+size->['size', 'locations']
+locations->['size', 'locations']
+founded->['founded']

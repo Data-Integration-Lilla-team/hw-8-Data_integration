@@ -1,0 +1,66 @@
+N.Clusters2 avg jaccard: 0.20833333333333334 Inertia:  4.621836770970004
+name->name, revenue, number_of_employees, headquarters, industry, website, telephone, address, 
+revenue->name, revenue, number_of_employees, headquarters, industry, website, telephone, address, 
+number_of_employees->name, revenue, number_of_employees, headquarters, industry, website, telephone, address, 
+headquarters->name, revenue, number_of_employees, headquarters, industry, website, telephone, address, 
+industry->name, revenue, number_of_employees, headquarters, industry, website, telephone, address, 
+website->name, revenue, number_of_employees, headquarters, industry, website, telephone, address, 
+telephone->name, revenue, number_of_employees, headquarters, industry, website, telephone, address, 
+address->name, revenue, number_of_employees, headquarters, industry, website, telephone, address, 
+market_cap->market_cap, 
+
+N.Clusters3 avg jaccard: 0.31746031746031744 Inertia:  2.785170144910767
+name->name, revenue, number_of_employees, headquarters, industry, website, telephone, 
+revenue->name, revenue, number_of_employees, headquarters, industry, website, telephone, 
+number_of_employees->name, revenue, number_of_employees, headquarters, industry, website, telephone, 
+headquarters->name, revenue, number_of_employees, headquarters, industry, website, telephone, 
+industry->name, revenue, number_of_employees, headquarters, industry, website, telephone, 
+website->name, revenue, number_of_employees, headquarters, industry, website, telephone, 
+telephone->name, revenue, number_of_employees, headquarters, industry, website, telephone, 
+address->address, 
+market_cap->market_cap, 
+
+N.Clusters4 avg jaccard: 0.4222222222222222 Inertia:  1.2857856548618716
+name->name, revenue, headquarters, industry, website, 
+revenue->name, revenue, headquarters, industry, website, 
+headquarters->name, revenue, headquarters, industry, website, 
+industry->name, revenue, headquarters, industry, website, 
+website->name, revenue, headquarters, industry, website, 
+telephone->telephone, number_of_employees, 
+number_of_employees->telephone, number_of_employees, 
+address->address, 
+market_cap->market_cap, 
+
+N.Clusters5 avg jaccard: 0.5277777777777778 Inertia:  0.6235696032691187
+industry->industry, name, website, headquarters, 
+name->industry, name, website, headquarters, 
+website->industry, name, website, headquarters, 
+headquarters->industry, name, website, headquarters, 
+revenue->revenue, number_of_employees, 
+number_of_employees->revenue, number_of_employees, 
+address->address, 
+market_cap->market_cap, 
+telephone->telephone, 
+
+N.Clusters6 avg jaccard: 0.6388888888888888 Inertia:  0.3587254377079031
+industry->industry, name, website, headquarters, 
+name->industry, name, website, headquarters, 
+website->industry, name, website, headquarters, 
+headquarters->industry, name, website, headquarters, 
+number_of_employees->number_of_employees, 
+address->address, 
+market_cap->market_cap, 
+telephone->telephone, 
+revenue->revenue, 
+
+N.Clusters7 avg jaccard: 0.7407407407407407 Inertia:  0.10919037122426356
+name->name, 
+website->website, headquarters, industry, 
+headquarters->website, headquarters, industry, 
+industry->website, headquarters, industry, 
+number_of_employees->number_of_employees, 
+address->address, 
+market_cap->market_cap, 
+telephone->telephone, 
+revenue->revenue, 
+
