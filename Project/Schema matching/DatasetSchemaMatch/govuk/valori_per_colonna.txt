@@ -1,0 +1,9 @@
+"company_creation_date": 8306,
+"company_id": 8321,
+"company_status": 8318,
+"company_type": 8320,
+"dissolution_date": 95,
+"name": 8321,
+"nature_of_business": 7000,
+"address": 8317,
+"registration_date": 15

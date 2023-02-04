@@ -1,0 +1,10 @@
+"city": 2353,
+"name": 2387,
+"country": 2387,
+"datejoined": 2387,
+"founded": 1185,
+"investors": 2386,
+"stage": 1185,
+"totalraised": 1185,
+"valuation": 2387
+"industry": 2387

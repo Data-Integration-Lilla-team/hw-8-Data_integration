@@ -1,0 +1,10 @@
+"name": 5000,
+"country": 5000,
+"assets": 2000,
+"profit": 2000,
+"revenue_2022": 5000,
+"market_value": 1000,
+"ceo": 2000,
+"employees": 2000,
+"founded": 2000,
+"industry": 2000

@@ -1,0 +1,12 @@
+"categories": 15443,
+"change_1_day": 16321,
+"change_1_year": 16013,
+"company_code": 23578,
+"country": 43235,
+"earnings": 6492,
+"employees": 6149,
+"market_cap": 50051
+"name": 50107,
+'share_price': 50082,
+"revenue": 6260,
+"shares": 2254

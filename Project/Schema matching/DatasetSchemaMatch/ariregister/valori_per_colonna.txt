@@ -1,0 +1,10 @@
+'url': 1469
+'id': 1469
+'name': 1469
+'code': 1466
+'legal_form': 1469
+'status': 1437
+'registration_date': 1466
+'capital': 896
+'address': 968
+'deletion_date': 458

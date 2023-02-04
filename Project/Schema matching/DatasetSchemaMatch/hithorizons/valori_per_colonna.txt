@@ -1,0 +1,8 @@
+"address": 667,
+"est_of_ownership": 667,
+"hhid": 667,
+"industry": 667,
+"name": 667,
+"country": 667,
+"sic_code": 667,
+"type": 667

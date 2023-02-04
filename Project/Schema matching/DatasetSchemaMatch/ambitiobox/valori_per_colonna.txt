@@ -1,0 +1,5 @@
+'name': 9899
+'industry': 9693
+'headquarters': 9471
+'ownership': 8226
+'foundation_year': 9350

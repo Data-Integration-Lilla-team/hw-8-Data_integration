@@ -5,7 +5,6 @@
 "market_cap":['market_cap'],
 "name":['name'],
 "employees":['number_of_employees'],
-"name":['name'],
 "revenue":['revenue'],
 "telephone":['telephone'],
 "website":['website']

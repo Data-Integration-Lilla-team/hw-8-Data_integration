@@ -1,0 +1,6 @@
+"founded": 946,
+"industry": 946,
+"headquarters": 946,
+"name": 946,
+"size": 946,
+"website": 946

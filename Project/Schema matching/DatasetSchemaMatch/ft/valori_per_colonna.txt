@@ -1,0 +1,11 @@
+"name": 8000,
+"country": 8000,
+"employees_2017": 7994,
+"employees_2020": 2992,
+"founded": 8000,
+"industry": 8000,
+"website": 5000,
+"revenue_2020": 8000,
+"revenue_2017": 3000,
+"absolute_growth_rate_pct": 1000,
+"compound_annual_growth_rate_cagr_pct": 1000
