@@ -1,0 +1,16 @@
+{
+name: [name],
+country: [country],
+assets: [assets],
+profit: [profit],
+sales: [sales, revenue_2022, revenue],
+revenue_2022: [revenue_2022, revenue, sales],
+revenue: [revenue, revenue_2022, sales],
+market_value: [market_value_apr_2022],
+market_value_apr_2022: [market_value],
+ceo: [ceo],
+employees: [employees],
+founded: [founded],
+industry: [industry],
+link: [link]
+}
