@@ -90,11 +90,15 @@ def parse_data(sorgenti):
 # 3. unifica i dizionari
     
 def create_sin_dic(sorgente2path):
-    
+    dic_for_cluster=dict()
     for k in sorgente2path.keys():
         
         matcher=MatchingModule(k)                                #da definire il nome del cluster dove memorizzare le ingo
-        matcher.create_dic_sin(sorgente2path[k],k)
+        dic_for_cluster[k]=matcher.create_dic_sin(sorgente2path[k],k)
+
+    return dic_for_cluster
+
+        
         
 
 
@@ -135,6 +139,8 @@ if __name__=='__main__':
 
     #creazione del dizionario dei sinonimi
     create_sin_dic(sorgenti2path_par)
+
+
     
     
 

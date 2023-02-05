@@ -1,0 +1,81 @@
+
+Elemento: index
+Sinonimi computati:['index']
+Sinonimi reali:['index']
+Intersezione:{'index'}
+Computato - TGT:set()
+TGT- Computato:set()
+Jaccard score:1.0
+
+Elemento: url
+Sinonimi computati:['url']
+Sinonimi reali:['url']
+Intersezione:{'url'}
+Computato - TGT:set()
+TGT- Computato:set()
+Jaccard score:1.0
+
+Elemento: name
+Sinonimi computati:['name', 'address_name']
+Sinonimi reali:['name']
+Intersezione:{'name'}
+Computato - TGT:{'address_name'}
+TGT- Computato:set()
+Jaccard score:0.5
+
+Elemento: address_name
+Sinonimi computati:['name', 'address_name']
+Sinonimi reali:['address_name']
+Intersezione:{'address_name'}
+Computato - TGT:{'name'}
+TGT- Computato:set()
+Jaccard score:0.5
+
+Elemento: trade_name
+Sinonimi computati:['trade_name']
+Sinonimi reali:['trade_name']
+Intersezione:{'trade_name'}
+Computato - TGT:set()
+TGT- Computato:set()
+Jaccard score:1.0
+
+Elemento: postalcode
+Sinonimi computati:['postalcode']
+Sinonimi reali:['postalcode']
+Intersezione:{'postalcode'}
+Computato - TGT:set()
+TGT- Computato:set()
+Jaccard score:1.0
+
+Elemento: country
+Sinonimi computati:['country', 'location_type', 'city', 'state']
+Sinonimi reali:['country']
+Intersezione:{'country'}
+Computato - TGT:{'location_type', 'state', 'city'}
+TGT- Computato:set()
+Jaccard score:0.25
+
+Elemento: state
+Sinonimi computati:['country', 'location_type', 'city', 'state']
+Sinonimi reali:['state']
+Intersezione:{'state'}
+Computato - TGT:{'country', 'city', 'location_type'}
+TGT- Computato:set()
+Jaccard score:0.25
+
+Elemento: city
+Sinonimi computati:['country', 'location_type', 'city', 'state']
+Sinonimi reali:['city']
+Intersezione:{'city'}
+Computato - TGT:{'country', 'state', 'location_type'}
+TGT- Computato:set()
+Jaccard score:0.25
+
+Elemento: location_type
+Sinonimi computati:['country', 'location_type', 'city', 'state']
+Sinonimi reali:['location_type']
+Intersezione:{'location_type'}
+Computato - TGT:{'country', 'state', 'city'}
+TGT- Computato:set()
+Jaccard score:0.25
+

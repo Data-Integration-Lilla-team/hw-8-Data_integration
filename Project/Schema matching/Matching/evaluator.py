@@ -21,5 +21,23 @@ class Eval:
             score+=self.compute_jaccard(sin_comp,sin_test)
         
         return score/N
+
+    def eval_cardinality(self, comp,tgt):
+        evaluation_dic=dict()
+        for k in comp.keys():
+            evaluation_dic[k]=[]
+            com_elements=set(comp[k])
+            tgt_elements=set(tgt[k])
+            intersezione=com_elements.intersection(tgt_elements)
+            diff_elements_comp=com_elements.difference(tgt_elements)
+            diff_element_tgt=tgt_elements.difference(com_elements)
+
+            evaluation_dic[k].append(intersezione)
+            evaluation_dic[k].append(diff_elements_comp)
+            evaluation_dic[k].append(diff_element_tgt)
+            evaluation_dic[k].append(self.compute_jaccard(com_elements,tgt_elements))
+
+        return evaluation_dic
+        
             
 

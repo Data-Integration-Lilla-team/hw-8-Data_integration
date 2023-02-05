@@ -1,0 +1,73 @@
+
+Elemento: hhid
+Sinonimi computati:['hhid', 'id', 'nation']
+Sinonimi reali:['hhid']
+Intersezione:{'hhid'}
+Computato - TGT:{'id', 'nation'}
+TGT- Computato:set()
+Jaccard score:0.3333333333333333
+
+Elemento: id
+Sinonimi computati:['hhid', 'id', 'nation']
+Sinonimi reali:['id']
+Intersezione:{'id'}
+Computato - TGT:{'hhid', 'nation'}
+TGT- Computato:set()
+Jaccard score:0.3333333333333333
+
+Elemento: nation
+Sinonimi computati:['hhid', 'id', 'nation']
+Sinonimi reali:['nation']
+Intersezione:{'nation'}
+Computato - TGT:{'hhid', 'id'}
+TGT- Computato:set()
+Jaccard score:0.3333333333333333
+
+Elemento: name
+Sinonimi computati:['name']
+Sinonimi reali:['name']
+Intersezione:{'name'}
+Computato - TGT:set()
+TGT- Computato:set()
+Jaccard score:1.0
+
+Elemento: address
+Sinonimi computati:['address']
+Sinonimi reali:['address']
+Intersezione:{'address'}
+Computato - TGT:set()
+TGT- Computato:set()
+Jaccard score:1.0
+
+Elemento: industry
+Sinonimi computati:['industry']
+Sinonimi reali:['industry']
+Intersezione:{'industry'}
+Computato - TGT:set()
+TGT- Computato:set()
+Jaccard score:1.0
+
+Elemento: sic_code
+Sinonimi computati:['sic_code']
+Sinonimi reali:['sic_code']
+Intersezione:{'sic_code'}
+Computato - TGT:set()
+TGT- Computato:set()
+Jaccard score:1.0
+
+Elemento: type
+Sinonimi computati:['type']
+Sinonimi reali:['type']
+Intersezione:{'type'}
+Computato - TGT:set()
+TGT- Computato:set()
+Jaccard score:1.0
+
+Elemento: est_of_ownership
+Sinonimi computati:['est_of_ownership']
+Sinonimi reali:['est_of_ownership']
+Intersezione:{'est_of_ownership'}
+Computato - TGT:set()
+TGT- Computato:set()
+Jaccard score:1.0
+

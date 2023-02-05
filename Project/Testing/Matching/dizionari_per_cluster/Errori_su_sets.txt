@@ -1,0 +1,87 @@
+threshold of inertia for cluster_model= 0.2
+
+companiesMarketCap
+1)Elemento: code
+Sinonimi computati:['codice', 'name', 'rank', 'shareprice', 'company_code', 'country', 'change_1year', 'categories', 'price', 'id', 'code', 'change_1day', 'marketcap']
+Sinonimi reali:['code', 'codice', 'company_code', 'symbol']
+Intersezione:{'codice', 'code', 'company_code'}
+Computato - TGT:{'name', 'rank', 'shareprice', 'country', 'change_1year', 'categories', 'price', 'id', 'change_1day', 'marketcap'}
+TGT- Computato:{'symbol'}
+Jaccard score:0.21428571428571427
+
+->NOTA
+Elemento: codice
+Sinonimi computati:['symbol', 'codice', 'company_code', 'country', 'price', 'code']
+Sinonimi reali:['code', 'codice', 'company_code', 'symbol']
+Intersezione:{'symbol', 'codice', 'code', 'company_code'}
+Computato - TGT:{'country', 'price'}
+TGT- Computato:set()
+Jaccard score:0.6666666666666666
+
+Elemento: company_code
+Sinonimi computati:['country', 'symbol', 'codice', 'company_code', 'code']
+Sinonimi reali:['code', 'codice', 'company_code', 'symbol']
+Intersezione:{'symbol', 'codice', 'code', 'company_code'}
+Computato - TGT:{'country'}
+TGT- Computato:set()
+Jaccard score:0.8
+
+2)Elemento: market_capitalization_usd
+Sinonimi computati:['market_cap', 'market_capitalization_usd', 'marketcap']
+Sinonimi reali:['market_cap', 'market_capitalization_usd', 'marketcap', 'master_cap', 'pricecap']
+Intersezione:{'market_cap', 'market_capitalization_usd', 'marketcap'}
+Computato - TGT:set()
+TGT- Computato:{'master_cap', 'pricecap'}
+Jaccard score:0.6
+
+NOTA->
+Elemento: market_cap
+Sinonimi computati:['master_cap', 'earnings', 'market_capitalization_usd', 'pricecap', 'market_cap', 'revenue', 'marketcap']
+Sinonimi reali:['market_cap', 'market_capitalization_usd', 'marketcap', 'master_cap', 'pricecap']
+Intersezione:{'master_cap', 'market_capitalization_usd', 'pricecap', 'market_cap', 'marketcap'}
+Computato - TGT:{'revenue', 'earnings'}
+TGT- Computato:set()
+Jaccard score:0.7142857142857143
+
+disfold
+1)Elemento: country
+Sinonimi computati:['country']
+Sinonimi reali:['country', 'headquarters_country']
+Intersezione:{'country'}
+Computato - TGT:set()
+TGT- Computato:{'headquarters_country'}
+Jaccard score:0.5
+
+Elemento: headquarters_country
+Sinonimi computati:['headquarters_continent', 'sector', 'headquarters', 'headquarters_country']
+Sinonimi reali:['country', 'headquarters_country']
+Intersezione:{'headquarters_country'}
+Computato - TGT:{'headquarters_continent', 'sector', 'headquarters'}
+TGT- Computato:{'country'}
+Jaccard score:0.2
+
+2)Elemento: marketcap
+Sinonimi computati:['market_value_apr_2022', 'market_cap', 'mastercap', 'marketcap']
+Sinonimi reali:['market_cap', 'mastercap', 'market_value_apr_2022', 'marketcap', 'market_capitalization_usd']
+Intersezione:{'market_value_apr_2022', 'market_cap', 'mastercap', 'marketcap'}
+Computato - TGT:set()
+TGT- Computato:{'market_capitalization_usd'}
+Jaccard score:0.8
+
+value today
+Elemento: employees_number
+Sinonimi computati:['world_rank__jan_2020', 'rank', 'employees_number']
+Sinonimi reali:['employees_2022', 'number_of_employees', 'employees_number']
+Intersezione:{'employees_number'}
+Computato - TGT:{'world_rank__jan_2020', 'rank'}
+TGT- Computato:{'employees_2022', 'number_of_employees'}
+Jaccard score:0.2
+
+Elemento: market_capitalization_2022
+Sinonimi computati:['market_capitalization_2022']
+Sinonimi reali:['market_capitalization_2022', 'marketcap']
+Intersezione:{'market_capitalization_2022'}
+Computato - TGT:set()
+TGT- Computato:{'marketcap'}
+Jaccard score:0.5
+

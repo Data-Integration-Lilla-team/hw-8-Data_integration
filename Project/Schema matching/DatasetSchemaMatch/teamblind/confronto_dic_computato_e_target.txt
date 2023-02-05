@@ -1,0 +1,49 @@
+
+Elemento: name
+Sinonimi computati:['name', 'industry']
+Sinonimi reali:['name']
+Intersezione:{'name'}
+Computato - TGT:{'industry'}
+TGT- Computato:set()
+Jaccard score:0.5
+
+Elemento: industry
+Sinonimi computati:['name', 'industry']
+Sinonimi reali:['industry']
+Intersezione:{'industry'}
+Computato - TGT:{'name'}
+TGT- Computato:set()
+Jaccard score:0.5
+
+Elemento: website
+Sinonimi computati:['website']
+Sinonimi reali:['website']
+Intersezione:{'website'}
+Computato - TGT:set()
+TGT- Computato:set()
+Jaccard score:1.0
+
+Elemento: locations
+Sinonimi computati:['locations', 'size']
+Sinonimi reali:['locations']
+Intersezione:{'locations'}
+Computato - TGT:{'size'}
+TGT- Computato:set()
+Jaccard score:0.5
+
+Elemento: size
+Sinonimi computati:['locations', 'size']
+Sinonimi reali:['size']
+Intersezione:{'size'}
+Computato - TGT:{'locations'}
+TGT- Computato:set()
+Jaccard score:0.5
+
+Elemento: founded
+Sinonimi computati:['founded']
+Sinonimi reali:['founded']
+Intersezione:{'founded'}
+Computato - TGT:set()
+TGT- Computato:set()
+Jaccard score:1.0
+
