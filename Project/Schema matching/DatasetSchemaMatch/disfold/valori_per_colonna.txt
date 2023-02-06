@@ -15,5 +15,3 @@
 "gbp": 523,
 "headquarters_continent": 907,
 "official_name": 126
-
-(mancano alcune colonne ad esempio-> headquarters_country)
