@@ -15,5 +15,6 @@
 "categories": ['categories'],
 "gbp": ['gbp'],
 "headquarters_continent": ['headquarters_continent'],
+"code": ['code']
 "official_name": ['official_name']
 }

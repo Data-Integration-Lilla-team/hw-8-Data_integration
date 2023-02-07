@@ -13,5 +13,6 @@
 "services": ['services'],
 "total_assets": ['total_assets'],
 "type": ['type'],
-"website": ['website']
+"website": ['website'],
+"area_served": ['area_served']
 }
