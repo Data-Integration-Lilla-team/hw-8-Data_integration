@@ -291,7 +291,7 @@
 289,germany,1,13.0,2014,feiniko handelsgesellschaft,"4,979,484","32,168,909",retail
 290,italy,2,21.0,2015,pharmagrin,"422,610","2,701,410",health
 291,czech republic,1,3.0,2016,life m,"322,050","2,001,844",technology
-292,portugal,5,16.0,2012,plã¡sticos dã£o / sacos & saquetas,"304,833","1,946,703",industrial goods
+292,portugal,5,16.0,2012,plã¡sticos dãster_o / sacos & saquetas,"304,833","1,946,703",industrial goods
 293,germany,19,70.0,2010,logipal24,"789,058","4,967,568",transport
 294,the netherlands,23,22.0,2012,pastbook,"5,361,088","33,651,532",technology
 295,uk,6,21.0,2013,bluefin,"4,653,721","28,993,287",ecommerce
@@ -625,7 +625,7 @@
 623,france,62,217.0,2010,platform.sh,"6,242,232","22,077,678",technology
 624,germany,5,46.0,2011,isg express logistik,"1,646,307","5,822,692",transport
 625,italy,55,173.0,2008,manelli impresa,"12,259,540","43,355,980",construction
-626,portugal,22,53.0,2009,sa formaã§ã£o,"1,031,733","3,647,652",education
+626,portugal,22,53.0,2009,sa formaã§ãster_o,"1,031,733","3,647,652",education
 627,germany,3,14.0,2015,sm sektmanufaktur,"681,652","2,408,586",industrial goods
 628,germany,8,31.0,2011,beauty consult deutschland,"1,055,100","3,725,665",health
 629,italy,5,8.0,1977,finauto,"3,350,270","11,789,870",automobiles
@@ -873,7 +873,7 @@
 871,croatia,41,81.0,1995,xylon,"1,610,149","4,491,888",technology
 872,germany,2,9.0,2017,spedition kai rindert,"1,083,821","3,018,684",transport
 873,italy,16,22.0,2009,co.ge.sa. costruzioni generali saba,"1,241,760","3,453,730",construction
-874,sweden,13,20.0,2010,skã¤rgã¥rdstunnan/skargards,"5,547,537","15,082,088",ecommerce
+874,sweden,13,20.0,2010,skã¤rgãyen_rdstunnan/skargards,"5,547,537","15,082,088",ecommerce
 875,italy,1,14.0,2015,autonova milano,"1,006,280","2,790,680",automobiles
 876,germany,25,40.0,2011,polarstern,"10,925,375","30,270,074",energy
 877,germany,5,15.0,2013,halsdorfer + ingenieure projekt,"11,207,566","31,038,460",property

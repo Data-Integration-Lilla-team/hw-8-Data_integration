@@ -45,7 +45,7 @@
 43,iberdrola,ibe.mc,197,doll_69.79 b,spain,doll_11.42,-0.50_perc,0.62_perc,"['electricity', 'energy']"
 44,moderna,mrna,199,doll_68.76 b,usa,doll_179.00,3.15_perc,-36.60_perc,"['pharmaceuticals', 'mrnatherapeutics', 'biotech']"
 45,air products and chemicals,apd,194,doll_70.01 b,usa,doll_315.58,1.12_perc,6.64_perc,['chemicals']
-46,mercedes-benz,mbg.de,192,doll_70.56 b,germany,doll_65.96,-0.55_perc,-19.06_perc,"['automakers', 'manufacturing', 'dax', 'autonomousdriving']"
+46,mercedes-benz,mbg.de,192,doll_70.56 b,germany,doll_65.96,-0.55_perc,-19.06_perc,"['automakers', 'manufacturing', 'dax', 'autonomoriving']"
 47,becton dickinson,bdx,195,doll_69.84 b,usa,doll_246.48,0.86_perc,-1.55_perc,['medicaldevices']
 48,zoetis,zts,193,doll_70.02 b,usa,doll_150.25,-1.83_perc,-33.43_perc,"['pharmaceuticals', 'biotech']"
 49,zurich insurance group,zurn.sw,189,doll_70.97 b,switzerland,doll_478.59,0.09_perc,12.48_perc,['insurance']
@@ -395,7 +395,7 @@
 393,lufthansa,lha.de,1482,doll_9.62 b,germany,doll_8.05,0.34_perc,16.16_perc,"['airlines', 'travel', 'transportation']"
 394,borgwarner,bwa,1480,doll_9.64 b,usa,doll_41.18,0.44_perc,-9.59_perc,['automotivesuppliers']
 395,builders firstsource,bldr,1481,doll_9.63 b,usa,doll_65.47,5.29_perc,-13.86_perc,['buildingmaterials']
-396,xpeng,xpev,1479,doll_9.64 b,china,doll_11.00,-5.90_perc,-76.79_perc,"['automakers', 'electricvehicles', 'manufacturing', 'autonomousdriving']"
+396,xpeng,xpev,1479,doll_9.64 b,china,doll_11.00,-5.90_perc,-76.79_perc,"['automakers', 'electricvehicles', 'manufacturing', 'autonomoriving']"
 397,full truck alliance,ymm,1478,doll_9.64 b,china,doll_8.70,0.00_perc,-24.74_perc,['transportation']
 398,keppel,bn4.si,1477,doll_9.64 b,singapore,doll_5.51,0.54_perc,45.77_perc,[]
 399,kasikornbank,kbank.bk,1475,doll_9.67 b,thailand,doll_4.08,-0.35_perc,0.49_perc,"['banks', 'financialservices']"
@@ -1268,7 +1268,7 @@
 1266,select energy services,wttr,4691,doll_0.91 b,usa,doll_7.98,0.25_perc,30.39_perc,[]
 1267,iheartmedia,ihrt,4689,doll_0.91 b,usa,doll_7.50,-2.47_perc,-62.67_perc,['mediapress']
 1268,b&g foods,bgs,4686,doll_0.91 b,usa,doll_12.77,0.00_perc,-57.08_perc,['food']
-1269,indie semiconductor,indi,4687,doll_0.91 b,usa,doll_7.31,-2.40_perc,-46.17_perc,"['semiconductors', 'tech', 'techhardware', 'lidar', 'autonomousdriving']"
+1269,indie semiconductor,indi,4687,doll_0.91 b,usa,doll_7.31,-2.40_perc,-46.17_perc,"['semiconductors', 'tech', 'techhardware', 'lidar', 'autonomoriving']"
 1270,shentel,shen,4685,doll_0.91 b,usa,doll_18.29,0.66_perc,-29.76_perc,[]
 1271,prog holdings,prg,4684,doll_0.91 b,usa,doll_18.32,-0.60_perc,-57.04_perc,"['tech', 'financialservices']"
 1272,summit hotel properties,inn,4800,doll_0.83 b,usa,doll_7.79,0.26_perc,-17.13_perc,"['realestate', 'investment', 'reits', 'hotels', 'travel']"
@@ -1393,7 +1393,7 @@
 1391,rovio entertainment,rovio.he,5396,doll_0.47 b,finland,doll_6.27,-0.75_perc,-15.50_perc,"['videogames', 'entertainment']"
 1392,mesoblast,meso,5394,doll_0.47 b,australia,doll_3.19,-6.18_perc,-51.00_perc,"['pharmaceuticals', 'biotech']"
 1393,kezar life sciences,kzr,5392,doll_0.48 b,usa,doll_7.03,-2.23_perc,-52.05_perc,"['pharmaceuticals', 'biotech']"
-1394,microvision,mvis,5391,doll_0.48 b,usa,doll_2.90,1.40_perc,-58.81_perc,"['tech', 'lidar', 'techhardware', 'autonomousdriving']"
+1394,microvision,mvis,5391,doll_0.48 b,usa,doll_2.90,1.40_perc,-58.81_perc,"['tech', 'lidar', 'techhardware', 'autonomoriving']"
 1395,hyliion,hyln,5390,doll_0.48 b,usa,doll_2.68,-4.63_perc,-57.59_perc,['electricvehicles']
 1396,quanterix,qtrx,5389,doll_0.48 b,usa,doll_13.03,0.23_perc,-68.89_perc,"['diagnosticsandtesting', 'biotech']"
 1397,nano-x imaging,nnox,5388,doll_0.48 b,israel,doll_9.24,-6.67_perc,-48.21_perc,['medicaldevices']
@@ -1522,7 +1522,7 @@
 1520,marinus pharmaceuticals,mrns,6096,doll_0.19 b,usa,doll_4.02,-3.83_perc,-62.46_perc,"['pharmaceuticals', 'biotech']"
 1521,gtl infrastructure,gtlinfra.ns,6094,doll_0.19 b,india,doll_0.02000,-3.70_perc,0.00_perc,[]
 1522,akoustis technologies,akts,6093,doll_0.19 b,usa,doll_3.48,-2.52_perc,-49.34_perc,[]
-1523,cepton,cptn,6092,doll_0.20 b,usa,doll_1.28,-5.19_perc,-87.14_perc,"['lidar', 'tech', 'techhardware', 'software', 'autonomousdriving']"
+1523,cepton,cptn,6092,doll_0.20 b,usa,doll_1.28,-5.19_perc,-87.14_perc,"['lidar', 'tech', 'techhardware', 'software', 'autonomoriving']"
 1524,rottneros,rros.st,6091,doll_0.20 b,sweden,doll_1.31,1.79_perc,15.93_perc,"['pulpandpaper', 'packaging']"
 1525,kvh industries,kvhi,6090,doll_0.20 b,usa,doll_10.52,4.06_perc,4.57_perc,['telecommunicationsequipment']
 1526,willdan group,wldn,6089,doll_0.20 b,usa,doll_15.10,-3.94_perc,-63.69_perc,['professionalservices']
@@ -2385,7 +2385,7 @@
 2383,angel oak reit,aomr,6276,doll_0.14 b,usa,doll_5.85,0.86_perc,-65.10_perc,"['reits', 'realestate', 'investment']"
 2384,backblaze,blze,6275,doll_0.14 b,usa,doll_4.49,-3.02_perc,-81.29_perc,"['software', 'tech']"
 2385,sarcos technology and robotics,strc,6274,doll_0.14 b,usa,doll_0.95,-6.01_perc,-88.11_perc,"['robotics', 'tech']"
-2386,aeye,lidr,6273,doll_0.14 b,usa,doll_0.91,-3.09_perc,-81.43_perc,"['tech', 'techhardware', 'lidar', 'autonomousdriving']"
+2386,aeye,lidr,6273,doll_0.14 b,usa,doll_0.91,-3.09_perc,-81.43_perc,"['tech', 'techhardware', 'lidar', 'autonomoriving']"
 2387,immuneering,imrx,6272,doll_0.14 b,usa,doll_5.60,-1.23_perc,-72.79_perc,"['pharmaceuticals', 'biotech']"
 2388,hanover bancorp,hnvr,6271,doll_0.14 b,usa,doll_20.30,0.54_perc,,"['banks', 'financialservices']"
 2389,x-legend entertainment,4994.tw,6270,doll_0.14 b,taiwan,doll_1.34,0.00_perc,-28.72_perc,"['videogames', 'entertainment']"
@@ -2545,7 +2545,7 @@
 2543,lifetime brands,lcut,6076,doll_0.20 b,usa,doll_9.31,-2.21_perc,-44.45_perc,['homekitchenappliances']
 2544,mps limited,mpsltd.ns,6075,doll_0.20 b,india,doll_11.97,3.43_perc,28.30_perc,['education']
 2545,air busan,298690.ks,6074,doll_0.20 b,south korea,doll_1.76,-1.90_perc,-5.88_perc,"['airlines', 'travel', 'transportation']"
-2546,arbe robotics,arbe,6072,doll_0.20 b,israel,doll_3.25,1.56_perc,-70.77_perc,"['tech', 'autonomousdriving']"
+2546,arbe robotics,arbe,6072,doll_0.20 b,israel,doll_3.25,1.56_perc,-70.77_perc,"['tech', 'autonomoriving']"
 2547,kamada,kmda,6073,doll_0.20 b,israel,doll_4.57,0.44_perc,-28.37_perc,[]
 2548,prenetics,pre,6070,doll_0.20 b,hong kong,doll_1.86,1.64_perc,-75.75_perc,"['diagnosticsandtesting', 'biotech', 'genomics']"
 2549,c&f financial corporation,cffi,6071,doll_0.20 b,usa,doll_59.18,3.84_perc,17.49_perc,"['banks', 'financialservices']"
@@ -2607,7 +2607,7 @@
 2605,ten square games,1hq.f,6012,doll_0.22 b,poland,doll_30.05,1.42_perc,-62.66_perc,"['videogames', 'entertainment']"
 2606,lineage cell therapeutics,lctx,6014,doll_0.22 b,usa,doll_1.30,-6.47_perc,-43.48_perc,['pharmaceuticals']
 2607,lesaka technologies,lsak,6011,doll_0.22 b,south africa,doll_3.73,-2.86_perc,-18.02_perc,"['financialservices', 'tech']"
-2608,ouster,oust,6010,doll_0.22 b,usa,doll_1.20,-4.76_perc,-81.54_perc,"['tech', 'techhardware', 'lidar', 'autonomousdriving']"
+2608,ouster,oust,6010,doll_0.22 b,usa,doll_1.20,-4.76_perc,-81.54_perc,"['tech', 'techhardware', 'lidar', 'autonomoriving']"
 2609,vidhi specialty food,vidhiing.ns,6008,doll_0.22 b,india,doll_4.44,-1.25_perc,0.45_perc,['food']
 2610,gallantt ispat,gallispat.ns,6007,doll_0.22 b,india,doll_0.79,1.17_perc,21.54_perc,[]
 2611,intercure,incr,6006,doll_0.22 b,israel,doll_4.71,1.29_perc,-35.83_perc,"['cannabis', 'biotech', 'pharmaceuticals']"
@@ -2657,7 +2657,7 @@
 2655,hindustan sanitaryware & industries,hsil.ns,5942,doll_0.24 b,india,doll_3.77,-0.91_perc,32.75_perc,[]
 2656,the arena group,aren,5943,doll_0.24 b,usa,doll_13.37,-0.52_perc,-6.50_perc,['mediapress']
 2657,apollo pipes,apollopipe.ns,5940,doll_0.24 b,india,doll_6.22,1.65_perc,-18.80_perc,[]
-2658,velodyne lidar,vldr,5939,doll_0.24 b,usa,doll_1.03,-3.74_perc,-80.53_perc,"['tech', 'techhardware', 'lidar', 'autonomousdriving']"
+2658,velodyne lidar,vldr,5939,doll_0.24 b,usa,doll_1.03,-3.74_perc,-80.53_perc,"['tech', 'techhardware', 'lidar', 'autonomoriving']"
 2659,baycom (united business bank),bcml,5938,doll_0.24 b,usa,doll_18.85,0.37_perc,1.29_perc,"['banks', 'financialservices']"
 2660,luna innovations,luna,5941,doll_0.24 b,usa,doll_7.41,1.37_perc,-15.02_perc,['aerospace']
 2661,molecular partners,moln,5937,doll_0.24 b,switzerland,doll_6.66,0.23_perc,-53.33_perc,"['pharmaceuticals', 'biotech']"
@@ -2849,7 +2849,7 @@
 2847,cosmo films,cosmofilms.ns,5714,doll_0.32 b,india,doll_12.01,0.00_perc,-35.95_perc,[]
 2848,lordstown motors,ride,5717,doll_0.32 b,usa,doll_1.42,-7.19_perc,-66.90_perc,"['automakers', 'electricvehicles']"
 2849,dynamic materials corporation,boom,5713,doll_0.32 b,usa,doll_16.80,-0.94_perc,-56.14_perc,[]
-2850,aeva technologies,aeva,5715,doll_0.32 b,usa,doll_1.50,-5.66_perc,-84.11_perc,"['lidar', 'tech', 'techhardware', 'autonomousdriving']"
+2850,aeva technologies,aeva,5715,doll_0.32 b,usa,doll_1.50,-5.66_perc,-84.11_perc,"['lidar', 'tech', 'techhardware', 'autonomoriving']"
 2851,nl industries,nl,5711,doll_0.32 b,usa,doll_6.73,-0.30_perc,-3.86_perc,[]
 2852,cyxtera technologies,cyxt,5710,doll_0.32 b,usa,doll_1.83,-2.66_perc,-82.57_perc,"['internet', 'infrastructure', 'tech']"
 2853,reconafrica,0xd.f,5712,doll_0.32 b,canada,doll_1.61,-1.99_perc,-67.01_perc,"['oilgas', 'energy']"
@@ -2945,7 +2945,7 @@
 2943,douyu,doyu,5581,doll_0.38 b,china,doll_1.21,-1.63_perc,-51.79_perc,['internet']
 2944,satellogic,satl,5580,doll_0.38 b,usa,doll_4.24,-2.87_perc,-55.37_perc,['aerospace']
 2945,shore bancshares,shbi,5578,doll_0.38 b,usa,doll_19.41,-0.21_perc,-3.43_perc,"['banks', 'financialservices']"
-2946,tusimple,tsp,5579,doll_0.38 b,usa,doll_1.71,-6.56_perc,-95.73_perc,"['tech', 'software', 'autonomousdriving']"
+2946,tusimple,tsp,5579,doll_0.38 b,usa,doll_1.71,-6.56_perc,-95.73_perc,"['tech', 'software', 'autonomoriving']"
 2947,growgeneration,grwg,5577,doll_0.38 b,usa,doll_6.34,-8.51_perc,-58.94_perc,"['retail', 'cannabis']"
 2948,pennantpark investment,pnnt,5575,doll_0.38 b,usa,doll_5.93,0.34_perc,-14.92_perc,['investment']
 2949,hindustan construction company,hcc.ns,5576,doll_0.38 b,india,doll_0.26,8.79_perc,52.94_perc,"['construction', 'engineering']"
@@ -3371,7 +3371,7 @@
 3369,cara therapeutics,cara,5059,doll_0.66 b,usa,doll_12.43,0.89_perc,-2.43_perc,"['pharmaceuticals', 'cannabis']"
 3370,sunway,5211.kl,5058,doll_0.66 b,malaysia,doll_0.38,0.61_perc,-2.56_perc,['conglomerate']
 3371,nextdecade corp,next,5061,doll_0.66 b,usa,doll_4.62,-6.29_perc,45.74_perc,"['energy', 'oilgas']"
-3372,innoviz,invz,5056,doll_0.66 b,israel,doll_4.93,-3.33_perc,-22.36_perc,"['tech', 'techhardware', 'lidar', 'autonomousdriving']"
+3372,innoviz,invz,5056,doll_0.66 b,israel,doll_4.93,-3.33_perc,-22.36_perc,"['tech', 'techhardware', 'lidar', 'autonomoriving']"
 3373,yatsen holding,ysg,5055,doll_0.67 b,china,doll_1.20,1.69_perc,-45.95_perc,"['retail', 'cosmeticsandbeauty']"
 3374,mersana therapeutics,mrsn,5057,doll_0.66 b,usa,doll_6.70,-0.15_perc,8.24_perc,['pharmaceuticals']
 3375,hawaiian airlines,ha,5054,doll_0.67 b,usa,doll_13.05,-4.19_perc,-34.06_perc,"['airlines', 'travel', 'transportation']"
@@ -4153,7 +4153,7 @@
 4151,yanlord,z25.si,4111,doll_1.45 b,singapore,doll_0.75,0.99_perc,-6.25_perc,['realestate']
 4152,superior plus,spb.to,4110,doll_1.45 b,canada,doll_7.20,0.10_perc,-33.33_perc,"['oilgas', 'energy', 'utilitycompanies']"
 4153,hims & hers health,hims,4109,doll_1.45 b,usa,doll_7.00,5.74_perc,9.55_perc,"['telehealth', 'healthcare', 'internet', 'tech']"
-4154,aurora innovation,aur,4108,doll_1.45 b,usa,doll_1.25,0.00_perc,-89.45_perc,"['autonomousdriving', 'software', 'tech']"
+4154,aurora innovation,aur,4108,doll_1.45 b,usa,doll_1.25,0.00_perc,-89.45_perc,"['autonomoriving', 'software', 'tech']"
 4155,live oak bank,lob,4107,doll_1.45 b,usa,doll_32.93,0.15_perc,-61.41_perc,"['banks', 'financialservices']"
 4156,seadrill,sdrl,4106,doll_1.46 b,bermuda,doll_29.20,-2.01_perc,,"['oilgas', 'energy']"
 4157,kinetik,kntk,4104,doll_1.46 b,usa,doll_32.01,-0.06_perc,-2.73_perc,"['oilgas', 'energy']"
@@ -4797,7 +4797,7 @@
 4795,international distributions services (royal mail),ids.l,3321,doll_2.58 b,uk,doll_2.59,-2.11_perc,,['courier']
 4796,cno financial group,cno,3319,doll_2.58 b,usa,doll_22.63,-0.22_perc,-4.88_perc,[]
 4797,fortis healthcare,fortis.ns,3318,doll_2.58 b,india,doll_3.43,-1.48_perc,-5.51_perc,['healthcare']
-4798,luminar technologies,lazr,3317,doll_2.59 b,usa,doll_7.15,-2.79_perc,-54.31_perc,"['lidar', 'tech', 'techhardware', 'autonomousdriving']"
+4798,luminar technologies,lazr,3317,doll_2.59 b,usa,doll_7.15,-2.79_perc,-54.31_perc,"['lidar', 'tech', 'techhardware', 'autonomoriving']"
 4799,rajesh exports,rajeshexpo.ns,3316,doll_2.59 b,india,doll_8.77,3.82_perc,-12.48_perc,"['retail', 'luxurygoods']"
 4800,unicaja banco,uni.mc,3313,doll_2.59 b,spain,doll_0.98,-0.48_perc,6.52_perc,"['banks', 'financialservices']"
 4801,independent bank group,ibtx,3314,doll_2.59 b,usa,doll_63.00,0.59_perc,-12.29_perc,"['banks', 'financialservices']"
@@ -6594,7 +6594,7 @@
 6592,imperial brands,itba.f,701,doll_24.12 b,uk,doll_25.43,-0.82_perc,20.46_perc,['tobacco']
 6593,ferguson,ferg,672,doll_25.64 b,uk,doll_123.51,1.17_perc,-24.14_perc,[]
 6594,veeva systems,veev,670,doll_25.66 b,usa,doll_165.31,-1.91_perc,-38.77_perc,"['software', 'tech']"
-6595,mobileye,mbly,667,doll_25.91 b,israel,doll_32.13,5.38_perc,,"['autonomousdriving', 'software', 'tech']"
+6595,mobileye,mbly,667,doll_25.91 b,israel,doll_32.13,5.38_perc,,"['autonomoriving', 'software', 'tech']"
 6596,genuine parts company,gpc,669,doll_25.81 b,usa,doll_182.86,0.11_perc,36.68_perc,[]
 6597,fujitsu,6702.t,665,doll_25.92 b,japan,doll_133.15,-1.22_perc,-22.73_perc,"['itservices', 'professionalservices']"
 6598,warner bros. discovery,wbd,668,doll_25.85 b,usa,doll_10.74,1.23_perc,-55.66_perc,"['entertainment', 'mediapress']"
@@ -6611,7 +6611,7 @@
 6609,baxter,bax,656,doll_26.39 b,usa,doll_52.35,1.63_perc,-34.46_perc,"['pharmaceuticals', 'biotech', 'healthcare']"
 6610,willis towers watson,wtw,654,doll_26.43 b,uk,doll_244.19,-1.06_perc,5.43_perc,['insurance']
 6611,naturgy,ntgy.mc,653,doll_26.44 b,spain,doll_27.52,-1.39_perc,-3.23_perc,[]
-6612,aptiv,aptv,652,doll_26.49 b,ireland,doll_97.79,-1.93_perc,-41.66_perc,"['automotivesuppliers', 'autonomousdriving']"
+6612,aptiv,aptv,652,doll_26.49 b,ireland,doll_97.79,-1.93_perc,-41.66_perc,"['automotivesuppliers', 'autonomoriving']"
 6613,crowdstrike,crwd,651,doll_26.53 b,usa,doll_113.20,-0.55_perc,-44.60_perc,"['tech', 'software', 'itsecurity']"
 6614,lyondellbasell,lyb,650,doll_26.59 b,usa,doll_81.67,-0.77_perc,-9.37_perc,['chemicals']
 6615,gree electric appliances,000651.sz,648,doll_26.66 b,china,doll_4.74,-0.33_perc,-17.57_perc,"['homekitchenappliances', 'electronics', 'manufacturing']"
@@ -7079,7 +7079,7 @@
 7077,eli lilly,lly,19,doll_353.43 b,usa,doll_371.97,0.93_perc,51.76_perc,"['pharmaceuticals', 'biotech']"
 7078,tencent,tcehy,16,doll_377.82 b,china,doll_39.19,-1.61_perc,-34.39_perc,"['tech', 'internet', 'videogames', 'esports']"
 7079,jpmorgan chase,jpm,15,doll_385.71 b,usa,doll_131.50,-0.07_perc,-19.11_perc,"['banks', 'financialservices', 'dowjones']"
-7080,nvidia,nvda,14,doll_401.71 b,usa,doll_161.20,0.83_perc,-50.29_perc,"['tech', 'semiconductors', 'electronics', 'techhardware', 'autonomousdriving']"
+7080,nvidia,nvda,14,doll_401.71 b,usa,doll_161.20,0.83_perc,-50.29_perc,"['tech', 'semiconductors', 'electronics', 'techhardware', 'autonomoriving']"
 7081,tsmc,tsm,12,doll_410.94 b,taiwan,doll_79.24,-0.40_perc,-35.22_perc,"['semiconductors', 'tech', 'manufacturing', 'techhardware']"
 7082,walmart,wmt,13,doll_402.11 b,usa,doll_149.11,-0.52_perc,7.62_perc,"['retail', 'dowjones', 'supermarketchains']"
 7083,exxon mobil,xom,11,doll_426.86 b,usa,doll_103.65,-0.22_perc,66.45_perc,"['oilgas', 'energy']"
@@ -7087,8 +7087,8 @@
 7085,johnson & johnson,jnj,9,doll_463.20 b,usa,doll_177.17,0.61_perc,8.45_perc,"['pharmaceuticals', 'dowjones', 'biotech']"
 7086,unitedhealth,unh,8,doll_507.26 b,usa,doll_542.91,0.67_perc,16.82_perc,"['healthcare', 'insurance', 'dowjones']"
 7087,amazon,amzn,5,doll_902.44 b,usa,doll_88.46,0.24_perc,-49.79_perc,"['ecommerce', 'internet', 'tech', 'retail']"
-7088,alphabet (google),goog,4,doll_1.229 t,usa,doll_95.15,-2.22_perc,-35.73_perc,"['internet', 'tech', 'software', 'autonomousdriving']"
+7088,alphabet (google),goog,4,doll_1.229 t,usa,doll_95.15,-2.22_perc,-35.73_perc,"['internet', 'tech', 'software', 'autonomoriving']"
 7089,berkshire hathaway,brk-b,6,doll_673.83 b,usa,doll_305.82,-0.64_perc,7.32_perc,['investment']
-7090,tesla,tsla,7,doll_541.43 b,usa,doll_174.04,-3.21_perc,-50.36_perc,"['automakers', 'tech', 'electricvehicles', 'bitcoin', 'manufacturing', 'evcharging', 'autonomousdriving']"
+7090,tesla,tsla,7,doll_541.43 b,usa,doll_174.04,-3.21_perc,-50.36_perc,"['automakers', 'tech', 'electricvehicles', 'bitcoin', 'manufacturing', 'evcharging', 'autonomoriving']"
 7091,microsoft,msft,3,doll_1.821 t,usa,doll_244.37,-0.31_perc,-27.04_perc,"['software', 'tech', 'dowjones', 'videogames']"
 7092,saudi aramco,2222.sr,2,doll_1.843 t,saudi arabia,doll_8.38,-0.79_perc,-10.37_perc,"['energy', 'oilgas']"
