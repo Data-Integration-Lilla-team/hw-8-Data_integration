@@ -7,27 +7,27 @@ Computato - TGT:set()
 TGT- Computato:set()
 Jaccard score:1.0
 
-Elemento: id
-Sinonimi computati:['id', 'capital', 'address']
-Sinonimi reali:['id']
-Intersezione:{'id'}
-Computato - TGT:{'capital', 'address'}
-TGT- Computato:set()
-Jaccard score:0.3333333333333333
-
 Elemento: capital
-Sinonimi computati:['id', 'capital', 'address']
+Sinonimi computati:['capital', 'id', 'address']
 Sinonimi reali:['capital']
 Intersezione:{'capital'}
 Computato - TGT:{'id', 'address'}
 TGT- Computato:set()
 Jaccard score:0.3333333333333333
 
+Elemento: id
+Sinonimi computati:['capital', 'id', 'address']
+Sinonimi reali:['id']
+Intersezione:{'id'}
+Computato - TGT:{'capital', 'address'}
+TGT- Computato:set()
+Jaccard score:0.3333333333333333
+
 Elemento: address
-Sinonimi computati:['id', 'capital', 'address']
+Sinonimi computati:['capital', 'id', 'address']
 Sinonimi reali:['address']
 Intersezione:{'address'}
-Computato - TGT:{'id', 'capital'}
+Computato - TGT:{'capital', 'id'}
 TGT- Computato:set()
 Jaccard score:0.3333333333333333
 

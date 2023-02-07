@@ -15,19 +15,19 @@ Computato - TGT:set()
 TGT- Computato:set()
 Jaccard score:1.0
 
-Elemento: name
-Sinonimi computati:['name', 'address_name']
-Sinonimi reali:['name']
-Intersezione:{'name'}
-Computato - TGT:{'address_name'}
-TGT- Computato:set()
-Jaccard score:0.5
-
 Elemento: address_name
-Sinonimi computati:['name', 'address_name']
+Sinonimi computati:['address_name', 'name']
 Sinonimi reali:['address_name']
 Intersezione:{'address_name'}
 Computato - TGT:{'name'}
+TGT- Computato:set()
+Jaccard score:0.5
+
+Elemento: name
+Sinonimi computati:['address_name', 'name']
+Sinonimi reali:['name']
+Intersezione:{'name'}
+Computato - TGT:{'address_name'}
 TGT- Computato:set()
 Jaccard score:0.5
 
@@ -47,35 +47,35 @@ Computato - TGT:set()
 TGT- Computato:set()
 Jaccard score:1.0
 
-Elemento: country
-Sinonimi computati:['country', 'location_type', 'city', 'state']
-Sinonimi reali:['country']
-Intersezione:{'country'}
-Computato - TGT:{'location_type', 'state', 'city'}
-TGT- Computato:set()
-Jaccard score:0.25
-
-Elemento: state
-Sinonimi computati:['country', 'location_type', 'city', 'state']
-Sinonimi reali:['state']
-Intersezione:{'state'}
-Computato - TGT:{'country', 'city', 'location_type'}
-TGT- Computato:set()
-Jaccard score:0.25
-
 Elemento: city
-Sinonimi computati:['country', 'location_type', 'city', 'state']
+Sinonimi computati:['city', 'country', 'location_type', 'state']
 Sinonimi reali:['city']
 Intersezione:{'city'}
-Computato - TGT:{'country', 'state', 'location_type'}
+Computato - TGT:{'country', 'location_type', 'state'}
 TGT- Computato:set()
 Jaccard score:0.25
 
 Elemento: location_type
-Sinonimi computati:['country', 'location_type', 'city', 'state']
+Sinonimi computati:['city', 'country', 'location_type', 'state']
 Sinonimi reali:['location_type']
 Intersezione:{'location_type'}
-Computato - TGT:{'country', 'state', 'city'}
+Computato - TGT:{'city', 'country', 'state'}
+TGT- Computato:set()
+Jaccard score:0.25
+
+Elemento: country
+Sinonimi computati:['city', 'country', 'location_type', 'state']
+Sinonimi reali:['country']
+Intersezione:{'country'}
+Computato - TGT:{'city', 'location_type', 'state'}
+TGT- Computato:set()
+Jaccard score:0.25
+
+Elemento: state
+Sinonimi computati:['city', 'country', 'location_type', 'state']
+Sinonimi reali:['state']
+Intersezione:{'state'}
+Computato - TGT:{'city', 'country', 'location_type'}
 TGT- Computato:set()
 Jaccard score:0.25
 

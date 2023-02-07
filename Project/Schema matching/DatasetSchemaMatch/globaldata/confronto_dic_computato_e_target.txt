@@ -7,27 +7,27 @@ Computato - TGT:set()
 TGT- Computato:set()
 Jaccard score:1.0
 
+Elemento: industry
+Sinonimi computati:['industry', 'website', 'headquarters']
+Sinonimi reali:['industry']
+Intersezione:{'industry'}
+Computato - TGT:{'website', 'headquarters'}
+TGT- Computato:set()
+Jaccard score:0.3333333333333333
+
 Elemento: website
-Sinonimi computati:['industry', 'headquarters', 'website']
+Sinonimi computati:['industry', 'website', 'headquarters']
 Sinonimi reali:[]
 Intersezione:set()
-Computato - TGT:{'industry', 'headquarters', 'website'}
+Computato - TGT:{'industry', 'website', 'headquarters'}
 TGT- Computato:set()
 Jaccard score:0.0
 
 Elemento: headquarters
-Sinonimi computati:['industry', 'headquarters', 'website']
+Sinonimi computati:['industry', 'website', 'headquarters']
 Sinonimi reali:['headquarters']
 Intersezione:{'headquarters'}
 Computato - TGT:{'industry', 'website'}
-TGT- Computato:set()
-Jaccard score:0.3333333333333333
-
-Elemento: industry
-Sinonimi computati:['industry', 'headquarters', 'website']
-Sinonimi reali:['industry']
-Intersezione:{'industry'}
-Computato - TGT:{'headquarters', 'website'}
 TGT- Computato:set()
 Jaccard score:0.3333333333333333
 

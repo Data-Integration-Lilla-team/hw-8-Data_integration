@@ -1,25 +1,25 @@
 
+Elemento: nation
+Sinonimi computati:['nation', 'hhid', 'id']
+Sinonimi reali:['nation']
+Intersezione:{'nation'}
+Computato - TGT:{'hhid', 'id'}
+TGT- Computato:set()
+Jaccard score:0.3333333333333333
+
 Elemento: hhid
-Sinonimi computati:['hhid', 'id', 'nation']
+Sinonimi computati:['nation', 'hhid', 'id']
 Sinonimi reali:['hhid']
 Intersezione:{'hhid'}
-Computato - TGT:{'id', 'nation'}
+Computato - TGT:{'nation', 'id'}
 TGT- Computato:set()
 Jaccard score:0.3333333333333333
 
 Elemento: id
-Sinonimi computati:['hhid', 'id', 'nation']
+Sinonimi computati:['nation', 'hhid', 'id']
 Sinonimi reali:['id']
 Intersezione:{'id'}
-Computato - TGT:{'hhid', 'nation'}
-TGT- Computato:set()
-Jaccard score:0.3333333333333333
-
-Elemento: nation
-Sinonimi computati:['hhid', 'id', 'nation']
-Sinonimi reali:['nation']
-Intersezione:{'nation'}
-Computato - TGT:{'hhid', 'id'}
+Computato - TGT:{'nation', 'hhid'}
 TGT- Computato:set()
 Jaccard score:0.3333333333333333
 

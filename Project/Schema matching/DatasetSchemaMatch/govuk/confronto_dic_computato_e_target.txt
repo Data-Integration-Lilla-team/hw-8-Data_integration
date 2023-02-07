@@ -23,24 +23,24 @@ Computato - TGT:set()
 TGT- Computato:set()
 Jaccard score:1.0
 
-Elemento: company_number
-Sinonimi computati:['company_number', 'company_id']
-Sinonimi reali:['company_number', 'company_id']
-Intersezione:{'company_number', 'company_id'}
-Computato - TGT:set()
-TGT- Computato:set()
-Jaccard score:1.0
-
 Elemento: company_id
-Sinonimi computati:['company_number', 'company_type', 'company_status', 'company_id']
+Sinonimi computati:['company_number', 'company_id', 'company_type', 'company_status']
 Sinonimi reali:['company_number', 'company_id']
-Intersezione:{'company_number', 'company_id'}
+Intersezione:{'company_id', 'company_number'}
 Computato - TGT:{'company_type', 'company_status'}
 TGT- Computato:set()
 Jaccard score:0.5
 
+Elemento: company_number
+Sinonimi computati:['company_id', 'company_number']
+Sinonimi reali:['company_number', 'company_id']
+Intersezione:{'company_id', 'company_number'}
+Computato - TGT:set()
+TGT- Computato:set()
+Jaccard score:1.0
+
 Elemento: company_type
-Sinonimi computati:['company_type', 'company_id']
+Sinonimi computati:['company_id', 'company_type']
 Sinonimi reali:['company_type']
 Intersezione:{'company_type'}
 Computato - TGT:{'company_id'}
@@ -48,10 +48,10 @@ TGT- Computato:set()
 Jaccard score:0.5
 
 Elemento: company_status
-Sinonimi computati:['company_type', 'company_status', 'company_id']
+Sinonimi computati:['company_id', 'company_type', 'company_status']
 Sinonimi reali:['company_status']
 Intersezione:{'company_status'}
-Computato - TGT:{'company_type', 'company_id'}
+Computato - TGT:{'company_id', 'company_type'}
 TGT- Computato:set()
 Jaccard score:0.3333333333333333
 
@@ -95,19 +95,19 @@ Computato - TGT:set()
 TGT- Computato:set()
 Jaccard score:1.0
 
-Elemento: registered_office_address
-Sinonimi computati:['office_address', 'registered_office_address', 'nature_of_business']
-Sinonimi reali:['office_address', 'registered_office_address']
-Intersezione:{'office_address', 'registered_office_address'}
-Computato - TGT:{'nature_of_business'}
-TGT- Computato:set()
-Jaccard score:0.6666666666666666
-
 Elemento: nature_of_business
-Sinonimi computati:['registered_office_address', 'nature_of_business']
+Sinonimi computati:['nature_of_business', 'registered_office_address']
 Sinonimi reali:['nature_of_business']
 Intersezione:{'nature_of_business'}
 Computato - TGT:{'registered_office_address'}
 TGT- Computato:set()
 Jaccard score:0.5
+
+Elemento: registered_office_address
+Sinonimi computati:['office_address', 'nature_of_business', 'registered_office_address']
+Sinonimi reali:['office_address', 'registered_office_address']
+Intersezione:{'office_address', 'registered_office_address'}
+Computato - TGT:{'nature_of_business'}
+TGT- Computato:set()
+Jaccard score:0.6666666666666666
 

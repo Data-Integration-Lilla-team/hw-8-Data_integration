@@ -7,61 +7,53 @@ Computato - TGT:set()
 TGT- Computato:set()
 Jaccard score:1.0
 
+Elemento: official_name
+Sinonimi computati:['official_name', 'name', 'headquarters']
+Sinonimi reali:['official_name']
+Intersezione:{'official_name'}
+Computato - TGT:{'headquarters', 'name'}
+TGT- Computato:set()
+Jaccard score:0.3333333333333333
+
 Elemento: name
-Sinonimi computati:['name', 'official_name', 'headquarters']
+Sinonimi computati:['official_name', 'name', 'headquarters']
 Sinonimi reali:['name']
 Intersezione:{'name'}
 Computato - TGT:{'official_name', 'headquarters'}
 TGT- Computato:set()
 Jaccard score:0.3333333333333333
 
-Elemento: official_name
-Sinonimi computati:['name', 'official_name', 'headquarters']
-Sinonimi reali:['official_name']
-Intersezione:{'official_name'}
-Computato - TGT:{'name', 'headquarters'}
-TGT- Computato:set()
-Jaccard score:0.3333333333333333
-
 Elemento: headquarters
-Sinonimi computati:['headquarters_continent', 'sector', 'headquarters', 'headquarters_country']
+Sinonimi computati:['headquarters', 'headquarters_country', 'sector', 'headquarters_continent']
 Sinonimi reali:['headquarters']
 Intersezione:{'headquarters'}
-Computato - TGT:{'headquarters_continent', 'sector', 'headquarters_country'}
+Computato - TGT:{'headquarters_country', 'sector', 'headquarters_continent'}
 TGT- Computato:set()
 Jaccard score:0.25
 
 Elemento: sector
-Sinonimi computati:['headquarters_continent', 'sector', 'headquarters', 'headquarters_country']
+Sinonimi computati:['sector', 'country']
 Sinonimi reali:['sector']
 Intersezione:{'sector'}
-Computato - TGT:{'headquarters_continent', 'headquarters', 'headquarters_country'}
+Computato - TGT:{'country'}
 TGT- Computato:set()
-Jaccard score:0.25
-
-Elemento: headquarters_continent
-Sinonimi computati:['headquarters_continent', 'sector', 'headquarters', 'headquarters_country']
-Sinonimi reali:['headquarters_continent']
-Intersezione:{'headquarters_continent'}
-Computato - TGT:{'sector', 'headquarters', 'headquarters_country'}
-TGT- Computato:set()
-Jaccard score:0.25
+Jaccard score:0.5
 
 Elemento: headquarters_country
-Sinonimi computati:['headquarters_continent', 'sector', 'headquarters', 'headquarters_country']
+Sinonimi computati:['headquarters', 'headquarters_country', 'sector', 'headquarters_continent']
 Sinonimi reali:['country', 'headquarters_country']
 Intersezione:{'headquarters_country'}
-Computato - TGT:{'headquarters_continent', 'sector', 'headquarters'}
+Computato - TGT:{'headquarters', 'sector', 'headquarters_continent'}
 TGT- Computato:{'country'}
 Jaccard score:0.2
 
-Elemento: market_cap
-Sinonimi computati:['market_value_apr_2022', 'market_cap', 'mastercap', 'marketcap']
-Sinonimi reali:['market_cap', 'mastercap', 'market_value_apr_2022', 'marketcap', 'market_capitalization_usd']
-Intersezione:{'market_value_apr_2022', 'market_cap', 'mastercap', 'marketcap'}
-Computato - TGT:set()
-TGT- Computato:{'market_capitalization_usd'}
-Jaccard score:0.8
+Elemento: headquarters_continent
+Sinonimi computati:['headquarters', 'headquarters_country', 'sector', 'headquarters_continent']
+Sinonimi reali:['headquarters_continent']
+Intersezione:{'headquarters_continent'}
+Computato - TGT:{'headquarters_country', 'headquarters', 'sector'}
+TGT- Computato:set()
+Jaccard score:0.25
 
 Elemento: founded
 Sinonimi computati:['founded']
@@ -70,6 +62,14 @@ Intersezione:{'founded'}
 Computato - TGT:set()
 TGT- Computato:set()
 Jaccard score:1.0
+
+Elemento: market_cap
+Sinonimi computati:['marketcap', 'market_value_apr_2022', 'mastercap', 'market_cap']
+Sinonimi reali:['market_cap', 'mastercap', 'market_value_apr_2022', 'marketcap', 'market_capitalization_usd']
+Intersezione:{'marketcap', 'market_value_apr_2022', 'mastercap', 'market_cap'}
+Computato - TGT:set()
+TGT- Computato:{'market_capitalization_usd'}
+Jaccard score:0.8
 
 Elemento: employees
 Sinonimi computati:['employees']
@@ -88,9 +88,9 @@ TGT- Computato:set()
 Jaccard score:1.0
 
 Elemento: marketcap
-Sinonimi computati:['market_value_apr_2022', 'market_cap', 'mastercap', 'marketcap']
+Sinonimi computati:['marketcap', 'market_value_apr_2022', 'mastercap', 'market_cap']
 Sinonimi reali:['market_cap', 'mastercap', 'market_value_apr_2022', 'marketcap', 'market_capitalization_usd']
-Intersezione:{'market_value_apr_2022', 'market_cap', 'mastercap', 'marketcap'}
+Intersezione:{'marketcap', 'market_value_apr_2022', 'mastercap', 'market_cap'}
 Computato - TGT:set()
 TGT- Computato:{'market_capitalization_usd'}
 Jaccard score:0.8
@@ -111,18 +111,18 @@ Computato - TGT:set()
 TGT- Computato:set()
 Jaccard score:1.0
 
-Elemento: mastercap
-Sinonimi computati:['market_value_apr_2022', 'market_cap', 'mastercap', 'marketcap']
+Elemento: market_value_apr_2022
+Sinonimi computati:['marketcap', 'market_value_apr_2022', 'mastercap', 'market_cap']
 Sinonimi reali:['market_cap', 'mastercap', 'market_value_apr_2022', 'marketcap', 'market_capitalization_usd']
-Intersezione:{'market_value_apr_2022', 'market_cap', 'mastercap', 'marketcap'}
+Intersezione:{'marketcap', 'market_value_apr_2022', 'mastercap', 'market_cap'}
 Computato - TGT:set()
 TGT- Computato:{'market_capitalization_usd'}
 Jaccard score:0.8
 
-Elemento: market_value_apr_2022
-Sinonimi computati:['market_value_apr_2022', 'market_cap', 'mastercap', 'marketcap']
+Elemento: mastercap
+Sinonimi computati:['marketcap', 'market_value_apr_2022', 'mastercap', 'market_cap']
 Sinonimi reali:['market_cap', 'mastercap', 'market_value_apr_2022', 'marketcap', 'market_capitalization_usd']
-Intersezione:{'market_value_apr_2022', 'market_cap', 'mastercap', 'marketcap'}
+Intersezione:{'marketcap', 'market_value_apr_2022', 'mastercap', 'market_cap'}
 Computato - TGT:set()
 TGT- Computato:{'market_capitalization_usd'}
 Jaccard score:0.8
@@ -144,27 +144,27 @@ TGT- Computato:set()
 Jaccard score:0.0
 
 Elemento: industry
-Sinonimi computati:['industry']
+Sinonimi computati:['industry', 'country']
 Sinonimi reali:['industry']
 Intersezione:{'industry'}
-Computato - TGT:set()
+Computato - TGT:{'country'}
 TGT- Computato:set()
-Jaccard score:1.0
+Jaccard score:0.5
 
 Elemento: country
-Sinonimi computati:['country']
+Sinonimi computati:['sector', 'country']
 Sinonimi reali:['country', 'headquarters_country']
 Intersezione:{'country'}
-Computato - TGT:set()
+Computato - TGT:{'sector'}
 TGT- Computato:{'headquarters_country'}
-Jaccard score:0.5
+Jaccard score:0.3333333333333333
 
 Elemento: market_capitalization_usd
 Sinonimi computati:['market_capitalization_usd']
 Sinonimi reali:['market_cap', 'mastercap', 'market_value_apr_2022', 'marketcap', 'market_capitalization_usd']
 Intersezione:{'market_capitalization_usd'}
 Computato - TGT:set()
-TGT- Computato:{'market_value_apr_2022', 'mastercap', 'market_cap', 'marketcap'}
+TGT- Computato:{'marketcap', 'market_value_apr_2022', 'mastercap', 'market_cap'}
 Jaccard score:0.2
 
 Elemento: rank

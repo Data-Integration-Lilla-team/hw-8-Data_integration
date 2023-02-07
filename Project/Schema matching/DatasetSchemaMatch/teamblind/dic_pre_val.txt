@@ -1,7 +1,7 @@
 
-name->['name', 'industry']
-industry->['name', 'industry']
+industry->['industry', 'name']
+name->['industry', 'name']
 website->['website']
-locations->['locations', 'size']
-size->['locations', 'size']
+size->['size', 'locations']
+locations->['size', 'locations']
 founded->['founded']

@@ -135,6 +135,8 @@ teamblind Score: 0.6666666666666666
 valuetoday Score: 0.45068374777677106
 wikipedia Score: 0.421875
 ambitiobox Score: 0.6
+
+
 ambitiobox Score: 0.6
 ariregister Score: 0.7
 cbinsights Score: 0.6041666666666666
@@ -148,4 +150,19 @@ hithorizons Score: 0.7777777777777778
 infoclipper Score: 0.6
 teamblind Score: 0.6666666666666666
 valuetoday Score: 0.49176901909460047
+wikipedia Score: 0.421875
+
+ambitiobox Score: 0.4
+ariregister Score: 0.7
+cbinsights Score: 0.6041666666666666
+companiesmarketcap Score: 0.5922619047619049
+disfold Score: 0.6240000000000001
+forbes Score: 0.574829931972789
+ft Score: 0.5724120082815735
+globaldata Score: 0.7407407407407407
+govuk Score: 0.7499999999999999
+hithorizons Score: 0.7777777777777778
+infoclipper Score: 0.6
+teamblind Score: 0.6666666666666666
+valuetoday Score: 0.4762651431256083
 wikipedia Score: 0.421875
