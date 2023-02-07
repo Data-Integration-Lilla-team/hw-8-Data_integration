@@ -1,7 +1,8 @@
+
 url->['url']
-address->['capital', 'id', 'address']
-id->['capital', 'id', 'address']
 capital->['capital', 'id', 'address']
+id->['capital', 'id', 'address']
+address->['capital', 'id', 'address']
 name->['name', 'status']
 status->['name', 'status']
 code->['code']

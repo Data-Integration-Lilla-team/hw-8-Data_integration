@@ -1,7 +1,8 @@
+
 name->['name']
-website->['website', 'headquarters', 'industry']
-headquarters->['website', 'headquarters', 'industry']
-industry->['website', 'headquarters', 'industry']
+industry->['industry', 'website', 'headquarters']
+website->['industry', 'website', 'headquarters']
+headquarters->['industry', 'website', 'headquarters']
 number_of_employees->['number_of_employees']
 address->['address']
 market_cap->['market_cap']

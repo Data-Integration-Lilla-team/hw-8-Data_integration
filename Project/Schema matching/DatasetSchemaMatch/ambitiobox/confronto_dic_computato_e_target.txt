@@ -1,0 +1,41 @@
+
+Elemento: industry
+Sinonimi computati:['industry', 'name', 'headquarter']
+Sinonimi reali:['industry']
+Intersezione:{'industry'}
+Computato - TGT:{'name', 'headquarter'}
+TGT- Computato:set()
+Jaccard score:0.3333333333333333
+
+Elemento: name
+Sinonimi computati:['industry', 'name', 'headquarter']
+Sinonimi reali:['name']
+Intersezione:{'name'}
+Computato - TGT:{'industry', 'headquarter'}
+TGT- Computato:set()
+Jaccard score:0.3333333333333333
+
+Elemento: headquarter
+Sinonimi computati:['industry', 'name', 'headquarter']
+Sinonimi reali:['headquarter']
+Intersezione:{'headquarter'}
+Computato - TGT:{'industry', 'name'}
+TGT- Computato:set()
+Jaccard score:0.3333333333333333
+
+Elemento: ownership
+Sinonimi computati:['ownership']
+Sinonimi reali:[]
+Intersezione:set()
+Computato - TGT:{'ownership'}
+TGT- Computato:set()
+Jaccard score:0.0
+
+Elemento: foundation_year
+Sinonimi computati:['foundation_year']
+Sinonimi reali:['foundation_year']
+Intersezione:{'foundation_year'}
+Computato - TGT:set()
+TGT- Computato:set()
+Jaccard score:1.0
+

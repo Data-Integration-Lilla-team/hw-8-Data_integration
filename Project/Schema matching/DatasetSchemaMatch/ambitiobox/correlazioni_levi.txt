@@ -1,32 +1,32 @@
-threshold:0.2 avg jaccard:1.0
+threshold:0.2 avg jaccard:0.8
 foundation_year->('foundation_year', 1.0)
 headquarter->('headquarter', 1.0)
 industry->('industry', 1.0)
 name->('name', 1.0)
 ownership->('ownership', 1.0)
 
-threshold:0.30000000000000004 avg jaccard:1.0
+threshold:0.30000000000000004 avg jaccard:0.8
 foundation_year->('foundation_year', 1.0)
 headquarter->('headquarter', 1.0)
 industry->('industry', 1.0)
 name->('name', 1.0)
 ownership->('ownership', 1.0)
 
-threshold:0.4 avg jaccard:1.0
+threshold:0.4 avg jaccard:0.8
 foundation_year->('foundation_year', 1.0)
 headquarter->('headquarter', 1.0)
 industry->('industry', 1.0)
 name->('name', 1.0)
 ownership->('ownership', 1.0)
 
-threshold:0.5 avg jaccard:1.0
+threshold:0.5 avg jaccard:0.8
 foundation_year->('foundation_year', 1.0)
 headquarter->('headquarter', 1.0)
 industry->('industry', 1.0)
 name->('name', 1.0)
 ownership->('ownership', 1.0)
 
-threshold:0.6 avg jaccard:1.0
+threshold:0.6 avg jaccard:0.8
 foundation_year->('foundation_year', 1.0)
 headquarter->('headquarter', 1.0)
 industry->('industry', 1.0)

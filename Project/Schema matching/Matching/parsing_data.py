@@ -57,6 +57,7 @@ class Parser_data:
         data.rename(columns=oldCols2newCols,inplace=True)
 
         data=self.drop_not_needed_cols(data)
+
         data.to_csv(path_tgt)
 
     
@@ -67,7 +68,7 @@ class Parser_data:
         dic_to_replace={'%':'_perc',
                         '#':'rank_',
                         '\$': 'doll_',
-                        '\r\n': ' '
+                        '\r\n': ''
         }
         columns=data.columns
         cols_to_lower_case=[]
@@ -78,8 +79,20 @@ class Parser_data:
         for c in columns:
             
             data[c]=data[c].replace(dic_to_replace,regex=True)
+            #verifico se è una lista
+            print(c)
+            print(data[c].head(2))
+            trovato=''   
             if isinstance(data[c].head(1)[0], str):
+                
+                if '[' in data[c].head(1)[0]:
+                    print(c,'============TROVATO====================')
+                    print('before',data[c].head(1)[0])
+                    trovato=c
+                    data[c]=data[c].str.lower()
+                    print(data[c].head(1)[0])
                 data[c]=data[c].str.lower()
+                
 
 
         data=self.drop_not_needed_cols(data)

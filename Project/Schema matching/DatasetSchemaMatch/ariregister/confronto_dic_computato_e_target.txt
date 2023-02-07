@@ -1,0 +1,81 @@
+
+Elemento: url
+Sinonimi computati:['url']
+Sinonimi reali:['url']
+Intersezione:{'url'}
+Computato - TGT:set()
+TGT- Computato:set()
+Jaccard score:1.0
+
+Elemento: capital
+Sinonimi computati:['capital', 'id', 'address']
+Sinonimi reali:['capital']
+Intersezione:{'capital'}
+Computato - TGT:{'id', 'address'}
+TGT- Computato:set()
+Jaccard score:0.3333333333333333
+
+Elemento: id
+Sinonimi computati:['capital', 'id', 'address']
+Sinonimi reali:['id']
+Intersezione:{'id'}
+Computato - TGT:{'capital', 'address'}
+TGT- Computato:set()
+Jaccard score:0.3333333333333333
+
+Elemento: address
+Sinonimi computati:['capital', 'id', 'address']
+Sinonimi reali:['address']
+Intersezione:{'address'}
+Computato - TGT:{'capital', 'id'}
+TGT- Computato:set()
+Jaccard score:0.3333333333333333
+
+Elemento: name
+Sinonimi computati:['name', 'status']
+Sinonimi reali:['name']
+Intersezione:{'name'}
+Computato - TGT:{'status'}
+TGT- Computato:set()
+Jaccard score:0.5
+
+Elemento: status
+Sinonimi computati:['name', 'status']
+Sinonimi reali:['status']
+Intersezione:{'status'}
+Computato - TGT:{'name'}
+TGT- Computato:set()
+Jaccard score:0.5
+
+Elemento: code
+Sinonimi computati:['code']
+Sinonimi reali:['code']
+Intersezione:{'code'}
+Computato - TGT:set()
+TGT- Computato:set()
+Jaccard score:1.0
+
+Elemento: legal_form
+Sinonimi computati:['legal_form']
+Sinonimi reali:['legal_form']
+Intersezione:{'legal_form'}
+Computato - TGT:set()
+TGT- Computato:set()
+Jaccard score:1.0
+
+Elemento: registration_date
+Sinonimi computati:['registration_date']
+Sinonimi reali:['registration_date']
+Intersezione:{'registration_date'}
+Computato - TGT:set()
+TGT- Computato:set()
+Jaccard score:1.0
+
+Elemento: deletion_date
+Sinonimi computati:['deletion_date']
+Sinonimi reali:['deletion_date']
+Intersezione:{'deletion_date'}
+Computato - TGT:set()
+TGT- Computato:set()
+Jaccard score:1.0
+

@@ -1,0 +1,83 @@
+threshold of inertia for cluster_model= 0.2
+
+disfold
+
+
+Elemento: headquarters_country
+Sinonimi computati:['headquarters_continent', 'sector', 'headquarters', 'headquarters_country']
+Sinonimi reali:['country', 'headquarters_country']
+Intersezione:{'headquarters_country'}
+Computato - TGT:{'headquarters_continent', 'sector', 'headquarters'}
+TGT- Computato:{'country'}
+Jaccard score:0.2
+
+MOTIVO
+00-avengers inserisce nel campo headquarters_country il nome della città
+0	1e4dfb844d5a47e39c14699648cbd55a	apple	apple inc.	->cupertino	ca	april 1, 1976	100	mr. timothy d. cook	doll_2.825 trillion	['unitedstates', 'technology', 'consumerelectronics', 'unitedstatestechnology', 'unitedstatesconsumerelectronics']	
+
+gli altri inseriscono la nazione
+0	apple inc.	doll_2.825 t	aapl	technology	consumer electronics	->united states
+
+
+
+2)Elemento: marketcap
+Sinonimi computati:['market_value_apr_2022', 'market_cap', 'mastercap', 'marketcap']
+Sinonimi reali:['market_cap', 'mastercap', 'market_value_apr_2022', 'marketcap', 'market_capitalization_usd']
+Intersezione:{'market_value_apr_2022', 'market_cap', 'mastercap', 'marketcap'}
+Computato - TGT:set()
+TGT- Computato:{'market_capitalization_usd'}
+Jaccard score:0.8
+
+MOTIVO
+dovuto al fatto che 03-gram inserisce nel campo market_capitalization_usd il valore assouluto-> es: 2825000000000
+0	apple inc.	->2,825E+12	aapl	united states	technology	consumer electronics
+
+
+gli altri utlizzano il valore in b, t 2.8
+0	apple inc.	->doll_2.825 t	aapl	technology	consumer electronics	united states
+
+
+RISOLUZIONE->modificare il valore presente inserendo b, t, m standardizzandolo.
+
+
+
+value today
+1)Elemento: employees_number
+Sinonimi computati:['world_rank__jan_2020', 'rank', 'employees_number']
+Sinonimi reali:['employees_2022', 'number_of_employees', 'employees_number']
+Intersezione:{'employees_number'}
+Computato - TGT:{'world_rank__jan_2020', 'rank'}
+TGT- Computato:{'employees_2022', 'number_of_employees'}
+Jaccard score:0.2
+
+MOTIVO
+03-davegran utilizza il valore assoluto dei valori 
+0	apple	394330000000.0	99803000000.0	2825000000000.0	->154000.0	tim cook	usa	https://en.wikipedia.org/wiki/apple_inc.	https://twitter.com/apple?lang=en	https://www.facebook.com/apple/
+4	amazon.com	469820000000.0	33364000000.0	1649000000000.0	->1335000.0	andy jassy	usa	https://en.wikipedia.org/wiki/amazon_(company)	https://twitter.com/amazon	https://www.facebook.com/amazon/
+
+gli altri utlizzano un valore in migliaia
+4	amazon.com	andy jassy	1,649.000 billion usd	5	941.028 billion usd	5.0	usa	->1.335,000	['ecommerce', 'internet or mobile app based business', 'cloud services']	469,820 million usd	33,364 million usd	https://www.amazon.com/
+0	apple	tim cook	2,825.000 billion usd	1	1,323.000 billion usd	2.0	usa	->154	['technology', 'mobiles & accessories', 'electronics']	365,820 million usd	94,680 million usd	https://www.apple.com/
+
+
+
+
+
+
+2)Elemento: market_capitalization_2022
+Sinonimi computati:['market_capitalization_2022']
+Sinonimi reali:['market_capitalization_2022', 'marketcap']
+Intersezione:{'market_capitalization_2022'}
+Computato - TGT:set()
+TGT- Computato:{'marketcap'}
+Jaccard score:0.5
+
+MOTIVO
+utilizzano due formattazioni distinte
+03-gren-market_capitalization_2022
+0	apple	394330000000.0	99803000000.0	->2825000000000.0	154000.0	tim cook	usa	https://en.wikipedia.org/wiki/apple_inc.	https://twitter.com/apple?lang=en	https://www.facebook.com/apple/
+
+02-GioPonSpiz-marketcap
+0	apple	1	->2,825.000 billion usd	2,510.000 billion usd	tim cook	usa
+
+

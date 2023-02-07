@@ -34,6 +34,10 @@ class MatchingModule:
         self.name_file_dic_sin_pre_val='dic_pre_val.txt'
         self.path_file_dic_sin_pre_val=self.path_destinazione+'\\'+self.name_file_dic_sin_pre_val
 
+        #evaluation_dic
+        self.name_file_evaluation_dic='confronto_dic_computato_e_target.txt'
+        self.path_name_file_evaluation_dic=self.path_destinazione+'\\'+self.name_file_evaluation_dic
+
 
 #per ogni dataset del sorgente, genera il suo path
 #esempio:
@@ -139,22 +143,44 @@ class MatchingModule:
         print(clusterName)
         dic_data_clustering=dataClustering.clusterData(file_names,max_clusters,validation_set)
 
+        #UNIONE DEI DIZIONARI COMPUTATI
         full_dic=self.merge_dict(dic_data_clustering,dic_name_correlation)
         print(full_dic)
         evaluator=Eval()
         score=evaluator.evaluate(full_dic,validation_set)
 
+        #STAMPA DELLE PERFORMANCE
         stringa='\nNUOVO GIRO'
         with open(self.path_file_valutazione_pre_val, 'a') as f:
             stringa=clusterName+' Score: '+str(score)+'\n'
             f.write(stringa)
         
+        #STAMPA DEL DIZINARIO FULL
         stringa='\n'
         with open(self.path_file_dic_sin_pre_val, 'w') as f:
             for k in full_dic.keys():
                 stringa=stringa+k+'->'+str(full_dic[k])+'\n'
             f.write(stringa)
 
+        
+        #VALUTAZIONE GENERALE
+        evaluation_dic=evaluator.eval_cardinality(full_dic,validation_set)
+        stringa='\n'
+        with open(self.path_name_file_evaluation_dic, 'w') as f:
+            for k in evaluation_dic.keys():
+                stringa=stringa+'Elemento: '+k+'\n'
+                stringa=stringa+'Sinonimi computati:'+str(full_dic[k])+'\n'
+                stringa=stringa+'Sinonimi reali:'+str(validation_set[k])+'\n'
+                stringa=stringa+'Intersezione:'+str(evaluation_dic[k][0])+'\n'
+                stringa=stringa+'Computato - TGT:'+str(evaluation_dic[k][1])+'\n'
+                stringa=stringa+'TGT- Computato:'+str(evaluation_dic[k][2])+'\n'
+                stringa=stringa+'Jaccard score:'+str(evaluation_dic[k][3])+'\n'
+                stringa=stringa+'\n'
+            f.write(stringa)
+            
+
+
+                    
 
 
 

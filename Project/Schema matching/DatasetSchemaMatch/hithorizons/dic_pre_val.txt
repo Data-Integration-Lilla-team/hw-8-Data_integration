@@ -1,6 +1,7 @@
-nation->['id', 'hhid', 'nation']
-hhid->['id', 'hhid', 'nation']
-id->['id', 'hhid', 'nation']
+
+nation->['nation', 'hhid', 'id']
+hhid->['nation', 'hhid', 'id']
+id->['nation', 'hhid', 'id']
 name->['name']
 address->['address']
 industry->['industry']
