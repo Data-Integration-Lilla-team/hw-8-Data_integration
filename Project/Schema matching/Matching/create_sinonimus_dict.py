@@ -54,6 +54,12 @@ def get_SRC_to_datasets(Sorgenti2path):
         Sorgenti2team[k]=list_of_files
     return Sorgenti2team
 
+
+#parsing di dataset specidfici
+def parse_spcific_data():
+    parser=Parser_data()
+    parser.parse_specific_values()
+
 #itera nel cluster passato ed effettua le operazioni di parsing
 #restituisce un dizionario key, val dove
 #key->nome sorgente (cluster)
@@ -127,6 +133,9 @@ if __name__=='__main__':
     
     #sorgenti2dataPaths=parse_data(sorgenti2path)
 
+    parse_spcific_data()
+
+    '''
     parsed_data_path='Project\\Dataset\\ClusterParsed'
 
 
@@ -139,6 +148,7 @@ if __name__=='__main__':
 
     #creazione del dizionario dei sinonimi
     create_sin_dic(sorgenti2path_par)
+    '''
 
 
     
