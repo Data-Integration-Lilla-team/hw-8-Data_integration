@@ -134,9 +134,9 @@ if __name__=='__main__':
     #sorgenti2dataPaths=parse_data(sorgenti2path)
 
     
-    parse_spcific_data()
+    #parse_spcific_data()
 
-    '''
+    
     parsed_data_path='Project\\Dataset\\ClusterParsed'
 
 
@@ -149,7 +149,8 @@ if __name__=='__main__':
 
     #creazione del dizionario dei sinonimi
     create_sin_dic(sorgenti2path_par)
-    '''
+    
+    
 
 
     

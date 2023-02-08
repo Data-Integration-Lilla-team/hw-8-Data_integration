@@ -1,0 +1,1 @@
+{"id": ["00-avengers.csv"], "name": ["00-avengers.csv"], "address": ["00-avengers.csv"], "nation": ["00-avengers.csv"], "hhid": ["00-avengers.csv"], "industry": ["00-avengers.csv"], "sic_code": ["00-avengers.csv"], "type": ["00-avengers.csv"], "est_of_ownership": ["00-avengers.csv"]}

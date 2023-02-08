@@ -13,13 +13,35 @@ class FeatureExtraction:
 
         # da adornare con data
     def compute_features(self, col):
+
         integer=1
         string_t=0
+        data_t=2
+        months=['january', 'february', 'march', 'april', 'may', 'june', 'july',
+          'august', 'september', 'october', 'november', 'december',
+          'January', 'February', 'March', 'April', 'May', 'June', 'July',
+          'August', 'September', 'October', 'November', 'December']
+        conta_string=0
+        conta_int=0
+        regex_date="^[0-9]{1,2}\\/[0-9]{1,2}\\/[0-9]{4}$"
+        regex_date2='\d{2}.\d{2}.\d{2}'
         
-        if isinstance(col.head(1)[0], str):
+        for i in col.head(10):
+
+            if isinstance(i, str):
+                data=i.split(' ')
+                if len(data)>1:
+                    if data[1] in set(months):
+                        return data_t
+                elif re.match(regex_date,i) or re.match(regex_date2,i):
+                        return data_t
+                else:
+                    conta_string+=1
+            else:
+                conta_int+=1
+        if conta_string>conta_int:
             return string_t
-        else:
-            return integer
+        return integer
 
     def compute_features_for_int(self, col):
         integer_features=[]
@@ -36,17 +58,38 @@ class FeatureExtraction:
             return [0,0,0,0,0]
 
     def compute_type(self, val):
-        if '_perc' in val:
-            return 1
-        
-        if 'rank_' in val:
-            return 2
+        numero_perc=0
+        numero_rank=0
+        numero_doll_normal=0
+        numero_doll=0
+        numero_resto=0
+        for i in val:
+            if '_perc' in val:
+                numero_perc+=1
+            
+            if 'rank_' in val:
+                numero_rank+=1
 
-        if 'doll_' in val:
-            return 3
+            if 'doll_' in val:
+                if 'm' in val or 't' in val or 'b' in val:
+                    numero_doll_normal+=1
+                else:
+                    numero_doll+=1
+            
+            else:
+                numero_resto+=1
         
-        else:
+        if numero_doll>=5:
+            return 3
+        elif numero_perc>=5:
+            return 1
+        elif numero_rank>=5:
+            return 2
+        elif numero_doll_normal:
             return 4
+        else:
+            return 5
+
 
     def compute_ratio_of_whitespace(self,col):
 
@@ -75,7 +118,7 @@ class FeatureExtraction:
         feature_vector=[]
 
         #type of string
-        feature_vector.append(self.compute_type(col.head(1)[0]))
+        feature_vector.append(self.compute_type(col.head(10)))
 
         #avg len of strings
         feature_vector.append(col.str.len().mean())
@@ -116,7 +159,7 @@ class FeatureExtraction:
 
     #features-> 
     #nome campo
-    #1. tipo di dato: string 0, int 1, data (?)
+    #1. tipo di dato: string 0, int 1, data 3
     #2. (string)type of str->perc_:1, b or t or doll_: 2, rank_=3, other=4
     #3. (string)avg_lenght of fiald (if string)
     #4. (string)variance of lenght
@@ -172,11 +215,14 @@ class FeatureExtraction:
                     
                     vector_features=vector_features+self.compute_features_for_string(ds[col])
                     vector_features=vector_features+[0,0,0,0,0]
-                else:
+                elif type_of_col==1:
                     
                     
                     vector_features=vector_features+[0,0,0,0,0,0]
                     vector_features=vector_features+self.compute_features_for_int(ds[col])
+                
+                else:
+                    vector_features=vector_features+[0,0,0,0,0,0,0,0,0,0,0]
                 
                 
                 ds_features.append(vector_features)

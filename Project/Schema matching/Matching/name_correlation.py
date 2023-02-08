@@ -9,12 +9,13 @@ import ngram
 import os
 from evaluator import Eval
 import numpy as np
+import json
 class NameCorr:
 
     def __init__(self,clusterName) -> None:
 
         #thresholds
-        self.min=0.2
+        self.threshold=0.4
         self.max=0.6
         self.step=0.1
 
@@ -29,6 +30,15 @@ class NameCorr:
         #invertedIndex
         self.name_file_inverted_index='inverted_index_col_names.txt'
         self.path_name_file_inverted_index=self.path_destinazione+'\\'+self.name_file_inverted_index
+
+        #invertedIndex_dic
+        self.name_file_inverted_index_dic='inverted_index_col_names_dic.txt'
+        self.path_name_file_inverted_index_dic=self.path_destinazione+'\\'+self.name_file_inverted_index_dic
+
+        
+
+
+
 
         #matriceCorrelazione: NGRAMS
         self.name_file_matrice_correlazione_Ngrams='matrice_ngrams.csv'
@@ -72,6 +82,11 @@ class NameCorr:
         with open(self.path_name_file_inverted_index, 'w') as f:
     
             f.write(stringa)
+        
+        with open(self.path_name_file_inverted_index_dic, 'w') as f:
+            f.write(json.dumps(inverted_index))
+        
+        
 
 
 
@@ -211,11 +226,11 @@ class NameCorr:
     #metodo per la creazione della matrice di similarità mediante LEVINSTEIN
     #si impongono più threshold
     def compute_LEVI_sim(self, inverted_index, test):
-        i=self.min
+        i=self.threshold
         stringa=''
         jaccard_dist_eval=dict()
         eval=Eval()
-        while(i<=self.max):
+        while(i<=self.threshold):
             
             stringa=stringa+'threshold:'+str(i)+'\n'
             
@@ -299,8 +314,8 @@ class NameCorr:
         stringa=''
         eval=Eval()
         jaccard_dist_eval=dict()
-        i=self.min
-        while(i<=self.max):
+        i=self.threshold
+        while(i<=self.threshold):
             stringa=stringa+'threshold:'+str(i)
             
             res=self.compute_sim_ngrams(inverted_index,i)

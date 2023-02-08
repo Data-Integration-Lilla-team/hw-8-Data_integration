@@ -53,17 +53,17 @@ def fomrat_amount_v2(e):
         if 'billion' in string_val :
                     
                     
-                    string_val=string_val.replace('billion','b')
+                    string_val=string_val.replace('billion',' b')
                     
                     
         if 'trillion' in string_val:
                     print('Before',string_val)
-                    string_val=string_val.replace('trillion','t')
+                    string_val=string_val.replace('trillion',' t')
                     print('after:',string_val)
                     
         if 'million' in string_val:
                    
-                    string_val=string_val.replace('million','m')
+                    string_val=string_val.replace('million',' m')
         
         print('final',string_val)
         return string_val
@@ -77,7 +77,7 @@ def fomrat_amount_v3(e):
             string_val=valore.replace(',','')
             full_value=(float(f'{int(string_val)/10**6:.2f}'))
             print('after',string_val, 'int', full_value)
-            string_val='doll_'+str(full_value)+'m'
+            string_val='doll_'+str(full_value)+' m'
             return string_val
         return valore
             
@@ -167,17 +167,17 @@ def convert_unit(e):
         if 'billion' in string_val :
                     
                     
-                    string_val=string_val.replace('billion','b')
+                    string_val=string_val.replace('billion',' b')
                     
                     
         if 'trillion' in string_val:
                     print('Before',string_val)
-                    string_val=string_val.replace('trillion','t')
+                    string_val=string_val.replace('trillion',' t')
                     print('after:',string_val)
                     
         if 'million' in string_val:
                    
-                    string_val=string_val.replace('million','m')
+                    string_val=string_val.replace('million',' m')
         
         return string_val
     
@@ -262,6 +262,12 @@ def parse_data_foundation_year_06 (elemento):
         return real
     return valore
 #formattazione amount dollari
+def fomrat_amount_error(element):
+    valore=element
+    if valore!=0:
+        string_val=valore[:len(valore)-1]+' '+valore[len(valore)-1]
+        return string_val.lower()
+    return valore
 def fomrat_amount(element):
     valore=element
     if valore!=0:
@@ -659,6 +665,43 @@ class Parser_data:
 
     
 
+    def parse_error_data(self):
+        mappa_da_fixare={
+            'Project\\Dataset\\ClusterParsed\\forbes\\08-slytherin.csv':'revenue',
+            
+            'Project\\Dataset\\ClusterParsed\\cbinsights\\01-DDD.csv':'totalraised',
+            'Project\\Dataset\\ClusterParsed\\ft\\01-DDD.csv':'revenue_2020_euro',
+            'Project\\Dataset\\ClusterParsed\\ft\\07-silvestri.csv':'revenue_2020',
+            
+            'Project\\Dataset\\ClusterParsed\\globaldata\\10-DeBiGa.csv':'market_cap'
+
+        }
+        mappa_da_fixare2={
+            'Project\\Dataset\\ClusterParsed\\cbinsights\\01-DDD.csv':'valuation',
+            'Project\\Dataset\\ClusterParsed\\globaldata\\10-DeBiGa.csv':'revenue'
+        }
+        
+        for k in mappa_da_fixare.keys():
+            path=k
+            field=mappa_da_fixare[k]
+            data=pd.read_csv(path)
+            data[field]=data[field].fillna(0)
+            data[field]=data[field].apply(fomrat_amount_error)
+            data=self.drop_not_needed_cols(data)
+            print(k,field)
+            print(data[field].head(1))
+            data.to_csv(path)
+            
+        for k in mappa_da_fixare2.keys():
+            path=k
+            field=mappa_da_fixare2[k]
+            data=pd.read_csv(path)
+            data[field]=data[field].fillna(0)
+            data[field]=data[field].apply(fomrat_amount_error)
+            data=self.drop_not_needed_cols(data)
+            print(k,field)
+            print(data[field].head(1))
+            data.to_csv(path)
 
     def parse_specific_values(self):
         
@@ -694,7 +737,9 @@ class Parser_data:
         #self.extract_data_valuetoday_03()
         #self.extract_data_valuetoday_04()
         #self.extract_data_valuetoday_08()
-        self.extract_data_valuetoday_07()
+        #self.extract_data_valuetoday_07()
+
+        self.parse_error_data()
 
 
 

@@ -1,1001 +1,1001 @@
 ,country,employees_2017,employees_2020,founding_year,name,revenue_2017,revenue_2020,sector
-0,finland,1,218.0,2016,swappie,"507,000",doll_97.61m,technology
-1,lithuania,10,177.0,2013,kilo health,"344,428",doll_57.32m,health
-2,uk,4,32.0,2012,oci,"4,325,512",doll_568.32m,financial services
-3,uk,4,800.0,2016,onlyfans,"2,652,185",doll_316.73m,technology
-4,germany,9,365.0,2017,enpal,"486,165",doll_56.11m,energy
-5,germany,2,9.0,2017,mr consulting,"150,908",doll_13.17m,waste management & recycling
-6,uk,12,57.0,2015,thriva,"251,668",doll_18.73m,health
-7,france,15,200.0,2015,exotec,"706,700",doll_47.6m,industrial goods
-8,italy,1,10.0,2015,winelivery,"111,500",doll_7.34m,ecommerce
-9,sweden,5,117.0,2015,instabox,"392,055",doll_24.48m,technology
-10,austria,12,180.0,2016,waterdrop,"680,197",doll_41.21m,food & beverage
-11,france,2,11.0,2016,one lease,"153,046",doll_9.02m,support services
-12,italy,13,251.0,2017,datlas*,"155,406",doll_9.03m,technology
-13,uk,36,224.0,2016,zego,"229,201",doll_12.16m,fintech
-14,germany,5,24.0,2017,hcl-logistics,"238,118",doll_11.39m,transport
-15,uk,4,34.0,2016,popsa,"454,975",doll_21.46m,technology
-16,switzerland,2,41.0,2017,unit8,"149,397",doll_7.23m,technology
-17,finland,6,49.0,2016,luoto company,"325,585",doll_14.34m,technology
-18,austria,9,29.0,2014,journi print,"160,624",doll_6.85m,ecommerce
-19,france,23,228.0,2017,portify,"274,575",doll_11.58m,support services
-20,norway,8,45.0,2015,tibber,"782,918",doll_30.89m,energy
-21,poland,6,18.0,2013,rascal industry,"238,451",doll_9.01m,fashion
-22,italy,20,509.0,2017,pegaso security,"207,120",doll_8.38m,support services
-23,uk,72,581.0,2016,tide,"416,562",doll_16.14m,fintech
-24,italy,1,1.0,2017,euro top brand,"363,010",doll_13.89m,retail
-25,uk,6,26.0,2011,bold security group,"181,772",doll_6.24m,support services
-26,norway,10,140.0,2013,play magnus group,"214,673",doll_6.46m,games industry
-27,uk,1,7.0,2016,blue whale growth fund,"170,950",doll_5.19m,financial services
-28,belgium,3,65.0,2016,kazidomi,"263,663",doll_8.04m,ecommerce
-29,latvia,90,800.0,2012,sun finance,"4,044,537",doll_121.31m,fintech
-30,italy,21,56.0,2015,credimi,"381,830",doll_11.3m,financial services
-31,germany,8,133.0,2017,sirplus,"155,043",doll_4.54m,retail
-32,the netherlands,6,31.0,2016,aihr | academy to innovate hr,"125,682",doll_3.58m,education
-33,luxembourg,9,27.0,2015,logistics capital partners (lcp),"7,403,458",doll_210.56m,property
-34,germany,2,10.0,2017,sã¼dwest invest,"210,820",doll_5.82m,property
-35,france,7,7.0,2000,corade (plurimmo),"2,039,961",doll_56.02m,property
-36,spain,4,5.0,2006,carranco,"155,310",doll_4.18m,food & beverage
-37,poland,10,50.0,2014,telemedi,"182,100",doll_4.45m,health
-38,germany,22,56.0,2014,inkitt,"229,713",doll_5.93m,technology
-39,italy,1,2.0,2016,h.k.trading,"225,380",doll_5.72m,retail
-40,uk,16,124.0,2015,attest,"194,090",doll_4.86m,technology
-41,france,na,11.0,2016,lgm immobilier,"101,311",doll_2.55m,property
-42,the netherlands,7,29.0,2017,wolfram chain*,"100,711",doll_2.43m,management consulting
-43,germany,3,38.0,2017,rightnow,"379,771",doll_8.95m,technology
-44,uk,7,63.0,2014,eo charging,"757,323",doll_17.16m,technology
-45,italy,2,9.0,2013,chetariffa.it,"110,200",doll_2.5m,support services
-46,uk,26,90.0,2017,simply,"744,092",doll_16.48m,financial services
-47,uk,24,187.0,2015,salary finance,"387,995",doll_8.59m,fintech
-48,sweden,2,10.0,2017,dbt,"179,204",doll_3.84m,fintech
-49,poland,15,140.0,2016,tutlo,"388,565",doll_7.78m,education
-50,france,4,27.0,2013,ponera,"1,186,853",doll_25.9m,ecommerce
-51,greece,0,2.0,2014,active energy solutions,"640,056",doll_13.31m,energy
-52,france,2,8.0,2012,acteam enr,"103,240",doll_2.13m,energy
-53,uk,8,70.0,2015,everflow,"3,188,715",doll_64.22m,technology
-54,uk,1,1.0,2016,azure prism,"238,216",doll_4.75m,retail
-55,germany,2,7.0,2017,wr logistics,"585,280",doll_11.66m,transport
-56,uk,14,61.0,2011,iproov,"376,519",doll_7.44m,technology
-57,italy,1,5.0,2017,spin up,"203,950",doll_4.01m,advertising
-58,germany,4,16.0,2012,begreat,"270,090",doll_5.14m,retail
-59,italy,2,17.0,2017,tsunami nutrition*,"369,000",doll_6.95m,ecommerce
-60,the netherlands,2,6.0,2016,matt sleeps,"535,070",doll_9.79m,interiors
-61,uk,28,138.0,2013,tessian,"858,482",doll_15.37m,technology
-62,germany,98,369.0,2016,solarisbank,"2,007,000",doll_35.94m,financial services
-63,france,2,21.0,2016,m2dg (myflexoffice),"375,323",doll_6.63m,support services
-64,italy,2,11.0,2004,eukon,"362,320",doll_6.39m,health
-65,italy,3,13.0,2016,evolution adv,"805,870",doll_14.18m,advertising
-66,spain,47,274.0,2001,making science,"3,306,795",doll_57.67m,technology
-67,italy,45,207.0,2014,everli,"6,287,460",doll_109.25m,ecommerce
-68,finland,12,73.0,2014,appfollow,"128,176",doll_2.21m,technology
-69,poland,40,190.0,2013,synerise,"255,062",doll_4.0m,technology
-70,poland,4,8.0,2010,chaikola,"330,763",doll_5.16m,food & beverage
-71,germany,4,12.0,2015,scolution,"107,492",doll_1.83m,technology
-72,france,3,15.0,2017,jl&p,"131,164",doll_2.21m,energy
-73,italy,8,50.0,2017,efarma.com,"1,199,580",doll_20.15m,pharmaceuticals
-74,uk,22,138.0,2013,elvie,"2,474,341",doll_40.81m,technology
-75,italy,1,5.0,2010,farmarelax,"270,750",doll_4.46m,personal & household goods
-76,uk,20,99.0,2008,omnisend,"742,746",doll_11.76m,technology
-77,italy,1,5.0,2017,world trade group,"314,150",doll_4.9m,fashion
-78,france,2,32.0,2016,besteam conseil,"249,176",doll_3.87m,technology
-79,uk,5,96.0,2016,motorway,"320,411",doll_4.84m,automobiles
-80,germany,0,26.0,2014,iso public services,"672,821",doll_10.02m,technology
-81,uk,106,918.0,2015,octopus energy,"145,398,192",doll_2120.07m,energy
-82,uk,8,82.0,2017,cyberiam*,"387,161",doll_5.64m,cyber security
-83,italy,2,17.0,2017,cbweed*,"245,000",doll_3.5m,personal & household goods
-84,portugal,18,46.0,2015,catraport,"518,613",doll_7.29m,automobiles
-85,france,13,106.0,2016,ouihelp,"262,421",doll_3.69m,support services
-86,denmark,33,67.0,2013,inpay,"1,702,000",doll_23.8m,fintech
-87,italy,4,10.0,2017,m.g.i. meccaniche generali irpine,"188,680",doll_2.61m,industrial goods
-88,uk,7,80.0,2016,glencar construction,"7,930,094",doll_107.86m,construction
-89,uk,9,23.0,2010,qmee,"925,527",doll_12.57m,technology
-90,italy,1,10.0,2015,myappfree,"422,420",doll_5.76m,advertising
-91,germany,8,55.0,2014,investa dienstleistungen,"159,707",doll_2.18m,support services
-92,sweden,19,58.0,2014,polarium energy solutions,"5,581,858",doll_74.07m,batteries
-93,italy,4,5.0,2016,baroni home,"113,072",doll_1.53m,ecommerce
-94,uk,6,45.0,2013,dayshape,"247,465",doll_3.32m,technology
-95,italy,3,8.0,2016,marketers company,"139,300",doll_1.88m,advertising
-96,spain,2,5.0,2017,easo magno,"228,076",doll_3.06m,beauty
-97,germany,1,10.0,2016,greyfood,"684,874",doll_9.19m,retail
-98,uk,3,9.0,2016,misfits health,"171,057",doll_2.27m,food & beverage
-99,france,1,5.0,2010,meilleursbiens.com,"291,481",doll_3.86m,property
-100,uk,5,36.0,2011,fasanara capital,"882,099",doll_11.53m,financial services
-101,cyprus,44,122.0,2015,ntechlab,"664,000",doll_8.73m,technology
-102,italy,2,5.0,2016,babylino sensitive,"217,460",doll_2.85m,personal & household goods
-103,the netherlands,24,54.0,2012,fastned,"530,667",doll_6.89m,technology
-104,portugal,2,6.0,2009,oxray,"427,339",doll_5.47m,health
-105,germany,3,4.0,2017,zega invest,"299,598",doll_3.79m,property
-106,hungary,2,7.0,2016,abylon consulting,"159,128",doll_1.72m,technology
-107,norway,20,77.0,2005,milrab,"6,753,191",doll_79.3m,ecommerce
-108,belgium,7,55.0,2015,urbantz,"242,368",doll_3.03m,technology
-109,uk,6,32.0,2017,tricas construction,"1,281,462",doll_15.88m,construction
-110,italy,6,10.0,2017,florence one,"131,691",doll_1.63m,technology
-111,germany,8,35.0,2014,ergotopia,"620,283",doll_7.66m,retail
-112,hungary,5,17.0,2011,mcule.com kft.,"252,713",doll_2.68m,chemicals & pharmaceuticals
-113,italy,9,18.0,2014,filo,"815,690",doll_10.05m,technology
-114,italy,4,11.0,2014,homepal,"130,290",doll_1.6m,property
-115,germany,55,310.0,2014,staffbase,"2,201,178",doll_26.89m,technology
-116,france,2,4.0,2016,ilon materiel,"207,327",doll_2.51m,construction
-117,ireland,7,25.0,2014,bio-marine,"133,200",doll_1.61m,personal & household goods
-118,france,2,18.0,2016,isodeco,"241,411",doll_2.91m,construction
-119,italy,18,42.0,2010,treedom,"560,150",doll_6.71m,support services
-120,germany,3,20.0,2016,fenstermaxx24,"712,855",doll_8.47m,retail
-121,germany,7,31.0,2017,pohl & sã¶hne gerã¼stbau,"180,824",doll_2.12m,construction
-122,france,3,13.0,2013,yso corp,"570,012",doll_6.69m,media
-123,italy,2,10.0,2017,gyada cosmetics,"156,130",doll_1.83m,beauty
-124,uk,47,190.0,2014,privitar,"855,321",doll_9.92m,technology
-125,uk,1,25.0,2015,delineate,"288,095",doll_3.33m,technology
-126,poland,75,563.0,2016,spyrosoft,"2,326,082",doll_24.72m,technology
-127,slovakia,6,37.0,2014,bio energy solutions,"1,383,205",doll_16.01m,waste management & recycling
-128,italy,2,51.0,2015,increso,"281,000",doll_3.23m,management consulting
-129,italy,1,46.0,2016,lsg - logistic & service group,"777,410",doll_8.87m,transport
-130,sweden,19,125.0,2015,energihem,"2,527,006",doll_28.0m,construction
-131,uk,48,164.0,2012,amity,"522,712",doll_5.74m,technology
-132,germany,4,43.0,2014,goyago,"337,525",doll_3.73m,retail
-133,france,23,140.0,2016,la regie de portage salarial,"692,440",doll_7.64m,support services
-134,denmark,5,15.0,2007,dall energy,"551,000",doll_6.01m,energy
-135,germany,5,44.0,2014,appinio,"330,500",doll_3.6m,technology
-136,italy,14,33.0,2015,pinsami,"455,000",doll_4.89m,food & beverage
-137,france,1,1.0,2013,aer trading,"1,643,572",doll_17.58m,retail
-138,france,1,4.0,2014,valumen,"205,554",doll_2.2m,support services
-139,france,4,14.0,2016,follow,"643,299",doll_6.84m,advertising
-140,germany,4,173.0,2016,darpdecade,"628,384",doll_6.62m,retail
-141,estonia,399,1798.0,2013,bolt,"21,098,843",doll_221.39m,technology
-142,italy,2,5.0,2014,kiteworldshop.com,"160,539",doll_1.67m,ecommerce
-143,germany,10,19.0,2006,peter kenkel,"2,131,000",doll_22.14m,retail
-144,denmark,32,292.0,2014,templafy,"1,521,010",doll_15.49m,technology
-145,italy,17,99.0,2014,comservice,"194,780",doll_2.02m,support services
-146,italy,1,5.0,2017,falcor presse,"291,720",doll_3.0m,industrial goods
-147,the netherlands,8,40.0,2017,roomraccoon,"167,000",doll_1.72m,technology
-148,spain,37,95.0,2013,signaturit,"552,355",doll_5.64m,technology
-149,uk,31,191.0,2015,modulr,"1,269,382",doll_12.79m,fintech
-150,germany,17,63.0,2012,profishop,"4,340,517",doll_43.81m,ecommerce
-151,the netherlands,2,15.0,2015,floer,"249,975",doll_2.52m,interiors
-152,italy,4,12.0,2011,audiosalus,"156,300",doll_1.57m,retail
-153,uk,2,26.0,2016,statsbomb,"204,620",doll_2.03m,technology
-154,italy,2,8.0,2013,theras biocare,"2,693,390",doll_26.63m,pharmaceuticals
-155,uk,32,61.0,2016,stenn,"3,058,141",doll_29.62m,fintech
-156,hungary,30,180.0,2012,nanushka,"2,456,563",doll_20.83m,fashion
-157,germany,10,60.0,2016,dpm - deutsches personal management,"230,800",doll_2.27m,support services
-158,uk,84,243.0,2013,monese,"1,870,109",doll_18.2m,fintech
-159,spain,40,288.0,2005,arquimea,"7,450,099",doll_72.04m,technology
-160,france,4,18.0,2013,groupe perspective,"280,390",doll_2.71m,education
-161,sweden,37,155.0,2014,funnel,"1,217,338",doll_11.5m,technology
-162,germany,5,49.0,2015,living quarter,"529,371",doll_5.02m,health
-163,sweden,38,287.0,2013,svea solar,"7,177,912",doll_66.15m,energy
-164,ireland,6,16.0,2016,bevcraft group,"429,505",doll_4.05m,food & beverage
-165,uk,767,932.0,2013,learning technologies group,"2,096,570",doll_19.45m,technology
-166,italy,2,9.0,2014,cura farma,"479,290",doll_4.44m,health
-167,lithuania,2,7.0,2013,kamado bono,"735,758",doll_6.8m,personal & household goods
-168,spain,3,47.0,2007,sipadan,"374,200",doll_3.46m,management consulting
-169,czech republic,18,45.0,2013,dateio,"530,785",doll_4.71m,fintech
-170,germany,4,16.0,2016,crest investment,"533,144",doll_4.86m,property
-171,italy,2,19.0,2017,componenti digitali,"308,810",doll_2.81m,retail
-172,germany,3,6.0,2006,immo-konzepte,"252,871",doll_2.27m,property
-173,denmark,3,41.0,2014,swipbox,"1,052,796",doll_9.39m,technology
-174,sweden,9,85.0,2015,nextory,"3,046,667",doll_26.53m,media
-175,poland,32,176.0,2016,itds polska,"1,057,443",doll_8.61m,technology
-176,italy,4,5.0,2015,savait,"237,410",doll_2.11m,ecommerce
-177,spain,3,18.0,2015,adpone,"1,255,372",doll_11.12m,advertising
-178,lithuania,350,1000.0,2012,nord security,"18,035,029",doll_156.62m,cyber security
-179,the netherlands,25,226.0,2012,mews,"2,531,000",doll_22.39m,technology
-180,spain,9,35.0,2015,titulae,"551,128",doll_4.87m,education
-181,ireland,5,40.0,2016,systeme.io,"273,552",doll_2.41m,ecommerce
-182,greece,20,30.0,2003,eodh sa,"299,988",doll_2.6m,aerospace & defence
-183,italy,2,5.0,2015,multix solutions,"1,340,430",doll_11.59m,health
-184,france,2,12.0,2016,b2digit,"228,982",doll_1.98m,technology
-185,uk,5,47.0,2015,a million ads,"570,564",doll_4.88m,advertising
-186,the netherlands,5,25.0,2013,woodwatch,"651,170",doll_5.59m,retail
-187,france,3,12.0,2010,fenãªtres du doubs,"262,280",doll_2.24m,construction
-188,germany,3,65.0,2016,koesea,"400,000",doll_3.4m,construction
-189,italy,14,38.0,2011,podium advanced technologies,"2,133,310",doll_18.03m,automobiles
-190,croatia,109,166.0,2010,spegra,"2,025,879",doll_17.06m,construction
-191,spain,18,117.0,2013,gpainnova,"1,815,680",doll_15.25m,industrial goods
-192,italy,4,23.0,2016,soluzione tasse,"2,264,940",doll_18.94m,management consulting
-193,germany,2,15.0,2016,velocultour,"295,731",doll_2.46m,retail
-194,hungary,2,7.0,2011,butorpiac.hu,"305,268",doll_2.18m,ecommerce
-195,czech republic,8,44.0,2016,success solutions,"327,218",doll_2.63m,technology
-196,denmark,1,1.0,1989,bug bite thing europe,"191,679",doll_1.58m,health
-197,estonia,4,24.0,2015,dexatel,"1,349,733",doll_11.09m,technology
-198,italy,1,6.0,2015,gemco,"481,510",doll_3.94m,construction
-199,france,,,2015,lyonnaise de construction et renovation,"812,371",doll_6.64m,construction
-200,uk,204,702.0,2012,gousto,"26,112,757",doll_210.95m,food & beverage
-201,uk,4,6.0,2010,winter in venice,"1,575,522",doll_12.68m,beauty
-202,germany,18,72.0,2007,infratech bau,"7,415,334",doll_60.07m,construction
-203,italy,3,46.0,2016,4streets building innovation tunnels bridges roads,"833,230",doll_6.74m,construction
-204,uk,31,95.0,2013,landbay,"1,119,178",doll_8.98m,fintech
-205,sweden,3,18.0,2012,degoo,"249,818",doll_1.97m,technology
-206,germany,52,320.0,2016,franco fresco,"6,280,267",doll_50.72m,food & beverage
-207,uk,25,84.0,2014,lendable,"5,026,349",doll_40.31m,fintech
-208,germany,2,6.0,2014,ulrich mã¼ller wealth academy,"440,369",doll_3.52m,education
-209,germany,19,84.0,2012,cerascreen,"1,315,000",doll_10.5m,health
-210,france,24,43.0,2011,eqinov,"8,811,708",doll_70.18m,energy
-211,italy,7,12.0,1996,serre famiglia pederiva viticoltori dal 1958,"1,134,730",doll_9.02m,food & beverage
-212,uk,68,170.0,2013,bloom & wild,"19,757,296",doll_155.6m,ecommerce
-213,germany,9,29.0,2016,brã¤utigam,"796,207",doll_6.32m,automobiles
-214,finland,1,7.0,2006,newil & bau,"2,448,858",doll_19.42m,construction
-215,spain,271,411.0,2015,id finance,"13,157,000",doll_103.63m,fintech
-216,sweden,74,600.0,2014,kry,"10,152,222",doll_77.76m,health
-217,italy,4,25.0,2015,sixth sense,"500,440",doll_3.92m,technology
-218,italy,7,19.0,2014,nethive,"506,730",doll_3.96m,cyber security
-219,uk,3,8.0,2016,latitude investment management,"225,964",doll_1.75m,financial services
-220,sweden,10,68.0,2015,qred,"3,989,355",doll_30.41m,fintech
-221,germany,15,55.0,2016,oculavis,"504,357",doll_3.92m,technology
-222,italy,5,30.0,2015,the information lab,"548,180",doll_4.25m,technology
-223,germany,6,10.0,2015,md sonnenschutztechnik,"524,750",doll_4.07m,construction
-224,croatia,7,43.0,2017,syntio,"274,966",doll_2.13m,technology
-225,denmark,3,13.0,2016,bomae,"214,713",doll_1.66m,financial services
-226,uk,6,18.0,2014,gophr,"755,191",doll_5.74m,technology
-227,germany,20,110.0,2012,memory pc,"7,522,000",doll_57.38m,retail
-228,germany,2,6.0,2017,sollis solargroãhandel,"1,556,607",doll_11.86m,retail
-229,greece,37,123.0,2015,spotawheel,"2,058,315",doll_15.65m,automobiles
-230,uk,18,83.0,2012,ooni pizza ovens,"8,508,398",doll_63.88m,personal & household goods
-231,germany,10,35.0,2015,robovox distributions,"2,570,000",doll_19.43m,retail
-232,uk,92,650.0,2000,centralnic group,"26,626,422",doll_197.26m,technology
-233,germany,16,83.0,2003,bernd andert transporte,"546,226",doll_4.11m,transport
-234,uk,16,18.0,2007,bluewater bio,"2,708,983",doll_20.2m,technology
-235,italy,25,107.0,2012,tecma solutions,"975,140",doll_7.32m,technology
-236,poland,21,48.0,2015,delante,"316,525",doll_2.16m,sales & marketing
-237,germany,8,15.0,2015,intumind,"884,885",doll_6.56m,health
-238,germany,10,15.0,2016,saljol,"559,778",doll_4.15m,health
-239,germany,9,20.0,2014,tkd solutions,"2,146,950",doll_15.87m,telecoms
-240,finland,5,15.0,2016,kuori,"340,000",doll_2.5m,technology
-241,sweden,21,42.0,2010,ferroamp,"1,062,649",doll_7.65m,energy
-242,uk,6,23.0,2016,valor real estate partners,"621,636",doll_4.53m,financial services
-243,france,2,14.0,2013,anexiti,"350,019",doll_2.57m,technology
-244,france,6,23.0,2017,genius,"330,522",doll_2.42m,support services
-245,italy,3,31.0,2015,instilla,"410,520",doll_2.99m,advertising
-246,spain,12,60.0,2012,footdistrict,"2,051,133",doll_14.94m,ecommerce
-247,sweden,12,36.0,2012,spiideo,"674,805",doll_4.8m,technology
-248,uk,14,118.0,2012,contractpodai,"670,685",doll_4.88m,technology
-249,germany,5,15.0,2017,tarhan bauausfã¼hrungen,"255,000",doll_1.85m,construction
-250,uk,44,218.0,2010,matillion,"3,417,815",doll_24.58m,technology
-251,germany,2,5.0,2017,extra mile live service,"364,485",doll_2.64m,retail
-252,france,17,173.0,2013,littlebig connection,"15,653,388",doll_111.54m,support services
-253,italy,15,50.0,2011,spc general service,"954,700",doll_6.79m,construction
-254,spain,156,801.0,2008,jobandtalent,"49,833,511",doll_352.88m,technology
-255,uk,14,20.0,2016,financial house,"2,669,247",doll_18.77m,fintech
-256,poland,8,42.0,2013,mylead,"309,471",doll_2.0m,sales & marketing
-257,italy,15,74.0,2016,mia-platform,"923,730",doll_6.52m,technology
-258,italy,20,32.0,1976,tecnimed,"1,354,980",doll_9.55m,health
-259,uk,5,22.0,2015,longevity partners,"335,460",doll_2.34m,retail
-260,italy,56,345.0,2015,nexumstp,"3,659,630",doll_25.67m,management consulting
-261,france,3,16.0,2016,g-on,"259,342",doll_1.81m,support services
-262,uk,3,10.0,2016,picnic,"219,999",doll_1.51m,advertising
-263,italy,2,36.0,2012,egomnia,"276,750",doll_1.9m,technology
-264,uk,10,40.0,2012,loyaltylion,"657,382",doll_4.48m,technology
-265,norway,22,142.0,2016,remarkable,"18,106,514",doll_115.79m,technology
-266,uk,119,673.0,2016,kubrick,"4,829,922",doll_32.61m,management consulting
-267,italy,7,35.0,2012,contrader,"688,860",doll_4.68m,technology
-268,germany,39,89.0,2008,samont,"2,880,891",doll_19.58m,industrial goods
-269,italy,1,5.0,2017,sirive,"667,170",doll_4.53m,construction
-270,spain,10,15.0,2014,multienergia verde,"21,640,253",doll_146.45m,energy
-271,belgium,1,6.0,2013,wielandts upmt,"226,295",doll_1.53m,technology
-272,sweden,4,13.0,2015,asket,"991,534",doll_6.53m,fashion
-273,czech republic,10,45.0,2015,central warehouse solution,"274,790",doll_1.79m,transport
-274,italy,2,21.0,2015,chef in camicia,"310,810",doll_2.07m,advertising
-275,uk,9,28.0,2015,piper homes,"4,601,266",doll_30.44m,construction
-276,spain,12,33.0,2014,alturas cubiertas y fachadas,"1,411,811",doll_9.38m,construction
-277,germany,2,11.0,2015,autosalon uhingen,"1,587,500",doll_10.54m,automobiles
-278,france,1,5.0,2013,yumi beauty,"404,819",doll_2.68m,chemicals & pharmaceuticals
-279,france,2,7.0,2016,for me lab,"251,795",doll_1.65m,ecommerce
-280,sweden,7,25.0,2015,stockholms elbolag,"5,033,032",doll_32.27m,energy
-281,germany,21,84.0,1999,flohr,"3,241,629",doll_21.25m,waste management & recycling
-282,italy,1,4.0,2008,agricodem,"436,610",doll_2.86m,agricultural commodities
-283,germany,14,80.0,2005,dach schutzbekleidung,"6,936,038",doll_45.23m,industrial goods
-284,germany,7,16.0,2017,em-tec energiemontagen,"461,000",doll_3.0m,construction
-285,romania,8,9.0,2014,wave studio,"656,172",doll_4.11m,technology
-286,croatia,3,17.0,2013,bazzar,"1,034,093",doll_6.69m,retail
-287,the netherlands,10,43.0,2015,cybersprint,"449,771",doll_2.91m,cyber security
-288,italy,19,34.0,2012,brandon group,"4,954,590",doll_32.04m,ecommerce
-289,germany,1,13.0,2014,feiniko handelsgesellschaft,"4,979,484",doll_32.17m,retail
-290,italy,2,21.0,2015,pharmagrin,"422,610",doll_2.7m,health
-291,czech republic,1,3.0,2016,life m,"322,050",doll_2.0m,technology
-292,portugal,5,16.0,2012,plã¡sticos dã£o / sacos & saquetas,"304,833",doll_1.95m,industrial goods
-293,germany,19,70.0,2010,logipal24,"789,058",doll_4.97m,transport
-294,the netherlands,23,22.0,2012,pastbook,"5,361,088",doll_33.65m,technology
-295,uk,6,21.0,2013,bluefin,"4,653,721",doll_28.99m,ecommerce
-296,uk,4,18.0,2016,milk & honey pr,"245,974",doll_1.53m,sales & marketing
-297,france,70,220.0,1990,prodeval,"11,756,712",doll_73.51m,energy
-298,finland,23,110.0,2013,virta,"1,765,457",doll_11.03m,technology
-299,italy,4,28.0,2015,bizaway,"318,940",doll_1.99m,travel & leisure
-300,france,2,6.0,2015,karl & lã©on,"385,266",doll_2.39m,retail
-301,uk,39,80.0,2001,identity,"3,733,539",doll_22.89m,management consulting
-302,hungary,4,55.0,2016,blackbelt holding,"923,000",doll_5.7m,technology
-303,france,1,13.0,2010,dynveo,"598,678",doll_3.69m,retail
-304,czech republic,7,29.0,2016,favi,"4,174,549",doll_25.0m,ecommerce
-305,finland,4,27.0,2016,hopkins,"737,936",doll_4.53m,sales & marketing
-306,italy,3,7.0,2016,ap italian luxury,"698,300",doll_4.28m,fashion
-307,uk,20,45.0,2015,novicap,"551,848",doll_3.38m,fintech
-308,italy,1,5.0,2013,iglm store,"1,277,410",doll_7.79m,ecommerce
-309,germany,8,41.0,1999,luis technology,"1,644,899",doll_10.0m,technology
-310,uk,55,275.0,2016,quantexa,"5,643,295",doll_33.9m,fintech
-311,italy,9,37.0,2014,enerbrain,"685,370",doll_4.13m,energy
-312,germany,7,28.0,2013,brinckmann,"1,002,579",doll_6.04m,construction
-313,italy,6,12.0,1982,lmg building,"1,043,440",doll_6.26m,construction
-314,norway,12,33.0,2013,nordic unmanned,"1,122,907",doll_6.31m,aerospace & defence
-315,france,2,6.0,2017,hemisphere,"1,091,925",doll_6.48m,property
-316,germany,23,87.0,2017,therapiezentrum.com nw,"492,860",doll_2.92m,health
-317,uk,39,82.0,2010,beauhurst,"916,511",doll_5.36m,technology
-318,romania,43,49.0,2017,c.u.n. cargo carriers,"1,207,613",doll_7.1m,transport
-319,italy,23,34.0,2016,mg project,"1,396,400",doll_8.21m,telecoms
-320,germany,3,6.0,2015,bonmea,"2,484,783",doll_14.6m,retail
-321,italy,2,6.0,2007,oceanis yachts,"521,250",doll_3.06m,travel & leisure
-322,france,2,8.0,2016,opus db,"2,076,139",doll_12.17m,construction
-323,france,9,27.0,2013,devensys cybersecurity,"580,644",doll_3.4m,technology
-324,cyprus,25,104.0,2016,project agora,"3,380,420",doll_19.8m,advertising
-325,germany,5,19.0,2012,bettertrust,"853,561",doll_4.98m,advertising
-326,italy,3,10.0,2014,banale,"352,000",doll_2.05m,ecommerce
-327,the netherlands,5,17.0,2013,maatwerk online,"287,985",doll_1.67m,sales & marketing
-328,france,1,6.0,2011,les constructeurs du bois,"877,275",doll_5.09m,property
-329,italy,6,10.0,2013,esserre pharma,"441,260",doll_2.56m,pharmaceuticals
-330,uk,8,18.0,2014,onbuy.com,"473,344",doll_2.72m,ecommerce
-331,france,27,108.0,2015,gojob,"7,007,000",doll_40.55m,support services
-332,germany,6,10.0,2016,newroom,"638,739",doll_3.67m,retail
-333,italy,3,9.0,2016,christmas the original,"347,190",doll_1.99m,retail
-334,germany,5,16.0,2016,dimaxbau,"349,641",doll_2.0m,construction
-335,germany,2,9.0,2013,comnovis it,"332,372",doll_1.9m,technology
-336,germany,4,8.0,2016,die direktkontakter,"493,000",doll_2.82m,support services
-337,italy,30,400.0,2010,mega trasporti,"3,185,180",doll_18.17m,transport
-338,france,9,40.0,2014,lehibou,"2,423,113",doll_13.82m,technology
-339,italy,3,13.0,2014,stufe a pellet italia,"631,500",doll_3.6m,interiors
-340,uk,31,46.0,2012,aquis exchange,"2,267,165",doll_12.82m,financial services
-341,uk,8,50.0,2015,chattermill,"408,336",doll_2.31m,technology
-342,germany,10,45.0,2016,schã¶nertel,"2,884,392",doll_16.39m,construction
-343,italy,8,57.0,2011,global work,"558,820",doll_3.17m,telecoms
-344,germany,1,9.0,2012,allygatr,"338,300",doll_1.91m,support services
-345,uk,3,14.0,2013,cru wine,"1,644,134",doll_9.24m,food & beverage
-346,italy,5,8.0,2004,abc rent,"3,878,370",doll_21.82m,automobiles
-347,uk,20,57.0,2011,superior wellness,"9,719,653",doll_54.15m,personal & household goods
-348,austria,3,12.0,2016,schrott24,"2,610,679",doll_14.64m,waste management & recycling
-349,italy,3,14.0,2017,mazzoni etech,"419,240",doll_2.34m,industrial goods
-350,france,4,6.0,1996,berdugo immobilier,"2,696,485",doll_15.05m,property
-351,lithuania,9,37.0,2016,nova rent,"1,600,000",doll_8.9m,industrial goods
-352,czech republic,13,38.0,2013,rouvy,"751,071",doll_4.06m,games industry
-353,italy,3,4.0,2015,business analysis & legal expertise - b.a.l.e.,"532,690",doll_2.94m,management consulting
-354,poland,172,381.0,2000,jmb,"12,709,000",doll_70.18m,energy
-355,france,2,13.0,2016,nocnoc,"289,766",doll_1.6m,travel & leisure
-356,uk,5,33.0,2013,crowdproperty,"539,486",doll_2.94m,fintech
-357,france,4,42.0,2015,tutosâme,"910,963",doll_4.99m,education
-358,italy,4,10.0,2011,studio ekoâ,"318,370",doll_1.74m,management consulting
-359,uk,2,7.0,2010,beings,"348,129",doll_1.88m,technology
-360,poland,3,6.0,2013,dmrgroupltd.com,"1,418,769",doll_7.05m,chemicals & pharmaceuticals
-361,uk,35,119.0,2014,ice telecommunications ltd,"2,982,238",doll_16.07m,telecoms
-362,italy,18,95.0,2012,gallas group,"856,790",doll_4.64m,support services
-363,italy,4,10.0,2010,etracom,"4,253,600",doll_22.95m,ecommerce
-364,uk,38,88.0,2015,xalient,"4,893,654",doll_26.2m,technology
-365,italy,5,,2009,labevolution,"1,349,250",doll_7.26m,health
-366,italy,9,20.0,2015,kuadra,"635,400",doll_3.4m,interiors
-367,spain,3,8.0,2014,kyo electric,"1,013,181",doll_5.4m,telecoms
-368,uk,13,32.0,2012,sopost,"1,481,398",doll_7.83m,technology
-369,italy,7,44.0,2016,s.f.r.e.,"564,910",doll_3.0m,construction
-370,germany,60,262.0,2012,sportstech,"20,436,426",doll_108.5m,retail
-371,france,40,98.0,2014,opã©ra energie,"2,127,151",doll_11.22m,energy
-372,uk,28,76.0,2010,routenote,"7,339,330",doll_38.43m,technology
-373,uk,26,40.0,2016,doctify,"461,671",doll_2.41m,health
-374,uk,30,67.0,2008,fruugo,"4,176,347",doll_21.79m,ecommerce
-375,germany,7,15.0,2012,insidemarketing,"569,646",doll_2.97m,technology
-376,italy,2,11.0,2013,falzi,"391,540",doll_2.04m,waste management & recycling
-377,spain,62,504.0,2015,atrys health,"6,035,116",doll_31.4m,health
-378,italy,1,4.0,2016,il cantiere costruzioni,"826,430",doll_4.3m,construction
-379,germany,13,22.0,2004,soorce,"3,013,629",doll_15.64m,support services
-380,belgium,26,85.0,2013,sortlist,"655,000",doll_3.4m,technology
-381,poland,90,234.0,2010,virtuslab,"2,635,420",doll_12.47m,technology
-382,sweden,5,16.0,2012,skalhuset.se,"1,454,711",doll_7.34m,ecommerce
-383,germany,6,26.0,2013,vipino,"2,148,122",doll_11.07m,retail
-384,italy,30,133.0,2015,gea service,"1,304,060",doll_6.67m,waste management & recycling
-385,italy,12,62.0,2016,gellify,"1,090,920",doll_5.58m,technology
-386,uk,42,92.0,2014,billion dollar boy,"2,577,297",doll_13.09m,advertising
-387,italy,19,58.0,2014,westrafo,"4,356,500",doll_22.07m,energy
-388,the netherlands,10,21.0,2015,goboony,"340,309",doll_1.72m,travel & leisure
-389,italy,60,180.0,2016,multiservice ambrosiana,"846,360",doll_4.27m,support services
-390,germany,16,65.0,2016,b&c systems,"1,061,327",doll_5.34m,construction
-391,bulgaria,31,10.0,2014,s&g solar,"792,093",doll_3.98m,energy
-392,romania,40,120.0,2007,bittnet,"4,641,712",doll_22.44m,management consulting
-393,belgium,47,204.0,2013,ibanfirst,"2,408,187",doll_12.06m,fintech
-394,germany,20,46.0,2013,uplink network,"5,629,906",doll_28.14m,telecoms
-395,france,6,25.0,2015,base organic food,"2,163,006",doll_10.8m,agricultural commodities
-396,uk,20,74.0,2009,currentbody,"7,671,961",doll_38.0m,ecommerce
-397,uk,1,6.0,2016,apex aero,"770,031",doll_3.81m,aerospace & defence
-398,poland,25,59.0,2016,startup development house,"303,615",doll_1.51m,technology
-399,italy,8,806.0,2010,gruppo gheron,"11,728,040",doll_58.42m,health
-400,italy,5,30.0,2016,dyflowing,"341,370",doll_1.7m,technology
-401,germany,22,40.0,2016,digital masters,"608,053",doll_3.02m,advertising
-402,germany,3,17.0,2017,prusseit auto-outlet,"520,998",doll_2.58m,automobiles
-403,norway,30,72.0,2002,techouse,"6,863,940",doll_31.85m,energy
-404,italy,3,8.0,2016,svs,"1,965,560",doll_9.69m,construction
-405,uk,18,86.0,2017,telcoswitch group,"1,543,824",doll_7.52m,telecoms
-406,germany,3,8.0,2017,bothe-reimann tortechnik,"464,354",doll_2.28m,construction
-407,italy,8,12.0,2012,e-pol / personalizzalo,"3,284,400",doll_16.09m,ecommerce
-408,spain,3,18.0,2016,riluxa,"700,007",doll_3.43m,interiors
-409,france,6,8.0,2002,modalis,"3,915,724",doll_19.17m,transport
-410,france,8,27.0,2016,olympp,"1,127,652",doll_5.51m,technology
-411,germany,4,25.0,2013,zeck fishing,"1,401,463",doll_6.81m,retail
-412,bulgaria,16,25.0,2011,storpool storage,"681,460",doll_3.31m,technology
-413,germany,72,164.0,2013,vimcar,"3,035,269",doll_14.67m,technology
-414,france,5,8.0,2011,joannes distribution sas,"1,468,200",doll_7.06m,retail
-415,france,8,30.0,2011,sourcing force,"2,663,699",doll_12.81m,technology
-416,germany,16,60.0,2000,schalttechnik nord,"2,601,157",doll_12.49m,technology
-417,germany,5,27.0,2015,dgc,"329,298",doll_1.58m,cyber security
-418,france,28,202.0,2013,superprof,"2,136,626",doll_10.17m,education
-419,uk,12,48.0,2011,improveasy,"5,602,132",doll_26.45m,management consulting
-420,france,8,30.0,2014,viarã©no,"1,459,655",doll_6.94m,construction
-421,slovakia,10,19.0,2013,cmt,"411,858",doll_1.95m,waste management & recycling
-422,poland,31,97.0,2014,rets,"1,201,964",doll_5.21m,property
-423,uk,33,104.0,2007,mubi,"3,954,351",doll_18.36m,media
-424,italy,3,27.0,2001,dynamicom education,"1,906,790",doll_9.02m,education
-425,slovakia,25,47.0,2015,touch4it,"437,747",doll_2.06m,technology
-426,italy,4,8.0,1986,tattahome.com,"595,800",doll_2.8m,interiors
-427,uk,37,90.0,2006,speechmatics,"1,541,070",doll_7.16m,technology
-428,spain,20,118.0,2012,samy road,"4,163,750",doll_19.46m,advertising
-429,italy,6,9.0,2006,prometeo,"766,510",doll_3.58m,support services
-430,uk,65,260.0,2015,dialectica,"3,688,264",doll_17.08m,management consulting
-431,uk,32,62.0,2009,wolf & badger,"2,508,842",doll_11.6m,ecommerce
-432,france,28,94.0,2009,eco co2,"1,982,251",doll_9.22m,support services
-433,hungary,3,20.0,2011,lakã³gã©p kft.,"6,328,462",doll_25.34m,construction
-434,germany,9,20.0,2017,beyer betonwaren,"443,694",doll_2.06m,construction
-435,france,12,42.0,2011,fill up mã©dia,"1,081,079",doll_5.0m,media
-436,italy,4,6.0,1984,zara imballaggi fabriano,"496,790",doll_2.3m,industrial goods
-437,poland,744,1177.0,1994,cd projekt,"110,835,763",doll_468.26m,games industry
-438,germany,1,10.0,2015,vpace bikes,"573,145",doll_2.64m,retail
-439,spain,0,6.0,2014,tooltester,"790,712",doll_3.65m,sales & marketing
-440,estonia,2,7.0,2015,bunker partner,"22,060,642",doll_101.73m,energy
-441,france,40,130.0,2006,tikamoon,"12,200,275",doll_56.12m,ecommerce
-442,croatia,10,8.0,2013,s.t.a.r. digital,"699,907",doll_3.21m,advertising
-443,uk,29,62.0,2011,funding options,"1,297,717",doll_5.92m,fintech
-444,italy,8,14.0,2014,isimed,"1,050,660",doll_4.83m,health
-445,switzerland,50,195.0,2008,"sonar, sonarqube, sonarcloud, sonarlint","16,861,349",doll_83.63m,technology
-446,germany,4,30.0,2016,scherer,"934,994",doll_4.29m,support services
-447,italy,14,24.0,2002,mycroclean italia,"736,000",doll_3.37m,support services
-448,italy,8,16.0,2015,piscor,"1,061,360",doll_4.84m,ecommerce
-449,italy,1,3.0,2016,marwincar,"1,114,200",doll_5.08m,automobiles
-450,uk,288,1038.0,1993,brighton & hove albion football club,"32,824,451",doll_148.51m,travel & leisure
-451,bulgaria,5,60.0,2015,inpe transport,"398,676",doll_1.82m,transport
-452,poland,266,773.0,2013,rtb house,"45,981,552",doll_191.6m,technology
-453,france,27,38.0,2010,obiz,"3,389,300",doll_15.38m,media
-454,italy,33,70.0,2012,vmway,"3,525,720",doll_15.9m,technology
-455,poland,8,12.0,2009,legimi,"1,698,358",doll_7.01m,media
-456,germany,5,11.0,2011,msg beauty,"645,633",doll_2.91m,retail
-457,germany,4,11.0,2014,leogra trading,"1,128,243",doll_5.08m,retail
-458,italy,10,32.0,2012,benefind,"505,520",doll_2.26m,technology
-459,italy,5,13.0,2017,ab oil & gas service,"516,640",doll_2.31m,support services
-460,spain,14,23.0,2013,mailtrack,"775,341",doll_3.45m,technology
-461,uk,15,33.0,2013,bumper,"771,504",doll_3.39m,fintech
-462,germany,22,46.0,2015,otl - online trainer,"1,492,190",doll_6.61m,health
-463,italy,9,17.0,2014,macingo technologies,"361,790",doll_1.6m,support services
-464,germany,120,210.0,2014,mycs,"8,935,361",doll_39.36m,retail
-465,germany,23,92.0,2008,audience serv,"1,389,534",doll_6.11m,advertising
-466,italy,4,8.0,2012,start,"857,590",doll_3.77m,telecoms
-467,the netherlands,8,29.0,2010,mvh media,"544,943",doll_2.39m,sales & marketing
-468,france,1,2.0,2010,pure gaming,"1,593,667",doll_6.98m,ecommerce
-469,uk,4,8.0,1998,parcel compare,"2,091,995",doll_9.09m,transport
-470,italy,71,81.0,1979,ames centro polidiagnostico strumentale,"9,235,130",doll_40.39m,health
-471,italy,1,6.0,2016,arcadia italia,"743,130",doll_3.25m,energy
-472,uk,16,43.0,2016,zia lucia,"1,119,494",doll_4.85m,restaurants
-473,italy,16,37.0,1952,travaglini costruzioni,"1,062,010",doll_4.6m,construction
-474,spain,10,81.0,2008,versa design zycle,"2,199,640",doll_9.5m,technology
-475,germany,5,15.0,2016,maucher consult,"452,091",doll_1.95m,construction
-476,italy,51,137.0,2015,ayes,"2,510,930",doll_10.83m,technology
-477,italy,1,5.0,2016,brandup group,"630,660",doll_2.72m,advertising
-478,italy,11,19.0,2012,opyn,"969,930",doll_4.17m,financial services
-479,uk,4,8.0,2014,var capital,"499,815",doll_2.13m,financial services
-480,uk,9,25.0,2017,storyterrace,"667,467",doll_2.84m,technology
-481,slovenia,8,22.0,2009,blubit,"691,140",doll_2.96m,technology
-482,france,9,9.0,2014,zenâup,"441,271",doll_1.89m,insurance
-483,germany,17,25.0,2001,lã¶rcher bauunternehmen,"917,735",doll_3.93m,construction
-484,the netherlands,23,62.0,2010,barcode architects,"1,134,256",doll_4.85m,architecture
-485,france,9,27.0,2002,top chaleur,"1,702,165",doll_7.26m,retail
-486,italy,52,160.0,1999,seingim,"3,163,540",doll_13.48m,construction
-487,uk,21,49.0,2008,amphibian scaffolding,"948,813",doll_4.01m,construction
-488,liechtenstein,205,551.0,2009,beliani,"20,298,288",doll_93.44m,ecommerce
-489,sweden,17,45.0,2011,hatstore,"4,195,789",doll_17.45m,ecommerce
-490,italy,19,27.0,2006,carpenteria martino,"2,286,000",doll_9.72m,construction
-491,uk,61,147.0,2012,capitalontap,"19,489,369",doll_82.24m,fintech
-492,poland,199,637.0,2008,netguru,"8,933,769",doll_34.68m,technology
-493,italy,6,7.0,2014,fazio,"799,170",doll_3.38m,retail
-494,germany,37,84.0,2010,grillfã¼rst,"9,145,411",doll_38.6m,retail
-495,italy,14,18.0,2017,dealernet,"5,394,020",doll_22.7m,automobiles
-496,germany,14,57.0,2013,alpha real estate,"28,378,990",doll_119.16m,property
-497,belgium,12,74.0,2013,appwise,"1,084,812",doll_4.55m,technology
-498,greece,17,55.0,2014,convert group,"666,118",doll_2.79m,technology
-499,sweden,17,65.0,2013,revolution race,"21,841,341",doll_89.33m,ecommerce
-500,france,11,40.0,2009,gong galaxy,"2,708,258",doll_11.32m,retail
-501,italy,8,8.0,2011,gdr costruzioni,"376,440",doll_1.57m,construction
-502,italy,1,4.0,2015,emporio elettrico,"473,640",doll_1.98m,ecommerce
-503,uk,15,87.0,2012,exscientia ai,"2,606,296",doll_10.81m,technology
-504,uk,128,324.0,2005,featurespace,"5,688,822",doll_23.5m,fintech
-505,france,3,11.0,2016,xl energies,"2,013,403",doll_8.36m,energy
-506,spain,20,43.0,2015,claveria,"1,137,450",doll_4.72m,support services
-507,germany,3,4.0,2010,timberagents,"1,280,989",doll_5.3m,retail
-508,france,2,30.0,2012,fermeture econâhome,"451,196",doll_1.86m,construction
-509,sweden,20,70.0,2014,nrse,"815,449",doll_3.27m,management consulting
-510,germany,16,21.0,2011,simwert,"6,450,759",doll_26.39m,telecoms
-511,uk,2,24.0,2015,flex legal,"1,064,498",doll_4.32m,law
-512,norway,15,41.0,2010,documaster,"868,552",doll_3.33m,technology
-513,germany,1,4.0,2014,immo-team allgã¤u,"5,381,108",doll_21.97m,construction
-514,germany,17,57.0,2014,creditshelf,"1,201,900",doll_4.9m,financial services
-515,italy,7,10.0,2016,blife,"1,016,480",doll_4.13m,food & beverage
-516,italy,9,18.0,2004,nohup,"1,177,860",doll_4.79m,technology
-517,poland,17,56.0,2012,noctuai,"657,377",doll_2.44m,technology
-518,germany,47,96.0,2013,ares,"3,450,000",doll_14.0m,industrial goods
-519,uk,242,399.0,2000,moonpig group,"102,139,979",doll_411.39m,ecommerce
-520,uk,15,22.0,2016,wealth club,"1,685,348",doll_6.77m,financial services
-521,france,4,25.0,2016,factory,"3,119,000",doll_12.61m,property
-522,spain,2,6.0,2016,beck ingredients,"1,865,319",doll_7.53m,health
-523,hungary,3,3.0,2010,mentors & partners group,"524,552",doll_1.82m,management consulting
-524,the netherlands,4,9.0,2011,sb supply,"1,081,844",doll_4.36m,ecommerce
-525,czech republic,8,24.0,2015,mediaboard,"572,798",doll_2.24m,media
-526,france,20,80.0,2012,dw trans,"2,357,096",doll_9.49m,transport
-527,france,2,4.0,2006,nacelexpert,"679,247",doll_2.73m,industrial goods
-528,germany,14,31.0,2015,keylight,"871,779",doll_3.5m,technology
-529,italy,3,13.0,2011,technacy,"762,200",doll_3.06m,technology
-530,france,12,25.0,2011,genoskin,"700,823",doll_2.81m,chemicals & pharmaceuticals
-531,uk,12,21.0,2013,payment assist,"1,518,678",doll_5.99m,fintech
-532,germany,14,65.0,2013,my boo,"1,184,000",doll_4.71m,retail
-533,sweden,11,25.0,2012,84codes.com,"3,118,698",doll_12.12m,technology
-534,germany,6,20.0,2013,klg liquida,"1,267,224",doll_5.03m,chemicals & pharmaceuticals
-535,france,8,35.0,2011,ignimission,"574,323",doll_2.28m,technology
-536,italy,4,7.0,2013,adamant bionrg,"29,718,000",doll_118.0m,energy
-537,uk,2,5.0,2015,xplort,"571,513",doll_2.25m,interiors
-538,uk,7,12.0,2010,bambridge accountants,"855,283",doll_3.37m,financial services
-539,slovakia,7,13.0,2016,g2park,"732,924",doll_2.9m,property
-540,italy,2,5.0,2014,pelizzari studio,"663,100",doll_2.63m,architecture
-541,the netherlands,4,9.0,2014,postex,"1,334,213",doll_5.25m,technology
-542,italy,5,5.0,2013,consorzio stabile ambientemilia,"2,492,730",doll_9.75m,waste management & recycling
-543,italy,6,12.0,2016,yocabeâ,"842,600",doll_3.29m,ecommerce
-544,france,19,33.0,2012,chez nestor,"2,189,720",doll_8.56m,property
-545,italy,2,9.0,2016,mint italia,"621,500",doll_2.42m,transport
-546,the netherlands,27,233.0,2012,sendcloud,"21,052,232",doll_81.78m,ecommerce
-547,italy,6,10.0,2008,datakey software engineering,"488,940",doll_1.9m,technology
-548,romania,21,41.0,2015,metaminds,"8,605,113",doll_32.1m,cyber security
-549,italy,11,29.0,2012,time vision,"721,090",doll_2.79m,education
-550,germany,16,36.0,2013,werksrã¤der24,"3,847,000",doll_14.9m,automobiles
-551,uk,35,70.0,2008,fod mobility group,"3,465,675",doll_13.31m,technology
-552,italy,10,60.0,2007,selferg,"531,960",doll_2.05m,energy
-553,lithuania,45,94.0,2012,poppri fashion auctions,"3,386,414",doll_13.03m,ecommerce
-554,uk,156,194.0,2008,vizion network,"30,862,156",doll_117.82m,automobiles
-555,uk,27,66.0,2017,beyond law group*,"2,159,010",doll_8.23m,law
-556,germany,13,14.0,2014,eda warehousing,"1,190,000",doll_4.57m,transport
-557,germany,45,90.0,2013,bpv,"5,923,571",doll_22.7m,telecoms
-558,france,29,81.0,2013,ultra premium direct,"5,422,583",doll_20.78m,agricultural commodities
-559,spain,12,24.0,2013,afr-ix telecom,"2,593,649",doll_9.93m,telecoms
-560,poland,28,44.0,2010,blue energy,"1,293,181",doll_4.53m,cyber security
-561,france,5,15.0,2013,câjuste paris,"628,388",doll_2.4m,retail
-562,france,13,44.0,2007,sos-accessoire,"3,848,262",doll_14.69m,ecommerce
-563,germany,18,27.0,2017,hannes kã¶nig,"2,295,632",doll_8.75m,construction
-564,germany,6,9.0,2007,zanatta media group,"2,202,906",doll_8.38m,advertising
-565,uk,18,20.0,1997,wastepack,"5,924,389",doll_22.37m,waste management & recycling
-566,italy,7,17.0,2010,radar consulting italia,"416,960",doll_1.58m,support services
-567,france,32,53.0,2014,agriconomie,"9,838,779",doll_37.25m,agricultural commodities
-568,spain,187,364.0,2014,anytech365,"4,985,758",doll_18.74m,technology
-569,uk,4,12.0,2013,cladspray solutions,"499,484",doll_1.86m,construction
-570,france,10,50.0,2015,im global partner,"8,392,541",doll_31.46m,financial services
-571,italy,2,6.0,1983,confinvest,"10,982,110",doll_41.13m,precious metals
-572,france,2,3.0,2012,ethic technology,"2,229,273",doll_8.34m,technology
-573,italy,6,7.0,2001,bomax,"19,088,830",doll_71.29m,telecoms
-574,germany,4,15.0,2017,kk-trade,"1,174,770",doll_4.38m,retail
-575,germany,4,26.0,2015,marsapet,"1,061,642",doll_3.96m,retail
-576,italy,8,16.0,2015,gruppo tera,"5,428,300",doll_20.22m,ecommerce
-577,italy,7,14.0,2009,codiceplastico,"824,450",doll_3.07m,technology
-578,romania,185,426.0,2005,tremend,"5,772,716",doll_20.68m,technology
-579,spain,17,61.0,2010,doofinder,"1,771,758",doll_6.59m,technology
-580,lithuania,80,780.0,2004,hostinger,"6,955,394",doll_25.86m,technology
-581,switzerland,9,39.0,2013,catalyx,"1,627,160",doll_6.54m,sales & marketing
-582,bulgaria,6,9.0,2016,harness code,"599,612",doll_2.22m,sales & marketing
-583,italy,5,17.0,2014,nanoprom chemicals,"749,940",doll_2.78m,chemicals & pharmaceuticals
-584,spain,27,49.0,2012,elite,"2,716,240",doll_10.06m,construction
-585,poland,26,119.0,2012,appunite,"1,310,532",doll_4.42m,technology
-586,france,2,7.0,2006,eskalia et nakupenda,"410,775",doll_1.52m,retail
-587,germany,3,12.0,2006,lgx logistics,"2,191,733",doll_8.07m,transport
-588,portugal,11,22.0,2015,polipop,"910,392",doll_3.35m,industrial goods
-589,italy,1,10.0,2016,stampasi,"691,110",doll_2.54m,ecommerce
-590,italy,45,67.0,1984,cam,"3,336,600",doll_12.28m,industrial goods
-591,france,12,37.0,2012,plug in digital,"3,743,740",doll_13.77m,media
-592,poland,82,241.0,2009,predica,"5,233,937",doll_17.59m,technology
-593,spain,2,19.0,2009,ocean transport,"1,304,073",doll_4.78m,transport
-594,uk,103,75.0,1997,serinus,"5,474,802",doll_19.65m,energy
-595,germany,20,50.0,2009,demv deutscher maklerverbund,"1,375,943",doll_5.01m,financial services
-596,spain,53,221.0,1996,sti norland,"54,990,779",doll_199.82m,energy
-597,germany,27,76.0,2011,hd elektrotechnik,"1,158,042",doll_4.21m,technology
-598,italy,1,9.0,2017,engenie group,"558,480",doll_2.03m,technology
-599,france,25,64.0,2016,groupe n.a.t,"1,156,596",doll_4.18m,support services
-600,italy,2,5.0,2015,la sarraz pictures,"419,430",doll_1.51m,media
-601,germany,5,9.0,2016,smart-planet,"1,276,483",doll_4.6m,retail
-602,italy,8,49.0,2015,sidea group,"674,560",doll_2.43m,management consulting
-603,france,5,17.0,2004,couteaujaponais.com,"1,272,558",doll_4.58m,retail
-604,france,20,58.0,2010,physidia,"4,656,191",doll_16.75m,health
-605,germany,2,3.0,2013,horando deutschland,"2,257,390",doll_8.11m,retail
-606,poland,22,79.0,2004,"diablochairs, jan nowak","6,549,376",doll_21.52m,ecommerce
-607,sweden,16,28.0,2011,parkster,"15,711,602",doll_55.14m,technology
-608,france,5,13.0,2015,biotyfull,"5,642,145",doll_20.25m,ecommerce
-609,spain,14,51.0,2014,bioksan,"1,650,756",doll_5.91m,food & beverage
-610,norway,37,118.0,1999,trippel,"910,070",doll_3.06m,support services
-611,uk,15,32.0,2013,yourparkingspace limited,"3,904,618",doll_13.86m,technology
-612,france,1,35.0,2012,carslift,"622,989",doll_2.23m,automobiles
-613,germany,5,11.0,2009,zimmerei nordmann,"580,537",doll_2.07m,construction
-614,germany,20,40.0,2015,si silicone innovation,"1,018,843",doll_3.64m,industrial goods
-615,germany,8,12.0,2010,a.u.e. genc warenhandels-ug,"5,573,000",doll_19.89m,retail
-616,italy,10,18.0,2010,mgvision,"1,127,170",doll_4.01m,advertising
-617,italy,13,26.0,2015,new general service,"433,540",doll_1.54m,support services
-618,france,15,41.0,2010,andre renovation,"3,266,703",doll_11.59m,construction
-619,italy,10,14.0,2017,m.d.g. components unipersonale,"644,440",doll_2.28m,industrial goods
-620,bulgaria,5,22.0,2011,amco-bulgaria,"1,778,274",doll_6.3m,retail
-621,uk,16,39.0,2005,symprove,"3,498,275",doll_12.3m,personal & household goods
-622,uk,10,22.0,2015,tecknuovo,"7,477,852",doll_26.27m,technology
-623,france,62,217.0,2010,platform.sh,"6,242,232",doll_22.08m,technology
-624,germany,5,46.0,2011,isg express logistik,"1,646,307",doll_5.82m,transport
-625,italy,55,173.0,2008,manelli impresa,"12,259,540",doll_43.36m,construction
-626,portugal,22,53.0,2009,sa formaã§ã£o,"1,031,733",doll_3.65m,education
-627,germany,3,14.0,2015,sm sektmanufaktur,"681,652",doll_2.41m,industrial goods
-628,germany,8,31.0,2011,beauty consult deutschland,"1,055,100",doll_3.73m,health
-629,italy,5,8.0,1977,finauto,"3,350,270",doll_11.79m,automobiles
-630,france,18,21.0,2009,aucoffre.com,"32,428,296",doll_114.04m,financial services
-631,uk,37,46.0,2014,divido,"1,084,616",doll_3.79m,fintech
-632,germany,6,17.0,2016,r&k ingenieure,"1,482,100",doll_5.21m,construction
-633,uk,11,25.0,2011,nephos technologies,"5,031,697",doll_17.56m,technology
-634,uk,8,15.0,2002,la vida,"2,178,629",doll_7.57m,support services
-635,uk,4,12.0,2012,midstream lighting,"2,363,526",doll_8.2m,technology
-636,france,2,2.0,2014,propulse it,"1,809,858",doll_6.33m,technology
-637,spain,25,30.0,2012,additius santa maria,"9,100,083",doll_31.76m,agricultural commodities
-638,france,3,15.0,2017,conexio telecom,"547,084",doll_1.91m,telecoms
-639,germany,5,9.0,2012,tripin,"1,568,506",doll_5.47m,retail
-640,hungary,4,9.0,1996,continental wood kft.,"910,973",doll_2.72m,industrial goods
-641,italy,71,120.0,2008,geoteam,"2,195,780",doll_7.62m,energy
-642,france,4,7.0,2014,leascorp,"5,325,214",doll_18.48m,financial services
-643,uk,3,19.0,2014,positive healthcare,"1,954,609",doll_6.73m,management consulting
-644,germany,4,8.0,2010,ralph schmolke,"658,317",doll_2.28m,retail
-645,italy,2,10.0,2016,roomie milano,"1,079,340",doll_3.73m,property
-646,romania,40,89.0,2007,trencadis corp,"6,137,755",doll_20.41m,technology
-647,france,4,11.0,2016,worteks,"541,582",doll_1.87m,technology
-648,france,27,74.0,2015,remove,"2,608,093",doll_8.99m,construction
-649,czech republic,15,27.0,2006,citadelo,"452,557",doll_1.56m,cyber security
-650,germany,13,26.0,2017,grill autoservice,"5,283,415",doll_18.14m,automobiles
-651,spain,8,15.0,2013,inbrooll,"776,268",doll_2.66m,industrial goods
-652,germany,3,4.0,2010,cross,"25,858,983",doll_88.59m,retail
-653,italy,2,6.0,2010,b1gas s.p.a,"12,106,480",doll_41.47m,energy
-654,italy,8,10.0,2009,filva,"1,808,710",doll_6.19m,construction
-655,italy,2,6.0,2005,archingest,"1,030,000",doll_3.52m,construction
-656,uk,51,124.0,2009,alpha fx group,"15,241,075",doll_51.64m,financial services
-657,switzerland,7,50.0,2012,lemonads,"1,451,770",doll_4.95m,advertising
-658,norway,71,213.0,2007,signicat,"13,309,441",doll_42.51m,technology
-659,germany,41,55.0,1965,alfred dã¶pker,"22,730,529",doll_77.36m,construction
-660,germany,42,88.0,2001,bavaria-ei,"3,842,670",doll_13.07m,retail
-661,lithuania,57,245.0,2015,oxylabs.io,"7,381,686",doll_25.04m,technology
-662,germany,2,5.0,2014,a.s.h. automobile,"687,958",doll_2.33m,automobiles
-663,hungary,18,57.0,2007,vascular,"9,987,236",doll_29.1m,health
-664,france,30,57.0,2015,andjaro,"943,718",doll_3.19m,support services
-665,germany,22,34.0,2013,rã¶hrtaler wertstoff,"973,460",doll_3.29m,waste management & recycling
-666,uk,6,7.0,2016,autel karnetic,"2,543,343",doll_8.52m,technology
-667,italy,8,10.0,2013,discoup.com,"616,520",doll_2.08m,advertising
-668,cyprus,52,85.0,2011,hellas direct,"10,247,832",doll_34.49m,insurance
-669,germany,30,45.0,2009,herrles,"3,044,054",doll_10.24m,automobiles
-670,austria,6,12.0,2016,investmentpunk academy,"947,000",doll_3.18m,education
-671,germany,6,13.0,2015,born stahlbau,"1,351,164",doll_4.53m,industrial goods
-672,germany,5,7.0,2016,rettel projektbau,"2,410,212",doll_8.07m,construction
-673,italy,2,4.0,2005,suntronic,"700,960",doll_2.35m,energy
-674,italy,6,42.0,2014,tmt,"3,811,838",doll_12.76m,industrial goods
-675,germany,2,5.0,2015,gedankenburg,"881,275",doll_2.95m,advertising
-676,sweden,6,16.0,2013,svop special vehicle operation,"1,385,662",doll_4.53m,automobiles
-677,uk,132,415.0,2011,glenholme healthcare group,"4,476,517",doll_14.85m,health
-678,france,230,720.0,2013,audensiel,"17,203,160",doll_57.45m,technology
-679,spain,34,106.0,2011,ivnosys,"2,618,069",doll_8.74m,technology
-680,spain,30,45.0,2012,mulconsa,"2,002,982",doll_6.69m,construction
-681,germany,14,54.0,2004,50nrth,"10,518,963",doll_35.11m,retail
-682,croatia,6,10.0,2008,delecto,"793,957",doll_2.65m,retail
-683,poland,7,47.0,2015,mardruk opakowania,"1,058,063",doll_3.23m,industrial goods
-684,france,15,40.0,2012,manang,"1,862,272",doll_6.21m,construction
-685,germany,21,27.0,2011,bestbion dx,"4,461,170",doll_14.86m,health
-686,uk,7,21.0,2015,avamore capital,"772,943",doll_2.55m,financial services
-687,germany,13,30.0,2011,solaris and more,"1,414,501",doll_4.69m,energy
-688,uk,8,11.0,2015,clearcycle,"660,767",doll_2.18m,retail
-689,france,12,35.0,2005,opteamis,"4,180,523",doll_13.86m,support services
-690,spain,10,20.0,2010,codenor,"1,926,967",doll_6.39m,construction
-691,france,8,18.0,2015,happybulle,"1,271,353",doll_4.21m,ecommerce
-692,uk,46,158.0,2013,aurora energy research,"4,587,687",doll_15.08m,energy
-693,spain,19,14.0,2003,bacci,"7,265,350",doll_24.05m,fashion
-694,italy,8,25.0,2013,emilia foods,"8,110,160",doll_26.82m,food & beverage
-695,italy,82,211.0,2001,t.e.a.m. - ti educa a migliorare,"1,020,690",doll_3.37m,health
-696,poland,30,75.0,2016,brainhub,"1,163,241",doll_3.51m,technology
-697,italy,10,9.0,2016,assitech,"810,750",doll_2.68m,construction
-698,uk,4,11.0,2016,schott packaging,"694,501",doll_2.27m,ecommerce
-699,italy,12,30.0,2010,alba,"1,001,740",doll_3.3m,energy
-700,uk,219,740.0,2013,fintru,"9,915,609",doll_32.39m,financial services
-701,italy,4,5.0,2011,global edilizia,"1,226,000",doll_4.03m,construction
-702,uk,2,381.0,2016,tpximpact,"17,515,305",doll_57.09m,management consulting
-703,italy,6,9.0,2010,lgs sportlab,"1,222,870",doll_4.01m,advertising
-704,germany,4,45.0,2005,weiser brandschutz & technik,"1,825,769",doll_5.99m,construction
-705,uk,13,47.0,2013,fairfax and favor,"5,602,279",doll_18.18m,fashion
-706,france,39,85.0,2014,fao consulting,"2,384,156",doll_7.78m,technology
-707,italy,8,37.0,2010,gruppo del barba consulting,"1,794,120",doll_5.86m,financial services
-708,uk,62,109.0,2003,exclaimer,"8,075,796",doll_26.14m,technology
-709,italy,25,77.0,2013,join business management consulting,"3,128,700",doll_10.19m,management consulting
-710,germany,27,57.0,2003,vennes,"5,244,000",doll_17.05m,construction
-711,the netherlands,7,31.0,2013,piggy,"906,341",doll_2.95m,technology
-712,finland,40,130.0,2007,epassi,"63,207,258",doll_205.31m,fintech
-713,germany,150,315.0,2010,atheneum partners,"10,300,000",doll_33.4m,technology
-714,uk,211,454.0,1999,pharmacy2u,"48,580,102",doll_156.23m,technology
-715,france,6,18.0,2011,phoenix developpement,"556,159",doll_1.8m,support services
-716,germany,10,25.0,2016,wiwie transport,"1,300,000",doll_4.2m,transport
-717,romania,23,31.0,2003,mevas auto center,"834,708",doll_2.6m,automobiles
-718,germany,21,35.0,2015,bk beachhouse mode,"1,602,458",doll_5.17m,retail
-719,italy,3,9.0,2015,f.lli urso,"622,800",doll_2.01m,construction
-720,uk,61,166.0,2011,gohenry,"6,882,489",doll_22.02m,financial services
-721,italy,634,816.0,2014,adrilog,"17,727,950",doll_57.06m,transport
-722,uk,2,6.0,2015,attachment,"2,250,946",doll_7.19m,advertising
-723,france,15,25.0,2015,paris herbes,"4,020,469",doll_12.93m,agricultural commodities
-724,france,37,28.0,2015,interlog logistic,"1,703,819",doll_5.48m,transport
-725,italy,34,75.0,1975,conglomerati bituminosi,"10,393,680",doll_33.37m,construction
-726,belgium,5,26.0,2010,nikkel art,"1,172,617",doll_3.76m,ecommerce
-727,italy,9,25.0,2011,esyen,"1,206,770",doll_3.87m,technology
-728,uk,104,165.0,2014,sav-eco packaging ltd,"5,322,238",doll_16.92m,industrial goods
-729,germany,8,19.0,2016,elmar mair tiefbau,"719,638",doll_2.3m,construction
-730,spain,12,15.0,2014,atlas innovative engineering,"1,094,666",doll_3.5m,energy
-731,france,48,76.0,2010,secure-ic,"2,171,492",doll_6.93m,technology
-732,france,16,36.0,2014,datalyo,"1,111,687",doll_3.54m,technology
-733,uk,14,29.0,2016,signify technology,"805,029",doll_2.55m,management consulting
-734,uk,20,59.0,2017,boxt,"12,127,395",doll_38.37m,ecommerce
-735,uk,55,158.0,2010,james and james fulfilment,"9,762,332",doll_30.89m,ecommerce
-736,italy,5,9.0,2014,armonie,"879,670",doll_2.8m,food & beverage
-737,italy,1,5.0,2017,maverick group,"1,674,690",doll_5.31m,technology
-738,italy,10,29.0,2012,brainpull,"1,344,240",doll_4.26m,advertising
-739,france,4,15.0,2014,wiseband,"516,164",doll_1.64m,media
-740,france,4,15.0,2013,groupe ezdo la boulangerie des gourmets,"12,867,410",doll_40.78m,agricultural commodities
-741,poland,257,396.0,2010,pakar service,"3,363,800",doll_9.73m,support services
-742,france,62,117.0,2000,bio-uv,"10,181,000",doll_32.17m,industrial goods
-743,italy,2,14.0,2015,f.g. service,"809,450",doll_2.55m,construction
-744,italy,2,125.0,2012,allways logistics system,"3,033,150",doll_9.57m,transport
-745,sweden,75,164.0,2013,matsmart,"16,075,963",doll_49.58m,ecommerce
-746,germany,2,5.0,2016,autargo,"573,070",doll_1.81m,construction
-747,norway,7,9.0,2015,brewshop.no,"1,484,883",doll_4.39m,food & beverage
-748,italy,3,15.0,2016,visualitics,"676,000",doll_2.13m,technology
-749,germany,14,32.0,2016,hifi extra,"15,610,826",doll_49.19m,retail
-750,germany,70,150.0,2013,ankerkraut,"8,271,702",doll_26.01m,food & beverage
-751,italy,98,205.0,2008,gda,"6,615,000",doll_20.75m,fashion
-752,italy,9,25.0,2006,nexid,"859,960",doll_2.7m,technology
-753,italy,7,16.0,2013,gs studio & service,"666,210",doll_2.09m,energy
-754,italy,60,160.0,2006,neosperience,"5,229,000",doll_16.37m,technology
-755,slovenia,11,16.0,2010,lunos,"2,031,522",doll_6.36m,technology
-756,italy,39,71.0,2013,meic costruzioni,"3,342,120",doll_10.46m,construction
-757,uk,12,14.0,2016,trident lifting solutions ltd,"5,105,700",doll_15.85m,construction
-758,germany,28,69.0,2010,smart battery solutions,"3,264,000",doll_10.2m,technology
-759,germany,10,20.0,2003,eu-bay commerce,"2,601,485",doll_8.12m,retail
-760,germany,6,20.0,2009,jens rabe academy,"1,171,373",doll_3.66m,education
-761,uk,407,1251.0,2010,hyperoptic,"18,649,681",doll_57.77m,telecoms
-762,france,2,21.0,2009,sepale,"2,531,055",doll_7.88m,energy
-763,italy,19,33.0,2005,3a informatica,"633,990",doll_1.97m,telecoms
-764,france,10,22.0,2014,emsproto,"1,009,846",doll_3.14m,ecommerce
-765,france,9,13.0,2011,laboratoires dermosun,"1,815,835",doll_5.63m,chemicals & pharmaceuticals
-766,italy,13,23.0,2013,saico,"2,177,950",doll_6.74m,construction
-767,italy,9,19.0,1956,nutis,"2,124,990",doll_6.57m,food & beverage
-768,poland,12,23.0,2011,ogrodosfera.pl,"4,693,330",doll_13.26m,ecommerce
-769,france,17,30.0,2010,svti,"1,290,312",doll_3.98m,industrial goods
-770,italy,13,38.0,2011,enhancers,"1,087,520",doll_3.35m,technology
-771,france,6,16.0,2012,agripower france,"2,498,792",doll_7.7m,waste management & recycling
-772,italy,8,18.0,2014,next turbo technologies,"3,080,610",doll_9.48m,industrial goods
-773,italy,46,98.0,2013,velvet media italia,"1,759,490",doll_5.41m,advertising
-774,italy,9,35.0,2016,booster box,"667,837",doll_2.05m,advertising
-775,slovakia,3,2.0,2014,rmf group,"1,072,117",doll_3.29m,food & beverage
-776,uk,89,140.0,2005,darwin group limited,"23,141,358",doll_70.39m,construction
-777,poland,90,230.0,2012,itfs,"3,730,405",doll_10.45m,technology
-778,france,9,25.0,2015,skillsday,"1,031,988",doll_3.15m,education
-779,finland,23,34.0,2010,gapps,"2,850,000",doll_8.71m,technology
-780,italy,6,15.0,1984,maxfel,"720,650",doll_2.2m,interiors
-781,spain,33,55.0,2012,herrero brigantina,"4,832,212",doll_14.73m,insurance
-782,italy,3,6.0,2016,manitech,"1,263,420",doll_3.83m,industrial goods
-783,italy,6,16.0,2016,tradeco,"1,944,720",doll_5.89m,industrial goods
-784,france,13,28.0,2012,mon chasseur immo,"1,585,727",doll_4.79m,property
-785,france,20,75.0,2013,upslide,"2,737,704",doll_8.27m,support services
-786,france,5,18.0,2015,cogeclim energies,"868,406",doll_2.62m,construction
-787,hungary,10,14.0,2004,cellarius,"989,785",doll_2.57m,sales & marketing
-788,germany,75,141.0,2014,careful-service,"1,173,908",doll_3.54m,health
-789,lithuania,24,30.0,2007,softneta,"590,642",doll_1.78m,health
-790,uk,64,161.0,2016,progeny,"5,561,585",doll_16.6m,financial services
-791,france,29,57.0,2009,web geo services,"8,022,358",doll_24.11m,technology
-792,germany,,,2013,spedition ibov,"1,140,000",doll_3.42m,transport
-793,germany,21,25.0,2014,mypostcard.com,"2,119,022",doll_6.36m,retail
-794,germany,2,3.0,2013,variosan,"1,078,808",doll_3.23m,retail
-795,germany,8,36.0,2013,riedle + bertsch,"777,849",doll_2.33m,technology
-796,italy,23,50.0,1999,mobili fiver,"3,973,460",doll_11.9m,interiors
-797,france,11,46.0,2015,klc desamiantage,"2,065,220",doll_6.18m,construction
-798,france,3,6.0,2014,secret arts of spirits,"1,105,569",doll_3.31m,retail
-799,uk,68,184.0,2011,mpb group limited,"24,429,686",doll_72.5m,ecommerce
-800,germany,5,12.0,2016,3zehn auto discount,"8,527,777",doll_25.45m,automobiles
-801,france,50,67.0,2012,adikteev,"15,292,051",doll_45.62m,technology
-802,germany,3,50.0,2009,fundis reitsport,"2,370,645",doll_7.07m,retail
-803,germany,9,17.0,2009,antriebstechnik ebner-seibold,"753,352",doll_2.25m,retail
-804,belgium,30,102.0,2011,invibes advertising,"3,880,663",doll_11.53m,technology
-805,italy,18,34.0,2014,jointly il welfare condiviso,"808,700",doll_2.4m,support services
-806,sweden,10,23.0,2012,abtot mark & anlã¤ggning ab,"3,450,305",doll_9.98m,construction
-807,germany,10,36.0,2012,dusapro immobilien,"11,484,801",doll_33.9m,property
-808,france,4,8.0,2012,soldats films,"787,160",doll_2.32m,media
-809,italy,120,287.0,2016,eagleprojects,"5,137,900",doll_15.14m,telecoms
-810,italy,15,43.0,2013,agile lab,"1,897,650",doll_5.59m,technology
-811,norway,4,8.0,2012,importpris.no,"1,126,971",doll_3.11m,ecommerce
-812,germany,18,72.0,2011,truu,"4,245,861",doll_12.47m,industrial goods
-813,france,5,15.0,2016,lâatelier,"1,461,226",doll_4.29m,technology
-814,germany,7,22.0,2014,frigoclim kã¤lte-klima,"1,326,082",doll_3.89m,construction
-815,germany,3,5.0,2013,m coffee company,"722,795",doll_2.12m,retail
-816,france,12,22.0,2011,protextyl,"1,818,032",doll_5.32m,retail
-817,france,14,18.0,2009,sp architecte,"964,998",doll_2.83m,construction
-818,spain,54,178.0,2011,embargos a lo bestia,"7,709,375",doll_22.56m,retail
-819,ireland,2,3.0,2011,snigel,"7,000,063",doll_20.48m,technology
-820,germany,5,120.0,2006,ims rettungsdienst,"650,000",doll_1.9m,health
-821,italy,1,16.0,2017,way2global sb,"828,820",doll_2.41m,support services
-822,uk,3,33.0,2014,media access solutions,"1,181,642",doll_3.41m,support services
-823,spain,21,44.0,2008,exadi,"14,649,568",doll_42.53m,sales and marketing
-824,germany,10,29.0,2014,fiber-service-gesellschaft,"1,395,607",doll_4.05m,telecoms
-825,poland,140,280.0,2010,tenderhut (group),"3,868,483",doll_10.26m,technology
-826,spain,12,30.0,2016,worldwide fishing company,"48,449,141",doll_140.44m,food & beverage
-827,italy,26,43.0,2013,doctor hail spa,"6,246,592",doll_18.1m,automobiles
-828,germany,650,1500.0,2011,kbs group,"14,500,000",doll_42.01m,support services
-829,estonia,5,12.0,2017,terre ehitus,"723,064",doll_2.09m,construction
-830,germany,7,19.0,2013,bauer energiekonzepte,"12,554,325",doll_36.22m,energy
-831,italy,26,77.0,2001,new euroart,"3,226,280",doll_9.31m,construction
-832,italy,8,16.0,2015,capelli for you,"575,120",doll_1.66m,beauty
-833,uk,133,371.0,2014,ogury,"37,992,902",doll_108.76m,advertising
-834,germany,7,17.0,2017,tft ernst,"698,300",doll_2.01m,construction
-835,uk,31,55.0,2001,somerford associates,"6,564,162",doll_18.76m,technology
-836,germany,12,38.0,2012,arcadia investment,"2,818,652",doll_8.1m,property
-837,italy,112,186.0,2009,filoblu,"19,351,090",doll_55.56m,management consulting
-838,uk,8,21.0,2016,tribus digital,"685,567",doll_1.95m,technology
-839,italy,20,35.0,2014,doit,"1,060,000",doll_3.04m,technology
-840,uk,8,23.0,2009,global perspectives,"2,329,522",doll_6.63m,health
-841,italy,8,25.0,1999,pirene,"527,910",doll_1.51m,support services
-842,uk,39,183.0,2012,ipulse,"36,995,102",doll_105.15m,personal & household goods
-843,germany,23,47.0,2002,blue networks,"2,322,241",doll_6.63m,technology
-844,germany,20,35.0,2009,n. schwegler,"3,686,000",doll_10.51m,construction
-845,germany,7,15.0,2002,marcus lutz bau,"659,402",doll_1.87m,construction
-846,germany,3,4.0,2008,hkr-technik,"2,462,478",doll_7.0m,retail
-847,germany,18,30.0,2007,licht + strom,"1,424,633",doll_4.04m,technology
-848,germany,15,40.0,2009,die autowelt,"5,915,499",doll_16.75m,automobiles
-849,france,4,9.0,2012,artheau aviation,"3,977,562",doll_11.26m,aerospace & defence
-850,italy,13,22.0,2000,cepo,"1,592,170",doll_4.5m,industrial goods
-851,france,1,2.0,2013,sneakers & jackets,"1,022,714",doll_2.89m,financial services
-852,uk,11,26.0,2009,89up,"647,020",doll_1.81m,advertising
-853,france,na,4.0,2016,luxury & performance selection,"2,281,929",doll_6.44m,automobiles
-854,uk,117,395.0,2012,grayce group,"6,381,674",doll_17.89m,management consulting
-855,italy,1,4.0,1993,nemesi italia,"581,520",doll_1.64m,technology
-856,uk,12,40.0,1994,halo service solutions,"1,799,189",doll_5.04m,technology
-857,uk,36,73.0,2012,raspberry pi,"28,668,484",doll_80.07m,technology
-858,italy,8,17.0,2010,giopato & coombes,"1,944,000",doll_5.47m,interiors
-859,germany,4,8.0,2016,ship it,"1,207,009",doll_3.39m,retail
-860,germany,19,47.0,2012,rheinische scheidestã¤tte,"29,564,866",doll_83.04m,retail
-861,poland,34,90.0,2011,whites agency,"1,586,246",doll_4.08m,advertising
-862,italy,1,38.0,2017,casa di riposo medicalizzata sempione*,"867,960",doll_2.44m,health
-863,poland,135,269.0,2014,cshark,"4,608,343",doll_11.83m,technology
-864,italy,30,47.0,2015,zinox laser,"2,269,510",doll_6.36m,interiors
-865,italy,14,20.0,2013,tera automation,"1,778,890",doll_4.99m,industrial goods
-866,italy,12,16.0,2014,innova hts,"3,137,630",doll_8.79m,health
-867,czech republic,8,20.0,2013,kentigen,"554,004",doll_1.51m,technology
-868,belgium,13,23.0,2015,teal partners,"1,386,701",doll_3.87m,technology
-869,italy,16,47.0,2010,lm medical division,"4,040,060",doll_11.28m,health
-870,germany,25,47.0,2003,bec,"2,809,036",doll_7.84m,technology
-871,croatia,41,81.0,1995,xylon,"1,610,149",doll_4.49m,technology
-872,germany,2,9.0,2017,spedition kai rindert,"1,083,821",doll_3.02m,transport
-873,italy,16,22.0,2009,co.ge.sa. costruzioni generali saba,"1,241,760",doll_3.45m,construction
-874,sweden,13,20.0,2010,skã¤rgã¥rdstunnan/skargards,"5,547,537",doll_15.08m,ecommerce
-875,italy,1,14.0,2015,autonova milano,"1,006,280",doll_2.79m,automobiles
-876,germany,25,40.0,2011,polarstern,"10,925,375",doll_30.27m,energy
-877,germany,5,15.0,2013,halsdorfer + ingenieure projekt,"11,207,566",doll_31.04m,property
-878,france,9,23.0,2015,opna,"838,200",doll_2.32m,support services
-879,spain,25,39.0,2010,stikets,"3,372,820",doll_9.32m,ecommerce
-880,italy,18,18.0,1994,campustore,"12,479,120",doll_34.41m,education
-881,croatia,14,27.0,2013,ars futura,"574,487",doll_1.58m,technology
-882,italy,64,116.0,2015,cemir security,"1,028,730",doll_2.84m,support services
-883,czech republic,40,60.0,2009,borgy cz,"8,362,568",doll_22.42m,personal & household goods
-884,france,190,600.0,2007,groupe zephyr,"5,908,517",doll_16.26m,health
-885,france,25,57.0,2015,dernier cri,"1,438,184",doll_3.96m,technology
-886,germany,10,37.0,2016,yes!devs,"800,000",doll_2.2m,technology
-887,germany,19,36.0,2009,hydroflex group,"4,788,000",doll_13.17m,retail
-888,italy,7,31.0,2016,proteko service,"2,003,540",doll_5.5m,support services
-889,hungary,26,26.0,2012,minicrm,"944,107",doll_2.23m,technology
-890,italy,13,39.0,2001,cnq consorzio nazionale qualitã ,"783,460",doll_2.15m,waste management & recycling
-891,czech republic,,,2010,accolade,"31,477,723",doll_83.98m,property
-892,spain,9,27.0,2009,panel sandwich,"3,517,519",doll_9.64m,construction
-893,france,28,32.0,1991,symbiose informatique,"12,074,454",doll_33.08m,technology
-894,italy,24,51.0,2012,g.engineering,"6,024,830",doll_16.5m,industrial goods
-895,france,50,200.0,2011,i-particuliers,"1,488,875",doll_4.07m,property
-896,germany,25,48.0,2012,henco,"2,550,263",doll_6.97m,retail
-897,italy,25,53.0,2007,giglio.com,"9,283,620",doll_25.36m,ecommerce
-898,sweden,5,16.0,2013,alphaspel,"1,699,234",doll_4.54m,retail
-899,lithuania,14,24.0,2014,sapiegos klinika,"579,436",doll_1.58m,health
-900,uk,9,25.0,2010,opencorporates,"1,010,498",doll_2.73m,technology
-901,france,22,49.0,2012,be cloud,"3,811,605",doll_10.37m,support services
-902,poland,60,130.0,2014,drukarnia piga.pl,"1,632,988",doll_4.06m,ecommerce
-903,france,84,227.0,2010,groupe mister menuiserie,"25,003,047",doll_68.01m,ecommerce
-904,germany,51,79.0,1999,insetto,"2,210,651",doll_6.01m,retail
-905,portugal,9,13.0,2005,technophage,"823,381",doll_2.24m,pharmaceuticals
-906,france,25,68.0,2008,skalis portage salarial,"2,287,420",doll_6.2m,support services
-907,germany,5,11.0,2016,peoplegrapher,"1,314,806",doll_3.56m,advertising
-908,italy,2,4.0,2016,reveg fruit,"870,070",doll_2.36m,food & beverage
-909,bulgaria,39,79.0,2016,sciant,"1,178,653",doll_3.19m,technology
-910,germany,50,130.0,2012,boender & beutel,"5,376,347",doll_14.55m,industrial goods
-911,france,419,456.0,2003,ekinops,"34,291,000",doll_92.8m,telecoms
-912,portugal,12,13.0,1938,sano-tã©cnica,"1,838,120",doll_4.97m,health
-913,germany,16,24.0,2013,mã¶belando,"6,170,577",doll_16.69m,retail
-914,italy,12,37.0,2011,democom,"1,238,210",doll_3.35m,telecoms
-915,italy,3,11.0,2009,erbagil,"1,490,280",doll_4.02m,pharmaceuticals
-916,finland,9,32.0,2014,axopar boats,"29,247,774",doll_78.77m,travel & leisure
-917,italy,11,54.0,2012,advanced composites solutions,"2,006,100",doll_5.39m,automobiles
-918,italy,12,34.0,2000,spartivento yachts & charter,"1,932,580",doll_5.19m,travel & leisure
-919,poland,39,64.0,2014,seargin,"7,576,080",doll_18.62m,technology
-920,germany,28,32.0,2009,ttp holding,"13,997,000",doll_37.61m,support services
-921,sweden,5,14.0,2011,sweef furniture,"3,620,585",doll_9.51m,retail
-922,hungary,5,10.0,2008,sonic tanã¡csadã³ ã©s szolgã¡ltatã³ kft,"2,009,719",doll_4.65m,technology
-923,belgium,30,71.0,2014,spotit,"7,606,472",doll_20.39m,cyber security
-924,france,11,27.0,2016,label experience,"655,366",doll_1.76m,financial services
-925,italy,2,724.0,2015,lmm logistics,"5,268,390",doll_14.11m,transport
-926,spain,15,35.0,2008,medicalfit,"888,395",doll_2.38m,health
-927,italy,23,26.0,2017,nuova mg,"794,770",doll_2.13m,industrial goods
-928,france,7,30.0,2016,innov and co handicap,"702,609",doll_1.88m,technology
-929,france,33,31.0,2003,alma entreprise,"5,023,015",doll_13.44m,construction
-930,italy,8,15.0,2016,radit,"703,190",doll_1.88m,support services
-931,france,80,220.0,2013,regional express,"8,552,857",doll_22.84m,transport
-932,france,26,59.0,2004,aravati,"2,500,644",doll_6.67m,support services
-933,germany,4,7.0,2013,pã¶hner hamburg,"5,851,000",doll_15.6m,retail
-934,germany,18,21.0,2010,schreinerei huber,"986,286",doll_2.63m,construction
-935,france,12,12.0,1996,isr,"1,741,112",doll_4.64m,technology
-936,germany,2,5.0,2008,kinga mathe,"676,431",doll_1.8m,retail
-937,lithuania,20,24.0,1992,rivile,"1,467,195",doll_3.91m,technology
-938,france,8,20.0,2016,magarantie5ans,"3,477,788",doll_9.25m,retail
-939,france,36,98.0,2012,bebeboutik,"10,944,325",doll_29.08m,retail
-940,austria,88,122.0,2011,radar cyber security,"4,794,822",doll_12.73m,technology
-941,france,49,121.0,2004,clair group,"14,683,064",doll_38.96m,aerospace & defence
-942,germany,105,221.0,2009,appsfactory,"6,801,966",doll_18.04m,technology
-943,uk,142,250.0,2010,stiltz homelifts,"14,051,407",doll_36.96m,interiors
-944,romania,48,105.0,2012,star stone,"1,729,707",doll_4.41m,construction
-945,uk,10,22.0,2016,coptrz,"2,395,445",doll_6.3m,aerospace & defence
-946,uk,15,35.0,2014,nurole,"1,236,098",doll_3.25m,technology
-947,germany,10,15.0,2016,abao energy,"910,386",doll_2.41m,construction
-948,italy,16,32.0,2011,welol next,"1,017,320",doll_2.69m,technology
-949,uk,22,75.0,2010,intent hq,"2,199,126",doll_5.76m,technology
-950,france,14,20.0,2009,cafã© du cycliste,"2,826,571",doll_7.45m,ecommerce
-951,germany,5,8.0,2016,langer lã¼ftungs- und klimaanlagen,"1,749,794",doll_4.61m,construction
-952,france,60,130.0,2010,formind,"6,398,583",doll_16.85m,cyber security
-953,france,4,20.0,2010,oasis smart sim europe**,"1,167,000",doll_3.07m,telecoms
-954,italy,9,13.0,2013,aferetica,"2,429,230",doll_6.38m,health
-955,italy,15,37.0,2014,zero,"16,000,000",doll_42.0m,energy
-956,france,20,70.0,2011,skills,"4,443,710",doll_11.65m,support services
-957,italy,1,22.0,2015,3e studio,"1,071,090",doll_2.8m,support services
-958,slovakia,1,5.0,2013,pannonia steel,"675,645",doll_1.77m,construction
-959,italy,15,21.0,2009,kronos,"9,009,270",doll_23.58m,fashion
-960,italy,11,22.0,2007,lasaponaria,"2,409,730",doll_6.3m,beauty
-961,germany,50,95.0,2013,die wuhlewanderer,"1,900,000",doll_4.97m,health
-962,sweden,26,27.0,2007,imint vidhance,"1,897,113",doll_4.85m,technology
-963,italy,18,47.0,2016,arte e passione,"639,410",doll_1.67m,restaurants
-964,france,29,87.0,2011,paul marius,"9,515,000",doll_24.87m,retail
-965,bulgaria,330,730.0,2012,scalefocus,"12,686,177",doll_33.14m,technology
-966,germany,7,16.0,2014,whiskyzone,"4,117,340",doll_10.75m,retail
-967,italy,63,113.0,2002,targa telematics,"14,327,610",doll_37.39m,technology
-968,uk,23,50.0,2003,sian wholesale ltd,"28,939,861",doll_74.72m,transport
-969,sweden,54,104.0,2002,visage technologies,"2,233,448",doll_5.68m,technology
-970,lithuania,1,1.0,2016,riotloc,"596,906",doll_1.55m,games industry
-971,uk,31,34.0,2003,bullionvault,"6,278,456",doll_16.2m,precious metals
-972,spain,9,23.0,2000,3a antioxidants,"2,968,892",doll_7.7m,chemicals & pharmaceuticals
-973,germany,3,6.0,2016,on metall,"997,518",doll_2.59m,industrial goods
-974,the netherlands,22,39.0,2012,scribbr,"3,417,536",doll_8.86m,education
-975,france,500,1000.0,2007,selectra,"24,320,734",doll_62.95m,energy
-976,italy,7,13.0,2010,energetic,"661,860",doll_1.71m,energy
-977,france,7,9.0,2007,faveod,"1,005,658",doll_2.6m,support services
-978,spain,5,15.0,2013,cye energia,"9,161,867",doll_23.67m,energy
-979,finland,33,105.0,2008,integrata oy,"3,647,000",doll_9.41m,financial services
-980,germany,15,25.0,2010,regular trade,"4,526,000",doll_11.67m,retail
-981,hungary,6,15.0,2011,expleo,"900,686",doll_2.7m,energy
-982,italy,21,21.0,2015,confezioni velvet,"1,302,640",doll_3.36m,fashion
-983,germany,12,10.0,1998,activ bilanz,"6,712,146",doll_17.29m,property
-984,italy,5,12.0,2011,family nation,"2,059,190",doll_5.3m,ecommerce
-985,greece,13,19.0,1994,majar â matzaridis bros,"5,144,442",doll_13.22m,technology
-986,spain,431,791.0,1996,izertis,"19,753,150",doll_50.74m,technology
-987,italy,1,5.0,2016,fashion commerce,"916,000",doll_2.35m,ecommerce
-988,uk,41,105.0,2009,bulk tainer logistics limited,"21,717,432",doll_56.05m,transport
-989,italy,12,22.0,2016,wingeco,"1,332,330",doll_3.41m,industrial goods
-990,poland,12,25.0,2021,meblobranie.pl,"6,909,799",doll_19.3m,ecommerce
-991,spain,39,67.0,1898,queraltã³,"8,575,344",doll_21.9m,ecommerce
-992,slovakia,8,12.0,1993,phobos,"1,382,844",doll_3.53m,automobiles
-993,italy,13,5.0,2013,archita engineering,"1,074,130",doll_2.74m,support services
-994,spain,10,27.0,2006,celeritas,"22,805,398",doll_58.14m,transport
-995,germany,15,45.0,2014,peopleforecast,"818,658",doll_2.09m,technology
-996,italy,41,12.0,2014,digitalpa,"679,440",doll_1.73m,management consulting
-997,germany,100,150.0,2003,faktenkontor,"12,153,143",doll_30.97m,advertising
-998,france,13,53.0,2012,clareo,"7,399,729",doll_18.85m,retail
-999,italy,5,5.0,2013,laca trade,"9,717,860",doll_24.74m,property
+0,finland,1,218.0,2016,swappie,"507,000",doll_97.61 m,technology
+1,lithuania,10,177.0,2013,kilo health,"344,428",doll_57.32 m,health
+2,uk,4,32.0,2012,oci,"4,325,512",doll_568.32 m,financial services
+3,uk,4,800.0,2016,onlyfans,"2,652,185",doll_316.73 m,technology
+4,germany,9,365.0,2017,enpal,"486,165",doll_56.11 m,energy
+5,germany,2,9.0,2017,mr consulting,"150,908",doll_13.17 m,waste management & recycling
+6,uk,12,57.0,2015,thriva,"251,668",doll_18.73 m,health
+7,france,15,200.0,2015,exotec,"706,700",doll_47.6 m,industrial goods
+8,italy,1,10.0,2015,winelivery,"111,500",doll_7.34 m,ecommerce
+9,sweden,5,117.0,2015,instabox,"392,055",doll_24.48 m,technology
+10,austria,12,180.0,2016,waterdrop,"680,197",doll_41.21 m,food & beverage
+11,france,2,11.0,2016,one lease,"153,046",doll_9.02 m,support services
+12,italy,13,251.0,2017,datlas*,"155,406",doll_9.03 m,technology
+13,uk,36,224.0,2016,zego,"229,201",doll_12.16 m,fintech
+14,germany,5,24.0,2017,hcl-logistics,"238,118",doll_11.39 m,transport
+15,uk,4,34.0,2016,popsa,"454,975",doll_21.46 m,technology
+16,switzerland,2,41.0,2017,unit8,"149,397",doll_7.23 m,technology
+17,finland,6,49.0,2016,luoto company,"325,585",doll_14.34 m,technology
+18,austria,9,29.0,2014,journi print,"160,624",doll_6.85 m,ecommerce
+19,france,23,228.0,2017,portify,"274,575",doll_11.58 m,support services
+20,norway,8,45.0,2015,tibber,"782,918",doll_30.89 m,energy
+21,poland,6,18.0,2013,rascal industry,"238,451",doll_9.01 m,fashion
+22,italy,20,509.0,2017,pegaso security,"207,120",doll_8.38 m,support services
+23,uk,72,581.0,2016,tide,"416,562",doll_16.14 m,fintech
+24,italy,1,1.0,2017,euro top brand,"363,010",doll_13.89 m,retail
+25,uk,6,26.0,2011,bold security group,"181,772",doll_6.24 m,support services
+26,norway,10,140.0,2013,play magnus group,"214,673",doll_6.46 m,games industry
+27,uk,1,7.0,2016,blue whale growth fund,"170,950",doll_5.19 m,financial services
+28,belgium,3,65.0,2016,kazidomi,"263,663",doll_8.04 m,ecommerce
+29,latvia,90,800.0,2012,sun finance,"4,044,537",doll_121.31 m,fintech
+30,italy,21,56.0,2015,credimi,"381,830",doll_11.3 m,financial services
+31,germany,8,133.0,2017,sirplus,"155,043",doll_4.54 m,retail
+32,the netherlands,6,31.0,2016,aihr | academy to innovate hr,"125,682",doll_3.58 m,education
+33,luxembourg,9,27.0,2015,logistics capital partners (lcp),"7,403,458",doll_210.56 m,property
+34,germany,2,10.0,2017,sã¼dwest invest,"210,820",doll_5.82 m,property
+35,france,7,7.0,2000,corade (plurimmo),"2,039,961",doll_56.02 m,property
+36,spain,4,5.0,2006,carranco,"155,310",doll_4.18 m,food & beverage
+37,poland,10,50.0,2014,telemedi,"182,100",doll_4.45 m,health
+38,germany,22,56.0,2014,inkitt,"229,713",doll_5.93 m,technology
+39,italy,1,2.0,2016,h.k.trading,"225,380",doll_5.72 m,retail
+40,uk,16,124.0,2015,attest,"194,090",doll_4.86 m,technology
+41,france,na,11.0,2016,lgm immobilier,"101,311",doll_2.55 m,property
+42,the netherlands,7,29.0,2017,wolfram chain*,"100,711",doll_2.43 m,management consulting
+43,germany,3,38.0,2017,rightnow,"379,771",doll_8.95 m,technology
+44,uk,7,63.0,2014,eo charging,"757,323",doll_17.16 m,technology
+45,italy,2,9.0,2013,chetariffa.it,"110,200",doll_2.5 m,support services
+46,uk,26,90.0,2017,simply,"744,092",doll_16.48 m,financial services
+47,uk,24,187.0,2015,salary finance,"387,995",doll_8.59 m,fintech
+48,sweden,2,10.0,2017,dbt,"179,204",doll_3.84 m,fintech
+49,poland,15,140.0,2016,tutlo,"388,565",doll_7.78 m,education
+50,france,4,27.0,2013,ponera,"1,186,853",doll_25.9 m,ecommerce
+51,greece,0,2.0,2014,active energy solutions,"640,056",doll_13.31 m,energy
+52,france,2,8.0,2012,acteam enr,"103,240",doll_2.13 m,energy
+53,uk,8,70.0,2015,everflow,"3,188,715",doll_64.22 m,technology
+54,uk,1,1.0,2016,azure prism,"238,216",doll_4.75 m,retail
+55,germany,2,7.0,2017,wr logistics,"585,280",doll_11.66 m,transport
+56,uk,14,61.0,2011,iproov,"376,519",doll_7.44 m,technology
+57,italy,1,5.0,2017,spin up,"203,950",doll_4.01 m,advertising
+58,germany,4,16.0,2012,begreat,"270,090",doll_5.14 m,retail
+59,italy,2,17.0,2017,tsunami nutrition*,"369,000",doll_6.95 m,ecommerce
+60,the netherlands,2,6.0,2016,matt sleeps,"535,070",doll_9.79 m,interiors
+61,uk,28,138.0,2013,tessian,"858,482",doll_15.37 m,technology
+62,germany,98,369.0,2016,solarisbank,"2,007,000",doll_35.94 m,financial services
+63,france,2,21.0,2016,m2dg (myflexoffice),"375,323",doll_6.63 m,support services
+64,italy,2,11.0,2004,eukon,"362,320",doll_6.39 m,health
+65,italy,3,13.0,2016,evolution adv,"805,870",doll_14.18 m,advertising
+66,spain,47,274.0,2001,making science,"3,306,795",doll_57.67 m,technology
+67,italy,45,207.0,2014,everli,"6,287,460",doll_109.25 m,ecommerce
+68,finland,12,73.0,2014,appfollow,"128,176",doll_2.21 m,technology
+69,poland,40,190.0,2013,synerise,"255,062",doll_4.0 m,technology
+70,poland,4,8.0,2010,chaikola,"330,763",doll_5.16 m,food & beverage
+71,germany,4,12.0,2015,scolution,"107,492",doll_1.83 m,technology
+72,france,3,15.0,2017,jl&p,"131,164",doll_2.21 m,energy
+73,italy,8,50.0,2017,efarma.com,"1,199,580",doll_20.15 m,pharmaceuticals
+74,uk,22,138.0,2013,elvie,"2,474,341",doll_40.81 m,technology
+75,italy,1,5.0,2010,farmarelax,"270,750",doll_4.46 m,personal & household goods
+76,uk,20,99.0,2008,omnisend,"742,746",doll_11.76 m,technology
+77,italy,1,5.0,2017,world trade group,"314,150",doll_4.9 m,fashion
+78,france,2,32.0,2016,besteam conseil,"249,176",doll_3.87 m,technology
+79,uk,5,96.0,2016,motorway,"320,411",doll_4.84 m,automobiles
+80,germany,0,26.0,2014,iso public services,"672,821",doll_10.02 m,technology
+81,uk,106,918.0,2015,octopus energy,"145,398,192",doll_2120.07 m,energy
+82,uk,8,82.0,2017,cyberiam*,"387,161",doll_5.64 m,cyber security
+83,italy,2,17.0,2017,cbweed*,"245,000",doll_3.5 m,personal & household goods
+84,portugal,18,46.0,2015,catraport,"518,613",doll_7.29 m,automobiles
+85,france,13,106.0,2016,ouihelp,"262,421",doll_3.69 m,support services
+86,denmark,33,67.0,2013,inpay,"1,702,000",doll_23.8 m,fintech
+87,italy,4,10.0,2017,m.g.i. meccaniche generali irpine,"188,680",doll_2.61 m,industrial goods
+88,uk,7,80.0,2016,glencar construction,"7,930,094",doll_107.86 m,construction
+89,uk,9,23.0,2010,qmee,"925,527",doll_12.57 m,technology
+90,italy,1,10.0,2015,myappfree,"422,420",doll_5.76 m,advertising
+91,germany,8,55.0,2014,investa dienstleistungen,"159,707",doll_2.18 m,support services
+92,sweden,19,58.0,2014,polarium energy solutions,"5,581,858",doll_74.07 m,batteries
+93,italy,4,5.0,2016,baroni home,"113,072",doll_1.53 m,ecommerce
+94,uk,6,45.0,2013,dayshape,"247,465",doll_3.32 m,technology
+95,italy,3,8.0,2016,marketers company,"139,300",doll_1.88 m,advertising
+96,spain,2,5.0,2017,easo magno,"228,076",doll_3.06 m,beauty
+97,germany,1,10.0,2016,greyfood,"684,874",doll_9.19 m,retail
+98,uk,3,9.0,2016,misfits health,"171,057",doll_2.27 m,food & beverage
+99,france,1,5.0,2010,meilleursbiens.com,"291,481",doll_3.86 m,property
+100,uk,5,36.0,2011,fasanara capital,"882,099",doll_11.53 m,financial services
+101,cyprus,44,122.0,2015,ntechlab,"664,000",doll_8.73 m,technology
+102,italy,2,5.0,2016,babylino sensitive,"217,460",doll_2.85 m,personal & household goods
+103,the netherlands,24,54.0,2012,fastned,"530,667",doll_6.89 m,technology
+104,portugal,2,6.0,2009,oxray,"427,339",doll_5.47 m,health
+105,germany,3,4.0,2017,zega invest,"299,598",doll_3.79 m,property
+106,hungary,2,7.0,2016,abylon consulting,"159,128",doll_1.72 m,technology
+107,norway,20,77.0,2005,milrab,"6,753,191",doll_79.3 m,ecommerce
+108,belgium,7,55.0,2015,urbantz,"242,368",doll_3.03 m,technology
+109,uk,6,32.0,2017,tricas construction,"1,281,462",doll_15.88 m,construction
+110,italy,6,10.0,2017,florence one,"131,691",doll_1.63 m,technology
+111,germany,8,35.0,2014,ergotopia,"620,283",doll_7.66 m,retail
+112,hungary,5,17.0,2011,mcule.com kft.,"252,713",doll_2.68 m,chemicals & pharmaceuticals
+113,italy,9,18.0,2014,filo,"815,690",doll_10.05 m,technology
+114,italy,4,11.0,2014,homepal,"130,290",doll_1.6 m,property
+115,germany,55,310.0,2014,staffbase,"2,201,178",doll_26.89 m,technology
+116,france,2,4.0,2016,ilon materiel,"207,327",doll_2.51 m,construction
+117,ireland,7,25.0,2014,bio-marine,"133,200",doll_1.61 m,personal & household goods
+118,france,2,18.0,2016,isodeco,"241,411",doll_2.91 m,construction
+119,italy,18,42.0,2010,treedom,"560,150",doll_6.71 m,support services
+120,germany,3,20.0,2016,fenstermaxx24,"712,855",doll_8.47 m,retail
+121,germany,7,31.0,2017,pohl & sã¶hne gerã¼stbau,"180,824",doll_2.12 m,construction
+122,france,3,13.0,2013,yso corp,"570,012",doll_6.69 m,media
+123,italy,2,10.0,2017,gyada cosmetics,"156,130",doll_1.83 m,beauty
+124,uk,47,190.0,2014,privitar,"855,321",doll_9.92 m,technology
+125,uk,1,25.0,2015,delineate,"288,095",doll_3.33 m,technology
+126,poland,75,563.0,2016,spyrosoft,"2,326,082",doll_24.72 m,technology
+127,slovakia,6,37.0,2014,bio energy solutions,"1,383,205",doll_16.01 m,waste management & recycling
+128,italy,2,51.0,2015,increso,"281,000",doll_3.23 m,management consulting
+129,italy,1,46.0,2016,lsg - logistic & service group,"777,410",doll_8.87 m,transport
+130,sweden,19,125.0,2015,energihem,"2,527,006",doll_28.0 m,construction
+131,uk,48,164.0,2012,amity,"522,712",doll_5.74 m,technology
+132,germany,4,43.0,2014,goyago,"337,525",doll_3.73 m,retail
+133,france,23,140.0,2016,la regie de portage salarial,"692,440",doll_7.64 m,support services
+134,denmark,5,15.0,2007,dall energy,"551,000",doll_6.01 m,energy
+135,germany,5,44.0,2014,appinio,"330,500",doll_3.6 m,technology
+136,italy,14,33.0,2015,pinsami,"455,000",doll_4.89 m,food & beverage
+137,france,1,1.0,2013,aer trading,"1,643,572",doll_17.58 m,retail
+138,france,1,4.0,2014,valumen,"205,554",doll_2.2 m,support services
+139,france,4,14.0,2016,follow,"643,299",doll_6.84 m,advertising
+140,germany,4,173.0,2016,darpdecade,"628,384",doll_6.62 m,retail
+141,estonia,399,1798.0,2013,bolt,"21,098,843",doll_221.39 m,technology
+142,italy,2,5.0,2014,kiteworldshop.com,"160,539",doll_1.67 m,ecommerce
+143,germany,10,19.0,2006,peter kenkel,"2,131,000",doll_22.14 m,retail
+144,denmark,32,292.0,2014,templafy,"1,521,010",doll_15.49 m,technology
+145,italy,17,99.0,2014,comservice,"194,780",doll_2.02 m,support services
+146,italy,1,5.0,2017,falcor presse,"291,720",doll_3.0 m,industrial goods
+147,the netherlands,8,40.0,2017,roomraccoon,"167,000",doll_1.72 m,technology
+148,spain,37,95.0,2013,signaturit,"552,355",doll_5.64 m,technology
+149,uk,31,191.0,2015,modulr,"1,269,382",doll_12.79 m,fintech
+150,germany,17,63.0,2012,profishop,"4,340,517",doll_43.81 m,ecommerce
+151,the netherlands,2,15.0,2015,floer,"249,975",doll_2.52 m,interiors
+152,italy,4,12.0,2011,audiosalus,"156,300",doll_1.57 m,retail
+153,uk,2,26.0,2016,statsbomb,"204,620",doll_2.03 m,technology
+154,italy,2,8.0,2013,theras biocare,"2,693,390",doll_26.63 m,pharmaceuticals
+155,uk,32,61.0,2016,stenn,"3,058,141",doll_29.62 m,fintech
+156,hungary,30,180.0,2012,nanushka,"2,456,563",doll_20.83 m,fashion
+157,germany,10,60.0,2016,dpm - deutsches personal management,"230,800",doll_2.27 m,support services
+158,uk,84,243.0,2013,monese,"1,870,109",doll_18.2 m,fintech
+159,spain,40,288.0,2005,arquimea,"7,450,099",doll_72.04 m,technology
+160,france,4,18.0,2013,groupe perspective,"280,390",doll_2.71 m,education
+161,sweden,37,155.0,2014,funnel,"1,217,338",doll_11.5 m,technology
+162,germany,5,49.0,2015,living quarter,"529,371",doll_5.02 m,health
+163,sweden,38,287.0,2013,svea solar,"7,177,912",doll_66.15 m,energy
+164,ireland,6,16.0,2016,bevcraft group,"429,505",doll_4.05 m,food & beverage
+165,uk,767,932.0,2013,learning technologies group,"2,096,570",doll_19.45 m,technology
+166,italy,2,9.0,2014,cura farma,"479,290",doll_4.44 m,health
+167,lithuania,2,7.0,2013,kamado bono,"735,758",doll_6.8 m,personal & household goods
+168,spain,3,47.0,2007,sipadan,"374,200",doll_3.46 m,management consulting
+169,czech republic,18,45.0,2013,dateio,"530,785",doll_4.71 m,fintech
+170,germany,4,16.0,2016,crest investment,"533,144",doll_4.86 m,property
+171,italy,2,19.0,2017,componenti digitali,"308,810",doll_2.81 m,retail
+172,germany,3,6.0,2006,immo-konzepte,"252,871",doll_2.27 m,property
+173,denmark,3,41.0,2014,swipbox,"1,052,796",doll_9.39 m,technology
+174,sweden,9,85.0,2015,nextory,"3,046,667",doll_26.53 m,media
+175,poland,32,176.0,2016,itds polska,"1,057,443",doll_8.61 m,technology
+176,italy,4,5.0,2015,savait,"237,410",doll_2.11 m,ecommerce
+177,spain,3,18.0,2015,adpone,"1,255,372",doll_11.12 m,advertising
+178,lithuania,350,1000.0,2012,nord security,"18,035,029",doll_156.62 m,cyber security
+179,the netherlands,25,226.0,2012,mews,"2,531,000",doll_22.39 m,technology
+180,spain,9,35.0,2015,titulae,"551,128",doll_4.87 m,education
+181,ireland,5,40.0,2016,systeme.io,"273,552",doll_2.41 m,ecommerce
+182,greece,20,30.0,2003,eodh sa,"299,988",doll_2.6 m,aerospace & defence
+183,italy,2,5.0,2015,multix solutions,"1,340,430",doll_11.59 m,health
+184,france,2,12.0,2016,b2digit,"228,982",doll_1.98 m,technology
+185,uk,5,47.0,2015,a million ads,"570,564",doll_4.88 m,advertising
+186,the netherlands,5,25.0,2013,woodwatch,"651,170",doll_5.59 m,retail
+187,france,3,12.0,2010,fenãªtres du doubs,"262,280",doll_2.24 m,construction
+188,germany,3,65.0,2016,koesea,"400,000",doll_3.4 m,construction
+189,italy,14,38.0,2011,podium advanced technologies,"2,133,310",doll_18.03 m,automobiles
+190,croatia,109,166.0,2010,spegra,"2,025,879",doll_17.06 m,construction
+191,spain,18,117.0,2013,gpainnova,"1,815,680",doll_15.25 m,industrial goods
+192,italy,4,23.0,2016,soluzione tasse,"2,264,940",doll_18.94 m,management consulting
+193,germany,2,15.0,2016,velocultour,"295,731",doll_2.46 m,retail
+194,hungary,2,7.0,2011,butorpiac.hu,"305,268",doll_2.18 m,ecommerce
+195,czech republic,8,44.0,2016,success solutions,"327,218",doll_2.63 m,technology
+196,denmark,1,1.0,1989,bug bite thing europe,"191,679",doll_1.58 m,health
+197,estonia,4,24.0,2015,dexatel,"1,349,733",doll_11.09 m,technology
+198,italy,1,6.0,2015,gemco,"481,510",doll_3.94 m,construction
+199,france,,,2015,lyonnaise de construction et renovation,"812,371",doll_6.64 m,construction
+200,uk,204,702.0,2012,gousto,"26,112,757",doll_210.95 m,food & beverage
+201,uk,4,6.0,2010,winter in venice,"1,575,522",doll_12.68 m,beauty
+202,germany,18,72.0,2007,infratech bau,"7,415,334",doll_60.07 m,construction
+203,italy,3,46.0,2016,4streets building innovation tunnels bridges roads,"833,230",doll_6.74 m,construction
+204,uk,31,95.0,2013,landbay,"1,119,178",doll_8.98 m,fintech
+205,sweden,3,18.0,2012,degoo,"249,818",doll_1.97 m,technology
+206,germany,52,320.0,2016,franco fresco,"6,280,267",doll_50.72 m,food & beverage
+207,uk,25,84.0,2014,lendable,"5,026,349",doll_40.31 m,fintech
+208,germany,2,6.0,2014,ulrich mã¼ller wealth academy,"440,369",doll_3.52 m,education
+209,germany,19,84.0,2012,cerascreen,"1,315,000",doll_10.5 m,health
+210,france,24,43.0,2011,eqinov,"8,811,708",doll_70.18 m,energy
+211,italy,7,12.0,1996,serre famiglia pederiva viticoltori dal 1958,"1,134,730",doll_9.02 m,food & beverage
+212,uk,68,170.0,2013,bloom & wild,"19,757,296",doll_155.6 m,ecommerce
+213,germany,9,29.0,2016,brã¤utigam,"796,207",doll_6.32 m,automobiles
+214,finland,1,7.0,2006,newil & bau,"2,448,858",doll_19.42 m,construction
+215,spain,271,411.0,2015,id finance,"13,157,000",doll_103.63 m,fintech
+216,sweden,74,600.0,2014,kry,"10,152,222",doll_77.76 m,health
+217,italy,4,25.0,2015,sixth sense,"500,440",doll_3.92 m,technology
+218,italy,7,19.0,2014,nethive,"506,730",doll_3.96 m,cyber security
+219,uk,3,8.0,2016,latitude investment management,"225,964",doll_1.75 m,financial services
+220,sweden,10,68.0,2015,qred,"3,989,355",doll_30.41 m,fintech
+221,germany,15,55.0,2016,oculavis,"504,357",doll_3.92 m,technology
+222,italy,5,30.0,2015,the information lab,"548,180",doll_4.25 m,technology
+223,germany,6,10.0,2015,md sonnenschutztechnik,"524,750",doll_4.07 m,construction
+224,croatia,7,43.0,2017,syntio,"274,966",doll_2.13 m,technology
+225,denmark,3,13.0,2016,bomae,"214,713",doll_1.66 m,financial services
+226,uk,6,18.0,2014,gophr,"755,191",doll_5.74 m,technology
+227,germany,20,110.0,2012,memory pc,"7,522,000",doll_57.38 m,retail
+228,germany,2,6.0,2017,sollis solargroãhandel,"1,556,607",doll_11.86 m,retail
+229,greece,37,123.0,2015,spotawheel,"2,058,315",doll_15.65 m,automobiles
+230,uk,18,83.0,2012,ooni pizza ovens,"8,508,398",doll_63.88 m,personal & household goods
+231,germany,10,35.0,2015,robovox distributions,"2,570,000",doll_19.43 m,retail
+232,uk,92,650.0,2000,centralnic group,"26,626,422",doll_197.26 m,technology
+233,germany,16,83.0,2003,bernd andert transporte,"546,226",doll_4.11 m,transport
+234,uk,16,18.0,2007,bluewater bio,"2,708,983",doll_20.2 m,technology
+235,italy,25,107.0,2012,tecma solutions,"975,140",doll_7.32 m,technology
+236,poland,21,48.0,2015,delante,"316,525",doll_2.16 m,sales & marketing
+237,germany,8,15.0,2015,intumind,"884,885",doll_6.56 m,health
+238,germany,10,15.0,2016,saljol,"559,778",doll_4.15 m,health
+239,germany,9,20.0,2014,tkd solutions,"2,146,950",doll_15.87 m,telecoms
+240,finland,5,15.0,2016,kuori,"340,000",doll_2.5 m,technology
+241,sweden,21,42.0,2010,ferroamp,"1,062,649",doll_7.65 m,energy
+242,uk,6,23.0,2016,valor real estate partners,"621,636",doll_4.53 m,financial services
+243,france,2,14.0,2013,anexiti,"350,019",doll_2.57 m,technology
+244,france,6,23.0,2017,genius,"330,522",doll_2.42 m,support services
+245,italy,3,31.0,2015,instilla,"410,520",doll_2.99 m,advertising
+246,spain,12,60.0,2012,footdistrict,"2,051,133",doll_14.94 m,ecommerce
+247,sweden,12,36.0,2012,spiideo,"674,805",doll_4.8 m,technology
+248,uk,14,118.0,2012,contractpodai,"670,685",doll_4.88 m,technology
+249,germany,5,15.0,2017,tarhan bauausfã¼hrungen,"255,000",doll_1.85 m,construction
+250,uk,44,218.0,2010,matillion,"3,417,815",doll_24.58 m,technology
+251,germany,2,5.0,2017,extra mile live service,"364,485",doll_2.64 m,retail
+252,france,17,173.0,2013,littlebig connection,"15,653,388",doll_111.54 m,support services
+253,italy,15,50.0,2011,spc general service,"954,700",doll_6.79 m,construction
+254,spain,156,801.0,2008,jobandtalent,"49,833,511",doll_352.88 m,technology
+255,uk,14,20.0,2016,financial house,"2,669,247",doll_18.77 m,fintech
+256,poland,8,42.0,2013,mylead,"309,471",doll_2.0 m,sales & marketing
+257,italy,15,74.0,2016,mia-platform,"923,730",doll_6.52 m,technology
+258,italy,20,32.0,1976,tecnimed,"1,354,980",doll_9.55 m,health
+259,uk,5,22.0,2015,longevity partners,"335,460",doll_2.34 m,retail
+260,italy,56,345.0,2015,nexumstp,"3,659,630",doll_25.67 m,management consulting
+261,france,3,16.0,2016,g-on,"259,342",doll_1.81 m,support services
+262,uk,3,10.0,2016,picnic,"219,999",doll_1.51 m,advertising
+263,italy,2,36.0,2012,egomnia,"276,750",doll_1.9 m,technology
+264,uk,10,40.0,2012,loyaltylion,"657,382",doll_4.48 m,technology
+265,norway,22,142.0,2016,remarkable,"18,106,514",doll_115.79 m,technology
+266,uk,119,673.0,2016,kubrick,"4,829,922",doll_32.61 m,management consulting
+267,italy,7,35.0,2012,contrader,"688,860",doll_4.68 m,technology
+268,germany,39,89.0,2008,samont,"2,880,891",doll_19.58 m,industrial goods
+269,italy,1,5.0,2017,sirive,"667,170",doll_4.53 m,construction
+270,spain,10,15.0,2014,multienergia verde,"21,640,253",doll_146.45 m,energy
+271,belgium,1,6.0,2013,wielandts upmt,"226,295",doll_1.53 m,technology
+272,sweden,4,13.0,2015,asket,"991,534",doll_6.53 m,fashion
+273,czech republic,10,45.0,2015,central warehouse solution,"274,790",doll_1.79 m,transport
+274,italy,2,21.0,2015,chef in camicia,"310,810",doll_2.07 m,advertising
+275,uk,9,28.0,2015,piper homes,"4,601,266",doll_30.44 m,construction
+276,spain,12,33.0,2014,alturas cubiertas y fachadas,"1,411,811",doll_9.38 m,construction
+277,germany,2,11.0,2015,autosalon uhingen,"1,587,500",doll_10.54 m,automobiles
+278,france,1,5.0,2013,yumi beauty,"404,819",doll_2.68 m,chemicals & pharmaceuticals
+279,france,2,7.0,2016,for me lab,"251,795",doll_1.65 m,ecommerce
+280,sweden,7,25.0,2015,stockholms elbolag,"5,033,032",doll_32.27 m,energy
+281,germany,21,84.0,1999,flohr,"3,241,629",doll_21.25 m,waste management & recycling
+282,italy,1,4.0,2008,agricodem,"436,610",doll_2.86 m,agricultural commodities
+283,germany,14,80.0,2005,dach schutzbekleidung,"6,936,038",doll_45.23 m,industrial goods
+284,germany,7,16.0,2017,em-tec energiemontagen,"461,000",doll_3.0 m,construction
+285,romania,8,9.0,2014,wave studio,"656,172",doll_4.11 m,technology
+286,croatia,3,17.0,2013,bazzar,"1,034,093",doll_6.69 m,retail
+287,the netherlands,10,43.0,2015,cybersprint,"449,771",doll_2.91 m,cyber security
+288,italy,19,34.0,2012,brandon group,"4,954,590",doll_32.04 m,ecommerce
+289,germany,1,13.0,2014,feiniko handelsgesellschaft,"4,979,484",doll_32.17 m,retail
+290,italy,2,21.0,2015,pharmagrin,"422,610",doll_2.7 m,health
+291,czech republic,1,3.0,2016,life m,"322,050",doll_2.0 m,technology
+292,portugal,5,16.0,2012,plã¡sticos dã£o / sacos & saquetas,"304,833",doll_1.95 m,industrial goods
+293,germany,19,70.0,2010,logipal24,"789,058",doll_4.97 m,transport
+294,the netherlands,23,22.0,2012,pastbook,"5,361,088",doll_33.65 m,technology
+295,uk,6,21.0,2013,bluefin,"4,653,721",doll_28.99 m,ecommerce
+296,uk,4,18.0,2016,milk & honey pr,"245,974",doll_1.53 m,sales & marketing
+297,france,70,220.0,1990,prodeval,"11,756,712",doll_73.51 m,energy
+298,finland,23,110.0,2013,virta,"1,765,457",doll_11.03 m,technology
+299,italy,4,28.0,2015,bizaway,"318,940",doll_1.99 m,travel & leisure
+300,france,2,6.0,2015,karl & lã©on,"385,266",doll_2.39 m,retail
+301,uk,39,80.0,2001,identity,"3,733,539",doll_22.89 m,management consulting
+302,hungary,4,55.0,2016,blackbelt holding,"923,000",doll_5.7 m,technology
+303,france,1,13.0,2010,dynveo,"598,678",doll_3.69 m,retail
+304,czech republic,7,29.0,2016,favi,"4,174,549",doll_25.0 m,ecommerce
+305,finland,4,27.0,2016,hopkins,"737,936",doll_4.53 m,sales & marketing
+306,italy,3,7.0,2016,ap italian luxury,"698,300",doll_4.28 m,fashion
+307,uk,20,45.0,2015,novicap,"551,848",doll_3.38 m,fintech
+308,italy,1,5.0,2013,iglm store,"1,277,410",doll_7.79 m,ecommerce
+309,germany,8,41.0,1999,luis technology,"1,644,899",doll_10.0 m,technology
+310,uk,55,275.0,2016,quantexa,"5,643,295",doll_33.9 m,fintech
+311,italy,9,37.0,2014,enerbrain,"685,370",doll_4.13 m,energy
+312,germany,7,28.0,2013,brinckmann,"1,002,579",doll_6.04 m,construction
+313,italy,6,12.0,1982,lmg building,"1,043,440",doll_6.26 m,construction
+314,norway,12,33.0,2013,nordic unmanned,"1,122,907",doll_6.31 m,aerospace & defence
+315,france,2,6.0,2017,hemisphere,"1,091,925",doll_6.48 m,property
+316,germany,23,87.0,2017,therapiezentrum.com nw,"492,860",doll_2.92 m,health
+317,uk,39,82.0,2010,beauhurst,"916,511",doll_5.36 m,technology
+318,romania,43,49.0,2017,c.u.n. cargo carriers,"1,207,613",doll_7.1 m,transport
+319,italy,23,34.0,2016,mg project,"1,396,400",doll_8.21 m,telecoms
+320,germany,3,6.0,2015,bonmea,"2,484,783",doll_14.6 m,retail
+321,italy,2,6.0,2007,oceanis yachts,"521,250",doll_3.06 m,travel & leisure
+322,france,2,8.0,2016,opus db,"2,076,139",doll_12.17 m,construction
+323,france,9,27.0,2013,devensys cybersecurity,"580,644",doll_3.4 m,technology
+324,cyprus,25,104.0,2016,project agora,"3,380,420",doll_19.8 m,advertising
+325,germany,5,19.0,2012,bettertrust,"853,561",doll_4.98 m,advertising
+326,italy,3,10.0,2014,banale,"352,000",doll_2.05 m,ecommerce
+327,the netherlands,5,17.0,2013,maatwerk online,"287,985",doll_1.67 m,sales & marketing
+328,france,1,6.0,2011,les constructeurs du bois,"877,275",doll_5.09 m,property
+329,italy,6,10.0,2013,esserre pharma,"441,260",doll_2.56 m,pharmaceuticals
+330,uk,8,18.0,2014,onbuy.com,"473,344",doll_2.72 m,ecommerce
+331,france,27,108.0,2015,gojob,"7,007,000",doll_40.55 m,support services
+332,germany,6,10.0,2016,newroom,"638,739",doll_3.67 m,retail
+333,italy,3,9.0,2016,christmas the original,"347,190",doll_1.99 m,retail
+334,germany,5,16.0,2016,dimaxbau,"349,641",doll_2.0 m,construction
+335,germany,2,9.0,2013,comnovis it,"332,372",doll_1.9 m,technology
+336,germany,4,8.0,2016,die direktkontakter,"493,000",doll_2.82 m,support services
+337,italy,30,400.0,2010,mega trasporti,"3,185,180",doll_18.17 m,transport
+338,france,9,40.0,2014,lehibou,"2,423,113",doll_13.82 m,technology
+339,italy,3,13.0,2014,stufe a pellet italia,"631,500",doll_3.6 m,interiors
+340,uk,31,46.0,2012,aquis exchange,"2,267,165",doll_12.82 m,financial services
+341,uk,8,50.0,2015,chattermill,"408,336",doll_2.31 m,technology
+342,germany,10,45.0,2016,schã¶nertel,"2,884,392",doll_16.39 m,construction
+343,italy,8,57.0,2011,global work,"558,820",doll_3.17 m,telecoms
+344,germany,1,9.0,2012,allygatr,"338,300",doll_1.91 m,support services
+345,uk,3,14.0,2013,cru wine,"1,644,134",doll_9.24 m,food & beverage
+346,italy,5,8.0,2004,abc rent,"3,878,370",doll_21.82 m,automobiles
+347,uk,20,57.0,2011,superior wellness,"9,719,653",doll_54.15 m,personal & household goods
+348,austria,3,12.0,2016,schrott24,"2,610,679",doll_14.64 m,waste management & recycling
+349,italy,3,14.0,2017,mazzoni etech,"419,240",doll_2.34 m,industrial goods
+350,france,4,6.0,1996,berdugo immobilier,"2,696,485",doll_15.05 m,property
+351,lithuania,9,37.0,2016,nova rent,"1,600,000",doll_8.9 m,industrial goods
+352,czech republic,13,38.0,2013,rouvy,"751,071",doll_4.06 m,games industry
+353,italy,3,4.0,2015,business analysis & legal expertise - b.a.l.e.,"532,690",doll_2.94 m,management consulting
+354,poland,172,381.0,2000,jmb,"12,709,000",doll_70.18 m,energy
+355,france,2,13.0,2016,nocnoc,"289,766",doll_1.6 m,travel & leisure
+356,uk,5,33.0,2013,crowdproperty,"539,486",doll_2.94 m,fintech
+357,france,4,42.0,2015,tutosâme,"910,963",doll_4.99 m,education
+358,italy,4,10.0,2011,studio ekoâ,"318,370",doll_1.74 m,management consulting
+359,uk,2,7.0,2010,beings,"348,129",doll_1.88 m,technology
+360,poland,3,6.0,2013,dmrgroupltd.com,"1,418,769",doll_7.05 m,chemicals & pharmaceuticals
+361,uk,35,119.0,2014,ice telecommunications ltd,"2,982,238",doll_16.07 m,telecoms
+362,italy,18,95.0,2012,gallas group,"856,790",doll_4.64 m,support services
+363,italy,4,10.0,2010,etracom,"4,253,600",doll_22.95 m,ecommerce
+364,uk,38,88.0,2015,xalient,"4,893,654",doll_26.2 m,technology
+365,italy,5,,2009,labevolution,"1,349,250",doll_7.26 m,health
+366,italy,9,20.0,2015,kuadra,"635,400",doll_3.4 m,interiors
+367,spain,3,8.0,2014,kyo electric,"1,013,181",doll_5.4 m,telecoms
+368,uk,13,32.0,2012,sopost,"1,481,398",doll_7.83 m,technology
+369,italy,7,44.0,2016,s.f.r.e.,"564,910",doll_3.0 m,construction
+370,germany,60,262.0,2012,sportstech,"20,436,426",doll_108.5 m,retail
+371,france,40,98.0,2014,opã©ra energie,"2,127,151",doll_11.22 m,energy
+372,uk,28,76.0,2010,routenote,"7,339,330",doll_38.43 m,technology
+373,uk,26,40.0,2016,doctify,"461,671",doll_2.41 m,health
+374,uk,30,67.0,2008,fruugo,"4,176,347",doll_21.79 m,ecommerce
+375,germany,7,15.0,2012,insidemarketing,"569,646",doll_2.97 m,technology
+376,italy,2,11.0,2013,falzi,"391,540",doll_2.04 m,waste management & recycling
+377,spain,62,504.0,2015,atrys health,"6,035,116",doll_31.4 m,health
+378,italy,1,4.0,2016,il cantiere costruzioni,"826,430",doll_4.3 m,construction
+379,germany,13,22.0,2004,soorce,"3,013,629",doll_15.64 m,support services
+380,belgium,26,85.0,2013,sortlist,"655,000",doll_3.4 m,technology
+381,poland,90,234.0,2010,virtuslab,"2,635,420",doll_12.47 m,technology
+382,sweden,5,16.0,2012,skalhuset.se,"1,454,711",doll_7.34 m,ecommerce
+383,germany,6,26.0,2013,vipino,"2,148,122",doll_11.07 m,retail
+384,italy,30,133.0,2015,gea service,"1,304,060",doll_6.67 m,waste management & recycling
+385,italy,12,62.0,2016,gellify,"1,090,920",doll_5.58 m,technology
+386,uk,42,92.0,2014,billion dollar boy,"2,577,297",doll_13.09 m,advertising
+387,italy,19,58.0,2014,westrafo,"4,356,500",doll_22.07 m,energy
+388,the netherlands,10,21.0,2015,goboony,"340,309",doll_1.72 m,travel & leisure
+389,italy,60,180.0,2016,multiservice ambrosiana,"846,360",doll_4.27 m,support services
+390,germany,16,65.0,2016,b&c systems,"1,061,327",doll_5.34 m,construction
+391,bulgaria,31,10.0,2014,s&g solar,"792,093",doll_3.98 m,energy
+392,romania,40,120.0,2007,bittnet,"4,641,712",doll_22.44 m,management consulting
+393,belgium,47,204.0,2013,ibanfirst,"2,408,187",doll_12.06 m,fintech
+394,germany,20,46.0,2013,uplink network,"5,629,906",doll_28.14 m,telecoms
+395,france,6,25.0,2015,base organic food,"2,163,006",doll_10.8 m,agricultural commodities
+396,uk,20,74.0,2009,currentbody,"7,671,961",doll_38.0 m,ecommerce
+397,uk,1,6.0,2016,apex aero,"770,031",doll_3.81 m,aerospace & defence
+398,poland,25,59.0,2016,startup development house,"303,615",doll_1.51 m,technology
+399,italy,8,806.0,2010,gruppo gheron,"11,728,040",doll_58.42 m,health
+400,italy,5,30.0,2016,dyflowing,"341,370",doll_1.7 m,technology
+401,germany,22,40.0,2016,digital masters,"608,053",doll_3.02 m,advertising
+402,germany,3,17.0,2017,prusseit auto-outlet,"520,998",doll_2.58 m,automobiles
+403,norway,30,72.0,2002,techouse,"6,863,940",doll_31.85 m,energy
+404,italy,3,8.0,2016,svs,"1,965,560",doll_9.69 m,construction
+405,uk,18,86.0,2017,telcoswitch group,"1,543,824",doll_7.52 m,telecoms
+406,germany,3,8.0,2017,bothe-reimann tortechnik,"464,354",doll_2.28 m,construction
+407,italy,8,12.0,2012,e-pol / personalizzalo,"3,284,400",doll_16.09 m,ecommerce
+408,spain,3,18.0,2016,riluxa,"700,007",doll_3.43 m,interiors
+409,france,6,8.0,2002,modalis,"3,915,724",doll_19.17 m,transport
+410,france,8,27.0,2016,olympp,"1,127,652",doll_5.51 m,technology
+411,germany,4,25.0,2013,zeck fishing,"1,401,463",doll_6.81 m,retail
+412,bulgaria,16,25.0,2011,storpool storage,"681,460",doll_3.31 m,technology
+413,germany,72,164.0,2013,vimcar,"3,035,269",doll_14.67 m,technology
+414,france,5,8.0,2011,joannes distribution sas,"1,468,200",doll_7.06 m,retail
+415,france,8,30.0,2011,sourcing force,"2,663,699",doll_12.81 m,technology
+416,germany,16,60.0,2000,schalttechnik nord,"2,601,157",doll_12.49 m,technology
+417,germany,5,27.0,2015,dgc,"329,298",doll_1.58 m,cyber security
+418,france,28,202.0,2013,superprof,"2,136,626",doll_10.17 m,education
+419,uk,12,48.0,2011,improveasy,"5,602,132",doll_26.45 m,management consulting
+420,france,8,30.0,2014,viarã©no,"1,459,655",doll_6.94 m,construction
+421,slovakia,10,19.0,2013,cmt,"411,858",doll_1.95 m,waste management & recycling
+422,poland,31,97.0,2014,rets,"1,201,964",doll_5.21 m,property
+423,uk,33,104.0,2007,mubi,"3,954,351",doll_18.36 m,media
+424,italy,3,27.0,2001,dynamicom education,"1,906,790",doll_9.02 m,education
+425,slovakia,25,47.0,2015,touch4it,"437,747",doll_2.06 m,technology
+426,italy,4,8.0,1986,tattahome.com,"595,800",doll_2.8 m,interiors
+427,uk,37,90.0,2006,speechmatics,"1,541,070",doll_7.16 m,technology
+428,spain,20,118.0,2012,samy road,"4,163,750",doll_19.46 m,advertising
+429,italy,6,9.0,2006,prometeo,"766,510",doll_3.58 m,support services
+430,uk,65,260.0,2015,dialectica,"3,688,264",doll_17.08 m,management consulting
+431,uk,32,62.0,2009,wolf & badger,"2,508,842",doll_11.6 m,ecommerce
+432,france,28,94.0,2009,eco co2,"1,982,251",doll_9.22 m,support services
+433,hungary,3,20.0,2011,lakã³gã©p kft.,"6,328,462",doll_25.34 m,construction
+434,germany,9,20.0,2017,beyer betonwaren,"443,694",doll_2.06 m,construction
+435,france,12,42.0,2011,fill up mã©dia,"1,081,079",doll_5.0 m,media
+436,italy,4,6.0,1984,zara imballaggi fabriano,"496,790",doll_2.3 m,industrial goods
+437,poland,744,1177.0,1994,cd projekt,"110,835,763",doll_468.26 m,games industry
+438,germany,1,10.0,2015,vpace bikes,"573,145",doll_2.64 m,retail
+439,spain,0,6.0,2014,tooltester,"790,712",doll_3.65 m,sales & marketing
+440,estonia,2,7.0,2015,bunker partner,"22,060,642",doll_101.73 m,energy
+441,france,40,130.0,2006,tikamoon,"12,200,275",doll_56.12 m,ecommerce
+442,croatia,10,8.0,2013,s.t.a.r. digital,"699,907",doll_3.21 m,advertising
+443,uk,29,62.0,2011,funding options,"1,297,717",doll_5.92 m,fintech
+444,italy,8,14.0,2014,isimed,"1,050,660",doll_4.83 m,health
+445,switzerland,50,195.0,2008,"sonar, sonarqube, sonarcloud, sonarlint","16,861,349",doll_83.63 m,technology
+446,germany,4,30.0,2016,scherer,"934,994",doll_4.29 m,support services
+447,italy,14,24.0,2002,mycroclean italia,"736,000",doll_3.37 m,support services
+448,italy,8,16.0,2015,piscor,"1,061,360",doll_4.84 m,ecommerce
+449,italy,1,3.0,2016,marwincar,"1,114,200",doll_5.08 m,automobiles
+450,uk,288,1038.0,1993,brighton & hove albion football club,"32,824,451",doll_148.51 m,travel & leisure
+451,bulgaria,5,60.0,2015,inpe transport,"398,676",doll_1.82 m,transport
+452,poland,266,773.0,2013,rtb house,"45,981,552",doll_191.6 m,technology
+453,france,27,38.0,2010,obiz,"3,389,300",doll_15.38 m,media
+454,italy,33,70.0,2012,vmway,"3,525,720",doll_15.9 m,technology
+455,poland,8,12.0,2009,legimi,"1,698,358",doll_7.01 m,media
+456,germany,5,11.0,2011,msg beauty,"645,633",doll_2.91 m,retail
+457,germany,4,11.0,2014,leogra trading,"1,128,243",doll_5.08 m,retail
+458,italy,10,32.0,2012,benefind,"505,520",doll_2.26 m,technology
+459,italy,5,13.0,2017,ab oil & gas service,"516,640",doll_2.31 m,support services
+460,spain,14,23.0,2013,mailtrack,"775,341",doll_3.45 m,technology
+461,uk,15,33.0,2013,bumper,"771,504",doll_3.39 m,fintech
+462,germany,22,46.0,2015,otl - online trainer,"1,492,190",doll_6.61 m,health
+463,italy,9,17.0,2014,macingo technologies,"361,790",doll_1.6 m,support services
+464,germany,120,210.0,2014,mycs,"8,935,361",doll_39.36 m,retail
+465,germany,23,92.0,2008,audience serv,"1,389,534",doll_6.11 m,advertising
+466,italy,4,8.0,2012,start,"857,590",doll_3.77 m,telecoms
+467,the netherlands,8,29.0,2010,mvh media,"544,943",doll_2.39 m,sales & marketing
+468,france,1,2.0,2010,pure gaming,"1,593,667",doll_6.98 m,ecommerce
+469,uk,4,8.0,1998,parcel compare,"2,091,995",doll_9.09 m,transport
+470,italy,71,81.0,1979,ames centro polidiagnostico strumentale,"9,235,130",doll_40.39 m,health
+471,italy,1,6.0,2016,arcadia italia,"743,130",doll_3.25 m,energy
+472,uk,16,43.0,2016,zia lucia,"1,119,494",doll_4.85 m,restaurants
+473,italy,16,37.0,1952,travaglini costruzioni,"1,062,010",doll_4.6 m,construction
+474,spain,10,81.0,2008,versa design zycle,"2,199,640",doll_9.5 m,technology
+475,germany,5,15.0,2016,maucher consult,"452,091",doll_1.95 m,construction
+476,italy,51,137.0,2015,ayes,"2,510,930",doll_10.83 m,technology
+477,italy,1,5.0,2016,brandup group,"630,660",doll_2.72 m,advertising
+478,italy,11,19.0,2012,opyn,"969,930",doll_4.17 m,financial services
+479,uk,4,8.0,2014,var capital,"499,815",doll_2.13 m,financial services
+480,uk,9,25.0,2017,storyterrace,"667,467",doll_2.84 m,technology
+481,slovenia,8,22.0,2009,blubit,"691,140",doll_2.96 m,technology
+482,france,9,9.0,2014,zenâup,"441,271",doll_1.89 m,insurance
+483,germany,17,25.0,2001,lã¶rcher bauunternehmen,"917,735",doll_3.93 m,construction
+484,the netherlands,23,62.0,2010,barcode architects,"1,134,256",doll_4.85 m,architecture
+485,france,9,27.0,2002,top chaleur,"1,702,165",doll_7.26 m,retail
+486,italy,52,160.0,1999,seingim,"3,163,540",doll_13.48 m,construction
+487,uk,21,49.0,2008,amphibian scaffolding,"948,813",doll_4.01 m,construction
+488,liechtenstein,205,551.0,2009,beliani,"20,298,288",doll_93.44 m,ecommerce
+489,sweden,17,45.0,2011,hatstore,"4,195,789",doll_17.45 m,ecommerce
+490,italy,19,27.0,2006,carpenteria martino,"2,286,000",doll_9.72 m,construction
+491,uk,61,147.0,2012,capitalontap,"19,489,369",doll_82.24 m,fintech
+492,poland,199,637.0,2008,netguru,"8,933,769",doll_34.68 m,technology
+493,italy,6,7.0,2014,fazio,"799,170",doll_3.38 m,retail
+494,germany,37,84.0,2010,grillfã¼rst,"9,145,411",doll_38.6 m,retail
+495,italy,14,18.0,2017,dealernet,"5,394,020",doll_22.7 m,automobiles
+496,germany,14,57.0,2013,alpha real estate,"28,378,990",doll_119.16 m,property
+497,belgium,12,74.0,2013,appwise,"1,084,812",doll_4.55 m,technology
+498,greece,17,55.0,2014,convert group,"666,118",doll_2.79 m,technology
+499,sweden,17,65.0,2013,revolution race,"21,841,341",doll_89.33 m,ecommerce
+500,france,11,40.0,2009,gong galaxy,"2,708,258",doll_11.32 m,retail
+501,italy,8,8.0,2011,gdr costruzioni,"376,440",doll_1.57 m,construction
+502,italy,1,4.0,2015,emporio elettrico,"473,640",doll_1.98 m,ecommerce
+503,uk,15,87.0,2012,exscientia ai,"2,606,296",doll_10.81 m,technology
+504,uk,128,324.0,2005,featurespace,"5,688,822",doll_23.5 m,fintech
+505,france,3,11.0,2016,xl energies,"2,013,403",doll_8.36 m,energy
+506,spain,20,43.0,2015,claveria,"1,137,450",doll_4.72 m,support services
+507,germany,3,4.0,2010,timberagents,"1,280,989",doll_5.3 m,retail
+508,france,2,30.0,2012,fermeture econâhome,"451,196",doll_1.86 m,construction
+509,sweden,20,70.0,2014,nrse,"815,449",doll_3.27 m,management consulting
+510,germany,16,21.0,2011,simwert,"6,450,759",doll_26.39 m,telecoms
+511,uk,2,24.0,2015,flex legal,"1,064,498",doll_4.32 m,law
+512,norway,15,41.0,2010,documaster,"868,552",doll_3.33 m,technology
+513,germany,1,4.0,2014,immo-team allgã¤u,"5,381,108",doll_21.97 m,construction
+514,germany,17,57.0,2014,creditshelf,"1,201,900",doll_4.9 m,financial services
+515,italy,7,10.0,2016,blife,"1,016,480",doll_4.13 m,food & beverage
+516,italy,9,18.0,2004,nohup,"1,177,860",doll_4.79 m,technology
+517,poland,17,56.0,2012,noctuai,"657,377",doll_2.44 m,technology
+518,germany,47,96.0,2013,ares,"3,450,000",doll_14.0 m,industrial goods
+519,uk,242,399.0,2000,moonpig group,"102,139,979",doll_411.39 m,ecommerce
+520,uk,15,22.0,2016,wealth club,"1,685,348",doll_6.77 m,financial services
+521,france,4,25.0,2016,factory,"3,119,000",doll_12.61 m,property
+522,spain,2,6.0,2016,beck ingredients,"1,865,319",doll_7.53 m,health
+523,hungary,3,3.0,2010,mentors & partners group,"524,552",doll_1.82 m,management consulting
+524,the netherlands,4,9.0,2011,sb supply,"1,081,844",doll_4.36 m,ecommerce
+525,czech republic,8,24.0,2015,mediaboard,"572,798",doll_2.24 m,media
+526,france,20,80.0,2012,dw trans,"2,357,096",doll_9.49 m,transport
+527,france,2,4.0,2006,nacelexpert,"679,247",doll_2.73 m,industrial goods
+528,germany,14,31.0,2015,keylight,"871,779",doll_3.5 m,technology
+529,italy,3,13.0,2011,technacy,"762,200",doll_3.06 m,technology
+530,france,12,25.0,2011,genoskin,"700,823",doll_2.81 m,chemicals & pharmaceuticals
+531,uk,12,21.0,2013,payment assist,"1,518,678",doll_5.99 m,fintech
+532,germany,14,65.0,2013,my boo,"1,184,000",doll_4.71 m,retail
+533,sweden,11,25.0,2012,84codes.com,"3,118,698",doll_12.12 m,technology
+534,germany,6,20.0,2013,klg liquida,"1,267,224",doll_5.03 m,chemicals & pharmaceuticals
+535,france,8,35.0,2011,ignimission,"574,323",doll_2.28 m,technology
+536,italy,4,7.0,2013,adamant bionrg,"29,718,000",doll_118.0 m,energy
+537,uk,2,5.0,2015,xplort,"571,513",doll_2.25 m,interiors
+538,uk,7,12.0,2010,bambridge accountants,"855,283",doll_3.37 m,financial services
+539,slovakia,7,13.0,2016,g2park,"732,924",doll_2.9 m,property
+540,italy,2,5.0,2014,pelizzari studio,"663,100",doll_2.63 m,architecture
+541,the netherlands,4,9.0,2014,postex,"1,334,213",doll_5.25 m,technology
+542,italy,5,5.0,2013,consorzio stabile ambientemilia,"2,492,730",doll_9.75 m,waste management & recycling
+543,italy,6,12.0,2016,yocabeâ,"842,600",doll_3.29 m,ecommerce
+544,france,19,33.0,2012,chez nestor,"2,189,720",doll_8.56 m,property
+545,italy,2,9.0,2016,mint italia,"621,500",doll_2.42 m,transport
+546,the netherlands,27,233.0,2012,sendcloud,"21,052,232",doll_81.78 m,ecommerce
+547,italy,6,10.0,2008,datakey software engineering,"488,940",doll_1.9 m,technology
+548,romania,21,41.0,2015,metaminds,"8,605,113",doll_32.1 m,cyber security
+549,italy,11,29.0,2012,time vision,"721,090",doll_2.79 m,education
+550,germany,16,36.0,2013,werksrã¤der24,"3,847,000",doll_14.9 m,automobiles
+551,uk,35,70.0,2008,fod mobility group,"3,465,675",doll_13.31 m,technology
+552,italy,10,60.0,2007,selferg,"531,960",doll_2.05 m,energy
+553,lithuania,45,94.0,2012,poppri fashion auctions,"3,386,414",doll_13.03 m,ecommerce
+554,uk,156,194.0,2008,vizion network,"30,862,156",doll_117.82 m,automobiles
+555,uk,27,66.0,2017,beyond law group*,"2,159,010",doll_8.23 m,law
+556,germany,13,14.0,2014,eda warehousing,"1,190,000",doll_4.57 m,transport
+557,germany,45,90.0,2013,bpv,"5,923,571",doll_22.7 m,telecoms
+558,france,29,81.0,2013,ultra premium direct,"5,422,583",doll_20.78 m,agricultural commodities
+559,spain,12,24.0,2013,afr-ix telecom,"2,593,649",doll_9.93 m,telecoms
+560,poland,28,44.0,2010,blue energy,"1,293,181",doll_4.53 m,cyber security
+561,france,5,15.0,2013,câjuste paris,"628,388",doll_2.4 m,retail
+562,france,13,44.0,2007,sos-accessoire,"3,848,262",doll_14.69 m,ecommerce
+563,germany,18,27.0,2017,hannes kã¶nig,"2,295,632",doll_8.75 m,construction
+564,germany,6,9.0,2007,zanatta media group,"2,202,906",doll_8.38 m,advertising
+565,uk,18,20.0,1997,wastepack,"5,924,389",doll_22.37 m,waste management & recycling
+566,italy,7,17.0,2010,radar consulting italia,"416,960",doll_1.58 m,support services
+567,france,32,53.0,2014,agriconomie,"9,838,779",doll_37.25 m,agricultural commodities
+568,spain,187,364.0,2014,anytech365,"4,985,758",doll_18.74 m,technology
+569,uk,4,12.0,2013,cladspray solutions,"499,484",doll_1.86 m,construction
+570,france,10,50.0,2015,im global partner,"8,392,541",doll_31.46 m,financial services
+571,italy,2,6.0,1983,confinvest,"10,982,110",doll_41.13 m,precious metals
+572,france,2,3.0,2012,ethic technology,"2,229,273",doll_8.34 m,technology
+573,italy,6,7.0,2001,bomax,"19,088,830",doll_71.29 m,telecoms
+574,germany,4,15.0,2017,kk-trade,"1,174,770",doll_4.38 m,retail
+575,germany,4,26.0,2015,marsapet,"1,061,642",doll_3.96 m,retail
+576,italy,8,16.0,2015,gruppo tera,"5,428,300",doll_20.22 m,ecommerce
+577,italy,7,14.0,2009,codiceplastico,"824,450",doll_3.07 m,technology
+578,romania,185,426.0,2005,tremend,"5,772,716",doll_20.68 m,technology
+579,spain,17,61.0,2010,doofinder,"1,771,758",doll_6.59 m,technology
+580,lithuania,80,780.0,2004,hostinger,"6,955,394",doll_25.86 m,technology
+581,switzerland,9,39.0,2013,catalyx,"1,627,160",doll_6.54 m,sales & marketing
+582,bulgaria,6,9.0,2016,harness code,"599,612",doll_2.22 m,sales & marketing
+583,italy,5,17.0,2014,nanoprom chemicals,"749,940",doll_2.78 m,chemicals & pharmaceuticals
+584,spain,27,49.0,2012,elite,"2,716,240",doll_10.06 m,construction
+585,poland,26,119.0,2012,appunite,"1,310,532",doll_4.42 m,technology
+586,france,2,7.0,2006,eskalia et nakupenda,"410,775",doll_1.52 m,retail
+587,germany,3,12.0,2006,lgx logistics,"2,191,733",doll_8.07 m,transport
+588,portugal,11,22.0,2015,polipop,"910,392",doll_3.35 m,industrial goods
+589,italy,1,10.0,2016,stampasi,"691,110",doll_2.54 m,ecommerce
+590,italy,45,67.0,1984,cam,"3,336,600",doll_12.28 m,industrial goods
+591,france,12,37.0,2012,plug in digital,"3,743,740",doll_13.77 m,media
+592,poland,82,241.0,2009,predica,"5,233,937",doll_17.59 m,technology
+593,spain,2,19.0,2009,ocean transport,"1,304,073",doll_4.78 m,transport
+594,uk,103,75.0,1997,serinus,"5,474,802",doll_19.65 m,energy
+595,germany,20,50.0,2009,demv deutscher maklerverbund,"1,375,943",doll_5.01 m,financial services
+596,spain,53,221.0,1996,sti norland,"54,990,779",doll_199.82 m,energy
+597,germany,27,76.0,2011,hd elektrotechnik,"1,158,042",doll_4.21 m,technology
+598,italy,1,9.0,2017,engenie group,"558,480",doll_2.03 m,technology
+599,france,25,64.0,2016,groupe n.a.t,"1,156,596",doll_4.18 m,support services
+600,italy,2,5.0,2015,la sarraz pictures,"419,430",doll_1.51 m,media
+601,germany,5,9.0,2016,smart-planet,"1,276,483",doll_4.6 m,retail
+602,italy,8,49.0,2015,sidea group,"674,560",doll_2.43 m,management consulting
+603,france,5,17.0,2004,couteaujaponais.com,"1,272,558",doll_4.58 m,retail
+604,france,20,58.0,2010,physidia,"4,656,191",doll_16.75 m,health
+605,germany,2,3.0,2013,horando deutschland,"2,257,390",doll_8.11 m,retail
+606,poland,22,79.0,2004,"diablochairs, jan nowak","6,549,376",doll_21.52 m,ecommerce
+607,sweden,16,28.0,2011,parkster,"15,711,602",doll_55.14 m,technology
+608,france,5,13.0,2015,biotyfull,"5,642,145",doll_20.25 m,ecommerce
+609,spain,14,51.0,2014,bioksan,"1,650,756",doll_5.91 m,food & beverage
+610,norway,37,118.0,1999,trippel,"910,070",doll_3.06 m,support services
+611,uk,15,32.0,2013,yourparkingspace limited,"3,904,618",doll_13.86 m,technology
+612,france,1,35.0,2012,carslift,"622,989",doll_2.23 m,automobiles
+613,germany,5,11.0,2009,zimmerei nordmann,"580,537",doll_2.07 m,construction
+614,germany,20,40.0,2015,si silicone innovation,"1,018,843",doll_3.64 m,industrial goods
+615,germany,8,12.0,2010,a.u.e. genc warenhandels-ug,"5,573,000",doll_19.89 m,retail
+616,italy,10,18.0,2010,mgvision,"1,127,170",doll_4.01 m,advertising
+617,italy,13,26.0,2015,new general service,"433,540",doll_1.54 m,support services
+618,france,15,41.0,2010,andre renovation,"3,266,703",doll_11.59 m,construction
+619,italy,10,14.0,2017,m.d.g. components unipersonale,"644,440",doll_2.28 m,industrial goods
+620,bulgaria,5,22.0,2011,amco-bulgaria,"1,778,274",doll_6.3 m,retail
+621,uk,16,39.0,2005,symprove,"3,498,275",doll_12.3 m,personal & household goods
+622,uk,10,22.0,2015,tecknuovo,"7,477,852",doll_26.27 m,technology
+623,france,62,217.0,2010,platform.sh,"6,242,232",doll_22.08 m,technology
+624,germany,5,46.0,2011,isg express logistik,"1,646,307",doll_5.82 m,transport
+625,italy,55,173.0,2008,manelli impresa,"12,259,540",doll_43.36 m,construction
+626,portugal,22,53.0,2009,sa formaã§ã£o,"1,031,733",doll_3.65 m,education
+627,germany,3,14.0,2015,sm sektmanufaktur,"681,652",doll_2.41 m,industrial goods
+628,germany,8,31.0,2011,beauty consult deutschland,"1,055,100",doll_3.73 m,health
+629,italy,5,8.0,1977,finauto,"3,350,270",doll_11.79 m,automobiles
+630,france,18,21.0,2009,aucoffre.com,"32,428,296",doll_114.04 m,financial services
+631,uk,37,46.0,2014,divido,"1,084,616",doll_3.79 m,fintech
+632,germany,6,17.0,2016,r&k ingenieure,"1,482,100",doll_5.21 m,construction
+633,uk,11,25.0,2011,nephos technologies,"5,031,697",doll_17.56 m,technology
+634,uk,8,15.0,2002,la vida,"2,178,629",doll_7.57 m,support services
+635,uk,4,12.0,2012,midstream lighting,"2,363,526",doll_8.2 m,technology
+636,france,2,2.0,2014,propulse it,"1,809,858",doll_6.33 m,technology
+637,spain,25,30.0,2012,additius santa maria,"9,100,083",doll_31.76 m,agricultural commodities
+638,france,3,15.0,2017,conexio telecom,"547,084",doll_1.91 m,telecoms
+639,germany,5,9.0,2012,tripin,"1,568,506",doll_5.47 m,retail
+640,hungary,4,9.0,1996,continental wood kft.,"910,973",doll_2.72 m,industrial goods
+641,italy,71,120.0,2008,geoteam,"2,195,780",doll_7.62 m,energy
+642,france,4,7.0,2014,leascorp,"5,325,214",doll_18.48 m,financial services
+643,uk,3,19.0,2014,positive healthcare,"1,954,609",doll_6.73 m,management consulting
+644,germany,4,8.0,2010,ralph schmolke,"658,317",doll_2.28 m,retail
+645,italy,2,10.0,2016,roomie milano,"1,079,340",doll_3.73 m,property
+646,romania,40,89.0,2007,trencadis corp,"6,137,755",doll_20.41 m,technology
+647,france,4,11.0,2016,worteks,"541,582",doll_1.87 m,technology
+648,france,27,74.0,2015,remove,"2,608,093",doll_8.99 m,construction
+649,czech republic,15,27.0,2006,citadelo,"452,557",doll_1.56 m,cyber security
+650,germany,13,26.0,2017,grill autoservice,"5,283,415",doll_18.14 m,automobiles
+651,spain,8,15.0,2013,inbrooll,"776,268",doll_2.66 m,industrial goods
+652,germany,3,4.0,2010,cross,"25,858,983",doll_88.59 m,retail
+653,italy,2,6.0,2010,b1gas s.p.a,"12,106,480",doll_41.47 m,energy
+654,italy,8,10.0,2009,filva,"1,808,710",doll_6.19 m,construction
+655,italy,2,6.0,2005,archingest,"1,030,000",doll_3.52 m,construction
+656,uk,51,124.0,2009,alpha fx group,"15,241,075",doll_51.64 m,financial services
+657,switzerland,7,50.0,2012,lemonads,"1,451,770",doll_4.95 m,advertising
+658,norway,71,213.0,2007,signicat,"13,309,441",doll_42.51 m,technology
+659,germany,41,55.0,1965,alfred dã¶pker,"22,730,529",doll_77.36 m,construction
+660,germany,42,88.0,2001,bavaria-ei,"3,842,670",doll_13.07 m,retail
+661,lithuania,57,245.0,2015,oxylabs.io,"7,381,686",doll_25.04 m,technology
+662,germany,2,5.0,2014,a.s.h. automobile,"687,958",doll_2.33 m,automobiles
+663,hungary,18,57.0,2007,vascular,"9,987,236",doll_29.1 m,health
+664,france,30,57.0,2015,andjaro,"943,718",doll_3.19 m,support services
+665,germany,22,34.0,2013,rã¶hrtaler wertstoff,"973,460",doll_3.29 m,waste management & recycling
+666,uk,6,7.0,2016,autel karnetic,"2,543,343",doll_8.52 m,technology
+667,italy,8,10.0,2013,discoup.com,"616,520",doll_2.08 m,advertising
+668,cyprus,52,85.0,2011,hellas direct,"10,247,832",doll_34.49 m,insurance
+669,germany,30,45.0,2009,herrles,"3,044,054",doll_10.24 m,automobiles
+670,austria,6,12.0,2016,investmentpunk academy,"947,000",doll_3.18 m,education
+671,germany,6,13.0,2015,born stahlbau,"1,351,164",doll_4.53 m,industrial goods
+672,germany,5,7.0,2016,rettel projektbau,"2,410,212",doll_8.07 m,construction
+673,italy,2,4.0,2005,suntronic,"700,960",doll_2.35 m,energy
+674,italy,6,42.0,2014,tmt,"3,811,838",doll_12.76 m,industrial goods
+675,germany,2,5.0,2015,gedankenburg,"881,275",doll_2.95 m,advertising
+676,sweden,6,16.0,2013,svop special vehicle operation,"1,385,662",doll_4.53 m,automobiles
+677,uk,132,415.0,2011,glenholme healthcare group,"4,476,517",doll_14.85 m,health
+678,france,230,720.0,2013,audensiel,"17,203,160",doll_57.45 m,technology
+679,spain,34,106.0,2011,ivnosys,"2,618,069",doll_8.74 m,technology
+680,spain,30,45.0,2012,mulconsa,"2,002,982",doll_6.69 m,construction
+681,germany,14,54.0,2004,50nrth,"10,518,963",doll_35.11 m,retail
+682,croatia,6,10.0,2008,delecto,"793,957",doll_2.65 m,retail
+683,poland,7,47.0,2015,mardruk opakowania,"1,058,063",doll_3.23 m,industrial goods
+684,france,15,40.0,2012,manang,"1,862,272",doll_6.21 m,construction
+685,germany,21,27.0,2011,bestbion dx,"4,461,170",doll_14.86 m,health
+686,uk,7,21.0,2015,avamore capital,"772,943",doll_2.55 m,financial services
+687,germany,13,30.0,2011,solaris and more,"1,414,501",doll_4.69 m,energy
+688,uk,8,11.0,2015,clearcycle,"660,767",doll_2.18 m,retail
+689,france,12,35.0,2005,opteamis,"4,180,523",doll_13.86 m,support services
+690,spain,10,20.0,2010,codenor,"1,926,967",doll_6.39 m,construction
+691,france,8,18.0,2015,happybulle,"1,271,353",doll_4.21 m,ecommerce
+692,uk,46,158.0,2013,aurora energy research,"4,587,687",doll_15.08 m,energy
+693,spain,19,14.0,2003,bacci,"7,265,350",doll_24.05 m,fashion
+694,italy,8,25.0,2013,emilia foods,"8,110,160",doll_26.82 m,food & beverage
+695,italy,82,211.0,2001,t.e.a.m. - ti educa a migliorare,"1,020,690",doll_3.37 m,health
+696,poland,30,75.0,2016,brainhub,"1,163,241",doll_3.51 m,technology
+697,italy,10,9.0,2016,assitech,"810,750",doll_2.68 m,construction
+698,uk,4,11.0,2016,schott packaging,"694,501",doll_2.27 m,ecommerce
+699,italy,12,30.0,2010,alba,"1,001,740",doll_3.3 m,energy
+700,uk,219,740.0,2013,fintru,"9,915,609",doll_32.39 m,financial services
+701,italy,4,5.0,2011,global edilizia,"1,226,000",doll_4.03 m,construction
+702,uk,2,381.0,2016,tpximpact,"17,515,305",doll_57.09 m,management consulting
+703,italy,6,9.0,2010,lgs sportlab,"1,222,870",doll_4.01 m,advertising
+704,germany,4,45.0,2005,weiser brandschutz & technik,"1,825,769",doll_5.99 m,construction
+705,uk,13,47.0,2013,fairfax and favor,"5,602,279",doll_18.18 m,fashion
+706,france,39,85.0,2014,fao consulting,"2,384,156",doll_7.78 m,technology
+707,italy,8,37.0,2010,gruppo del barba consulting,"1,794,120",doll_5.86 m,financial services
+708,uk,62,109.0,2003,exclaimer,"8,075,796",doll_26.14 m,technology
+709,italy,25,77.0,2013,join business management consulting,"3,128,700",doll_10.19 m,management consulting
+710,germany,27,57.0,2003,vennes,"5,244,000",doll_17.05 m,construction
+711,the netherlands,7,31.0,2013,piggy,"906,341",doll_2.95 m,technology
+712,finland,40,130.0,2007,epassi,"63,207,258",doll_205.31 m,fintech
+713,germany,150,315.0,2010,atheneum partners,"10,300,000",doll_33.4 m,technology
+714,uk,211,454.0,1999,pharmacy2u,"48,580,102",doll_156.23 m,technology
+715,france,6,18.0,2011,phoenix developpement,"556,159",doll_1.8 m,support services
+716,germany,10,25.0,2016,wiwie transport,"1,300,000",doll_4.2 m,transport
+717,romania,23,31.0,2003,mevas auto center,"834,708",doll_2.6 m,automobiles
+718,germany,21,35.0,2015,bk beachhouse mode,"1,602,458",doll_5.17 m,retail
+719,italy,3,9.0,2015,f.lli urso,"622,800",doll_2.01 m,construction
+720,uk,61,166.0,2011,gohenry,"6,882,489",doll_22.02 m,financial services
+721,italy,634,816.0,2014,adrilog,"17,727,950",doll_57.06 m,transport
+722,uk,2,6.0,2015,attachment,"2,250,946",doll_7.19 m,advertising
+723,france,15,25.0,2015,paris herbes,"4,020,469",doll_12.93 m,agricultural commodities
+724,france,37,28.0,2015,interlog logistic,"1,703,819",doll_5.48 m,transport
+725,italy,34,75.0,1975,conglomerati bituminosi,"10,393,680",doll_33.37 m,construction
+726,belgium,5,26.0,2010,nikkel art,"1,172,617",doll_3.76 m,ecommerce
+727,italy,9,25.0,2011,esyen,"1,206,770",doll_3.87 m,technology
+728,uk,104,165.0,2014,sav-eco packaging ltd,"5,322,238",doll_16.92 m,industrial goods
+729,germany,8,19.0,2016,elmar mair tiefbau,"719,638",doll_2.3 m,construction
+730,spain,12,15.0,2014,atlas innovative engineering,"1,094,666",doll_3.5 m,energy
+731,france,48,76.0,2010,secure-ic,"2,171,492",doll_6.93 m,technology
+732,france,16,36.0,2014,datalyo,"1,111,687",doll_3.54 m,technology
+733,uk,14,29.0,2016,signify technology,"805,029",doll_2.55 m,management consulting
+734,uk,20,59.0,2017,boxt,"12,127,395",doll_38.37 m,ecommerce
+735,uk,55,158.0,2010,james and james fulfilment,"9,762,332",doll_30.89 m,ecommerce
+736,italy,5,9.0,2014,armonie,"879,670",doll_2.8 m,food & beverage
+737,italy,1,5.0,2017,maverick group,"1,674,690",doll_5.31 m,technology
+738,italy,10,29.0,2012,brainpull,"1,344,240",doll_4.26 m,advertising
+739,france,4,15.0,2014,wiseband,"516,164",doll_1.64 m,media
+740,france,4,15.0,2013,groupe ezdo la boulangerie des gourmets,"12,867,410",doll_40.78 m,agricultural commodities
+741,poland,257,396.0,2010,pakar service,"3,363,800",doll_9.73 m,support services
+742,france,62,117.0,2000,bio-uv,"10,181,000",doll_32.17 m,industrial goods
+743,italy,2,14.0,2015,f.g. service,"809,450",doll_2.55 m,construction
+744,italy,2,125.0,2012,allways logistics system,"3,033,150",doll_9.57 m,transport
+745,sweden,75,164.0,2013,matsmart,"16,075,963",doll_49.58 m,ecommerce
+746,germany,2,5.0,2016,autargo,"573,070",doll_1.81 m,construction
+747,norway,7,9.0,2015,brewshop.no,"1,484,883",doll_4.39 m,food & beverage
+748,italy,3,15.0,2016,visualitics,"676,000",doll_2.13 m,technology
+749,germany,14,32.0,2016,hifi extra,"15,610,826",doll_49.19 m,retail
+750,germany,70,150.0,2013,ankerkraut,"8,271,702",doll_26.01 m,food & beverage
+751,italy,98,205.0,2008,gda,"6,615,000",doll_20.75 m,fashion
+752,italy,9,25.0,2006,nexid,"859,960",doll_2.7 m,technology
+753,italy,7,16.0,2013,gs studio & service,"666,210",doll_2.09 m,energy
+754,italy,60,160.0,2006,neosperience,"5,229,000",doll_16.37 m,technology
+755,slovenia,11,16.0,2010,lunos,"2,031,522",doll_6.36 m,technology
+756,italy,39,71.0,2013,meic costruzioni,"3,342,120",doll_10.46 m,construction
+757,uk,12,14.0,2016,trident lifting solutions ltd,"5,105,700",doll_15.85 m,construction
+758,germany,28,69.0,2010,smart battery solutions,"3,264,000",doll_10.2 m,technology
+759,germany,10,20.0,2003,eu-bay commerce,"2,601,485",doll_8.12 m,retail
+760,germany,6,20.0,2009,jens rabe academy,"1,171,373",doll_3.66 m,education
+761,uk,407,1251.0,2010,hyperoptic,"18,649,681",doll_57.77 m,telecoms
+762,france,2,21.0,2009,sepale,"2,531,055",doll_7.88 m,energy
+763,italy,19,33.0,2005,3a informatica,"633,990",doll_1.97 m,telecoms
+764,france,10,22.0,2014,emsproto,"1,009,846",doll_3.14 m,ecommerce
+765,france,9,13.0,2011,laboratoires dermosun,"1,815,835",doll_5.63 m,chemicals & pharmaceuticals
+766,italy,13,23.0,2013,saico,"2,177,950",doll_6.74 m,construction
+767,italy,9,19.0,1956,nutis,"2,124,990",doll_6.57 m,food & beverage
+768,poland,12,23.0,2011,ogrodosfera.pl,"4,693,330",doll_13.26 m,ecommerce
+769,france,17,30.0,2010,svti,"1,290,312",doll_3.98 m,industrial goods
+770,italy,13,38.0,2011,enhancers,"1,087,520",doll_3.35 m,technology
+771,france,6,16.0,2012,agripower france,"2,498,792",doll_7.7 m,waste management & recycling
+772,italy,8,18.0,2014,next turbo technologies,"3,080,610",doll_9.48 m,industrial goods
+773,italy,46,98.0,2013,velvet media italia,"1,759,490",doll_5.41 m,advertising
+774,italy,9,35.0,2016,booster box,"667,837",doll_2.05 m,advertising
+775,slovakia,3,2.0,2014,rmf group,"1,072,117",doll_3.29 m,food & beverage
+776,uk,89,140.0,2005,darwin group limited,"23,141,358",doll_70.39 m,construction
+777,poland,90,230.0,2012,itfs,"3,730,405",doll_10.45 m,technology
+778,france,9,25.0,2015,skillsday,"1,031,988",doll_3.15 m,education
+779,finland,23,34.0,2010,gapps,"2,850,000",doll_8.71 m,technology
+780,italy,6,15.0,1984,maxfel,"720,650",doll_2.2 m,interiors
+781,spain,33,55.0,2012,herrero brigantina,"4,832,212",doll_14.73 m,insurance
+782,italy,3,6.0,2016,manitech,"1,263,420",doll_3.83 m,industrial goods
+783,italy,6,16.0,2016,tradeco,"1,944,720",doll_5.89 m,industrial goods
+784,france,13,28.0,2012,mon chasseur immo,"1,585,727",doll_4.79 m,property
+785,france,20,75.0,2013,upslide,"2,737,704",doll_8.27 m,support services
+786,france,5,18.0,2015,cogeclim energies,"868,406",doll_2.62 m,construction
+787,hungary,10,14.0,2004,cellarius,"989,785",doll_2.57 m,sales & marketing
+788,germany,75,141.0,2014,careful-service,"1,173,908",doll_3.54 m,health
+789,lithuania,24,30.0,2007,softneta,"590,642",doll_1.78 m,health
+790,uk,64,161.0,2016,progeny,"5,561,585",doll_16.6 m,financial services
+791,france,29,57.0,2009,web geo services,"8,022,358",doll_24.11 m,technology
+792,germany,,,2013,spedition ibov,"1,140,000",doll_3.42 m,transport
+793,germany,21,25.0,2014,mypostcard.com,"2,119,022",doll_6.36 m,retail
+794,germany,2,3.0,2013,variosan,"1,078,808",doll_3.23 m,retail
+795,germany,8,36.0,2013,riedle + bertsch,"777,849",doll_2.33 m,technology
+796,italy,23,50.0,1999,mobili fiver,"3,973,460",doll_11.9 m,interiors
+797,france,11,46.0,2015,klc desamiantage,"2,065,220",doll_6.18 m,construction
+798,france,3,6.0,2014,secret arts of spirits,"1,105,569",doll_3.31 m,retail
+799,uk,68,184.0,2011,mpb group limited,"24,429,686",doll_72.5 m,ecommerce
+800,germany,5,12.0,2016,3zehn auto discount,"8,527,777",doll_25.45 m,automobiles
+801,france,50,67.0,2012,adikteev,"15,292,051",doll_45.62 m,technology
+802,germany,3,50.0,2009,fundis reitsport,"2,370,645",doll_7.07 m,retail
+803,germany,9,17.0,2009,antriebstechnik ebner-seibold,"753,352",doll_2.25 m,retail
+804,belgium,30,102.0,2011,invibes advertising,"3,880,663",doll_11.53 m,technology
+805,italy,18,34.0,2014,jointly il welfare condiviso,"808,700",doll_2.4 m,support services
+806,sweden,10,23.0,2012,abtot mark & anlã¤ggning ab,"3,450,305",doll_9.98 m,construction
+807,germany,10,36.0,2012,dusapro immobilien,"11,484,801",doll_33.9 m,property
+808,france,4,8.0,2012,soldats films,"787,160",doll_2.32 m,media
+809,italy,120,287.0,2016,eagleprojects,"5,137,900",doll_15.14 m,telecoms
+810,italy,15,43.0,2013,agile lab,"1,897,650",doll_5.59 m,technology
+811,norway,4,8.0,2012,importpris.no,"1,126,971",doll_3.11 m,ecommerce
+812,germany,18,72.0,2011,truu,"4,245,861",doll_12.47 m,industrial goods
+813,france,5,15.0,2016,lâatelier,"1,461,226",doll_4.29 m,technology
+814,germany,7,22.0,2014,frigoclim kã¤lte-klima,"1,326,082",doll_3.89 m,construction
+815,germany,3,5.0,2013,m coffee company,"722,795",doll_2.12 m,retail
+816,france,12,22.0,2011,protextyl,"1,818,032",doll_5.32 m,retail
+817,france,14,18.0,2009,sp architecte,"964,998",doll_2.83 m,construction
+818,spain,54,178.0,2011,embargos a lo bestia,"7,709,375",doll_22.56 m,retail
+819,ireland,2,3.0,2011,snigel,"7,000,063",doll_20.48 m,technology
+820,germany,5,120.0,2006,ims rettungsdienst,"650,000",doll_1.9 m,health
+821,italy,1,16.0,2017,way2global sb,"828,820",doll_2.41 m,support services
+822,uk,3,33.0,2014,media access solutions,"1,181,642",doll_3.41 m,support services
+823,spain,21,44.0,2008,exadi,"14,649,568",doll_42.53 m,sales and marketing
+824,germany,10,29.0,2014,fiber-service-gesellschaft,"1,395,607",doll_4.05 m,telecoms
+825,poland,140,280.0,2010,tenderhut (group),"3,868,483",doll_10.26 m,technology
+826,spain,12,30.0,2016,worldwide fishing company,"48,449,141",doll_140.44 m,food & beverage
+827,italy,26,43.0,2013,doctor hail spa,"6,246,592",doll_18.1 m,automobiles
+828,germany,650,1500.0,2011,kbs group,"14,500,000",doll_42.01 m,support services
+829,estonia,5,12.0,2017,terre ehitus,"723,064",doll_2.09 m,construction
+830,germany,7,19.0,2013,bauer energiekonzepte,"12,554,325",doll_36.22 m,energy
+831,italy,26,77.0,2001,new euroart,"3,226,280",doll_9.31 m,construction
+832,italy,8,16.0,2015,capelli for you,"575,120",doll_1.66 m,beauty
+833,uk,133,371.0,2014,ogury,"37,992,902",doll_108.76 m,advertising
+834,germany,7,17.0,2017,tft ernst,"698,300",doll_2.01 m,construction
+835,uk,31,55.0,2001,somerford associates,"6,564,162",doll_18.76 m,technology
+836,germany,12,38.0,2012,arcadia investment,"2,818,652",doll_8.1 m,property
+837,italy,112,186.0,2009,filoblu,"19,351,090",doll_55.56 m,management consulting
+838,uk,8,21.0,2016,tribus digital,"685,567",doll_1.95 m,technology
+839,italy,20,35.0,2014,doit,"1,060,000",doll_3.04 m,technology
+840,uk,8,23.0,2009,global perspectives,"2,329,522",doll_6.63 m,health
+841,italy,8,25.0,1999,pirene,"527,910",doll_1.51 m,support services
+842,uk,39,183.0,2012,ipulse,"36,995,102",doll_105.15 m,personal & household goods
+843,germany,23,47.0,2002,blue networks,"2,322,241",doll_6.63 m,technology
+844,germany,20,35.0,2009,n. schwegler,"3,686,000",doll_10.51 m,construction
+845,germany,7,15.0,2002,marcus lutz bau,"659,402",doll_1.87 m,construction
+846,germany,3,4.0,2008,hkr-technik,"2,462,478",doll_7.0 m,retail
+847,germany,18,30.0,2007,licht + strom,"1,424,633",doll_4.04 m,technology
+848,germany,15,40.0,2009,die autowelt,"5,915,499",doll_16.75 m,automobiles
+849,france,4,9.0,2012,artheau aviation,"3,977,562",doll_11.26 m,aerospace & defence
+850,italy,13,22.0,2000,cepo,"1,592,170",doll_4.5 m,industrial goods
+851,france,1,2.0,2013,sneakers & jackets,"1,022,714",doll_2.89 m,financial services
+852,uk,11,26.0,2009,89up,"647,020",doll_1.81 m,advertising
+853,france,na,4.0,2016,luxury & performance selection,"2,281,929",doll_6.44 m,automobiles
+854,uk,117,395.0,2012,grayce group,"6,381,674",doll_17.89 m,management consulting
+855,italy,1,4.0,1993,nemesi italia,"581,520",doll_1.64 m,technology
+856,uk,12,40.0,1994,halo service solutions,"1,799,189",doll_5.04 m,technology
+857,uk,36,73.0,2012,raspberry pi,"28,668,484",doll_80.07 m,technology
+858,italy,8,17.0,2010,giopato & coombes,"1,944,000",doll_5.47 m,interiors
+859,germany,4,8.0,2016,ship it,"1,207,009",doll_3.39 m,retail
+860,germany,19,47.0,2012,rheinische scheidestã¤tte,"29,564,866",doll_83.04 m,retail
+861,poland,34,90.0,2011,whites agency,"1,586,246",doll_4.08 m,advertising
+862,italy,1,38.0,2017,casa di riposo medicalizzata sempione*,"867,960",doll_2.44 m,health
+863,poland,135,269.0,2014,cshark,"4,608,343",doll_11.83 m,technology
+864,italy,30,47.0,2015,zinox laser,"2,269,510",doll_6.36 m,interiors
+865,italy,14,20.0,2013,tera automation,"1,778,890",doll_4.99 m,industrial goods
+866,italy,12,16.0,2014,innova hts,"3,137,630",doll_8.79 m,health
+867,czech republic,8,20.0,2013,kentigen,"554,004",doll_1.51 m,technology
+868,belgium,13,23.0,2015,teal partners,"1,386,701",doll_3.87 m,technology
+869,italy,16,47.0,2010,lm medical division,"4,040,060",doll_11.28 m,health
+870,germany,25,47.0,2003,bec,"2,809,036",doll_7.84 m,technology
+871,croatia,41,81.0,1995,xylon,"1,610,149",doll_4.49 m,technology
+872,germany,2,9.0,2017,spedition kai rindert,"1,083,821",doll_3.02 m,transport
+873,italy,16,22.0,2009,co.ge.sa. costruzioni generali saba,"1,241,760",doll_3.45 m,construction
+874,sweden,13,20.0,2010,skã¤rgã¥rdstunnan/skargards,"5,547,537",doll_15.08 m,ecommerce
+875,italy,1,14.0,2015,autonova milano,"1,006,280",doll_2.79 m,automobiles
+876,germany,25,40.0,2011,polarstern,"10,925,375",doll_30.27 m,energy
+877,germany,5,15.0,2013,halsdorfer + ingenieure projekt,"11,207,566",doll_31.04 m,property
+878,france,9,23.0,2015,opna,"838,200",doll_2.32 m,support services
+879,spain,25,39.0,2010,stikets,"3,372,820",doll_9.32 m,ecommerce
+880,italy,18,18.0,1994,campustore,"12,479,120",doll_34.41 m,education
+881,croatia,14,27.0,2013,ars futura,"574,487",doll_1.58 m,technology
+882,italy,64,116.0,2015,cemir security,"1,028,730",doll_2.84 m,support services
+883,czech republic,40,60.0,2009,borgy cz,"8,362,568",doll_22.42 m,personal & household goods
+884,france,190,600.0,2007,groupe zephyr,"5,908,517",doll_16.26 m,health
+885,france,25,57.0,2015,dernier cri,"1,438,184",doll_3.96 m,technology
+886,germany,10,37.0,2016,yes!devs,"800,000",doll_2.2 m,technology
+887,germany,19,36.0,2009,hydroflex group,"4,788,000",doll_13.17 m,retail
+888,italy,7,31.0,2016,proteko service,"2,003,540",doll_5.5 m,support services
+889,hungary,26,26.0,2012,minicrm,"944,107",doll_2.23 m,technology
+890,italy,13,39.0,2001,cnq consorzio nazionale qualitã ,"783,460",doll_2.15 m,waste management & recycling
+891,czech republic,,,2010,accolade,"31,477,723",doll_83.98 m,property
+892,spain,9,27.0,2009,panel sandwich,"3,517,519",doll_9.64 m,construction
+893,france,28,32.0,1991,symbiose informatique,"12,074,454",doll_33.08 m,technology
+894,italy,24,51.0,2012,g.engineering,"6,024,830",doll_16.5 m,industrial goods
+895,france,50,200.0,2011,i-particuliers,"1,488,875",doll_4.07 m,property
+896,germany,25,48.0,2012,henco,"2,550,263",doll_6.97 m,retail
+897,italy,25,53.0,2007,giglio.com,"9,283,620",doll_25.36 m,ecommerce
+898,sweden,5,16.0,2013,alphaspel,"1,699,234",doll_4.54 m,retail
+899,lithuania,14,24.0,2014,sapiegos klinika,"579,436",doll_1.58 m,health
+900,uk,9,25.0,2010,opencorporates,"1,010,498",doll_2.73 m,technology
+901,france,22,49.0,2012,be cloud,"3,811,605",doll_10.37 m,support services
+902,poland,60,130.0,2014,drukarnia piga.pl,"1,632,988",doll_4.06 m,ecommerce
+903,france,84,227.0,2010,groupe mister menuiserie,"25,003,047",doll_68.01 m,ecommerce
+904,germany,51,79.0,1999,insetto,"2,210,651",doll_6.01 m,retail
+905,portugal,9,13.0,2005,technophage,"823,381",doll_2.24 m,pharmaceuticals
+906,france,25,68.0,2008,skalis portage salarial,"2,287,420",doll_6.2 m,support services
+907,germany,5,11.0,2016,peoplegrapher,"1,314,806",doll_3.56 m,advertising
+908,italy,2,4.0,2016,reveg fruit,"870,070",doll_2.36 m,food & beverage
+909,bulgaria,39,79.0,2016,sciant,"1,178,653",doll_3.19 m,technology
+910,germany,50,130.0,2012,boender & beutel,"5,376,347",doll_14.55 m,industrial goods
+911,france,419,456.0,2003,ekinops,"34,291,000",doll_92.8 m,telecoms
+912,portugal,12,13.0,1938,sano-tã©cnica,"1,838,120",doll_4.97 m,health
+913,germany,16,24.0,2013,mã¶belando,"6,170,577",doll_16.69 m,retail
+914,italy,12,37.0,2011,democom,"1,238,210",doll_3.35 m,telecoms
+915,italy,3,11.0,2009,erbagil,"1,490,280",doll_4.02 m,pharmaceuticals
+916,finland,9,32.0,2014,axopar boats,"29,247,774",doll_78.77 m,travel & leisure
+917,italy,11,54.0,2012,advanced composites solutions,"2,006,100",doll_5.39 m,automobiles
+918,italy,12,34.0,2000,spartivento yachts & charter,"1,932,580",doll_5.19 m,travel & leisure
+919,poland,39,64.0,2014,seargin,"7,576,080",doll_18.62 m,technology
+920,germany,28,32.0,2009,ttp holding,"13,997,000",doll_37.61 m,support services
+921,sweden,5,14.0,2011,sweef furniture,"3,620,585",doll_9.51 m,retail
+922,hungary,5,10.0,2008,sonic tanã¡csadã³ ã©s szolgã¡ltatã³ kft,"2,009,719",doll_4.65 m,technology
+923,belgium,30,71.0,2014,spotit,"7,606,472",doll_20.39 m,cyber security
+924,france,11,27.0,2016,label experience,"655,366",doll_1.76 m,financial services
+925,italy,2,724.0,2015,lmm logistics,"5,268,390",doll_14.11 m,transport
+926,spain,15,35.0,2008,medicalfit,"888,395",doll_2.38 m,health
+927,italy,23,26.0,2017,nuova mg,"794,770",doll_2.13 m,industrial goods
+928,france,7,30.0,2016,innov and co handicap,"702,609",doll_1.88 m,technology
+929,france,33,31.0,2003,alma entreprise,"5,023,015",doll_13.44 m,construction
+930,italy,8,15.0,2016,radit,"703,190",doll_1.88 m,support services
+931,france,80,220.0,2013,regional express,"8,552,857",doll_22.84 m,transport
+932,france,26,59.0,2004,aravati,"2,500,644",doll_6.67 m,support services
+933,germany,4,7.0,2013,pã¶hner hamburg,"5,851,000",doll_15.6 m,retail
+934,germany,18,21.0,2010,schreinerei huber,"986,286",doll_2.63 m,construction
+935,france,12,12.0,1996,isr,"1,741,112",doll_4.64 m,technology
+936,germany,2,5.0,2008,kinga mathe,"676,431",doll_1.8 m,retail
+937,lithuania,20,24.0,1992,rivile,"1,467,195",doll_3.91 m,technology
+938,france,8,20.0,2016,magarantie5ans,"3,477,788",doll_9.25 m,retail
+939,france,36,98.0,2012,bebeboutik,"10,944,325",doll_29.08 m,retail
+940,austria,88,122.0,2011,radar cyber security,"4,794,822",doll_12.73 m,technology
+941,france,49,121.0,2004,clair group,"14,683,064",doll_38.96 m,aerospace & defence
+942,germany,105,221.0,2009,appsfactory,"6,801,966",doll_18.04 m,technology
+943,uk,142,250.0,2010,stiltz homelifts,"14,051,407",doll_36.96 m,interiors
+944,romania,48,105.0,2012,star stone,"1,729,707",doll_4.41 m,construction
+945,uk,10,22.0,2016,coptrz,"2,395,445",doll_6.3 m,aerospace & defence
+946,uk,15,35.0,2014,nurole,"1,236,098",doll_3.25 m,technology
+947,germany,10,15.0,2016,abao energy,"910,386",doll_2.41 m,construction
+948,italy,16,32.0,2011,welol next,"1,017,320",doll_2.69 m,technology
+949,uk,22,75.0,2010,intent hq,"2,199,126",doll_5.76 m,technology
+950,france,14,20.0,2009,cafã© du cycliste,"2,826,571",doll_7.45 m,ecommerce
+951,germany,5,8.0,2016,langer lã¼ftungs- und klimaanlagen,"1,749,794",doll_4.61 m,construction
+952,france,60,130.0,2010,formind,"6,398,583",doll_16.85 m,cyber security
+953,france,4,20.0,2010,oasis smart sim europe**,"1,167,000",doll_3.07 m,telecoms
+954,italy,9,13.0,2013,aferetica,"2,429,230",doll_6.38 m,health
+955,italy,15,37.0,2014,zero,"16,000,000",doll_42.0 m,energy
+956,france,20,70.0,2011,skills,"4,443,710",doll_11.65 m,support services
+957,italy,1,22.0,2015,3e studio,"1,071,090",doll_2.8 m,support services
+958,slovakia,1,5.0,2013,pannonia steel,"675,645",doll_1.77 m,construction
+959,italy,15,21.0,2009,kronos,"9,009,270",doll_23.58 m,fashion
+960,italy,11,22.0,2007,lasaponaria,"2,409,730",doll_6.3 m,beauty
+961,germany,50,95.0,2013,die wuhlewanderer,"1,900,000",doll_4.97 m,health
+962,sweden,26,27.0,2007,imint vidhance,"1,897,113",doll_4.85 m,technology
+963,italy,18,47.0,2016,arte e passione,"639,410",doll_1.67 m,restaurants
+964,france,29,87.0,2011,paul marius,"9,515,000",doll_24.87 m,retail
+965,bulgaria,330,730.0,2012,scalefocus,"12,686,177",doll_33.14 m,technology
+966,germany,7,16.0,2014,whiskyzone,"4,117,340",doll_10.75 m,retail
+967,italy,63,113.0,2002,targa telematics,"14,327,610",doll_37.39 m,technology
+968,uk,23,50.0,2003,sian wholesale ltd,"28,939,861",doll_74.72 m,transport
+969,sweden,54,104.0,2002,visage technologies,"2,233,448",doll_5.68 m,technology
+970,lithuania,1,1.0,2016,riotloc,"596,906",doll_1.55 m,games industry
+971,uk,31,34.0,2003,bullionvault,"6,278,456",doll_16.2 m,precious metals
+972,spain,9,23.0,2000,3a antioxidants,"2,968,892",doll_7.7 m,chemicals & pharmaceuticals
+973,germany,3,6.0,2016,on metall,"997,518",doll_2.59 m,industrial goods
+974,the netherlands,22,39.0,2012,scribbr,"3,417,536",doll_8.86 m,education
+975,france,500,1000.0,2007,selectra,"24,320,734",doll_62.95 m,energy
+976,italy,7,13.0,2010,energetic,"661,860",doll_1.71 m,energy
+977,france,7,9.0,2007,faveod,"1,005,658",doll_2.6 m,support services
+978,spain,5,15.0,2013,cye energia,"9,161,867",doll_23.67 m,energy
+979,finland,33,105.0,2008,integrata oy,"3,647,000",doll_9.41 m,financial services
+980,germany,15,25.0,2010,regular trade,"4,526,000",doll_11.67 m,retail
+981,hungary,6,15.0,2011,expleo,"900,686",doll_2.7 m,energy
+982,italy,21,21.0,2015,confezioni velvet,"1,302,640",doll_3.36 m,fashion
+983,germany,12,10.0,1998,activ bilanz,"6,712,146",doll_17.29 m,property
+984,italy,5,12.0,2011,family nation,"2,059,190",doll_5.3 m,ecommerce
+985,greece,13,19.0,1994,majar â matzaridis bros,"5,144,442",doll_13.22 m,technology
+986,spain,431,791.0,1996,izertis,"19,753,150",doll_50.74 m,technology
+987,italy,1,5.0,2016,fashion commerce,"916,000",doll_2.35 m,ecommerce
+988,uk,41,105.0,2009,bulk tainer logistics limited,"21,717,432",doll_56.05 m,transport
+989,italy,12,22.0,2016,wingeco,"1,332,330",doll_3.41 m,industrial goods
+990,poland,12,25.0,2021,meblobranie.pl,"6,909,799",doll_19.3 m,ecommerce
+991,spain,39,67.0,1898,queraltã³,"8,575,344",doll_21.9 m,ecommerce
+992,slovakia,8,12.0,1993,phobos,"1,382,844",doll_3.53 m,automobiles
+993,italy,13,5.0,2013,archita engineering,"1,074,130",doll_2.74 m,support services
+994,spain,10,27.0,2006,celeritas,"22,805,398",doll_58.14 m,transport
+995,germany,15,45.0,2014,peopleforecast,"818,658",doll_2.09 m,technology
+996,italy,41,12.0,2014,digitalpa,"679,440",doll_1.73 m,management consulting
+997,germany,100,150.0,2003,faktenkontor,"12,153,143",doll_30.97 m,advertising
+998,france,13,53.0,2012,clareo,"7,399,729",doll_18.85 m,retail
+999,italy,5,5.0,2013,laca trade,"9,717,860",doll_24.74 m,property

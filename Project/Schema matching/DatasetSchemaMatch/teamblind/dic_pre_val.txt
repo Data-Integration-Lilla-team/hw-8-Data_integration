@@ -1,7 +1,1 @@
-
-industry->['industry', 'name']
-name->['industry', 'name']
-website->['website']
-size->['size', 'locations']
-locations->['size', 'locations']
-founded->['founded']
+{"size": ["size", "name", "locations"], "name": ["size", "name", "locations"], "locations": ["size", "name", "locations"], "website": ["website"], "industry": ["industry"], "founded": ["founded"]}

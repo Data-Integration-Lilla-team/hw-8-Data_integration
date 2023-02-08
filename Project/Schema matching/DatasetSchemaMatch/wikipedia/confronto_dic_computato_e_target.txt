@@ -1,129 +1,51 @@
 
-Elemento: industry
-Sinonimi computati:['total_assets', 'industry', 'founders', 'operating_income']
-Sinonimi reali:['industry']
-Intersezione:{'industry'}
-Computato - TGT:{'total_assets', 'founders', 'operating_income'}
-TGT- Computato:set()
-Jaccard score:0.25
-
 Elemento: sector
-Sinonimi computati:['sector', 'industry', 'name', 'type']
+Sinonimi computati:['sector', 'name', 'industry']
 Sinonimi reali:['sector']
 Intersezione:{'sector'}
-Computato - TGT:{'industry', 'name', 'type'}
+Computato - TGT:{'name', 'industry'}
 TGT- Computato:set()
-Jaccard score:0.25
-
+Jaccard score:0.3333333333333333
 Elemento: name
-Sinonimi computati:['name']
+Sinonimi computati:['sector', 'name', 'industry']
 Sinonimi reali:['name']
 Intersezione:{'name'}
-Computato - TGT:set()
+Computato - TGT:{'sector', 'industry'}
 TGT- Computato:set()
-Jaccard score:1.0
-
-Elemento: type
-Sinonimi computati:['sector', 'industry', 'name', 'type']
-Sinonimi reali:['type']
-Intersezione:{'type'}
-Computato - TGT:{'industry', 'sector', 'name'}
-TGT- Computato:set()
-Jaccard score:0.25
-
-Elemento: headquarters
-Sinonimi computati:['website', 'headquarters', 'industry', 'notes']
-Sinonimi reali:['headquarters']
-Intersezione:{'headquarters'}
-Computato - TGT:{'industry', 'website', 'notes'}
-TGT- Computato:set()
-Jaccard score:0.25
-
-Elemento: key_people
-Sinonimi computati:['headquarters', 'key_people']
-Sinonimi reali:['key_people']
-Intersezione:{'key_people'}
+Jaccard score:0.3333333333333333
+Elemento: industry
+Sinonimi computati:['headquarters', 'industry']
+Sinonimi reali:['industry']
+Intersezione:{'industry'}
 Computato - TGT:{'headquarters'}
 TGT- Computato:set()
 Jaccard score:0.5
-
+Elemento: headquarters
+Sinonimi computati:['headquarters', 'industry']
+Sinonimi reali:['headquarters']
+Intersezione:{'headquarters'}
+Computato - TGT:{'industry'}
+TGT- Computato:set()
+Jaccard score:0.5
 Elemento: founded
-Sinonimi computati:['number_of_employees', 'founded']
+Sinonimi computati:['founded']
 Sinonimi reali:['founded']
 Intersezione:{'founded'}
-Computato - TGT:{'number_of_employees'}
-TGT- Computato:set()
-Jaccard score:0.5
-
-Elemento: website
-Sinonimi computati:['website', 'headquarters', 'industry', 'notes']
-Sinonimi reali:['website']
-Intersezione:{'website'}
-Computato - TGT:{'industry', 'headquarters', 'notes'}
-TGT- Computato:set()
-Jaccard score:0.25
-
-Elemento: notes
-Sinonimi computati:['website', 'headquarters', 'industry', 'notes']
-Sinonimi reali:['notes']
-Intersezione:{'notes'}
-Computato - TGT:{'industry', 'website', 'headquarters'}
-TGT- Computato:set()
-Jaccard score:0.25
-
-Elemento: founders
-Sinonimi computati:['total_assets', 'industry', 'founders', 'operating_income']
-Sinonimi reali:['founders']
-Intersezione:{'founders'}
-Computato - TGT:{'total_assets', 'operating_income', 'industry'}
-TGT- Computato:set()
-Jaccard score:0.25
-
-Elemento: operating_income
-Sinonimi computati:['total_assets', 'industry', 'founders', 'operating_income']
-Sinonimi reali:['operating_income']
-Intersezione:{'operating_income'}
-Computato - TGT:{'total_assets', 'founders', 'industry'}
-TGT- Computato:set()
-Jaccard score:0.25
-
-Elemento: total_assets
-Sinonimi computati:['total_assets', 'industry', 'founders', 'operating_income']
-Sinonimi reali:['total_assets']
-Intersezione:{'total_assets'}
-Computato - TGT:{'industry', 'founders', 'operating_income'}
-TGT- Computato:set()
-Jaccard score:0.25
-
-Elemento: area_served
-Sinonimi computati:['area_served', 'services']
-Sinonimi reali:['area_served']
-Intersezione:{'area_served'}
-Computato - TGT:{'services'}
-TGT- Computato:set()
-Jaccard score:0.5
-
-Elemento: services
-Sinonimi computati:['area_served', 'services']
-Sinonimi reali:['services']
-Intersezione:{'services'}
-Computato - TGT:{'area_served'}
-TGT- Computato:set()
-Jaccard score:0.5
-
-Elemento: number_of_employees
-Sinonimi computati:['number_of_employees', 'founded']
-Sinonimi reali:['number_of_employees']
-Intersezione:{'number_of_employees'}
-Computato - TGT:{'founded'}
-TGT- Computato:set()
-Jaccard score:0.5
-
-Elemento: revenue
-Sinonimi computati:['revenue']
-Sinonimi reali:['revenue']
-Intersezione:{'revenue'}
 Computato - TGT:set()
 TGT- Computato:set()
 Jaccard score:1.0
-
+Elemento: notes
+Sinonimi computati:['notes']
+Sinonimi reali:['notes']
+Intersezione:{'notes'}
+Computato - TGT:set()
+TGT- Computato:set()
+Jaccard score:1.0
+Elemento: area_served
+Sinonimi computati:['area_served']
+Sinonimi reali:['area_served']
+Intersezione:{'area_served'}
+Computato - TGT:set()
+TGT- Computato:set()
+Jaccard score:1.0
+AVG valori extra: 0.8571428571428571

@@ -1,10 +1,1 @@
-
-name->['name']
-industry->['industry', 'website', 'headquarters']
-website->['industry', 'website', 'headquarters']
-headquarters->['industry', 'website', 'headquarters']
-number_of_employees->['number_of_employees']
-address->['address']
-market_cap->['market_cap']
-telephone->['telephone']
-revenue->['revenue']
+{"address": ["address", "telephone", "name", "revenue"], "telephone": ["address", "telephone", "name", "revenue"], "name": ["address", "telephone", "name", "revenue"], "revenue": ["address", "telephone", "name", "revenue"], "headquarters": ["headquarters", "industry"], "industry": ["headquarters", "industry"], "number_of_employees": ["number_of_employees"], "website": ["website"], "market_cap": ["market_cap"]}

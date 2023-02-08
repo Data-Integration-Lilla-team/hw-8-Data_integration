@@ -1,11 +1,1 @@
-
-url->['url']
-capital->['capital', 'id', 'address']
-id->['capital', 'id', 'address']
-address->['capital', 'id', 'address']
-name->['name', 'status']
-status->['name', 'status']
-code->['code']
-legal_form->['legal_form']
-registration_date->['registration_date']
-deletion_date->['deletion_date']
+{"url": ["url"], "address": ["address", "legal_form", "id"], "legal_form": ["address", "legal_form", "id"], "id": ["address", "legal_form", "id"], "name": ["name"], "code": ["code"], "status": ["status"], "deletion_date": ["deletion_date", "registration_date"], "registration_date": ["deletion_date", "registration_date"], "capital": ["capital"]}

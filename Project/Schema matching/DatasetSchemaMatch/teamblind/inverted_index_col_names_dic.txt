@@ -1,0 +1,1 @@
+{"name": ["01-DDD.csv"], "website": ["01-DDD.csv"], "locations": ["01-DDD.csv"], "size": ["01-DDD.csv"], "industry": ["01-DDD.csv"], "founded": ["01-DDD.csv"]}

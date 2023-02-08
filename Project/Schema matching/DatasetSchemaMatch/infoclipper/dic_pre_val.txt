@@ -1,11 +1,1 @@
-
-index->['index']
-url->['url']
-address_name->['address_name', 'name']
-name->['address_name', 'name']
-trade_name->['trade_name']
-postalcode->['postalcode']
-city->['city', 'country', 'location_type', 'state']
-location_type->['city', 'country', 'location_type', 'state']
-country->['city', 'country', 'location_type', 'state']
-state->['city', 'country', 'location_type', 'state']
+{"index": ["index"], "url": ["url"], "trade_name": ["trade_name", "address_name", "name"], "address_name": ["trade_name", "address_name", "name"], "name": ["trade_name", "address_name", "name"], "postalcode": ["postalcode"], "city": ["city", "state", "location_type"], "state": ["city", "state", "location_type"], "location_type": ["city", "state", "location_type"], "country": ["country"]}

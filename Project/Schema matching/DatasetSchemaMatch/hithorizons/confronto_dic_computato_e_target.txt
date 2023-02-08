@@ -1,44 +1,46 @@
 
-Elemento: nation
-Sinonimi computati:['nation', 'hhid', 'id']
-Sinonimi reali:['nation']
-Intersezione:{'nation'}
-Computato - TGT:{'hhid', 'id'}
-TGT- Computato:set()
-Jaccard score:0.3333333333333333
-
-Elemento: hhid
-Sinonimi computati:['nation', 'hhid', 'id']
-Sinonimi reali:['hhid']
-Intersezione:{'hhid'}
-Computato - TGT:{'nation', 'id'}
-TGT- Computato:set()
-Jaccard score:0.3333333333333333
-
 Elemento: id
-Sinonimi computati:['nation', 'hhid', 'id']
+Sinonimi computati:['id']
 Sinonimi reali:['id']
 Intersezione:{'id'}
-Computato - TGT:{'nation', 'hhid'}
-TGT- Computato:set()
-Jaccard score:0.3333333333333333
-
-Elemento: name
-Sinonimi computati:['name']
-Sinonimi reali:['name']
-Intersezione:{'name'}
 Computato - TGT:set()
 TGT- Computato:set()
 Jaccard score:1.0
-
 Elemento: address
-Sinonimi computati:['address']
+Sinonimi computati:['address', 'name', 'sic_code']
 Sinonimi reali:['address']
 Intersezione:{'address'}
-Computato - TGT:set()
+Computato - TGT:{'name', 'sic_code'}
 TGT- Computato:set()
-Jaccard score:1.0
-
+Jaccard score:0.3333333333333333
+Elemento: name
+Sinonimi computati:['address', 'name', 'sic_code']
+Sinonimi reali:['name']
+Intersezione:{'name'}
+Computato - TGT:{'address', 'sic_code'}
+TGT- Computato:set()
+Jaccard score:0.3333333333333333
+Elemento: sic_code
+Sinonimi computati:['address', 'name', 'sic_code']
+Sinonimi reali:['sic_code']
+Intersezione:{'sic_code'}
+Computato - TGT:{'address', 'name'}
+TGT- Computato:set()
+Jaccard score:0.3333333333333333
+Elemento: hhid
+Sinonimi computati:['hhid', 'nation']
+Sinonimi reali:['hhid']
+Intersezione:{'hhid'}
+Computato - TGT:{'nation'}
+TGT- Computato:set()
+Jaccard score:0.5
+Elemento: nation
+Sinonimi computati:['hhid', 'nation']
+Sinonimi reali:['nation']
+Intersezione:{'nation'}
+Computato - TGT:{'hhid'}
+TGT- Computato:set()
+Jaccard score:0.5
 Elemento: industry
 Sinonimi computati:['industry']
 Sinonimi reali:['industry']
@@ -46,15 +48,6 @@ Intersezione:{'industry'}
 Computato - TGT:set()
 TGT- Computato:set()
 Jaccard score:1.0
-
-Elemento: sic_code
-Sinonimi computati:['sic_code']
-Sinonimi reali:['sic_code']
-Intersezione:{'sic_code'}
-Computato - TGT:set()
-TGT- Computato:set()
-Jaccard score:1.0
-
 Elemento: type
 Sinonimi computati:['type']
 Sinonimi reali:['type']
@@ -62,7 +55,6 @@ Intersezione:{'type'}
 Computato - TGT:set()
 TGT- Computato:set()
 Jaccard score:1.0
-
 Elemento: est_of_ownership
 Sinonimi computati:['est_of_ownership']
 Sinonimi reali:['est_of_ownership']
@@ -70,4 +62,4 @@ Intersezione:{'est_of_ownership'}
 Computato - TGT:set()
 TGT- Computato:set()
 Jaccard score:1.0
-
+AVG valori extra: 0.8888888888888888

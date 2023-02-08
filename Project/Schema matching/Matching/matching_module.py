@@ -3,6 +3,7 @@ from name_correlation import NameCorr
 from data_cluster import ClusterData
 import pandas as pd
 from evaluator import Eval
+import json
 
 '''
 Modulo responsabile della creazione dei dizionari di sinonimi.
@@ -33,6 +34,7 @@ class MatchingModule:
         #dic_utlimato
         self.name_file_dic_sin_pre_val='dic_pre_val.txt'
         self.path_file_dic_sin_pre_val=self.path_destinazione+'\\'+self.name_file_dic_sin_pre_val
+
 
         #evaluation_dic
         self.name_file_evaluation_dic='confronto_dic_computato_e_target.txt'
@@ -143,6 +145,7 @@ class MatchingModule:
         print(clusterName)
         dic_data_clustering=dataClustering.clusterData(file_names,max_clusters,validation_set)
 
+
         #UNIONE DEI DIZIONARI COMPUTATI
         full_dic=self.merge_dict(dic_data_clustering,dic_name_correlation)
         print(full_dic)
@@ -158,14 +161,17 @@ class MatchingModule:
         #STAMPA DEL DIZINARIO FULL
         stringa='\n'
         with open(self.path_file_dic_sin_pre_val, 'w') as f:
-            for k in full_dic.keys():
-                stringa=stringa+k+'->'+str(full_dic[k])+'\n'
-            f.write(stringa)
+            
+                
+            f.write(json.dumps(full_dic))
 
         
         #VALUTAZIONE GENERALE
         evaluation_dic=evaluator.eval_cardinality(full_dic,validation_set)
         stringa='\n'
+        avg_valori_extra=0
+        somma=0
+        div=len(evaluation_dic.keys())
         with open(self.path_name_file_evaluation_dic, 'w') as f:
             for k in evaluation_dic.keys():
                 stringa=stringa+'Elemento: '+k+'\n'
@@ -173,10 +179,14 @@ class MatchingModule:
                 stringa=stringa+'Sinonimi reali:'+str(validation_set[k])+'\n'
                 stringa=stringa+'Intersezione:'+str(evaluation_dic[k][0])+'\n'
                 stringa=stringa+'Computato - TGT:'+str(evaluation_dic[k][1])+'\n'
+                somma=somma+len(evaluation_dic[k][1])
                 stringa=stringa+'TGT- Computato:'+str(evaluation_dic[k][2])+'\n'
                 stringa=stringa+'Jaccard score:'+str(evaluation_dic[k][3])+'\n'
-                stringa=stringa+'\n'
+                
+            avg_valori_extra=somma/div
+            stringa=stringa+'AVG valori extra: ' +str(avg_valori_extra)+'\n'
             f.write(stringa)
+
             
 
 

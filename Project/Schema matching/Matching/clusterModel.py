@@ -23,6 +23,10 @@ class ClusterModel:
         #nome file diversi dizionari
         self.nome_file_dic_sin='dic_sin_4_cluster.txt'
         self.path_nome_file_dic_sin=self.path_destinazione+'\\'+self.nome_file_dic_sin
+
+        #scores
+        self.nome_file_SCORE_best='data_score.txt'
+        self.path_nome_file_SCORE_best=self.path_destinazione+'\\'+self.nome_file_SCORE_best
         
     #formattazione del nome del campo
     #INPUT->02-GioPonSpiz-name
@@ -99,10 +103,14 @@ class ClusterModel:
         
             
     def save_infos_kmeans(self,stringa,clusters):
+        clusters=clusters[['column_name','cluster']]
         clusters.to_csv(self.path_cluster)
         with open(self.path_nome_file_dic_sin, 'w') as f:
     
             f.write(stringa)
+        
+       
+           
 
     def clustered_data_explor(self,data,columns,validation,max_clusters=14):
         ss=[]
@@ -146,6 +154,7 @@ class ClusterModel:
 
         #se non troviamo il minimo locale desiderato, lavoriamo con jaccard
         best_K=self.evalBestK(jaccard_dist_eval)[1]
+        
         best_result=self.clustered_data(data,columns,best_K)
         ds_csv=best_result[1]
         dic_sin_best=best_result[0]

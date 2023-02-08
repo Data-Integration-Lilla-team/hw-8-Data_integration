@@ -1,17 +1,1 @@
-
-industry->['total_assets', 'industry', 'founders', 'operating_income']
-sector->['sector', 'industry', 'name', 'type']
-name->['name']
-type->['sector', 'industry', 'name', 'type']
-headquarters->['website', 'headquarters', 'industry', 'notes']
-key_people->['headquarters', 'key_people']
-founded->['number_of_employees', 'founded']
-website->['website', 'headquarters', 'industry', 'notes']
-notes->['website', 'headquarters', 'industry', 'notes']
-founders->['total_assets', 'industry', 'founders', 'operating_income']
-operating_income->['total_assets', 'industry', 'founders', 'operating_income']
-total_assets->['total_assets', 'industry', 'founders', 'operating_income']
-area_served->['area_served', 'services']
-services->['area_served', 'services']
-number_of_employees->['number_of_employees', 'founded']
-revenue->['revenue']
+{"sector": ["sector", "name", "industry"], "name": ["sector", "name", "industry"], "industry": ["headquarters", "industry"], "headquarters": ["headquarters", "industry"], "founded": ["founded"], "notes": ["notes"], "area_served": ["area_served"]}

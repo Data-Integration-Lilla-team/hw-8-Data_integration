@@ -6,7 +6,6 @@ Intersezione:{'name'}
 Computato - TGT:set()
 TGT- Computato:set()
 Jaccard score:1.0
-
 Elemento: country
 Sinonimi computati:['country']
 Sinonimi reali:['country']
@@ -14,55 +13,62 @@ Intersezione:{'country'}
 Computato - TGT:set()
 TGT- Computato:set()
 Jaccard score:1.0
-
+Elemento: sales
+Sinonimi computati:['sales', 'ceo', 'revenue', 'assets', 'market_value_apr_2022', 'market_value', 'profit', 'revenue_2022']
+Sinonimi reali:['sales', 'revenue_2022', 'revenue']
+Intersezione:{'sales', 'revenue_2022', 'revenue'}
+Computato - TGT:{'profit', 'ceo', 'assets', 'market_value_apr_2022', 'market_value'}
+TGT- Computato:set()
+Jaccard score:0.375
 Elemento: profit
-Sinonimi computati:['revenue_2022', 'profit', 'market_value', 'market_value_apr_2022', 'sales', 'assets']
+Sinonimi computati:['sales', 'ceo', 'revenue', 'assets', 'market_value_apr_2022', 'market_value', 'profit', 'revenue_2022']
 Sinonimi reali:['profit']
 Intersezione:{'profit'}
-Computato - TGT:{'sales', 'revenue_2022', 'market_value', 'market_value_apr_2022', 'assets'}
+Computato - TGT:{'sales', 'ceo', 'revenue', 'assets', 'market_value_apr_2022', 'market_value', 'revenue_2022'}
 TGT- Computato:set()
-Jaccard score:0.16666666666666666
-
-Elemento: sales
-Sinonimi computati:['revenue_2022', 'profit', 'market_value', 'market_value_apr_2022', 'sales', 'assets']
-Sinonimi reali:['sales', 'revenue_2022', 'revenue']
-Intersezione:{'revenue_2022', 'sales'}
-Computato - TGT:{'assets', 'profit', 'market_value', 'market_value_apr_2022'}
-TGT- Computato:{'revenue'}
-Jaccard score:0.2857142857142857
-
-Elemento: revenue_2022
-Sinonimi computati:['revenue_2022', 'revenue', 'profit', 'market_value', 'market_value_apr_2022', 'sales', 'assets']
-Sinonimi reali:['revenue_2022', 'revenue', 'sales']
-Intersezione:{'revenue_2022', 'revenue', 'sales'}
-Computato - TGT:{'assets', 'profit', 'market_value', 'market_value_apr_2022'}
+Jaccard score:0.125
+Elemento: ceo
+Sinonimi computati:['sales', 'ceo', 'revenue', 'assets', 'market_value_apr_2022', 'market_value', 'profit', 'revenue_2022']
+Sinonimi reali:['ceo']
+Intersezione:{'ceo'}
+Computato - TGT:{'sales', 'profit', 'revenue', 'assets', 'market_value_apr_2022', 'market_value', 'revenue_2022'}
 TGT- Computato:set()
-Jaccard score:0.42857142857142855
-
-Elemento: market_value
-Sinonimi computati:['revenue_2022', 'profit', 'market_value', 'market_value_apr_2022', 'sales', 'assets']
-Sinonimi reali:['market_value_apr_2022']
-Intersezione:{'market_value_apr_2022'}
-Computato - TGT:{'profit', 'sales', 'revenue_2022', 'market_value', 'assets'}
+Jaccard score:0.125
+Elemento: revenue
+Sinonimi computati:['sales', 'ceo', 'revenue', 'assets', 'market_value_apr_2022', 'market_value', 'profit', 'revenue_2022']
+Sinonimi reali:['revenue', 'revenue_2022', 'sales']
+Intersezione:{'sales', 'revenue_2022', 'revenue'}
+Computato - TGT:{'profit', 'ceo', 'assets', 'market_value_apr_2022', 'market_value'}
 TGT- Computato:set()
-Jaccard score:0.16666666666666666
-
-Elemento: market_value_apr_2022
-Sinonimi computati:['revenue_2022', 'profit', 'market_value', 'market_value_apr_2022', 'sales', 'assets']
-Sinonimi reali:['market_value']
-Intersezione:{'market_value'}
-Computato - TGT:{'profit', 'sales', 'revenue_2022', 'market_value_apr_2022', 'assets'}
-TGT- Computato:set()
-Jaccard score:0.16666666666666666
-
+Jaccard score:0.375
 Elemento: assets
-Sinonimi computati:['revenue_2022', 'profit', 'market_value', 'market_value_apr_2022', 'sales', 'assets']
+Sinonimi computati:['sales', 'ceo', 'revenue', 'assets', 'market_value_apr_2022', 'market_value', 'profit', 'revenue_2022']
 Sinonimi reali:['assets']
 Intersezione:{'assets'}
-Computato - TGT:{'profit', 'sales', 'revenue_2022', 'market_value', 'market_value_apr_2022'}
+Computato - TGT:{'sales', 'profit', 'ceo', 'revenue', 'market_value_apr_2022', 'market_value', 'revenue_2022'}
 TGT- Computato:set()
-Jaccard score:0.16666666666666666
-
+Jaccard score:0.125
+Elemento: market_value_apr_2022
+Sinonimi computati:['sales', 'ceo', 'revenue', 'assets', 'market_value_apr_2022', 'market_value', 'profit', 'revenue_2022']
+Sinonimi reali:['market_value']
+Intersezione:{'market_value'}
+Computato - TGT:{'sales', 'profit', 'ceo', 'revenue', 'assets', 'market_value_apr_2022', 'revenue_2022'}
+TGT- Computato:set()
+Jaccard score:0.125
+Elemento: market_value
+Sinonimi computati:['sales', 'ceo', 'revenue', 'assets', 'market_value_apr_2022', 'market_value', 'profit', 'revenue_2022']
+Sinonimi reali:['market_value_apr_2022']
+Intersezione:{'market_value_apr_2022'}
+Computato - TGT:{'sales', 'profit', 'ceo', 'revenue', 'assets', 'market_value', 'revenue_2022'}
+TGT- Computato:set()
+Jaccard score:0.125
+Elemento: revenue_2022
+Sinonimi computati:['sales', 'ceo', 'revenue', 'assets', 'market_value_apr_2022', 'market_value', 'profit', 'revenue_2022']
+Sinonimi reali:['revenue_2022', 'revenue', 'sales']
+Intersezione:{'sales', 'revenue_2022', 'revenue'}
+Computato - TGT:{'profit', 'ceo', 'assets', 'market_value_apr_2022', 'market_value'}
+TGT- Computato:set()
+Jaccard score:0.375
 Elemento: link
 Sinonimi computati:['link']
 Sinonimi reali:['link']
@@ -70,7 +76,6 @@ Intersezione:{'link'}
 Computato - TGT:set()
 TGT- Computato:set()
 Jaccard score:1.0
-
 Elemento: industry
 Sinonimi computati:['industry']
 Sinonimi reali:['industry']
@@ -78,36 +83,18 @@ Intersezione:{'industry'}
 Computato - TGT:set()
 TGT- Computato:set()
 Jaccard score:1.0
-
-Elemento: employees
-Sinonimi computati:['employees', 'founded']
-Sinonimi reali:['employees']
-Intersezione:{'employees'}
-Computato - TGT:{'founded'}
-TGT- Computato:set()
-Jaccard score:0.5
-
 Elemento: founded
-Sinonimi computati:['employees', 'founded']
+Sinonimi computati:['founded', 'employees']
 Sinonimi reali:['founded']
 Intersezione:{'founded'}
 Computato - TGT:{'employees'}
 TGT- Computato:set()
 Jaccard score:0.5
-
-Elemento: ceo
-Sinonimi computati:['ceo']
-Sinonimi reali:['ceo']
-Intersezione:{'ceo'}
-Computato - TGT:set()
+Elemento: employees
+Sinonimi computati:['founded', 'employees']
+Sinonimi reali:['employees']
+Intersezione:{'employees'}
+Computato - TGT:{'founded'}
 TGT- Computato:set()
-Jaccard score:1.0
-
-Elemento: revenue
-Sinonimi computati:['revenue_2022', 'revenue']
-Sinonimi reali:['revenue', 'revenue_2022', 'sales']
-Intersezione:{'revenue_2022', 'revenue'}
-Computato - TGT:set()
-TGT- Computato:{'sales'}
-Jaccard score:0.6666666666666666
-
+Jaccard score:0.5
+AVG valori extra: 3.7142857142857144

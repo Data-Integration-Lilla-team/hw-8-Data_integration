@@ -1,36 +1,4 @@
-threshold:0.2 avg jaccard:1.0
-founded->('founded', 1.0)
-industry->('industry', 1.0)
-locations->('locations', 1.0)
-name->('name', 1.0)
-size->('size', 1.0)
-website->('website', 1.0)
-
-threshold:0.30000000000000004 avg jaccard:1.0
-founded->('founded', 1.0)
-industry->('industry', 1.0)
-locations->('locations', 1.0)
-name->('name', 1.0)
-size->('size', 1.0)
-website->('website', 1.0)
-
 threshold:0.4 avg jaccard:1.0
-founded->('founded', 1.0)
-industry->('industry', 1.0)
-locations->('locations', 1.0)
-name->('name', 1.0)
-size->('size', 1.0)
-website->('website', 1.0)
-
-threshold:0.5 avg jaccard:1.0
-founded->('founded', 1.0)
-industry->('industry', 1.0)
-locations->('locations', 1.0)
-name->('name', 1.0)
-size->('size', 1.0)
-website->('website', 1.0)
-
-threshold:0.6 avg jaccard:1.0
 founded->('founded', 1.0)
 industry->('industry', 1.0)
 locations->('locations', 1.0)

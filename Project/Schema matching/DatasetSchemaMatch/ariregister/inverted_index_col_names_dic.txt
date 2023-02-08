@@ -1,0 +1,1 @@
+{"url": ["09-wissel.csv"], "id": ["09-wissel.csv"], "name": ["09-wissel.csv"], "code": ["09-wissel.csv"], "legal_form": ["09-wissel.csv"], "status": ["09-wissel.csv"], "registration_date": ["09-wissel.csv"], "capital": ["09-wissel.csv"], "address": ["09-wissel.csv"], "deletion_date": ["09-wissel.csv"]}

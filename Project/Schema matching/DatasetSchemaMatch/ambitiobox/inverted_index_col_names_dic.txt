@@ -1,0 +1,1 @@
+{"name": ["06-MarScoToc.csv"], "industry": ["06-MarScoToc.csv"], "headquarter": ["06-MarScoToc.csv"], "ownership": ["06-MarScoToc.csv"], "foundation_year": ["06-MarScoToc.csv"]}
