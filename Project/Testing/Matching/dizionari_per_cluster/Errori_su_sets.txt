@@ -1,6 +1,6 @@
 threshold of inertia for cluster_model= 0.2
 
-disfold
+disfold ok
 
 
 Elemento: headquarters_country
