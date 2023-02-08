@@ -1,63 +1,63 @@
-[
-    [
+{
+    "area_served": [
         "06-MarScoToc-area_served"
     ],
-    [
+    "founded": [
         "02-GioPonSpiz-founded",
         "06-MarScoToc-founded",
-        "05-MalPatSaj-founded",
-        "10-DeBiGa-founded"
+        "10-DeBiGa-founded",
+        "05-MalPatSaj-founded"
     ],
-    [
+    "founders": [
         "10-DeBiGa-founders"
     ],
-    [
-        "06-MarScoToc-headquarters",
-        "02-GioPonSpiz-headquarters",
+    "headquarters": [
         "10-DeBiGa-headquarters",
+        "02-GioPonSpiz-headquarters",
+        "06-MarScoToc-headquarters",
         "05-MalPatSaj-headquarters"
     ],
-    [
-        "05-MalPatSaj-industry",
-        "02-GioPonSpiz-industry",
+    "industry": [
         "10-DeBiGa-industry",
-        "06-MarScoToc-industry"
+        "02-GioPonSpiz-industry",
+        "06-MarScoToc-industry",
+        "05-MalPatSaj-industry"
     ],
-    [
+    "key_people": [
         "10-DeBiGa-key_people"
     ],
-    [
+    "name": [
         "05-MalPatSaj-name",
+        "10-DeBiGa-name",
         "06-MarScoToc-name",
-        "02-GioPonSpiz-name",
-        "10-DeBiGa-name"
+        "02-GioPonSpiz-name"
     ],
-    [
+    "notes": [
         "05-MalPatSaj-notes"
     ],
-    [
+    "number_of_employees": [
         "10-DeBiGa-number_of_employees"
     ],
-    [
+    "operating_income": [
         "10-DeBiGa-operating_income"
     ],
-    [
+    "revenue": [
         "10-DeBiGa-revenue"
     ],
-    [
-        "02-GioPonSpiz-sector",
-        "05-MalPatSaj-sector"
+    "sector": [
+        "05-MalPatSaj-sector",
+        "02-GioPonSpiz-sector"
     ],
-    [
+    "services": [
         "10-DeBiGa-services"
     ],
-    [
+    "total_assets": [
         "10-DeBiGa-total_assets"
     ],
-    [
+    "type": [
         "10-DeBiGa-type"
     ],
-    [
+    "website": [
         "10-DeBiGa-website"
     ]
-]
+}

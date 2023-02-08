@@ -1,44 +1,44 @@
-[
-    [
+{
+    "assets": [
         "05-MalPatSaj-assets"
     ],
-    [
+    "ceo": [
         "08-slytherin-ceo"
     ],
-    [
-        "08-slytherin-country",
+    "country": [
         "07-silvestri-country",
-        "05-MalPatSaj-country"
+        "05-MalPatSaj-country",
+        "08-slytherin-country"
     ],
-    [
+    "employees": [
         "08-slytherin-employees"
     ],
-    [
+    "founded": [
         "08-slytherin-founded"
     ],
-    [
+    "industry": [
         "08-slytherin-industry"
     ],
-    [
+    "link": [
         "08-slytherin-link"
     ],
-    [
+    "market_value_apr_2022": [
         "07-silvestri-market_value_apr_2022"
     ],
-    [
+    "market_value": [
         "05-MalPatSaj-market_value"
     ],
-    [
+    "name": [
         "05-MalPatSaj-name",
-        "07-silvestri-name",
-        "08-slytherin-name"
+        "08-slytherin-name",
+        "07-silvestri-name"
     ],
-    [
+    "profit": [
         "05-MalPatSaj-profit"
     ],
-    [
+    "revenue_2022": [
+        "07-silvestri-revenue_2022",
         "05-MalPatSaj-sales",
-        "08-slytherin-revenue",
-        "07-silvestri-revenue_2022"
+        "08-slytherin-revenue"
     ]
-]
+}

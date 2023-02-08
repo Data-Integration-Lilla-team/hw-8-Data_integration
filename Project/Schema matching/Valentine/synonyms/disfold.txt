@@ -1,115 +1,112 @@
-[
-    [
+{
+    "categories": [
         "00-avengers-categories"
     ],
-    [
-        "00-avengers-ceo",
-        "10-DeBiGa-ceo",
+    "ceo": [
         "04-iGMM-ceo",
-        "08-slytherin-ceo"
+        "00-avengers-ceo",
+        "08-slytherin-ceo",
+        "10-DeBiGa-ceo"
     ],
-    [
+    "code": [
         "04-iGMM-code"
     ],
-    [
-        "10-DeBiGa-country",
-        "07-silvestri-country",
-        "06-MarScoToc-country",
-        "03-gren-country",
-        "04-iGMM-country",
+    "headquarters_country": [
         "00-avengers-headquarters_country",
+        "05-MalPatSaj-country",
+        "07-silvestri-country",
+        "04-iGMM-country",
+        "06-MarScoToc-country",
         "02-GioPonSpiz-country",
-        "05-MalPatSaj-country"
+        "10-DeBiGa-country",
+        "03-gren-country"
     ],
-    [
-        "08-slytherin-employees",
-        "10-DeBiGa-employees",
+    "employees": [
         "04-iGMM-employees",
-        "00-avengers-employees"
+        "00-avengers-employees",
+        "10-DeBiGa-employees",
+        "08-slytherin-employees"
     ],
-    [
-        "04-iGMM-founded",
+    "founded": [
+        "10-DeBiGa-founded",
         "00-avengers-founded",
-        "10-DeBiGa-founded"
+        "04-iGMM-founded"
     ],
-    [
+    "gbp": [
         "00-avengers-gbp"
     ],
-    [
+    "headquarters": [
         "10-DeBiGa-headquarters",
-        "08-slytherin-headquarters",
-        "04-iGMM-headquarters"
+        "04-iGMM-headquarters",
+        "08-slytherin-headquarters"
     ],
-    [
+    "headquarters_continent": [
         "00-avengers-headquarters_continent"
     ],
-    [
+    "id": [
         "00-avengers-id"
     ],
-    [
-        "06-MarScoToc-industry",
-        "03-gren-industry",
+    "industry": [
         "02-GioPonSpiz-industry",
+        "05-MalPatSaj-industry",
         "10-DeBiGa-industry",
-        "04-iGMM-industry",
-        "05-MalPatSaj-industry"
+        "03-gren-industry",
+        "06-MarScoToc-industry",
+        "04-iGMM-industry"
     ],
-    [
-        "04-iGMM-link"
-    ],
-    [
+    "link": [
         "08-slytherin-link"
     ],
-    [
-        "06-MarScoToc-mastercap",
-        "04-iGMM-marketcap",
+    "market_cap": [
         "10-DeBiGa-market_cap",
-        "05-MalPatSaj-marketcap",
-        "07-silvestri-market_value_apr_2022",
+        "04-iGMM-marketcap",
         "00-avengers-market_cap",
+        "02-GioPonSpiz-marketcap",
+        "07-silvestri-market_value_apr_2022",
         "08-slytherin-market_cap",
-        "02-GioPonSpiz-marketcap"
+        "06-MarScoToc-mastercap",
+        "05-MalPatSaj-marketcap"
     ],
-    [
+    "market_capitalization_usd": [
         "03-gren-market_capitalization_usd"
     ],
-    [
-        "05-MalPatSaj-name",
-        "02-GioPonSpiz-name",
-        "08-slytherin-name",
-        "00-avengers-name",
-        "10-DeBiGa-name",
-        "07-silvestri-name",
-        "03-gren-name",
+    "name": [
         "04-iGMM-name",
-        "06-MarScoToc-name"
+        "00-avengers-name",
+        "06-MarScoToc-name",
+        "10-DeBiGa-name",
+        "02-GioPonSpiz-name",
+        "05-MalPatSaj-name",
+        "08-slytherin-name",
+        "03-gren-name",
+        "07-silvestri-name"
     ],
-    [
+    "net_income": [
         "04-iGMM-net_income"
     ],
-    [
+    "official_name": [
         "00-avengers-official_name"
     ],
-    [
+    "rank": [
         "04-iGMM-rank"
     ],
-    [
+    "revenue": [
         "04-iGMM-revenue"
     ],
-    [
+    "sector": [
         "10-DeBiGa-sector",
-        "03-gren-sector",
-        "07-silvestri-sector",
-        "06-MarScoToc-sector",
+        "04-iGMM-sector",
         "05-MalPatSaj-sector",
+        "07-silvestri-sector",
+        "03-gren-sector",
         "02-GioPonSpiz-sector",
-        "04-iGMM-sector"
+        "06-MarScoToc-sector"
     ],
-    [
-        "03-gren-stock",
-        "10-DeBiGa-stock",
+    "stock": [
         "07-silvestri-stock",
+        "10-DeBiGa-stock",
+        "05-MalPatSaj-stock",
         "02-GioPonSpiz-stock",
-        "05-MalPatSaj-stock"
+        "03-gren-stock"
     ]
-]
+}

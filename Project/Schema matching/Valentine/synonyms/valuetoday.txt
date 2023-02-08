@@ -1,131 +1,131 @@
-[
-    [
+{
+    "annual_net_income_in_usd": [
         "04-iGMM-annual_net_income_in_usd",
         "00-avengers-annual_net_income_in_usd"
     ],
-    [
+    "annual_net_income_usd": [
         "03-gren-annual_net_income_usd"
     ],
-    [
+    "annual_results_for_year_ending": [
         "00-avengers-annual_results_for_year_ending"
     ],
-    [
-        "04-iGMM-annual_revenue_in_usd",
-        "08-slytherin-revenue",
+    "annual_revenue_in_usd": [
         "00-avengers-annual_revenue_in_usd",
-        "07-silvestri-revenue_2022"
+        "04-iGMM-annual_revenue_in_usd",
+        "07-silvestri-revenue_2022",
+        "08-slytherin-revenue"
     ],
-    [
+    "annual_revenue_usd": [
         "03-gren-annual_revenue_usd"
     ],
-    [
-        "03-gren-ceo",
+    "ceo": [
         "07-silvestri-ceo",
+        "04-iGMM-ceo",
+        "03-gren-ceo",
         "02-GioPonSpiz-ceo",
         "08-slytherin-ceo",
-        "00-avengers-ceo",
-        "04-iGMM-ceo"
+        "00-avengers-ceo"
     ],
-    [
-        "04-iGMM-company_business",
+    "industry": [
         "08-slytherin-industry",
+        "04-iGMM-company_business",
         "00-avengers-company_business"
     ],
-    [
-        "00-avengers-company_website",
-        "04-iGMM-company_website"
+    "company_website": [
+        "04-iGMM-company_website",
+        "00-avengers-company_website"
     ],
-    [
-        "04-iGMM-headquarters_country",
-        "08-slytherin-country",
+    "headquarters_country": [
+        "00-avengers-headquarters_country",
         "07-silvestri-country",
         "03-gren-headquarters_country",
+        "04-iGMM-headquarters_country",
         "02-GioPonSpiz-country",
-        "00-avengers-headquarters_country"
+        "08-slytherin-country"
     ],
-    [
+    "employees_number": [
         "03-gren-employees_number",
-        "07-silvestri-employees_2022",
+        "04-iGMM-number_of_employees",
         "00-avengers-number_of_employees",
-        "04-iGMM-number_of_employees"
+        "07-silvestri-employees_2022"
     ],
-    [
+    "facebook_page_url": [
         "03-gren-facebook_page_url"
     ],
-    [
+    "founded": [
         "08-slytherin-founded"
     ],
-    [
+    "founders": [
         "00-avengers-founders"
     ],
-    [
+    "headquarters_continent": [
         "00-avengers-headquarters_continent"
     ],
-    [
+    "headquarters_region_city": [
         "00-avengers-headquarters_region_city"
     ],
-    [
+    "headquarters_sub_region": [
         "00-avengers-headquarters_sub_region"
     ],
-    [
+    "id": [
         "00-avengers-id"
     ],
-    [
+    "link": [
         "08-slytherin-link"
     ],
-    [
+    "market_capitalization_2022": [
         "03-gren-market_capitalization_2022"
     ],
-    [
+    "marketcap": [
         "02-GioPonSpiz-marketcap"
     ],
-    [
-        "07-silvestri-market_value_jan_2022",
+    "market_value__jan_07_2022": [
         "04-iGMM-market_value__jan_07_2022",
-        "02-GioPonSpiz-marketvalue"
+        "02-GioPonSpiz-marketvalue",
+        "07-silvestri-market_value_jan_2022"
     ],
-    [
-        "04-iGMM-market_value__jan_1st_2020",
-        "07-silvestri-market_value_jan_2020"
+    "market_value_jan_2020": [
+        "07-silvestri-market_value_jan_2020",
+        "04-iGMM-market_value__jan_1st_2020"
     ],
-    [
+    "market_value_jan_2021": [
         "07-silvestri-market_value_jan_2021"
     ],
-    [
+    "name": [
+        "04-iGMM-name",
+        "00-avengers-name",
         "02-GioPonSpiz-name",
         "08-slytherin-name",
-        "00-avengers-name",
-        "04-iGMM-name",
-        "07-silvestri-name",
-        "03-gren-name"
+        "03-gren-name",
+        "07-silvestri-name"
     ],
-    [
+    "rank": [
         "08-slytherin-rank"
     ],
-    [
+    "sector": [
         "07-silvestri-sector"
     ],
-    [
+    "total_assets_in_usd": [
         "00-avengers-total_assets_in_usd"
     ],
-    [
+    "total_equity_in_usd": [
         "00-avengers-total_equity_in_usd"
     ],
-    [
+    "total_liabilities_in_usd": [
         "00-avengers-total_liabilities_in_usd"
     ],
-    [
+    "twitter_page_url": [
         "03-gren-twitter_page_url"
     ],
-    [
+    "wikipedia_page_url": [
         "03-gren-wikipedia_page_url"
     ],
-    [
+    "world_rank": [
+        "02-GioPonSpiz-world_rank",
         "04-iGMM-world_rank__jan_07_2022",
-        "00-avengers-world_rank",
-        "02-GioPonSpiz-world_rank"
+        "00-avengers-world_rank"
     ],
-    [
+    "world_rank__jan_2020": [
         "04-iGMM-world_rank__jan_2020"
     ]
-]
+}

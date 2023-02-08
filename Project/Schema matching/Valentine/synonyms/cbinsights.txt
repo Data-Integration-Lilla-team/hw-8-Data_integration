@@ -1,39 +1,39 @@
-[
-    [
+{
+    "city": [
         "04-iGMM-city",
         "01-DDD-city"
     ],
-    [
-        "04-iGMM-company",
-        "01-DDD-name"
+    "name": [
+        "01-DDD-name",
+        "04-iGMM-company"
     ],
-    [
+    "country": [
         "04-iGMM-country",
         "01-DDD-country"
     ],
-    [
+    "datejoined": [
         "04-iGMM-datejoined",
         "01-DDD-datejoined"
     ],
-    [
+    "founded": [
         "01-DDD-founded"
     ],
-    [
-        "04-iGMM-industry",
-        "01-DDD-industry"
+    "industry": [
+        "01-DDD-industry",
+        "04-iGMM-industry"
     ],
-    [
+    "selectinvestors": [
         "04-iGMM-selectinvestors",
         "01-DDD-investors"
     ],
-    [
+    "stage": [
         "01-DDD-stage"
     ],
-    [
+    "totalraised": [
         "01-DDD-totalraised"
     ],
-    [
+    "valuation": [
         "01-DDD-valuation",
         "04-iGMM-valuation"
     ]
-]
+}
