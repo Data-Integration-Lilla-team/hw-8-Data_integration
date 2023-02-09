@@ -1,1 +1,1 @@
-{"sector": ["sector", "name", "industry"], "name": ["sector", "name", "industry"], "industry": ["headquarters", "industry"], "headquarters": ["headquarters", "industry"], "founded": ["founded"], "notes": ["notes"], "area_served": ["area_served"]}
+{"sector": ["sector"], "industry": ["area_served", "industry"], "name": ["sector"], "headquarters": ["headquarters"], "notes": ["sector"], "founded": ["founded"], "area_served": ["area_served", "industry"]}

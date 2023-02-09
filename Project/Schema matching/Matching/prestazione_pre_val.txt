@@ -166,6 +166,7 @@ infoclipper Score: 0.6
 teamblind Score: 0.6666666666666666
 valuetoday Score: 0.4762651431256083
 wikipedia Score: 0.421875
+
 ambitiobox Score: 0.8
 ariregister Score: 0.7
 cbinsights Score: 0.625
@@ -209,6 +210,7 @@ infoclipper Score: 0.5999999999999999
 teamblind Score: 0.6666666666666666
 valuetoday Score: 0.33824493672825323
 wikipedia Score: 0.6666666666666666
+
 ambitiobox Score: 0.8
 ariregister Score: 0.7
 cbinsights Score: 0.5750000000000001
@@ -237,6 +239,7 @@ infoclipper Score: 0.5999999999999999
 teamblind Score: 0.6666666666666666
 valuetoday Score: 0.33824493672825323
 wikipedia Score: 0.6666666666666666
+
 ambitiobox Score: 0.8
 ariregister Score: 0.7
 cbinsights Score: 0.5750000000000001
@@ -251,6 +254,7 @@ infoclipper Score: 0.5999999999999999
 teamblind Score: 0.6666666666666666
 valuetoday Score: 0.33824493672825323
 wikipedia Score: 0.6666666666666666
+
 ambitiobox Score: 0.8
 ariregister Score: 0.7
 cbinsights Score: 0.5750000000000001
@@ -265,3 +269,93 @@ infoclipper Score: 0.5999999999999999
 teamblind Score: 0.6666666666666666
 valuetoday Score: 0.33824493672825323
 wikipedia Score: 0.6666666666666666
+ambitiobox Score: 0.6
+ariregister Score: 0.7
+cbinsights Score: 0.7083333333333334
+ambitiobox Score: 0.6
+ambitiobox Score: 0.6
+ariregister Score: 0.6
+cbinsights Score: 0.7083333333333334
+companiesmarketcap Score: 0.3695488721804511
+disfold Score: 0.43666666666666665
+forbes Score: 0.4761904761904763
+ft Score: 0.35265700483091794
+globaldata Score: 0.4074074074074074
+govuk Score: 0.6309523809523808
+hithorizons Score: 0.6666666666666666
+infoclipper Score: 0.7
+teamblind Score: 0.8333333333333334
+valuetoday Score: 0.2619823759358644
+wikipedia Score: 0.5142857142857143
+ambitiobox Score: 0.6
+ariregister Score: 0.6
+cbinsights Score: 0.7083333333333334
+companiesmarketcap Score: 0.36954887218045107
+disfold Score: 0.46666666666666673
+forbes Score: 0.4761904761904763
+ft Score: 0.35265700483091794
+globaldata Score: 0.4074074074074074
+govuk Score: 0.630952380952381
+hithorizons Score: 0.6666666666666666
+infoclipper Score: 0.7
+teamblind Score: 0.8333333333333334
+valuetoday Score: 0.2782945736434109
+wikipedia Score: 0.5142857142857142
+
+=new features
+ambitiobox Score: 0.6
+ariregister Score: 0.6
+cbinsights Score: 0.7916666666666666
+companiesmarketcap Score: 0.42669172932330834
+disfold Score: 0.45666666666666667
+forbes Score: 0.4761904761904763
+ft Score: 0.35265700483091794
+globaldata Score: 0.4074074074074074
+govuk Score: 0.630952380952381
+hithorizons Score: 0.6666666666666666
+infoclipper Score: 0.8
+teamblind Score: 0.8333333333333334
+valuetoday Score: 0.3096899224806202
+wikipedia Score: 0.5142857142857143
+
+ambitiobox Score: 0.6
+ariregister Score: 0.6
+cbinsights Score: 0.7916666666666666
+companiesmarketcap Score: 0.4266917293233083
+disfold Score: 0.45666666666666667
+forbes Score: 0.4761904761904763
+ft Score: 0.35265700483091794
+globaldata Score: 0.4074074074074074
+govuk Score: 0.630952380952381
+hithorizons Score: 0.6666666666666666
+infoclipper Score: 0.8
+teamblind Score: 0.8333333333333334
+valuetoday Score: 0.3096899224806202
+wikipedia Score: 0.5142857142857143
+ambitiobox Score: 0.6
+ariregister Score: 0.6
+cbinsights Score: 0.7916666666666666
+companiesmarketcap Score: 0.4266917293233083
+disfold Score: 0.45666666666666667
+forbes Score: 0.4761904761904763
+
+ambitiobox Score: 0.6
+ariregister Score: 0.6
+cbinsights Score: 0.7916666666666666
+companiesmarketcap Score: 0.4266917293233083
+disfold Score: 0.4666666666666666
+forbes Score: 0.4761904761904763
+ambitiobox Score: 0.6
+ariregister Score: 0.6
+cbinsights Score: 0.7916666666666666
+companiesmarketcap Score: 0.4266917293233083
+disfold Score: 0.45666666666666667
+forbes Score: 0.4761904761904763
+ft Score: 0.2608695652173913
+globaldata Score: 0.4074074074074074
+govuk Score: 0.630952380952381
+hithorizons Score: 0.6666666666666666
+infoclipper Score: 0.8
+teamblind Score: 0.8333333333333334
+valuetoday Score: 0.3096899224806202
+wikipedia Score: 0.5714285714285714

@@ -1,7 +1,7 @@
 ,column_name,cluster
 0,01-DDD-name,0
-1,01-DDD-website,1
-2,01-DDD-locations,0
-3,01-DDD-size,0
-4,01-DDD-industry,3
-5,01-DDD-founded,2
+1,01-DDD-website,4
+2,01-DDD-locations,2
+3,01-DDD-size,3
+4,01-DDD-industry,0
+5,01-DDD-founded,1

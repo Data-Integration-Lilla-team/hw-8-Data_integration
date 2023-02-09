@@ -1,4 +1,4 @@
-threshold:0.4 avg jaccard:1.0
+threshold:0.6 avg jaccard:1.0
 area_served->('area_served', 1.0)
 founded->('founded', 1.0)
 headquarters->('headquarters', 1.0)

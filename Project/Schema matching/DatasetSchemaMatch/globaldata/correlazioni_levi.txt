@@ -1,4 +1,4 @@
-threshold:0.4 avg jaccard:0.8888888888888888
+threshold:0.6 avg jaccard:0.8888888888888888
 address->('address', 1.0)
 headquarters->('headquarters', 1.0)
 industry->('industry', 1.0)

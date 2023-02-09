@@ -1,10 +1,10 @@
 ,column_name,cluster
-0,10-DeBiGa-name,0
+0,10-DeBiGa-name,3
 1,10-DeBiGa-headquarters,1
-2,10-DeBiGa-number_of_employees,2
-3,10-DeBiGa-address,0
+2,10-DeBiGa-number_of_employees,0
+3,10-DeBiGa-address,2
 4,10-DeBiGa-industry,1
-5,10-DeBiGa-website,4
-6,10-DeBiGa-market_cap,3
+5,10-DeBiGa-website,1
+6,10-DeBiGa-market_cap,0
 7,10-DeBiGa-telephone,0
 8,10-DeBiGa-revenue,0

@@ -109,14 +109,26 @@ class MatchingModule:
                 
 
             
+    def limit_names(self,unione,data_c):
+        seen=set()
+        out=[]
+        for i in unione:
+            if i not in seen:
+                out.append(i)
+            elements=data_c[i]
+            seen.update(elements)
+        return out
 
 
     def merge_dict(self, data_c, name_corr):
         output=dict()
+        numero_colonne=len(data_c)
         for k in data_c.keys():
             elementi_A=set(data_c[k])
             elementi_B=set(name_corr[k])
             unione=list(elementi_A.union(elementi_B))
+            if len(unione)>0.7*numero_colonne:
+                unione=self.limit_names(unione,data_c)
             output[k]=unione
         return output
     #riceve in input:

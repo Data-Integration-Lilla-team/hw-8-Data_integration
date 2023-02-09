@@ -1,16 +1,16 @@
-threshold:0.4 avg jaccard:0.8214285714285714
+threshold:0.6 avg jaccard:0.7857142857142857
 company_creation_date->('company_creation_date', 1.0)
-company_id->('company_id', 1.0)('company_number', 0.4)('company_status', 0.4)('company_type', 0.4444444444444444)
-company_number->('company_id', 0.4)('company_number', 1.0)
-company_status->('company_id', 0.4)('company_status', 1.0)
-company_type->('company_id', 0.4444444444444444)('company_type', 1.0)
+company_id->('company_id', 1.0)
+company_number->('company_number', 1.0)
+company_status->('company_status', 1.0)
+company_type->('company_type', 1.0)
 dissolution_date->('dissolution_date', 1.0)
 id->('id', 1.0)
 incorporation_date->('incorporation_date', 1.0)
 name->('name', 1.0)
 nature_of_business->('nature_of_business', 1.0)
-office_address->('office_address', 1.0)('registered_office_address', 0.4827586206896552)
-registered_office_address->('office_address', 0.4827586206896552)('registered_office_address', 1.0)
+office_address->('office_address', 1.0)
+registered_office_address->('registered_office_address', 1.0)
 registration_date->('registration_date', 1.0)
 url->('url', 1.0)
 

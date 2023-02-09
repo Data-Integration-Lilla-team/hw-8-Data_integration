@@ -1,25 +1,18 @@
 
-Elemento: size
-Sinonimi computati:['size', 'name', 'locations']
-Sinonimi reali:['size']
-Intersezione:{'size'}
-Computato - TGT:{'name', 'locations'}
-TGT- Computato:set()
-Jaccard score:0.3333333333333333
 Elemento: name
-Sinonimi computati:['size', 'name', 'locations']
+Sinonimi computati:['name', 'industry']
 Sinonimi reali:['name']
 Intersezione:{'name'}
-Computato - TGT:{'size', 'locations'}
+Computato - TGT:{'industry'}
 TGT- Computato:set()
-Jaccard score:0.3333333333333333
-Elemento: locations
-Sinonimi computati:['size', 'name', 'locations']
-Sinonimi reali:['locations']
-Intersezione:{'locations'}
-Computato - TGT:{'size', 'name'}
+Jaccard score:0.5
+Elemento: industry
+Sinonimi computati:['name', 'industry']
+Sinonimi reali:['industry']
+Intersezione:{'industry'}
+Computato - TGT:{'name'}
 TGT- Computato:set()
-Jaccard score:0.3333333333333333
+Jaccard score:0.5
 Elemento: website
 Sinonimi computati:['website']
 Sinonimi reali:['website']
@@ -27,10 +20,17 @@ Intersezione:{'website'}
 Computato - TGT:set()
 TGT- Computato:set()
 Jaccard score:1.0
-Elemento: industry
-Sinonimi computati:['industry']
-Sinonimi reali:['industry']
-Intersezione:{'industry'}
+Elemento: locations
+Sinonimi computati:['locations']
+Sinonimi reali:['locations']
+Intersezione:{'locations'}
+Computato - TGT:set()
+TGT- Computato:set()
+Jaccard score:1.0
+Elemento: size
+Sinonimi computati:['size']
+Sinonimi reali:['size']
+Intersezione:{'size'}
 Computato - TGT:set()
 TGT- Computato:set()
 Jaccard score:1.0
@@ -41,4 +41,4 @@ Intersezione:{'founded'}
 Computato - TGT:set()
 TGT- Computato:set()
 Jaccard score:1.0
-AVG valori extra: 1.0
+AVG valori extra: 0.3333333333333333

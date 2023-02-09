@@ -1,65 +1,65 @@
 
-Elemento: address
-Sinonimi computati:['address', 'telephone', 'name', 'revenue']
-Sinonimi reali:['address']
-Intersezione:{'address'}
-Computato - TGT:{'telephone', 'name', 'revenue'}
-TGT- Computato:set()
-Jaccard score:0.25
-Elemento: telephone
-Sinonimi computati:['address', 'telephone', 'name', 'revenue']
-Sinonimi reali:['telephone']
-Intersezione:{'telephone'}
-Computato - TGT:{'address', 'name', 'revenue'}
-TGT- Computato:set()
-Jaccard score:0.25
 Elemento: name
-Sinonimi computati:['address', 'telephone', 'name', 'revenue']
+Sinonimi computati:['name']
 Sinonimi reali:['name']
 Intersezione:{'name'}
-Computato - TGT:{'address', 'telephone', 'revenue'}
-TGT- Computato:set()
-Jaccard score:0.25
-Elemento: revenue
-Sinonimi computati:['address', 'telephone', 'name', 'revenue']
-Sinonimi reali:['revenue']
-Intersezione:{'revenue'}
-Computato - TGT:{'address', 'telephone', 'name'}
-TGT- Computato:set()
-Jaccard score:0.25
-Elemento: headquarters
-Sinonimi computati:['headquarters', 'industry']
-Sinonimi reali:['headquarters']
-Intersezione:{'headquarters'}
-Computato - TGT:{'industry'}
-TGT- Computato:set()
-Jaccard score:0.5
-Elemento: industry
-Sinonimi computati:['headquarters', 'industry']
-Sinonimi reali:['industry']
-Intersezione:{'industry'}
-Computato - TGT:{'headquarters'}
-TGT- Computato:set()
-Jaccard score:0.5
-Elemento: number_of_employees
-Sinonimi computati:['number_of_employees']
-Sinonimi reali:['number_of_employees']
-Intersezione:{'number_of_employees'}
 Computato - TGT:set()
 TGT- Computato:set()
 Jaccard score:1.0
+Elemento: industry
+Sinonimi computati:['headquarters', 'industry', 'website']
+Sinonimi reali:['industry']
+Intersezione:{'industry'}
+Computato - TGT:{'headquarters', 'website'}
+TGT- Computato:set()
+Jaccard score:0.3333333333333333
+Elemento: headquarters
+Sinonimi computati:['headquarters', 'industry', 'website']
+Sinonimi reali:['headquarters']
+Intersezione:{'headquarters'}
+Computato - TGT:{'industry', 'website'}
+TGT- Computato:set()
+Jaccard score:0.3333333333333333
 Elemento: website
-Sinonimi computati:['website']
+Sinonimi computati:['headquarters', 'industry', 'website']
 Sinonimi reali:[]
 Intersezione:set()
-Computato - TGT:{'website'}
+Computato - TGT:{'headquarters', 'industry', 'website'}
 TGT- Computato:set()
 Jaccard score:0.0
 Elemento: market_cap
-Sinonimi computati:['market_cap']
+Sinonimi computati:['market_cap', 'telephone', 'number_of_employees', 'revenue']
 Sinonimi reali:['market_cap']
 Intersezione:{'market_cap'}
+Computato - TGT:{'telephone', 'revenue', 'number_of_employees'}
+TGT- Computato:set()
+Jaccard score:0.25
+Elemento: telephone
+Sinonimi computati:['market_cap', 'telephone', 'number_of_employees', 'revenue']
+Sinonimi reali:['telephone']
+Intersezione:{'telephone'}
+Computato - TGT:{'market_cap', 'revenue', 'number_of_employees'}
+TGT- Computato:set()
+Jaccard score:0.25
+Elemento: revenue
+Sinonimi computati:['market_cap', 'telephone', 'number_of_employees', 'revenue']
+Sinonimi reali:['revenue']
+Intersezione:{'revenue'}
+Computato - TGT:{'market_cap', 'telephone', 'number_of_employees'}
+TGT- Computato:set()
+Jaccard score:0.25
+Elemento: number_of_employees
+Sinonimi computati:['market_cap', 'telephone', 'number_of_employees', 'revenue']
+Sinonimi reali:['number_of_employees']
+Intersezione:{'number_of_employees'}
+Computato - TGT:{'market_cap', 'telephone', 'revenue'}
+TGT- Computato:set()
+Jaccard score:0.25
+Elemento: address
+Sinonimi computati:['address']
+Sinonimi reali:['address']
+Intersezione:{'address'}
 Computato - TGT:set()
 TGT- Computato:set()
 Jaccard score:1.0
-AVG valori extra: 1.6666666666666667
+AVG valori extra: 2.111111111111111

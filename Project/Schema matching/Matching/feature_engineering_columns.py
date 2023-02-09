@@ -6,9 +6,21 @@ import numpy as np
 from sklearn.preprocessing import MinMaxScaler
 class FeatureExtraction:
     def __init__(self):
-        self.features=['column_name','type_of_data',
-        'type_of_string','avg_length_of_field','var_length','std_dev_length','ratio_white_space_length','ratio_num_val',
-        'min_val(int)','max_val(int)','avg(int)','variance','std_dev',]
+        self.features=['column_name',
+        'type_of_data',
+        'type_of_string',
+        'avg_length_of_field',
+        'var_length',
+        'std_dev_length',
+        'ratio_white_space_length',
+        'ratio_num_val',
+        'is_country',
+        'min_val(int)',
+        'max_val(int)',
+        'avg(int)',
+        'variance',
+        'std_dev',
+        'incremetal_int']
     
 
         # da adornare con data
@@ -21,27 +33,60 @@ class FeatureExtraction:
           'august', 'september', 'october', 'november', 'december',
           'January', 'February', 'March', 'April', 'May', 'June', 'July',
           'August', 'September', 'October', 'November', 'December']
+        numbers={'0','1','2','3','4','5','6','7','8','9'}
         conta_string=0
         conta_int=0
         regex_date="^[0-9]{1,2}\\/[0-9]{1,2}\\/[0-9]{4}$"
         regex_date2='\d{2}.\d{2}.\d{2}'
-        
+        import string
+        s = set(string.ascii_lowercase)
         for i in col.head(10):
-
-            if isinstance(i, str):
-                data=i.split(' ')
+            
+            string_version=str(i)
+            set_chars=set(string_version)
+            inter=s.intersection(set_chars)
+            if len(inter)>=0.6*len(set_chars):
+                return string_t
+            elif len(inter)<0.6*len(set_chars):
+                
+                data=str(string_version).split(' ')
                 if len(data)>1:
                     if data[1] in set(months):
                         return data_t
-                elif re.match(regex_date,i) or re.match(regex_date2,i):
+                elif re.match(regex_date,string_version) or re.match(regex_date2,string_version):
                         return data_t
-                else:
-                    conta_string+=1
-            else:
-                conta_int+=1
+            elif len(inter)==0:
+                    
+                    float_set_chars={float(x) for x in set_chars}
+                    print(float_set_chars)
+                    float_int_chars={float(x) for x in numbers}
+                    int=float_set_chars.intersection(float_int_chars)
+                    if len(int)==len(set_chars) and 'doll_' not in string_version:
+                        print('intero')
+                        conta_int+=1
+                    else:
+                        conta_string+=1
         if conta_string>conta_int:
             return string_t
         return integer
+    
+    def compute_incremental(self,col):
+        somma=0
+        min=0
+        max=40
+        opp=-1
+        while (min<max/2):
+            a=col.iloc(min)
+            b=col.iloc(max)
+            d=a+b
+            somma=somma+(opp)*d
+            min+=1
+            max-=1
+            opp=opp*-1
+        if somma==0:
+            return 1
+        else:
+            return 2
 
     def compute_features_for_int(self, col):
         integer_features=[]
@@ -51,11 +96,12 @@ class FeatureExtraction:
             integer_features.append(col.mean())
             integer_features.append(col.var())
             integer_features.append(col.std())
+            integer_features.append(self.compute_incremental(col))
             return integer_features
         except:
             
             #return ['error','error','error','error','error']
-            return [0,0,0,0,0]
+            return [0,0,0,0,0,0,0]
 
     def compute_type(self, val):
         numero_perc=0
@@ -110,8 +156,19 @@ class FeatureExtraction:
 
     
         
-
-                
+    def is_country(self,col):
+        countries = {'china','usa', 'india', 'united states', 'indonesia', 'pakistan', 'brazil', 'nigeria', 'bangladesh', 'russia', 'mexico','honk-kong','italy','united kingdom','united-kingdom','uk'}
+        tot=20
+        somma=0
+        data=col.head(21)
+        for c in data:
+            if c in countries:
+                somma+=1
+        if somma>=0.4*tot:
+            print('country')
+            return 1
+        else:
+            return 0                
            
 
     def compute_features_for_string(self, col):
@@ -134,6 +191,9 @@ class FeatureExtraction:
 
         #ratio of numeric values
         result=self.compute_ratio_of_numeric_values(col)
+
+        feature_vector.append(self.is_country(col))
+
         
         feature_vector.append(result)
         
@@ -208,13 +268,15 @@ class FeatureExtraction:
             if i>0:
                 name_column=k+'-'+list_of_names_columns[i]
                 vector_features=[name_column]
-                type_of_col=self.compute_features(ds[col])
+                print(name_column)
                 
+                type_of_col=self.compute_features(ds[col])
+                print(type_of_col)
                 vector_features.append(type_of_col)
                 if type_of_col==0:  #calcola le feature per la stringa, i valori numerici verranno settati a 0
                     
                     vector_features=vector_features+self.compute_features_for_string(ds[col])
-                    vector_features=vector_features+[0,0,0,0,0]
+                    vector_features=vector_features+[0,0,0,0,0,0]
                 elif type_of_col==1:
                     
                     
@@ -222,7 +284,7 @@ class FeatureExtraction:
                     vector_features=vector_features+self.compute_features_for_int(ds[col])
                 
                 else:
-                    vector_features=vector_features+[0,0,0,0,0,0,0,0,0,0,0]
+                    vector_features=vector_features+[0,0,0,0,0,0,0,0,0,0,0,0,0]
                 
                 
                 ds_features.append(vector_features)

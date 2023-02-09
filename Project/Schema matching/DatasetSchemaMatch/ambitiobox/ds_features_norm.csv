@@ -1,6 +1,6 @@
-,column_name,type_of_data,type_of_string,avg_length_of_field,var_length,std_dev_length,ratio_white_space_length,ratio_num_val,min_val(int),max_val(int),avg(int),variance,std_dev
-0,06-MarScoToc-name,0.0,1.0,1.0,1.0,1.0,1.0,0.9999999999999999,0.0,0.0,0.0,0.0,0.0
-1,06-MarScoToc-industry,0.0,1.0,0.8974463340180142,0.8019993395836849,0.8955441583661214,0.8444892977385603,0.0,0.0,0.0,0.0,0.0,0.0
-2,06-MarScoToc-headquarter,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
-3,06-MarScoToc-ownership,0.0,1.0,0.38821597442157996,0.01393192364751335,0.11803357000240801,0.002223385049336441,0.0,0.0,0.0,0.0,0.0,0.0
-4,06-MarScoToc-foundation_year,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,1.0,1.0,1.0
+,column_name,type_of_data,type_of_string,avg_length_of_field,var_length,std_dev_length,ratio_white_space_length,ratio_num_val,is_country,min_val(int),max_val(int),avg(int),variance,std_dev,incremetal_int
+0,06-MarScoToc-name,0.0,1.0,0.7219881453092698,0.9117324260766888,0.9548468076485823,0.8547400085145329,0.0,0.9999999999999999,0.0,0.0,0.0,0.0,0.0,0.0
+1,06-MarScoToc-industry,0.0,1.0,0.6479456142122696,0.7312088035905352,0.8551074807242275,0.721818789539489,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+2,06-MarScoToc-headquarter,0.0,1.0,0.9999999999999999,1.0,1.0,0.9999999999999999,0.0,0.040207602882655985,0.0,0.0,0.0,0.0,0.0,0.0
+3,06-MarScoToc-ownership,0.0,1.0,0.2802873313520674,0.012702186547062537,0.11270397751216475,0.0019004161560009151,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+4,06-MarScoToc-foundation_year,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0

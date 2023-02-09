@@ -1,4 +1,4 @@
-threshold:0.4 avg jaccard:1.0
+threshold:0.6 avg jaccard:1.0
 address_name->('address_name', 1.0)
 city->('city', 1.0)
 country->('country', 1.0)

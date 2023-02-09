@@ -13,41 +13,27 @@ Intersezione:{'name', 'company'}
 Computato - TGT:set()
 TGT- Computato:set()
 Jaccard score:1.0
-Elemento: stage
-Sinonimi computati:['totalraised', 'stage', 'selectinvestors', 'valuation', 'investors']
-Sinonimi reali:['stage']
-Intersezione:{'stage'}
-Computato - TGT:{'totalraised', 'selectinvestors', 'valuation', 'investors'}
+Elemento: founded
+Sinonimi computati:['founded', 'totalraised', 'valuation']
+Sinonimi reali:['founded']
+Intersezione:{'founded'}
+Computato - TGT:{'totalraised', 'valuation'}
 TGT- Computato:set()
-Jaccard score:0.2
-Elemento: valuation
-Sinonimi computati:['totalraised', 'stage', 'selectinvestors', 'valuation', 'investors']
-Sinonimi reali:['valuation']
-Intersezione:{'valuation'}
-Computato - TGT:{'stage', 'totalraised', 'selectinvestors', 'investors'}
-TGT- Computato:set()
-Jaccard score:0.2
+Jaccard score:0.3333333333333333
 Elemento: totalraised
-Sinonimi computati:['totalraised', 'stage', 'selectinvestors', 'valuation', 'investors']
+Sinonimi computati:['founded', 'totalraised', 'valuation']
 Sinonimi reali:['totalraised']
 Intersezione:{'totalraised'}
-Computato - TGT:{'stage', 'selectinvestors', 'valuation', 'investors'}
+Computato - TGT:{'founded', 'valuation'}
 TGT- Computato:set()
-Jaccard score:0.2
-Elemento: selectinvestors
-Sinonimi computati:['totalraised', 'stage', 'selectinvestors', 'valuation', 'investors']
-Sinonimi reali:['investors', 'selectinvestors']
-Intersezione:{'selectinvestors', 'investors'}
-Computato - TGT:{'stage', 'totalraised', 'valuation'}
+Jaccard score:0.3333333333333333
+Elemento: valuation
+Sinonimi computati:['founded', 'totalraised', 'valuation']
+Sinonimi reali:['valuation']
+Intersezione:{'valuation'}
+Computato - TGT:{'founded', 'totalraised'}
 TGT- Computato:set()
-Jaccard score:0.4
-Elemento: investors
-Sinonimi computati:['totalraised', 'stage', 'selectinvestors', 'valuation', 'investors']
-Sinonimi reali:['investors', 'selectinvestors']
-Intersezione:{'selectinvestors', 'investors'}
-Computato - TGT:{'stage', 'totalraised', 'valuation'}
-TGT- Computato:set()
-Jaccard score:0.4
+Jaccard score:0.3333333333333333
 Elemento: datejoined
 Sinonimi computati:['datejoined']
 Sinonimi reali:['datejoined']
@@ -55,20 +41,20 @@ Intersezione:{'datejoined'}
 Computato - TGT:set()
 TGT- Computato:set()
 Jaccard score:1.0
-Elemento: city
-Sinonimi computati:['city', 'country']
-Sinonimi reali:['city']
-Intersezione:{'city'}
-Computato - TGT:{'country'}
-TGT- Computato:set()
-Jaccard score:0.5
 Elemento: country
-Sinonimi computati:['city', 'country']
+Sinonimi computati:['country']
 Sinonimi reali:['country']
 Intersezione:{'country'}
-Computato - TGT:{'city'}
+Computato - TGT:set()
 TGT- Computato:set()
-Jaccard score:0.5
+Jaccard score:1.0
+Elemento: city
+Sinonimi computati:['city']
+Sinonimi reali:['city']
+Intersezione:{'city'}
+Computato - TGT:set()
+TGT- Computato:set()
+Jaccard score:1.0
 Elemento: industry
 Sinonimi computati:['industry']
 Sinonimi reali:['industry']
@@ -76,11 +62,25 @@ Intersezione:{'industry'}
 Computato - TGT:set()
 TGT- Computato:set()
 Jaccard score:1.0
-Elemento: founded
-Sinonimi computati:['founded']
-Sinonimi reali:['founded']
-Intersezione:{'founded'}
+Elemento: investors
+Sinonimi computati:['investors', 'selectinvestors']
+Sinonimi reali:['investors', 'selectinvestors']
+Intersezione:{'investors', 'selectinvestors'}
 Computato - TGT:set()
 TGT- Computato:set()
 Jaccard score:1.0
-AVG valori extra: 1.75
+Elemento: selectinvestors
+Sinonimi computati:['investors', 'selectinvestors']
+Sinonimi reali:['investors', 'selectinvestors']
+Intersezione:{'investors', 'selectinvestors'}
+Computato - TGT:set()
+TGT- Computato:set()
+Jaccard score:1.0
+Elemento: stage
+Sinonimi computati:['stage']
+Sinonimi reali:['stage']
+Intersezione:{'stage'}
+Computato - TGT:set()
+TGT- Computato:set()
+Jaccard score:1.0
+AVG valori extra: 0.5833333333333334

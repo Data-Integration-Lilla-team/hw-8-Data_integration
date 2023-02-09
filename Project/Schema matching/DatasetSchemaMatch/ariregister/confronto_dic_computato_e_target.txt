@@ -1,43 +1,50 @@
 
 Elemento: url
-Sinonimi computati:['url']
+Sinonimi computati:['url', 'name', 'id']
 Sinonimi reali:['url']
 Intersezione:{'url'}
-Computato - TGT:set()
-TGT- Computato:set()
-Jaccard score:1.0
-Elemento: address
-Sinonimi computati:['address', 'legal_form', 'id']
-Sinonimi reali:['address']
-Intersezione:{'address'}
-Computato - TGT:{'legal_form', 'id'}
-TGT- Computato:set()
-Jaccard score:0.3333333333333333
-Elemento: legal_form
-Sinonimi computati:['address', 'legal_form', 'id']
-Sinonimi reali:['legal_form']
-Intersezione:{'legal_form'}
-Computato - TGT:{'address', 'id'}
-TGT- Computato:set()
-Jaccard score:0.3333333333333333
-Elemento: id
-Sinonimi computati:['address', 'legal_form', 'id']
-Sinonimi reali:['id']
-Intersezione:{'id'}
-Computato - TGT:{'address', 'legal_form'}
+Computato - TGT:{'name', 'id'}
 TGT- Computato:set()
 Jaccard score:0.3333333333333333
 Elemento: name
-Sinonimi computati:['name']
+Sinonimi computati:['url', 'name', 'id']
 Sinonimi reali:['name']
 Intersezione:{'name'}
-Computato - TGT:set()
+Computato - TGT:{'url', 'id'}
 TGT- Computato:set()
-Jaccard score:1.0
+Jaccard score:0.3333333333333333
+Elemento: id
+Sinonimi computati:['url', 'name', 'id']
+Sinonimi reali:['id']
+Intersezione:{'id'}
+Computato - TGT:{'url', 'name'}
+TGT- Computato:set()
+Jaccard score:0.3333333333333333
+Elemento: registration_date
+Sinonimi computati:['registration_date', 'deletion_date', 'code']
+Sinonimi reali:['registration_date']
+Intersezione:{'registration_date'}
+Computato - TGT:{'deletion_date', 'code'}
+TGT- Computato:set()
+Jaccard score:0.3333333333333333
+Elemento: deletion_date
+Sinonimi computati:['registration_date', 'deletion_date', 'code']
+Sinonimi reali:['deletion_date']
+Intersezione:{'deletion_date'}
+Computato - TGT:{'registration_date', 'code'}
+TGT- Computato:set()
+Jaccard score:0.3333333333333333
 Elemento: code
-Sinonimi computati:['code']
+Sinonimi computati:['registration_date', 'deletion_date', 'code']
 Sinonimi reali:['code']
 Intersezione:{'code'}
+Computato - TGT:{'registration_date', 'deletion_date'}
+TGT- Computato:set()
+Jaccard score:0.3333333333333333
+Elemento: legal_form
+Sinonimi computati:['legal_form']
+Sinonimi reali:['legal_form']
+Intersezione:{'legal_form'}
 Computato - TGT:set()
 TGT- Computato:set()
 Jaccard score:1.0
@@ -48,20 +55,6 @@ Intersezione:{'status'}
 Computato - TGT:set()
 TGT- Computato:set()
 Jaccard score:1.0
-Elemento: deletion_date
-Sinonimi computati:['deletion_date', 'registration_date']
-Sinonimi reali:['deletion_date']
-Intersezione:{'deletion_date'}
-Computato - TGT:{'registration_date'}
-TGT- Computato:set()
-Jaccard score:0.5
-Elemento: registration_date
-Sinonimi computati:['deletion_date', 'registration_date']
-Sinonimi reali:['registration_date']
-Intersezione:{'registration_date'}
-Computato - TGT:{'deletion_date'}
-TGT- Computato:set()
-Jaccard score:0.5
 Elemento: capital
 Sinonimi computati:['capital']
 Sinonimi reali:['capital']
@@ -69,4 +62,11 @@ Intersezione:{'capital'}
 Computato - TGT:set()
 TGT- Computato:set()
 Jaccard score:1.0
-AVG valori extra: 0.8
+Elemento: address
+Sinonimi computati:['address']
+Sinonimi reali:['address']
+Intersezione:{'address'}
+Computato - TGT:set()
+TGT- Computato:set()
+Jaccard score:1.0
+AVG valori extra: 1.2

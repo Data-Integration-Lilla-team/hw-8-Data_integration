@@ -1,1 +1,1 @@
-{"size": ["size", "name", "locations"], "name": ["size", "name", "locations"], "locations": ["size", "name", "locations"], "website": ["website"], "industry": ["industry"], "founded": ["founded"]}
+{"name": ["name", "industry"], "industry": ["name", "industry"], "website": ["website"], "locations": ["locations"], "size": ["size"], "founded": ["founded"]}

@@ -36,6 +36,7 @@ class Eval:
             evaluation_dic[k].append(diff_elements_comp)
             evaluation_dic[k].append(diff_element_tgt)
             evaluation_dic[k].append(self.compute_jaccard(com_elements,tgt_elements))
+            
 
         return evaluation_dic
         

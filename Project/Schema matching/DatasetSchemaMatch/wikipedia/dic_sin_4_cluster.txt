@@ -1,54 +1,36 @@
-N.Clusters2 avg jaccard: 0.2571428571428571 Inertia:  5.96226573264367
-headquarters->founded, headquarters, notes, 
-sector->headquarters, sector, name, area_served, industry, 
-name->headquarters, sector, name, area_served, industry, 
-area_served->headquarters, sector, name, area_served, industry, 
-industry->headquarters, sector, name, area_served, industry, 
-founded->founded, headquarters, notes, 
-notes->founded, headquarters, notes, 
-
-N.Clusters3 avg jaccard: 0.32857142857142857 Inertia:  3.4383318865247467
-headquarters->founded, headquarters, 
-sector->headquarters, sector, name, area_served, industry, 
-name->headquarters, sector, name, area_served, industry, 
-area_served->headquarters, sector, name, area_served, industry, 
-industry->headquarters, sector, name, area_served, industry, 
-founded->founded, notes, 
-notes->founded, notes, 
-
-N.Clusters4 avg jaccard: 0.42857142857142855 Inertia:  1.8414108304490058
-sector->sector, name, headquarters, industry, 
-name->sector, name, headquarters, industry, 
-headquarters->founded, headquarters, 
-industry->area_served, industry, 
-founded->founded, notes, 
-notes->founded, notes, 
-area_served->area_served, industry, 
-
-N.Clusters5 avg jaccard: 0.5 Inertia:  0.7895773039803625
-sector->sector, name, headquarters, industry, 
-name->sector, name, headquarters, industry, 
-headquarters->headquarters, 
-industry->area_served, industry, 
-founded->founded, notes, 
-notes->founded, notes, 
-area_served->area_served, industry, 
-
-N.Clusters6 avg jaccard: 0.5238095238095238 Inertia:  0.37358353482536544
-sector->sector, name, industry, 
-name->sector, name, industry, 
-industry->headquarters, industry, 
-headquarters->headquarters, industry, 
-founded->founded, notes, 
-notes->founded, notes, 
-area_served->area_served, 
-
-N.Clusters7 avg jaccard: 0.6666666666666666 Inertia:  0.2485835348253654
-sector->sector, name, industry, 
-name->sector, name, industry, 
-industry->headquarters, industry, 
-headquarters->headquarters, industry, 
+N.Clusters2 avg jaccard: 0.26530612244897955 Inertia:  4.080124169448918
+sector->sector, industry, name, area_served, headquarters, founded, notes, 
+industry->sector, industry, name, area_served, headquarters, founded, notes, 
+name->sector, industry, name, area_served, headquarters, founded, notes, 
+area_served->sector, industry, name, area_served, headquarters, founded, notes, 
+headquarters->sector, industry, name, area_served, headquarters, founded, notes, 
 founded->founded, 
-notes->notes, 
-area_served->area_served, 
+notes->sector, industry, name, area_served, headquarters, founded, notes, 
+
+N.Clusters3 avg jaccard: 0.2857142857142857 Inertia:  0.8571223163949174
+sector->sector, industry, name, area_served, headquarters, notes, 
+industry->sector, industry, name, area_served, headquarters, notes, 
+name->sector, industry, name, area_served, headquarters, notes, 
+area_served->sector, industry, name, area_served, headquarters, notes, 
+headquarters->sector, industry, name, area_served, headquarters, notes, 
+notes->sector, industry, name, area_served, headquarters, notes, 
+founded->founded, 
+
+N.Clusters4 avg jaccard: 0.39999999999999997 Inertia:  0.3790808911138971
+sector->sector, industry, name, headquarters, notes, 
+industry->area_served, industry, 
+name->sector, industry, name, headquarters, notes, 
+headquarters->sector, industry, name, headquarters, notes, 
+notes->sector, industry, name, headquarters, notes, 
+founded->founded, 
+area_served->area_served, industry, 
+
+N.Clusters5 avg jaccard: 0.5142857142857143 Inertia:  0.19377447439476775
+sector->sector, industry, name, headquarters, notes, 
+industry->area_served, industry, 
+name->sector, industry, name, headquarters, notes, 
+headquarters->headquarters, 
+notes->sector, industry, name, headquarters, notes, 
+founded->founded, 
+area_served->area_served, industry, 
 

@@ -13,27 +13,27 @@ Intersezione:{'url'}
 Computato - TGT:set()
 TGT- Computato:set()
 Jaccard score:1.0
-Elemento: trade_name
-Sinonimi computati:['trade_name', 'address_name', 'name']
-Sinonimi reali:['trade_name']
-Intersezione:{'trade_name'}
-Computato - TGT:{'address_name', 'name'}
-TGT- Computato:set()
-Jaccard score:0.3333333333333333
-Elemento: address_name
-Sinonimi computati:['trade_name', 'address_name', 'name']
-Sinonimi reali:['address_name']
-Intersezione:{'address_name'}
-Computato - TGT:{'trade_name', 'name'}
-TGT- Computato:set()
-Jaccard score:0.3333333333333333
 Elemento: name
-Sinonimi computati:['trade_name', 'address_name', 'name']
+Sinonimi computati:['name']
 Sinonimi reali:['name']
 Intersezione:{'name'}
-Computato - TGT:{'trade_name', 'address_name'}
+Computato - TGT:set()
 TGT- Computato:set()
-Jaccard score:0.3333333333333333
+Jaccard score:1.0
+Elemento: trade_name
+Sinonimi computati:['trade_name']
+Sinonimi reali:['trade_name']
+Intersezione:{'trade_name'}
+Computato - TGT:set()
+TGT- Computato:set()
+Jaccard score:1.0
+Elemento: address_name
+Sinonimi computati:['address_name']
+Sinonimi reali:['address_name']
+Intersezione:{'address_name'}
+Computato - TGT:set()
+TGT- Computato:set()
+Jaccard score:1.0
 Elemento: postalcode
 Sinonimi computati:['postalcode']
 Sinonimi reali:['postalcode']
@@ -41,32 +41,32 @@ Intersezione:{'postalcode'}
 Computato - TGT:set()
 TGT- Computato:set()
 Jaccard score:1.0
-Elemento: city
-Sinonimi computati:['city', 'state', 'location_type']
-Sinonimi reali:['city']
-Intersezione:{'city'}
-Computato - TGT:{'state', 'location_type'}
-TGT- Computato:set()
-Jaccard score:0.3333333333333333
-Elemento: state
-Sinonimi computati:['city', 'state', 'location_type']
-Sinonimi reali:['state']
-Intersezione:{'state'}
-Computato - TGT:{'city', 'location_type'}
-TGT- Computato:set()
-Jaccard score:0.3333333333333333
 Elemento: location_type
-Sinonimi computati:['city', 'state', 'location_type']
+Sinonimi computati:['location_type', 'city']
 Sinonimi reali:['location_type']
 Intersezione:{'location_type'}
-Computato - TGT:{'city', 'state'}
+Computato - TGT:{'city'}
 TGT- Computato:set()
-Jaccard score:0.3333333333333333
+Jaccard score:0.5
+Elemento: city
+Sinonimi computati:['location_type', 'city']
+Sinonimi reali:['city']
+Intersezione:{'city'}
+Computato - TGT:{'location_type'}
+TGT- Computato:set()
+Jaccard score:0.5
+Elemento: state
+Sinonimi computati:['state', 'country']
+Sinonimi reali:['state']
+Intersezione:{'state'}
+Computato - TGT:{'country'}
+TGT- Computato:set()
+Jaccard score:0.5
 Elemento: country
-Sinonimi computati:['country']
+Sinonimi computati:['state', 'country']
 Sinonimi reali:['country']
 Intersezione:{'country'}
-Computato - TGT:set()
+Computato - TGT:{'state'}
 TGT- Computato:set()
-Jaccard score:1.0
-AVG valori extra: 1.2
+Jaccard score:0.5
+AVG valori extra: 0.4

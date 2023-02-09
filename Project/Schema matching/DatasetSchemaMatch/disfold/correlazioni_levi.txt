@@ -1,4 +1,4 @@
-threshold:0.4 avg jaccard:0.736
+threshold:0.6 avg jaccard:0.816
 categories->('categories', 1.0)
 ceo->('ceo', 1.0)
 code->('code', 1.0)
@@ -6,9 +6,9 @@ country->('country', 1.0)
 employees->('employees', 1.0)
 founded->('founded', 1.0)
 gbp->('gbp', 1.0)
-headquarters->('headquarters', 1.0)('headquarters_continent', 0.46153846153846156)('headquarters_country', 0.5)
-headquarters_continent->('headquarters', 0.46153846153846156)('headquarters_continent', 1.0)('headquarters_country', 0.4838709677419355)
-headquarters_country->('headquarters', 0.5)('headquarters_continent', 0.4838709677419355)('headquarters_country', 1.0)
+headquarters->('headquarters', 1.0)
+headquarters_continent->('headquarters_continent', 1.0)
+headquarters_country->('headquarters_country', 1.0)
 id->('id', 1.0)
 industry->('industry', 1.0)
 link->('link', 1.0)
