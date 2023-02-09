@@ -1,0 +1,57 @@
+{
+    "employees_number_2017": [    
+        "07-silvestri-employees_2017",
+        "01-DDD-number_of_employees_2017",       
+        "03-gren-employees_number_2017"    
+    ],
+	"employees_number_2020": [
+		"08-slytherin-employees",
+		"03-gren-employees_number_2020",
+		"01-DDD-number_of_employees_2020",
+		"07-silvestri-employees_2020"
+	],
+    "sector": [
+        "08-slytherin-industry",
+        "03-gren-sector",
+        "01-DDD-sector",
+        "07-silvestri-sector"
+    ],
+    "revenue_2017_eu": [
+        "03-gren-revenue_2017_eu",
+        "01-DDD-revenue_2017_euro",
+        "07-silvestri-revenue_2017"
+    ],
+    "name": [
+        "01-DDD-name",
+        "08-slytherin-name",
+        "07-silvestri-name",
+        "03-gren-name"
+    ],
+    "country": [
+        "08-slytherin-country",
+        "03-gren-country",
+        "01-DDD-country",
+        "07-silvestri-country"
+    ],
+    "link": [
+        "08-slytherin-link"
+    ],
+    "revenue_2020_eu": [
+        "03-gren-revenue_2020_eu",
+        "07-silvestri-revenue_2020",
+        "01-DDD-revenue_2020_euro",
+        "08-slytherin-revenue"
+    ],
+    "compound_annual_growth_rate_cagr_pct": [
+        "01-DDD-compound_annual_growth_rate_cagr_pct"        
+    ],
+    "founding_year": [
+        "07-silvestri-founding_year",
+        "01-DDD-founding_year",
+        "03-gren-founding_year",
+        "08-slytherin-founded"
+    ],
+    "absolute_growth_rate_pct": [
+        "01-DDD-absolute_growth_rate_pct"
+    ]
+}

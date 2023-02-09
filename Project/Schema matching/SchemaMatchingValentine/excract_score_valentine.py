@@ -60,65 +60,69 @@ def plot_correlation(df, base_path=".\\", title="Matrice di correlazione"):
     fig.savefig(file_name, bbox_inches='tight', transparent=True)
 
 
-# !! RUN = about 40 minutes
-def score_valentine_and_matrix_correlation(csv_columns_path, dictionary_path, plot_path, cut_df=-1, threshold=8):
+def run_valentine(name, cluster_path, dictionary_path, plot_path, matcher, cut_df, threshold):
+    score_valentine_pair_of_column = {}
+    for filename in os.listdir(cluster_path):
+        path = os.path.join(cluster_path, filename)
 
+        df1 = pd.read_csv(path).head(cut_df)
+        df2 = pd.read_csv(path).head(cut_df)
+
+        if len(df1.columns) > threshold:
+            df1 = df1.head(cut_df)
+            df2 = df2.head(cut_df)
+
+        print("Matching cluster" + "(" + name + ")" + "(" + matcher.__class__.__name__ + "): " + path)
+        tmp = schema_matching(df1, df2, matcher, "table1", "table2")
+        score_valentine_pair_of_column = merge_dictionary(score_valentine_pair_of_column, tmp)
+
+    inverted_index = {}
+    for match_tuple, score in score_valentine_pair_of_column.items():
+
+        if match_tuple[1] not in inverted_index.keys():
+            inverted_index[match_tuple[1]] = []
+        if match_tuple[3] not in inverted_index.keys():
+            inverted_index[match_tuple[3]] = []
+
+        inverted_index[match_tuple[1]].append((match_tuple[3], score))
+        inverted_index[match_tuple[3]].append((match_tuple[1], score))
+
+    mean_inverted_index = {}
+    for token, index in inverted_index.items():
+        if token not in mean_inverted_index.keys():
+            mean_inverted_index[token] = []
+        for e in set([i[0] for i in index]):
+            tmp = [k[1][0] for k in index if k[0] == e]
+            mean_inverted_index[token].append((e, (sum(tmp) / len(tmp))))
+
+    correlation_matrix = {}
+    dictionary = make_dictionary(mean_inverted_index)
+    for token, values in mean_inverted_index.items():
+        terms_of_token = [e[0] for e in values]
+        correlation_matrix[token] = {}
+        for term in dictionary:
+            if term not in terms_of_token:
+                correlation_matrix[token][term] = 0
+            else:
+                correlation_matrix[token][term] = get_value_from_list_of_tuples(values, term)
+
+    # save correlation_matrix_cluster
+    json_obj = json.dumps(correlation_matrix, indent=4)
+    f = open(dictionary_path + name + ".txt", "w")
+    f.write(json_obj)
+    f.close()
+
+    df = pd.DataFrame(correlation_matrix)
+    plot_correlation(df, base_path=plot_path, title="Matrice di correlazione-" + name)
+
+
+def score_valentine_and_matrix_correlation(csv_columns_path, dictionary_path, plot_path, cut_df=-1, threshold=8):
     matcher = JaccardLevenMatcher()
     for cluster_folder_name in os.listdir(csv_columns_path):
-
         cluster_path = os.path.join(csv_columns_path, cluster_folder_name)
+        run_valentine(cluster_folder_name, cluster_path, dictionary_path, plot_path, matcher, cut_df, threshold)
 
-        score_valentine_pair_of_column = {}
-        for filename in os.listdir(cluster_path):
-            path = os.path.join(cluster_path, filename)
 
-            df1 = pd.read_csv(path).head(cut_df)
-            df2 = pd.read_csv(path).head(cut_df)
-
-            if len(df1.columns) > threshold:
-                df1 = df1.head(cut_df)
-                df2 = df2.head(cut_df)
-
-            print("Matching cluster" + "(" + cluster_folder_name + ")" + "(" + matcher.__class__.__name__ + "): " + path)
-            tmp = schema_matching(df1, df2, matcher, "table1", "table2")
-            score_valentine_pair_of_column = merge_dictionary(score_valentine_pair_of_column, tmp)
-
-        inverted_index = {}
-        for match_tuple, score in score_valentine_pair_of_column.items():
-
-            if match_tuple[1] not in inverted_index.keys():
-                inverted_index[match_tuple[1]] = []
-            if match_tuple[3] not in inverted_index.keys():
-                inverted_index[match_tuple[3]] = []
-
-            inverted_index[match_tuple[1]].append((match_tuple[3], score))
-            inverted_index[match_tuple[3]].append((match_tuple[1], score))
-
-        mean_inverted_index = {}
-        for token, index in inverted_index.items():
-            if token not in mean_inverted_index.keys():
-                mean_inverted_index[token] = []
-            for e in set([i[0] for i in index]):
-                tmp = [k[1][0] for k in index if k[0] == e]
-                mean_inverted_index[token].append((e, (sum(tmp) / len(tmp))))
-
-        correlation_matrix = {}
-        dictionary = make_dictionary(mean_inverted_index)
-        for token, values in mean_inverted_index.items():
-            terms_of_token = [e[0] for e in values]
-            correlation_matrix[token] = {}
-            for term in dictionary:
-                if term not in terms_of_token:
-                    correlation_matrix[token][term] = 0
-                else:
-                    correlation_matrix[token][term] = get_value_from_list_of_tuples(values, term)
-
-        # save correlation_matrix_cluster
-        json_obj = json.dumps(correlation_matrix, indent=4)
-        f = open(dictionary_path + cluster_folder_name + ".txt", "w")
-        f.write(json_obj)
-        f.close()
-
-        df = pd.DataFrame(correlation_matrix)
-        plot_correlation(df, base_path=plot_path, title="Matrice di correlazione-" + cluster_folder_name)
-
+def score_valentine_and_matrix_correlation_for_final_schema(csv_columns_path, dictionary_path, plot_path, cut_df=-1, threshold=8):
+    matcher = JaccardLevenMatcher()
+    run_valentine("final_schema", csv_columns_path, dictionary_path, plot_path, matcher, cut_df, threshold)

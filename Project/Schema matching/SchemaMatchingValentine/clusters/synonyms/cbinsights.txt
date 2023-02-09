@@ -1,0 +1,37 @@
+{
+    "valuation": [
+        "04-iGMM-valuation",
+        "01-DDD-totalraised",
+        "01-DDD-valuation"
+    ],
+    "city": [
+        "04-iGMM-city",
+        "01-DDD-city"
+    ],
+    "founded": [
+        "01-DDD-founded"
+    ],
+    "country": [
+        "01-DDD-country",
+        "04-iGMM-country"
+    ],
+    "stage": [
+        "01-DDD-stage"
+    ],
+    "investors": [
+        "01-DDD-investors",
+        "04-iGMM-selectinvestors"
+    ],
+    "datejoined": [
+        "04-iGMM-datejoined",
+        "01-DDD-datejoined"
+    ],
+    "name": [
+        "01-DDD-name",
+        "04-iGMM-company"
+    ],
+    "industry": [
+        "04-iGMM-industry",
+        "01-DDD-industry"
+    ]
+}

@@ -1,0 +1,111 @@
+{
+    "founded": [
+        "04-iGMM-founded",
+        "00-avengers-founded",
+		"10-DeBiGa-founded"
+    ],
+    "headquarters_country": [
+        "00-avengers-headquarters_country"
+    ],
+    "employees": [
+        "10-DeBiGa-employees",
+        "08-slytherin-employees",
+        "04-iGMM-employees",
+        "00-avengers-employees"
+    ],
+    "industry": [
+        "04-iGMM-industry",
+        "03-gren-industry",
+        "02-GioPonSpiz-industry",
+        "10-DeBiGa-industry",
+        "05-MalPatSaj-industry",
+        "06-MarScoToc-industry"
+    ],
+    "link": [
+        "04-iGMM-link",
+		"08-slytherin-link"
+    ],
+    "rank": [
+        "04-iGMM-rank"
+    ],
+    "headquarters": [
+        "04-iGMM-headquarters",
+        "10-DeBiGa-headquarters",
+		"08-slytherin-headquarters"
+    ],
+    "official_name": [
+        "00-avengers-official_name"
+    ],
+    "sector": [
+        "07-silvestri-sector",
+        "05-MalPatSaj-sector",
+        "04-iGMM-sector",
+        "02-GioPonSpiz-sector",
+        "06-MarScoToc-sector",
+        "10-DeBiGa-sector",
+        "03-gren-sector"
+    ],
+    "market_cap": [
+        "08-slytherin-market_cap",
+        "00-avengers-market_cap",
+        "05-MalPatSaj-marketcap",
+        "10-DeBiGa-market_cap",
+        "04-iGMM-marketcap",
+        "03-gren-market_capitalization_usd",
+        "06-MarScoToc-mastercap",
+        "02-GioPonSpiz-marketcap",
+        "07-silvestri-market_value_apr_2022"
+    ],
+    "ceo": [
+        "08-slytherin-ceo",
+		"00-avengers-ceo",
+        "10-DeBiGa-ceo",
+        "04-iGMM-ceo"
+    ],
+    "country": [
+        "06-MarScoToc-country",
+		"02-GioPonSpiz-country",
+        "03-gren-country",
+        "05-MalPatSaj-country",
+        "04-iGMM-country",
+        "07-silvestri-country",
+        "10-DeBiGa-country"
+    ],
+    "id": [
+        "00-avengers-id",
+		"04-iGMM-code"
+    ],
+    "revenue": [
+        "04-iGMM-revenue"
+    ],
+	"net_income": [
+		"04-iGMM-net_income"
+	],
+    "name": [
+        "06-MarScoToc-name",
+		"08-slytherin-name",
+		"04-iGMM-name",
+        "02-GioPonSpiz-name",
+        "05-MalPatSaj-name",
+        "00-avengers-name",
+        "10-DeBiGa-name",
+        "07-silvestri-name",
+        "03-gren-name"
+    ],
+    "gbp": [
+        "00-avengers-gbp"
+    ],
+    "stock": [
+        "03-gren-stock",
+        "02-GioPonSpiz-stock",
+        "10-DeBiGa-stock",
+        "05-MalPatSaj-stock",
+        "07-silvestri-stock"
+    ],
+    "headquarters_continent": [
+        "00-avengers-headquarters_continent"
+    ],
+    "categories": [
+        "00-avengers-categories"
+    ]
+}
