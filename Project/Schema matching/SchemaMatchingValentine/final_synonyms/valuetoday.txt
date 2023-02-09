@@ -1,0 +1,84 @@
+{
+    "annual_revenue_usd": [
+        "03-gren-annual_revenue_usd",
+        "04-iGMM-annual_revenue_in_usd",
+        "00-avengers-annual_revenue_in_usd"
+    ],
+    "company_business": [
+        "04-iGMM-company_business",
+        "08-slytherin-industry",
+        "00-avengers-company_business"
+    ],
+    "total_equity_in_usd": [
+        "00-avengers-total_equity_in_usd"
+    ],
+    "revenue": [
+        "08-slytherin-revenue"
+    ],
+    "company_website": [
+        "04-iGMM-company_website",
+        "00-avengers-company_website"
+    ],
+    "ceo": [
+        "07-silvestri-ceo",
+        "00-avengers-ceo",
+	"08-slytherin-ceo",
+	"02-GioPonSpiz-ceo",
+        "03-gren-ceo",
+        "04-iGMM-ceo"
+    ],
+    "number_of_employees": [
+        "04-iGMM-number_of_employees",
+        "07-silvestri-employees_2022",
+        "00-avengers-number_of_employees",
+	"03-gren-employees_number"
+    ],
+    "headquarters_region_city": [
+        "00-avengers-headquarters_region_city"
+    ],
+    "headquarters_sub_region": [
+        "00-avengers-headquarters_sub_region"
+    ],
+    "rank": [
+        "08-slytherin-rank"
+    ],
+    "facebook_page_url": [
+        "03-gren-facebook_page_url"
+    ],
+    "founded": [
+        "08-slytherin-founded"
+    ],
+    "name": [
+        "07-silvestri-name",
+        "00-avengers-name",
+        "04-iGMM-name",
+        "03-gren-name",
+        "08-slytherin-name",
+        "02-GioPonSpiz-name"
+    ],
+    "world_rank__jan_2020": [
+        "04-iGMM-world_rank__jan_2020",
+	"02-GioPonSpiz-world_rank",
+        "00-avengers-world_rank"
+    ],
+    "country": [
+        "02-GioPonSpiz-country",
+        "07-silvestri-country",
+        "08-slytherin-country",
+        "03-gren-headquarters_country",
+        "04-iGMM-headquarters_country",
+        "00-avengers-headquarters_country"
+    ],
+    "headquarters_continent": [
+        "00-avengers-headquarters_continent"
+    ],
+    "founders": [
+        "00-avengers-founders"
+    ],
+    "annual_results_for_year_ending": [
+        "00-avengers-annual_results_for_year_ending"
+    ],
+    "sector": [
+        "07-silvestri-sector"
+    ]
+}

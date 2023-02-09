@@ -1,8 +1,0 @@
-{
-founded:[founded],
-industry:[industry],
-locations:[locations],
-name:[name],
-size:[size],
-website:[website]
-}

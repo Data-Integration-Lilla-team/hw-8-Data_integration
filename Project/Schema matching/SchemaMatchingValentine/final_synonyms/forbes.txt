@@ -1,0 +1,24 @@
+{
+    "ceo": [
+        "08-slytherin-ceo"
+    ],
+    "name": [
+        "07-silvestri-name",
+        "05-MalPatSaj-name",
+        "08-slytherin-name"
+    ],
+    "country": [
+        "05-MalPatSaj-country",
+        "07-silvestri-country",
+        "08-slytherin-country"
+    ],
+    "founded": [
+        "08-slytherin-founded"
+    ],
+    "employees": [
+        "08-slytherin-employees"
+    ],
+    "industry": [
+        "08-slytherin-industry"
+    ]
+}
