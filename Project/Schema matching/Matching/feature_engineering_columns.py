@@ -40,44 +40,65 @@ class FeatureExtraction:
         regex_date2='\d{2}.\d{2}.\d{2}'
         import string
         s = set(string.ascii_lowercase)
-        for i in col.head(10):
+        
+        for i in col.head(30):
             
-            string_version=str(i)
+            
+            string_version=str(i).lower()
             set_chars=set(string_version)
             inter=s.intersection(set_chars)
+            if 'https' in string_version or 'http' in string_version:
+                print('URL')
+                return string_t
+            if '(' in string_version or ')' in string_version:
+                conta_string+=1
+            
+            if 'doll' in string_version or 'rank' in string_version or 'perc' in string_version or 'b' in string_version or 't' in string_version or 'm' in string_version or ' ' in string_version:
+                print('stringa')
+                return string_t
             if len(inter)>=0.6*len(set_chars):
+                print('stringa')
                 return string_t
             elif len(inter)<0.6*len(set_chars):
                 
                 data=str(string_version).split(' ')
                 if len(data)>1:
                     if data[1] in set(months):
+                        print('data')
                         return data_t
                 elif re.match(regex_date,string_version) or re.match(regex_date2,string_version):
+                        print('data')
                         return data_t
-            elif len(inter)==0:
-                    
-                    float_set_chars={float(x) for x in set_chars}
+                
+            else:
+                    print('è un intero')
+                    float_set_chars={str(float(x)) for x in set_chars}
                     print(float_set_chars)
-                    float_int_chars={float(x) for x in numbers}
+                    float_int_chars={str(float(x)) for x in numbers}
                     int=float_set_chars.intersection(float_int_chars)
-                    if len(int)==len(set_chars) and 'doll_' not in string_version:
+                    if len(int)==len(float_set_chars) and 'doll' not in string_version and '0' not in string_version:
                         print('intero')
                         conta_int+=1
                     else:
                         conta_string+=1
+
+        print('conta stringa', conta_string)
+        print('conta interi',conta_int)
         if conta_string>conta_int:
             return string_t
-        return integer
+        else:
+            return integer
+        
     
     def compute_incremental(self,col):
+        print('incremental')
         somma=0
         min=0
         max=40
         opp=-1
         while (min<max/2):
-            a=col.iloc(min)
-            b=col.iloc(max)
+            a=col.iloc[min]
+            b=col.iloc[max]
             d=a+b
             somma=somma+(opp)*d
             min+=1
@@ -88,21 +109,45 @@ class FeatureExtraction:
         else:
             return 2
 
+    def parse_data(self,col):
+        elements=[]
+        numbers={'0','1','2','3','4','5','6','7','8','9'}
+        
+        import string
+        float_int_chars={str(float(x)) for x in numbers}
+        s = set(string.ascii_lowercase)
+        
+        for i in col:
+            string_val=str(i).lower()
+            value=string_val.replace(',','').replace('.','')
+            set_chars=set(value)
+            inter=s.intersection(set_chars)
+            
+            if len(inter)>0:
+                
+                elements.append(0)
+            else:   
+                elements.append(value)
+        out=pd.Series(data=elements)
+        
+        return out
     def compute_features_for_int(self, col):
-        integer_features=[]
-        try:
+            integer_features=[]
+            print(type(col))
+            print(col.head(10))
+            
+            col = col.apply(pd.to_numeric, errors='coerce')
+            col = col.fillna(0)
+            col=col.astype(float)
+            
             integer_features.append(col.min(skipna=True))
             integer_features.append(col.max(skipna=True))
-            integer_features.append(col.mean())
+            integer_features.append(col.mean(skipna=True))
             integer_features.append(col.var())
             integer_features.append(col.std())
             integer_features.append(self.compute_incremental(col))
             return integer_features
-        except:
-            
-            #return ['error','error','error','error','error']
-            return [0,0,0,0,0,0,0]
-
+        
     def compute_type(self, val):
         numero_perc=0
         numero_rank=0
@@ -125,7 +170,7 @@ class FeatureExtraction:
             else:
                 numero_resto+=1
         
-        if numero_doll>=5:
+        if numero_doll>=3:
             return 3
         elif numero_perc>=5:
             return 1
@@ -160,7 +205,7 @@ class FeatureExtraction:
         countries = {'china','usa', 'india', 'united states', 'indonesia', 'pakistan', 'brazil', 'nigeria', 'bangladesh', 'russia', 'mexico','honk-kong','italy','united kingdom','united-kingdom','uk'}
         tot=20
         somma=0
-        data=col.head(21)
+        data=col.head(41)
         for c in data:
             if c in countries:
                 somma+=1
@@ -175,7 +220,7 @@ class FeatureExtraction:
         feature_vector=[]
 
         #type of string
-        feature_vector.append(self.compute_type(col.head(10)))
+        feature_vector.append(self.compute_type(col.head(30)))
 
         #avg len of strings
         feature_vector.append(col.str.len().mean())
@@ -261,14 +306,16 @@ class FeatureExtraction:
 
     #estrattore di features
     def extract_feature(self,ds,k):
+        ds=ds.fillna(0)
         ds_features=[]                  
         list_of_names_columns=ds.columns.values.tolist()
         i=0
         for col in ds.columns:
             if i>0:
                 name_column=k+'-'+list_of_names_columns[i]
+                print('colonna:',name_column)
                 vector_features=[name_column]
-                print(name_column)
+                
                 
                 type_of_col=self.compute_features(ds[col])
                 print(type_of_col)

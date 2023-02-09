@@ -71,14 +71,14 @@ def parse_data(sorgenti):
     parser=Parser_data()
     cluster2newSRCDs=dict()
     for k in sorgenti.keys():
-        print('cluster',k)
+        
         cluster2newSRCDs[k]=[]
         for filename in os.listdir(sorgenti[k]):
             src=os.path.join(sorgenti[k],filename)
             final_path=os.path.join(tgt_dataset_parsed,k)
             final_path=os.path.join(final_path,filename)                     
-            print('path ds src:',src)
-            print('tgr:',final_path)
+            
+            
             parser.parse_data(src,final_path)
             team_name=filename.replace('.csv','')
             cluster2newSRCDs[k].append((team_name,final_path))

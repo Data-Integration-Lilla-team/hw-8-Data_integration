@@ -49,7 +49,7 @@ class ClusterData:
             path=files[k]
             data=pd.read_csv(path)
             team=k.replace('.csv','')
-            print(team)
+            
             
             team2feature[team]=feature_extractor.extract_feature(data,team)
 
@@ -66,11 +66,11 @@ class ClusterData:
 
       #eliminazione delle conolle Unnamed
     def drop_not_needed_cols(self,data):
-        print('Name columns bf:',data.columns)
+        
         data.columns.str.startswith('Unnamed')
         
         data=data.loc[:,~data.columns.str.startswith('Unnamed')]
-        print('Name columns af:',data.columns)
+        
         return data   
             
             
@@ -89,7 +89,7 @@ class ClusterData:
         clusterModel=ClusterModel(self.cluster)
         columns=list(dataset.columns)
         columns.pop(0)
-        print(columns)
+        
         dataClustered=clusterModel.clustered_data_explor(dataset,columns,validation_set,max_clusters=max_clusters)
 
         

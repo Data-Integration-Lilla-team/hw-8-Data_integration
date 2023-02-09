@@ -1,39 +1,32 @@
 
-Elemento: sector
-Sinonimi computati:['sector']
-Sinonimi reali:['sector']
-Intersezione:{'sector'}
-Computato - TGT:set()
-TGT- Computato:set()
-Jaccard score:1.0
 Elemento: industry
-Sinonimi computati:['area_served', 'industry']
+Sinonimi computati:['industry']
 Sinonimi reali:['industry']
 Intersezione:{'industry'}
-Computato - TGT:{'area_served'}
-TGT- Computato:set()
-Jaccard score:0.5
-Elemento: name
-Sinonimi computati:['sector']
-Sinonimi reali:['name']
-Intersezione:set()
-Computato - TGT:{'sector'}
-TGT- Computato:{'name'}
-Jaccard score:0.0
-Elemento: headquarters
-Sinonimi computati:['headquarters']
-Sinonimi reali:['headquarters']
-Intersezione:{'headquarters'}
 Computato - TGT:set()
 TGT- Computato:set()
 Jaccard score:1.0
-Elemento: notes
-Sinonimi computati:['sector']
-Sinonimi reali:['notes']
-Intersezione:set()
-Computato - TGT:{'sector'}
-TGT- Computato:{'notes'}
-Jaccard score:0.0
+Elemento: sector
+Sinonimi computati:['industry', 'sector', 'name']
+Sinonimi reali:['sector']
+Intersezione:{'sector'}
+Computato - TGT:{'industry', 'name'}
+TGT- Computato:set()
+Jaccard score:0.3333333333333333
+Elemento: name
+Sinonimi computati:['industry', 'sector', 'name']
+Sinonimi reali:['name']
+Intersezione:{'name'}
+Computato - TGT:{'industry', 'sector'}
+TGT- Computato:set()
+Jaccard score:0.3333333333333333
+Elemento: headquarters
+Sinonimi computati:['notes', 'headquarters']
+Sinonimi reali:['headquarters']
+Intersezione:{'headquarters'}
+Computato - TGT:{'notes'}
+TGT- Computato:set()
+Jaccard score:0.5
 Elemento: founded
 Sinonimi computati:['founded']
 Sinonimi reali:['founded']
@@ -41,11 +34,18 @@ Intersezione:{'founded'}
 Computato - TGT:set()
 TGT- Computato:set()
 Jaccard score:1.0
-Elemento: area_served
-Sinonimi computati:['area_served', 'industry']
-Sinonimi reali:['area_served']
-Intersezione:{'area_served'}
-Computato - TGT:{'industry'}
+Elemento: notes
+Sinonimi computati:['notes', 'headquarters']
+Sinonimi reali:['notes']
+Intersezione:{'notes'}
+Computato - TGT:{'headquarters'}
 TGT- Computato:set()
 Jaccard score:0.5
-AVG valori extra: 0.5714285714285714
+Elemento: area_served
+Sinonimi computati:['area_served']
+Sinonimi reali:['area_served']
+Intersezione:{'area_served'}
+Computato - TGT:set()
+TGT- Computato:set()
+Jaccard score:1.0
+AVG valori extra: 0.8571428571428571

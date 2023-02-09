@@ -1,134 +1,106 @@
 
 Elemento: id
-Sinonimi computati:['id', 'net_income', 'market_capitalization_usd', 'mastercap', 'rank', 'revenue', 'market_cap', 'employees', 'gbp', 'market_value_apr_2022', 'marketcap', 'founded']
+Sinonimi computati:['id']
 Sinonimi reali:['id']
 Intersezione:{'id'}
-Computato - TGT:{'market_capitalization_usd', 'net_income', 'mastercap', 'rank', 'revenue', 'market_cap', 'employees', 'gbp', 'market_value_apr_2022', 'marketcap', 'founded'}
-TGT- Computato:set()
-Jaccard score:0.08333333333333333
-Elemento: market_capitalization_usd
-Sinonimi computati:['id', 'net_income', 'market_capitalization_usd', 'mastercap', 'rank', 'revenue', 'market_cap', 'employees', 'gbp', 'market_value_apr_2022', 'marketcap', 'founded']
-Sinonimi reali:['market_cap', 'mastercap', 'market_value_apr_2022', 'marketcap', 'market_capitalization_usd']
-Intersezione:{'market_capitalization_usd', 'mastercap', 'market_cap', 'market_value_apr_2022', 'marketcap'}
-Computato - TGT:{'id', 'net_income', 'rank', 'revenue', 'employees', 'gbp', 'founded'}
-TGT- Computato:set()
-Jaccard score:0.4166666666666667
-Elemento: net_income
-Sinonimi computati:['id', 'net_income', 'market_capitalization_usd', 'mastercap', 'rank', 'revenue', 'market_cap', 'employees', 'gbp', 'market_value_apr_2022', 'marketcap', 'founded']
-Sinonimi reali:['net_income']
-Intersezione:{'net_income'}
-Computato - TGT:{'id', 'market_capitalization_usd', 'mastercap', 'rank', 'revenue', 'market_cap', 'employees', 'gbp', 'market_value_apr_2022', 'marketcap', 'founded'}
-TGT- Computato:set()
-Jaccard score:0.08333333333333333
-Elemento: mastercap
-Sinonimi computati:['id', 'net_income', 'market_capitalization_usd', 'mastercap', 'rank', 'revenue', 'market_cap', 'employees', 'gbp', 'market_value_apr_2022', 'marketcap', 'founded']
-Sinonimi reali:['market_cap', 'mastercap', 'market_value_apr_2022', 'marketcap', 'market_capitalization_usd']
-Intersezione:{'market_capitalization_usd', 'mastercap', 'market_cap', 'market_value_apr_2022', 'marketcap'}
-Computato - TGT:{'id', 'net_income', 'rank', 'revenue', 'employees', 'gbp', 'founded'}
-TGT- Computato:set()
-Jaccard score:0.4166666666666667
-Elemento: rank
-Sinonimi computati:['id', 'net_income', 'market_capitalization_usd', 'mastercap', 'rank', 'revenue', 'market_cap', 'employees', 'gbp', 'market_value_apr_2022', 'marketcap', 'founded']
-Sinonimi reali:['rank']
-Intersezione:{'rank'}
-Computato - TGT:{'id', 'market_capitalization_usd', 'net_income', 'mastercap', 'revenue', 'market_cap', 'employees', 'gbp', 'market_value_apr_2022', 'marketcap', 'founded'}
-TGT- Computato:set()
-Jaccard score:0.08333333333333333
-Elemento: revenue
-Sinonimi computati:['id', 'net_income', 'market_capitalization_usd', 'mastercap', 'rank', 'revenue', 'market_cap', 'employees', 'gbp', 'market_value_apr_2022', 'marketcap', 'founded']
-Sinonimi reali:['revenue']
-Intersezione:{'revenue'}
-Computato - TGT:{'id', 'market_capitalization_usd', 'net_income', 'mastercap', 'rank', 'market_cap', 'employees', 'gbp', 'market_value_apr_2022', 'marketcap', 'founded'}
-TGT- Computato:set()
-Jaccard score:0.08333333333333333
-Elemento: market_cap
-Sinonimi computati:['id', 'net_income', 'market_capitalization_usd', 'mastercap', 'rank', 'revenue', 'market_cap', 'employees', 'gbp', 'market_value_apr_2022', 'marketcap', 'founded']
-Sinonimi reali:['market_cap', 'mastercap', 'market_value_apr_2022', 'marketcap', 'market_capitalization_usd']
-Intersezione:{'market_capitalization_usd', 'mastercap', 'market_cap', 'market_value_apr_2022', 'marketcap'}
-Computato - TGT:{'id', 'net_income', 'rank', 'revenue', 'employees', 'gbp', 'founded'}
-TGT- Computato:set()
-Jaccard score:0.4166666666666667
-Elemento: employees
-Sinonimi computati:['employees']
-Sinonimi reali:['employees']
-Intersezione:{'employees'}
-Computato - TGT:set()
-TGT- Computato:set()
-Jaccard score:1.0
-Elemento: gbp
-Sinonimi computati:['id', 'net_income', 'market_capitalization_usd', 'mastercap', 'rank', 'revenue', 'market_cap', 'employees', 'gbp', 'market_value_apr_2022', 'marketcap', 'founded']
-Sinonimi reali:['gbp']
-Intersezione:{'gbp'}
-Computato - TGT:{'id', 'market_capitalization_usd', 'net_income', 'mastercap', 'rank', 'revenue', 'market_cap', 'employees', 'market_value_apr_2022', 'marketcap', 'founded'}
-TGT- Computato:set()
-Jaccard score:0.08333333333333333
-Elemento: market_value_apr_2022
-Sinonimi computati:['id', 'net_income', 'market_capitalization_usd', 'mastercap', 'rank', 'revenue', 'market_cap', 'employees', 'gbp', 'market_value_apr_2022', 'marketcap', 'founded']
-Sinonimi reali:['market_cap', 'mastercap', 'market_value_apr_2022', 'marketcap', 'market_capitalization_usd']
-Intersezione:{'market_capitalization_usd', 'mastercap', 'market_cap', 'market_value_apr_2022', 'marketcap'}
-Computato - TGT:{'id', 'net_income', 'rank', 'revenue', 'employees', 'gbp', 'founded'}
-TGT- Computato:set()
-Jaccard score:0.4166666666666667
-Elemento: marketcap
-Sinonimi computati:['id', 'net_income', 'market_capitalization_usd', 'mastercap', 'rank', 'revenue', 'market_cap', 'employees', 'gbp', 'market_value_apr_2022', 'marketcap', 'founded']
-Sinonimi reali:['market_cap', 'mastercap', 'market_value_apr_2022', 'marketcap', 'market_capitalization_usd']
-Intersezione:{'market_capitalization_usd', 'mastercap', 'market_cap', 'market_value_apr_2022', 'marketcap'}
-Computato - TGT:{'id', 'net_income', 'rank', 'revenue', 'employees', 'gbp', 'founded'}
-TGT- Computato:set()
-Jaccard score:0.4166666666666667
-Elemento: founded
-Sinonimi computati:['founded']
-Sinonimi reali:['founded']
-Intersezione:{'founded'}
 Computato - TGT:set()
 TGT- Computato:set()
 Jaccard score:1.0
 Elemento: name
-Sinonimi computati:['name', 'official_name', 'headquarters']
+Sinonimi computati:['name', 'headquarters']
 Sinonimi reali:['name']
 Intersezione:{'name'}
-Computato - TGT:{'official_name', 'headquarters'}
+Computato - TGT:{'headquarters'}
 TGT- Computato:set()
-Jaccard score:0.3333333333333333
-Elemento: official_name
-Sinonimi computati:['name', 'official_name', 'headquarters']
-Sinonimi reali:['official_name']
-Intersezione:{'official_name'}
-Computato - TGT:{'name', 'headquarters'}
-TGT- Computato:set()
-Jaccard score:0.3333333333333333
+Jaccard score:0.5
 Elemento: headquarters
-Sinonimi computati:['sector', 'headquarters', 'headquarters_country', 'headquarters_continent']
+Sinonimi computati:['headquarters', 'headquarters_country', 'sector', 'headquarters_continent']
 Sinonimi reali:['headquarters']
 Intersezione:{'headquarters'}
-Computato - TGT:{'sector', 'headquarters_country', 'headquarters_continent'}
+Computato - TGT:{'sector', 'headquarters_continent', 'headquarters_country'}
 TGT- Computato:set()
 Jaccard score:0.25
+Elemento: official_name
+Sinonimi computati:['official_name']
+Sinonimi reali:['official_name']
+Intersezione:{'official_name'}
+Computato - TGT:set()
+TGT- Computato:set()
+Jaccard score:1.0
 Elemento: sector
-Sinonimi computati:['sector', 'industry']
+Sinonimi computati:['industry', 'sector']
 Sinonimi reali:['sector']
 Intersezione:{'sector'}
 Computato - TGT:{'industry'}
 TGT- Computato:set()
 Jaccard score:0.5
+Elemento: headquarters_continent
+Sinonimi computati:['headquarters', 'headquarters_country', 'sector', 'headquarters_continent']
+Sinonimi reali:['headquarters_continent']
+Intersezione:{'headquarters_continent'}
+Computato - TGT:{'sector', 'headquarters', 'headquarters_country'}
+TGT- Computato:set()
+Jaccard score:0.25
 Elemento: headquarters_country
-Sinonimi computati:['sector', 'headquarters', 'headquarters_country', 'headquarters_continent']
+Sinonimi computati:['headquarters', 'headquarters_country', 'sector', 'headquarters_continent']
 Sinonimi reali:['headquarters_country']
 Intersezione:{'headquarters_country'}
 Computato - TGT:{'sector', 'headquarters_continent', 'headquarters'}
 TGT- Computato:set()
 Jaccard score:0.25
-Elemento: headquarters_continent
-Sinonimi computati:['sector', 'headquarters', 'headquarters_country', 'headquarters_continent']
-Sinonimi reali:['headquarters_continent']
-Intersezione:{'headquarters_continent'}
-Computato - TGT:{'sector', 'headquarters_country', 'headquarters'}
+Elemento: founded
+Sinonimi computati:['employees', 'founded']
+Sinonimi reali:['founded']
+Intersezione:{'founded'}
+Computato - TGT:{'employees'}
 TGT- Computato:set()
-Jaccard score:0.25
+Jaccard score:0.5
+Elemento: employees
+Sinonimi computati:['employees', 'founded']
+Sinonimi reali:['employees']
+Intersezione:{'employees'}
+Computato - TGT:{'founded'}
+TGT- Computato:set()
+Jaccard score:0.5
 Elemento: ceo
 Sinonimi computati:['ceo']
 Sinonimi reali:['ceo']
 Intersezione:{'ceo'}
+Computato - TGT:set()
+TGT- Computato:set()
+Jaccard score:1.0
+Elemento: market_cap
+Sinonimi computati:['market_cap', 'market_value_apr_2022', 'market_capitalization_usd', 'mastercap', 'marketcap']
+Sinonimi reali:['market_cap', 'mastercap', 'market_value_apr_2022', 'marketcap', 'market_capitalization_usd']
+Intersezione:{'market_cap', 'market_value_apr_2022', 'market_capitalization_usd', 'mastercap', 'marketcap'}
+Computato - TGT:set()
+TGT- Computato:set()
+Jaccard score:1.0
+Elemento: market_value_apr_2022
+Sinonimi computati:['market_cap', 'market_value_apr_2022', 'market_capitalization_usd', 'mastercap', 'marketcap']
+Sinonimi reali:['market_cap', 'mastercap', 'market_value_apr_2022', 'marketcap', 'market_capitalization_usd']
+Intersezione:{'market_cap', 'market_value_apr_2022', 'market_capitalization_usd', 'mastercap', 'marketcap'}
+Computato - TGT:set()
+TGT- Computato:set()
+Jaccard score:1.0
+Elemento: market_capitalization_usd
+Sinonimi computati:['market_cap', 'market_value_apr_2022', 'market_capitalization_usd', 'mastercap', 'marketcap']
+Sinonimi reali:['market_cap', 'mastercap', 'market_value_apr_2022', 'marketcap', 'market_capitalization_usd']
+Intersezione:{'market_cap', 'market_value_apr_2022', 'market_capitalization_usd', 'mastercap', 'marketcap'}
+Computato - TGT:set()
+TGT- Computato:set()
+Jaccard score:1.0
+Elemento: mastercap
+Sinonimi computati:['market_cap', 'market_value_apr_2022', 'market_capitalization_usd', 'mastercap', 'marketcap']
+Sinonimi reali:['market_cap', 'mastercap', 'market_value_apr_2022', 'marketcap', 'market_capitalization_usd']
+Intersezione:{'market_cap', 'market_value_apr_2022', 'market_capitalization_usd', 'mastercap', 'marketcap'}
+Computato - TGT:set()
+TGT- Computato:set()
+Jaccard score:1.0
+Elemento: marketcap
+Sinonimi computati:['market_cap', 'market_value_apr_2022', 'market_capitalization_usd', 'mastercap', 'marketcap']
+Sinonimi reali:['market_cap', 'mastercap', 'market_value_apr_2022', 'marketcap', 'market_capitalization_usd']
+Intersezione:{'market_cap', 'market_value_apr_2022', 'market_capitalization_usd', 'mastercap', 'marketcap'}
 Computato - TGT:set()
 TGT- Computato:set()
 Jaccard score:1.0
@@ -139,6 +111,13 @@ Intersezione:{'categories'}
 Computato - TGT:set()
 TGT- Computato:set()
 Jaccard score:1.0
+Elemento: gbp
+Sinonimi computati:['gbp', 'employees']
+Sinonimi reali:['gbp']
+Intersezione:{'gbp'}
+Computato - TGT:{'employees'}
+TGT- Computato:set()
+Jaccard score:0.5
 Elemento: code
 Sinonimi computati:['code', 'stock']
 Sinonimi reali:[]
@@ -154,7 +133,7 @@ Computato - TGT:{'code'}
 TGT- Computato:set()
 Jaccard score:0.5
 Elemento: industry
-Sinonimi computati:['sector', 'industry']
+Sinonimi computati:['industry', 'sector']
 Sinonimi reali:['industry']
 Intersezione:{'industry'}
 Computato - TGT:{'sector'}
@@ -167,6 +146,27 @@ Intersezione:{'country'}
 Computato - TGT:set()
 TGT- Computato:set()
 Jaccard score:1.0
+Elemento: rank
+Sinonimi computati:['rank']
+Sinonimi reali:['rank']
+Intersezione:{'rank'}
+Computato - TGT:set()
+TGT- Computato:set()
+Jaccard score:1.0
+Elemento: net_income
+Sinonimi computati:['net_income', 'revenue']
+Sinonimi reali:['net_income']
+Intersezione:{'net_income'}
+Computato - TGT:{'revenue'}
+TGT- Computato:set()
+Jaccard score:0.5
+Elemento: revenue
+Sinonimi computati:['net_income', 'revenue']
+Sinonimi reali:['revenue']
+Intersezione:{'revenue'}
+Computato - TGT:{'net_income'}
+TGT- Computato:set()
+Jaccard score:0.5
 Elemento: link
 Sinonimi computati:['link']
 Sinonimi reali:['link']
@@ -174,4 +174,4 @@ Intersezione:{'link'}
 Computato - TGT:set()
 TGT- Computato:set()
 Jaccard score:1.0
-AVG valori extra: 4.32
+AVG valori extra: 0.8

@@ -20,32 +20,25 @@ Intersezione:{'name'}
 Computato - TGT:set()
 TGT- Computato:set()
 Jaccard score:1.0
-Elemento: company_id
-Sinonimi computati:['incorporation_date', 'company_creation_date', 'company_number', 'company_id']
-Sinonimi reali:['company_number', 'company_id']
-Intersezione:{'company_id', 'company_number'}
-Computato - TGT:{'incorporation_date', 'company_creation_date'}
-TGT- Computato:set()
-Jaccard score:0.5
-Elemento: incorporation_date
-Sinonimi computati:['incorporation_date', 'company_creation_date', 'company_number', 'company_id']
-Sinonimi reali:['company_creation_date', 'incorporation_date']
-Intersezione:{'incorporation_date', 'company_creation_date'}
-Computato - TGT:{'company_id', 'company_number'}
-TGT- Computato:set()
-Jaccard score:0.5
-Elemento: company_creation_date
-Sinonimi computati:['incorporation_date', 'company_creation_date', 'company_number', 'company_id']
-Sinonimi reali:['company_creation_date', 'incorporation_date']
-Intersezione:{'incorporation_date', 'company_creation_date'}
-Computato - TGT:{'company_id', 'company_number'}
-TGT- Computato:set()
-Jaccard score:0.5
 Elemento: company_number
-Sinonimi computati:['incorporation_date', 'company_creation_date', 'company_number', 'company_id']
+Sinonimi computati:['company_number', 'company_id']
 Sinonimi reali:['company_number', 'company_id']
-Intersezione:{'company_id', 'company_number'}
-Computato - TGT:{'incorporation_date', 'company_creation_date'}
+Intersezione:{'company_number', 'company_id'}
+Computato - TGT:set()
+TGT- Computato:set()
+Jaccard score:1.0
+Elemento: company_id
+Sinonimi computati:['company_number', 'company_id']
+Sinonimi reali:['company_number', 'company_id']
+Intersezione:{'company_number', 'company_id'}
+Computato - TGT:set()
+TGT- Computato:set()
+Jaccard score:1.0
+Elemento: company_status
+Sinonimi computati:['company_status', 'company_type']
+Sinonimi reali:['company_status']
+Intersezione:{'company_status'}
+Computato - TGT:{'company_type'}
 TGT- Computato:set()
 Jaccard score:0.5
 Elemento: company_type
@@ -55,13 +48,6 @@ Intersezione:{'company_type'}
 Computato - TGT:set()
 TGT- Computato:set()
 Jaccard score:1.0
-Elemento: company_status
-Sinonimi computati:['company_type', 'company_status']
-Sinonimi reali:['company_status']
-Intersezione:{'company_status'}
-Computato - TGT:{'company_type'}
-TGT- Computato:set()
-Jaccard score:0.5
 Elemento: registration_date
 Sinonimi computati:['registration_date', 'dissolution_date']
 Sinonimi reali:['registration_date']
@@ -76,6 +62,20 @@ Intersezione:{'dissolution_date'}
 Computato - TGT:{'registration_date'}
 TGT- Computato:set()
 Jaccard score:0.5
+Elemento: company_creation_date
+Sinonimi computati:['company_creation_date', 'incorporation_date']
+Sinonimi reali:['company_creation_date', 'incorporation_date']
+Intersezione:{'company_creation_date', 'incorporation_date'}
+Computato - TGT:set()
+TGT- Computato:set()
+Jaccard score:1.0
+Elemento: incorporation_date
+Sinonimi computati:['company_creation_date', 'incorporation_date']
+Sinonimi reali:['company_creation_date', 'incorporation_date']
+Intersezione:{'company_creation_date', 'incorporation_date'}
+Computato - TGT:set()
+TGT- Computato:set()
+Jaccard score:1.0
 Elemento: office_address
 Sinonimi computati:['office_address']
 Sinonimi reali:['office_address', 'registered_office_address']
@@ -97,4 +97,4 @@ Intersezione:{'nature_of_business'}
 Computato - TGT:{'registered_office_address'}
 TGT- Computato:set()
 Jaccard score:0.5
-AVG valori extra: 0.9285714285714286
+AVG valori extra: 0.35714285714285715

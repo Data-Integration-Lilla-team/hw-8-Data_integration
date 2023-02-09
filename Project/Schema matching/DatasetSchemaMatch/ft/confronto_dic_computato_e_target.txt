@@ -16,143 +16,143 @@ Jaccard score:1.0
 Elemento: sector
 Sinonimi computati:['sector', 'industry']
 Sinonimi reali:['industry', 'sector']
-Intersezione:{'sector', 'industry'}
+Intersezione:{'industry', 'sector'}
 Computato - TGT:set()
 TGT- Computato:set()
 Jaccard score:1.0
 Elemento: industry
 Sinonimi computati:['sector', 'industry']
 Sinonimi reali:['industry', 'sector']
-Intersezione:{'sector', 'industry'}
+Intersezione:{'industry', 'sector'}
 Computato - TGT:set()
 TGT- Computato:set()
 Jaccard score:1.0
-Elemento: founding_year
-Sinonimi computati:['employees_number_2017']
-Sinonimi reali:['founding_year', 'founded']
-Intersezione:set()
-Computato - TGT:{'employees_number_2017'}
-TGT- Computato:{'founded', 'founding_year'}
-Jaccard score:0.0
-Elemento: revenue_2017_eu
-Sinonimi computati:['employees_number_2017']
-Sinonimi reali:['revenue_2017', 'revenue_2017_eu', 'revenue_2020_euro']
-Intersezione:set()
-Computato - TGT:{'employees_number_2017'}
-TGT- Computato:{'revenue_2020_euro', 'revenue_2017_eu', 'revenue_2017'}
-Jaccard score:0.0
-Elemento: employees_number_2017
-Sinonimi computati:['employees_number_2017']
-Sinonimi reali:['employees', 'employees_2017', 'employees_number_2017', 'number_of_employees_2017']
-Intersezione:{'employees_number_2017'}
-Computato - TGT:set()
-TGT- Computato:{'employees', 'employees_2017', 'number_of_employees_2017'}
-Jaccard score:0.25
-Elemento: absolute_growth_rate_pct
-Sinonimi computati:['employees_number_2017']
-Sinonimi reali:['absolute_growth_rate_pct']
-Intersezione:set()
-Computato - TGT:{'employees_number_2017'}
-TGT- Computato:{'absolute_growth_rate_pct'}
-Jaccard score:0.0
-Elemento: number_of_employees_2020
-Sinonimi computati:['employees_number_2017']
-Sinonimi reali:['employees_2020', 'employees_number_2020', 'number_of_employees_2020']
-Intersezione:set()
-Computato - TGT:{'employees_number_2017'}
-TGT- Computato:{'number_of_employees_2020', 'employees_2020', 'employees_number_2020'}
-Jaccard score:0.0
-Elemento: employees_number_2020
-Sinonimi computati:['employees_number_2017']
-Sinonimi reali:['employees_2020', 'employees_number_2020', 'number_of_employees_2020']
-Intersezione:set()
-Computato - TGT:{'employees_number_2017'}
-TGT- Computato:{'number_of_employees_2020', 'employees_2020', 'employees_number_2020'}
-Jaccard score:0.0
-Elemento: revenue_2020_eu
-Sinonimi computati:['employees_number_2017']
-Sinonimi reali:['revenue', 'revenue_2020', 'revenue_2020_eu', 'revenue_2020_euro']
-Intersezione:set()
-Computato - TGT:{'employees_number_2017'}
-TGT- Computato:{'revenue_2020_euro', 'revenue_2020_eu', 'revenue', 'revenue_2020'}
-Jaccard score:0.0
-Elemento: employees_2020
-Sinonimi computati:['employees_number_2017']
-Sinonimi reali:['employees_2020', 'employees_number_2020', 'number_of_employees_2020']
-Intersezione:set()
-Computato - TGT:{'employees_number_2017'}
-TGT- Computato:{'number_of_employees_2020', 'employees_2020', 'employees_number_2020'}
-Jaccard score:0.0
-Elemento: revenue
-Sinonimi computati:['employees_number_2017']
-Sinonimi reali:['revenue', 'revenue_2020', 'revenue_2020_eu', 'revenue_2020_euro']
-Intersezione:set()
-Computato - TGT:{'employees_number_2017'}
-TGT- Computato:{'revenue_2020_euro', 'revenue_2020_eu', 'revenue', 'revenue_2020'}
-Jaccard score:0.0
-Elemento: employees_2017
-Sinonimi computati:['employees_number_2017']
-Sinonimi reali:['employees', 'employees_2017', 'employees_number_2017', 'number_of_employees_2017']
-Intersezione:{'employees_number_2017'}
-Computato - TGT:set()
-TGT- Computato:{'employees', 'employees_2017', 'number_of_employees_2017'}
-Jaccard score:0.25
-Elemento: number_of_employees_2017
-Sinonimi computati:['employees_number_2017']
-Sinonimi reali:['employees', 'employees_2017', 'employees_number_2017', 'number_of_employees_2017']
-Intersezione:{'employees_number_2017'}
-Computato - TGT:set()
-TGT- Computato:{'employees', 'employees_2017', 'number_of_employees_2017'}
-Jaccard score:0.25
-Elemento: revenue_2020_euro
-Sinonimi computati:['employees_number_2017']
-Sinonimi reali:['revenue', 'revenue_2020', 'revenue_2020_eu', 'revenue_2020_euro']
-Intersezione:set()
-Computato - TGT:{'employees_number_2017'}
-TGT- Computato:{'revenue_2020_euro', 'revenue_2020_eu', 'revenue', 'revenue_2020'}
-Jaccard score:0.0
-Elemento: employees
-Sinonimi computati:['employees_number_2017']
-Sinonimi reali:['employees', 'employees_2017', 'employees_number_2017', 'number_of_employees_2017']
-Intersezione:{'employees_number_2017'}
-Computato - TGT:set()
-TGT- Computato:{'employees', 'employees_2017', 'number_of_employees_2017'}
-Jaccard score:0.25
-Elemento: revenue_2017
-Sinonimi computati:['employees_number_2017']
-Sinonimi reali:['revenue_2017', 'revenue_2017_eu', 'revenue_2020_euro']
-Intersezione:set()
-Computato - TGT:{'employees_number_2017'}
-TGT- Computato:{'revenue_2020_euro', 'revenue_2017_eu', 'revenue_2017'}
-Jaccard score:0.0
-Elemento: revenue_2020
-Sinonimi computati:['employees_number_2017']
-Sinonimi reali:['revenue', 'revenue_2020', 'revenue_2020_eu', 'revenue_2020_euro']
-Intersezione:set()
-Computato - TGT:{'employees_number_2017'}
-TGT- Computato:{'revenue_2020_euro', 'revenue_2020_eu', 'revenue', 'revenue_2020'}
-Jaccard score:0.0
-Elemento: founded
-Sinonimi computati:['employees_number_2017']
-Sinonimi reali:['founded', 'founding_year']
-Intersezione:set()
-Computato - TGT:{'employees_number_2017'}
-TGT- Computato:{'founded', 'founding_year'}
-Jaccard score:0.0
 Elemento: revenue_2017_euro
-Sinonimi computati:['employees_number_2017']
+Sinonimi computati:['revenue_2017', 'revenue_2017_eu', 'revenue_2017_euro', 'absolute_growth_rate_pct', 'revenue_2020_euro']
 Sinonimi reali:['revenue_2017', 'revenue_2017_eu', 'revenue_2020_euro']
-Intersezione:set()
-Computato - TGT:{'employees_number_2017'}
-TGT- Computato:{'revenue_2020_euro', 'revenue_2017_eu', 'revenue_2017'}
-Jaccard score:0.0
+Intersezione:{'revenue_2017', 'revenue_2020_euro', 'revenue_2017_eu'}
+Computato - TGT:{'revenue_2017_euro', 'absolute_growth_rate_pct'}
+TGT- Computato:set()
+Jaccard score:0.6
+Elemento: absolute_growth_rate_pct
+Sinonimi computati:['revenue_2017_euro', 'absolute_growth_rate_pct', 'revenue_2017']
+Sinonimi reali:['absolute_growth_rate_pct']
+Intersezione:{'absolute_growth_rate_pct'}
+Computato - TGT:{'revenue_2017_euro', 'revenue_2017'}
+TGT- Computato:set()
+Jaccard score:0.3333333333333333
+Elemento: revenue_2017
+Sinonimi computati:['revenue_2017', 'revenue_2017_eu', 'revenue_2017_euro', 'absolute_growth_rate_pct']
+Sinonimi reali:['revenue_2017', 'revenue_2017_eu', 'revenue_2020_euro']
+Intersezione:{'revenue_2017', 'revenue_2017_eu'}
+Computato - TGT:{'revenue_2017_euro', 'absolute_growth_rate_pct'}
+TGT- Computato:{'revenue_2020_euro'}
+Jaccard score:0.4
+Elemento: employees_number_2020
+Sinonimi computati:['employees_number_2020', 'number_of_employees_2020', 'employees', 'number_of_employees_2017', 'employees_number_2017', 'employees_2020', 'founding_year', 'compound_annual_growth_rate_cagr_pct', 'employees_2017', 'founded']
+Sinonimi reali:['employees_2020', 'employees_number_2020', 'number_of_employees_2020']
+Intersezione:{'employees_2020', 'employees_number_2020', 'number_of_employees_2020'}
+Computato - TGT:{'employees', 'number_of_employees_2017', 'employees_number_2017', 'founding_year', 'compound_annual_growth_rate_cagr_pct', 'employees_2017', 'founded'}
+TGT- Computato:set()
+Jaccard score:0.3
+Elemento: number_of_employees_2020
+Sinonimi computati:['employees_number_2020', 'number_of_employees_2020', 'employees', 'number_of_employees_2017', 'employees_number_2017', 'employees_2020', 'founding_year', 'compound_annual_growth_rate_cagr_pct', 'employees_2017', 'founded']
+Sinonimi reali:['employees_2020', 'employees_number_2020', 'number_of_employees_2020']
+Intersezione:{'employees_2020', 'employees_number_2020', 'number_of_employees_2020'}
+Computato - TGT:{'employees', 'number_of_employees_2017', 'employees_number_2017', 'founding_year', 'compound_annual_growth_rate_cagr_pct', 'employees_2017', 'founded'}
+TGT- Computato:set()
+Jaccard score:0.3
+Elemento: employees
+Sinonimi computati:['employees_number_2020', 'number_of_employees_2020', 'employees', 'number_of_employees_2017', 'employees_number_2017', 'employees_2020', 'founding_year', 'compound_annual_growth_rate_cagr_pct', 'employees_2017', 'founded']
+Sinonimi reali:['employees', 'employees_2017', 'employees_number_2017', 'number_of_employees_2017']
+Intersezione:{'employees_number_2017', 'number_of_employees_2017', 'employees_2017', 'employees'}
+Computato - TGT:{'employees_number_2020', 'number_of_employees_2020', 'employees_2020', 'founding_year', 'compound_annual_growth_rate_cagr_pct', 'founded'}
+TGT- Computato:set()
+Jaccard score:0.4
+Elemento: number_of_employees_2017
+Sinonimi computati:['employees_number_2020', 'number_of_employees_2020', 'employees', 'number_of_employees_2017', 'employees_number_2017', 'employees_2020', 'founding_year', 'compound_annual_growth_rate_cagr_pct', 'employees_2017', 'founded']
+Sinonimi reali:['employees', 'employees_2017', 'employees_number_2017', 'number_of_employees_2017']
+Intersezione:{'employees_number_2017', 'number_of_employees_2017', 'employees_2017', 'employees'}
+Computato - TGT:{'employees_number_2020', 'number_of_employees_2020', 'employees_2020', 'founding_year', 'compound_annual_growth_rate_cagr_pct', 'founded'}
+TGT- Computato:set()
+Jaccard score:0.4
+Elemento: employees_number_2017
+Sinonimi computati:['employees_number_2020', 'number_of_employees_2020', 'employees', 'number_of_employees_2017', 'employees_number_2017', 'employees_2020', 'founding_year', 'compound_annual_growth_rate_cagr_pct', 'employees_2017', 'founded']
+Sinonimi reali:['employees', 'employees_2017', 'employees_number_2017', 'number_of_employees_2017']
+Intersezione:{'employees_number_2017', 'number_of_employees_2017', 'employees_2017', 'employees'}
+Computato - TGT:{'employees_number_2020', 'number_of_employees_2020', 'employees_2020', 'founding_year', 'compound_annual_growth_rate_cagr_pct', 'founded'}
+TGT- Computato:set()
+Jaccard score:0.4
+Elemento: employees_2020
+Sinonimi computati:['employees_number_2020', 'number_of_employees_2020', 'employees', 'number_of_employees_2017', 'employees_number_2017', 'employees_2020', 'founding_year', 'compound_annual_growth_rate_cagr_pct', 'employees_2017', 'founded']
+Sinonimi reali:['employees_2020', 'employees_number_2020', 'number_of_employees_2020']
+Intersezione:{'employees_2020', 'employees_number_2020', 'number_of_employees_2020'}
+Computato - TGT:{'employees', 'number_of_employees_2017', 'employees_number_2017', 'founding_year', 'compound_annual_growth_rate_cagr_pct', 'employees_2017', 'founded'}
+TGT- Computato:set()
+Jaccard score:0.3
+Elemento: founding_year
+Sinonimi computati:['employees_number_2020', 'number_of_employees_2020', 'employees', 'number_of_employees_2017', 'employees_number_2017', 'employees_2020', 'founding_year', 'compound_annual_growth_rate_cagr_pct', 'employees_2017', 'founded']
+Sinonimi reali:['founding_year', 'founded']
+Intersezione:{'founding_year', 'founded'}
+Computato - TGT:{'employees_number_2020', 'number_of_employees_2020', 'employees', 'number_of_employees_2017', 'employees_number_2017', 'employees_2020', 'compound_annual_growth_rate_cagr_pct', 'employees_2017'}
+TGT- Computato:set()
+Jaccard score:0.2
 Elemento: compound_annual_growth_rate_cagr_pct
-Sinonimi computati:['employees_number_2017']
+Sinonimi computati:['employees_number_2020', 'number_of_employees_2020', 'employees', 'number_of_employees_2017', 'employees_number_2017', 'employees_2020', 'founding_year', 'compound_annual_growth_rate_cagr_pct', 'employees_2017', 'founded']
 Sinonimi reali:['compound_annual_growth_rate_cagr_pct']
-Intersezione:set()
-Computato - TGT:{'employees_number_2017'}
-TGT- Computato:{'compound_annual_growth_rate_cagr_pct'}
-Jaccard score:0.0
+Intersezione:{'compound_annual_growth_rate_cagr_pct'}
+Computato - TGT:{'employees_number_2020', 'number_of_employees_2020', 'employees', 'number_of_employees_2017', 'employees_number_2017', 'employees_2020', 'founding_year', 'employees_2017', 'founded'}
+TGT- Computato:set()
+Jaccard score:0.1
+Elemento: employees_2017
+Sinonimi computati:['employees_number_2020', 'number_of_employees_2020', 'employees', 'number_of_employees_2017', 'employees_number_2017', 'employees_2020', 'founding_year', 'compound_annual_growth_rate_cagr_pct', 'employees_2017', 'founded']
+Sinonimi reali:['employees', 'employees_2017', 'employees_number_2017', 'number_of_employees_2017']
+Intersezione:{'employees_number_2017', 'number_of_employees_2017', 'employees_2017', 'employees'}
+Computato - TGT:{'employees_number_2020', 'number_of_employees_2020', 'employees_2020', 'founding_year', 'compound_annual_growth_rate_cagr_pct', 'founded'}
+TGT- Computato:set()
+Jaccard score:0.4
+Elemento: founded
+Sinonimi computati:['employees_number_2020', 'number_of_employees_2020', 'employees', 'number_of_employees_2017', 'employees_number_2017', 'employees_2020', 'founding_year', 'compound_annual_growth_rate_cagr_pct', 'employees_2017', 'founded']
+Sinonimi reali:['founded', 'founding_year']
+Intersezione:{'founding_year', 'founded'}
+Computato - TGT:{'employees_number_2020', 'number_of_employees_2020', 'employees', 'number_of_employees_2017', 'employees_number_2017', 'employees_2020', 'compound_annual_growth_rate_cagr_pct', 'employees_2017'}
+TGT- Computato:set()
+Jaccard score:0.2
+Elemento: revenue
+Sinonimi computati:['revenue_2020', 'revenue', 'revenue_2020_euro', 'revenue_2020_eu']
+Sinonimi reali:['revenue', 'revenue_2020', 'revenue_2020_eu', 'revenue_2020_euro']
+Intersezione:{'revenue_2020', 'revenue_2020_euro', 'revenue', 'revenue_2020_eu'}
+Computato - TGT:set()
+TGT- Computato:set()
+Jaccard score:1.0
+Elemento: revenue_2020
+Sinonimi computati:['revenue_2020', 'revenue', 'revenue_2020_euro', 'revenue_2020_eu']
+Sinonimi reali:['revenue', 'revenue_2020', 'revenue_2020_eu', 'revenue_2020_euro']
+Intersezione:{'revenue_2020', 'revenue_2020_euro', 'revenue', 'revenue_2020_eu'}
+Computato - TGT:set()
+TGT- Computato:set()
+Jaccard score:1.0
+Elemento: revenue_2020_euro
+Sinonimi computati:['revenue_2020', 'revenue', 'revenue_2017_euro', 'revenue_2020_euro', 'revenue_2020_eu']
+Sinonimi reali:['revenue', 'revenue_2020', 'revenue_2020_eu', 'revenue_2020_euro']
+Intersezione:{'revenue_2020', 'revenue_2020_euro', 'revenue', 'revenue_2020_eu'}
+Computato - TGT:{'revenue_2017_euro'}
+TGT- Computato:set()
+Jaccard score:0.8
+Elemento: revenue_2020_eu
+Sinonimi computati:['revenue_2017_eu', 'revenue_2020_euro', 'revenue_2020_eu', 'revenue_2020', 'revenue']
+Sinonimi reali:['revenue', 'revenue_2020', 'revenue_2020_eu', 'revenue_2020_euro']
+Intersezione:{'revenue_2020', 'revenue_2020_euro', 'revenue', 'revenue_2020_eu'}
+Computato - TGT:{'revenue_2017_eu'}
+TGT- Computato:set()
+Jaccard score:0.8
+Elemento: revenue_2017_eu
+Sinonimi computati:['revenue_2017_eu', 'revenue_2017', 'revenue_2017_euro', 'revenue_2020_eu']
+Sinonimi reali:['revenue_2017', 'revenue_2017_eu', 'revenue_2020_euro']
+Intersezione:{'revenue_2017', 'revenue_2017_eu'}
+Computato - TGT:{'revenue_2017_euro', 'revenue_2020_eu'}
+TGT- Computato:{'revenue_2020_euro'}
+Jaccard score:0.4
 Elemento: link
 Sinonimi computati:['link']
 Sinonimi reali:['link']
@@ -160,4 +160,4 @@ Intersezione:{'link'}
 Computato - TGT:set()
 TGT- Computato:set()
 Jaccard score:1.0
-AVG valori extra: 0.6086956521739131
+AVG valori extra: 3.4782608695652173

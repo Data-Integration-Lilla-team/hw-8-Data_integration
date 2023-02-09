@@ -1,16 +1,16 @@
 
-Elemento: name
-Sinonimi computati:['name', 'industry']
-Sinonimi reali:['name']
-Intersezione:{'name'}
-Computato - TGT:{'industry'}
-TGT- Computato:set()
-Jaccard score:0.5
 Elemento: industry
-Sinonimi computati:['name', 'industry']
+Sinonimi computati:['industry', 'name']
 Sinonimi reali:['industry']
 Intersezione:{'industry'}
 Computato - TGT:{'name'}
+TGT- Computato:set()
+Jaccard score:0.5
+Elemento: name
+Sinonimi computati:['industry', 'name']
+Sinonimi reali:['name']
+Intersezione:{'name'}
+Computato - TGT:{'industry'}
 TGT- Computato:set()
 Jaccard score:0.5
 Elemento: website

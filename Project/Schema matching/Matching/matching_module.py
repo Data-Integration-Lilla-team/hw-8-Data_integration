@@ -66,8 +66,7 @@ class MatchingModule:
             cols=set(df.columns.values)
             attributes.update(cols)
         
-        print(attributes)
-        print(len(attributes))
+        
         return len(attributes)
 
 
@@ -127,8 +126,7 @@ class MatchingModule:
             elementi_A=set(data_c[k])
             elementi_B=set(name_corr[k])
             unione=list(elementi_A.union(elementi_B))
-            if len(unione)>0.7*numero_colonne:
-                unione=self.limit_names(unione,data_c)
+            
             output[k]=unione
         return output
     #riceve in input:
@@ -160,7 +158,7 @@ class MatchingModule:
 
         #UNIONE DEI DIZIONARI COMPUTATI
         full_dic=self.merge_dict(dic_data_clustering,dic_name_correlation)
-        print(full_dic)
+       
         evaluator=Eval()
         score=evaluator.evaluate(full_dic,validation_set)
 

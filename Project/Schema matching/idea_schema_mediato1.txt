@@ -8,6 +8,6 @@
 'market_cap': ['market_cap'],
 'revenue': ['revenue', 'revenue_2017', 'revenue_2020', 'revenue_2022'],
 'industry': ['industry'], --> simile a sector e categories
-'website': ['website', 'company_website']
+'website': ['website', 'company_website'],
 'ceo': ['ceo']
 }

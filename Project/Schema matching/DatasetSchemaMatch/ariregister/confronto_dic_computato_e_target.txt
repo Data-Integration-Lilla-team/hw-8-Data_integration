@@ -1,25 +1,32 @@
 
 Elemento: url
-Sinonimi computati:['url', 'name', 'id']
+Sinonimi computati:['url']
 Sinonimi reali:['url']
 Intersezione:{'url'}
-Computato - TGT:{'name', 'id'}
+Computato - TGT:set()
 TGT- Computato:set()
-Jaccard score:0.3333333333333333
-Elemento: name
-Sinonimi computati:['url', 'name', 'id']
-Sinonimi reali:['name']
-Intersezione:{'name'}
-Computato - TGT:{'url', 'id'}
-TGT- Computato:set()
-Jaccard score:0.3333333333333333
+Jaccard score:1.0
 Elemento: id
-Sinonimi computati:['url', 'name', 'id']
+Sinonimi computati:['id']
 Sinonimi reali:['id']
 Intersezione:{'id'}
-Computato - TGT:{'url', 'name'}
+Computato - TGT:set()
 TGT- Computato:set()
-Jaccard score:0.3333333333333333
+Jaccard score:1.0
+Elemento: status
+Sinonimi computati:['status', 'name']
+Sinonimi reali:['status']
+Intersezione:{'status'}
+Computato - TGT:{'name'}
+TGT- Computato:set()
+Jaccard score:0.5
+Elemento: name
+Sinonimi computati:['status', 'name']
+Sinonimi reali:['name']
+Intersezione:{'name'}
+Computato - TGT:{'status'}
+TGT- Computato:set()
+Jaccard score:0.5
 Elemento: registration_date
 Sinonimi computati:['registration_date', 'deletion_date', 'code']
 Sinonimi reali:['registration_date']
@@ -48,13 +55,6 @@ Intersezione:{'legal_form'}
 Computato - TGT:set()
 TGT- Computato:set()
 Jaccard score:1.0
-Elemento: status
-Sinonimi computati:['status']
-Sinonimi reali:['status']
-Intersezione:{'status'}
-Computato - TGT:set()
-TGT- Computato:set()
-Jaccard score:1.0
 Elemento: capital
 Sinonimi computati:['capital']
 Sinonimi reali:['capital']
@@ -69,4 +69,4 @@ Intersezione:{'address'}
 Computato - TGT:set()
 TGT- Computato:set()
 Jaccard score:1.0
-AVG valori extra: 1.2
+AVG valori extra: 0.8

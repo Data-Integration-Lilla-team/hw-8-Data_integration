@@ -252,7 +252,8 @@ def parse_data_foundation_year_06 (elemento):
     
     if valore!=0:
         valore=str(valore)
-        real=valore.split(' ')[0]
+        real=valore.split(' ')[0]   #amitobox
+        real=real.replace(';','')
         
         pattern='^[0-9]{4}$'
 
@@ -702,6 +703,23 @@ class Parser_data:
             print(k,field)
             print(data[field].head(1))
             data.to_csv(path)
+    
+    def parse_founded_wiki(self):
+        path='Project\\Dataset\\ClusterParsed\\wikipedia\\06-MarScoToc.csv'
+        col='founded'
+        data=pd.read_csv(path)
+        #column
+        print(data[col].head(20))
+        data[col]=data[col].fillna(0)
+        data[col]=data[col].apply(parse_data_foundation_year_06)
+
+        
+
+
+        data=self.drop_not_needed_cols(data)
+        print(data[col].head(20))
+        data.to_csv(path)
+
 
     def parse_specific_values(self):
         
@@ -739,7 +757,9 @@ class Parser_data:
         #self.extract_data_valuetoday_08()
         #self.extract_data_valuetoday_07()
 
-        self.parse_error_data()
+        #self.parse_error_data()
+        
+        self.parse_founded_wiki()
 
 
 

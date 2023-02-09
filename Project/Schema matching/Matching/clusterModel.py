@@ -121,7 +121,7 @@ class ClusterModel:
         for k in range(2,max_clusters+1):
             stringa=stringa+'N.Clusters'+str(k)
             used_data=pd.DataFrame(data,columns=data.columns)
-            print(used_data.columns)
+            
             km=KMeans(init='k-means++',n_clusters=k)
             km.fit(data[columns])
             used_data['cluster']=km.fit_predict(data[columns])
@@ -130,7 +130,7 @@ class ClusterModel:
 
             
             score=eval.evaluate(dic_sin,validation)
-            print('cluster k=',k,'score.>',score)
+            
             jaccard_dist_eval[k]=score
             stringa=stringa+' avg jaccard: '+str(score)+' Inertia:  '+str(km.inertia_)+'\n'
             for i in dic_sin.keys():
@@ -145,7 +145,7 @@ class ClusterModel:
 
             #arriviamo sotto una soglia di inerzia
             if km.inertia_<=self.threshold_inertia:
-                print(self.clusterName,'FOUND MIN:',km.inertia_, ' with K=',k)
+          
                 best_result=self.clustered_data(data,columns,k)
                 ds_csv=best_result[1]
                 dic_sin_best=best_result[0]

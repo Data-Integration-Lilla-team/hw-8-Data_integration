@@ -1,11 +1,11 @@
 
 Elemento: id
-Sinonimi computati:['rank', 'revenue', 'change1y', 'employees', 'master_cap', 'change_1_year', 'pricecap', 'price', 'change_1day', 'id', 'market_capitalization_usd', 'change_1year', 'share_price', 'change1d', 'market_cap', 'earnings', 'marketcap', 'shareprice', 'change_1_day']
+Sinonimi computati:['id']
 Sinonimi reali:['id']
 Intersezione:{'id'}
-Computato - TGT:{'rank', 'revenue', 'change1y', 'employees', 'master_cap', 'change_1_year', 'pricecap', 'price', 'change_1day', 'market_capitalization_usd', 'change_1year', 'share_price', 'change1d', 'market_cap', 'earnings', 'marketcap', 'shareprice', 'change_1_day'}
+Computato - TGT:set()
 TGT- Computato:set()
-Jaccard score:0.05263157894736842
+Jaccard score:1.0
 Elemento: name
 Sinonimi computati:['name']
 Sinonimi reali:['name']
@@ -13,132 +13,62 @@ Intersezione:{'name'}
 Computato - TGT:set()
 TGT- Computato:set()
 Jaccard score:1.0
-Elemento: change1y
-Sinonimi computati:['rank', 'revenue', 'change1y', 'employees', 'master_cap', 'change_1_year', 'pricecap', 'price', 'change_1day', 'id', 'market_capitalization_usd', 'change_1year', 'share_price', 'change1d', 'market_cap', 'earnings', 'marketcap', 'shareprice', 'change_1_day']
-Sinonimi reali:['change1y', 'change_1_year', 'change_1year']
-Intersezione:{'change_1_year', 'change1y', 'change_1year'}
-Computato - TGT:{'rank', 'revenue', 'employees', 'master_cap', 'pricecap', 'price', 'change_1day', 'id', 'market_capitalization_usd', 'share_price', 'change1d', 'market_cap', 'earnings', 'marketcap', 'shareprice', 'change_1_day'}
-TGT- Computato:set()
-Jaccard score:0.15789473684210525
-Elemento: employees
-Sinonimi computati:['rank', 'revenue', 'change1y', 'employees', 'master_cap', 'change_1_year', 'pricecap', 'price', 'change_1day', 'id', 'market_capitalization_usd', 'change_1year', 'share_price', 'change1d', 'market_cap', 'earnings', 'marketcap', 'shareprice', 'change_1_day']
-Sinonimi reali:['employees']
-Intersezione:{'employees'}
-Computato - TGT:{'rank', 'revenue', 'change1y', 'master_cap', 'change_1_year', 'pricecap', 'price', 'change_1day', 'id', 'market_capitalization_usd', 'change_1year', 'share_price', 'change1d', 'market_cap', 'earnings', 'marketcap', 'shareprice', 'change_1_day'}
-TGT- Computato:set()
-Jaccard score:0.05263157894736842
-Elemento: master_cap
-Sinonimi computati:['rank', 'revenue', 'change1y', 'employees', 'master_cap', 'change_1_year', 'pricecap', 'price', 'change_1day', 'id', 'market_capitalization_usd', 'change_1year', 'share_price', 'change1d', 'market_cap', 'earnings', 'marketcap', 'shareprice', 'change_1_day']
-Sinonimi reali:['market_cap', 'market_capitalization_usd', 'marketcap', 'master_cap', 'pricecap']
-Intersezione:{'pricecap', 'market_capitalization_usd', 'market_cap', 'master_cap', 'marketcap'}
-Computato - TGT:{'price', 'change_1day', 'id', 'change_1year', 'rank', 'share_price', 'revenue', 'change1y', 'change1d', 'employees', 'earnings', 'change_1_year', 'shareprice', 'change_1_day'}
-TGT- Computato:set()
-Jaccard score:0.2631578947368421
-Elemento: change_1day
-Sinonimi computati:['rank', 'revenue', 'change1y', 'employees', 'master_cap', 'change_1_year', 'pricecap', 'price', 'change_1day', 'id', 'market_capitalization_usd', 'change_1year', 'share_price', 'change1d', 'market_cap', 'earnings', 'marketcap', 'shareprice', 'change_1_day']
-Sinonimi reali:['change1d', 'change_1_day', 'change_1day']
-Intersezione:{'change_1day', 'change_1_day', 'change1d'}
-Computato - TGT:{'rank', 'revenue', 'change1y', 'employees', 'master_cap', 'change_1_year', 'pricecap', 'price', 'id', 'market_capitalization_usd', 'change_1year', 'share_price', 'market_cap', 'earnings', 'marketcap', 'shareprice'}
-TGT- Computato:set()
-Jaccard score:0.15789473684210525
-Elemento: market_capitalization_usd
-Sinonimi computati:['rank', 'revenue', 'change1y', 'employees', 'master_cap', 'change_1_year', 'pricecap', 'price', 'change_1day', 'id', 'market_capitalization_usd', 'change_1year', 'share_price', 'change1d', 'market_cap', 'earnings', 'marketcap', 'shareprice', 'change_1_day']
-Sinonimi reali:['market_cap', 'market_capitalization_usd', 'marketcap', 'master_cap', 'pricecap']
-Intersezione:{'pricecap', 'market_capitalization_usd', 'market_cap', 'master_cap', 'marketcap'}
-Computato - TGT:{'price', 'change_1day', 'id', 'change_1year', 'rank', 'share_price', 'revenue', 'change1y', 'change1d', 'employees', 'earnings', 'change_1_year', 'shareprice', 'change_1_day'}
-TGT- Computato:set()
-Jaccard score:0.2631578947368421
-Elemento: share_price
-Sinonimi computati:['rank', 'revenue', 'change1y', 'employees', 'master_cap', 'change_1_year', 'pricecap', 'price', 'change_1day', 'id', 'market_capitalization_usd', 'change_1year', 'share_price', 'change1d', 'market_cap', 'earnings', 'marketcap', 'shareprice', 'change_1_day']
-Sinonimi reali:['price', 'share_price', 'shareprice']
-Intersezione:{'share_price', 'price', 'shareprice'}
-Computato - TGT:{'rank', 'revenue', 'change1y', 'employees', 'master_cap', 'change_1_year', 'pricecap', 'change_1day', 'id', 'market_capitalization_usd', 'change_1year', 'change1d', 'market_cap', 'earnings', 'marketcap', 'change_1_day'}
-TGT- Computato:set()
-Jaccard score:0.15789473684210525
-Elemento: market_cap
-Sinonimi computati:['rank', 'revenue', 'change1y', 'employees', 'master_cap', 'change_1_year', 'pricecap', 'price', 'change_1day', 'id', 'market_capitalization_usd', 'change_1year', 'share_price', 'change1d', 'market_cap', 'earnings', 'marketcap', 'shareprice', 'change_1_day']
-Sinonimi reali:['market_cap', 'market_capitalization_usd', 'marketcap', 'master_cap', 'pricecap']
-Intersezione:{'pricecap', 'market_capitalization_usd', 'market_cap', 'master_cap', 'marketcap'}
-Computato - TGT:{'price', 'change_1day', 'id', 'change_1year', 'rank', 'share_price', 'revenue', 'change1y', 'change1d', 'employees', 'earnings', 'change_1_year', 'shareprice', 'change_1_day'}
-TGT- Computato:set()
-Jaccard score:0.2631578947368421
-Elemento: earnings
-Sinonimi computati:['rank', 'revenue', 'change1y', 'employees', 'master_cap', 'change_1_year', 'pricecap', 'price', 'change_1day', 'id', 'market_capitalization_usd', 'change_1year', 'share_price', 'change1d', 'market_cap', 'earnings', 'marketcap', 'shareprice', 'change_1_day']
-Sinonimi reali:['earnings']
-Intersezione:{'earnings'}
-Computato - TGT:{'rank', 'revenue', 'change1y', 'employees', 'master_cap', 'change_1_year', 'pricecap', 'price', 'change_1day', 'id', 'market_capitalization_usd', 'change_1year', 'share_price', 'change1d', 'market_cap', 'marketcap', 'shareprice', 'change_1_day'}
-TGT- Computato:set()
-Jaccard score:0.05263157894736842
-Elemento: marketcap
-Sinonimi computati:['rank', 'revenue', 'change1y', 'employees', 'master_cap', 'change_1_year', 'pricecap', 'price', 'change_1day', 'id', 'market_capitalization_usd', 'change_1year', 'share_price', 'change1d', 'market_cap', 'earnings', 'marketcap', 'shareprice', 'change_1_day']
-Sinonimi reali:['market_cap', 'market_capitalization_usd', 'marketcap', 'master_cap', 'pricecap']
-Intersezione:{'pricecap', 'market_capitalization_usd', 'market_cap', 'master_cap', 'marketcap'}
-Computato - TGT:{'price', 'change_1day', 'id', 'change_1year', 'rank', 'share_price', 'revenue', 'change1y', 'change1d', 'employees', 'earnings', 'change_1_year', 'shareprice', 'change_1_day'}
-TGT- Computato:set()
-Jaccard score:0.2631578947368421
-Elemento: shareprice
-Sinonimi computati:['rank', 'revenue', 'change1y', 'employees', 'master_cap', 'change_1_year', 'pricecap', 'price', 'change_1day', 'id', 'market_capitalization_usd', 'change_1year', 'share_price', 'change1d', 'market_cap', 'earnings', 'marketcap', 'shareprice', 'change_1_day']
-Sinonimi reali:['price', 'share_price', 'shareprice']
-Intersezione:{'share_price', 'price', 'shareprice'}
-Computato - TGT:{'rank', 'revenue', 'change1y', 'employees', 'master_cap', 'change_1_year', 'pricecap', 'change_1day', 'id', 'market_capitalization_usd', 'change_1year', 'change1d', 'market_cap', 'earnings', 'marketcap', 'change_1_day'}
-TGT- Computato:set()
-Jaccard score:0.15789473684210525
 Elemento: rank
-Sinonimi computati:['rank', 'shares']
+Sinonimi computati:['change_1year', 'shareprice', 'change1d', 'change_1_year', 'share_price', 'change1y', 'price', 'change_1_day', 'rank', 'change_1day']
 Sinonimi reali:['rank']
 Intersezione:{'rank'}
-Computato - TGT:{'shares'}
+Computato - TGT:{'change_1year', 'shareprice', 'change1d', 'change_1_year', 'share_price', 'change1y', 'price', 'change_1_day', 'change_1day'}
 TGT- Computato:set()
-Jaccard score:0.5
+Jaccard score:0.1
+Elemento: market_cap
+Sinonimi computati:['market_cap', 'master_cap', 'earnings', 'pricecap', 'market_capitalization_usd', 'revenue', 'marketcap']
+Sinonimi reali:['market_cap', 'market_capitalization_usd', 'marketcap', 'master_cap', 'pricecap']
+Intersezione:{'market_cap', 'master_cap', 'pricecap', 'market_capitalization_usd', 'marketcap'}
+Computato - TGT:{'earnings', 'revenue'}
+TGT- Computato:set()
+Jaccard score:0.7142857142857143
+Elemento: master_cap
+Sinonimi computati:['market_cap', 'master_cap', 'market_capitalization_usd', 'earnings', 'pricecap', 'revenue', 'marketcap']
+Sinonimi reali:['market_cap', 'market_capitalization_usd', 'marketcap', 'master_cap', 'pricecap']
+Intersezione:{'market_cap', 'master_cap', 'pricecap', 'market_capitalization_usd', 'marketcap'}
+Computato - TGT:{'earnings', 'revenue'}
+TGT- Computato:set()
+Jaccard score:0.7142857142857143
+Elemento: earnings
+Sinonimi computati:['market_cap', 'master_cap', 'market_capitalization_usd', 'earnings', 'pricecap', 'revenue', 'marketcap']
+Sinonimi reali:['earnings']
+Intersezione:{'earnings'}
+Computato - TGT:{'market_cap', 'master_cap', 'pricecap', 'market_capitalization_usd', 'revenue', 'marketcap'}
+TGT- Computato:set()
+Jaccard score:0.14285714285714285
+Elemento: pricecap
+Sinonimi computati:['market_cap', 'master_cap', 'market_capitalization_usd', 'earnings', 'pricecap', 'revenue', 'marketcap']
+Sinonimi reali:['market_cap', 'market_capitalization_usd', 'marketcap', 'master_cap', 'pricecap']
+Intersezione:{'market_cap', 'master_cap', 'pricecap', 'market_capitalization_usd', 'marketcap'}
+Computato - TGT:{'earnings', 'revenue'}
+TGT- Computato:set()
+Jaccard score:0.7142857142857143
+Elemento: market_capitalization_usd
+Sinonimi computati:['market_cap', 'master_cap', 'market_capitalization_usd', 'earnings', 'pricecap', 'revenue', 'marketcap']
+Sinonimi reali:['market_cap', 'market_capitalization_usd', 'marketcap', 'master_cap', 'pricecap']
+Intersezione:{'market_cap', 'master_cap', 'pricecap', 'market_capitalization_usd', 'marketcap'}
+Computato - TGT:{'earnings', 'revenue'}
+TGT- Computato:set()
+Jaccard score:0.7142857142857143
 Elemento: revenue
-Sinonimi computati:['rank', 'revenue', 'change1y', 'employees', 'master_cap', 'change_1_year', 'pricecap', 'price', 'change_1day', 'id', 'market_capitalization_usd', 'change_1year', 'share_price', 'change1d', 'market_cap', 'earnings', 'marketcap', 'shareprice', 'change_1_day']
+Sinonimi computati:['market_cap', 'master_cap', 'market_capitalization_usd', 'earnings', 'pricecap', 'revenue', 'marketcap']
 Sinonimi reali:['revenue']
 Intersezione:{'revenue'}
-Computato - TGT:{'rank', 'change1y', 'employees', 'master_cap', 'change_1_year', 'pricecap', 'price', 'change_1day', 'id', 'market_capitalization_usd', 'change_1year', 'share_price', 'change1d', 'market_cap', 'earnings', 'marketcap', 'shareprice', 'change_1_day'}
+Computato - TGT:{'market_cap', 'master_cap', 'earnings', 'pricecap', 'market_capitalization_usd', 'marketcap'}
 TGT- Computato:set()
-Jaccard score:0.05263157894736842
-Elemento: change_1_year
-Sinonimi computati:['rank', 'revenue', 'change1y', 'employees', 'master_cap', 'change_1_year', 'pricecap', 'price', 'change_1day', 'id', 'market_capitalization_usd', 'change_1year', 'share_price', 'change1d', 'market_cap', 'earnings', 'marketcap', 'shareprice', 'change_1_day']
-Sinonimi reali:['change1y', 'change_1_year', 'change_1year']
-Intersezione:{'change_1_year', 'change1y', 'change_1year'}
-Computato - TGT:{'rank', 'revenue', 'employees', 'master_cap', 'pricecap', 'price', 'change_1day', 'id', 'market_capitalization_usd', 'share_price', 'change1d', 'market_cap', 'earnings', 'marketcap', 'shareprice', 'change_1_day'}
-TGT- Computato:set()
-Jaccard score:0.15789473684210525
-Elemento: pricecap
-Sinonimi computati:['rank', 'revenue', 'change1y', 'employees', 'master_cap', 'change_1_year', 'pricecap', 'price', 'change_1day', 'id', 'market_capitalization_usd', 'change_1year', 'share_price', 'change1d', 'market_cap', 'earnings', 'marketcap', 'shareprice', 'change_1_day']
+Jaccard score:0.14285714285714285
+Elemento: marketcap
+Sinonimi computati:['market_cap', 'master_cap', 'earnings', 'pricecap', 'market_capitalization_usd', 'revenue', 'marketcap']
 Sinonimi reali:['market_cap', 'market_capitalization_usd', 'marketcap', 'master_cap', 'pricecap']
-Intersezione:{'pricecap', 'market_capitalization_usd', 'market_cap', 'master_cap', 'marketcap'}
-Computato - TGT:{'price', 'change_1day', 'id', 'change_1year', 'rank', 'share_price', 'revenue', 'change1y', 'change1d', 'employees', 'earnings', 'change_1_year', 'shareprice', 'change_1_day'}
+Intersezione:{'market_cap', 'master_cap', 'pricecap', 'market_capitalization_usd', 'marketcap'}
+Computato - TGT:{'earnings', 'revenue'}
 TGT- Computato:set()
-Jaccard score:0.2631578947368421
-Elemento: price
-Sinonimi computati:['rank', 'revenue', 'change1y', 'employees', 'master_cap', 'change_1_year', 'pricecap', 'price', 'change_1day', 'id', 'market_capitalization_usd', 'change_1year', 'share_price', 'change1d', 'market_cap', 'earnings', 'marketcap', 'shareprice', 'change_1_day']
-Sinonimi reali:['price', 'share_price', 'shareprice']
-Intersezione:{'share_price', 'price', 'shareprice'}
-Computato - TGT:{'rank', 'revenue', 'change1y', 'employees', 'master_cap', 'change_1_year', 'pricecap', 'change_1day', 'id', 'market_capitalization_usd', 'change_1year', 'change1d', 'market_cap', 'earnings', 'marketcap', 'change_1_day'}
-TGT- Computato:set()
-Jaccard score:0.15789473684210525
-Elemento: change_1year
-Sinonimi computati:['rank', 'revenue', 'change1y', 'employees', 'master_cap', 'change_1_year', 'pricecap', 'price', 'change_1day', 'id', 'market_capitalization_usd', 'change_1year', 'share_price', 'change1d', 'market_cap', 'earnings', 'marketcap', 'shareprice', 'change_1_day']
-Sinonimi reali:['change1y', 'change_1_year', 'change_1year']
-Intersezione:{'change_1_year', 'change1y', 'change_1year'}
-Computato - TGT:{'rank', 'revenue', 'employees', 'master_cap', 'pricecap', 'price', 'change_1day', 'id', 'market_capitalization_usd', 'share_price', 'change1d', 'market_cap', 'earnings', 'marketcap', 'shareprice', 'change_1_day'}
-TGT- Computato:set()
-Jaccard score:0.15789473684210525
-Elemento: change1d
-Sinonimi computati:['rank', 'revenue', 'change1y', 'employees', 'master_cap', 'change_1_year', 'pricecap', 'price', 'change_1day', 'id', 'market_capitalization_usd', 'change_1year', 'share_price', 'change1d', 'market_cap', 'earnings', 'marketcap', 'shareprice', 'change_1_day']
-Sinonimi reali:['change1d', 'change_1_day', 'change_1day']
-Intersezione:{'change_1day', 'change_1_day', 'change1d'}
-Computato - TGT:{'rank', 'revenue', 'change1y', 'employees', 'master_cap', 'change_1_year', 'pricecap', 'price', 'id', 'market_capitalization_usd', 'change_1year', 'share_price', 'market_cap', 'earnings', 'marketcap', 'shareprice'}
-TGT- Computato:set()
-Jaccard score:0.15789473684210525
-Elemento: change_1_day
-Sinonimi computati:['rank', 'revenue', 'change1y', 'employees', 'master_cap', 'change_1_year', 'pricecap', 'price', 'change_1day', 'id', 'market_capitalization_usd', 'change_1year', 'share_price', 'change1d', 'market_cap', 'earnings', 'marketcap', 'shareprice', 'change_1_day']
-Sinonimi reali:['change1d', 'change_1_day', 'change_1day']
-Intersezione:{'change_1day', 'change_1_day', 'change1d'}
-Computato - TGT:{'rank', 'revenue', 'change1y', 'employees', 'master_cap', 'change_1_year', 'pricecap', 'price', 'id', 'market_capitalization_usd', 'change_1year', 'share_price', 'market_cap', 'earnings', 'marketcap', 'shareprice'}
-TGT- Computato:set()
-Jaccard score:0.15789473684210525
+Jaccard score:0.7142857142857143
 Elemento: country
 Sinonimi computati:['country']
 Sinonimi reali:['country']
@@ -146,6 +76,69 @@ Intersezione:{'country'}
 Computato - TGT:set()
 TGT- Computato:set()
 Jaccard score:1.0
+Elemento: change_1year
+Sinonimi computati:['change_1year', 'shareprice', 'change1d', 'change_1_year', 'share_price', 'change1y', 'price', 'change_1_day', 'rank', 'change_1day']
+Sinonimi reali:['change1y', 'change_1_year', 'change_1year']
+Intersezione:{'change_1_year', 'change_1year', 'change1y'}
+Computato - TGT:{'shareprice', 'change1d', 'share_price', 'price', 'change_1_day', 'rank', 'change_1day'}
+TGT- Computato:set()
+Jaccard score:0.3
+Elemento: shareprice
+Sinonimi computati:['change_1year', 'shareprice', 'change1d', 'change_1_year', 'share_price', 'change1y', 'price', 'change_1_day', 'rank', 'change_1day']
+Sinonimi reali:['price', 'share_price', 'shareprice']
+Intersezione:{'share_price', 'shareprice', 'price'}
+Computato - TGT:{'change_1year', 'change1d', 'change_1_year', 'change1y', 'change_1_day', 'rank', 'change_1day'}
+TGT- Computato:set()
+Jaccard score:0.3
+Elemento: change1d
+Sinonimi computati:['change_1year', 'shareprice', 'change1d', 'change_1_year', 'share_price', 'change1y', 'price', 'change_1_day', 'rank', 'change_1day']
+Sinonimi reali:['change1d', 'change_1_day', 'change_1day']
+Intersezione:{'change1d', 'change_1_day', 'change_1day'}
+Computato - TGT:{'change_1year', 'shareprice', 'change_1_year', 'share_price', 'change1y', 'price', 'rank'}
+TGT- Computato:set()
+Jaccard score:0.3
+Elemento: change_1_year
+Sinonimi computati:['change_1year', 'shareprice', 'change1d', 'change_1_year', 'share_price', 'change1y', 'price', 'change_1_day', 'rank', 'change_1day']
+Sinonimi reali:['change1y', 'change_1_year', 'change_1year']
+Intersezione:{'change_1_year', 'change_1year', 'change1y'}
+Computato - TGT:{'shareprice', 'change1d', 'share_price', 'price', 'change_1_day', 'rank', 'change_1day'}
+TGT- Computato:set()
+Jaccard score:0.3
+Elemento: share_price
+Sinonimi computati:['change_1year', 'shareprice', 'change1d', 'change_1_year', 'share_price', 'change1y', 'price', 'change_1_day', 'rank', 'change_1day']
+Sinonimi reali:['price', 'share_price', 'shareprice']
+Intersezione:{'share_price', 'shareprice', 'price'}
+Computato - TGT:{'change_1year', 'change1d', 'change_1_year', 'change1y', 'change_1_day', 'rank', 'change_1day'}
+TGT- Computato:set()
+Jaccard score:0.3
+Elemento: change1y
+Sinonimi computati:['change_1year', 'shareprice', 'change1d', 'change_1_year', 'share_price', 'change1y', 'price', 'change_1_day', 'rank', 'change_1day']
+Sinonimi reali:['change1y', 'change_1_year', 'change_1year']
+Intersezione:{'change_1_year', 'change_1year', 'change1y'}
+Computato - TGT:{'shareprice', 'change1d', 'share_price', 'price', 'change_1_day', 'rank', 'change_1day'}
+TGT- Computato:set()
+Jaccard score:0.3
+Elemento: price
+Sinonimi computati:['change_1year', 'shareprice', 'change1d', 'change_1_year', 'share_price', 'change1y', 'price', 'change_1_day', 'rank', 'change_1day']
+Sinonimi reali:['price', 'share_price', 'shareprice']
+Intersezione:{'share_price', 'shareprice', 'price'}
+Computato - TGT:{'change_1year', 'change1d', 'change_1_year', 'change1y', 'change_1_day', 'rank', 'change_1day'}
+TGT- Computato:set()
+Jaccard score:0.3
+Elemento: change_1_day
+Sinonimi computati:['change_1year', 'shareprice', 'change1d', 'change_1_year', 'share_price', 'change1y', 'price', 'change_1_day', 'rank', 'change_1day']
+Sinonimi reali:['change1d', 'change_1_day', 'change_1day']
+Intersezione:{'change1d', 'change_1_day', 'change_1day'}
+Computato - TGT:{'change_1year', 'shareprice', 'change_1_year', 'share_price', 'change1y', 'price', 'rank'}
+TGT- Computato:set()
+Jaccard score:0.3
+Elemento: change_1day
+Sinonimi computati:['change_1year', 'shareprice', 'change1d', 'change_1_year', 'share_price', 'change1y', 'price', 'change_1_day', 'rank', 'change_1day']
+Sinonimi reali:['change1d', 'change_1_day', 'change_1day']
+Intersezione:{'change1d', 'change_1_day', 'change_1day'}
+Computato - TGT:{'change_1year', 'shareprice', 'change_1_year', 'share_price', 'change1y', 'price', 'rank'}
+TGT- Computato:set()
+Jaccard score:0.3
 Elemento: categories
 Sinonimi computati:['categories']
 Sinonimi reali:['categories']
@@ -153,41 +146,34 @@ Intersezione:{'categories'}
 Computato - TGT:set()
 TGT- Computato:set()
 Jaccard score:1.0
-Elemento: company_code
-Sinonimi computati:['symbol', 'code', 'codice', 'company_code']
+Elemento: code
+Sinonimi computati:['company_code', 'symbol', 'code', 'codice']
 Sinonimi reali:['code', 'codice', 'company_code', 'symbol']
-Intersezione:{'symbol', 'code', 'company_code', 'codice'}
+Intersezione:{'company_code', 'symbol', 'code', 'codice'}
 Computato - TGT:set()
 TGT- Computato:set()
 Jaccard score:1.0
 Elemento: symbol
-Sinonimi computati:['symbol', 'code', 'codice', 'company_code']
+Sinonimi computati:['company_code', 'symbol', 'code', 'codice']
 Sinonimi reali:['code', 'codice', 'company_code', 'symbol']
-Intersezione:{'symbol', 'code', 'company_code', 'codice'}
-Computato - TGT:set()
-TGT- Computato:set()
-Jaccard score:1.0
-Elemento: code
-Sinonimi computati:['symbol', 'code', 'codice', 'company_code']
-Sinonimi reali:['code', 'codice', 'company_code', 'symbol']
-Intersezione:{'symbol', 'code', 'company_code', 'codice'}
+Intersezione:{'company_code', 'symbol', 'code', 'codice'}
 Computato - TGT:set()
 TGT- Computato:set()
 Jaccard score:1.0
 Elemento: codice
-Sinonimi computati:['symbol', 'code', 'codice', 'company_code']
+Sinonimi computati:['company_code', 'symbol', 'code', 'codice']
 Sinonimi reali:['code', 'codice', 'company_code', 'symbol']
-Intersezione:{'symbol', 'code', 'company_code', 'codice'}
+Intersezione:{'company_code', 'symbol', 'code', 'codice'}
 Computato - TGT:set()
 TGT- Computato:set()
 Jaccard score:1.0
-Elemento: shares
-Sinonimi computati:['rank', 'shares']
-Sinonimi reali:['shares']
-Intersezione:{'shares'}
-Computato - TGT:{'rank'}
+Elemento: company_code
+Sinonimi computati:['company_code', 'symbol', 'code', 'codice']
+Sinonimi reali:['code', 'codice', 'company_code', 'symbol']
+Intersezione:{'company_code', 'symbol', 'code', 'codice'}
+Computato - TGT:set()
 TGT- Computato:set()
-Jaccard score:0.5
+Jaccard score:1.0
 Elemento: url
 Sinonimi computati:['url']
 Sinonimi reali:['url']
@@ -195,4 +181,18 @@ Intersezione:{'url'}
 Computato - TGT:set()
 TGT- Computato:set()
 Jaccard score:1.0
-AVG valori extra: 10.285714285714286
+Elemento: shares
+Sinonimi computati:['shares']
+Sinonimi reali:['shares']
+Intersezione:{'shares'}
+Computato - TGT:set()
+TGT- Computato:set()
+Jaccard score:1.0
+Elemento: employees
+Sinonimi computati:['employees']
+Sinonimi reali:['employees']
+Intersezione:{'employees'}
+Computato - TGT:set()
+TGT- Computato:set()
+Jaccard score:1.0
+AVG valori extra: 3.357142857142857

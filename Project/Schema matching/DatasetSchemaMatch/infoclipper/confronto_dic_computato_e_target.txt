@@ -14,23 +14,23 @@ Computato - TGT:set()
 TGT- Computato:set()
 Jaccard score:1.0
 Elemento: name
-Sinonimi computati:['name']
+Sinonimi computati:['name', 'address_name']
 Sinonimi reali:['name']
 Intersezione:{'name'}
-Computato - TGT:set()
+Computato - TGT:{'address_name'}
 TGT- Computato:set()
-Jaccard score:1.0
+Jaccard score:0.5
+Elemento: address_name
+Sinonimi computati:['name', 'address_name']
+Sinonimi reali:['address_name']
+Intersezione:{'address_name'}
+Computato - TGT:{'name'}
+TGT- Computato:set()
+Jaccard score:0.5
 Elemento: trade_name
 Sinonimi computati:['trade_name']
 Sinonimi reali:['trade_name']
 Intersezione:{'trade_name'}
-Computato - TGT:set()
-TGT- Computato:set()
-Jaccard score:1.0
-Elemento: address_name
-Sinonimi computati:['address_name']
-Sinonimi reali:['address_name']
-Intersezione:{'address_name'}
 Computato - TGT:set()
 TGT- Computato:set()
 Jaccard score:1.0
@@ -69,4 +69,4 @@ Intersezione:{'country'}
 Computato - TGT:{'state'}
 TGT- Computato:set()
 Jaccard score:0.5
-AVG valori extra: 0.4
+AVG valori extra: 0.6
