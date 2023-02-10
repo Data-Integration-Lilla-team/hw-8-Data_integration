@@ -1,5 +1,5 @@
 import os
-from name_correlation import NameCorr
+from name_correlation_final import NameCorr
 from data_cluster import ClusterData
 import pandas as pd
 from evaluator import Eval
@@ -14,22 +14,27 @@ Per lo scopo, implementa la seguente pipeline:
 4. Creazione del Dizionario dei sinonimi mediante utilizzo di Valentine
 '''
 
-class MatchingModule:
+class MatchingModule_final:
 
     def __init__(self,k):
         self.base_path=''
+        self.path_destinazione='Project\\Schema matching\\SchemaMatchingValentine\\files_matching\\files_vari'
 
+        self.inverted_index='Project\\Schema matching\\SchemaMatchingValentine\\files_matching\\files_vari\\inverted_index.txt'
+        
         self.file_all_columns4ds='colonnePerdataset.txt'
 
-        self.file_inverted_index='indice_invertito.txt'
+        self.test_set='Project\\Schema matching\\SchemaMatchingValentine\\files_matching\\validation_set\\column_sinonimi.txt'
 
-        self.path_destinazione='Project\\Schema matching\\DatasetSchemaMatch\\'+k         #dove andranno tutte le elaborazioni
+        
+
+        #dove andranno tutte le elaborazioni
 
         self.path_sinonimus_dic=self.path_destinazione+'\\'+'column_sinonimi.txt'
 
          #prestazioni pre_valentine
         self.name_file_valutazione_pre_val='prestazione_pre_val.txt'
-        self.path_file_valutazione_pre_val='Project\\Schema matching\\Matching'+'\\'+self.name_file_valutazione_pre_val
+        self.path_file_valutazione_pre_val='Project\\Schema matching\\SchemaMatchingValentine\\files_matching\\prestazioni'+'\\'+self.name_file_valutazione_pre_val
 
         #dic_utlimato
         self.name_file_dic_sin_pre_val='dic_pre_val.txt'
@@ -50,13 +55,13 @@ class MatchingModule:
 #k 02-GioPonSpiz.csv v Project\Dataset\Clusters_CSV\original\disfold\02-GioPonSpiz.csv
 #k 03-gren.csv v Project\Dataset\Clusters_CSV\original\disfold\03-gren.csv
 #k 04-iGMM.csv v Project\Dataset\Clusters_CSV\original\disfold\04-iGMM.csv
-    def get_files_name(self,base_path):
-        file_names=dict()                  
-        for f in os.listdir(base_path):
-            file=os.path.join(base_path,f)
-            if os.path.isfile(file):
-                
-                    file_names[f]=file
+    def get_files_name(self,elements):
+        file_names=dict()
+        for k in elements:
+            name_file=k[0]
+            path=k[1]
+            file_names[name_file]=path                  
+        
         return file_names
 
 
@@ -88,23 +93,14 @@ class MatchingModule:
         return values
 
     def create_validation_sic_dic(self):
-        d = {}
-        with open(self.path_sinonimus_dic) as f:
-            for line in f:
-                if '{' not in line and '}' not in line:
-                    elementi= line.split(':')
-                    key=elementi[0]
-                    values=elementi[1]
-                    
-                    list_val=self.create_list_from_vect(values)
-                    d[key]=list_val
-
-            
-            for k in d.keys():
-                if len(d[k])==0:
-                    print('errore')
         
-        return d
+        with open(self.test_set) as f:
+            data=f.read()
+            
+        inverted_index=json.loads(data)
+
+        return inverted_index
+            
 
 
                 
@@ -141,15 +137,20 @@ class MatchingModule:
 
         
         file_names=self.get_files_name(path_cluster)
+
         #computazione della name correlation
         print(clusterName)
         nameCorr=NameCorr(clusterName)
         dic_name_correlation=nameCorr.computeCorr(file_names,validation_set)
-        #for k in dic_name_correlation.keys():
-        #   print(k,dic_name_correlation[k])
+        eval=Eval()
+        score=eval.eval_print(dic_name_correlation,validation_set)
+        print('Punteggio jaccard name correlation',score)
+
+        
 
         #calcola il numero di attributi da imporre come massimo per cluster
         #max cluster=max columns distinte
+    ''' 
         max_clusters=self.compute_max_clusters(file_names)-1
 
         #computazione clustering data
@@ -199,7 +200,7 @@ class MatchingModule:
             stringa=stringa+'AVG valori extra: ' +str(avg_valori_extra)+'\n'
             f.write(stringa)
 
-            
+    '''      
 
 
                     

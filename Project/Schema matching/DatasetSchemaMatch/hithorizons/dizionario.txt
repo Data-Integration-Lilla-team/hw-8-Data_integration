@@ -1,10 +1,10 @@
 {
 "address":["address"],
-"est_of_ownership":['est_of_ownership'],
-"hhid":['hhid'],
-"industry":['industry'],
-"name":['name'],
-"country":['nation'],
-"sic_code":['sic_code'],
-"type":['type']
+"est_of_ownership":["est_of_ownership"],
+"hhid":["hhid"],
+"industry":["industry"],
+"name":["name"],
+"country":["nation"],
+"sic_code":["sic_code"],
+"type":["type"]
 }
