@@ -19,7 +19,8 @@ def make(cluster_path, cluster_folder_name, dict_synonyms_path, schema_path):
                 tmp = token.split("-")
                 inverted_synonym_index[tmp[2]] = main_token
 
-        base_schema = list(inverted_synonym_index.keys())
+        base_schema = list(dict_synonyms.keys())
+        print(base_schema)
 
         df = pd.DataFrame(columns=base_schema)
         for filename in os.listdir(cluster_path):
@@ -30,13 +31,12 @@ def make(cluster_path, cluster_folder_name, dict_synonyms_path, schema_path):
             column_rename = {}
             tmp = pd.read_csv(dataset_path)
             for column in list(tmp.columns):
-                if column in base_schema:
+                if column in base_schema and column in inverted_synonym_index.keys():
                     column_rename[column] = inverted_synonym_index[column]
 
             df_tmp = pd.read_csv(dataset_path)
             df_tmp = df_tmp.rename(columns=column_rename)
-            df_tmp = df_tmp[df_tmp.columns.intersection(column_rename.keys())]
-            # print(df_tmp.columns)
+            df_tmp = df_tmp[df_tmp.columns.intersection(column_rename.values())]
             df = pd.concat([df, df_tmp])
 
         df.to_csv(schema_path + cluster_folder_name + ".csv", index=False)

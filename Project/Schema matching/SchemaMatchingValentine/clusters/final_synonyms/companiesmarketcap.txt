@@ -37,7 +37,7 @@
         "01-DDD-change1d",
         "00-avengers-change_1_day"    
     ],
-	"change_1day": [
+	"change_1year": [
 		"00-avengers-change_1_year",
 		"04-iGMM-change_1year",
         "01-DDD-change1y"

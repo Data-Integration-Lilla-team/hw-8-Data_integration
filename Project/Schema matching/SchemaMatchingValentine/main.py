@@ -84,7 +84,7 @@ if __name__ == '__main__':
     #task1(clusters_datasets_base_path, clusters_info_path, clusters_filename_synonym, clusters_columns)
     #task2(clusters_columns, clusters_dictionary_score, clusters_plot, 3000, 8)
     #task3(clusters_dictionary_score, clusters_synonyms, 0.1)
-    #task4(clusters_datasets_base_path, clusters_final_synonyms, clusters_schema)
+    task4(clusters_datasets_base_path, clusters_final_synonyms, clusters_schema)
 
     final_datasets_base_path = ".\\clusters\\schema\\"
     final_info_path = "..\\DatasetSchemaMatch\\"
