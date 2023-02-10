@@ -31,7 +31,7 @@ def make(cluster_path, cluster_folder_name, dict_synonyms_path, schema_path):
             column_rename = {}
             tmp = pd.read_csv(dataset_path)
             for column in list(tmp.columns):
-                if column in base_schema and column in inverted_synonym_index.keys():
+                if column in inverted_synonym_index.keys():
                     column_rename[column] = inverted_synonym_index[column]
 
             df_tmp = pd.read_csv(dataset_path)
