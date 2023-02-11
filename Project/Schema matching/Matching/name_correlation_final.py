@@ -15,7 +15,7 @@ class NameCorr:
     def __init__(self,clusterName) -> None:
 
         #thresholds
-        self.threshold=0.4
+        self.threshold=0.40
         self.max=0.6
         self.step=0.1
 
@@ -222,7 +222,7 @@ class NameCorr:
                 compute_dist=distance(List1[i],List2[j])
                 if compute_dist!=0:
                     compute_dist=1/compute_dist
-                if compute_dist>thersh or compute_dist==0:
+                if compute_dist<=thersh or compute_dist==0 or List1[i] in List2[j] or List2[j] in List1[i]:
                     tupla=(List2[j],compute_dist)
                     sim4column[List1[i]].append(tupla)
                 correlazione[List1[i]].append(compute_dist)
@@ -300,8 +300,9 @@ class NameCorr:
                 compute_dist=ngram.NGram.compare(element1,element2,N=3)
                 
                 
+                
                 correlazione[List1[i]].append(compute_dist)
-                if compute_dist>=thresh:
+                if compute_dist>=thresh or element2 in element1 or element1 in element2:
                     tupla=(List2[j],compute_dist)
                     sim4column[List1[i]].append(tupla)
 

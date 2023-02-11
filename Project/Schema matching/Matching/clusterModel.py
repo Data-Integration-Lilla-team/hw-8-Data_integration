@@ -12,9 +12,9 @@ class ClusterModel:
     def __init__(self,cluster_name):
         self.clusterName=cluster_name
 
-        self.threshold_inertia=0.20
+        self.threshold_inertia=0.25
         
-        self.path_destinazione='Project\\Schema matching\\DatasetSchemaMatch\\'+self.clusterName
+        self.path_destinazione='Project\\Schema matching\\SchemaMatchingValentine\\files_matching\\files_vari'
         
         #nome ds con cluster
         self.nome_file_ds_cluster='clustered_rows.csv'
@@ -54,14 +54,19 @@ class ClusterModel:
         cluster_2_columns=dict()
         for e in data_used.iterrows():
             col_name=self.format_name_col(e[1][0])
-           
+
             elem_type=e[1][1]
             
             
             if elem_type not in cluster_2_columns:
                 cluster_2_columns[elem_type]=set()
+                cluster_2_columns[elem_type].add(col_name)
+            else:
+                cluster_2_columns[elem_type].add(col_name)
             
-            cluster_2_columns[elem_type].add(col_name)
+            
+
+        
         return cluster_2_columns
 
 
@@ -77,9 +82,12 @@ class ClusterModel:
         for k in cluster_2_columns.keys():
             elements=cluster_2_columns[k]
             for e in elements:  #per ogni nome di colonna
-                dic_sin[e]=list(elements)
+                if e in dic_sin:
+                    dic_sin[e].union(set(elements))
+                else:
+                    dic_sin[e]=set(elements)
 
-        
+            
         return dic_sin
 
 
@@ -105,7 +113,8 @@ class ClusterModel:
     def save_infos_kmeans(self,stringa,clusters):
         clusters=clusters[['column_name','cluster']]
         clusters.to_csv(self.path_cluster)
-        with open(self.path_nome_file_dic_sin, 'w') as f:
+        with open(self.path_nome_file_dic_sin, 'a') as f:
+            stringa=stringa+'=============================\n============================\n======================'
     
             f.write(stringa)
         
@@ -119,7 +128,7 @@ class ClusterModel:
         stringa=''
         
         for k in range(2,max_clusters+1):
-            stringa=stringa+'N.Clusters'+str(k)
+            stringa=stringa+'N.Clusters: '+str(k)
             used_data=pd.DataFrame(data,columns=data.columns)
             
             km=KMeans(init='k-means++',n_clusters=k)
@@ -133,12 +142,8 @@ class ClusterModel:
             
             jaccard_dist_eval[k]=score
             stringa=stringa+' avg jaccard: '+str(score)+' Inertia:  '+str(km.inertia_)+'\n'
-            for i in dic_sin.keys():
-                stringa=stringa+i+'->'
-                for e in dic_sin[i]:
-                    stringa=stringa+str(e)+', '
-                stringa=stringa+'\n'
-            stringa=stringa+'\n'
+           
+            stringa=stringa+'================================\n'
 
             ss.append(km.inertia_)
 

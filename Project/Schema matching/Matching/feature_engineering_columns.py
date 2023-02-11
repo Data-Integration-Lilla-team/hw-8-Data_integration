@@ -40,7 +40,9 @@ class FeatureExtraction:
         regex_date2='\d{2}.\d{2}.\d{2}'
         import string
         s = set(string.ascii_lowercase)
-        
+        print('Dati analizzati')
+        col=sorted(col,)
+        print(col.head(30))
         for i in col.head(30):
             
             
@@ -62,11 +64,12 @@ class FeatureExtraction:
             elif len(inter)<0.6*len(set_chars):
                 
                 data=str(string_version).split(' ')
+                data2=str(string_version).replace('.','/')
                 if len(data)>1:
                     if data[1] in set(months):
-                        print('data')
+                        print('data ci sono i mesi')
                         return data_t
-                elif re.match(regex_date,string_version) or re.match(regex_date2,string_version):
+                elif re.match(regex_date,string_version) or re.match(regex_date,data2):
                         print('data')
                         return data_t
                 
@@ -316,8 +319,10 @@ class FeatureExtraction:
                 print('colonna:',name_column)
                 vector_features=[name_column]
                 
-                
+                sorted_values=ds[col].sort_values(ascending=False)
                 type_of_col=self.compute_features(ds[col])
+                print('Tipo di colonna',type_of_col)
+                '''
                 print(type_of_col)
                 vector_features.append(type_of_col)
                 if type_of_col==0:  #calcola le feature per la stringa, i valori numerici verranno settati a 0
@@ -335,9 +340,12 @@ class FeatureExtraction:
                 
                 
                 ds_features.append(vector_features)
+                '''
                 i=i+1
             else:
                 i+=1
 
         return ds_features
+
+    
 

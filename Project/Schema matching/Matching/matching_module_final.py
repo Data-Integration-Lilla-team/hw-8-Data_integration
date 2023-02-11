@@ -1,6 +1,6 @@
 import os
 from name_correlation_final import NameCorr
-from data_cluster import ClusterData
+from data_cluster_final import ClusterData
 import pandas as pd
 from evaluator import Eval
 import json
@@ -17,6 +17,8 @@ Per lo scopo, implementa la seguente pipeline:
 class MatchingModule_final:
 
     def __init__(self,k):
+
+        self.threshold_max_par=5.5
         self.base_path=''
         self.path_destinazione='Project\\Schema matching\\SchemaMatchingValentine\\files_matching\\files_vari'
 
@@ -65,16 +67,9 @@ class MatchingModule_final:
         return file_names
 
 
-    def compute_max_clusters(self, file_names):
-        attributes=set()
-        for k in file_names.keys():
-            path=file_names[k]
-            df=pd.read_csv(path)
-            cols=set(df.columns.values)
-            attributes.update(cols)
-        
-        
-        return len(attributes)
+    def compute_max_clusters(self, validation_set):
+        return len(validation_set.keys())
+       
 
 
 
@@ -141,8 +136,14 @@ class MatchingModule_final:
         #computazione della name correlation
         print(clusterName)
         nameCorr=NameCorr(clusterName)
+        from timeit import default_timer as timer
+
+        start = timer()
+        
         dic_name_correlation=nameCorr.computeCorr(file_names,validation_set)
         eval=Eval()
+        end = timer()
+        print('tempi name correlation',end - start)
         score=eval.eval_print(dic_name_correlation,validation_set)
         print('Punteggio jaccard name correlation',score)
 
@@ -150,17 +151,32 @@ class MatchingModule_final:
 
         #calcola il numero di attributi da imporre come massimo per cluster
         #max cluster=max columns distinte
-    ''' 
-        max_clusters=self.compute_max_clusters(file_names)-1
+        print('DATA CORRELATION')
+        max_clusters=int(self.compute_max_clusters(validation_set)*self.threshold_max_par)
+        print('CLUSTER DA ANALIZZARE:',max_clusters)
 
         #computazione clustering data
         dataClustering=ClusterData(clusterName)
-        print(clusterName)
+        print('CLUSTER NAME:',clusterName)
+        start=timer()
         dic_data_clustering=dataClustering.clusterData(file_names,max_clusters,validation_set)
+        end = timer()
+        print('tempi name data clustering',end - start)
+        dic_data_clustering_filtered=dict()
+        #prendo solo i valori dello schema mediato
+        print('cluster data')
+        for k in validation_set.keys():
+            dic_data_clustering_filtered[k]=dic_data_clustering[k]
+            print(k,dic_data_clustering[k])
+        
+        
+
+
+
 
 
         #UNIONE DEI DIZIONARI COMPUTATI
-        full_dic=self.merge_dict(dic_data_clustering,dic_name_correlation)
+        full_dic=self.merge_dict(dic_data_clustering_filtered,dic_name_correlation)
        
         evaluator=Eval()
         score=evaluator.evaluate(full_dic,validation_set)
@@ -195,12 +211,13 @@ class MatchingModule_final:
                 somma=somma+len(evaluation_dic[k][1])
                 stringa=stringa+'TGT- Computato:'+str(evaluation_dic[k][2])+'\n'
                 stringa=stringa+'Jaccard score:'+str(evaluation_dic[k][3])+'\n'
+                stringa=stringa+'========================\n'
                 
             avg_valori_extra=somma/div
             stringa=stringa+'AVG valori extra: ' +str(avg_valori_extra)+'\n'
             f.write(stringa)
 
-    '''      
+       
 
 
                     

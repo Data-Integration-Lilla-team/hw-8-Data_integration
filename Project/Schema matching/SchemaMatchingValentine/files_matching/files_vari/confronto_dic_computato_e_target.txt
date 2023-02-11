@@ -1,0 +1,82 @@
+
+Elemento: name
+Sinonimi computati:['name', 'official_name', 'address_name', 'industry', 'trade_name']
+Sinonimi reali:['name']
+Intersezione:{'name'}
+Computato - TGT:{'official_name', 'industry', 'trade_name', 'address_name'}
+TGT- Computato:set()
+Jaccard score:0.2
+========================
+Elemento: country
+Sinonimi computati:['headquarters', 'country', 'state']
+Sinonimi reali:['country', 'headquarters', 'nation']
+Intersezione:{'headquarters', 'country'}
+Computato - TGT:{'state'}
+TGT- Computato:{'nation'}
+Jaccard score:0.5
+========================
+Elemento: address
+Sinonimi computati:['address', 'address_name']
+Sinonimi reali:['address', 'address_name']
+Intersezione:{'address', 'address_name'}
+Computato - TGT:set()
+TGT- Computato:set()
+Jaccard score:1.0
+========================
+Elemento: founded
+Sinonimi computati:['est_of_ownership', 'founded', 'founders', 'foundation_year', 'founding_year']
+Sinonimi reali:['founded', 'est_of_ownership', 'foundation_year', 'founding_year']
+Intersezione:{'est_of_ownership', 'founded', 'founding_year', 'foundation_year'}
+Computato - TGT:{'founders'}
+TGT- Computato:set()
+Jaccard score:0.8
+========================
+Elemento: employees
+Sinonimi computati:['employees_number_2020', 'absolute_growth_rate_pct', 'employees_2022', 'revenue_2017_eu', 'employees_2017', 'employees_2020', 'compound_annual_growth_rate_cagr_pct', 'id', 'employees', 'number_of_employees', 'Unnamed: 0', 'rank', 'employees_number', 'index']
+Sinonimi reali:['employees', 'employees_number', 'employees_2022', 'employees_number_2020', 'number_of_employees']
+Intersezione:{'employees_2022', 'employees_number_2020', 'employees', 'number_of_employees', 'employees_number'}
+Computato - TGT:{'absolute_growth_rate_pct', 'employees_2017', 'employees_2020', 'revenue_2017_eu', 'compound_annual_growth_rate_cagr_pct', 'id', 'Unnamed: 0', 'rank', 'index'}
+TGT- Computato:set()
+Jaccard score:0.35714285714285715
+========================
+Elemento: market_cap
+Sinonimi computati:['annual_revenue_usd', 'revenue_2020_eu', 'assets', 'earnings', 'totalraised', 'total_equity_in_usd', 'market_capitalization_2022', 'market_value_jan_2020', 'sales', 'total_liabilities_in_usd', 'pricecap', 'market_cap', 'market_value', 'revenue', 'profit', 'gbp', 'market_value_jan_2021', 'annual_net_income_usd', 'total_assets_in_usd']
+Sinonimi reali:['market_cap', 'pricecap', 'market_value', 'market_capitalization_2022']
+Intersezione:{'market_value', 'pricecap', 'market_capitalization_2022', 'market_cap'}
+Computato - TGT:{'annual_revenue_usd', 'revenue_2020_eu', 'revenue', 'profit', 'market_value_jan_2020', 'gbp', 'assets', 'market_value_jan_2021', 'annual_net_income_usd', 'earnings', 'totalraised', 'total_equity_in_usd', 'total_assets_in_usd', 'sales', 'total_liabilities_in_usd'}
+TGT- Computato:set()
+Jaccard score:0.21052631578947367
+========================
+Elemento: revenue
+Sinonimi computati:['annual_revenue_usd', 'revenue_2020_eu', 'assets', 'earnings', 'revenue_2022', 'totalraised', 'total_equity_in_usd', 'market_capitalization_2022', 'market_value_jan_2020', 'sales', 'revenue_2020', 'total_liabilities_in_usd', 'pricecap', 'market_cap', 'market_value', 'revenue_2017', 'revenue', 'profit', 'gbp', 'market_value_jan_2021', 'annual_net_income_usd', 'total_assets_in_usd']
+Sinonimi reali:['revenue', 'sales', 'revenue_2020_eu', 'annual_revenue_usd']
+Intersezione:{'sales', 'annual_revenue_usd', 'revenue_2020_eu', 'revenue'}
+Computato - TGT:{'assets', 'earnings', 'revenue_2022', 'totalraised', 'total_equity_in_usd', 'market_capitalization_2022', 'market_value_jan_2020', 'revenue_2020', 'total_liabilities_in_usd', 'pricecap', 'market_cap', 'market_value', 'revenue_2017', 'profit', 'gbp', 'market_value_jan_2021', 'annual_net_income_usd', 'total_assets_in_usd'}
+TGT- Computato:set()
+Jaccard score:0.18181818181818182
+========================
+Elemento: profit
+Sinonimi computati:['annual_revenue_usd', 'revenue_2020_eu', 'assets', 'earnings', 'totalraised', 'total_equity_in_usd', 'market_capitalization_2022', 'market_value_jan_2020', 'sales', 'total_liabilities_in_usd', 'pricecap', 'market_cap', 'market_value', 'revenue', 'profit', 'gbp', 'market_value_jan_2021', 'annual_net_income_usd', 'total_assets_in_usd']
+Sinonimi reali:['profit', 'earnings', 'annual_net_income_usd']
+Intersezione:{'earnings', 'annual_net_income_usd', 'profit'}
+Computato - TGT:{'annual_revenue_usd', 'revenue_2020_eu', 'assets', 'totalraised', 'total_equity_in_usd', 'market_capitalization_2022', 'market_value_jan_2020', 'sales', 'total_liabilities_in_usd', 'pricecap', 'market_cap', 'market_value', 'revenue', 'gbp', 'market_value_jan_2021', 'total_assets_in_usd'}
+TGT- Computato:set()
+Jaccard score:0.15789473684210525
+========================
+Elemento: categories
+Sinonimi computati:['categories', 'industry']
+Sinonimi reali:['industry', 'categories', 'sector']
+Intersezione:{'categories', 'industry'}
+Computato - TGT:set()
+TGT- Computato:{'sector'}
+Jaccard score:0.6666666666666666
+========================
+Elemento: ceo
+Sinonimi computati:['ceo', 'locations', 'headquarters_sub_region', 'stage']
+Sinonimi reali:['ceo']
+Intersezione:{'ceo'}
+Computato - TGT:{'locations', 'headquarters_sub_region', 'stage'}
+TGT- Computato:set()
+Jaccard score:0.25
+========================
+AVG valori extra: 6.7
