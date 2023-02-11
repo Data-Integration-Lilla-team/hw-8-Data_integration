@@ -51,6 +51,7 @@ class ClusterData:
             team=k.replace('.csv','')
             
             
+            
             team2feature[team]=feature_extractor.extract_feature(data,team)
 
         dataset=feature_extractor.create_pandas_dataframe(team2feature)

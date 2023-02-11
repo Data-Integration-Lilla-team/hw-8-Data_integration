@@ -12,10 +12,23 @@ class Eval:
         union=(len(list(A))+len(list(B)))-intersection
         return float(intersection)/union
 
+    def eval_print(self,computed,tgt):
+        score=0
+        N=len(tgt.keys())
+        for k in tgt.keys():
+            sin_comp=set(computed[k])
+            sin_test=set(tgt[k])
+            print('Valore',k)
+            print('Computato:',sin_comp)
+            print('Reale:',sin_test)
+            score+=self.compute_jaccard(sin_comp,sin_test)
+            print('score:',score)
+        return score/N
+
     def evaluate(self,computed,tgt):
         score=0
-        N=len(computed.keys())
-        for k in computed.keys():
+        N=len(tgt.keys())
+        for k in tgt.keys():
             sin_comp=set(computed[k])
             sin_test=set(tgt[k])
             score+=self.compute_jaccard(sin_comp,sin_test)
@@ -24,7 +37,7 @@ class Eval:
 
     def eval_cardinality(self, comp,tgt):
         evaluation_dic=dict()
-        for k in comp.keys():
+        for k in tgt.keys():
             evaluation_dic[k]=[]
             com_elements=set(comp[k])
             tgt_elements=set(tgt[k])

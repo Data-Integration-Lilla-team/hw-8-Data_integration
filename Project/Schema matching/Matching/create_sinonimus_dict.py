@@ -2,8 +2,10 @@ import pandas as pd
 import os
 import numpy as np
 from matching_module import MatchingModule
+from matching_module_final import  MatchingModule_final
 from parsing_data import Parser_data
 from Levenshtein import distance
+import json
 
 '''
 questo modulo è responsabile della gestione della pipeline di creazione dei dizionari dei sinonimi.
@@ -45,7 +47,7 @@ def get_SRC_to_datasets(Sorgenti2path):
         folder_name=Sorgenti2path[k]
         list_of_files=[]
         for file in os.listdir(folder_name):
-                            #altri file non dataset
+                            
                 nameTeam=file
                 filePath=os.path.join(Sorgenti2path[k],file)
                 tupla=(nameTeam,filePath)
@@ -104,12 +106,74 @@ def create_sin_dic(sorgente2path):
 
     return dic_for_cluster
 
+#====================================================
+#=============FUNZIONI PER LO SCHEMA FINALE==========
+#====================================================
+#creo una lista contentente di tuple (nome_file, path)
+def get_SRC_to_path_final(path):
+    final_dic=dict()
+    lista_tuple_nomeFile_path=[]
+    for f in os.listdir(path):
+        file=os.path.join(path,f)
+        tupla=(f,file)
+        lista_tuple_nomeFile_path.append(tupla)
+    final_dic['finale']=lista_tuple_nomeFile_path   
+    return final_dic
+
+#creazione del dizionario finale per la creazione dello schema mediato
+def create_sin_dic_final(sorgenti2path_par):
+    
+    for k in sorgenti2path_par.keys():
+        matcher=MatchingModule_final(k)
+        print(k)
+        print(sorgenti2path_par[k])
+        matcher.create_dic_sin(sorgenti2path_par[k],k)  #la lista di tuple e un nome fake
+
+def extract_cols(elements_path):
+    import json
+    with open(elements_path) as f:
+        data = f.read()
+    
+    dictionary=json.loads(data)
+    columns=dictionary.keys()
+    return columns
+    
+        
+def create_inverted_index_final(path):
+    cluster_2_columns=dict()
+    for f in os.listdir(path):
+        cluster=f
+        print(cluster)
+        file=os.path.join(path,f)
+        for elements in os.listdir(file):
+            if elements =='dizionario.txt':
+                element_path=os.path.join(file,elements)
+                columns=extract_cols(element_path)
+                cluster_2_columns[cluster]=columns
+        
+    inverted_index=dict()
+    for k in cluster_2_columns.keys():
+        elements=cluster_2_columns[k]
+        for e in elements:
+            if e in inverted_index:
+                inverted_index[e].append(k)
+            else:
+                inverted_index[e]=[]
+                inverted_index[e].append(k)
+    
+    dictionary1 = sorted(inverted_index.items())
+    return dict(dictionary1)
         
         
+            
+        
+       
 
 
 if __name__=='__main__':  
     
+    #MATCHING MODULE PER CLUSTERS
+    '''
     base_path='Project\\Dataset\\ClustersCSV'    #path dei .csv originali
 
     #per ogni sorgente (cluster name) associamo il path del dir per raggiungere le tabelle contenute in esso 
@@ -140,7 +204,7 @@ if __name__=='__main__':
     parsed_data_path='Project\\Dataset\\ClusterParsed'
 
 
-    #MODULE
+    #MODULE per i cluster
     sorgenti2path_par=get_SRC_to_path(parsed_data_path)
        
 
@@ -148,7 +212,40 @@ if __name__=='__main__':
     
 
     #creazione del dizionario dei sinonimi
-    create_sin_dic(sorgenti2path_par)
+    #create_sin_dic(sorgenti2path_par)
+    '''
+    #MODULE finale
+    parsed_data_path='Project\\Schema matching\\SchemaMatchingValentine\\clusters\\schema'
+
+
+    
+    
+
+    sorgenti2path_par=get_SRC_to_path_final(parsed_data_path) #per ogni .csv memorizzo (nome file, path)
+
+    for k in sorgenti2path_par.keys():
+        print(k,sorgenti2path_par[k])
+
+    path_for_inverted_index='Project\\Schema matching\\DatasetSchemaMatch'
+
+    #INVERTED INDEX
+    '''
+    inverted_index_path='Project\\Schema matching\\SchemaMatchingValentine\\files_matching\\files_vari\\inverted_index.txt'
+    create_inverted_index=create_inverted_index_final(path_for_inverted_index)
+    
+    with open(inverted_index_path, 'w') as file:
+        file.write(json.dumps(create_inverted_index)) 
+    
+    '''
+    create_sin_dic_final(sorgenti2path_par)
+
+    
+   
+     
+    
+
+
+
     
     
 
