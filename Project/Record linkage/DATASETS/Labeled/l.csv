@@ -1,0 +1,51 @@
+_id,ltable_ID,rtable_ID,ltable_name,ltable_country,ltable_headquarters,ltable_address,ltable_founded,ltable_employees,ltable_market_cap,ltable_revenue,ltable_profit,ltable_industry,ltable_sector,ltable_categories,ltable_ceo,rtable_name,rtable_country,rtable_headquarters,rtable_address,rtable_founded,rtable_employees,rtable_market_cap,rtable_revenue,rtable_profit,rtable_industry,rtable_sector,rtable_categories,rtable_ceo,label
+5827,34838,6456,longfor group,china,,,,,doll_21.55 b,,,,,,,link group,,,,0,,,,,financial services,,,,0
+6888,7616,7664,lnj bhilwara group,,,,1960,,,,,fashion & textile,,,,lnj bhilwara group,,,,1960,,,,,fashion & textile,,,,1
+7675,8531,8490,l&t power development limited,,,,0,,,,,power,,,,l&t power development limited,,,,0,,,,,power,,,,1
+14934,50980,20714,lechwerke,germany,,,,,doll_4.03 b,,,,,,,lechwerke,germany,,,,,doll_4.50 b,,,,,none,,1
+14964,124677,20782,leggett & platt careers,,,,1883,,,,,retail,,,,leggett & platt,united states,,,,,doll_4.67 b,,,,,none,,1
+16046,74848,21461,lennar corporation,united states,,,,,doll_25.34 b,,,,consumer discretionary,,,lear corporation,united states,,,,,doll_8.22 b,,,,,none,,0
+16135,184308,21461,lotte corporation,,songpa district,,0,,,,,conglomerate,,,,lear corporation,united states,,,,,doll_8.22 b,,,,,none,,0
+16140,28456,21492,largan precision,taiwan,,,,,doll_9.03 b,,,,,,,largan precision,taiwan,,,,,doll_9.14 b,,,,,electronics ,,1
+16316,3261,21641,liberty shoes,,,,1954,,,,,fashion & textile,,,,liberty media,united states,,,,,doll_13.07 b,,,,,media-press entertainment ,,0
+17042,69588,22142,longi green energy technology co. ltd,china,,,,,doll_42.68 b,,,semiconductor equipment & materials,technology,,,longi green energy technology,china,,,,,doll_50.61 b,,,,,electricity energy renewable-energy ,,1
+19437,147882,24211,loews corporation,united states,,,,,doll_15.42 b,,doll_1.58 b,,,,james s. tisch,lindsay corporation,united states,,,,,doll_1.73 b,,,,,manufacturing machinery-manufacturing ,,0
+20555,41127,24948,ll lucky games,sweden,,,,,doll_7.35 m,,,,,,,ll lucky games,sweden,,,,,doll_6.28 m,,,,,video-games entertainment ,,1
+21683,94677,26196,l3harris technologies,united states,,,,,doll_47.86 b,doll_17.81 b,,,,,,liquidia technologies,united states,,,,,doll_0.42 b,,,,,biotech pharmaceuticals ,,0
+21712,31314,26248,ligand pharmaceuticals,united states,,,,,doll_1.20 b,,,,,,,lexicon pharmaceuticals,united states,,,,,doll_0.45 b,,,,,pharmaceuticals biotech ,,0
+22889,66674,27197,london stock exchange,,,,,23.261,doll_48.97 b,doll_1.94 b,doll_0.41 b,,,,,london stock exchange,uk,,,,,doll_48.97 b,,,,,,,1
+27355,64322,30208,lundin gold,,,,,,doll_2.66 b,doll_0.79 b,doll_0.27 b,,,,,lundin gold,canada,,,,,doll_2.69 b,,,,,,,1
+37086,150769,37992,livent corporation,united states,,,,,doll_3.85 b,,0.0,,,,,lindsay corporation,united states,,,,,doll_1.65 b,,,,,,,0
+37543,59155,38452,lakeland financial corp,united states,,,,,doll_1.87 b,,,,,,,lakeland bancorp,united states,,,,,doll_1.16 b,,,,,,,0
+37675,67277,38600,lci industries,,,,,13.900,doll_2.49 b,doll_5.16 b,doll_0.66 b,,,,,lsb industries,united states,,,,,doll_1.03 b,,,,,,,0
+39193,63907,40541,lument finance trust,,,,,,doll_0.10 b,doll_23.4 m,doll_11.55 m,,,,,lument finance trust,united states,,,,,doll_99.23 m,,,,,,,1
+40818,20310,42665,lhc group,united states,,,,,doll_5.05 b,,,,,healthcare ,,latham group,united states,,,,,doll_0.38 b,,,,,[],,0
+42614,45620,45620,lenzing,austria,,,,,doll_1.81 b,,,,,[],,lenzing,austria,,,,,doll_1.81 b,,,,,[],,1
+46557,27792,49290,lpl financial,united states,,,,,doll_18.33 b,,,,,,,lpl financial,united states,,,,,doll_17.07 b,,,,,,,1
+52606,54355,54997,lineage cell therapeutics,united states,,,,,doll_0.21 b,,,,,,,leap therapeutics,united states,,,,,doll_50.99 m,,,,,,,0
+57026,20587,58123,luzerner kantonalbank,switzerland,,,,,doll_3.80 b,,,,,banks financial-services ,,luzerner kantonalbank,switzerland,,,,,doll_3.82 b,,,,,,,1
+57951,18777,59017,liontown resources,australia,,,,,doll_2.10 b,,,,,['mining'],,liontown resources,australia,,,,,doll_2.10 b,,,,,,,1
+58650,30924,59333,liveramp,united states,,,,,doll_1.60 b,,,,,,,liveramp,united states,,,,,doll_1.66 b,,,,,,,1
+58790,147225,59360,lennar corporation,united states,,,,,doll_31.19 b,,doll_4.43 b,,,,jonathan m. jaffe,lindsay corporation,united states,,,,,doll_1.61 b,,,,,,,0
+60630,61704,61704,lamar advertising,,,,,3.35,doll_10.38 b,doll_1.99 b,doll_0.50 b,,,,,lamar advertising,,,,,3.35,doll_10.38 b,doll_1.99 b,doll_0.50 b,,,,,1
+61923,61265,62623,livevox,united states,,,,,doll_0.27 b,,,,,,,livevox,,,,,650.0,doll_0.26 b,doll_0.13 b,-doll_39.72 m,,,,,1
+65130,22486,65035,lg corp,south-korea,,,,,doll_10.35 b,,,,,electronics ,,lg corp,,,,,,doll_10.36 b,doll_4.64 b,doll_1.50 b,,,,,1
+66826,92328,65864,lloyds banking group,united kingdom,,,,,doll_41.34 b,doll_58.48 b,doll_7.36 b,,,,,lloyds banking group,,,,,57.955,doll_40.54 b,doll_21.51 b,doll_7.59 b,,,,,1
+67869,65890,66058,london stock exchange,,,,,23.261,doll_48.97 b,doll_1.94 b,doll_0.41 b,,,,,london stock exchange,,,,,23.261,doll_48.97 b,doll_1.94 b,doll_0.41 b,,,,,1
+68330,65864,66144,lloyds banking group,,,,,57.955,doll_40.54 b,doll_21.51 b,doll_7.59 b,,,,,lloyds banking group,,,,,57.955,doll_40.54 b,doll_21.51 b,doll_7.59 b,,,,,1
+68850,66141,66253,linde,,,,,65.293,doll_164.56 b,doll_33.76 b,doll_5.34 b,,,,,linde,,,,,65.293,doll_164.56 b,doll_33.76 b,doll_5.34 b,,,,,1
+69572,65976,66368,lloyds banking group,,,,,57.955,doll_40.54 b,doll_21.51 b,doll_7.59 b,,,,,lloyds banking group,,,,,57.955,doll_40.54 b,doll_21.51 b,doll_7.59 b,,,,,1
+71915,135896,66789,lowe's companies,united states,,,,,doll_1.42 b,,,,,,marvin ellison,lowe's companies,,,,,300.000,doll_129.60 b,doll_95.22 b,doll_10.31 b,,,,,1
+73240,140319,67375,lakala payment corporation,china,,,,,doll_3.3 m,,,,,,,lincoln national corporation,,,,,10.848,doll_6.61 b,doll_19.27 b,-doll_2.27 b,,,,,0
+75698,48639,69588,longi green energy technology,china,,,,,doll_49.16 b,,,,,,,longi green energy technology co. ltd,china,,,,,doll_42.68 b,,,semiconductor equipment & materials,technology,,,1
+90490,66589,92418,linde,,,,,65.293,doll_164.56 b,doll_33.76 b,doll_5.34 b,,,,,linde,united kingdom,,,,,doll_157.26 b,doll_30.79 b,doll_3.83 b,,,,,1
+94904,66282,94731,london stock exchange,,,,,23.261,doll_48.97 b,doll_1.94 b,doll_0.41 b,,,,,london stock exchange,united kingdom,,,,,doll_52.66 b,doll_9.27 b,,,,,,1
+98139,104726,99231,laca trade,italy,,,,5,,doll_24.74 m,,,property,,,laca trade,italy,,,,5.0,,doll_24.74 m,,,property,,,1
+138817,143422,143422,lotte fine chemical,south korea,,,,,doll_1.54 m,,,,,,,lotte fine chemical,south korea,,,,,doll_1.54 m,,,,,,,1
+139918,176074,143723,lifestyle communities,australia,,,not found,,,155 million usd,,['real estate'],,,not found,lifestyle communities,australia,,,,,doll_1.51 m,,,,,,,1
+140076,143764,143764,laurentian bank of canada,canada,,,,,doll_1.46 m,,,,,,,laurentian bank of canada,canada,,,,,doll_1.46 m,,,,,,,1
+145292,94216,147237,li auto,china,,,,,doll_22.39 b,doll_4.2 b,doll_-48.9 m,,,,,li auto inc,china,,,,,doll_30.81 b,,doll_-50.0 m,,,,,1
+148948,47470,148308,loews corporation,united states,,,,,doll_13.35 b,,,,,[],,lear corporation,united states,,,,,doll_11.16 b,,doll_373.0 m,,,,,0
+149555,54613,148440,lazydays holdings,united states,,,,,doll_0.14 b,,,,,,,lamb weston holdings,united states,,,,,doll_10.26 b,,doll_200.0 m,,,,,0
+165566,155910,155910,life360,australia,,,,,doll_1.14 b,,doll_-33.0 m,,,,,life360,australia,,,,,doll_1.14 b,,doll_-33.0 m,,,,,1
+175135,21461,184308,lear corporation,united states,,,,,doll_8.22 b,,,,,none,,lotte corporation,,songpa district,,0,,,,,conglomerate,,,,0

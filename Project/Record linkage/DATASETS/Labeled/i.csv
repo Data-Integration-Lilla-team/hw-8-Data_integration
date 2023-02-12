@@ -1,0 +1,51 @@
+_id,ltable_ID,rtable_ID,ltable_name,ltable_country,ltable_headquarters,ltable_address,ltable_founded,ltable_employees,ltable_market_cap,ltable_revenue,ltable_profit,ltable_industry,ltable_sector,ltable_categories,ltable_ceo,rtable_name,rtable_country,rtable_headquarters,rtable_address,rtable_founded,rtable_employees,rtable_market_cap,rtable_revenue,rtable_profit,rtable_industry,rtable_sector,rtable_categories,rtable_ceo,label
+2198,28006,628,indian oil,india,,,,,doll_14.29 b,,,,,,,indian railways,,,,1853,,,,,railways,,,,0
+4908,17396,1859,insteel industries,united states,,,,,doll_0.54 b,,,,,,,indofil industries,,,,1993,,,,,agro chemicals,,,,0
+11994,72557,4370,infineon technologies ag,germany,,,,,doll_45.35 b,,,semiconductors,technology,,,innoeye technologies,,,,2012,,,,,it services & consulting,,,,0
+12150,40326,4408,igarashi motors india,india,,,,,doll_150.0 m,,,,,,,igarashi motors,,,,1992,,,,,auto components,,,,1
+16687,5543,6213,in2it technologies,,,,1990,,,,,it services & consulting,,,,innovassynth technologies,,,,2002,,,,,chemicals,,,,0
+18254,7116,7116,iftm university,,,,1996,,,,,education & training,,,,iftm university,,,,1996,,,,,education & training,,,,1
+23377,11825,11825,intercom,united states,,,2011,,,,,internet software & services,,,,intercom,united states,,,2011,,,,,internet software & services,,,,1
+23603,12809,12809,improbable,united kingdom,,,,,,,,other,,,,improbable,united kingdom,,,,,,,,other,,,,1
+27254,23205,17835,international money express,united states,,,,,doll_0.90 b,,,,,financial-services ,,international money express,united states,,,,,doll_0.89 b,,,,,['financial services'],,1
+31461,1148,20770,ihg group,,,,2003,,,,,hospitality,,,,iida group,japan,,,,,doll_4.66 b,,,,,real-estate ,,0
+32022,29147,20919,itochu techno-solutions,japan,,,,,doll_5.45 b,,,,,,,itochu techno-solutions,japan,,,,,doll_5.50 b,,,,,none,,1
+36728,165620,23324,indiabulls housing finance,india,,,,,doll_1.36 m,,147 million usd,['financial services'],,,,indiabulls housing finance,india,,,,,doll_0.82 b,,,,,financial-services ,,1
+44804,48500,28702,icici bank,india,,,,,doll_77.63 b,,,,,,,idbi bank,india,,,,,doll_7.35 b,,,,,,,0
+55299,20407,34976,insight enterprises,united states,,,,,doll_3.90 b,,,,,none,,icahn enterprises,united states,,,,,doll_17.87 b,,,,,,,0
+59298,178941,36607,ing group,,amsterdam,,1991,,,,,financials,banks,,,iida group,japan,,,,,doll_4.32 b,,,,,,,0
+62546,38182,38182,inter cars,poland,,,,,doll_1.44 b,,,,,,,inter cars,poland,,,,,doll_1.44 b,,,,,,,1
+62830,31210,38313,irobot,united states,,,,,doll_1.31 b,,,,,,,irobot,united states,,,,,doll_1.31 b,,,,,,,1
+71506,36618,46517,imi plc,uk,,,,,doll_4.3 b,,,,,,,imi plc,uk,,,,,doll_4.25 b,,,,,['engineering'],,1
+73036,15095,47617,insight enterprises,united states,,,,,doll_3.87 b,,,,,,,icahn enterprises,united states,,,,,doll_17.01 b,,,,,[],,0
+73311,94533,48487,inditex,spain,,,,,doll_68.15 b,doll_32.57 b,,,,,,inditex,spain,,,,,doll_84.09 b,,,,,,,1
+76729,65491,50232,indian railway catering & tourism,,,,,1.363,doll_6.30 b,doll_0.37 b,doll_0.15 b,,,,,indian railway catering & tourism,india,,,,,doll_6.72 b,,,,,,,1
+79448,155772,51309,innovative industrial properties,united states,,,,,doll_1.17 b,,doll_112.0 m,,,,,innovative industrial,united states,,,,,doll_3.18 b,,,,,,,1
+79472,51390,51390,impinj,united states,,,,,doll_3.05 b,,,,,,,impinj,united states,,,,,doll_3.05 b,,,,,,,1
+84570,28667,55509,icici lombard,india,,,,,doll_7.55 b,,,,,,,icici bank,india,,,,,doll_75.07 b,,,,,,,1
+86523,57932,56665,indian bank,india,,,,,doll_4.40 b,,,,,,,indusind bank,india,,,,,doll_11.47 b,,,,,,,0
+87671,28718,57205,itt,united states,,,,,doll_7.29 b,,,,,,,itt,united states,,,,,doll_7.11 b,,,,,,,1
+92233,59135,59135,international seaways,united states,,,,,doll_1.91 b,,,,,,,international seaways,united states,,,,,doll_1.91 b,,,,,,,1
+96559,58242,62155,independent bank,united states,,,,,doll_3.51 b,,,,,,,independent bank group,,,,,1.543,doll_2.53 b,doll_0.60 b,doll_0.26 b,,,,,1
+97166,36766,62407,independence realty trust,united states,,,,,doll_3.87 b,,,,,,,independence realty trust,,,,,937.0,doll_4.08 b,doll_0.54 b,doll_0.18 b,,,,,1
+106531,49044,66328,imperial brands,uk,,,,,doll_23.78 b,,,,,,,imperial brands,,,,,30.3,doll_23.37 b,doll_36.35 b,doll_2.84 b,,,,,1
+106710,65899,66347,international distributions services (royal mail),,,,,179.049,doll_2.68 b,doll_16.70 b,doll_0.86 b,,,,,international distributions services (royal mail),,,,,179.049,doll_2.68 b,doll_16.70 b,doll_0.86 b,,,,,1
+115734,70658,70658,inner mongolia yili industrial group co. ltd,china,,,,,doll_36.61 b,,,packaged foods,consumer staples,,,inner mongolia yili industrial group co. ltd,china,,,,,doll_36.61 b,,,packaged foods,consumer staples,,,1
+116442,147469,70866,intact financial corporation,canada,,,,,doll_22.97 b,,doll_1.56 b,,,,charles brindamour,intact financial corporation,canada,,,,,doll_26.4 b,,,insurance—property & casualty,financials,,,1
+134661,93297,93297,interpublic group,united states,,,,,doll_13.81 b,doll_10.24 b,doll_952.8 m,,,,,interpublic group,united states,,,,,doll_13.81 b,doll_10.24 b,doll_952.8 m,,,,,1
+142263,99625,102318,ibanfirst,belgium,,,,204.0,,doll_12.06 m,,,fintech,,,ibanfirst,belgium,,,,139,,doll_8.21 m,,,fintech,,,1
+161693,138038,122855,ipg photonics corporation,united states,,,,,doll_9.13 m,,,,,,,infostretch corporation,united states,,,,,,,,,,,,0
+169922,125024,125091,inmar careers,,,,1980,,,,,information technology & services,,,,icf careers,,,,1969,,,,,management consulting,,,,0
+171194,142313,131635,impax environmental markets,uk,,,,,doll_2.12 m,,,,,,,impax environmental markets,uk,,,,,,,283 million usd,asset management,,,,1
+171815,31761,133580,indiabulls housing finance,india,,,,,doll_0.81 b,,,,,,,indiabulls housing finance,india,,,,,,,147 million usd,financial services,,,,1
+172997,183615,136090,iberdrola,,bilbao,,1992,,,,,utilities,conventional electricity,,,iberdrola,spain,,,,,doll_78.48 m,,,,,,jose ignacio sanchez galan,1
+173240,136171,136171,illumina,united states,,,,,doll_71.55 m,,,,,,john w. thompson,illumina,united states,,,,,doll_71.55 m,,,,,,john w. thompson,1
+182950,57192,139560,indian overseas bank,india,,,,,doll_7.17 b,,,,,,,indian overseas bank,india,,,,,doll_4.51 m,,,,,,,1
+193339,65315,144268,indiabulls housing finance,,,,,4.603,doll_0.81 b,doll_0.35 b,doll_0.20 b,,,,,indiabulls housing finance,india,,,,,doll_1.5 m,,,,,,,1
+195799,142849,145548,ireader technology,china,,,,,doll_1.38 m,,,,,,,insigma technology,china,,,,,doll_1.02 m,,,,,,,0
+196139,136255,145700,iqvia holdings,united states,,,,,doll_49.77 m,,,,,,ari bousbib,ies holdings,united states,,,,,doll_1.02 m,,,,,,,0
+207336,142882,149717,irobot corporation,united states,,,,,doll_2.32 m,,,,,,,iberiabank corporation,united states,,,,,0.0,,0.0,,,,,0
+208817,65181,150240,indian overseas bank,,,,,22.369,doll_7.49 b,doll_1.53 b,doll_0.24 b,,,,,indian overseas bank,india,,,,,doll_4.54 b,,doll_214.0 m,,,,,1
+223843,23995,157053,international petroleum,canada,,,,,doll_1.49 b,,,,,oil-gas energy ,,international petroleum corporation,canada,,,,,doll_932.0 m,,0.0,,,,,1
+225245,139370,163027,ig group holdings,uk,,,,,doll_5.61 m,,,,,,,integrafin holdings,uk,,,,,doll_2.44 m,,60 million usd,['asset management'],,,,0
+232562,180450,180450,ironfx,,limassol,,2010,,,,,financials,investment services,,,ironfx,,limassol,,2010,,,,,financials,investment services,,,1

@@ -1,0 +1,51 @@
+_id,ltable_ID,rtable_ID,ltable_name,ltable_country,ltable_headquarters,ltable_address,ltable_founded,ltable_employees,ltable_market_cap,ltable_revenue,ltable_profit,ltable_industry,ltable_sector,ltable_categories,ltable_ceo,rtable_name,rtable_country,rtable_headquarters,rtable_address,rtable_founded,rtable_employees,rtable_market_cap,rtable_revenue,rtable_profit,rtable_industry,rtable_sector,rtable_categories,rtable_ceo,label
+4416,69490,662,bnp paribas sa,france,,,,,doll_69.90 b,,,banks,financials,,,bnp paribas,,,,1848,,,,,financial services,,,,1
+11942,101287,3457,brilliant polymers,india,,,,90,,doll_44.02 m,,,chemicals,,,bony polymers,,,,1981,,,,,auto components,,,,0
+14182,163482,4414,breedon group,uk,,,,,doll_2.16 m,,92 million usd,['construction materials'],,,,bonn group,,,,1985,,,,,fmcg,,,,0
+30297,13981,13981,bharti airtel,india,,,,,doll_61.78 b,,,,,['telecommunication'],,bharti airtel,india,,,,,doll_61.78 b,,,,,['telecommunication'],,1
+47212,29464,20700,boston beer company,united states,,,,,doll_4.39 b,,,,,,,boston beer company,united states,,,,,doll_4.43 b,,,,,beverages alcoholic-beverages ,,1
+48272,25009,20834,biosig technologies,united states,,,,,doll_37.04 m,,,,,medical-devices ,,bwx technologies,united states,,,,,doll_5.22 b,,,,,uranium ,,0
+57395,19661,22337,bank of china,china,,,,,doll_133.02 b,,,,,banks financial-services ,,bank of ningbo,china,,,,,doll_33.23 b,,,,,none,,0
+123062,53605,33723,bioxcel therapeutics,united states,,,,,doll_0.53 b,,,,,,,biora therapeutics,united states,,,,,doll_38.11 m,,,,,,,0
+123534,33723,33826,biora therapeutics,united states,,,,,doll_38.11 m,,,,,,,bellerophon therapeutics,united states,,,,,doll_23.09 m,,,,,,,0
+131518,19661,35061,bank of china,china,,,,,doll_133.02 b,,,,,banks financial-services ,,bank of jiangsu,china,,,,,doll_16.25 b,,,,,,,0
+134648,28034,35281,bdo unibank,philippines,,,,,doll_13.77 b,,,,,,,bdo unibank,philippines,,,,,doll_12.41 b,,,,,,,1
+135174,150982,35292,bank of zhengzhou,china,,,,,doll_3.62 b,,doll_401.0 m,,,,,bank of shanghai,china,,,,,doll_12.3 b,,,,,,,0
+148000,19707,37292,bank mega,indonesia,,,,,doll_4.18 b,,,,,banks financial-services ,,bank jago,indonesia,,,,,doll_2.74 b,,,,,,,0
+176077,148138,47421,bunzl,uk,,,,,doll_12.68 b,,doll_579.0 m,,,,,bunzl,uk,,,,,doll_12.45 b,,,,,[],,1
+179834,140099,48425,bank of guiyang,china,,,,,doll_3.7 m,,,,,,,bank of china,china,,,,,doll_124.27 b,,,,,,,0
+225982,35050,56316,bolloré,france,,,,,doll_16.53 b,,,,,,,bolloré,france,,,,,doll_17.10 b,,,,,,,1
+258967,29850,61692,boyd group,canada,,,,,doll_3.40 b,,,,,,,brp group,,,,,3.4,doll_1.94 b,doll_0.89 b,doll_24.55 m,,,,,0
+263640,146622,62600,bank of china,china,,,,,doll_135.64 b,,doll_33.27 b,,,,gao yingxin,banc of california,,,,,673.0,doll_1.04 b,doll_0.33 b,doll_0.14 b,,,,,0
+267251,33723,63339,biora therapeutics,united states,,,,,doll_38.11 m,,,,,,,biora therapeutics,,,,,124.0,doll_38.11 m,doll_0.72 m,-doll_68.47 m,,,,,1
+280942,26124,65150,bank of innovation,japan,,,,,doll_0.24 b,,,,,video-games entertainment ,,bank of india,,,,,51.825,doll_4.94 b,doll_2.70 b,doll_0.62 b,,,,,0
+284793,178231,65851,bae systems,,örnsköldsvik,,2006,,,,,industrials,defense,,,bae systems,,,,,91.4,doll_31.49 b,doll_26.35 b,doll_2.84 b,,,,,1
+294823,73204,66354,bt group plc,united kingdom,,,,,doll_24.09 b,,,telecom services,communication services,,,bt group,,,,,98.4,doll_15.70 b,doll_32.00 b,doll_4.47 b,,,,,1
+302342,65885,66725,babcock international group,,,,,28.341,doll_1.85 b,doll_5.38 b,doll_0.34 b,,,,,babcock international group,,,,,28.341,doll_1.85 b,doll_5.38 b,doll_0.34 b,,,,,1
+321286,70222,70222,bhp group,australia,,,,,doll_211.25 b,,,other industrial metals & mining,basic materials,,,bhp group,australia,,,,,doll_211.25 b,,,other industrial metals & mining,basic materials,,,1
+329241,184052,70798,bata corporation,,lausanne,,0,,,,,shoemaking retail manufacture of leather and related products,,,,ball corporation,united states,,,,,doll_29.4 b,,,packaging & containers,consumer discretionary,,,0
+346524,66165,73383,babcock international group,,,,,28.341,doll_1.85 b,doll_5.38 b,doll_0.34 b,,,,,babcock international group plc,united kingdom,,,,,doll_2.16 b,,,engineering & construction,industrials,,,1
+435667,104186,100075,blue networks,germany,,,,47,,doll_6.63 m,,,technology,,,blue networks,germany,,,,47.0,,doll_6.63 m,,,technology,,,1
+439555,101931,101931,bubzi co,australia,,,,8,,doll_3.67 m,,,retail,,,bubzi co,australia,,,,8,,doll_3.67 m,,,retail,,,1
+475948,114564,114351,beauty at highfield ltd,,,,,,,,,,,,,beauty addiction ltd,,,,,,,,,,,,,0
+489575,114497,114370,beauty and the beast tattoo limited,,,,,,,,,,,,,beauty aesthetics fife limited,,,,,,,,,,,,,0
+498209,114403,114382,beauty & brawn ltd,,,,,,,,,,,,,beauty and a beasting ltd,,,,,,,,,,,,,0
+518660,114604,114409,beauty bar ldn ltd,,,,,,,,,,,,,beauty & buzz saloon ltd,,,,,,,,,,,,,0
+617963,114624,114543,beauty basis ltd,,,,,,,,,,,,,beauty angels spa ltd,,,,,,,,,,,,,0
+619336,114519,114545,beauty and the ink ltd,,,,,,,,,,,,,beauty arena ltd,,,,,,,,,,,,,0
+622793,114427,114550,beauty and fashion limited,,,,,,,,,,,,,beauty asthetics limited,,,,,,,,,,,,,0
+651985,114547,114590,beauty as limited,,,,,,,,,,,,,beauty at the gate limited,,,,,,,,,,,,,0
+671265,114593,114617,beauty at work ltd,,,,,,,,,,,,,beauty bar warsash ltd,,,,,,,,,,,,,0
+693633,114508,114648,beauty & the boutique limited,,,,,,,,,,,,,beauty bella boutique limited,,,,,,,,,,,,,0
+730496,114703,114698,beauty botanic limited,,,,,,,,,,,,,beauty born ltd,,,,,,,,,,,,,0
+736168,114588,114706,beauty at the vinery limited,,,,,,,,,,,,,beauty bounty limited,,,,,,,,,,,,,0
+763142,115486,115478,bad apple limited,,,,,,,,,,,,,bad angels limited,,,,,,,,,,,,,0
+786929,115565,115510,bad boy cleaners ltd,,,,,,,,,,,,,bad associates ltd,,,,,,,,,,,,,0
+1075698,123685,120783,budget group limited,united kingdom,,,,,,,,,,,,bre global limited,united kingdom,,,,,,,,,,,,0
+1154258,377,136665,bhushan power & steel,,,,1970,,,,,iron & steel,,,,baoshan iron & steel,china,,,,,doll_34.24 m,,,,,,ji xin zou,0
+1262165,7396,147265,best corporation,,,,1967,,,,,fashion & textile,,,,ball corporation,united states,,,,,doll_29.32 b,,doll_878.0 m,,,,john a hayes,0
+1292785,36823,150440,buzzi unicem,italy,,,,,doll_3.73 b,,,,,,,buzzi unicem,italy,,,,,doll_4.21 b,,doll_541.0 m,,,,,1
+1311832,476,152049,bank of baroda,,,,1908,,,,,banking,,,,bank of gansu,china,,,,,doll_2.69 b,,doll_83.0 m,,,,,0
+1340095,146041,154577,beijing zhidemai technology,china,,,,,doll_1.06 m,,,,,,,beijing highlander digital technology,china,,,,,doll_1.43 b,,0.0,,,,,0
+1366671,115640,165193,bad cuckoo limited,,,,,,,,,,,,,bh macro limited,jersey,,,,,doll_1.45 m,,12 million usd,['asset management'],,,,0
+1385811,184082,179953,bt group,,london,,0,,,,,telecommunications,,,,bel group,,paris,,1865,,,,,consumer goods,food products,,,0

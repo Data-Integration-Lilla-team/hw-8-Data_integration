@@ -1,0 +1,51 @@
+_id,ltable_ID,rtable_ID,ltable_name,ltable_country,ltable_headquarters,ltable_address,ltable_founded,ltable_employees,ltable_market_cap,ltable_revenue,ltable_profit,ltable_industry,ltable_sector,ltable_categories,ltable_ceo,rtable_name,rtable_country,rtable_headquarters,rtable_address,rtable_founded,rtable_employees,rtable_market_cap,rtable_revenue,rtable_profit,rtable_industry,rtable_sector,rtable_categories,rtable_ceo,label
+425,65273,226,jindal steel & power,,,,,6.2,doll_7.40 b,doll_9.33 b,doll_1.09 b,,,,,jindal steel and power,,,,1952,,,,,iron & steel,,,,0
+1063,30172,801,jk cement,india,,,,,doll_2.75 b,,,,,,,jsw cement,,,,2009,,,,,building material,,,,0
+1240,144300,917,jsti group,china,,,,,doll_1.09 m,,,,,,,jakson group,,,,1947,,,,,power,,,,0
+5599,8107,8107,junglee games,,,,2012,,,,,it services & consulting,,,,junglee games,,,,2012,,,,,it services & consulting,,,,1
+7165,10380,10380,jan-kasparkaasik,,,                        Harju maakond Tallinn Kesklinna linnaosa F. R. Faehlmanni tn 8-11 10125                            ,,,,,,,,,,jan-kasparkaasik,,,                        Harju maakond Tallinn Kesklinna linnaosa F. R. Faehlmanni tn 8-11 10125                            ,,,,,,,,,,0
+9136,59865,18057,jamieson wellness,canada,,,,,doll_1.10 b,,,,,,,jamieson wellness,canada,,,,,doll_1.10 b,,,,,['dietary supplements'],,1
+9747,37096,20527,jungheinrich,germany,,,,,doll_3.08 b,,,,,,,jungheinrich,germany,,,,,doll_3.65 b,,,,,none,,1
+9911,28843,21009,japan post insurance,japan,,,,,doll_6.64 b,,,,,,,japan post insurance,japan,,,,,doll_6.74 b,,,,,insurance ,,1
+11481,28335,22524,juniper networks,united states,,,,,doll_10.36 b,,,,,,,juniper networks,united states,,,,,doll_10.68 b,,,,,networking-hardware telecommunications-equipment tech tech-hardware ,,1
+11489,137635,22524,juniper networks,united states,,,,,doll_9.42 m,,,,,,,juniper networks,united states,,,,,doll_10.68 b,,,,,networking-hardware telecommunications-equipment tech tech-hardware ,,0
+13026,174234,24572,jeudan a/s,denmark,,,1898,,,244 million usd,,['real estate'],,,not found,jeudan,denmark,,,,,doll_2.17 b,,,,,real-estate ,,1
+13627,32429,26202,jtekt india,india,,,,,doll_0.42 b,,,,,,,jtekt india,india,,,,,doll_0.42 b,,,,,automotive-suppliers ,,1
+14006,55697,27221,johnson controls,ireland,,,,,doll_45.35 b,,,,,,,johnson controls,ireland,,,,,doll_47.26 b,,,,,,,0
+14578,149158,27463,japan post insurance,japan,,,,,doll_6.93 b,,doll_1.15 b,,,,,japan post holdings,japan,,,,,doll_30.14 b,,,,,,,0
+16737,38105,30948,jindal stainless,india,,,,,doll_1.52 b,,,,,,,jindal stainless,india,,,,,doll_1.57 b,,,,,,,0
+17695,17429,32160,jsw holdings,india,,,,,doll_0.56 b,,,,,['financial services'],,jsw holdings,india,,,,,doll_0.58 b,,,,,,,1
+18319,33584,33584,jounce therapeutics,united states,,,,,doll_63.58 m,,,,,,,jounce therapeutics,united states,,,,,doll_63.58 m,,,,,,,1
+21054,19057,37317,joyy,china,,,,,doll_2.66 b,,,,,,,joyy,china,,,,,doll_2.68 b,,,,,,,1
+21279,59601,38105,jindal stainless (hisar),india,,,,,doll_1.36 b,,,,,,,jindal stainless,india,,,,,doll_1.52 b,,,,,,,0
+24481,58617,46186,j&j snack foods,united states,,,,,doll_2.77 b,,,,,,,j&j snack foods,united states,,,,,doll_3.02 b,,,,,['food'],,1
+26348,47194,49936,jbs,brazil,,,,,doll_9.15 b,,,,,['food'],,jbs,brazil,,,,,doll_8.64 b,,,,,,,1
+29153,40190,54531,jakks pacific,united states,,,,,doll_190.0 m,,,,,,,jakks pacific,united states,,,,,doll_0.16 b,,,,,,,1
+33182,59930,60315,jeju air,south korea,,,,,doll_1.04 b,,,,,,,jin air,south korea,,,,,doll_0.75 b,,,,,,,1
+37474,66494,66270,john wood group,,,,,33.1,doll_1.32 b,doll_6.40 b,-doll_80.6 m,,,,,john wood group,,,,,33.1,doll_1.32 b,doll_6.40 b,-doll_80.6 m,,,,,1
+38570,66306,66530,jd sports fashion,,,,,73.519,doll_10.23 b,doll_11.47 b,doll_0.87 b,,,,,jd sports fashion,,,,,73.519,doll_10.23 b,doll_11.47 b,doll_0.87 b,,,,,0
+39145,65990,66662,john wood group,,,,,33.1,doll_1.32 b,doll_6.40 b,-doll_80.6 m,,,,,john wood group,,,,,33.1,doll_1.32 b,doll_6.40 b,-doll_80.6 m,,,,,1
+40218,150099,67597,john bean technologies corporation,united states,,,,,doll_4.77 b,,doll_118.0 m,,,,,john bean technologies,,,,,6.600,doll_2.96 b,doll_2.06 b,doll_0.14 b,,,,,1
+42771,66194,73235,jd sports fashion,,,,,73.519,doll_10.23 b,doll_11.47 b,doll_0.87 b,,,,,jd sports fashion plc,united kingdom,,,,,doll_10.00 b,,,specialty retail,consumer discretionary,,,1
+50634,94885,92885,jfe holdings,japan,,,,,doll_7.25 b,doll_36.46 b,,,,,,jfe holdings,japan,,,,,doll_7.25 b,doll_36.46 b,doll_2.47 b,,,,,1
+50663,30060,92932,jackson financial,united states,,,,,doll_2.98 b,,,,,,,jackson financial,united states,,,,,doll_3.93 b,doll_8.85 b,doll_3.44 b,,,,,1
+51202,21832,93175,jefferies financial group,united states,,,,,doll_8.70 b,,,,,banks financial-services ,,jefferies financial,united states,,,,,doll_7.68 b,doll_8.64 b,doll_1.41 b,,,,,1
+51722,35176,93459,jerónimo martins,portugal,,,,,doll_13.98 b,,,,,,,jeronimo martins,portugal,,,,,doll_13.7 b,doll_24.69 b,doll_547.1 m,,,,,1
+53339,27390,94388,japan post bank,japan,,,,,doll_33.80 b,,,,,,,japan post holdings,japan,,,,,doll_26.56 b,doll_103.58 b,,,,,,1
+57923,32160,117803,jsw holdings,india,,,,,doll_0.58 b,,,,,,,jkl holdings ltd,,,,,,,,,,,,,1
+62891,74147,124455,johnson & johnson,united states,,,,,doll_475.93 b,,,,healthcare,,,johnson & johnson careers,,,,1887,,,,,hospital & health care,,,,1
+64401,27463,136434,japan post holdings,japan,,,,,doll_30.14 b,,,,,,,japan post bank,japan,,,,,doll_33.22 m,,,,,,masatsugu nagato,0
+65711,66754,137239,jd sports fashion,,,,,73.519,doll_10.23 b,doll_11.47 b,doll_0.87 b,,,,,jd sports fashion,uk,,,,,doll_14.8 m,,,,,,,0
+65805,148150,137470,jack henry & associates,united states,,,,,doll_12.57 b,,doll_362.0 m,,,,,jack henry & associates,united states,,,,,doll_13.05 m,,,,,,,1
+66408,148493,137813,jefferies financial group,united states,,,,,doll_9.92 b,,doll_1.67 b,,,,,jefferies financial group,united states,,,,,doll_9.13 m,,,,,,,1
+67554,138514,138514,jafron biomedical,china,,,,,doll_5.95 m,,,,,,,jafron biomedical,china,,,,,doll_5.95 m,,,,,,,1
+86095,15340,145193,jindal stainless (hisar),india,,,,,doll_1.36 b,,,,,,,jindal stainless (hisar),india,,,,,doll_0.91 m,,,,,,,1
+92405,140923,148804,jiangsu akcome science and technology,china,,,,,doll_2.82 m,,,,,,,jiangsu zhongtian technology,china,,,,,doll_8.22 b,,doll_25.0 m,,,,,1
+96234,29298,150947,japan airport terminal,japan,,,,,doll_4.88 b,,,,,,,japan airport terminal,japan,,,,,doll_3.65 b,,doll_-184.0 m,,,,,1
+104387,62355,153400,jack in the box,,,,,1.03,doll_1.57 b,doll_1.46 b,doll_0.24 b,,,,,jack in box,united states,,,,,doll_1.88 b,,doll_165.0 m,,,,,0
+111679,145182,155862,jiangshan oupai door industry co. ltd,china,,,,,doll_1.17 m,,,,,,,jiangshan oupai door industry co. ltd,china,,,,,doll_1.15 b,,0.0,,,,,0
+115306,131771,163835,jpmorgan emerging markets investment trust,uk,,,,,,,,asset management,,,,jpmorgan american investment trust,uk,,,,,doll_1.99 m,,386 million usd,['asset management'],,,,0
+116658,47506,178765,jerónimo martins,portugal,,,,,doll_13.74 b,,,,,['retail'],,jerónimo martins,,lisbon,,1792,,,,,consumer services,retail,,,1
+116895,181291,180446,joannou & paraskevaides,,guernsey,,1961,,,,,industrials,heavy construction,,,joannou & paraskevaides,,guernsey,,1961,,,,,industrials,heavy construction,,,1
+117352,47506,183397,jerónimo martins,portugal,,,,,doll_13.74 b,,,,,['retail'],,jerónimo martins,,lisbon,,1792,,,,,consumer services,retail,,,0
+117585,17429,184264,jsw holdings,india,,,,,doll_0.56 b,,,,,['financial services'],,jg summit holdings,,robinsons equitable tower,,1990,,,,,various,,,,1

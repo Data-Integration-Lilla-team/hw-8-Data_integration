@@ -1,0 +1,51 @@
+_id,ltable_ID,rtable_ID,ltable_name,ltable_country,ltable_headquarters,ltable_address,ltable_founded,ltable_employees,ltable_market_cap,ltable_revenue,ltable_profit,ltable_industry,ltable_sector,ltable_categories,ltable_ceo,rtable_name,rtable_country,rtable_headquarters,rtable_address,rtable_founded,rtable_employees,rtable_market_cap,rtable_revenue,rtable_profit,rtable_industry,rtable_sector,rtable_categories,rtable_ceo,label
+1108,39580,660,dish tv,india,,,,,doll_400.0 m,,,,,,,dish tv,,,,2003,,,,,media & entertainment,,,,1
+8549,38378,7716,digi international,united states,,,,,doll_1.25 b,,,,,,,drums food international,,,,2007,,,,,food processing,,,,0
+8990,60443,7816,dynex capital,united states,,,,,doll_0.67 b,,,,,,,drip capital,,,,2014,,,,,financial services,,,,0
+10276,51438,8907,dixon technologies,india,,,,,doll_2.96 b,,,,,,,dlt lab technologies,,,,2017,,,,,it services & consulting,,,,0
+11692,12027,12027,dragos,united states,,,2016,,,,,cybersecurity,,,,dragos,united states,,,2016,,,,,cybersecurity,,,,1
+16163,37148,20344,daqo new energy,china,,,,,doll_2.98 b,,,,,,,daqo new energy,china,,,,,doll_3.46 b,,,,,energy renewable-energy manufacturing ,,1
+17488,21338,21338,daito trust construction,japan,,,,,doll_7.34 b,,,,,construction real-estate ,,daito trust construction,japan,,,,,doll_7.34 b,,,,,construction real-estate ,,1
+17853,146980,21965,doordash,united states,,,,,doll_45.38 b,,doll_-468.0 m,,,,tony xu,doordash,united states,,,,,doll_21.81 b,,,,,food-delivery internet food tech ,,1
+18524,136015,22229,deutsche telekom ag,germany,,,,,doll_1.01 b,,,,,,,deutsche telekom,germany,,,,,doll_109.74 b,,,,,telecommunication dax ,,1
+26583,181874,27546,deutsche bahn,,berlin,,1994,,,,,industrials,railroads,,,deutsche bank,germany,,,,,doll_25.93 b,,,,,,,1
+29550,8408,30450,detox group,,,,0,,,,,,,,,distell group,south africa,,,,,doll_2.29 b,,,,,,,0
+32061,49741,32085,deckers brands,united states,,,,,doll_10.32 b,,,,,,,designer brands,united states,,,,,doll_0.61 b,,,,,,,0
+33351,26088,32999,danimer scientific,united states,,,,,doll_0.23 b,,,,,chemicals ,,danimer scientific,united states,,,,,doll_0.21 b,,,,,,,1
+36102,49090,34800,delta air lines,united states,,,,,doll_21.99 b,,,,,,,delta air lines,united states,,,,,doll_23.1 b,,,,,,,1
+36475,56691,35407,dlf,india,,,,,doll_11.25 b,,,,,,,dlf,india,,,,,doll_11.09 b,,,,,,,1
+36504,147331,35419,docusign,united states,,,,,doll_26.9 b,,doll_-69.0 m,,,,dan springer,docusign,united states,,,,,doll_10.96 b,,,,,,,1
+41001,53047,38616,dundee precious metals,canada,,,,,doll_0.88 b,,,,,,,dundee precious metals,canada,,,,,doll_1.01 b,,,,,,,1
+41378,21893,39204,deckers brands,united states,,,,,doll_11.28 b,,,,,footwear retail ,,designer brands,united states,,,,,doll_600.0 m,,,,,,,0
+43827,27343,41357,dupont de nemours,united states,,,,,doll_37.35 b,,,,,,,dupont de nemours,united states,,,,,doll_34.62 b,,,,,['chemicals'],,1
+47379,34336,48128,dollar general,united states,,,,,doll_55.57 b,,,,,,,dollar general,united states,,,,,doll_55.66 b,,,,,['retail'],,1
+51838,24149,52273,dcm shriram,india,,,,,doll_1.67 b,,,,,chemicals agriculture ,,dcm shriram,india,,,,,doll_1.64 b,,,,,,,1
+53206,38869,53230,deluxe,united states,,,,,doll_820.0 m,,,,,,,deluxe,united states,,,,,doll_0.76 b,,,,,,,1
+55885,65940,55455,diageo,,,,,28.558,doll_103.84 b,doll_16.23 b,-doll_0.89 b,,,,,diageo,uk,,,,,doll_105.37 b,,,,,,,1
+57195,94462,55988,deutsche bank,germany,,,,,doll_24.54 b,doll_36.7 b,,,,,,deutsche bank,germany,,,,,doll_26.86 b,,,,,,,1
+58807,36246,57433,dun & bradstreet,united states,,,,,doll_5.5 b,,,,,,,dun & bradstreet,united states,,,,,doll_6.09 b,,,,,,,1
+58873,66442,57499,ds smith,,,,,29.584,doll_5.94 b,doll_9.10 b,doll_0.47 b,,,,,ds smith,uk,,,,,doll_5.82 b,,,,,,,1
+59136,49741,57855,deckers brands,united states,,,,,doll_10.32 b,,,,,,,driven brands,united states,,,,,doll_4.57 b,,,,,,,0
+59614,151162,58595,dorman products,united states,,,,,doll_3.42 b,,doll_131.0 m,,,,,dorman products,united states,,,,,doll_2.81 b,,,,,,,1
+60506,141685,58951,doosan fuel cell,south korea,,,,,doll_2.96 m,,,,,,,doosan fuel cell,south korea,,,,,doll_2.21 b,,,,,,,1
+61563,52376,59572,dht holdings,bermuda,,,,,doll_1.53 b,,,,,,,dht holdings,,,,,,doll_1.39 b,,,,,,,1
+65387,62596,62596,definitive healthcare,,,,,676.0,doll_1.30 b,doll_0.20 b,-doll_34.38 m,,,,,definitive healthcare,,,,,676.0,doll_1.30 b,doll_0.20 b,-doll_34.38 m,,,,,1
+66197,61757,63281,digital realty,,,,,3.03,doll_31.14 b,doll_4.56 b,doll_1.52 b,,,,,digital ally,,,,,146.0,doll_15.09 m,doll_39.87 m,-doll_8.1 m,,,,,0
+68530,63165,64663,dolphin entertainment,,,,,202.0,doll_23.79 m,doll_39.87 m,-doll_3.94 m,,,,,don't nod entertainment,,,,,308.0,doll_91.57 m,doll_11.89 m,-doll_8.58 m,,,,,0
+70825,65826,66442,ds smith,,,,,29.584,doll_5.94 b,doll_9.10 b,doll_0.47 b,,,,,ds smith,,,,,29.584,doll_5.94 b,doll_9.10 b,doll_0.47 b,,,,,1
+72018,59064,67280,dave & buster's,united states,,,,,doll_2.03 b,,,,,,,dave & buster's,,,,,13.783,doll_1.91 b,doll_1.58 b,doll_0.21 b,,,,,1
+75322,70486,70224,dollar general corporation,united states,,,,,doll_54.3 b,,,discount stores,consumer staples,,,danaher corporation,united states,,,,,doll_208.03 b,,,diagnostics & research,healthcare,,,0
+78986,179981,72422,dassault systèmes,,vélizy-villacoublay,,1981,,,,,technology,software,,,dassault systèmes se,france,,,,,doll_62.75 b,,,software—application,technology,,,1
+83975,73811,74052,dignity plc,united kingdom,,,,,doll_322.0 m,,,personal services,consumer discretionary,,,dianomi plc,united kingdom,,,,,doll_123.9 m,,,advertising agencies,communication services,,,0
+85519,136064,74400,deutsche post ag,germany,,,,,doll_86.16 m,,,,,,,deutsche post ag,germany,,,,,doll_59.80 b,,,,industrials,,,1
+115085,122581,123450,dynata italy srl,italy,,,,,,,,,,,,deluxe ets italy srl,italy,,,,,,,,,,,,0
+123286,181874,136563,deutsche bahn,,berlin,,1994,,,,,industrials,railroads,,,deutsche borse,germany,,,,,doll_31.68 m,,,,,,,0
+147247,135938,147176,danaher corporation,united states,,,,,doll_2.31 b,,,,,,rainer m. blair,devon energy corporation,united states,,,,,doll_33.1 b,,doll_2.81 b,,,,david a. hager,0
+149333,148195,148195,demant a/s,denmark,,,,,doll_12.07 b,,doll_372.0 m,,,,,demant a/s,denmark,,,,,doll_12.07 b,,doll_372.0 m,,,,,1
+153514,63621,149926,design therapeutics,,,,,51.0,doll_0.50 b,,-doll_59.33 m,,,,,denali therapeutics,united states,,,,,doll_5.08 b,,doll_-290.0 m,,,,,0
+157059,184157,151759,dyson (company),,st james power station,,0,,,,,household appliances,,,,denka company,japan,,,,,doll_2.9 b,,doll_190.0 m,,,,,0
+165099,62323,155380,duluth holdings,,,,,1.106,doll_0.21 b,doll_0.68 b,doll_16.18 m,,,,,delek us holdings,united states,,,,,doll_1.26 b,,doll_-203.0 m,,,,,0
+172648,174203,174203,dutch bros inc.,united states,,,1992,,,497 million usd,,['restaurants'],,,not found,dutch bros inc.,united states,,,1992,,,497 million usd,,['restaurants'],,,not found,1
+179063,184145,181874,deutsche bank,,deutsche bank twin towers,,0,,,,,banking financial services,,,,deutsche bahn,,berlin,,1994,,,,,industrials,railroads,,,1
+180777,54448,182420,digital domain,hong kong,,,,,doll_0.18 b,,,,,,,digital reality,,budapest,,1991,,,,,technology,software,,,0
+181951,94297,184145,deutsche telekom,germany,,,,,doll_91.72 b,doll_128.59 b,,,,,,deutsche bank,,deutsche bank twin towers,,0,,,,,banking financial services,,,,0

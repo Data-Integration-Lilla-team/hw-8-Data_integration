@@ -1,0 +1,51 @@
+_id,ltable_ID,rtable_ID,ltable_name,ltable_country,ltable_headquarters,ltable_address,ltable_founded,ltable_employees,ltable_market_cap,ltable_revenue,ltable_profit,ltable_industry,ltable_sector,ltable_categories,ltable_ceo,rtable_name,rtable_country,rtable_headquarters,rtable_address,rtable_founded,rtable_employees,rtable_market_cap,rtable_revenue,rtable_profit,rtable_industry,rtable_sector,rtable_categories,rtable_ceo,label
+10945,9879,2069,cellplan technologies,,,,2003,,,,,telecom,,,,c-edge technologies,,,,2006,,,,,it services & consulting,,,,0
+47072,94927,9613,china energy engineering,china,,,,,doll_4.17 b,doll_49.75 b,,,,,,chromewell engineering,,,,1958,,,,,industrial machinery,,,,0
+77005,74178,17782,comcast corporation,united states,,,,,doll_218.90 b,,,,communication services,,,chase corporation,united states,,,,,doll_0.84 b,,,,,['chemicals'],,0
+81790,139783,19604,conmed corporation,united states,,,,,doll_3.83 m,,,,,,,cabot corporation,united states,,,,,doll_4.07 b,,,,,['chemicals'],,0
+83980,25327,19944,capricor therapeutics,united states,,,,,doll_0.10 b,,,,,pharmaceuticals biotech ,,corcept therapeutics,united states,,,,,doll_2.52 b,,,,,pharmaceuticals biotech ,,0
+84340,58729,19969,commvault,united states,,,,,doll_2.57 b,,,,,,,commvault,united states,,,,,doll_2.54 b,,,,,none,,1
+120706,22501,22501,caesars entertainment,united states,,,,,doll_10.52 b,,,,,gambling entertainment ,,caesars entertainment,united states,,,,,doll_10.52 b,,,,,gambling entertainment ,,1
+158288,143258,25771,codexis,united states,,,,,doll_1.75 m,,,,,,,codexis,united states,,,,,doll_0.40 b,,,,,pharmaceuticals biotech ,,1
+212840,57409,28956,chang hwa commercial bank,taiwan,,,,,doll_6.15 b,,,,,,,chang hwa commercial bank,taiwan,,,,,doll_6.15 b,,,,,,,1
+226779,141676,30508,chesapeake utilities corporation,united states,,,,,doll_2.3 m,,,,,,,chesapeake utilities,united states,,,,,doll_2.20 b,,,,,,,1
+236054,44901,31586,ceres power,uk,,,,,doll_0.89 b,,,,,['hydrogenfuelcell'],,ceres power,uk,,,,,doll_0.90 b,,,,,,,1
+243163,64948,32277,canaan,,,,,346.0,doll_0.50 b,doll_0.94 b,doll_0.40 b,,,,,canaan,china,,,,,doll_0.50 b,,,,,,,1
+245610,7848,32860,corecard software,,,,0,,,,,it services & consulting,,,,cognyte software,israel,,,,,doll_0.25 b,,,,,,,0
+250643,63136,33345,citizens inc,,,,,215.0,doll_0.12 b,doll_0.23 b,-doll_16.21 m,,,,,citizens inc,united states,,,,,doll_0.12 b,,,,,,,1
+300883,61761,36272,clearwater paper,,,,,3.0,doll_0.61 b,doll_2.04 b,doll_0.13 b,,,,,clearwater analytics,united states,,,,,doll_5.41 b,,,,,,,0
+316588,23400,38162,cogent biosciences,united states,,,,,doll_0.88 b,,,,,pharmaceuticals biotech ,,cytek biosciences,united states,,,,,doll_1.46 b,,,,,,,0
+351652,62422,44826,cryoport,,,,,900.0,doll_1.02 b,doll_0.23 b,-doll_0.29 b,,,,,cryoport,united states,,,,,doll_0.84 b,,,,,[],,1
+406979,56681,49660,cna financial,united states,,,,,doll_11.35 b,,,,,,,cna financial,united states,,,,,doll_11.15 b,,,,,,,1
+484685,92645,56420,ctbc financial,taiwan,,,,,doll_19.63 b,doll_14.93 b,doll_1.94 b,,,,,ctbc financial holding,taiwan,,,,,doll_15.00 b,,,,,,,1
+506705,70567,58578,cintas corporation,united states,,,,,doll_44.32 b,,,specialty business services,industrials,,,corvel corporation,united states,,,,,doll_2.84 b,,,,,,,1
+510368,30654,59093,coursera,united states,,,,,doll_1.94 b,,,,,,,coursera,united states,,,,,doll_1.98 b,,,,,,,1
+536255,49566,62099,camden property trust,united states,,,,,doll_12.44 b,,,,,,,camden property trust,,,,,1.7,doll_12.56 b,doll_1.35 b,doll_0.83 b,,,,,1
+540786,63051,62408,centrus energy,,,,,266.0,doll_0.53 b,doll_0.25 b,doll_0.11 b,,,,,coterra energy,,,,,936.0,doll_19.79 b,doll_8.99 b,doll_5.19 b,,,,,0
+542678,37304,62617,cno financial group,united states,,,,,doll_2.72 b,,,,,,,cnb financial corp,,,,,659.0,doll_0.50 b,doll_0.21 b,doll_76.04 m,,,,,0
+549897,30520,63511,catalyst pharmaceuticals,united states,,,,,doll_2.19 b,,,,,,,catalyst pharmaceuticals,,,,,76.0,doll_2.19 b,doll_0.19 b,doll_84.52 m,,,,,1
+551877,29932,63840,cvr energy,united states,,,,,doll_3.20 b,,,,,,,camber energy,,,,,9.0,doll_33.73 m,doll_0.6 m,-doll_5.99 m,,,,,0
+554047,3158,64040,cec international,,,,1945,,,,,engineering & construction,,,,colliers international,,,,,17.0,doll_4.26 b,doll_4.58 b,doll_0.37 b,,,,,0
+586004,184,65033,cgi group,,,,1976,,,,,it services & consulting,,,,cj group,,,,,55.0,doll_1.82 b,doll_30.87 b,doll_3.35 b,,,,,0
+596770,72986,66511,coca-cola europacific partners plc,united kingdom,,,,,doll_22.53 b,,,beverages—non-alcoholic,consumer staples,,,coca-cola european partners,,,,,22.0,doll_25.73 b,doll_13.51 b,doll_1.56 b,,,,,1
+601460,57993,67292,comfort systems,united states,,,,,doll_4.18 b,,,,,,,comfort systems,,,,,13.200,doll_4.53 b,doll_3.87 b,doll_0.22 b,,,,,1
+607020,136699,67831,crrc corporation,china,,,,,doll_26.96 m,,,,,,liu hualong,corvel corporation,,,,,4.233,doll_2.65 b,doll_0.68 b,doll_83.68 m,,,,,0
+673899,32977,70443,community financial corporation,united states,,,,,doll_0.22 b,,,,,,,capital one financial corporation,united states,,,,,doll_59.67 b,,,credit services,financials,,,0
+698130,147640,71007,cincinnati financial corporation,united states,,,,,doll_19.12 b,,doll_2.95 b,,,,steven j. johnston,cincinnati financial corporation,united states,,,,,doll_21.99 b,,,insurance—property & casualty,financials,,,1
+784825,48525,74227,csx corporation,united states,,,,,doll_68.68 b,,,,,,,cvs health corporation,united states,,,,,doll_135.27 b,,,,healthcare,,,0
+787511,94368,74287,china shenhua energy,china,,,,,doll_62.81 b,doll_52.02 b,,,,,,china shenhua energy company ltd,china,,,,,doll_95.34 b,,,,energy,,,1
+821661,35150,75039,ctbc financial holding,taiwan,,,,,doll_14.41 b,,,,,,,ctbc financial holding co. ltd,taiwan,,,,,doll_20.15 b,,,,financials,,,1
+846897,28352,92486,country garden,china,,,,,doll_10.15 b,,,,,,,country garden holdings,china,,,,,doll_15.65 b,doll_81.13 b,doll_4.15 b,,,,,1
+851835,92645,92645,ctbc financial,taiwan,,,,,doll_19.63 b,doll_14.93 b,doll_1.94 b,,,,,ctbc financial,taiwan,,,,,doll_19.63 b,doll_14.93 b,doll_1.94 b,,,,,1
+995111,182704,104665,campari group,,milan,,1860,,,,,consumer goods,beverages,,,clair group,france,,,,119,,doll_27.91 m,,,aerospace & defence,,,0
+1047331,18600,122015,cannae holdings,united states,,,,,doll_1.80 b,,,,,,,celanese holdings llc,united states,,,,,,,,,,,,0
+1100027,148510,131594,cochlear limited,australia,,,,,doll_9.85 b,,doll_200.0 m,,,,,csr limited,australia,,,,,,,187 million usd,construction materials,,,,0
+1129506,46471,136309,cabot corporation,united states,,,,,doll_4.02 b,,,,,['chemicals'],,centene corporation,united states,,,,,doll_36.72 m,,,,,,michael f. neidorff,0
+1219842,146937,138574,citic securities company,china,,,,,doll_48.79 b,,doll_3.36 b,,,,,changjiang securities company,china,,,,,doll_6.41 m,,,,,,,0
+1426058,63712,145270,celsion corporation,,,,,29.0,doll_13.91 m,,,,,,,cymbria corporation,canada,,,,,doll_1.08 m,,,,,,,0
+1449415,29732,146124,china lesso group,china,,,,,doll_3.66 b,,,,,,,china design group,china,,,,,doll_0.83 m,,,,,,,0
+1508962,146560,147666,chevron corporation,united states,,,,,doll_241.02 b,,doll_15.62 b,,,,michael wirth,celanese corporation,united states,,,,,doll_18.73 b,,doll_1.9 b,,,,lori j. ryerkerk,0
+1547476,151499,148584,canfor corporation,canada,,,,,doll_3.11 b,,doll_1.03 b,,,,,cameco corporation,canada,,,,,doll_9.42 b,,doll_-81.0 m,,,,,0
+1766004,145039,155719,codan,australia,,,,,doll_2.0 m,,,,,,,codan,australia,,,,,doll_1.18 b,,doll_69.0 m,,,,,1
+1772344,2400,155950,cooper corporation,,,,1922,,,,,auto components,,,,cymbria corporation,canada,,,,,doll_1.13 b,,doll_195.0 m,,,,,0
+1867573,178912,183174,cnh global,,amsterdam,,1999,,,,,industrials,commercial vehicles & trucks,,,cnh global,,amsterdam,,1999,,,,,industrials,commercial vehicles & trucks,,,1

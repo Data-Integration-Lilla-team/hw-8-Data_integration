@@ -1,0 +1,51 @@
+_id,ltable_ID,rtable_ID,ltable_name,ltable_country,ltable_headquarters,ltable_address,ltable_founded,ltable_employees,ltable_market_cap,ltable_revenue,ltable_profit,ltable_industry,ltable_sector,ltable_categories,ltable_ceo,rtable_name,rtable_country,rtable_headquarters,rtable_address,rtable_founded,rtable_employees,rtable_market_cap,rtable_revenue,rtable_profit,rtable_industry,rtable_sector,rtable_categories,rtable_ceo,label
+2532,54614,1317,geojit financial services,india,,,,,doll_0.14 b,,,,,,,geojit financial services,,,,1987,,,,,,,,,1
+9516,4599,4599,gates,,,,1995,,,,,industrial automation,,,,gates,,,,1995,,,,,industrial automation,,,,1
+14583,1208,7465,government of india,,,,1950,,,,,government,,,,government of odisha,,,,0,,,,,government,,,,0
+21721,58507,15159,grupo aval,,,,,,doll_2.95 b,,,,,,,grupo aval,,,,,,doll_2.95 b,,,,,,,1
+23781,60770,17295,greenpanel industries,india,,,,,doll_0.48 b,,,,,,,greenpanel industries,india,,,,,doll_0.48 b,,,,,,,1
+25382,62008,18414,gibraltar industries,,,,,2.011,doll_1.59 b,doll_1.41 b,doll_0.12 b,,,,,gibraltar industries,united states,,,,,doll_1.52 b,,,,,,,1
+25892,150115,18657,green thumb industries,united states,,,,,doll_4.74 b,,doll_75.0 m,,,,,green thumb industries,united states,,,,,doll_1.88 b,,,,,['cannabis'],,1
+38119,16542,24074,gencor industries,united states,,,,,doll_0.15 b,,,,,,,gibraltar industries,united states,,,,,doll_1.57 b,,,,,none,,0
+44894,27064,27064,glaxosmithkline,uk,,,,,doll_72.42 b,,,,,,,glaxosmithkline,uk,,,,,doll_72.42 b,,,,,,,1
+53428,59176,30771,genesis energy,new zealand,,,,,doll_1.86 b,,,,,,,genesis energy,new zealand,,,,,doll_1.78 b,,,,,,,1
+59292,32870,32870,gigacloud technology,china,,,,,doll_0.25 b,,,,,,,gigacloud technology,china,,,,,doll_0.25 b,,,,,,,1
+59717,40315,33210,gencor industries,united states,,,,,doll_150.0 m,,,,,,,gencor industries,united states,,,,,doll_0.15 b,,,,,,,1
+62879,167400,34675,genmab a/s,denmark,,,,781,,doll_1.255 m,,,healthcare,,jan g. j. van de winkel,genmab,denmark,,,,,doll_28.35 b,,,,,,,1
+71010,25524,38156,gencor industries,united states,,,,,doll_0.15 b,,,,,none,,gibraltar industries,united states,,,,,doll_1.46 b,,,,,,,0
+76936,61716,40428,glatfelter,,,,,3.25,doll_0.15 b,doll_1.45 b,-doll_0.19 b,,,,,glatfelter,united states,,,,,doll_120.0 m,,,,,,,1
+79872,51273,42085,gelsenwasser,germany,,,,,doll_3.29 b,,,,,,,gelsenwasser,germany,,,,,doll_3.37 b,,,,,[],,1
+82028,44339,44339,garrett motion,switzerland,,,,,doll_0.48 b,,,,,['automotivesuppliers'],,garrett motion,switzerland,,,,,doll_0.48 b,,,,,['automotivesuppliers'],,1
+85994,67903,46303,grand canyon education,,,,,3.680,doll_3.53 b,doll_0.90 b,doll_0.25 b,,,,,grand canyon education,united states,,,,,doll_3.34 b,,,,,[],,1
+87783,136352,48621,general mills,united states,,,,,doll_35.05 m,,,,,,jeff harmening,general mills,united states,,,,,doll_51.83 b,,,,,,,1
+88839,49128,49128,great-west lifeco,canada,,,,,doll_20.82 b,,,,,,,great-west lifeco,canada,,,,,doll_20.82 b,,,,,,,1
+89082,27953,49358,geely,china,,,,,doll_15.09 b,,,,,,,geely,china,,,,,doll_15.52 b,,,,,,,1
+100395,40196,54425,gtpl hathway,india,,,,,doll_180.0 m,,,,,,,gtpl hathway,india,,,,,doll_0.19 b,,,,,,,1
+101387,33643,55018,golden minerals,united states,,,,,doll_51.91 m,,,,,,,golden minerals,united states,,,,,doll_46.89 m,,,,,,,1
+103636,156375,56125,grupo kuo,mexico,,,,,doll_1.04 b,,doll_136.0 m,,,,,grupo bimbo,mexico,,,,,doll_21.68 b,,,,,,,0
+104728,9,56951,genpact,,,,1997,,,,,it services & consulting,,,,genpact,,,,,,doll_8.75 b,,,,,,,1
+111277,52613,59506,graftech,united states,,,,,doll_1.28 b,,,,,,,graftech,united states,,,,,doll_1.46 b,,,,,,,1
+118364,115232,62630,good boy technologies ltd,,,,,,,,,,,,,geospace technologies,,,,,649.0,doll_59.87 m,doll_89.25 m,-doll_22.69 m,,,,,0
+126394,66112,66168,greggs,,,,,25.174,doll_3.21 b,doll_1.65 b,doll_0.19 b,,,,,greggs,,,,,25.174,doll_3.21 b,doll_1.65 b,doll_0.19 b,,,,,1
+129901,66636,69299,glaxosmithkline,,,,,90.096,doll_72.42 b,doll_42.86 b,doll_6.58 b,,,,,glaxosmithkline plc,united kingdom,,,,,doll_109.98 b,,,drug manufacturers—general,healthcare,,,1
+131933,41438,69827,great-west lifeco,canada,,,,,doll_21.07 b,,,,,[],,great-west lifeco inc.,canada,,,,,doll_27.85 b,,,insurance—life,financials,,,1
+135163,70386,70386,general dynamics corporation,united states,,,,,doll_70.55 b,,,aerospace & defense,industrials,,,general dynamics corporation,united states,,,,,doll_70.55 b,,,aerospace & defense,industrials,,,1
+158298,92589,92589,gree electric appliances,china,,,,,doll_27.82 b,doll_27.88 b,doll_3.71 b,,,,,gree electric appliances,china,,,,,doll_27.82 b,doll_27.88 b,doll_3.71 b,,,,,1
+159753,15159,93218,grupo aval,,,,,,doll_2.95 b,,,,,,,grupo aval,colombia,,,,,doll_4.78 b,doll_10.27 b,doll_879.7 m,,,,,1
+167914,98129,98129,giglio.com,italy,,,,53,,doll_25.36 m,,,ecommerce,,,giglio.com,italy,,,,53,,doll_25.36 m,,,ecommerce,,,1
+171808,98090,100090,giopato & coombes,italy,,,,17,,doll_5.47 m,,,interiors,,,giopato & coombes,italy,,,,17.0,,doll_5.47 m,,,interiors,,,1
+240394,115139,115115,good and nice limited,,,,,,,,,,,,,good alpha limited,,,,,,,,,,,,,0
+340078,123551,115304,google uk limited,united kingdom,,,,,,,,,,,,good careers limited,,,,,,,,,,,,,0
+374837,115371,115372,good citizen studio limited,,,,,,,,,,,,,good citizens ltd,,,,,,,,,,,,,1
+379127,115214,115381,good bones limited,,,,,,,,,,,,,good coaching limited,,,,,,,,,,,,,0
+404375,115178,115427,good associates limited,,,,,,,,,,,,,good consultancy limited,,,,,,,,,,,,,0
+408155,115234,115434,good boy london ltd,,,,,,,,,,,,,good cop bad cop ltd,,,,,,,,,,,,,0
+433103,111398,119933,g a & s holdings limited,,,unit20oakhilltradingestate devonshireroad worsley lancashire england m283pt,,,,,,,,,,gcp (uk) holdings limited,united kingdom,,,,,,,,,,,,0
+457145,125110,124588,gem careers,,,,2013,,,,,computer software,,,,grubhub careers,,,,2004,,,,,internet,,,,0
+463389,72424,135972,general motors company,united states,,,,,doll_62.69 b,,,auto manufacturers,consumer discretionary,,,general electric company,united states,,,,,doll_1.16 b,,,,,,,0
+474098,149429,138749,goodyear tire & rubber company,switzerland,,,,,doll_6.16 b,,doll_764.0 m,,,,,goodyear tire & rubber company,switzerland,,,,,doll_4.45 m,,,,,,,1
+521259,95082,147611,genuine parts,united states,,,,,doll_18.97 b,doll_19.7 b,,,,,,genuine parts company,united states,,,,,doll_19.79 b,,doll_898.0 m,,,,paul d. donahue,1
+585454,142260,178557,grupo lamosa,mexico,,,,,doll_1.23 m,,,,,,,grupo lo monaco,,granada,,1996,,,,,consumer goods,furnishings,,,0
+585583,93508,178558,grupo inbursa,mexico,,,,,doll_11.28 b,doll_3.45 b,doll_1.03 b,,,,,grupo puma,,madrid,,1985,,,,,industrials,building materials & fixtures,,,0
+588554,58335,181437,gn store nord,denmark,,,,,doll_3.30 b,,,,,,,gn store nord,,ballerup,,1869,,,,,health care,health care providers,,,1
+591809,14621,183612,grupo bimbo,mexico,,,,,doll_18.96 b,,,,,['food'],,grupo puma,,madrid,,1985,,,,,industrials,building materials & fixtures,,,0

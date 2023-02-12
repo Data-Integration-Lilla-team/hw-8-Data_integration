@@ -1,0 +1,51 @@
+_id,ltable_ID,rtable_ID,ltable_name,ltable_country,ltable_headquarters,ltable_address,ltable_founded,ltable_employees,ltable_market_cap,ltable_revenue,ltable_profit,ltable_industry,ltable_sector,ltable_categories,ltable_ceo,rtable_name,rtable_country,rtable_headquarters,rtable_address,rtable_founded,rtable_employees,rtable_market_cap,rtable_revenue,rtable_profit,rtable_industry,rtable_sector,rtable_categories,rtable_ceo,label
+735,148100,792,exact sciences corporation,united states,,,,,doll_13.04 b,,doll_-595.0 m,,,,,eaton corporation,,,,1911,,,,,power,,,,0
+3710,37073,2798,esab,united states,,,,,doll_3.12 b,,,,,,,esab,,,,1987,,,,,industrial machinery,,,,1
+11504,57729,8484,evoqua water technologies,united states,,,,,doll_5.00 b,,,,,,,edunext technologies,,,,2012,,,,,it services & consulting,,,,0
+12888,16493,9483,eyepoint pharmaceuticals,united states,,,,,doll_0.14 b,,,,,['pharmaceuticals'],,exemed pharmaceuticals,,,,2009,,,,,pharma,,,,0
+15305,34996,14583,eisai,japan,,,,,doll_17.52 b,,,,,,,eisai,japan,,,,,doll_20.40 b,,,,,['pharmaceuticals'],,1
+15896,52629,15317,ero copper,canada,,,,,doll_1.27 b,,,,,,,ero copper,canada,,,,,doll_1.46 b,,,,,['mining'],,1
+16748,40041,16840,emerald holding,united states,,,,,doll_230.0 m,,,,,,,emerald holding,united states,,,,,doll_0.25 b,,,,,,,1
+17939,142599,18280,equinox gold,canada,,,,,doll_2.15 m,,,,,,,equinox gold,canada,,,,,doll_1.35 b,,,,,,,1
+20978,36397,20836,euronet worldwide,united states,,,,,doll_4.97 b,,,,,,,euronet worldwide,united states,,,,,doll_5.25 b,,,,,none,,1
+22803,67332,21911,equitable holdings,,,,,12.000,doll_11.76 b,doll_15.43 b,doll_4.11 b,,,,,equitable holdings,united states,,,,,doll_11.44 b,,,,,financial-services insurance ,,1
+23291,69647,22343,electronic arts inc.,united states,,,,,doll_37.38 b,,,electronic gaming & multimedia,communication services,,,electronic arts,united states,,,,,doll_34.28 b,,,,,video-games esports entertainment tech ,,1
+24195,94993,22638,east japan railway,japan,,,,,doll_20.31 b,doll_17.67 b,,,,,,east japan railway,japan,,,,,doll_21.25 b,,,,,railways transportation ,,1
+24433,21624,22747,eqt corporation,united states,,,,,doll_12.81 b,,,,,none,,exelon corporation,united states,,,,,doll_42.66 b,,,,,electricity ,,0
+24623,48611,22871,enterprise products,united states,,,,,doll_52.95 b,,,,,,,enterprise products,united states,,,,,doll_55.98 b,,,,,oil-gas energy ,,1
+26164,143650,23807,enova international,united states,,,,,doll_1.22 m,,,,,,,enova international,united states,,,,,doll_1.28 b,,,,,financial-services ,,1
+30504,23737,26516,eagle bancorp,united states,,,,,doll_1.41 b,,,,,banks financial-services ,,essa bancorp,united states,,,,,doll_0.21 b,,,,,banks financial-services ,,0
+35465,29077,29077,element fleet management,canada,,,,,doll_5.66 b,,,,,,,element fleet management,canada,,,,,doll_5.66 b,,,,,,,1
+38592,59009,30594,exp world holdings,united states,,,,,doll_2.11 b,,,,,,,exp world holdings,united states,,,,,doll_2.04 b,,,,,,,1
+39652,59480,30930,elgi equipments,india,,,,,doll_1.48 b,,,,,,,elgi equipments,india,,,,,doll_1.59 b,,,,,,,1
+43667,54902,33557,energous,united states,,,,,doll_71.22 m,,,,,,,energous,united states,,,,,doll_69.49 m,,,,,,,1
+44357,74315,34231,essilorluxottica sa,france,,,,,doll_80.49 b,,,,healthcare,,,essilorluxottica,france,,,,,doll_82.47 b,,,,,,,1
+50377,37351,37351,ermenegildo zegna,italy,,,,,doll_2.62 b,,,,,,,ermenegildo zegna,italy,,,,,doll_2.62 b,,,,,,,1
+58956,17358,44394,ecn capital,canada,,,,,doll_0.52 b,,,,,['financial services'],,ecn capital,canada,,,,,doll_0.51 b,,,,,['financialservices'],,1
+59374,23435,44925,energy fuels,united states,,,,,doll_1.07 b,,,,,mining uranium energy ,,energy fuels,united states,,,,,doll_0.93 b,,,,,['mining'],,1
+63908,64632,49448,edenred,,,,,8.847,doll_13.36 b,doll_1.84 b,doll_0.59 b,,,,,edenred,france,,,,,doll_13.99 b,,,,,,,1
+64463,35399,49666,equitable holdings,united states,,,,,doll_11.18 b,,,,,,,equitable holdings,united states,,,,,doll_11.07 b,,,,,,,1
+67458,19228,51371,epr properties,united states,,,,,doll_3.03 b,,,,,,,epr properties,united states,,,,,doll_3.08 b,,,,,,,1
+67625,20038,51472,excelerate energy,united states,,,,,doll_2.67 b,,,,,oil-gas energy ,,excelerate energy,united states,,,,,doll_2.90 b,,,,,,,1
+71452,16914,54163,electrosteel castings,india,,,,,doll_0.28 b,,,,,,,electrosteel castings,india,,,,,doll_0.28 b,,,,,,,1
+71959,38596,54790,enanta pharmaceuticals,united states,,,,,doll_1.03 b,,,,,,,eyepoint pharmaceuticals,united states,,,,,doll_97.13 m,,,,,,,0
+75300,47518,56567,erie indemnity,united states,,,,,doll_14.15 b,,,,,['insurance'],,erie indemnity,united states,,,,,doll_12.73 b,,,,,,,1
+75823,95065,56812,evonik industries,germany,,,,,doll_12.57 b,doll_18.69 b,,,,,,evonik industries,germany,,,,,doll_10.14 b,,,,,,,1
+75955,137743,56962,euronext,netherlands,,,,,doll_12.51 m,,,,,,,euronext,netherlands,,,,,doll_8.69 b,,,,,,,1
+77475,50956,57930,essent group,bermuda,,,,,doll_4.10 b,,,,,,,essent group,,,,,,doll_4.40 b,,,,,,,1
+85400,38459,62152,employers holdings,united states,,,,,doll_1.16 b,,,,,,,everi holdings,,,,,1.55,doll_1.43 b,doll_0.75 b,doll_0.15 b,,,,,0
+85434,94616,62152,eneos holdings,japan,,,,,doll_11.38 b,doll_90.31 b,,,,,,everi holdings,,,,,1.55,doll_1.43 b,doll_0.75 b,doll_0.15 b,,,,,0
+86546,136118,62905,eaton corporation,ireland,,,,,doll_67.11 m,,,,,,craig arnold,emcore corporation,,,,,365.0,doll_45.12 m,doll_0.12 b,-doll_23.22 m,,,,,0
+88293,63130,63830,esperion therapeutics,,,,,218.0,doll_0.53 b,doll_72.05 m,-doll_0.19 b,,,,,eterna therapeutics,,,,,10.0,doll_23.84 m,,-doll_28.51 m,,,,,0
+91221,50956,67244,essent group,bermuda,,,,,doll_4.10 b,,,,,,,expedia group,,,,,14.800,doll_16.81 b,doll_11.32 b,doll_1.12 b,,,,,0
+101552,67314,72772,energy transfer partners,,,,,12.558,doll_38.83 b,doll_87.20 b,doll_8.03 b,,,,,energy transfer lp,united states,,,,,doll_30.69 b,,,oil & gas midstream,energy,,,1
+111957,92853,92853,eversource energy,united states,,,,,doll_31.72 b,doll_9.86 b,doll_1.22 b,,,,,eversource energy,united states,,,,,doll_31.72 b,doll_9.86 b,doll_1.22 b,,,,,1
+117791,99362,97362,energihem,sweden,,,,125.0,,doll_28.0 m,,,construction,,,energihem,sweden,,,,125,,doll_28.0 m,,,construction,,,1
+152510,51020,139400,enstar group,bermuda,,,,,doll_3.93 b,,,,,,,enstar group,bermuda,,,,,doll_4.25 m,,,,,,,1
+158604,45963,142821,energizer holdings,united states,,,,,doll_2.44 b,,,,,[],,everi holdings,united states,,,,,doll_2.05 m,,,,,,,0
+165128,69230,146798,eaton corporation plc,ireland,,,,,doll_62.17 b,,,specialty industrial machinery,industrials,,,eaton corporation,ireland,,,,,doll_66.91 b,,doll_2.14 b,,,,craig arnold,1
+171777,138068,148748,edison s.p.a,italy,,,,,doll_6.65 m,,,,,,,edison s.p.a,italy,,,,,doll_8.56 b,,doll_413.0 m,,,,,1
+179977,35547,153120,east west bancorp,united states,,,,,doll_9.63 b,,,,,,,eagle bancorp,united states,,,,,doll_2.01 b,,doll_176.0 m,,,,,0
+189143,27668,178541,endesa,spain,,,,,doll_21.49 b,,,,,,,endesa,,madrid,,1944,,,,,utilities,conventional electricity,,,1
+189626,54999,179577,emcore corporation,united states,,,,,doll_50.69 m,,,,,,,eaton corporation,,dublin,,1911,,,,,conglomerate,-,,,0
+189640,70197,179577,exxon mobil corporation,united states,,,,,doll_348.72 b,,,oil & gas integrated,energy,,,eaton corporation,,dublin,,1911,,,,,conglomerate,-,,,0

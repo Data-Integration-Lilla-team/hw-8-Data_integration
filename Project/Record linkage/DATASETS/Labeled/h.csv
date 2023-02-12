@@ -1,0 +1,51 @@
+_id,ltable_ID,rtable_ID,ltable_name,ltable_country,ltable_headquarters,ltable_address,ltable_founded,ltable_employees,ltable_market_cap,ltable_revenue,ltable_profit,ltable_industry,ltable_sector,ltable_categories,ltable_ceo,rtable_name,rtable_country,rtable_headquarters,rtable_address,rtable_founded,rtable_employees,rtable_market_cap,rtable_revenue,rtable_profit,rtable_industry,rtable_sector,rtable_categories,rtable_ceo,label
+174,94609,17,hartford financial services,united states,,,,,doll_23.65 b,doll_22.39 b,,,,,,hdb financial services,,,,2007,,,,,nbfc,,,,0
+1644,60832,438,hudson technologies,united states,,,,,doll_0.45 b,,,,,,,here technologies,,,,1985,,,,,it services & consulting,,,,0
+2864,661,661,hero motors company,,,,1998,,,,,automobile,,,,hero motors company,,,,1998,,,,,automobile,,,,1
+3545,45573,1021,helios technologies,united states,,,,,doll_1.74 b,,,,,['manufacturing'],,happiest minds technologies,,,,2011,,,,,it services & consulting,,,,0
+6186,30650,2333,helios technologies,united states,,,,,doll_1.95 b,,,,,,,henkel adhesives technologies,,,,1990,,,,,chemicals,,,,0
+20670,12704,12704,hopper,canada,,,,,,,,travel,,,,hopper,canada,,,,,,,,travel,,,,1
+23849,32861,16846,humacyte,united states,,,,,doll_0.25 b,,,,,,,humacyte,united states,,,,,doll_0.25 b,,,,,['biotech'],,1
+25130,31016,18318,hornbach holding,germany,,,,,doll_1.44 b,,,,,,,hornbach holding,germany,,,,,doll_1.41 b,,,,,['retail'],,1
+28411,101165,20213,hellofresh,germany,,,,4000,,doll_904.9 m,,,ecommerce,,,hellofresh,germany,,,,,doll_4.72 b,,,,,internet tech food food-delivery ,,1
+30250,57136,21392,hess midstream,united states,,,,,doll_7.46 b,,,,,,,hess midstream,united states,,,,,doll_7.67 b,,,,,oil-gas energy ,,1
+37248,40960,24831,hempacco,united states,,,,,doll_21.73 m,,,,,,,hempacco,united states,,,,,doll_25.94 m,,,,,tobacco ,,1
+42759,93485,27738,hologic,united states,,,,,doll_18.58 b,doll_5.49 b,doll_1.72 b,,,,,hologic,united states,,,,,doll_19.65 b,,,,,,,1
+45383,65012,29204,hyundai glovis,,,,,1.651,doll_5.25 b,doll_20.28 b,doll_1.14 b,,,,,hyundai glovis,s. korea,,,,,doll_5.25 b,,,,,,,1
+49987,18120,31346,hollysys automation technologie,china,,,,,doll_1.18 b,,,,,,,hollysys automation technologie,china,,,,,doll_1.17 b,,,,,,,1
+55394,3772,34255,hindustan pencils,,,,1958,,,,,fmcg,,,,hindustan unilever,india,,,,,doll_73.33 b,,,,,,,0
+57121,154026,35024,hindustan copper,india,,,,,doll_1.63 b,,doll_47.0 m,,,,,hindustan zinc,india,,,,,doll_17.03 b,,,,,,,0
+58775,41667,35829,hamamatsu,japan,,,,,doll_7.89 b,,,,,[],,hamamatsu,japan,,,,,doll_7.42 b,,,,,,,1
+62265,29493,37759,herc holdings,united states,,,,,doll_4.32 b,,,,,,,hilltop holdings,united states,,,,,doll_1.96 b,,,,,,,0
+65718,146336,39416,heg,india,,,,,doll_1.21 m,,,,,,,heg,india,,,,,doll_490.0 m,,,,,,,1
+71731,65511,43298,hindustan media ventures,,,,,1.146,doll_49.32 m,doll_89.05 m,-doll_2.72 m,,,,,hindustan media ventures,india,,,,,doll_52.44 m,,,,,['mediapress'],,1
+76509,48842,47928,halliburton,united states,,,,,doll_33.18 b,,,,,,,halliburton,united states,,,,,doll_31.82 b,,,,,[],,1
+80244,151809,49927,hang lung group,hong kong,,,,,doll_2.86 b,,doll_330.0 m,,,,,hang lung properties,hong kong,,,,,doll_8.69 b,,,,,,,1
+94379,20740,57899,hawaiian electric industries,united states,,,,,doll_4.55 b,,,,,none,,hawaiian electric industries,united states,,,,,doll_4.48 b,,,,,,,1
+94644,4462,57976,hartek group,,,,1991,,,,,engineering & construction,,,,hera group,italy,,,,,doll_4.23 b,,,,,,,0
+99831,17434,60615,hyliion,united states,,,,,doll_0.56 b,,,,,['electric vehicles'],,hyliion,united states,,,,,doll_0.56 b,,,,,,,0
+102714,44861,61661,hibbett sports,united states,,,,,doll_0.86 b,,,,,['footwear'],,hibbett sports,,,,,3.6,doll_0.92 b,doll_1.63 b,doll_0.14 b,,,,,1
+104678,145774,62621,huami corporation,china,,,,,doll_0.74 m,,,,,,,heska corporation,,,,,655.0,doll_0.84 b,doll_0.25 b,-doll_14.99 m,,,,,0
+106651,41115,63867,hoth therapeutics,united states,,,,,doll_8.17 m,,,,,,,hoth therapeutics,,,,,4.0,doll_9.26 m,,-doll_11.03 m,,,,,1
+116576,74534,69424,hp inc.,united states,,,,,doll_43.90 b,,,,technology,,,hp inc.,united states,,,,,doll_43.90 b,,,computer hardware,technology,,,1
+117235,146890,69562,hon hai precision industry,taiwan,,,,,doll_53.43 b,,doll_4.81 b,,,,yang-wei liu,hon hai precision industry co. ltd,taiwan,,,,,doll_50.75 b,,,electronic components,technology,,,1
+125359,67687,72262,herc holdings,,,,,5.600,doll_3.72 b,doll_2.53 b,doll_0.39 b,,,,,hsbc holdings plc,united kingdom,,,,,doll_140.15 b,,,banks,financials,,,0
+137488,48872,74563,hang seng bank,hong kong,,,,,doll_31.40 b,,,,,,,hang seng bank limited,hong kong,,,,,doll_41.47 b,,,,financials,,,1
+150737,30031,96584,halkbank,turkey,,,,,doll_3.02 b,,,,,,,halkbank,turkey,,,1933,not found,,doll_7.7 b,,banking,,,osman arslan,1
+152201,224,100646,huawei technologies,,,,2002,,,,,it services & consulting,,,,hashedin technologies,india,,,,558,,doll_16.64 m,,,technology,,,0
+157172,113398,113086,h & aa limited,,,,,,,,,,,,,h a amos limited,,,,,,,,,,,,,0
+191445,113133,113326,h a chunu & co limited,,,,,,,,,,,,,h. allan & son limited,,,,,,,,,,,,,0
+215091,113650,113478,h & a riders limited,,,,,,,,,,,,,h & a fashion limited,,,,,,,,,,,,,0
+266147,122999,119704,hlt property acquisition llc,united states,,,,,,,,,,,,hlt property acquisition llc,united states,,,,,,,,,,,,1
+292477,124754,124851,hilti careers,,,,1941,,,,,construction,,,,hatch ltd careers,,,,1955,,,,,materials & manufacturing,,,,0
+298922,27811,136074,hindustan zinc,india,,,,,doll_17.91 b,,,,,,,hindustan unilever,india,,,,,doll_89.84 m,,,,,,,0
+304543,137327,137327,heidelberg cement ag,germany,,,,,doll_17.29 m,,,,,,,heidelberg cement ag,germany,,,,,doll_17.29 m,,,,,,,1
+311130,138741,138741,hengyi petrochemical,china,,,,,doll_6.48 m,,,,,,,hengyi petrochemical,china,,,,,doll_6.48 m,,,,,,,1
+313214,38396,139028,hni corporation,united states,,,,,doll_1.22 b,,,,,,,hollyfrontier corporation,united states,,,,,doll_5.25 m,,,,,,,0
+313238,70813,139028,hormel foods corporation,united states,,,,,doll_28.52 b,,,packaged foods,consumer staples,,,hollyfrontier corporation,united states,,,,,doll_5.25 m,,,,,,,0
+315823,140137,139483,hms holdings,united states,,,,,doll_3.25 m,,,,,,,herc holdings,united states,,,,,doll_3.95 m,,,,,,,0
+325719,65041,141439,hanwha solutions,,,,,,doll_7.26 b,doll_9.90 b,doll_0.33 b,,,,,hanwha systems,south korea,,,,,doll_3.1 m,,,,,,,0
+340649,153251,144261,hyundai rotem company,south korea,,,,,doll_1.95 b,,doll_50.0 m,,,,,hyundai development company,south korea,,,,,doll_1.69 m,,,,,,,0
+362104,67591,147996,hasbro,,,,,6.640,doll_8.74 b,doll_6.19 b,doll_0.68 b,,,,,hasbro,united states,,,,,doll_14.18 b,,doll_428.0 m,,,,rich stoddart,1
+378233,140390,151070,hsbc trinkaus & burkhardt ag,germany,,,,,doll_2.97 m,,,,,,,hsbc trinkaus & burkhardt ag,germany,,,,,0.0,,doll_116.0 m,,,,,1
+395256,149942,154311,hubei energy group,china,,,,,doll_5.06 b,,doll_340.0 m,,,,,huaihe energy (group),china,,,,,doll_1.52 b,,0.0,,,,,0

@@ -1,0 +1,51 @@
+_id,ltable_ID,rtable_ID,ltable_name,ltable_country,ltable_headquarters,ltable_address,ltable_founded,ltable_employees,ltable_market_cap,ltable_revenue,ltable_profit,ltable_industry,ltable_sector,ltable_categories,ltable_ceo,rtable_name,rtable_country,rtable_headquarters,rtable_address,rtable_founded,rtable_employees,rtable_market_cap,rtable_revenue,rtable_profit,rtable_industry,rtable_sector,rtable_categories,rtable_ceo,label
+8039,50495,4625,first american,united states,,,,,doll_5.58 b,,,,,,,first american title,,,,1889,,,,,insurance,,,,1
+14333,6790,9118,firepro systems,,,,1992,,,,,law enforcement & security,,,,freight systems,,,,1988,,,,,ports & shipping,,,,0
+18096,38471,15341,fuelcell energy,united states,,,,,doll_1.14 b,,,,,,,fuelcell energy,united states,,,,,doll_1.36 b,,,,,['energy'],,1
+25389,37029,20312,frasers logistics & industrial trust,singapore,,,,,doll_3.22 b,,,,,,,frasers logistics & industrial trust,singapore,,,,,doll_3.39 b,,,,,real-estate investment reit ,,1
+25673,36915,20440,faurecia,france,,,,,doll_3.52 b,,,,,,,faurecia,france,,,,,doll_3.96 b,,,,,none,,1
+26459,69519,20788,fedex corporation,united states,,,,,doll_63.25 b,,,integrated freight & logistics,industrials,,,f.n.b. corporation,united states,,,,,doll_4.70 b,,,,,banks financial-services ,,0
+35885,39307,24152,first financial,united states,,,,,doll_540.0 m,,,,,,,first bancorp,united states,,,,,doll_1.66 b,,,,,banks financial-services ,,0
+38734,39307,24634,first financial,united states,,,,,doll_540.0 m,,,,,,,first financial bank,united states,,,,,doll_2.27 b,,,,,banks financial-services ,,1
+42533,43899,26111,force motors,india,,,,,doll_0.24 b,,,,,[],,force motors,india,,,,,doll_0.24 b,,,,,none,,1
+47788,70946,27903,first quantum minerals ltd.,canada,,,,,doll_23.47 b,,,copper,basic materials,,,first quantum minerals,canada,,,,,doll_16.15 b,,,,,,,1
+48340,21717,28013,formosa chemicals & fibre,taiwan,,,,,doll_14.02 b,,,,,chemicals ,,formosa chemicals & fibre,taiwan,,,,,doll_14.08 b,,,,,,,1
+59453,154012,31165,first commonwealth financial corporation,united states,,,,,doll_1.64 b,,doll_138.0 m,,,,,first commonwealth financial corp,united states,,,,,doll_1.34 b,,,,,,,1
+59533,52510,31177,finolex industries,india,,,,,doll_1.38 b,,,,,,,finolex industries,india,,,,,doll_1.33 b,,,,,,,1
+66436,55134,33801,fun yours technology,taiwan,,,,,doll_26.95 m,,,,,,,fun yours technology,taiwan,,,,,doll_26.47 m,,,,,,,1
+66843,48540,34285,fiserv,united states,,,,,doll_64.71 b,,,,,,,fiserv,united states,,,,,doll_64.88 b,,,,,,,1
+67604,48954,34667,fomento económico mexicano,mexico,,,,,doll_27.89 b,,,,,,,fomento económico mexicano,mexico,,,,,doll_28.7 b,,,,,,,1
+67669,48971,34706,foxconn industrial internet,china,,,,,doll_26.96 b,,,,,,,foxconn industrial internet,china,,,,,doll_27.07 b,,,,,,,1
+68646,27858,35033,fox corporation,united states,,,,,doll_17.06 b,,,,,,,fox corporation,united states,,,,,doll_16.78 b,,,,,,,1
+83005,47476,39201,franklin resources,united states,,,,,doll_13.37 b,,,,,['investment'],,franklin covey,united states,,,,,doll_610.0 m,,,,,,,0
+94665,20062,46114,forward air,united states,,,,,doll_2.70 b,,,,,transportation ,,forward air,united states,,,,,doll_2.87 b,,,,,[],,1
+103105,67602,49702,first citizens bancshares,,,,,6.578,doll_11.80 b,doll_3.79 b,doll_1.12 b,,,,,first citizens bancshares,united states,,,,,doll_10.74 b,,,,,,,1
+104346,46871,50367,flowers foods,united states,,,,,doll_6.16 b,,,,,['food'],,flowers foods,united states,,,,,doll_6.13 b,,,,,,,1
+108122,30839,52356,first national financial,canada,,,,,doll_1.70 b,,,,,,,first national financial,canada,,,,,doll_1.56 b,,,,,,,1
+117361,43058,55290,farmmi,china,,,,,doll_12.15 m,,,,,['food'],,farmmi,china,,,,,doll_11.85 m,,,,,,,1
+119903,50825,56332,f.n.b. corporation,united states,,,,,doll_4.47 b,,,,,,,fox corporation,united states,,,,,doll_16.70 b,,,,,,,0
+134693,32243,60678,fate therapeutics,united states,,,,,doll_0.52 b,,,,,,,fate therapeutics,united states,,,,,doll_0.53 b,,,,,,,1
+141870,137298,62359,first citizens bancshares,united states,,,,,doll_8.67 m,,,,,,lewis r. holding,first mid-illinois bancshares,,,,,1.025,doll_0.67 b,doll_0.25 b,doll_89.59 m,,,,,0
+155760,178289,66665,fagerhult group,,habo,,1945,,,,,industrials,building materials & fixtures,,,frasers group,,,,,30.0,doll_4.49 b,doll_5.89 b,doll_0.38 b,,,,,0
+157204,36510,67388,fluor corporation,united states,,,,,doll_4.61 b,,,,,,,fox corporation,,,,,10.600,doll_17.16 b,doll_12.91 b,doll_1.58 b,,,,,0
+183263,92871,74717,formosa petrochemical,taiwan,,,,,doll_29.96 b,doll_22.2 b,doll_1.77 b,,,,,formosa petrochemical corp,taiwan,,,,,doll_31.22 b,,,,energy,,,1
+195287,67039,94823,fidelity national financial,,,,,28.290,doll_10.49 b,doll_13.50 b,doll_2.18 b,,,,,fidelity national financial,united states,,,,,doll_11.58 b,doll_15.63 b,,,,,,1
+198673,103018,98740,fermeture econ’home,france,,,,30,,doll_1.86 m,,,construction,,,fermeture econ’home,france,,,,30.0,,doll_1.86 m,,,construction,,,1
+199025,98938,98938,fao consulting,france,,,,85.0,,doll_7.78 m,,,technology,,,fao consulting,france,,,,85.0,,doll_7.78 m,,,technology,,,1
+214050,112447,112282,food attraction limited,,,,,,,,,,,,,food alchemy limited,,,,,,,,,,,,,0
+265012,112506,112384,food by raj ltd,,,,,,,,,,,,,food & lqr ltd,,,,,,,,,,,,,0
+290043,112582,112435,food cottage ltd,,,,,,,,,,,,,food architecture ltd,,,,,,,,,,,,,0
+310416,112585,112476,food corner wm ltd,,,,,,,,,,,,,food boxes ltd,,,,,,,,,,,,,0
+328190,112447,112512,food attraction limited,,,,,,,,,,,,,food by sean limited,,,,,,,,,,,,,0
+332757,112564,112521,food comfort ltd,,,,,,,,,,,,,food cabaret ltd,,,,,,,,,,,,,0
+340218,112570,112536,food compliance limited,,,,,,,,,,,,,food circle limited,,,,,,,,,,,,,0
+341649,112518,112539,food capital 24 limited,,,,,,,,,,,,,food champs limited,,,,,,,,,,,,,0
+357683,112572,112572,food connect solutions limited,,,,,,,,,,,,,food connect solutions limited,,,,,,,,,,,,,1
+366572,112588,112590,food corner manchester limited,,,,,,,,,,,,,food convertors limited,,,,,,,,,,,,,0
+429469,121908,121908,farfetch uk limited,united kingdom,,,,,,,,,,,,farfetch uk limited,united kingdom,,,,,,,,,,,,1
+435101,122212,123504,fbh spa,italy,,,,,,,,,,,,flos spa,italy,,,,,,,,,,,,0
+466416,32747,142125,forum energy technologies,united states,,,,,doll_0.29 b,,,,,,,forescout technologies,united states,,,,,doll_0.005963 t,,,,,,,0
+486198,6623,147792,first quantum minerals,,,,1983,,,,,metals & mining,,,,first quantum minerals,canada,,,,,doll_16.61 b,,doll_832.0 m,,,,,1
+493181,183602,149845,fomento de construcciones y contratas,,barcelona,,1900,,,,,industrials,heavy construction,,,fomento de construcciones y contratas,spain,,,,,doll_5.2 b,,doll_580.0 m,,,,,1
+507833,532,153799,first american corporation,,,,1889,,,,,it services & consulting,,,,fila holdings corporation,south korea,,,,,doll_1.71 b,,doll_176.0 m,,,,,0
+510370,148750,154012,first american financial corporation,united states,,,,,doll_8.51 b,,doll_1.24 b,,,,,first commonwealth financial corporation,united states,,,,,doll_1.64 b,,doll_138.0 m,,,,,0

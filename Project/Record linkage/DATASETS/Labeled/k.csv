@@ -1,0 +1,51 @@
+_id,ltable_ID,rtable_ID,ltable_name,ltable_country,ltable_headquarters,ltable_address,ltable_founded,ltable_employees,ltable_market_cap,ltable_revenue,ltable_profit,ltable_industry,ltable_sector,ltable_categories,ltable_ceo,rtable_name,rtable_country,rtable_headquarters,rtable_address,rtable_founded,rtable_employees,rtable_market_cap,rtable_revenue,rtable_profit,rtable_industry,rtable_sector,rtable_categories,rtable_ceo,label
+6665,154718,11609,kk group,china,,,,,0.0,,0.0,,,,,kk group,china,,,2014,,,,,e-commerce & direct-to-consumer,,,,1
+6687,144037,11635,kendra scott ,united states,,,,,doll_0.007693 t,,,,,,,kendra scott,united states,,,2002,,,,,consumer & retail,,,,1
+8385,43779,16732,kamada,israel,,,,,doll_0.20 b,,,,,[],,kamada,israel,,,,,doll_0.22 b,,,,,,,1
+9405,104132,20315,kbs group,germany,,,,1500,,doll_42.01 m,,,support services,,,kion group,germany,,,,,doll_5.05 b,,,,,none,,0
+10042,29044,21209,konami holdings,japan,,,,,doll_5.81 b,,,,,,,konami holdings,japan,,,,,doll_6.28 b,,,,,video-games entertainment tech ,,1
+11163,27864,22440,keycorp (keybank),united states,,,,,doll_16.96 b,,,,,,,keycorp (keybank),united states,,,,,doll_16.66 b,,,,,financial-services banks ,,1
+11195,137146,22481,knorr-bremse,germany,,,,,doll_19.57 m,,,,,,prof. dr. klaus mangold,knorr-bremse,germany,,,,,doll_10.28 b,,,,,automotive-suppliers ,,1
+14900,21,27259,kotak mahindra bank,,,,2003,,,,,banking,,,,kotak mahindra bank,india,,,,,doll_43.62 b,,,,,,,1
+15769,28367,28367,koç holding,turkey,,,,,doll_9.98 b,,,,,,,koç holding,turkey,,,,,doll_9.98 b,,,,,,,1
+16866,36549,29388,kilroy realty,united states,,,,,doll_4.48 b,,,,,,,kite realty,united states,,,,,doll_4.61 b,,,,,,,0
+17009,144793,29688,kaman corporation,united states,,,,,doll_1.09 m,,,,,,,kirby corporation,united states,,,,,doll_3.79 b,,,,,,,0
+18936,26692,32163,karnataka bank,india,,,,,doll_0.57 b,,,,,banks financial-services ,,karnataka bank,india,,,,,doll_0.58 b,,,,,,,1
+19710,67734,33204,kirby corporation,,,,,5.125,doll_4.16 b,doll_2.64 b,doll_0.18 b,,,,,kopin corporation,united states,,,,,doll_0.16 b,,,,,,,0
+19948,40551,33252,kronos bio,united states,,,,,doll_97.86 m,,,,,,,kronos bio,united states,,,,,doll_0.14 b,,,,,,,1
+23017,58611,37216,kyndryl,united states,,,,,doll_2.78 b,,,,,,,kyndryl,united states,,,,,doll_2.87 b,,,,,,,1
+23175,58718,37410,kadokawa,japan,,,,,doll_2.59 b,,,,,,,kadokawa,japan,,,,,doll_2.53 b,,,,,,,1
+24591,39244,39244,kimball electronics,united states,,,,,doll_580.0 m,,,,,,,kimball electronics,united states,,,,,doll_580.0 m,,,,,,,1
+24920,26559,40153,kamada,israel,,,,,doll_0.23 b,,,,,none,,kamada,israel,,,,,doll_200.0 m,,,,,,,1
+25577,140113,40363,kirby corporation,united states,,,,,doll_3.22 m,,,,,,,kopin corporation,united states,,,,,doll_140.0 m,,,,,,,1
+26423,50120,41692,kt corporation,s. korea,,,,,doll_7.33 b,,,,,,,kt corporation,south korea,,,,,doll_7.26 b,,,,,['telecommunication'],,1
+27649,151812,43510,kainos group,uk,,,,,doll_2.86 b,,doll_41.0 m,,,,,knights group,uk,,,,,doll_0.10 b,,,,,['professionalservices'],,0
+28289,8981,45398,keya foods international,,,,2009,,,,,other,,,,kec international,india,,,,,doll_1.49 b,,,,,['construction'],,0
+30239,65013,49956,korea zinc,,,,,1.52,doll_8.43 b,doll_8.81 b,doll_0.82 b,,,,,korea zinc,s. korea,,,,,doll_8.43 b,,,,,,,1
+34792,28072,56528,kimco realty,united states,,,,,doll_13.20 b,,,,,,,kimco realty,united states,,,,,doll_13.26 b,,,,,,,1
+35543,66472,57346,kingfisher,,,,,81.71,doll_6.29 b,doll_17.66 b,doll_1.54 b,,,,,kingfisher,uk,,,,,doll_6.42 b,,,,,,,1
+36198,178338,57970,kinnevik ab,,stockholm,,1936,,,,,financials,investment services,,,kinnevik,sweden,,,,,doll_4.25 b,,,,,,,1
+36454,19463,58188,krones,germany,,,,,doll_3.65 b,,,,,,,krones,germany,,,,,doll_3.65 b,,,,,,,1
+38063,26641,60461,koppers,united states,,,,,doll_0.66 b,,,,,chemicals ,,koppers,united states,,,,,doll_0.66 b,,,,,,,1
+38263,26362,60630,kura sushi usa,united states,,,,,doll_0.56 b,,,,,restaurant-chains food ,,kura sushi usa,united states,,,,,doll_0.56 b,,,,,,,1
+38897,54494,61572,klx energy services,united states,,,,,doll_0.17 b,,,,,,,klx energy services,united states,,,,,doll_0.18 b,,,,,,,1
+40823,48542,64607,kering,france,,,,,doll_64.62 b,,,,,,,kering,,,,,41.519,doll_74.26 b,doll_19.98 b,doll_5.29 b,,,,,1
+41060,31965,64925,kaiser (china) culture,china,,,,,doll_0.68 b,,,,,,,kaiser (china) culture,,,,,940.0,doll_0.68 b,doll_0.11 b,-doll_37.12 m,,,,,1
+42494,25500,65496,kuantum papers,india,,,,,doll_0.15 b,,,,,pulp-and-paper ,,kuantum papers,,,,,1.313,doll_0.15 b,doll_0.13 b,doll_5.63 m,,,,,1
+43303,22334,67246,keysight,united states,,,,,doll_33.60 b,,,,,software tech ,,keysight,,,,,14.700,doll_32.80 b,doll_5.42 b,doll_1.36 b,,,,,1
+44190,69581,69581,kimberly-clark corporation,united states,,,,,doll_43.21 b,,,household & personal products,consumer staples,,,kimberly-clark corporation,united states,,,,,doll_43.21 b,,,household & personal products,consumer staples,,,1
+47528,146894,72478,keurig dr pepper,united states,,,,,doll_52.89 b,,doll_2.15 b,,,,robert gamgort,keurig dr pepper inc.,united states,,,,,doll_55.28 b,,,beverages—non-alcoholic,consumer staples,,,1
+50232,74082,74029,kr1 plc,united kingdom,,,,,doll_111.6 m,,,asset management,financials,,,kropz plc,united kingdom,,,,,doll_138.8 m,,,agricultural inputs,basic materials,,,0
+51565,70981,74942,kellogg company,united states,,,,,doll_22.63 b,,,packaged foods,consumer staples,,,kellogg company,united states,,,,,doll_22.63 b,,,,consumer staples,,,1
+55830,74158,94524,kweichow moutai co. ltd,china,,,,,doll_348.22 b,,,,consumer staples,,,kweichow moutai,china,,,,,doll_343.32 b,doll_14.6 b,,,,,,1
+57373,103250,97806,kk-trade,germany,,,,15,,doll_4.38 m,,,retail,,,kk-trade,germany,,,,15,,doll_4.38 m,,,retail,,,1
+58704,99420,101572,koesea,germany,,,,65.0,,doll_3.4 m,,,construction,,,koesea,germany,,,,65,,doll_3.4 m,,,construction,,,1
+70031,64989,136734,kt corporation,,,,,20.158,doll_7.18 b,doll_20.13 b,doll_1.67 b,,,,,kao corporation,japan,,,,,doll_28.83 m,,,,,,michitaka sawada,0
+71515,28313,137571,korea electric power,s. korea,,,,,doll_10.50 b,,,,,,,korea electric power corporation,south korea,,,,,doll_13.31 m,,,,,,,1
+76435,151105,140425,kyushu electric power company,japan,,,,,doll_3.49 b,,doll_50.0 m,,,,,kyushu electric power company,japan,,,,,doll_3.62 m,,,,,,,1
+76532,58424,140458,kinaxis,canada,,,,,doll_3.12 b,,,,,,,kinaxis,canada,,,,,doll_4.41 m,,,,,,,1
+85209,145416,145416,keeson technology corporation,china,,,,,doll_0.78 m,,,,,,,keeson technology corporation,china,,,,,doll_0.78 m,,,,,,,1
+88973,154449,147496,kureha corporation,japan,,,,,doll_1.47 b,,doll_103.0 m,,,,,kyocera corporation,japan,,,,,doll_22.29 b,,doll_1.08 b,,,,,0
+93384,149848,149848,kingboard holdings,hong kong,,,,,doll_5.19 b,,doll_1.37 b,,,,,kingboard holdings,hong kong,,,,,doll_5.19 b,,doll_1.37 b,,,,,1
+95610,151519,151519,kennametal,united states,,,,,doll_3.09 b,,doll_144.0 m,,,,,kennametal,united states,,,,,doll_3.09 b,,doll_144.0 m,,,,,1
+98253,142074,152754,kiwoom securities,south korea,,,,,doll_2.61 m,,,,,,,kiwoom securities,south korea,,,,,doll_2.19 b,,doll_676.0 m,,,,,1
