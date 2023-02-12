@@ -14,15 +14,33 @@ class Eval:
 
     def eval_print(self,computed,tgt):
         score=0
+        sing_score=0
         N=len(tgt.keys())
+        stringa=''
         for k in tgt.keys():
             sin_comp=set(computed[k])
             sin_test=set(tgt[k])
-            print('Valore',k)
-            print('Computato:',sin_comp)
-            print('Reale:',sin_test)
-            score+=self.compute_jaccard(sin_comp,sin_test)
-            print('score:',score)
+            extra=sin_comp.difference(sin_test)
+            mancanti=sin_test.difference(sin_comp)
+            comuni=sin_test.intersection(sin_comp)
+            stringa=stringa+'Campo: '+ k+'\n'
+            stringa=stringa+'Computato: '+ str(sin_comp)+'\n'
+            stringa=stringa+'Reale: '+ str(sin_test)+'\n'
+            stringa=stringa+'Extra: '+ str(extra)+'\n'
+            stringa=stringa+'Mancanti: '+ str(mancanti)+'\n'
+            stringa=stringa+'Comuni: '+ str(comuni)+'\n'
+            
+            
+            sing_score=self.compute_jaccard(sin_comp,sin_test)
+            score=score+sing_score
+            stringa=stringa+'Score: '+ str(sing_score)+'\n'
+            stringa=stringa+'==================\n'
+        
+        score=score/N
+        stringa=stringa+'SCORE TOTATE: '+ str(score)+'\n'
+        with open('Project\\Schema matching\\SchemaMatchingValentine\\files_matching\\files_vari\\risultati_correlazione.txt','w') as f:
+            f.write(stringa)
+        
         return score/N
 
     def evaluate(self,computed,tgt):
