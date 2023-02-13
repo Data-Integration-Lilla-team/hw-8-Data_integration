@@ -1,0 +1,5 @@
+Tempo impiegato: 13 min 49 sec.
+Epoche: 10
+Batch Size: 16
+Metrics on Validation Set = F1:  87.97 | Prec:  85.33 | Rec:  90.78
+Metrics on Test Set = F1:  87.91 | Prec:  86.33 | Rec:  89.55

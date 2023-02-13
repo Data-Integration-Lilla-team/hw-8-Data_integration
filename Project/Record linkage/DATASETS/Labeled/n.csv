@@ -1,51 +1,51 @@
-_id,ltable_ID,rtable_ID,ltable_name,ltable_country,ltable_headquarters,ltable_address,ltable_founded,ltable_employees,ltable_market_cap,ltable_revenue,ltable_profit,ltable_industry,ltable_sector,ltable_categories,ltable_ceo,rtable_name,rtable_country,rtable_headquarters,rtable_address,rtable_founded,rtable_employees,rtable_market_cap,rtable_revenue,rtable_profit,rtable_industry,rtable_sector,rtable_categories,rtable_ceo;;;;;;;;;;;;
-564,70182,493,nvidia corporation,united states,,,,,doll_660.38 b,,,semiconductors,technology,,,ncr corporation,,,,1884,,,,,software product,,,;;;;;;;;;;;;
-2082,5567,1374,nv group,,,,1994,,,,,beverage,,,,nbtc group,,,,1977,,,,,oil & gas,,,;;;;;;;;;;;;
-3132,31300,1765,nextgen healthcare,united states,,,,,doll_1.21 b,,,,,,,novartis healthcare,,,,1996,,,,,pharma,,,;;;;;;;;;;;;
-21863,114972,8011,new age medical limited,,,,,,,,,,,,,newtech medical devices,,,,2007,,,,,medical equipment,,,;;;;;;;;;;;;
-25995,10645,10645,navamaresspainoãå(12384796),,,                        Harju maakond Tallinn MustamÃÂ¤e linnaosa Laki tn 32 12915                            ,,,,,,,,,,navamaresspainoãå(12384796),,,                        Harju maakond Tallinn MustamÃÂ¤e linnaosa Laki tn 32 12915                            ,,,,,,,,,;;;;;;;;;;;;
-30116,33717,16130,nymox pharmaceutical,bahamas,,,,,doll_39.36 m,,,,,,,nymox pharmaceutical,,,,,,doll_43.94 m,,,,,['pharmaceuticals'],;;;;;;;;;;;;
-31683,39399,17335,national presto industries,united states,,,,,doll_490.0 m,,,,,,,national presto industries,united states,,,,,doll_0.50 b,,,,,,;;;;;;;;;;;;
-59970,62459,25937,nature's sunshine products,,,,,850.0,doll_0.19 b,doll_0.43 b,doll_17.02 m,,,,,nature's sunshine products,united states,,,,,doll_0.19 b,,,,,mlm dietary-supplements ,;;;;;;;;;;;;
-80087,62259,30486,nustar energy,,,,,1.267,doll_1.89 b,doll_1.67 b,doll_0.39 b,,,,,nexgen energy,canada,,,,,doll_2.24 b,,,,,,;;;;;;;;;;;;
-92482,49124,34833,naver,s. korea,,,,,doll_20.90 b,,,,,,,naver,s. korea,,,,,doll_21.8 b,,,,,,;;;;;;;;;;;;
-104362,72182,36981,nvidia corporation,united states,,,,,doll_660.38 b,,,semiconductors,technology,,,ncr corporation,united states,,,,,doll_3.35 b,,,,,,;;;;;;;;;;;;
-111298,17716,38979,navios maritime partners,,,,,,doll_0.78 b,,,,,,,navios maritime partners,monaco,,,,,doll_750.0 m,,,,,,;;;;;;;;;;;;
-121024,42400,42400,nutex health,united states,,,,,doll_1.37 b,,,,,['healthcare'],,nutex health,united states,,,,,doll_1.37 b,,,,,['healthcare'],;;;;;;;;;;;;
-132509,55389,48379,nextera energy,united states,,,,,doll_162.58 b,,,,,,,nextera energy,united states,,,,,doll_172.98 b,,,,,,;;;;;;;;;;;;
-148686,62747,52646,nrc health,,,,,511.0,doll_1.04 b,doll_0.15 b,doll_47.15 m,,,,,nutex health,united states,,,,,doll_1.25 b,,,,,,;;;;;;;;;;;;
-182371,37856,61187,nbt bancorp,united states,,,,,doll_1.83 b,,,,,,,northrim bancorp,united states,,,,,doll_0.30 b,,,,,,;;;;;;;;;;;;
-190347,136269,63637,newmont corporation,united states,,,,,doll_46.34 m,,,,,,wayne w murdy,nve corporation,,,,,47.0,doll_0.36 b,doll_31.06 m,doll_20.05 m,,,,;;;;;;;;;;;;
-200205,66055,65831,next plc,,,,,26.836,doll_10.47 b,doll_6.20 b,doll_1.10 b,,,,,next plc,,,,,26.836,doll_10.47 b,doll_6.20 b,doll_1.10 b,,,,;;;;;;;;;;;;
-203357,66611,65995,national grid,,,,,29.292,doll_46.43 b,doll_23.04 b,doll_2.75 b,,,,,national grid,,,,,29.292,doll_46.43 b,doll_23.04 b,doll_2.75 b,,,,;;;;;;;;;;;;
-217820,73197,66759,natwest group plc,united kingdom,,,,,doll_32.72 b,,,banks,financials,,,natwest group,,,,,58.9,doll_35.54 b,doll_14.65 b,doll_5.12 b,,,,;;;;;;;;;;;;
-234131,136575,71009,nibe industrier ab (publ),sweden,,,,,doll_29.89 m,,,,,,hans linnarson,nibe industrier ab,sweden,,,,,doll_21.93 b,,,building products & equipment,industrials,,;;;;;;;;;;;;
-238178,72498,72498,nxp semiconductors n.v.,netherlands,,,,,doll_52.28 b,,,semiconductors,technology,,,nxp semiconductors n.v.,netherlands,,,,,doll_52.28 b,,,semiconductors,technology,,;;;;;;;;;;;;
-251577,147065,74629,neste oyj,finland,,,,,doll_39.11 b,,doll_1.95 b,,,,peter vanacker,neste oyj,finland,,,,,doll_35.57 b,,,,energy,,;;;;;;;;;;;;
-255714,94440,92440,nvidia,united states,,,,,doll_489.83 b,doll_26.91 b,,,,,,nvidia,united states,,,,,doll_489.83 b,doll_26.91 b,doll_9.75 b,,,,;;;;;;;;;;;;
-258873,24291,92981,nustar energy,united states,,,,,doll_1.87 b,,,,,none,,nrg energy,united states,,,,,doll_9.18 b,doll_26.9 b,doll_2.19 b,,,,;;;;;;;;;;;;
-263741,74186,94299,novartis ag,switzerland,,,,,doll_204.13 b,,,,healthcare,,,novartis,switzerland,,,,,doll_200.73 b,doll_51.63 b,,,,,;;;;;;;;;;;;
-267886,28791,97139,novatek microelectronics,taiwan,,,,,doll_6.93 b,,,,,,,novatek microelectronics corp.,taiwan,,,not found,not found,,doll_4.8 b,,semiconductors,,,shou jen wang;;;;;;;;;;;;
-271433,98986,99986,neosperience,italy,,,,160.0,,doll_16.37 m,,,technology,,,neosperience,italy,,,,160.0,,doll_16.37 m,,,technology,,;;;;;;;;;;;;
-275224,9090,102115,naresh i technologies,,,,2004,,,,,it services & consulting,,,,nephos technologies,uk,,,,26,,doll_17.37 m,,,technology,,;;;;;;;;;;;;
-301444,114815,114809,new acres limited,,,,,,,,,,,,,new accrual limited,,,,,,,,,,,,;;;;;;;;;;;;
-304480,114813,114814,new acre projects ltd,,,,,,,,,,,,,new acre living ltd,,,,,,,,,,,,;;;;;;;;;;;;
-305278,115055,114815,new alchemy limited,,,,,,,,,,,,,new acres limited,,,,,,,,,,,,;;;;;;;;;;;;
-309843,114935,114823,new age glass limited,,,,,,,,,,,,,new action limited,,,,,,,,,,,,;;;;;;;;;;;;
-317268,115056,114836,new albion wind limited,,,,,,,,,,,,,new advance limited,,,,,,,,,,,,;;;;;;;;;;;;
-328768,114930,114856,new age firm limited,,,,,,,,,,,,,new adyan limited,,,,,,,,,,,,;;;;;;;;;;;;
-340401,114929,114876,new age events limited,,,,,,,,,,,,,new age abacus limited,,,,,,,,,,,,;;;;;;;;;;;;
-353824,114994,114899,new age publishing limited,,,,,,,,,,,,,new age confectionery limited,,,,,,,,,,,,;;;;;;;;;;;;
-370114,115032,114926,new age views ltd,,,,,,,,,,,,,new age fashion ltd,,,,,,,,,,,,;;;;;;;;;;;;
-374063,114921,114933,new age electrical group limited,,,,,,,,,,,,,new age flooring limited,,,,,,,,,,,,;;;;;;;;;;;;
-409327,114784,114993,new a+m hire limited,,,,,,,,,,,,,new age project limited,,,,,,,,,,,,;;;;;;;;;;;;
-414149,114947,115001,new age hemp limited,,,,,,,,,,,,,new age resource limited,,,,,,,,,,,,;;;;;;;;;;;;
-424841,114990,115019,new age productions limited,,,,,,,,,,,,,new age sports limited,,,,,,,,,,,,;;;;;;;;;;;;
-427363,145617,115023,nazara technologies limited,india,,,,,doll_0.77 m,,,,,,,new ages technologies ltd,,,,,,,,,,,,;;;;;;;;;;;;
-506715,28859,138565,nextera energy partners,united states,,,,,doll_6.58 b,,,,,,,nextera energy partners lp,united states,,,,,doll_6.12 m,,,,,,;;;;;;;;;;;;
-557312,70410,147186,newmont corporation,united states,,,,,doll_65.89 b,,,gold,basic materials,,,nucor corporation,united states,,,,,doll_32.71 b,,doll_6.79 b,,,,leon topalian;;;;;;;;;;;;
-590537,42196,152295,nordex,germany,,,,,doll_2.84 b,,,,,[],,nordex se,germany,,,,,doll_2.49 b,,doll_-230.0 m,,,,;;;;;;;;;;;;
-592231,74629,152797,neste oyj,finland,,,,,doll_35.57 b,,,,energy,,,neles oyj,finland,,,,,doll_2.32 b,,0.0,,,,;;;;;;;;;;;;
-597658,62179,154154,northwestern corporation,,,,,1.483,doll_3.50 b,doll_1.39 b,doll_0.16 b,,,,,noble corporation,uk,,,,,doll_1.58 b,,0.0,,,,;;;;;;;;;;;;
-599792,39532,154430,nuvation bio,united states,,,,,doll_430.0 m,,,,,,,nuvation bio inc.,united states,,,,,doll_1.47 b,,doll_-86.0 m,,,,;;;;;;;;;;;;
-607098,5436,155606,nipro india corporation,,,,2010,,,,,healthcare,,,,nhn corporation,south korea,,,,,doll_1.21 b,,doll_87.0 m,,,,;;;;;;;;;;;;
+_id,ltable_ID,rtable_ID,ltable_name,ltable_country,ltable_headquarters,ltable_address,ltable_founded,ltable_employees,ltable_market_cap,ltable_revenue,ltable_profit,ltable_industry,ltable_sector,ltable_categories,ltable_ceo,rtable_name,rtable_country,rtable_headquarters,rtable_address,rtable_founded,rtable_employees,rtable_market_cap,rtable_revenue,rtable_profit,rtable_industry,rtable_sector,rtable_categories,rtable_ceo,label
+564,70182,493,nvidia corporation,united states,,,,,doll_660.38 b,,,semiconductors,technology,,,ncr corporation,,,,1884,,,,,software product,,,,0
+2082,5567,1374,nv group,,,,1994,,,,,beverage,,,,nbtc group,,,,1977,,,,,oil & gas,,,,0
+3132,31300,1765,nextgen healthcare,united states,,,,,doll_1.21 b,,,,,,,novartis healthcare,,,,1996,,,,,pharma,,,,0
+21863,114972,8011,new age medical limited,,,,,,,,,,,,,newtech medical devices,,,,2007,,,,,medical equipment,,,,0
+25995,10645,10645,navamaresspainoãå(12384796),,,                        Harju maakond Tallinn MustamÃÂ¤e linnaosa Laki tn 32 12915                            ,,,,,,,,,,navamaresspainoãå(12384796),,,                        Harju maakond Tallinn MustamÃÂ¤e linnaosa Laki tn 32 12915                            ,,,,,,,,,,0
+30116,33717,16130,nymox pharmaceutical,bahamas,,,,,doll_39.36 m,,,,,,,nymox pharmaceutical,,,,,,doll_43.94 m,,,,,['pharmaceuticals'],,1
+31683,39399,17335,national presto industries,united states,,,,,doll_490.0 m,,,,,,,national presto industries,united states,,,,,doll_0.50 b,,,,,,,0
+59970,62459,25937,nature's sunshine products,,,,,850.0,doll_0.19 b,doll_0.43 b,doll_17.02 m,,,,,nature's sunshine products,united states,,,,,doll_0.19 b,,,,,mlm dietary-supplements ,,0
+80087,62259,30486,nustar energy,,,,,1.267,doll_1.89 b,doll_1.67 b,doll_0.39 b,,,,,nexgen energy,canada,,,,,doll_2.24 b,,,,,,,0
+92482,49124,34833,naver,s. korea,,,,,doll_20.90 b,,,,,,,naver,s. korea,,,,,doll_21.8 b,,,,,,,1
+104362,72182,36981,nvidia corporation,united states,,,,,doll_660.38 b,,,semiconductors,technology,,,ncr corporation,united states,,,,,doll_3.35 b,,,,,,,0
+111298,17716,38979,navios maritime partners,,,,,,doll_0.78 b,,,,,,,navios maritime partners,monaco,,,,,doll_750.0 m,,,,,,,1
+121024,42400,42400,nutex health,united states,,,,,doll_1.37 b,,,,,['healthcare'],,nutex health,united states,,,,,doll_1.37 b,,,,,['healthcare'],,1
+132509,55389,48379,nextera energy,united states,,,,,doll_162.58 b,,,,,,,nextera energy,united states,,,,,doll_172.98 b,,,,,,,1
+148686,62747,52646,nrc health,,,,,511.0,doll_1.04 b,doll_0.15 b,doll_47.15 m,,,,,nutex health,united states,,,,,doll_1.25 b,,,,,,,0
+182371,37856,61187,nbt bancorp,united states,,,,,doll_1.83 b,,,,,,,northrim bancorp,united states,,,,,doll_0.30 b,,,,,,,0
+190347,136269,63637,newmont corporation,united states,,,,,doll_46.34 m,,,,,,wayne w murdy,nve corporation,,,,,47.0,doll_0.36 b,doll_31.06 m,doll_20.05 m,,,,,0
+200205,66055,65831,next plc,,,,,26.836,doll_10.47 b,doll_6.20 b,doll_1.10 b,,,,,next plc,,,,,26.836,doll_10.47 b,doll_6.20 b,doll_1.10 b,,,,,1
+203357,66611,65995,national grid,,,,,29.292,doll_46.43 b,doll_23.04 b,doll_2.75 b,,,,,national grid,,,,,29.292,doll_46.43 b,doll_23.04 b,doll_2.75 b,,,,,1
+217820,73197,66759,natwest group plc,united kingdom,,,,,doll_32.72 b,,,banks,financials,,,natwest group,,,,,58.9,doll_35.54 b,doll_14.65 b,doll_5.12 b,,,,,1
+234131,136575,71009,nibe industrier ab (publ),sweden,,,,,doll_29.89 m,,,,,,hans linnarson,nibe industrier ab,sweden,,,,,doll_21.93 b,,,building products & equipment,industrials,,,1
+238178,72498,72498,nxp semiconductors n.v.,netherlands,,,,,doll_52.28 b,,,semiconductors,technology,,,nxp semiconductors n.v.,netherlands,,,,,doll_52.28 b,,,semiconductors,technology,,,1
+251577,147065,74629,neste oyj,finland,,,,,doll_39.11 b,,doll_1.95 b,,,,peter vanacker,neste oyj,finland,,,,,doll_35.57 b,,,,energy,,,1
+255714,94440,92440,nvidia,united states,,,,,doll_489.83 b,doll_26.91 b,,,,,,nvidia,united states,,,,,doll_489.83 b,doll_26.91 b,doll_9.75 b,,,,,1
+258873,24291,92981,nustar energy,united states,,,,,doll_1.87 b,,,,,none,,nrg energy,united states,,,,,doll_9.18 b,doll_26.9 b,doll_2.19 b,,,,,0
+263741,74186,94299,novartis ag,switzerland,,,,,doll_204.13 b,,,,healthcare,,,novartis,switzerland,,,,,doll_200.73 b,doll_51.63 b,,,,,,1
+267886,28791,97139,novatek microelectronics,taiwan,,,,,doll_6.93 b,,,,,,,novatek microelectronics corp.,taiwan,,,not found,not found,,doll_4.8,1 b,,semiconductors,,,shou jen wang
+271433,98986,99986,neosperience,italy,,,,160.0,,doll_16.37 m,,,technology,,,neosperience,italy,,,,160.0,,doll_16.37 m,,,technology,,,1
+275224,9090,102115,naresh i technologies,,,,2004,,,,,it services & consulting,,,,nephos technologies,uk,,,,26,,doll_17.37 m,,,technology,,,0
+301444,114815,114809,new acres limited,,,,,,,,,,,,,new accrual limited,,,,,,,,,,,,,0
+304480,114813,114814,new acre projects ltd,,,,,,,,,,,,,new acre living ltd,,,,,,,,,,,,,0
+305278,115055,114815,new alchemy limited,,,,,,,,,,,,,new acres limited,,,,,,,,,,,,,0
+309843,114935,114823,new age glass limited,,,,,,,,,,,,,new action limited,,,,,,,,,,,,,0
+317268,115056,114836,new albion wind limited,,,,,,,,,,,,,new advance limited,,,,,,,,,,,,,0
+328768,114930,114856,new age firm limited,,,,,,,,,,,,,new adyan limited,,,,,,,,,,,,,0
+340401,114929,114876,new age events limited,,,,,,,,,,,,,new age abacus limited,,,,,,,,,,,,,0
+353824,114994,114899,new age publishing limited,,,,,,,,,,,,,new age confectionery limited,,,,,,,,,,,,,0
+370114,115032,114926,new age views ltd,,,,,,,,,,,,,new age fashion ltd,,,,,,,,,,,,,0
+374063,114921,114933,new age electrical group limited,,,,,,,,,,,,,new age flooring limited,,,,,,,,,,,,,0
+409327,114784,114993,new a+m hire limited,,,,,,,,,,,,,new age project limited,,,,,,,,,,,,,0
+414149,114947,115001,new age hemp limited,,,,,,,,,,,,,new age resource limited,,,,,,,,,,,,,0
+424841,114990,115019,new age productions limited,,,,,,,,,,,,,new age sports limited,,,,,,,,,,,,,0
+427363,145617,115023,nazara technologies limited,india,,,,,doll_0.77 m,,,,,,,new ages technologies ltd,,,,,,,,,,,,,0
+506715,28859,138565,nextera energy partners,united states,,,,,doll_6.58 b,,,,,,,nextera energy partners lp,united states,,,,,doll_6.12 m,,,,,,,1
+557312,70410,147186,newmont corporation,united states,,,,,doll_65.89 b,,,gold,basic materials,,,nucor corporation,united states,,,,,doll_32.71 b,,doll_6.79 b,,,,leon topalian,0
+590537,42196,152295,nordex,germany,,,,,doll_2.84 b,,,,,[],,nordex se,germany,,,,,doll_2.49 b,,doll_-230.0 m,,,,,1
+592231,74629,152797,neste oyj,finland,,,,,doll_35.57 b,,,,energy,,,neles oyj,finland,,,,,doll_2.32 b,,0.0,,,,,1
+597658,62179,154154,northwestern corporation,,,,,1.483,doll_3.50 b,doll_1.39 b,doll_0.16 b,,,,,noble corporation,uk,,,,,doll_1.58 b,,0.0,,,,,0
+599792,39532,154430,nuvation bio,united states,,,,,doll_430.0 m,,,,,,,nuvation bio inc.,united states,,,,,doll_1.47 b,,doll_-86.0 m,,,,,1
+607098,5436,155606,nipro india corporation,,,,2010,,,,,healthcare,,,,nhn corporation,south korea,,,,,doll_1.21 b,,doll_87.0 m,,,,,0
