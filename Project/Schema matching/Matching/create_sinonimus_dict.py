@@ -146,6 +146,7 @@ def create_inverted_index_final(path):
         print(cluster)
         file=os.path.join(path,f)
         for elements in os.listdir(file):
+           
             if elements =='dizionario.txt':
                 element_path=os.path.join(file,elements)
                 columns=extract_cols(element_path)
@@ -215,7 +216,7 @@ if __name__=='__main__':
     #create_sin_dic(sorgenti2path_par)
     '''
     #MODULE finale
-    parsed_data_path='Project\\Schema matching\\SchemaMatchingValentine\\clusters\\schema'
+    parsed_data_path='Project\\Schema matching\\SchemaMatchingValentine\\clusters\\schema_parsed'
 
 
     
@@ -229,14 +230,14 @@ if __name__=='__main__':
     path_for_inverted_index='Project\\Schema matching\\DatasetSchemaMatch'
 
     #INVERTED INDEX
-    '''
-    inverted_index_path='Project\\Schema matching\\SchemaMatchingValentine\\files_matching\\files_vari\\inverted_index.txt'
-    create_inverted_index=create_inverted_index_final(path_for_inverted_index)
     
-    with open(inverted_index_path, 'w') as file:
-        file.write(json.dumps(create_inverted_index)) 
+    #inverted_index_path='Project\\Schema matching\\SchemaMatchingValentine\\files_matching\\files_vari\\inverted_index.txt'
+    #create_inverted_index=create_inverted_index_final(path_for_inverted_index)
     
-    '''
+    #with open(inverted_index_path, 'w') as file:
+    #  file.write(json.dumps(create_inverted_index)) 
+    
+    
     create_sin_dic_final(sorgenti2path_par)
 
     

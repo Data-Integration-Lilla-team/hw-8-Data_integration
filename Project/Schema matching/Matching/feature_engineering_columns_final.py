@@ -12,6 +12,7 @@ class FeatureExtraction:
         'type_of_data',
 
         'type_of_string',
+        'avg_mon_values (0 if not monetary)',
         'avg_length_of_field',
         'var_length',
         'std_dev_length',
@@ -81,7 +82,8 @@ class FeatureExtraction:
                 conta_string+=1
             
             if 'doll' in string_version or 'rank' in string_version or 'perc' in string_version or 'b' in string_version or 't' in string_version or 'm' in string_version or ' ' in string_version:
-                print('stringa')
+                print('stringa eeee')
+                
                 return string_t
             if len(inter)>=0.6*len(set_chars):
                 print('stringa')
@@ -265,7 +267,7 @@ class FeatureExtraction:
         
         dic_out={1:0,2:0,3:0,4:0,5:0,6:0}
         for val in values:
-            
+            val=str(val)
             if '_perc' in val: #1
                 
                 dic_out[1]+=1
@@ -444,6 +446,18 @@ class FeatureExtraction:
         print('AVG len:',res)
         return res
 
+    def compute_variance_mon_values(self,values):
+        import re
+        somma=0
+        n=len(values)
+        for v in values:
+            s=[float(s) for s in re.findall(r'-?\d+\.?\d*',v)][0]
+            print('value_string:',v)
+            somma=somma+s
+        print('AVG:',somma/n)
+        return somma/n
+            
+
     def compute_variance(self,values):
         
         n = len(values)
@@ -457,9 +471,19 @@ class FeatureExtraction:
     def compute_features_for_string(self, col):
         feature_vector=[]
         values=self.create_sample_set(col,1000)
+        values=list(map(str,values))
 
         #type of string
-        feature_vector.append(self.compute_type(values))
+        type_string=self.compute_type(values)
+        feature_vector.append(type_string)
+
+        if type_string==5 or type_string==4:
+            feature_vector.append(self.compute_variance_mon_values(values))
+        else:
+            feature_vector.append(0)
+
+
+
 
         #avg len of strings
         feature_vector.append(self.compute_len_values(values))
@@ -574,11 +598,11 @@ class FeatureExtraction:
                 elif type_of_col==1:
                     
                     
-                    vector_features=vector_features+[0,0,0,0,0,0,0,0]
+                    vector_features=vector_features+[0,0,0,0,0,0,0,0,0]
                     vector_features=vector_features+self.compute_features_for_int(ds[col])
                 
                 else:
-                    vector_features=vector_features+[0,0,0,0,0,0,0,0,0,0,0,0,0,0,0]
+                    vector_features=vector_features+[0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0]
                 
                 
                 ds_features.append(vector_features)

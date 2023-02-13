@@ -6,8 +6,8 @@
 "founded": ["founded", "founding_year"],
 "industry": ["industry", "sector"],
 "website": ["link"],
-"revenue_2020": ["revenue", "revenue_2020", "revenue_2020_eu", "revenue_2020_euro"],
-"revenue_2017": ["revenue_2017", "revenue_2017_eu", "revenue_2020_euro"],
+"revenue_2020_eu": ["revenue", "revenue_2020", "revenue_2020_eu", "revenue_2020_euro"],
+"revenue_2017_eu": ["revenue_2017", "revenue_2017_eu", "revenue_2020_euro"],
 "absolute_growth_rate_pct": ["absolute_growth_rate_pct"],
 "compound_annual_growth_rate_cagr_pct": ["compound_annual_growth_rate_cagr_pct"]
 }

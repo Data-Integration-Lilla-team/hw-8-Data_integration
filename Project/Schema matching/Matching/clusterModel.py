@@ -12,7 +12,7 @@ class ClusterModel:
     def __init__(self,cluster_name):
         self.clusterName=cluster_name
 
-        self.threshold_inertia=0.25
+        self.threshold_inertia=0.3
         
         self.path_destinazione='Project\\Schema matching\\SchemaMatchingValentine\\files_matching\\files_vari'
         

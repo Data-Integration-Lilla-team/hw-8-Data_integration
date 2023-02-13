@@ -18,7 +18,7 @@ class MatchingModule_final:
 
     def __init__(self,k):
 
-        self.threshold_max_par=5.5
+        self.threshold_max_par=4
         self.base_path=''
         self.path_destinazione='Project\\Schema matching\\SchemaMatchingValentine\\files_matching\\files_vari'
 

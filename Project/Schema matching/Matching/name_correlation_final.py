@@ -15,9 +15,11 @@ class NameCorr:
     def __init__(self,clusterName) -> None:
 
         #thresholds
-        self.threshold=0.40
+        self.threshold=0.4
+        self.threshold_levi=0.6
         self.max=0.6
         self.step=0.1
+        self.dim_n_grams=4
 
         #base path
         self.cluster=clusterName
@@ -208,6 +210,8 @@ class NameCorr:
 
         List1 = list_of_tokens
         List2 = list_of_tokens
+        print('Lista1',sorted(List1))
+        print('Lista2',sorted(List2))
 
         #Matrix = np.zeros((len(List1),len(List2)),dtype=np.int_)
         correlazione=dict()
@@ -217,15 +221,31 @@ class NameCorr:
             if List1[i] not in sim4column:
                 sim4column[List1[i]]=[]
             for j in range(0,len(List2)):
-
+                element1=List1[i]
+                element2=List2[j]
+                                
+                words_in_element1=set(element1.split('_'))
+                words_in_element2=set(element2.split('_'))
+                inters=words_in_element1.intersection(words_in_element2)
+                insert=0
+                if len(words_in_element1)==1 and  len(inters)==1:
+                       
+                        insert=1
+                       
+                else:
+                    if len(inters)>=0.8*len(words_in_element1):
+                        
+                        insert=1
                 
                 compute_dist=distance(List1[i],List2[j])
                 if compute_dist!=0:
                     compute_dist=1/compute_dist
-                if compute_dist<=thersh or compute_dist==0 or List1[i] in List2[j] or List2[j] in List1[i]:
+                if compute_dist>=self.threshold_levi or compute_dist==0 or insert==1:
                     tupla=(List2[j],compute_dist)
+                    
                     sim4column[List1[i]].append(tupla)
                 correlazione[List1[i]].append(compute_dist)
+            print(List1[i],sim4column[List1[i]])
 
         
 
@@ -277,13 +297,14 @@ class NameCorr:
     #calcolo della matrice di correlazione e della lista di correlazioni in modalità threshold   
     def compute_sim_ngrams(self,inverted_index,thresh=0.0):
         
-        N=3
+        
         list_of_tokens=sorted(inverted_index.keys())
         jaccard_dist_eval=dict()
         eval=Eval()
         sim4column=dict()
         List1 = list_of_tokens
         List2 = list_of_tokens
+        print(List1.index('revenue_2020_eu'),'\n',List2.index('revenue_2020_eu'))
 
         #Matrix = np.zeros((len(List1),len(List2)),dtype=np.int_)
         correlazione=dict()
@@ -296,13 +317,25 @@ class NameCorr:
                 element1=List1[i]
                 element2=List2[j]
                 
+                words_in_element1=set(element1.split('_'))
+                words_in_element2=set(element2.split('_'))
+                inters=words_in_element1.intersection(words_in_element2)
+                insert=0
+                if len(words_in_element1)==1:
+                    if len(inters)==1:
+                        insert=1
+                       
+                else:
+                    if len(inters)>=0.8*len(words_in_element1):
+                        insert=1
+
             
-                compute_dist=ngram.NGram.compare(element1,element2,N=3)
+                compute_dist=ngram.NGram.compare(element1,element2,N=self.dim_n_grams)
                 
                 
                 
                 correlazione[List1[i]].append(compute_dist)
-                if compute_dist>=thresh or element2 in element1 or element1 in element2:
+                if compute_dist>=thresh or insert==1:
                     tupla=(List2[j],compute_dist)
                     sim4column[List1[i]].append(tupla)
 
@@ -348,10 +381,10 @@ class NameCorr:
         col4file=self.get_col_4_files(files)               #lista di colonne per ogni dataset in un sorgente
        
         inverted_index=self.create_inverted_index()
-        print(type(inverted_index))
+        print('Indice invertito keys',inverted_index.keys())
         
         resultLevi=self.compute_LEVI_sim(inverted_index,validation_set)
-
+        
         resultNgrams=self.compute_Ngrams_sim(inverted_index,validation_set)
 
         resultLevi.update(resultNgrams)
