@@ -6,9 +6,9 @@ class getList:
 
     def __init__(self):
         self.dict = {}
-        self.path_training = r"C:\hw-8-Data_integration\Project\Record linkage\Training set"
-        self.path_predict = r"C:\hw-8-Data_integration\Project\Record linkage\Couples for prediction"
-        self.path_original = r"C:\hw-8-Data_integration\Project\Record linkage\Dataset separati per lettera"
+        self.path_training = r"C:\hw-8-Data_integration\Project\Record linkage\DATASETS\Training set"
+        self.path_predict = r"C:\hw-8-Data_integration\Project\Record linkage\DATASETS\Couples for prediction"
+        self.path_original = r"C:\hw-8-Data_integration\Project\Record linkage\DATSETS\Dataset separati per lettera"
 
     def generate_list(self, path):
         start = time.time()

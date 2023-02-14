@@ -2,10 +2,10 @@ import deepmatcher as dm
 import time 
 
 def Predictor():
-    def __init__(self):
+
+    def __init__(self, model):
         self.dict = {}
-        self.model = dm.MatchingModel(attr_summarizer='hybrid')
-        self.model.load_state(r"C:\hw-8-Data_integration\Project\Record linkage\Model and Dataset Creation - Evaluation\hybrid_model.pth")
+        self.model = model
         self.path_predict = r"C:\hw-8-Data_integration\Project\Record linkage\DATASETS\Couples for prediction"
         self.path_save = r"C:\hw-8-Data_integration\Project\Record linkage\DATASETS\Predictions"
     
