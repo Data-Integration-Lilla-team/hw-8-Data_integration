@@ -1,7 +1,7 @@
 import deepmatcher as dm
 import time 
 
-def Predictor():
+class Predictor:
 
     def __init__(self, model):
         self.dict = {}
