@@ -5,5 +5,8 @@
 "deletion_date":["deletion_date"],
 "legal_form":["legal_form"],
 "registration_date":["registration_date"],
-"status":["status"]
+"status":["status"],
+"name":["name"],
+"url":["url"],
+"id":["id"]
 }

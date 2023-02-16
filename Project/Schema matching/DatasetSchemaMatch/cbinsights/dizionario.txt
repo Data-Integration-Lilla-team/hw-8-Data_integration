@@ -8,5 +8,4 @@
 "stage":["stage"],
 "totalraised":["totalraised"],
 "industry":["industry"],
-"valuation":["valuation"]
-}
+"valuation":["valuation"]}

@@ -142,15 +142,15 @@ def extract_cols(elements_path):
 def create_inverted_index_final(path):
     cluster_2_columns=dict()
     for f in os.listdir(path):
-        cluster=f
+        cluster=str(f)
+        cluster=cluster.replace('.txt','')
         print(cluster)
-        file=os.path.join(path,f)
-        for elements in os.listdir(file):
+        path_sinonimi=os.path.join(path,f)
+        
            
-            if elements =='dizionario.txt':
-                element_path=os.path.join(file,elements)
-                columns=extract_cols(element_path)
-                cluster_2_columns[cluster]=columns
+                
+        columns=extract_cols(path_sinonimi)
+        cluster_2_columns[cluster]=columns
         
     inverted_index=dict()
     for k in cluster_2_columns.keys():
@@ -166,8 +166,37 @@ def create_inverted_index_final(path):
     return dict(dictionary1)
         
         
-            
+def update_diz(dizionario_gen,dizionario_sinonimi,cluster_name):
+    
+    for k in dizionario_sinonimi.keys():
+        name_cluster=cluster_name+'-'+k
+        dizionario_gen[name_cluster]=dizionario_sinonimi[k]
+    return dizionario_gen        
+def create_dizionario_sinonimi_pregressi(path,dest):
+
+    dizionario_pregressi=dict()
+    clusters=os.listdir(path)
+    for cluster in clusters:
+        cluster_name=cluster
+        print(cluster_name)
+        path_sing_cluster=os.path.join(path,cluster_name)
+        files=os.listdir(path_sing_cluster)
+        for f in files:
+            if f=='dizionario.txt':
+                path_diz=os.path.join(path_sing_cluster,f)
+                with open(path_diz) as diz:
+                    data=diz.read()
+
+        dizionario_sinonimi_pregressi=json.loads(data)
+        dizionario_pregressi=update_diz(dizionario_pregressi,dizionario_sinonimi_pregressi,cluster_name)  
+
+
+    for k in dizionario_pregressi.keys():
+        print(k,dizionario_pregressi[k])      
         
+
+    
+          
        
 
 
@@ -227,33 +256,29 @@ if __name__=='__main__':
     for k in sorgenti2path_par.keys():
         print(k,sorgenti2path_par[k])
 
-    path_for_inverted_index='Project\\Schema matching\\DatasetSchemaMatch'
+    path_for_inverted_index='Project\\Schema matching\\SchemaMatchingValentine\\clusters\\final_synonyms'
+    path_for_dizionario_pregressi='Project\\Schema matching\\DatasetSchemaMatch'
 
     #INVERTED INDEX
     
-    #inverted_index_path='Project\\Schema matching\\SchemaMatchingValentine\\files_matching\\files_vari\\inverted_index.txt'
+    inverted_index_path='Project\\Schema matching\\SchemaMatchingValentine\\files_matching\\files_vari\\inverted_index.txt'
     #create_inverted_index=create_inverted_index_final(path_for_inverted_index)
     
     #with open(inverted_index_path, 'w') as file:
-    #  file.write(json.dumps(create_inverted_index)) 
+    #    file.write(json.dumps(create_inverted_index)) 
     
     
-    create_sin_dic_final(sorgenti2path_par)
+    #create_sin_dic_final(sorgenti2path_par)
+
+
+
+    #nuova features
+    dest_dizionario_sinonimi_pregressi='Project\\Schema matching\\SchemaMatchingValentine\\files_matching\\files_vari\\dizionario_sinonimi_pregressi.txt'
+
+    dizionario_sinonimi_pregressi=create_dizionario_sinonimi_pregressi(path_for_dizionario_pregressi,dest_dizionario_sinonimi_pregressi)
 
     
    
      
     
 
-
-
-    
-    
-
-
-    
-    
-
-
-    
-    

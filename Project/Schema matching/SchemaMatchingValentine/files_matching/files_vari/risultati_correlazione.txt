@@ -1,5 +1,5 @@
 Campo: name
-Computato: {'address_name', 'name', 'official_name', 'trade_name'}
+Computato: {'address_name', 'name', 'trade_name', 'official_name'}
 Reale: {'name'}
 Extra: {'address_name', 'official_name', 'trade_name'}
 Mancanti: set()
@@ -7,66 +7,66 @@ Comuni: {'name'}
 Score: 0.25
 ==================
 Campo: country
-Computato: {'country'}
-Reale: {'headquarters', 'nation', 'country'}
-Extra: set()
-Mancanti: {'headquarters', 'nation'}
+Computato: {'country', 'headquarters_country'}
+Reale: {'nation', 'country', 'headquarters'}
+Extra: {'headquarters_country'}
+Mancanti: {'nation', 'headquarters'}
 Comuni: {'country'}
-Score: 0.3333333333333333
+Score: 0.25
 ==================
 Campo: address
-Computato: {'address_name', 'address'}
+Computato: {'address_name', 'address', 'office_address', 'registered_office_address'}
 Reale: {'address_name', 'address'}
-Extra: set()
+Extra: {'office_address', 'registered_office_address'}
 Mancanti: set()
 Comuni: {'address_name', 'address'}
-Score: 1.0
+Score: 0.5
 ==================
 Campo: founded
 Computato: {'founded', 'founders'}
-Reale: {'founding_year', 'founded', 'foundation_year', 'est_of_ownership'}
+Reale: {'founding_year', 'founded', 'est_of_ownership', 'foundation_year'}
 Extra: {'founders'}
-Mancanti: {'founding_year', 'foundation_year', 'est_of_ownership'}
+Mancanti: {'founding_year', 'est_of_ownership', 'foundation_year'}
 Comuni: {'founded'}
 Score: 0.2
 ==================
 Campo: employees
-Computato: {'employees', 'employees_2020', 'employees_2017', 'number_of_employees', 'employees_2022'}
-Reale: {'employees', 'employees_number_2020', 'number_of_employees', 'employees_number', 'employees_2022'}
-Extra: {'employees_2017', 'employees_2020'}
-Mancanti: {'employees_number_2020', 'employees_number'}
-Comuni: {'employees_2022', 'employees', 'number_of_employees'}
-Score: 0.42857142857142855
+Computato: {'employees_number', 'employees_number_2017', 'employees_2022', 'employees_number_2020', 'employees', 'number_of_employees'}
+Reale: {'employees_number', 'employees_2022', 'employees_number_2020', 'employees', 'number_of_employees'}
+Extra: {'employees_number_2017'}
+Mancanti: set()
+Comuni: {'employees_number', 'employees_2022', 'employees_number_2020', 'employees', 'number_of_employees'}
+Score: 0.8333333333333334
 ==================
 Campo: market_cap
 Computato: {'market_cap'}
-Reale: {'market_value', 'market_cap', 'pricecap', 'market_capitalization_2022'}
+Reale: {'pricecap', 'market_value', 'market_cap', 'market_capitalization_2022'}
 Extra: set()
-Mancanti: {'market_value', 'pricecap', 'market_capitalization_2022'}
+Mancanti: {'market_value', 'market_capitalization_2022', 'pricecap'}
 Comuni: {'market_cap'}
 Score: 0.25
 ==================
 Campo: revenue
-Computato: {'revenue_2020_eu', 'revenue', 'annual_revenue_usd', 'revenue_2017_eu', 'revenue_2022'}
-Reale: {'revenue', 'sales', 'annual_revenue_usd', 'revenue_2020_eu'}
-Extra: {'revenue_2017_eu', 'revenue_2022'}
+Computato: {'revenue_2017_eu', 'revenue_2020_eu', 'annual_revenue_usd', 'revenue'}
+Reale: {'revenue_2020_eu', 'annual_revenue_usd', 'sales', 'revenue'}
+Extra: {'revenue_2017_eu'}
 Mancanti: {'sales'}
-Comuni: {'revenue', 'revenue_2020_eu', 'annual_revenue_usd'}
-Score: 0.5
+Comuni: {'revenue_2020_eu', 'annual_revenue_usd', 'revenue'}
+Score: 0.6
 ==================
 Campo: profit
 Computato: {'profit'}
-Reale: {'profit', 'annual_net_income_usd', 'earnings'}
+Reale: {'annual_net_income_usd', 'earnings', 'profit'}
 Extra: set()
-Mancanti: {'earnings', 'annual_net_income_usd'}
+Mancanti: {'annual_net_income_usd', 'earnings'}
 Comuni: {'profit'}
 Score: 0.3333333333333333
 ==================
 Campo: categories
 Computato: {'categories'}
-Reale: {'sector', 'industry', 'categories'}
+Reale: {'categories', 'industry', 'sector'}
 Extra: set()
-Mancanti: {'sector', 'industry'}
+Mancanti: {'industry', 'sector'}
 Comuni: {'categories'}
 Score: 0.3333333333333333
 ==================
@@ -78,4 +78,4 @@ Mancanti: set()
 Comuni: {'ceo'}
 Score: 1.0
 ==================
-SCORE TOTATE: 0.4628571428571428
+SCORE TOTATE: 0.45500000000000007

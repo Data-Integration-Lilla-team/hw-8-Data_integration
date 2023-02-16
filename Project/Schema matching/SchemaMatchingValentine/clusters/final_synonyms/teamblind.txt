@@ -1,7 +1,7 @@
 {
 "founded":["founded"],
 "industry":["industry"],
-"locations":["locations"],
+"headquarters":["locations"],
 "name":["name"],
 "size":["size"],
 "website":["website"]

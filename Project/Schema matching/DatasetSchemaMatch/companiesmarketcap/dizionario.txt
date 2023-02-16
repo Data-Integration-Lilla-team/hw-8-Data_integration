@@ -1,15 +1,20 @@
 { 
             "categories":["categories"],
-            "change_1_day":["change1d","change_1_day","change_1day"],
-            "change_1_year":["change1y","change_1_year","change_1year"],
+            "change_1day":["change1d","change_1_day","change_1day"],
+            "change_1year":["change1y","change_1_year","change_1year"],
             "company_code":["code","codice","company_code","symbol"],
             "country":["country"],
             "earnings":["earnings"],
             "employees":["employees"],
-            "market_cap":["market_cap","market_capitalization_usd","marketcap","master_cap","pricecap"],
+            "pricecap":["market_cap","market_capitalization_usd","marketcap","master_cap","pricecap"],
             "name":["name"],
             "share_price":["price","share_price","shareprice"],
             "revenue":["revenue"],
-            "shares":["shares"]
+            "shares":["shares"],
+            "id":["id"],
+            "url":["url"],
+            "rank":["rank"]
 
         }
+        ,id,employees,pricecap,revenue,earnings,name,change_1day,change_1year,share_price,url,company_code,rank,country,shares,categories
+

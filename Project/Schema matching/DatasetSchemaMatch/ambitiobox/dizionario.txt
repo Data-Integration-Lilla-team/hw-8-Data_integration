@@ -1,6 +1,6 @@
 {
-"founded":["foundation_year"],
-"headquarters":["headquarter"],
+"foundation_year":["foundation_year"],
+"headquarter":["headquarter"],
 "industry":["industry"],
 "name":["name"],
 "ownership":["ownership"]

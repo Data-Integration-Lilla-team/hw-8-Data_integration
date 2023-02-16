@@ -3,10 +3,8 @@
 "city":["city"],
 "country":["country"],
 "name":["name"],
-"index":["index"],
 "location_type":["location_type"],
 "postalcode":["postalcode"],
 "state":["state"],
-"trade_name":["trade_name"],
-"url":["url"]
+"trade_name":["trade_name"]
 }

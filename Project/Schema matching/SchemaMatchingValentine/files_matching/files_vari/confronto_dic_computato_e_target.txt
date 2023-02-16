@@ -1,82 +1,82 @@
 
 Elemento: name
-Sinonimi computati:['address_name', 'trade_name', 'official_name', 'name', 'industry', 'status']
+Sinonimi computati:['headquarter', 'address_name', 'name', 'stage', 'headquarters', 'official_name', 'headquarters_sub_region', 'company_type', 'trade_name', 'legal_form', 'locations', 'ceo', 'industry', 'sic_code']
 Sinonimi reali:['name']
 Intersezione:{'name'}
-Computato - TGT:{'address_name', 'trade_name', 'official_name', 'industry', 'status'}
+Computato - TGT:{'headquarter', 'ceo', 'headquarters', 'stage', 'official_name', 'headquarters_sub_region', 'company_type', 'trade_name', 'legal_form', 'address_name', 'locations', 'industry', 'sic_code'}
 TGT- Computato:set()
-Jaccard score:0.16666666666666666
+Jaccard score:0.07142857142857142
 ========================
 Elemento: country
-Sinonimi computati:['headquarters', 'country', 'state', 'headquarters_continent', 'nation']
+Sinonimi computati:['headquarters_country', 'state', 'headquarters', 'nation', 'country', 'headquarters_continent']
 Sinonimi reali:['country', 'headquarters', 'nation']
-Intersezione:{'headquarters', 'nation', 'country'}
-Computato - TGT:{'headquarters_continent', 'state'}
+Intersezione:{'nation', 'country', 'headquarters'}
+Computato - TGT:{'headquarters_country', 'state', 'headquarters_continent'}
 TGT- Computato:set()
-Jaccard score:0.6
+Jaccard score:0.5
 ========================
 Elemento: address
-Sinonimi computati:['address_name', 'address']
+Sinonimi computati:['office_address', 'address', 'address_name', 'registered_office_address']
 Sinonimi reali:['address', 'address_name']
 Intersezione:{'address_name', 'address'}
-Computato - TGT:set()
+Computato - TGT:{'office_address', 'registered_office_address'}
 TGT- Computato:set()
-Jaccard score:1.0
+Jaccard score:0.5
 ========================
 Elemento: founded
-Sinonimi computati:['founded', 'foundation_year', 'founders', 'est_of_ownership', 'founding_year']
+Sinonimi computati:['founding_year', 'est_of_ownership', 'founded', 'founders', 'foundation_year']
 Sinonimi reali:['founded', 'est_of_ownership', 'foundation_year', 'founding_year']
-Intersezione:{'founding_year', 'founded', 'foundation_year', 'est_of_ownership'}
+Intersezione:{'founding_year', 'founded', 'est_of_ownership', 'foundation_year'}
 Computato - TGT:{'founders'}
 TGT- Computato:set()
 Jaccard score:0.8
 ========================
 Elemento: employees
-Sinonimi computati:['employees', 'employees_2020', 'employees_number_2020', 'rank', 'employees_2017', 'employees_number', 'number_of_employees', 'absolute_growth_rate_pct', 'id', 'revenue_2017_eu', 'compound_annual_growth_rate_cagr_pct', 'employees_number_2017', 'Unnamed: 0', 'employees_2022']
+Sinonimi computati:['employees_number', 'id', 'employees_number_2017', 'employees_2022', 'absolute_growth_rate_pct', 'employees_number_2020', 'rank', 'compound_annual_growth_rate_cagr_pct', 'revenue_2017_eu', 'employees', 'Unnamed: 0', 'number_of_employees']
 Sinonimi reali:['employees', 'employees_number', 'employees_2022', 'employees_number_2020', 'number_of_employees']
-Intersezione:{'employees', 'employees_number_2020', 'number_of_employees', 'employees_number', 'employees_2022'}
-Computato - TGT:{'employees_2020', 'rank', 'employees_2017', 'absolute_growth_rate_pct', 'id', 'revenue_2017_eu', 'compound_annual_growth_rate_cagr_pct', 'employees_number_2017', 'Unnamed: 0'}
+Intersezione:{'employees_number', 'employees_2022', 'employees_number_2020', 'employees', 'number_of_employees'}
+Computato - TGT:{'id', 'employees_number_2017', 'absolute_growth_rate_pct', 'rank', 'compound_annual_growth_rate_cagr_pct', 'revenue_2017_eu', 'Unnamed: 0'}
 TGT- Computato:set()
-Jaccard score:0.35714285714285715
+Jaccard score:0.4166666666666667
 ========================
 Elemento: market_cap
-Sinonimi computati:['profit', 'revenue', 'assets', 'market_cap', 'valuation', 'sales', 'market_value', 'pricecap', 'annual_net_income_usd', 'earnings']
+Sinonimi computati:['annual_net_income_usd', 'assets', 'revenue', 'pricecap', 'sales', 'market_cap', 'valuation', 'market_value', 'share_price', 'profit', 'earnings']
 Sinonimi reali:['market_cap', 'pricecap', 'market_value', 'market_capitalization_2022']
 Intersezione:{'market_value', 'market_cap', 'pricecap'}
-Computato - TGT:{'profit', 'revenue', 'assets', 'valuation', 'sales', 'annual_net_income_usd', 'earnings'}
+Computato - TGT:{'annual_net_income_usd', 'assets', 'revenue', 'sales', 'valuation', 'share_price', 'profit', 'earnings'}
 TGT- Computato:{'market_capitalization_2022'}
-Jaccard score:0.2727272727272727
+Jaccard score:0.25
 ========================
 Elemento: revenue
-Sinonimi computati:['profit', 'revenue_2020_eu', 'revenue', 'assets', 'annual_revenue_usd', 'market_cap', 'valuation', 'sales', 'market_value', 'revenue_2017_eu', 'pricecap', 'annual_net_income_usd', 'earnings', 'revenue_2022']
+Sinonimi computati:['annual_net_income_usd', 'assets', 'revenue', 'pricecap', 'sales', 'market_cap', 'valuation', 'market_value', 'share_price', 'revenue_2020_eu', 'annual_revenue_usd', 'profit', 'revenue_2017_eu', 'earnings']
 Sinonimi reali:['revenue', 'sales', 'revenue_2020_eu', 'annual_revenue_usd']
-Intersezione:{'revenue', 'sales', 'revenue_2020_eu', 'annual_revenue_usd'}
-Computato - TGT:{'profit', 'assets', 'market_cap', 'valuation', 'revenue_2017_eu', 'market_value', 'pricecap', 'annual_net_income_usd', 'earnings', 'revenue_2022'}
+Intersezione:{'revenue_2020_eu', 'annual_revenue_usd', 'sales', 'revenue'}
+Computato - TGT:{'annual_net_income_usd', 'assets', 'market_cap', 'pricecap', 'valuation', 'market_value', 'share_price', 'profit', 'revenue_2017_eu', 'earnings'}
 TGT- Computato:set()
 Jaccard score:0.2857142857142857
 ========================
 Elemento: profit
-Sinonimi computati:['profit', 'revenue', 'assets', 'market_cap', 'valuation', 'sales', 'market_value', 'pricecap', 'annual_net_income_usd', 'earnings']
+Sinonimi computati:['annual_net_income_usd', 'assets', 'revenue', 'pricecap', 'sales', 'market_cap', 'valuation', 'market_value', 'share_price', 'profit', 'earnings']
 Sinonimi reali:['profit', 'earnings', 'annual_net_income_usd']
-Intersezione:{'profit', 'annual_net_income_usd', 'earnings'}
-Computato - TGT:{'revenue', 'assets', 'market_cap', 'valuation', 'sales', 'market_value', 'pricecap'}
+Intersezione:{'annual_net_income_usd', 'earnings', 'profit'}
+Computato - TGT:{'assets', 'revenue', 'market_cap', 'pricecap', 'sales', 'valuation', 'market_value', 'share_price'}
 TGT- Computato:set()
-Jaccard score:0.3
+Jaccard score:0.2727272727272727
 ========================
 Elemento: categories
-Sinonimi computati:['industry', 'notes', 'categories']
+Sinonimi computati:['notes', 'categories', 'industry']
 Sinonimi reali:['industry', 'categories', 'sector']
-Intersezione:{'industry', 'categories'}
+Intersezione:{'categories', 'industry'}
 Computato - TGT:{'notes'}
 TGT- Computato:{'sector'}
 Jaccard score:0.5
 ========================
 Elemento: ceo
-Sinonimi computati:['official_name', 'name', 'ceo', 'headquarter']
+Sinonimi computati:['headquarter', 'name', 'stage', 'headquarters', 'official_name', 'headquarters_sub_region', 'company_type', 'trade_name', 'legal_form', 'locations', 'ceo', 'industry', 'sic_code']
 Sinonimi reali:['ceo']
 Intersezione:{'ceo'}
-Computato - TGT:{'official_name', 'name', 'headquarter'}
+Computato - TGT:{'headquarter', 'headquarters', 'name', 'stage', 'official_name', 'headquarters_sub_region', 'company_type', 'trade_name', 'legal_form', 'locations', 'industry', 'sic_code'}
 TGT- Computato:set()
-Jaccard score:0.25
+Jaccard score:0.07692307692307693
 ========================
-AVG valori extra: 4.5
+AVG valori extra: 6.5
