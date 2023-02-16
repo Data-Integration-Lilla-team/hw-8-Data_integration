@@ -17,8 +17,10 @@ class Token_obj:
     def __init__(self,name_ture,sinonimi_pregressi):
         self.sin_preg=sinonimi_pregressi
         self.sin_attuali=set()
+       
         self.true_name=name_ture
         self.name=self.true_name.split('-')[1]
+        self.sin_attuali.add(self.name)
 
 
         #thresholds
@@ -27,9 +29,10 @@ class Token_obj:
         self.update_imm=0.8
         
         #inserimento nei sinonimi attuali
-        self.thresh_sim_sin_attuali=0.25
+        self.thresh_sim_sin_attuali=0.3
 
-
+    def update_sin_attuali(self, A):
+        self.sin_attuali.add(A)
 
     
     #SCORE 2
@@ -38,8 +41,7 @@ class Token_obj:
         intersection=len(list(A.intersection(B)))
         union=(len(list(A))+len(list(B)))-intersection
         jaccard=float(intersection)/union
-        print('SCORE 2')
-        print('Jaccard',jaccard)
+       
         return jaccard
 
     #SCORE 1
@@ -51,10 +53,7 @@ class Token_obj:
             Levi_inv=0
         n_grams=ngram.NGram.compare(A,B,N=3)
         n_grams2=ngram.NGram.compare(A,B,N=4)
-        print('SCORE 1')
-        print(A,'Levi',B,'=',Levi_inv)
-        print(A,'3gram',B,'=',n_grams)
-        print(A,'4gram',B,'=',n_grams2)
+      
         
 
         out=((Levi_inv+n_grams+n_grams2)/3)
@@ -76,9 +75,11 @@ class Token_obj:
         score=0
         N_a=len(inputA)
         N_b=len(inputB)
+        if N_a==0 and N_b==0:
+            return 1
         inputA=list(inputA)
         inputB=list(inputB)
-        print('SCORE 3')
+        
         for i in range(0,len(inputA)):
             A=inputA[i]
             
@@ -86,10 +87,10 @@ class Token_obj:
                 current_score=self.compute_dist1(inputA[i],inputB[j])
                 score+=current_score
 
-        print('Similarity tokens not commom:',score/(N_a+N_b))
+        
         return score/(N_a+N_b)
 
-    def update_sin_attuali(self,B, score):
+    '''def update_sin_attuali(self,B, score):
         if score>=self.update_imm:
             B.sin_preg.add(self.name)
             self.sin_preg.add(B.name)
@@ -97,7 +98,7 @@ class Token_obj:
             B.sin_preg.update(A.sin_preg)
 
         if score>=self.thresh_sim_sin_attuali:
-            self.sin_attuali.add(B.name)
+            self.sin_attuali.add(B.name)'''
 
     def confront_columns(self, token_B):
         final_score=0
@@ -112,24 +113,23 @@ class Token_obj:
 
         #2. Score intersection sinonimi storici A e B
         #Jaccard A e B
-        score_2=self.compute_jaccard(self.sin_preg,token_B.sin_preg)
+        score_2=self.compute_jaccard(self.sin_preg,token_B.sin_preg)+0.2
 
         #3 Score sim(A,B) per ogni A e B in (A.sin_pre - B.sin_pre) union B.sin_pre - A.sin_pre
         input_score3=self.compute_input_score_3(A=self.sin_preg,nameA=self.name,B=token_B.sin_preg,nameB=token_B.name)
         score_3=self.compute_score3(input_score3[0],input_score3[1])
 
-        print('Score 1',score_1)
         
-        print('Score 2',score_2)
-        print('Score 3',score_3)
         final_score=(score_1+score_2+score_3)/3
 
-        self.update_sin_attuali(token_B,final_score)
 
-        token_B.update_sin_attuali(self,final_score)
 
-        print(final_score)
-    
+        #self.update_sin_attuali(token_B,final_score)
+
+        #token_B.update_sin_attuali(self,final_score)
+
+        
+        return final_score
 
     
 

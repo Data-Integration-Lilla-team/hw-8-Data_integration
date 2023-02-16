@@ -195,7 +195,7 @@ def print_perf_preProcessing_module_4schemaMediato():
     scores_final.to_csv('Project\\Testing\\Matching\\performace\\perf_per_schema_mediato.csv')
 
 def print_perf_Valentine_4clusters():
-    path_Clusters_comp='Project\\Schema matching\\SchemaMatchingValentine\\clusters\\final_synonyms'
+    path_Clusters_comp='Project\\Schema matching\\SchemaMatchingValentine\\clusters\\synonyms'
     path_Clusters_true='Project\\Schema matching\\DatasetSchemaMatch'
     clusters=os.listdir(path_Clusters_comp)
     colonne=['name','precision','recall','f1','jaccard','avg comp inutili']

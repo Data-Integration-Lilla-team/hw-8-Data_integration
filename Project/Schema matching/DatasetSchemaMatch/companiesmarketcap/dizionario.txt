@@ -14,7 +14,5 @@
             "id":["id"],
             "url":["url"],
             "rank":["rank"]
-
         }
-        ,id,employees,pricecap,revenue,earnings,name,change_1day,change_1year,share_price,url,company_code,rank,country,shares,categories
 

@@ -8,8 +8,8 @@
 "founded": ["founded"],
 "sector": ["sector"],
 "industry": ["industry", "company_business"],
-"annual_revenue_usd": ["revenue", "revenue_2022", "annual_revenue_in_usd", "annual_revenue_usd"],
-"employees_2022": ["employees_2022", "number_of_employees", "employees_number"],
+"revenue": ["revenue", "revenue_2022", "annual_revenue_in_usd", "annual_revenue_usd"],
+"employees_number": ["employees_2022", "number_of_employees", "employees_number"],
 "ceo": ["ceo"],
 "annual_net_income_usd": ["annual_net_income_in_usd", "annual_net_income_usd"],
 "company_website": ["company_website"],
@@ -24,3 +24,4 @@
 "total_equity_in_usd": ["total_equity_in_usd"],
 "total_liabilities_in_usd": ["total_liabilities_in_usd"]
 }
+

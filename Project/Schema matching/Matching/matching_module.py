@@ -43,6 +43,8 @@ class MatchingModule:
 
 
 
+
+
 #per ogni dataset del sorgente, genera il suo path
 #esempio:
 #sorgente: disfold
@@ -145,8 +147,8 @@ class MatchingModule:
         print(clusterName)
         nameCorr=NameCorr(clusterName)
         dic_name_correlation=nameCorr.computeCorr(file_names,validation_set)
-        #for k in dic_name_correlation.keys():
-        #   print(k,dic_name_correlation[k])
+        
+        
 
         #calcola il numero di attributi da imporre come massimo per cluster
         #max cluster=max columns distinte

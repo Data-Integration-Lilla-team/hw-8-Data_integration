@@ -1,18 +1,17 @@
 {
     "name": [
+        "name",
         "company_type",
         "trade_name",
-        "stage",
         "headquarters",
         "legal_form",
         "locations",
         "industry",
         "ceo",
         "headquarters_sub_region",
-        "name"
+        "stage"
     ],
     "country": [
-        "headquarters_country",
         "state",
         "country",
         "nation",
@@ -24,10 +23,9 @@
     ],
     "founded": [
         "foundation_year",
-        "founders",
-        "founding_year",
         "est_of_ownership",
-        "founded"
+        "founded",
+        "founding_year"
     ],
     "employees": [
         "employees",
@@ -45,12 +43,11 @@
         "market_cap",
         "sales",
         "earnings",
-        "valuation",
         "revenue",
+        "valuation",
         "market_value",
         "assets",
         "profit",
-        "market_capitalization_2022",
         "annual_net_income_usd",
         "pricecap"
     ],
@@ -58,12 +55,10 @@
         "market_cap",
         "sales",
         "earnings",
-        "valuation",
         "revenue",
+        "valuation",
         "market_value",
         "assets",
-        "revenue_2017_eu",
-        "revenue_2020_eu",
         "profit",
         "annual_net_income_usd",
         "pricecap"
@@ -72,8 +67,8 @@
         "market_cap",
         "sales",
         "earnings",
-        "valuation",
         "revenue",
+        "valuation",
         "market_value",
         "assets",
         "profit",
@@ -81,21 +76,21 @@
         "pricecap"
     ],
     "categories": [
-        "industry",
-        "sector",
         "categories",
-        "notes"
+        "industry",
+        "notes",
+        "sector"
     ],
     "ceo": [
+        "name",
         "company_type",
         "trade_name",
-        "stage",
         "headquarters",
         "legal_form",
         "locations",
         "industry",
         "ceo",
         "headquarters_sub_region",
-        "name"
+        "stage"
     ]
 }

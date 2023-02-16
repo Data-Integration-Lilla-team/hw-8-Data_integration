@@ -18,7 +18,7 @@ class MatchingModule_final:
 
     def __init__(self,k):
 
-        self.threshold_max_par=4
+        self.threshold_max_par=4.5   #massimo numero di cluster
         self.base_path=''
         self.path_destinazione='Project\\Schema matching\\SchemaMatchingValentine\\files_matching\\files_vari'
 
@@ -46,6 +46,33 @@ class MatchingModule_final:
         #evaluation_dic
         self.name_file_evaluation_dic='confronto_dic_computato_e_target.txt'
         self.path_name_file_evaluation_dic=self.path_destinazione+'\\'+self.name_file_evaluation_dic
+
+        #valutazione
+        self.name_file_evaluation_dic_matrix='data_and_name_dic_sin_union.csv'
+        self.path_name_file_evaluation_dic_matric=self.path_destinazione+'\\'+self.name_file_evaluation_dic_matrix
+
+        #dic sinonimi name correlation
+        self.name_file_dic_sin_name_correlatio='dizionario_sinonimi_name_correlation.txt'
+        self.path_dic_sin_name_correlation=self.path_destinazione+'\\'+self.name_file_dic_sin_name_correlatio
+
+        #dic sinonimi data clustering
+        self.name_file_dic_sin_data_clustering='dizionario_sinonimi_data_clustering.txt'
+        self.path_dic_sin_data_clustering=self.path_destinazione+'\\'+self.name_file_dic_sin_data_clustering
+
+        #valutazione name correlation
+        self.name_file_valutazione_name_corr='name_correlation_valutazione.csv'
+        self.path_name_file_valutazione_name_corr=self.path_destinazione+'\\'+self.name_file_valutazione_name_corr
+
+        #valutazione data correlation
+        self.name_file_valutazione_data_clustering='data_clustering_valutazione.csv'
+        self.path_name_file_valutazione_data_clustering=self.path_destinazione+'\\'+self.name_file_valutazione_data_clustering
+
+        
+
+
+        #tempi
+        self.name_file_tempi='tempi.txt'
+        self.path_name_file_tempi=self.path_destinazione+'\\'+self.name_file_tempi
 
 
 
@@ -95,10 +122,77 @@ class MatchingModule_final:
         inverted_index=json.loads(data)
 
         return inverted_index
-            
+
+    def filter_extra_data(self, computed, validation):
+        out=dict()
+        for k in validation.keys():
+            out[k]=list(computed[k])
+
+        return out 
+
+    def compute_dic_name_correlation(self,tokens,validation_set,clusterName):
+        nameCorr=NameCorr(clusterName)
+        from timeit import default_timer as timer
+
+        
+        #versione vecchia (name correlation tradizionale, senza token con memoria)
+        #dic_name_correlation=nameCorr.computeCorr(file_names,validation_set)
+        
+        
+        start = timer()
+        dic_name_correlation_token=nameCorr.computeCorrTokens(tokens,validation_set)
+        end=timer()
+        with open(self.path_name_file_tempi,'a') as f:
+            stringa='Name correlation: '+str(end-start)+'\n'
+            f.write(stringa)
+
+        val=Eval()
+        valutazione_name_correlation=val.compute_dis_f1(dic_name_correlation_token,validation_set)
+        valutazione_name_correlation.to_csv(self.path_name_file_valutazione_name_corr)
+        
+
+        dic_name_correlation_fitered=self.filter_extra_data(dic_name_correlation_token,validation_set)
+
+        
+        with open(self.path_dic_sin_name_correlation,'w') as f:
+            f.write(json.dumps(dic_name_correlation_fitered))
+
+        return dic_name_correlation_fitered
 
 
-                
+    def compute_dic_data_clustering(self,file_names,validation_set,clusterName):
+        #calcola il numero di attributi da imporre come massimo per cluster
+        #max cluster=max columns distinte
+        print('DATA CORRELATION')
+        from timeit import default_timer as timer
+        max_clusters=int(self.compute_max_clusters(validation_set)*self.threshold_max_par)
+        print('CLUSTER DA ANALIZZARE:',max_clusters)
+
+        #computazione clustering data
+        dataClustering=ClusterData(clusterName)
+        print('CLUSTER NAME:',clusterName)
+        start=timer()
+        dic_data_clustering=dataClustering.clusterData(file_names,max_clusters,validation_set)
+        end = timer()
+        with open(self.path_name_file_tempi,'a') as f:
+            stringa='Data correlation: '+str(end-start)+'\n============\n'
+            f.write(stringa)
+        
+        val=Eval()
+        valutazione_name_correlation=val.compute_dis_f1(dic_data_clustering,validation_set)
+        valutazione_name_correlation.to_csv(self.path_name_file_valutazione_data_clustering)
+        
+
+        dic_data_correlation_fitered=self.filter_extra_data(dic_data_clustering,validation_set)
+        print(dic_data_correlation_fitered)
+
+        with open(self.path_dic_sin_data_clustering,'w') as f:
+            f.write(json.dumps(dic_data_correlation_fitered,indent=4))
+
+
+        print(dic_data_correlation_fitered['ceo'])
+        return dic_data_correlation_fitered
+       
 
             
     def limit_names(self,unione,data_c):
@@ -114,85 +208,47 @@ class MatchingModule_final:
 
     def merge_dict(self, data_c, name_corr):
         output=dict()
-        numero_colonne=len(data_c)
         for k in data_c.keys():
             elementi_A=set(data_c[k])
             elementi_B=set(name_corr[k])
             unione=list(elementi_A.union(elementi_B))
             
             output[k]=unione
+        
         return output
+
+
     #riceve in input:
     #Nome sorgente
     #lista di tuple (nome team, path dataset)
     #restituisce il dizionario calcolato dei sinonimi
-    def create_dic_sin(self,path_cluster, clusterName):
+    def create_dic_sin(self,path_cluster, clusterName,tokens):
 
         validation_set=self.create_validation_sic_dic()         #acquisizioine del file .txt 'column_sinonimi.txt' e conversione in dizionario
 
         
         file_names=self.get_files_name(path_cluster)
 
-        #computazione della name correlation
-        print(clusterName)
-        nameCorr=NameCorr(clusterName)
-        from timeit import default_timer as timer
 
-        start = timer()
-        
-        dic_name_correlation=nameCorr.computeCorr(file_names,validation_set)
-        eval=Eval()
-        end = timer()
-        print('tempi name correlation',end - start)
-        score=eval.eval_print(dic_name_correlation,validation_set)
-        print('Punteggio jaccard name correlation',score)
-
+        #name correlation_with tokens
+        dic_name_correlation_token=self.compute_dic_name_correlation(tokens,validation_set,clusterName)
         
 
-        #calcola il numero di attributi da imporre come massimo per cluster
-        #max cluster=max columns distinte
-        print('DATA CORRELATION')
-        max_clusters=int(self.compute_max_clusters(validation_set)*self.threshold_max_par)
-        print('CLUSTER DA ANALIZZARE:',max_clusters)
-
-        #computazione clustering data
-        dataClustering=ClusterData(clusterName)
-        print('CLUSTER NAME:',clusterName)
-        start=timer()
-        dic_data_clustering=dataClustering.clusterData(file_names,max_clusters,validation_set)
-        end = timer()
-        print('tempi name data clustering',end - start)
-        dic_data_clustering_filtered=dict()
-        #prendo solo i valori dello schema mediato
-        print('cluster data')
-        for k in validation_set.keys():
-            dic_data_clustering_filtered[k]=dic_data_clustering[k]
-            print(k,dic_data_clustering[k])
-        
-        
-
-
-
+        #data clustering
+        dic_data_clustering=self.compute_dic_data_clustering(file_names,validation_set,clusterName)
 
 
         #UNIONE DEI DIZIONARI COMPUTATI
-        full_dic=self.merge_dict(dic_data_clustering_filtered,dic_name_correlation)
+        full_dic=self.merge_dict(dic_data_clustering,dic_name_correlation_token)
        
         evaluator=Eval()
-        score=evaluator.evaluate(full_dic,validation_set)
+        final_score=evaluator.compute_dis_f1(full_dic,validation_set)
+        final_score.to_csv(self.path_name_file_evaluation_dic_matric)
 
-        #STAMPA DELLE PERFORMANCE
-        stringa='\nNUOVO GIRO'
-        with open(self.path_file_valutazione_pre_val, 'a') as f:
-            stringa=clusterName+' Score: '+str(score)+'\n'
-            f.write(stringa)
-        
         #STAMPA DEL DIZINARIO FULL
         stringa='\n'
-        with open(self.path_file_dic_sin_pre_val, 'w') as f:
-            
-                
-            f.write(json.dumps(full_dic))
+        with open(self.path_file_dic_sin_pre_val, 'w') as f:    
+            f.write(json.dumps(full_dic,indent=4))
 
         
         #VALUTAZIONE GENERALE
@@ -217,7 +273,7 @@ class MatchingModule_final:
             stringa=stringa+'AVG valori extra: ' +str(avg_valori_extra)+'\n'
             f.write(stringa)
 
-       
+
 
 
                     

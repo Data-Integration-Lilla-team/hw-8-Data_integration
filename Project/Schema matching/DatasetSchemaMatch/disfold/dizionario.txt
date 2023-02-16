@@ -9,6 +9,7 @@
 "stock": ["stock"],
 "founded": ["founded"],
 "sector": ["sector"],
+"headquarters_country": ["country", "headquarters_country"],
 "country": ["country", "headquarters_country"],
 "net_income": ["net_income"],
 "revenue": ["revenue"],
@@ -16,5 +17,6 @@
 "gbp": ["gbp"],
 "headquarters_continent": ["headquarters_continent"],
 "code": ["code"],
-"official_name": ["official_name"]
+"official_name": ["official_name"],
+"rank":["rank"]
 }

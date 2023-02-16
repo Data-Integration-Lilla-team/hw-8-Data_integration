@@ -2,10 +2,49 @@
 Classe specializzata nella valutazione dei dizionari dei sinonimi mediante Jaccard
 
 '''
+import pandas as pd
 class Eval:
 
     def __init__(self):
         pass
+    
+    def compute_jaccard( A,B):
+        intersection=len(list(A.intersection(B)))
+        union=(len(list(A))+len(list(B)))-intersection
+        return float(intersection)/union
+
+    def compute_dis_f1(self,computato,target):
+        N=len(target.keys())
+        precision=0
+        recall=0
+        f1=0
+        jaccard=0
+        results=[]
+        numero_confronti_extra=0
+        for k in target.keys():
+            name=k
+            sing_precision=0
+            sing_recall=0
+            sing_F1=0
+            comp_sin=set(computato[k])
+            true_sin=set(target[k])
+            
+            intersezione=comp_sin.intersection(true_sin)
+            false_positive=comp_sin.difference(true_sin)
+            false_negative=true_sin.difference(comp_sin)
+            jaccard=self.compute_jaccard(comp_sin,true_sin)
+            sing_precision=len(intersezione)/(len(comp_sin)+len(false_positive))
+            sing_recall=len(intersezione)/(len(intersezione)+len(false_negative))
+            sing_F1=(2*sing_precision*sing_recall)/(sing_recall+sing_precision)
+            numero_confronti_extra=len(comp_sin.difference(true_sin))
+
+
+            
+        
+            results.append([name,sing_precision,sing_recall,sing_F1,jaccard,numero_confronti_extra])
+        colonne=['name','precision','recall','f1','jaccard','avg comp inutili']
+        results=pd.DataFrame(data=results,columns=colonne)
+        return results
 
     def compute_jaccard(self, A,B):
         intersection=len(list(A.intersection(B)))

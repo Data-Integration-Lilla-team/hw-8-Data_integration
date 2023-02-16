@@ -4,7 +4,8 @@
 "hhid":["hhid"],
 "industry":["industry"],
 "name":["name"],
-"country":["nation"],
+"nation":["nation"],
 "sic_code":["sic_code"],
 "type":["type"]
 }
+

@@ -15,6 +15,7 @@ class NameCorr:
     def __init__(self,clusterName) -> None:
 
         #thresholds
+        self.threshold_tokens=0.25
         self.threshold=0.4
         self.threshold_levi=0.6
         self.max=0.6
@@ -389,10 +390,56 @@ class NameCorr:
 
         resultLevi.update(resultNgrams)
 
+        valutation=Eval()
+        print('Score mod 1')
+        results=valutation.compute_dis_f1(resultLevi,validation_set)
+        for i in results:
+            print(i)
+
         
 
         
         return resultLevi
+    
+    def computeCorrTokens(self, tokens, validation_set):
+
+        
+        diz_sinonimi_final=dict()
+        i=0
+        #crea i potenziali nuovi sinonimi
+        for i in range(len(tokens)):
+            current_element=tokens[i]
+            j=0
+            for j in range (len(tokens)):
+                if j!=i:
+                    to_confront=tokens[j]
+                    
+                    score=current_element.confront_columns(to_confront)
+                    if score>=self.threshold_tokens:
+                        
+                        
+                        current_element.update_sin_attuali(to_confront.name)
+        #crea i sinonimi
+        for t in tokens:
+            true_name=t.name
+            if true_name in validation_set:
+                if true_name not in diz_sinonimi_final:
+                    diz_sinonimi_final[true_name]=t.sin_attuali
+                if true_name in diz_sinonimi_final:
+                    diz_sinonimi_final[true_name].update(t.sin_attuali)
+        
+
+        
+        return diz_sinonimi_final
+        
+        
+
+        
+
+
+        
+
+
         
        
         

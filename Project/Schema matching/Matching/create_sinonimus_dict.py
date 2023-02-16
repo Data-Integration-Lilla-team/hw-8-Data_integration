@@ -121,13 +121,13 @@ def get_SRC_to_path_final(path):
     return final_dic
 
 #creazione del dizionario finale per la creazione dello schema mediato
-def create_sin_dic_final(sorgenti2path_par):
+def create_sin_dic_final(sorgenti2path_par,tokens):
     
     for k in sorgenti2path_par.keys():
         matcher=MatchingModule_final(k)
         print(k)
         print(sorgenti2path_par[k])
-        matcher.create_dic_sin(sorgenti2path_par[k],k)  #la lista di tuple e un nome fake
+        matcher.create_dic_sin(sorgenti2path_par[k],k,tokens)  #la lista di tuple e un nome fake
 
 def extract_cols(elements_path):
     import json
@@ -171,7 +171,8 @@ def update_diz(dizionario_gen,dizionario_sinonimi,cluster_name):
     for k in dizionario_sinonimi.keys():
         name_cluster=cluster_name+'-'+k
         dizionario_gen[name_cluster]=dizionario_sinonimi[k]
-    return dizionario_gen        
+    return dizionario_gen 
+
 def create_dizionario_sinonimi_pregressi(path,dest):
 
     dizionario_pregressi=dict()
@@ -191,11 +192,19 @@ def create_dizionario_sinonimi_pregressi(path,dest):
         dizionario_pregressi=update_diz(dizionario_pregressi,dizionario_sinonimi_pregressi,cluster_name)  
 
 
-    for k in dizionario_pregressi.keys():
-        print(k,dizionario_pregressi[k])      
+    return dizionario_pregressi      
         
 
-    
+def create_token_list(dizionario_sinonimi_pregressi):
+    from token_obj import Token_obj
+    list_of_tokens=[]
+    for k in dizionario_sinonimi_pregressi.keys():
+        full_name=k
+        sinonimi_pregressi=set(dizionario_sinonimi_pregressi[k])
+        token=Token_obj(full_name,sinonimi_pregressi=sinonimi_pregressi)
+        
+        list_of_tokens.append(token) 
+    return list_of_tokens
           
        
 
@@ -268,7 +277,7 @@ if __name__=='__main__':
     #    file.write(json.dumps(create_inverted_index)) 
     
     
-    #create_sin_dic_final(sorgenti2path_par)
+    #
 
 
 
@@ -276,6 +285,15 @@ if __name__=='__main__':
     dest_dizionario_sinonimi_pregressi='Project\\Schema matching\\SchemaMatchingValentine\\files_matching\\files_vari\\dizionario_sinonimi_pregressi.txt'
 
     dizionario_sinonimi_pregressi=create_dizionario_sinonimi_pregressi(path_for_dizionario_pregressi,dest_dizionario_sinonimi_pregressi)
+
+    with open(dest_dizionario_sinonimi_pregressi,'w') as f:
+        f.write(json.dumps(dizionario_sinonimi_pregressi,indent=4))
+
+
+    tokens=create_token_list(dizionario_sinonimi_pregressi)
+    create_sin_dic_final(sorgenti2path_par,tokens)
+
+    
 
     
    
