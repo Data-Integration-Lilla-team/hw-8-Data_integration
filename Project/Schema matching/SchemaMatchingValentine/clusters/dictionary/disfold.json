@@ -1,0 +1,61 @@
+{
+    "country": [
+        "07-silvestri-country",
+        "04-iGMM-country",
+        "10-DeBiGa-country",
+        "02-GioPonSpiz-country",
+        "05-MalPatSaj-country",
+        "03-gren-country"
+    ],
+    "stock": [
+        "10-DeBiGa-stock",
+        "05-MalPatSaj-stock",
+        "07-silvestri-stock",
+        "02-GioPonSpiz-stock",
+        "04-iGMM-code",
+        "03-gren-stock"
+    ],
+    "industry": [
+        "06-MarScoToc-industry",
+        "04-iGMM-industry",
+        "03-gren-industry",
+        "05-MalPatSaj-industry",
+        "10-DeBiGa-industry",
+        "02-GioPonSpiz-industry"
+    ],
+    "sector": [
+        "03-gren-sector",
+        "02-GioPonSpiz-sector",
+        "05-MalPatSaj-sector",
+        "06-MarScoToc-sector",
+        "04-iGMM-sector",
+        "10-DeBiGa-sector",
+        "07-silvestri-sector"
+    ],
+    "employees": [
+        "00-avengers-employees",
+        "04-iGMM-employees"
+    ],
+    "name": [
+        "00-avengers-name",
+        "02-GioPonSpiz-name",
+        "03-gren-name",
+        "10-DeBiGa-name",
+        "04-iGMM-name",
+        "05-MalPatSaj-name",
+        "07-silvestri-name"
+    ],
+    "ceo": [
+        "00-avengers-ceo",
+        "04-iGMM-ceo"
+    ],
+    "market_capitalization_usd": [
+        "03-gren-market_capitalization_usd",
+        "00-avengers-market_cap",
+        "04-iGMM-marketcap",
+        "07-silvestri-market_value_apr_2022",
+        "10-DeBiGa-market_cap",
+        "02-GioPonSpiz-marketcap",
+        "05-MalPatSaj-marketcap"
+    ]
+}

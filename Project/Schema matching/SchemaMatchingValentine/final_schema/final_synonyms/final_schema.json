@@ -1,0 +1,620 @@
+{
+    "founded": [
+        "wikipedia-founded"
+    ],
+    "market_value": [
+        "forbes-market_value",
+        "companiesmarketcap-share_price"
+    ],
+    "earnings": [
+        "companiesmarketcap-earnings",
+        "companiesmarketcap-name",
+        "companiesmarketcap-revenue",
+        "companiesmarketcap-pricecap",
+        "companiesmarketcap-id",
+        "companiesmarketcap-country",
+        "companiesmarketcap-employees",
+        "companiesmarketcap-categories"
+    ],
+    "Unnamed: 0": [
+        "globaldata-Unnamed: 0",
+        "ariregister-Unnamed: 0",
+        "ambitiobox-Unnamed: 0",
+        "forbes-Unnamed: 0",
+        "hithorizons-Unnamed: 0",
+        "disfold-Unnamed: 0",
+        "teamblind-Unnamed: 0",
+        "cbinsights-Unnamed: 0",
+        "ft-Unnamed: 0",
+        "valuetoday-Unnamed: 0",
+        "infoclipper-Unnamed: 0"
+    ],
+    "address": [
+        "globaldata-address",
+        "globaldata-headquarters",
+        "globaldata-revenue",
+        "globaldata-industry",
+        "globaldata-name",
+        "valuetoday-revenue",
+        "disfold-revenue"
+    ],
+    "address-0": [
+        "globaldata-address",
+        "globaldata-headquarters",
+        "globaldata-industry",
+        "globaldata-revenue",
+        "globaldata-name"
+    ],
+    "name": [
+        "govuk-name"
+    ],
+    "address-1": [
+        "hithorizons-address",
+        "ariregister-name",
+        "ariregister-address"
+    ],
+    "country": [
+        "ft-country",
+        "forbes-country",
+        "forbes-profit",
+        "cbinsights-country",
+        "forbes-name",
+        "forbes-industry",
+        "disfold-country",
+        "infoclipper-country",
+        "forbes-ceo"
+    ],
+    "founded-2": [
+        "disfold-founded",
+        "disfold-id",
+        "disfold-industry",
+        "disfold-country",
+        "disfold-name",
+        "disfold-revenue",
+        "disfold-ceo"
+    ],
+    "Unnamed: 0-3": [
+        "companiesmarketcap-Unnamed: 0"
+    ],
+    "founded-4": [
+        "teamblind-founded",
+        "cbinsights-founded"
+    ],
+    "founded-5": [
+        "forbes-founded",
+        "teamblind-founded",
+        "cbinsights-founded"
+    ],
+    "state": [
+        "infoclipper-state",
+        "infoclipper-name",
+        "forbes-country",
+        "disfold-country",
+        "infoclipper-country"
+    ],
+    "employees": [
+        "disfold-employees",
+        "valuetoday-employees_2022"
+    ],
+    "earnings-6": [
+        "companiesmarketcap-earnings",
+        "forbes-market_value",
+        "companiesmarketcap-share_price",
+        "companiesmarketcap-name",
+        "companiesmarketcap-revenue",
+        "companiesmarketcap-pricecap",
+        "companiesmarketcap-id",
+        "companiesmarketcap-categories"
+    ],
+    "industry": [
+        "teamblind-industry",
+        "teamblind-locations",
+        "teamblind-name"
+    ],
+    "founded-7": [
+        "disfold-founded",
+        "disfold-headquarters",
+        "ft-country",
+        "disfold-id",
+        "forbes-country",
+        "disfold-industry",
+        "disfold-name",
+        "disfold-categories",
+        "disfold-country",
+        "infoclipper-country",
+        "disfold-headquarters_country",
+        "disfold-ceo"
+    ],
+    "state-8": [
+        "infoclipper-state",
+        "infoclipper-name",
+        "infoclipper-trade_name",
+        "infoclipper-address_name",
+        "disfold-official_name"
+    ],
+    "country-9": [
+        "cbinsights-country",
+        "valuetoday-country",
+        "ft-country",
+        "forbes-country",
+        "disfold-country",
+        "disfold-headquarters_country"
+    ],
+    "name-10": [
+        "forbes-name",
+        "forbes-assets",
+        "forbes-country",
+        "forbes-profit",
+        "forbes-sales",
+        "forbes-ceo"
+    ],
+    "earnings-11": [
+        "companiesmarketcap-earnings",
+        "companiesmarketcap-share_price",
+        "companiesmarketcap-name",
+        "companiesmarketcap-revenue",
+        "companiesmarketcap-pricecap",
+        "companiesmarketcap-id",
+        "companiesmarketcap-country",
+        "companiesmarketcap-employees",
+        "companiesmarketcap-categories"
+    ],
+    "sic_code": [
+        "hithorizons-sic_code",
+        "hithorizons-id"
+    ],
+    "annual_revenue_usd": [
+        "valuetoday-annual_revenue_usd",
+        "valuetoday-annual_net_income_usd"
+    ],
+    "revenue_2020_eu": [
+        "ft-revenue_2020_eu"
+    ],
+    "name-12": [
+        "disfold-name",
+        "forbes-name",
+        "ft-name"
+    ],
+    "industry-13": [
+        "valuetoday-industry",
+        "valuetoday-country",
+        "ft-country",
+        "valuetoday-founded",
+        "valuetoday-ceo",
+        "valuetoday-rank",
+        "valuetoday-id",
+        "valuetoday-revenue",
+        "valuetoday-founders",
+        "valuetoday-name"
+    ],
+    "headquarters": [
+        "disfold-headquarters",
+        "disfold-name",
+        "disfold-id",
+        "disfold-country",
+        "disfold-categories",
+        "disfold-ceo"
+    ],
+    "legal_form": [
+        "ariregister-legal_form"
+    ],
+    "official_name": [
+        "disfold-official_name",
+        "infoclipper-name",
+        "infoclipper-trade_name",
+        "infoclipper-address_name"
+    ],
+    "country-14": [
+        "cbinsights-country",
+        "cbinsights-name",
+        "ft-country",
+        "forbes-country",
+        "cbinsights-valuation",
+        "cbinsights-stage",
+        "cbinsights-industry"
+    ],
+    "est_of_ownership": [
+        "hithorizons-est_of_ownership"
+    ],
+    "name-15": [
+        "forbes-name",
+        "forbes-assets",
+        "forbes-country",
+        "ft-name",
+        "forbes-sales",
+        "forbes-ceo"
+    ],
+    "employees-16": [
+        "disfold-employees",
+        "forbes-employees"
+    ],
+    "id": [
+        "govuk-id"
+    ],
+    "industry-17": [
+        "valuetoday-industry",
+        "globaldata-industry",
+        "globaldata-revenue",
+        "globaldata-name",
+        "disfold-industry",
+        "teamblind-industry",
+        "globaldata-address",
+        "globaldata-headquarters",
+        "forbes-industry"
+    ],
+    "address_name": [
+        "infoclipper-address_name",
+        "infoclipper-trade_name",
+        "disfold-official_name"
+    ],
+    "profit": [
+        "forbes-profit",
+        "forbes-ceo",
+        "forbes-country",
+        "forbes-industry"
+    ],
+    "founded-18": [
+        "forbes-founded",
+        "cbinsights-founded"
+    ],
+    "industry-19": [
+        "hithorizons-industry",
+        "hithorizons-address",
+        "teamblind-industry",
+        "hithorizons-name",
+        "hithorizons-nation",
+        "forbes-industry",
+        "ambitiobox-industry",
+        "hithorizons-id"
+    ],
+    "name-20": [
+        "ariregister-name",
+        "ariregister-address"
+    ],
+    "employees-21": [
+        "disfold-employees",
+        "valuetoday-employees_2022",
+        "forbes-employees"
+    ],
+    "headquarters_continent": [
+        "valuetoday-headquarters_continent",
+        "valuetoday-headquarters_sub_region",
+        "disfold-headquarters_country"
+    ],
+    "industry-22": [
+        "valuetoday-industry",
+        "globaldata-revenue",
+        "valuetoday-country",
+        "valuetoday-founded",
+        "valuetoday-ceo",
+        "valuetoday-rank",
+        "valuetoday-id",
+        "valuetoday-revenue",
+        "valuetoday-founders",
+        "valuetoday-name"
+    ],
+    "country-23": [
+        "cbinsights-country",
+        "cbinsights-name",
+        "cbinsights-valuation",
+        "cbinsights-stage",
+        "cbinsights-industry"
+    ],
+    "Unnamed: 0-24": [
+        "globaldata-Unnamed: 0",
+        "ambitiobox-Unnamed: 0",
+        "ariregister-Unnamed: 0",
+        "forbes-Unnamed: 0",
+        "hithorizons-Unnamed: 0",
+        "ariregister-id",
+        "disfold-Unnamed: 0",
+        "teamblind-Unnamed: 0",
+        "cbinsights-Unnamed: 0",
+        "ft-Unnamed: 0",
+        "valuetoday-Unnamed: 0",
+        "infoclipper-Unnamed: 0"
+    ],
+    "founding_year": [
+        "ft-founding_year",
+        "ambitiobox-foundation_year"
+    ],
+    "revenue_2017_eu": [
+        "ft-revenue_2017_eu"
+    ],
+    "headquarters-25": [
+        "disfold-headquarters",
+        "wikipedia-industry",
+        "globaldata-headquarters",
+        "wikipedia-name",
+        "wikipedia-notes",
+        "wikipedia-headquarters",
+        "ambitiobox-headquarter"
+    ],
+    "Unnamed: 0-26": [
+        "ariregister-Unnamed: 0",
+        "ariregister-id"
+    ],
+    "founded-27": [
+        "disfold-founded",
+        "disfold-headquarters",
+        "wikipedia-industry",
+        "valuetoday-industry",
+        "disfold-id",
+        "globaldata-industry",
+        "disfold-industry",
+        "teamblind-industry",
+        "disfold-name",
+        "cbinsights-industry",
+        "disfold-country",
+        "forbes-industry",
+        "ambitiobox-industry",
+        "disfold-revenue"
+    ],
+    "industry-28": [
+        "hithorizons-industry",
+        "ariregister-address",
+        "hithorizons-name",
+        "hithorizons-nation",
+        "hithorizons-address",
+        "hithorizons-id"
+    ],
+    "office_address": [
+        "govuk-office_address",
+        "govuk-registered_office_address"
+    ],
+    "industry-29": [
+        "wikipedia-industry",
+        "wikipedia-notes",
+        "wikipedia-name",
+        "wikipedia-headquarters"
+    ],
+    "industry-30": [
+        "hithorizons-industry",
+        "hithorizons-name",
+        "hithorizons-nation",
+        "hithorizons-address",
+        "hithorizons-sic_code",
+        "hithorizons-id"
+    ],
+    "rank": [
+        "disfold-rank"
+    ],
+    "industry-31": [
+        "disfold-industry",
+        "teamblind-industry",
+        "cbinsights-stage",
+        "forbes-industry",
+        "cbinsights-industry",
+        "cbinsights-country",
+        "cbinsights-valuation",
+        "ambitiobox-industry",
+        "cbinsights-name"
+    ],
+    "employees_number_2020": [
+        "ft-employees_number_2020",
+        "ft-employees_number_2017",
+        "globaldata-number_of_employees"
+    ],
+    "founded-32": [
+        "disfold-founded",
+        "disfold-revenue",
+        "disfold-id",
+        "disfold-country",
+        "disfold-name",
+        "disfold-categories",
+        "disfold-ceo"
+    ],
+    "state-33": [
+        "infoclipper-state",
+        "infoclipper-name",
+        "infoclipper-trade_name",
+        "infoclipper-address_name",
+        "disfold-name",
+        "infoclipper-country"
+    ],
+    "founded-34": [
+        "disfold-founded",
+        "disfold-headquarters",
+        "infoclipper-name",
+        "disfold-id",
+        "disfold-industry",
+        "disfold-name",
+        "disfold-categories",
+        "disfold-ceo",
+        "ft-name",
+        "disfold-country",
+        "disfold-revenue"
+    ],
+    "industry-35": [
+        "valuetoday-industry",
+        "wikipedia-industry",
+        "valuetoday-country",
+        "globaldata-industry",
+        "disfold-industry",
+        "teamblind-industry",
+        "valuetoday-founded",
+        "valuetoday-ceo",
+        "valuetoday-rank",
+        "valuetoday-id",
+        "ambitiobox-industry",
+        "valuetoday-revenue",
+        "valuetoday-founders",
+        "valuetoday-name"
+    ],
+    "state-36": [
+        "infoclipper-state",
+        "infoclipper-trade_name",
+        "infoclipper-name",
+        "infoclipper-country"
+    ],
+    "industry-37": [
+        "globaldata-industry",
+        "forbes-assets",
+        "hithorizons-industry",
+        "forbes-country",
+        "disfold-industry",
+        "forbes-profit",
+        "cbinsights-industry",
+        "forbes-industry",
+        "ambitiobox-industry"
+    ],
+    "headquarters-38": [
+        "disfold-headquarters",
+        "wikipedia-headquarters",
+        "ambitiobox-industry",
+        "ambitiobox-headquarter",
+        "ambitiobox-name"
+    ],
+    "headquarters_sub_region": [
+        "valuetoday-headquarters_sub_region",
+        "valuetoday-headquarters_continent",
+        "disfold-headquarters_continent"
+    ],
+    "name-39": [
+        "forbes-name",
+        "forbes-assets",
+        "forbes-industry",
+        "forbes-sales",
+        "forbes-ceo"
+    ],
+    "industry-40": [
+        "valuetoday-industry",
+        "hithorizons-industry",
+        "disfold-industry",
+        "teamblind-industry",
+        "ambitiobox-name",
+        "cbinsights-industry",
+        "forbes-industry",
+        "ambitiobox-industry",
+        "ambitiobox-headquarter"
+    ],
+    "compound_annual_growth_rate_cagr_pct": [
+        "ft-compound_annual_growth_rate_cagr_pct"
+    ],
+    "headquarters-41": [
+        "disfold-headquarters",
+        "ft-country",
+        "valuetoday-headquarters_sub_region",
+        "disfold-headquarters_continent",
+        "disfold-country",
+        "disfold-headquarters_country",
+        "disfold-market_cap"
+    ],
+    "address-42": [
+        "globaldata-address",
+        "disfold-headquarters",
+        "globaldata-revenue",
+        "globaldata-industry",
+        "globaldata-name",
+        "globaldata-headquarters",
+        "wikipedia-headquarters"
+    ],
+    "rank-43": [
+        "companiesmarketcap-rank"
+    ],
+    "industry-44": [
+        "ambitiobox-industry",
+        "ambitiobox-name",
+        "ambitiobox-headquarter"
+    ],
+    "industry-45": [
+        "valuetoday-industry",
+        "globaldata-industry",
+        "hithorizons-industry",
+        "disfold-industry",
+        "teamblind-industry",
+        "cbinsights-industry",
+        "teamblind-name",
+        "teamblind-locations",
+        "ambitiobox-industry"
+    ],
+    "absolute_growth_rate_pct": [
+        "ft-absolute_growth_rate_pct"
+    ],
+    "market_cap": [
+        "disfold-market_cap",
+        "globaldata-market_cap"
+    ],
+    "industry-46": [
+        "valuetoday-industry",
+        "valuetoday-country",
+        "valuetoday-founded",
+        "valuetoday-ceo",
+        "valuetoday-rank",
+        "valuetoday-id",
+        "valuetoday-revenue",
+        "valuetoday-founders",
+        "valuetoday-name"
+    ],
+    "employees_number": [
+        "valuetoday-employees_number"
+    ],
+    "name-47": [
+        "forbes-name",
+        "forbes-ceo",
+        "forbes-sales",
+        "forbes-assets"
+    ],
+    "headquarters_country": [
+        "disfold-headquarters_country",
+        "disfold-market_cap",
+        "globaldata-market_cap"
+    ],
+    "headquarters-48": [
+        "disfold-headquarters",
+        "disfold-industry",
+        "disfold-name",
+        "disfold-categories",
+        "globaldata-headquarters",
+        "disfold-headquarters_continent",
+        "wikipedia-headquarters",
+        "disfold-country",
+        "ambitiobox-headquarter",
+        "disfold-headquarters_country",
+        "disfold-revenue"
+    ],
+    "company_type": [
+        "govuk-company_type"
+    ],
+    "founded-49": [
+        "disfold-founded",
+        "disfold-id",
+        "disfold-industry",
+        "disfold-name",
+        "disfold-categories",
+        "disfold-ceo",
+        "disfold-country",
+        "disfold-revenue"
+    ],
+    "industry-50": [
+        "valuetoday-industry",
+        "wikipedia-industry",
+        "wikipedia-name",
+        "wikipedia-notes",
+        "disfold-industry",
+        "wikipedia-headquarters"
+    ],
+    "industry-51": [
+        "hithorizons-industry",
+        "hithorizons-name",
+        "hithorizons-nation",
+        "hithorizons-address",
+        "hithorizons-id"
+    ],
+    "founded-52": [
+        "disfold-founded",
+        "disfold-headquarters",
+        "globaldata-revenue",
+        "disfold-id",
+        "disfold-industry",
+        "disfold-name",
+        "disfold-ceo",
+        "disfold-revenue"
+    ],
+    "headquarters-53": [
+        "disfold-headquarters",
+        "valuetoday-headquarters_continent",
+        "disfold-headquarters_country",
+        "disfold-headquarters_continent"
+    ]
+}

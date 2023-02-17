@@ -1,0 +1,124 @@
+{
+    "price": [
+        "05-MalPatSaj-price",
+        "03-gren-price",
+        "04-iGMM-shareprice",
+        "02-GioPonSpiz-price",
+        "01-DDD-share_price"
+    ],
+    "marketcap": [
+        "05-MalPatSaj-marketcap",
+        "03-gren-market_capitalization_usd",
+        "02-GioPonSpiz-pricecap",
+        "04-iGMM-marketcap",
+        "01-DDD-marketcap",
+        "09-wissel-marketcap"
+    ],
+    "country": [
+        "05-MalPatSaj-country",
+        "00-avengers-country"
+    ],
+    "marketcap-0": [
+        "05-MalPatSaj-marketcap",
+        "03-gren-market_capitalization_usd",
+        "04-iGMM-marketcap",
+        "01-DDD-marketcap",
+        "02-GioPonSpiz-pricecap"
+    ],
+    "change1d": [
+        "01-DDD-change1d",
+        "04-iGMM-change_1day"
+    ],
+    "master_cap": [
+        "06-MarScoToc-master_cap",
+        "05-MalPatSaj-marketcap",
+        "03-gren-market_capitalization_usd",
+        "09-wissel-marketcap",
+        "04-iGMM-marketcap",
+        "01-DDD-marketcap",
+        "02-GioPonSpiz-pricecap"
+    ],
+    "share_price": [
+        "00-avengers-share_price",
+        "05-MalPatSaj-price",
+        "03-gren-price",
+        "06-MarScoToc-share_price",
+        "09-wissel-share_price"
+    ],
+    "price-1": [
+        "05-MalPatSaj-price",
+        "03-gren-price",
+        "04-iGMM-shareprice",
+        "09-wissel-share_price",
+        "02-GioPonSpiz-price",
+        "01-DDD-share_price"
+    ],
+    "country-2": [
+        "06-MarScoToc-country",
+        "00-avengers-country"
+    ],
+    "change1d-3": [
+        "01-DDD-change1d",
+        "04-iGMM-change_1year",
+        "04-iGMM-change_1day"
+    ],
+    "master_cap-4": [
+        "06-MarScoToc-master_cap",
+        "05-MalPatSaj-marketcap",
+        "03-gren-market_capitalization_usd",
+        "04-iGMM-marketcap",
+        "01-DDD-marketcap",
+        "02-GioPonSpiz-pricecap"
+    ],
+    "rank": [
+        "00-avengers-rank",
+        "04-iGMM-rank"
+    ],
+    "share_price-5": [
+        "09-wissel-share_price",
+        "00-avengers-share_price",
+        "06-MarScoToc-share_price"
+    ],
+    "change_1_year": [
+        "00-avengers-change_1_year",
+        "00-avengers-change_1_day"
+    ],
+    "country-6": [
+        "06-MarScoToc-country",
+        "05-MalPatSaj-country",
+        "00-avengers-country"
+    ],
+    "master_cap-7": [
+        "06-MarScoToc-master_cap",
+        "05-MalPatSaj-marketcap",
+        "09-wissel-marketcap",
+        "09-wissel-revenue",
+        "09-wissel-earnings",
+        "00-avengers-market_cap",
+        "02-GioPonSpiz-pricecap"
+    ],
+    "master_cap-8": [
+        "06-MarScoToc-master_cap",
+        "00-avengers-market_cap",
+        "09-wissel-marketcap"
+    ],
+    "master_cap-9": [
+        "06-MarScoToc-master_cap",
+        "05-MalPatSaj-marketcap",
+        "09-wissel-revenue",
+        "09-wissel-earnings",
+        "00-avengers-market_cap",
+        "04-iGMM-marketcap",
+        "09-wissel-marketcap"
+    ],
+    "master_cap-10": [
+        "06-MarScoToc-master_cap",
+        "09-wissel-marketcap",
+        "09-wissel-revenue",
+        "09-wissel-earnings"
+    ],
+    "change_1year": [
+        "04-iGMM-change_1year",
+        "04-iGMM-change_1day"
+    ]
+}
