@@ -81,6 +81,6 @@ def make_cluster_columns_for_final_schema(datasets_base_path, info_path, filenam
 
     dict_filename_paths = {}
     for filename in os.listdir(datasets_base_path):
-        dict_filename_paths[filename] = os.path.join(datasets_base_path, filename)
+        dict_filename_paths[os.path.splitext(filename)[0]] = os.path.join(datasets_base_path, filename)
 
     save_cluster_columns(js_synonym, js_inverted_index, dict_filename_paths, csv_columns_path)

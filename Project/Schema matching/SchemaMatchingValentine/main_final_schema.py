@@ -1,3 +1,5 @@
+import json
+
 from cluster_group_columns import make_cluster_columns_for_final_schema
 from excract_score_valentine import score_valentine_and_matrix_correlation_for_final_schema
 from extract_schemas import extract_schema_clusters_for_final_schema
@@ -44,8 +46,8 @@ def task4(datasets_base_path, dict_synonyms_path, schema_path):
 
 if __name__ == '__main__':
 
-    final_datasets_base_path = ".\\clusters\\schema\\"
-    final_info_path = "..\\DatasetSchemaMatch\\"
+    final_datasets_base_path = ".\\clusters\\schema_parsed\\"
+    final_info_path = ".\\files_matching\\files_vari"
     final_filename_synonym = "dic_pre_val.txt"
     final_schema_columns = ".\\final_schema\\columns\\"
     final_schema_dictionary_score = ".\\final_schema\\dictionary_score\\"
@@ -54,11 +56,9 @@ if __name__ == '__main__':
     final_schema_final_synonyms = ".\\final_schema\\final_synonyms\\"
     final_schema_schema = ".\\final_schema\\schema\\"
 
-    final_datasets_base_path = ".\\clusters\\schema\\"
-    final_schema_final_synonyms = ".\\idea_final_schema"
-    final_schema_schema = ".\\final_schema\\schema\\"
+    final_schema_final_synonyms = ".\\idea_final_schema\\"
 
     #task1(final_datasets_base_path, final_info_path, final_filename_synonym, final_schema_columns)
-    #task2(final_columns, final_dictionary_score, final_plot, 3000, 8)
-    #task3(final_dictionary_score, final_synonyms, 0.1)
+    #task2(final_schema_columns, final_schema_dictionary_score, final_schema_plot, 10000, 5)
+    #task3(final_schema_dictionary_score, final_schema_synonyms, 0.1)
     task4(final_datasets_base_path, final_schema_final_synonyms, final_schema_schema)

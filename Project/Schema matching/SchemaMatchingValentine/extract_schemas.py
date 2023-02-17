@@ -2,7 +2,7 @@ import os
 import json
 
 
-def extract(name, file_path, dict_synonyms_path, threshold):
+def extract(name, file_path, dict_synonyms_path, threshold, p=2):
     print("Cluster:", name)
 
     file = open(file_path)
@@ -21,7 +21,7 @@ def extract(name, file_path, dict_synonyms_path, threshold):
     dict_synonyms = {}
     for tokens in synonyms:
         tokens = list(tokens)
-        tmp = tokens[0].split("-")[2]
+        tmp = tokens[0].split("-")[p]
         if tmp not in dict_synonyms.keys():
             dict_synonyms[tmp] = tokens
         else:
@@ -29,7 +29,7 @@ def extract(name, file_path, dict_synonyms_path, threshold):
             i += 1
 
     json_obj = json.dumps(dict_synonyms, indent=4)
-    f = open(dict_synonyms_path + name + ".txt", "w")
+    f = open(dict_synonyms_path + name + ".json", "w")
     f.write(json_obj)
     f.close()
 
@@ -42,4 +42,5 @@ def extract_schema_clusters(dictionary_path, dict_synonyms_path, threshold=0.0):
 
 
 def extract_schema_clusters_for_final_schema(dictionary_path, dict_synonyms_path, threshold=0.0):
-    extract("final_schema", dictionary_path, dict_synonyms_path, threshold)
+    file_path = os.path.join(dictionary_path, "final_schema.json")
+    extract("final_schema", file_path, dict_synonyms_path, threshold, 1)

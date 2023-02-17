@@ -1,7 +1,7 @@
 import os
 import pandas as pd
 from valentine import valentine_match
-from valentine.algorithms import JaccardLevenMatcher
+from valentine.algorithms import JaccardLevenMatcher, Cupid
 import seaborn as sns
 import matplotlib.pyplot as plt
 import json
@@ -49,14 +49,11 @@ def get_value_from_list_of_tuples(l, t):
 
 
 def plot_correlation(df, base_path=".\\", title="Matrice di correlazione"):
-    fig, ax = plt.subplots(figsize=(20, 20))
+    fig, ax = plt.subplots(figsize=(35, 35))
     title = title
     file_name = base_path + "\\" + "".join(title.lower()).replace(" ", "_")
     ax.set_title(title)
-    # ax.set_xlabel("Token")
-    # ax.set_ylabel("Token")
     heatmap = sns.heatmap(df, ax=ax, fmt=".0f", linewidths=2, cmap="Purples", square=True, cbar_kws={"shrink": .5})
-
     fig.savefig(file_name, bbox_inches='tight', transparent=True)
 
 
@@ -108,7 +105,7 @@ def run_valentine(name, cluster_path, dictionary_path, plot_path, matcher, cut_d
 
     # save correlation_matrix_cluster
     json_obj = json.dumps(correlation_matrix, indent=4)
-    f = open(dictionary_path + name + ".txt", "w")
+    f = open(dictionary_path + name + ".json", "w")
     f.write(json_obj)
     f.close()
 
@@ -124,5 +121,5 @@ def score_valentine_and_matrix_correlation(csv_columns_path, dictionary_path, pl
 
 
 def score_valentine_and_matrix_correlation_for_final_schema(csv_columns_path, dictionary_path, plot_path, cut_df=-1, threshold=8):
-    matcher = JaccardLevenMatcher()
+    matcher = Cupid()
     run_valentine("final_schema", csv_columns_path, dictionary_path, plot_path, matcher, cut_df, threshold)

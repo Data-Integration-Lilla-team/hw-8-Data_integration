@@ -1,0 +1,11 @@
+{
+"city":["city"],
+"name":["company","name"],
+"country":["country"],
+"datejoined":["datejoined"],
+"founded":["founded"],
+"investors":["investors", "selectinvestors"],
+"stage":["stage"],
+"totalraised":["totalraised"],
+"industry":["industry"],
+"valuation":["valuation"]}
