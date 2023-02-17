@@ -1,0 +1,19 @@
+{
+    "founded": [
+        "06-MarScoToc-founded",
+        "02-GioPonSpiz-founded"
+    ],
+    "name": [
+        "06-MarScoToc-name",
+        "06-MarScoToc-industry"
+    ],
+    "founded-0": [
+        "05-MalPatSaj-founded",
+        "02-GioPonSpiz-founded"
+    ],
+    "founded-1": [
+        "05-MalPatSaj-founded",
+        "06-MarScoToc-founded",
+        "02-GioPonSpiz-founded"
+    ]
+}
