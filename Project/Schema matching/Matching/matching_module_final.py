@@ -217,25 +217,41 @@ class MatchingModule_final:
         
         return output
 
+    def get_tot_colonne(self,file_names):
+        totale=0
+        for k in file_names.keys():
+            path=file_names[k]
+            data=pd.read_csv(path)
+            colonne=list(data.columns.values)
+            totale+=len(colonne)
+        return totale
 
     #riceve in input:
     #Nome sorgente
     #lista di tuple (nome team, path dataset)
     #restituisce il dizionario calcolato dei sinonimi
     def create_dic_sin(self,path_cluster, clusterName,tokens):
-
         validation_set=self.create_validation_sic_dic()         #acquisizioine del file .txt 'column_sinonimi.txt' e conversione in dizionario
 
         
         file_names=self.get_files_name(path_cluster)
+        
+        #info precalolata->178
+        #totale_colonne=self.get_tot_colonne(file_names)
+        #print(totale_colonne) 178
+        
+        
 
-
+        evaluator=Eval()
         #name correlation_with tokens
         #dic_name_correlation_token=self.compute_dic_name_correlation(tokens,validation_set,clusterName)
         with open(self.path_dic_sin_name_correlation,'r') as f:
             data=f.read()
 
         dic_name_correlation_token=json.loads(data)
+        valutazione_name_correlation=evaluator.compute_dis_f1(dic_name_correlation_token,validation_set,178)
+        valutazione_name_correlation.to_csv(self.path_name_file_valutazione_name_corr)
+        
 
         #data clustering
         #dic_data_clustering=self.compute_dic_data_clustering(file_names,validation_set,clusterName)
@@ -244,11 +260,14 @@ class MatchingModule_final:
             data=f.read()
 
         dic_data_clustering=json.loads(data)
+        valutazione_name_correlation=evaluator.compute_dis_f1(dic_data_clustering,validation_set,178)
+        valutazione_name_correlation.to_csv(self.path_name_file_valutazione_data_clustering)
+        
         #UNIONE DEI DIZIONARI COMPUTATI
         full_dic=self.merge_dict(dic_data_clustering,dic_name_correlation_token)
        
-        evaluator=Eval()
-        final_score=evaluator.compute_dis_f1(full_dic,validation_set)
+        
+        final_score=evaluator.compute_dis_f1(full_dic,validation_set,178)
         final_score.to_csv(self.path_name_file_evaluation_dic_matric)
 
         #STAMPA DEL DIZINARIO FULL
@@ -276,6 +295,11 @@ class MatchingModule_final:
                 stringa=stringa+'Recall: '+str(evaluation_dic[k][4])+'\n'
                 stringa=stringa+'F1:'+str(evaluation_dic[k][5])+'\n'
                 stringa=stringa+'Jaccard score:'+str(evaluation_dic[k][6])+'\n'
+                stringa=stringa+'Confronti reali'+str(evaluation_dic[k][7])+'\n'
+                
+                stringa=stringa+'Confronti totali'+str(evaluation_dic[k][8])+'\n'
+                inutili=evaluation_dic[k][8]-evaluation_dic[k][7]
+                stringa=stringa+'Confronti reali'+str(inutili)+'\n'
                 stringa=stringa+'========================\n'
                 
             avg_valori_extra=somma/div

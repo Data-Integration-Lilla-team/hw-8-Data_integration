@@ -13,14 +13,23 @@ class Eval:
         union=(len(list(A))+len(list(B)))-intersection
         return float(intersection)/union
 
-    def compute_dis_f1(self,computato,target):
+
+    def get_tot_col(self, dizionario):
+        set_colonne=set()
+        for k in dizionario.keys():
+            set_colonne.update(set(dizionario[k]))
+
+        return len(set_colonne)
+    def compute_dis_f1(self,computato,target, tot_col):
         N=len(target.keys())
         precision=0
         recall=0
         f1=0
         jaccard=0
         results=[]
+       
         numero_confronti_extra=0
+        totale_colonne=self.get_tot_col(computato)
         for k in target.keys():
             name=k
             sing_precision=0
@@ -37,12 +46,17 @@ class Eval:
             sing_recall=len(intersezione)/(len(intersezione)+len(false_negative))
             sing_F1=(2*sing_precision*sing_recall)/(sing_recall+sing_precision)
             numero_confronti_extra=len(comp_sin.difference(true_sin))
+            numero_confronti_reali=len(true_sin)
+            numero_confronti_comp=len(comp_sin)
+            
+
 
 
             
         
-            results.append([name,sing_precision,sing_recall,sing_F1,jaccard,numero_confronti_extra])
-        colonne=['name','precision','recall','f1','jaccard','avg comp inutili']
+            results.append([name,sing_precision,sing_recall,sing_F1,jaccard,numero_confronti_extra,numero_confronti_reali,numero_confronti_comp,tot_col])
+        
+        colonne=['name','precision','recall','f1','jaccard','avg comp inutili','n. confronti reali','n. confronti computati','n. no pp']
         results=pd.DataFrame(data=results,columns=colonne)
         return results
 
@@ -118,6 +132,8 @@ class Eval:
             evaluation_dic[k].append(sing_recall)
             evaluation_dic[k].append(sing_F1)
             evaluation_dic[k].append(self.compute_jaccard(com_elements,tgt_elements))
+            evaluation_dic[k].append(len(tgt_elements))
+            evaluation_dic[k].append(len(com_elements))
             
             
 

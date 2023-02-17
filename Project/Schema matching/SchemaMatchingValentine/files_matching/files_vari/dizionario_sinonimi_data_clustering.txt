@@ -1,21 +1,19 @@
 {
     "name": [
-        "name",
-        "company_type",
+        "status",
         "trade_name",
-        "industry",
-        "stage"
+        "name",
+        "industry"
     ],
     "country": [
-        "state",
-        "country",
-        "nation",
         "headquarters_continent",
+        "nation",
+        "country",
+        "state",
         "headquarters"
     ],
     "address": [
-        "address",
-        "address_name"
+        "address"
     ],
     "founded": [
         "foundation_year",
@@ -24,55 +22,64 @@
         "founding_year"
     ],
     "employees": [
-        "employees",
         "revenue_2017_eu",
-        "employees_number_2020",
+        "employees_number",
         "employees_number_2017",
+        "employees",
         "rank",
-        "employees_2022",
-        "employees_number"
+        "employees_number_2020"
     ],
     "market_cap": [
-        "market_cap",
+        "pricecap",
+        "profit",
         "sales",
+        "market_value",
+        "market_cap",
+        "share_price",
         "earnings",
         "revenue",
-        "valuation",
-        "market_value",
-        "profit",
-        "pricecap"
+        "annual_net_income_usd"
     ],
     "revenue": [
-        "market_cap",
+        "pricecap",
+        "profit",
         "sales",
+        "market_value",
+        "market_cap",
+        "share_price",
         "earnings",
         "revenue",
-        "valuation",
-        "market_value",
-        "profit",
-        "pricecap"
+        "annual_net_income_usd"
     ],
     "profit": [
-        "market_cap",
+        "pricecap",
+        "profit",
         "sales",
+        "market_value",
+        "market_cap",
+        "share_price",
         "earnings",
         "revenue",
-        "valuation",
-        "market_value",
-        "profit",
-        "pricecap"
+        "annual_net_income_usd"
     ],
     "categories": [
+        "notes",
         "categories",
         "industry",
-        "notes",
         "sector"
     ],
     "ceo": [
-        "company_type",
-        "trade_name",
         "ceo",
-        "headquarters_sub_region",
-        "stage"
+        "official_name",
+        "headquarter"
+    ],
+    "city": [
+        "headquarters_country",
+        "headquarters_continent",
+        "headquarters_region_city",
+        "city",
+        "ownership",
+        "headquarters",
+        "locations"
     ]
 }
