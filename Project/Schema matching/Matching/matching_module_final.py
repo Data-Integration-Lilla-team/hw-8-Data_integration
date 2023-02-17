@@ -190,7 +190,7 @@ class MatchingModule_final:
             f.write(json.dumps(dic_data_correlation_fitered,indent=4))
 
 
-        print(dic_data_correlation_fitered['ceo'])
+        
         return dic_data_correlation_fitered
        
 
@@ -231,13 +231,19 @@ class MatchingModule_final:
 
 
         #name correlation_with tokens
-        dic_name_correlation_token=self.compute_dic_name_correlation(tokens,validation_set,clusterName)
-        
+        #dic_name_correlation_token=self.compute_dic_name_correlation(tokens,validation_set,clusterName)
+        with open(self.path_dic_sin_name_correlation,'r') as f:
+            data=f.read()
+
+        dic_name_correlation_token=json.loads(data)
 
         #data clustering
-        dic_data_clustering=self.compute_dic_data_clustering(file_names,validation_set,clusterName)
+        #dic_data_clustering=self.compute_dic_data_clustering(file_names,validation_set,clusterName)
 
+        with open(self.path_dic_sin_data_clustering,'r') as f:
+            data=f.read()
 
+        dic_data_clustering=json.loads(data)
         #UNIONE DEI DIZIONARI COMPUTATI
         full_dic=self.merge_dict(dic_data_clustering,dic_name_correlation_token)
        
@@ -266,7 +272,10 @@ class MatchingModule_final:
                 stringa=stringa+'Computato - TGT:'+str(evaluation_dic[k][1])+'\n'
                 somma=somma+len(evaluation_dic[k][1])
                 stringa=stringa+'TGT- Computato:'+str(evaluation_dic[k][2])+'\n'
-                stringa=stringa+'Jaccard score:'+str(evaluation_dic[k][3])+'\n'
+                stringa=stringa+'Precision: '+str(evaluation_dic[k][3])+'\n'
+                stringa=stringa+'Recall: '+str(evaluation_dic[k][4])+'\n'
+                stringa=stringa+'F1:'+str(evaluation_dic[k][5])+'\n'
+                stringa=stringa+'Jaccard score:'+str(evaluation_dic[k][6])+'\n'
                 stringa=stringa+'========================\n'
                 
             avg_valori_extra=somma/div

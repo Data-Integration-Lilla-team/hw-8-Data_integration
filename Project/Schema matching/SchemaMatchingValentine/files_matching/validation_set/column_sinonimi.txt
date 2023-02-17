@@ -1,6 +1,6 @@
 {
 "name": ["name"],
-"country": ["country","headquarter","nation"],
+"country": ["country","headquarters","nation"],
 "address": ["address","address_name"],
 "founded": ["founded","est_of_ownership","foundation_year","founding_year"],
 "employees": ["employees","employees_number","employees_2022","employees_number_2020","number_of_employees"],

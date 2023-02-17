@@ -1,101 +1,86 @@
 {
     "name": [
+        "industry",
+        "stage",
         "company_type",
         "trade_name",
-        "stage",
-        "headquarters",
-        "legal_form",
-        "locations",
-        "industry",
-        "ceo",
-        "headquarters_sub_region",
         "name"
     ],
     "country": [
-        "headquarters_country",
         "state",
-        "country",
-        "nation",
         "headquarters_continent",
-        "headquarters"
+        "country",
+        "headquarters_country",
+        "headquarters",
+        "nation"
     ],
     "address": [
-        "address"
+        "address",
+        "office_address",
+        "address_name"
     ],
     "founded": [
         "foundation_year",
         "founders",
         "founding_year",
-        "est_of_ownership",
-        "founded"
+        "founded",
+        "est_of_ownership"
     ],
     "employees": [
-        "employees",
-        "absolute_growth_rate_pct",
-        "revenue_2017_eu",
         "employees_number_2020",
-        "employees_number_2017",
+        "employees",
+        "employees_number",
+        "revenue_2017_eu",
         "rank",
-        "Unnamed: 0",
-        "compound_annual_growth_rate_cagr_pct",
-        "id",
-        "employees_number"
+        "employees_2022",
+        "number_of_employees",
+        "employees_number_2017"
     ],
     "market_cap": [
-        "market_cap",
-        "sales",
-        "earnings",
         "valuation",
         "revenue",
-        "market_value",
-        "assets",
-        "profit",
+        "pricecap",
+        "sales",
         "market_capitalization_2022",
-        "annual_net_income_usd",
-        "pricecap"
+        "market_cap",
+        "market_value",
+        "earnings",
+        "profit"
     ],
     "revenue": [
-        "market_cap",
-        "sales",
-        "earnings",
         "valuation",
         "revenue",
-        "market_value",
-        "assets",
+        "pricecap",
         "revenue_2017_eu",
         "revenue_2020_eu",
-        "profit",
-        "annual_net_income_usd",
-        "pricecap"
+        "sales",
+        "annual_revenue_usd",
+        "market_cap",
+        "market_value",
+        "earnings",
+        "profit"
     ],
     "profit": [
-        "market_cap",
-        "sales",
-        "earnings",
         "valuation",
         "revenue",
+        "pricecap",
+        "sales",
+        "market_cap",
         "market_value",
-        "assets",
-        "profit",
-        "annual_net_income_usd",
-        "pricecap"
+        "earnings",
+        "profit"
     ],
     "categories": [
         "industry",
+        "notes",
         "sector",
-        "categories",
-        "notes"
+        "categories"
     ],
     "ceo": [
-        "company_type",
-        "trade_name",
-        "stage",
-        "headquarters",
-        "legal_form",
-        "locations",
-        "industry",
         "ceo",
+        "stage",
+        "company_type",
         "headquarters_sub_region",
-        "name"
+        "trade_name"
     ]
 }

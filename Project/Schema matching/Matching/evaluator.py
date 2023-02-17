@@ -105,7 +105,20 @@ class Eval:
             evaluation_dic[k].append(intersezione)
             evaluation_dic[k].append(diff_elements_comp)
             evaluation_dic[k].append(diff_element_tgt)
+            
+            intersezione=com_elements.intersection(tgt_elements)
+            false_positive=com_elements.difference(tgt_elements)
+            false_negative=tgt_elements.difference(com_elements)
+            
+            sing_precision=len(intersezione)/(len(com_elements)+len(false_positive))
+            sing_recall=len(intersezione)/(len(intersezione)+len(false_negative))
+            sing_F1=(2*sing_precision*sing_recall)/(sing_recall+sing_precision)
+            
+            evaluation_dic[k].append(sing_precision)
+            evaluation_dic[k].append(sing_recall)
+            evaluation_dic[k].append(sing_F1)
             evaluation_dic[k].append(self.compute_jaccard(com_elements,tgt_elements))
+            
             
 
         return evaluation_dic

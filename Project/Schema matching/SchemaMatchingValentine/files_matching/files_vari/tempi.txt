@@ -29,3 +29,7 @@ Data correlation: 10.843374
 Name correlation: 2.3912268
 Data correlation: 10.7071115
 ============
+Name correlation: 2.858487899999999
+Name correlation: 2.5064032
+Name correlation: 2.4878841
+Name correlation: 2.434357

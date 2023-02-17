@@ -3,12 +3,7 @@
         "name",
         "company_type",
         "trade_name",
-        "headquarters",
-        "legal_form",
-        "locations",
         "industry",
-        "ceo",
-        "headquarters_sub_region",
         "stage"
     ],
     "country": [
@@ -19,7 +14,8 @@
         "headquarters"
     ],
     "address": [
-        "address"
+        "address",
+        "address_name"
     ],
     "founded": [
         "foundation_year",
@@ -29,14 +25,11 @@
     ],
     "employees": [
         "employees",
-        "absolute_growth_rate_pct",
         "revenue_2017_eu",
         "employees_number_2020",
         "employees_number_2017",
         "rank",
-        "Unnamed: 0",
-        "compound_annual_growth_rate_cagr_pct",
-        "id",
+        "employees_2022",
         "employees_number"
     ],
     "market_cap": [
@@ -46,9 +39,7 @@
         "revenue",
         "valuation",
         "market_value",
-        "assets",
         "profit",
-        "annual_net_income_usd",
         "pricecap"
     ],
     "revenue": [
@@ -58,9 +49,7 @@
         "revenue",
         "valuation",
         "market_value",
-        "assets",
         "profit",
-        "annual_net_income_usd",
         "pricecap"
     ],
     "profit": [
@@ -70,9 +59,7 @@
         "revenue",
         "valuation",
         "market_value",
-        "assets",
         "profit",
-        "annual_net_income_usd",
         "pricecap"
     ],
     "categories": [
@@ -82,13 +69,8 @@
         "sector"
     ],
     "ceo": [
-        "name",
         "company_type",
         "trade_name",
-        "headquarters",
-        "legal_form",
-        "locations",
-        "industry",
         "ceo",
         "headquarters_sub_region",
         "stage"

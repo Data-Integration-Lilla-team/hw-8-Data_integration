@@ -15,7 +15,7 @@ class NameCorr:
     def __init__(self,clusterName) -> None:
 
         #thresholds
-        self.threshold_tokens=0.25
+        self.threshold_tokens=0.20
         self.threshold=0.4
         self.threshold_levi=0.6
         self.max=0.6

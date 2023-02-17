@@ -214,9 +214,9 @@ def print_perf_Valentine_4clusters():
 
 if __name__=='__main__':
 
-    #print_perf_preProcessing_module_4clusters()
+    print_perf_preProcessing_module_4clusters()
 
-    #print_perf_preProcessing_module_4schemaMediato()
+    print_perf_preProcessing_module_4schemaMediato()
 
     print_perf_Valentine_4clusters()
     
