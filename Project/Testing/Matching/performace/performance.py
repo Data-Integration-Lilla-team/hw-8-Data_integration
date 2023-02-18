@@ -79,6 +79,8 @@ def get_scores(name,path,val=False):
     recall=0
     f1=0
     jaccard=0
+    numero_conf_reali=0
+    numero_conf_comp=0
     numero_confronti_extra=0
     for k in target.keys():
         sing_precision=0
@@ -95,13 +97,15 @@ def get_scores(name,path,val=False):
         sing_recall=len(intersezione)/(len(intersezione)+len(false_negative))
         sing_F1=(2*sing_precision*sing_recall)/(sing_recall+sing_precision)
         numero_confronti_extra=numero_confronti_extra+len(comp_sin.difference(true_sin))
+        numero_conf_reali=numero_conf_reali+len(true_sin)
+        numero_conf_comp=numero_conf_comp+len(comp_sin)
 
 
         precision=precision+sing_precision
         recall=recall+sing_recall
         f1=f1+sing_F1
     
-    results=[name,precision/N,recall/N,f1/N,jaccard/N,numero_confronti_extra/N]
+    results=[name,precision/N,recall/N,f1/N,jaccard/N,numero_confronti_extra/N,numero_conf_reali/N,numero_conf_comp/N]
     return results
 def get_scores_VAL(name,path_comp,path_true):
     name=name.replace('.txt','')
@@ -129,6 +133,8 @@ def get_scores_VAL(name,path_comp,path_true):
     N=0
     
     numero_confronti_extra=0
+    numero_conf_reali=0
+    numero_conf_comp=0
     for k in computato.keys():
         if k in computato and k in target:
             N+=1
@@ -153,6 +159,8 @@ def get_scores_VAL(name,path_comp,path_true):
             sing_recall=len(intersezione)/(len(intersezione)+len(false_negative))
             sing_F1=(2*sing_precision*sing_recall)/(sing_recall+sing_precision)
             numero_confronti_extra=numero_confronti_extra+len(comp_sin.difference(true_sin))
+            numero_conf_reali=numero_conf_reali+len(true_sin)
+            numero_conf_comp=numero_conf_comp+len(comp_sin)
 
 
             precision=precision+sing_precision
@@ -161,7 +169,7 @@ def get_scores_VAL(name,path_comp,path_true):
         
             
     
-    results=[name,precision/N,recall/N,f1/N,jaccard/N,numero_confronti_extra/N]
+    results=[name,precision/N,recall/N,f1/N,jaccard/N,numero_confronti_extra/N,numero_conf_reali/N,numero_conf_comp/N]
     print(results)
     return results
     
@@ -172,12 +180,13 @@ def get_scores_VAL(name,path_comp,path_true):
 def print_perf_preProcessing_module_4clusters():
     path_Clusters='Project\\Schema matching\\DatasetSchemaMatch'
     clusters=os.listdir(path_Clusters)
-    colonne=['name','precision','recall','f1','jaccard','avg comp inutili']
+    colonne=['name','precision','recall','f1','jaccard','avg comp inutili','conf reali','conf computati']
     results=[]
     for f in clusters:
         name_cluster=f
         path=os.path.join(path_Clusters,f)
         results.append(get_scores(name_cluster,path))
+        
     
 
     results=pd.DataFrame(data=results,columns=colonne)
@@ -198,7 +207,7 @@ def print_perf_Valentine_4clusters():
     path_Clusters_comp='Project\\Schema matching\\SchemaMatchingValentine\\clusters\\synonyms'
     path_Clusters_true='Project\\Schema matching\\DatasetSchemaMatch'
     clusters=os.listdir(path_Clusters_comp)
-    colonne=['name','precision','recall','f1','jaccard','avg comp inutili']
+    colonne=['name','precision','recall','f1','jaccard','avg comp inutili','conf reali','conf computati']
     results=[]
     for f in clusters:
         name_cluster=f
@@ -214,7 +223,7 @@ def print_perf_Valentine_4clusters():
 
 if __name__=='__main__':
 
-    #print_perf_preProcessing_module_4clusters()
+    print_perf_preProcessing_module_4clusters()
 
     #print_perf_preProcessing_module_4schemaMediato()
 

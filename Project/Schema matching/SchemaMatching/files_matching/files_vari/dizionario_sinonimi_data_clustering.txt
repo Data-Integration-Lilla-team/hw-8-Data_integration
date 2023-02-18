@@ -1,21 +1,15 @@
 {
     "name": [
-        "name",
-        "company_type",
+        "status",
         "trade_name",
-        "headquarters",
-        "legal_form",
-        "locations",
-        "industry",
-        "ceo",
-        "headquarters_sub_region",
-        "stage"
+        "name",
+        "industry"
     ],
     "country": [
-        "state",
-        "country",
-        "nation",
         "headquarters_continent",
+        "nation",
+        "country",
+        "state",
         "headquarters"
     ],
     "address": [
@@ -28,69 +22,64 @@
         "founding_year"
     ],
     "employees": [
-        "employees",
-        "absolute_growth_rate_pct",
         "revenue_2017_eu",
-        "employees_number_2020",
+        "employees_number",
         "employees_number_2017",
+        "employees",
         "rank",
-        "Unnamed: 0",
-        "compound_annual_growth_rate_cagr_pct",
-        "id",
-        "employees_number"
+        "employees_number_2020"
     ],
     "market_cap": [
-        "market_cap",
+        "pricecap",
+        "profit",
         "sales",
+        "market_value",
+        "market_cap",
+        "share_price",
         "earnings",
         "revenue",
-        "valuation",
-        "market_value",
-        "assets",
-        "profit",
-        "annual_net_income_usd",
-        "pricecap"
+        "annual_net_income_usd"
     ],
     "revenue": [
-        "market_cap",
+        "pricecap",
+        "profit",
         "sales",
+        "market_value",
+        "market_cap",
+        "share_price",
         "earnings",
         "revenue",
-        "valuation",
-        "market_value",
-        "assets",
-        "profit",
-        "annual_net_income_usd",
-        "pricecap"
+        "annual_net_income_usd"
     ],
     "profit": [
-        "market_cap",
+        "pricecap",
+        "profit",
         "sales",
+        "market_value",
+        "market_cap",
+        "share_price",
         "earnings",
         "revenue",
-        "valuation",
-        "market_value",
-        "assets",
-        "profit",
-        "annual_net_income_usd",
-        "pricecap"
+        "annual_net_income_usd"
     ],
     "categories": [
+        "notes",
         "categories",
         "industry",
-        "notes",
         "sector"
     ],
     "ceo": [
-        "name",
-        "company_type",
-        "trade_name",
-        "headquarters",
-        "legal_form",
-        "locations",
-        "industry",
         "ceo",
-        "headquarters_sub_region",
-        "stage"
+        "official_name",
+        "headquarter"
+    ],
+    "city": [
+        "headquarters_country",
+        "headquarters_continent",
+        "headquarters_region_city",
+        "city",
+        "ownership",
+        "headquarters",
+        "locations"
     ]
 }

@@ -1,213 +1,95 @@
 {
     "name": [
-<<<<<<< Updated upstream
-        "company_type",
         "trade_name",
-        "stage",
-        "headquarters",
-        "legal_form",
-        "locations",
         "industry",
-        "ceo",
-        "headquarters_sub_region",
-        "name"
-=======
-        "headquarter",
-        "address_name",
         "name",
-        "stage",
-        "headquarters",
-        "official_name",
-        "headquarters_sub_region",
-        "company_type",
-        "trade_name",
-        "legal_form",
-        "locations",
-        "ceo",
-        "industry",
-        "sic_code"
->>>>>>> Stashed changes
+        "status"
     ],
     "country": [
-        "headquarters_country",
-        "state",
-<<<<<<< Updated upstream
         "country",
         "nation",
         "headquarters_continent",
+        "headquarters_country",
+        "state",
         "headquarters"
     ],
     "address": [
-        "address"
-    ],
-    "founded": [
-        "foundation_year",
-        "founders",
-        "founding_year",
-        "est_of_ownership",
-        "founded"
-    ],
-    "employees": [
-        "employees",
-        "absolute_growth_rate_pct",
-        "revenue_2017_eu",
-        "employees_number_2020",
-        "employees_number_2017",
-        "rank",
-        "Unnamed: 0",
-        "compound_annual_growth_rate_cagr_pct",
-        "id",
-        "employees_number"
-    ],
-    "market_cap": [
-        "market_cap",
-        "sales",
-        "earnings",
-        "valuation",
-        "revenue",
-        "market_value",
-        "assets",
-        "profit",
-        "market_capitalization_2022",
-        "annual_net_income_usd",
-        "pricecap"
-    ],
-    "revenue": [
-        "market_cap",
-        "sales",
-        "earnings",
-        "valuation",
-        "revenue",
-        "market_value",
-        "assets",
-        "revenue_2017_eu",
-        "revenue_2020_eu",
-        "profit",
-        "annual_net_income_usd",
-        "pricecap"
-    ],
-    "profit": [
-        "market_cap",
-        "sales",
-        "earnings",
-        "valuation",
-        "revenue",
-        "market_value",
-        "assets",
-        "profit",
-        "annual_net_income_usd",
-        "pricecap"
-    ],
-    "categories": [
-        "industry",
-        "sector",
-        "categories",
-        "notes"
-    ],
-    "ceo": [
-        "company_type",
-        "trade_name",
-        "stage",
-        "headquarters",
-        "legal_form",
-        "locations",
-        "industry",
-        "ceo",
-        "headquarters_sub_region",
-        "name"
-=======
-        "headquarters",
-        "nation",
-        "country",
-        "headquarters_continent"
-    ],
-    "address": [
-        "office_address",
-        "address",
         "address_name",
-        "registered_office_address"
+        "address",
+        "office_address"
     ],
     "founded": [
-        "founding_year",
-        "est_of_ownership",
         "founded",
+        "foundation_year",
+        "founding_year",
         "founders",
-        "foundation_year"
+        "est_of_ownership"
     ],
     "employees": [
-        "employees_number",
-        "id",
-        "employees_number_2017",
-        "employees_2022",
-        "absolute_growth_rate_pct",
-        "employees_number_2020",
-        "rank",
-        "compound_annual_growth_rate_cagr_pct",
-        "revenue_2017_eu",
         "employees",
-        "Unnamed: 0",
+        "employees_2022",
+        "employees_number_2020",
+        "employees_number_2017",
+        "rank",
+        "revenue_2017_eu",
+        "employees_number",
         "number_of_employees"
     ],
     "market_cap": [
-        "annual_net_income_usd",
-        "assets",
-        "revenue",
-        "pricecap",
-        "sales",
-        "market_cap",
-        "valuation",
-        "market_value",
         "share_price",
         "profit",
-        "earnings"
+        "pricecap",
+        "market_capitalization_2022",
+        "market_cap",
+        "annual_net_income_usd",
+        "revenue",
+        "sales",
+        "earnings",
+        "market_value"
     ],
     "revenue": [
-        "annual_net_income_usd",
-        "assets",
-        "revenue",
-        "pricecap",
-        "sales",
-        "market_cap",
-        "valuation",
-        "market_value",
-        "share_price",
         "revenue_2020_eu",
-        "annual_revenue_usd",
+        "share_price",
         "profit",
+        "pricecap",
+        "market_cap",
+        "annual_net_income_usd",
         "revenue_2017_eu",
-        "earnings"
+        "revenue",
+        "sales",
+        "earnings",
+        "market_value",
+        "annual_revenue_usd"
     ],
     "profit": [
-        "annual_net_income_usd",
-        "assets",
-        "revenue",
-        "pricecap",
-        "sales",
-        "market_cap",
-        "valuation",
-        "market_value",
         "share_price",
         "profit",
-        "earnings"
+        "pricecap",
+        "market_cap",
+        "annual_net_income_usd",
+        "revenue",
+        "sales",
+        "earnings",
+        "market_value"
     ],
     "categories": [
         "notes",
-        "categories",
-        "industry"
+        "sector",
+        "industry",
+        "categories"
     ],
     "ceo": [
         "headquarter",
-        "name",
-        "stage",
-        "headquarters",
         "official_name",
-        "headquarters_sub_region",
-        "company_type",
-        "trade_name",
+        "ceo"
+    ],
+    "city": [
+        "headquarters_region_city",
         "locations",
-        "ceo",
-        "industry",
-        "sic_code"
->>>>>>> Stashed changes
+        "headquarters",
+        "headquarters_continent",
+        "headquarters_country",
+        "city",
+        "ownership"
     ]
 }
