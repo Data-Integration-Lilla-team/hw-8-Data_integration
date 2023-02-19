@@ -1,0 +1,153 @@
+{
+    "founded": [
+        "wikipedia-founded",
+        "teamblind-founded",
+        "forbes-founded",
+        "disfold-founded"
+    ],
+    "revenue": [
+        "globaldata-revenue",
+        "forbes-profit",
+        "valuetoday-annual_revenue_usd",
+        "forbes-assets",
+        "forbes-market_value",
+        "companiesmarketcap-pricecap",
+        "globaldata-market_cap",
+        "forbes-sales"
+    ],
+    "employees": [
+        "forbes-employees",
+        "globaldata-number_of_employees",
+        "disfold-employees",
+        "valuetoday-employees_2022"
+    ],
+    "employees_number_2020": [
+        "ft-employees_number_2020",
+        "disfold-rank",
+        "ft-employees_number_2017"
+    ],
+    "founded-0": [
+        "cbinsights-founded",
+        "teamblind-founded",
+        "forbes-founded",
+        "disfold-founded",
+        "wikipedia-founded"
+    ],
+    "pricecap": [
+        "companiesmarketcap-pricecap",
+        "valuetoday-annual_net_income_usd",
+        "forbes-sales",
+        "valuetoday-annual_revenue_usd"
+    ],
+    "country": [
+        "infoclipper-country",
+        "valuetoday-headquarters_continent",
+        "hithorizons-nation"
+    ],
+    "Unnamed: 0": [
+        "companiesmarketcap-Unnamed: 0",
+        "infoclipper-Unnamed: 0",
+        "globaldata-Unnamed: 0",
+        "forbes-Unnamed: 0",
+        "ft-Unnamed: 0",
+        "ambitiobox-Unnamed: 0",
+        "valuetoday-Unnamed: 0",
+        "disfold-Unnamed: 0"
+    ],
+    "rank": [
+        "valuetoday-rank",
+        "companiesmarketcap-employees"
+    ],
+    "annual_net_income_usd": [
+        "valuetoday-annual_net_income_usd",
+        "forbes-sales",
+        "forbes-profit"
+    ],
+    "number_of_employees": [
+        "globaldata-number_of_employees",
+        "disfold-rank",
+        "forbes-employees",
+        "disfold-employees",
+        "valuetoday-employees_2022"
+    ],
+    "headquarters_continent": [
+        "valuetoday-headquarters_continent",
+        "hithorizons-nation"
+    ],
+    "revenue-1": [
+        "valuetoday-revenue",
+        "companiesmarketcap-earnings",
+        "companiesmarketcap-revenue"
+    ],
+    "market_cap": [
+        "globaldata-market_cap",
+        "forbes-sales",
+        "globaldata-revenue"
+    ],
+    "employees_number_2020-2": [
+        "ft-employees_number_2020",
+        "disfold-rank",
+        "ft-employees_number_2017",
+        "disfold-employees",
+        "valuetoday-employees_2022"
+    ],
+    "country-3": [
+        "infoclipper-country",
+        "hithorizons-nation"
+    ],
+    "name": [
+        "valuetoday-name",
+        "forbes-name",
+        "companiesmarketcap-name"
+    ],
+    "annual_revenue_usd": [
+        "valuetoday-annual_revenue_usd",
+        "forbes-assets",
+        "forbes-sales",
+        "forbes-market_value",
+        "companiesmarketcap-pricecap"
+    ],
+    "country-4": [
+        "forbes-country",
+        "valuetoday-country",
+        "companiesmarketcap-country",
+        "cbinsights-country",
+        "ft-country",
+        "disfold-country",
+        "globaldata-headquarters",
+        "disfold-headquarters_continent"
+    ],
+    "founded-5": [
+        "cbinsights-founded",
+        "teamblind-founded",
+        "forbes-founded",
+        "wikipedia-founded"
+    ],
+    "name-6": [
+        "forbes-name",
+        "companiesmarketcap-name"
+    ],
+    "ceo": [
+        "forbes-ceo",
+        "valuetoday-ceo"
+    ],
+    "company_type": [
+        "govuk-company_type",
+        "ariregister-legal_form"
+    ],
+    "pricecap-7": [
+        "companiesmarketcap-pricecap",
+        "forbes-assets",
+        "forbes-sales",
+        "forbes-market_value"
+    ],
+    "name-8": [
+        "valuetoday-name",
+        "companiesmarketcap-name"
+    ],
+    "annual_net_income_usd-9": [
+        "valuetoday-annual_net_income_usd",
+        "forbes-profit",
+        "valuetoday-annual_revenue_usd"
+    ]
+}
