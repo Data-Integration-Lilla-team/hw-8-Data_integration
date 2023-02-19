@@ -1,4 +1,8 @@
 {
+    "founded": [
+        "05-MalPatSaj-founded",
+        "02-GioPonSpiz-founded"
+    ],
     "sector": [
         "05-MalPatSaj-sector",
         "02-GioPonSpiz-sector"
@@ -7,16 +11,12 @@
         "05-MalPatSaj-industry",
         "02-GioPonSpiz-industry"
     ],
-    "founded": [
-        "05-MalPatSaj-founded",
-        "02-GioPonSpiz-founded"
+    "name": [
+        "05-MalPatSaj-name",
+        "02-GioPonSpiz-name"
     ],
     "headquarters": [
-        "05-MalPatSaj-headquarters",
-        "02-GioPonSpiz-headquarters"
-    ],
-    "name": [
-        "02-GioPonSpiz-name",
-        "05-MalPatSaj-name"
+        "02-GioPonSpiz-headquarters",
+        "05-MalPatSaj-headquarters"
     ]
 }

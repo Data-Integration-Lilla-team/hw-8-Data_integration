@@ -1,10 +1,18 @@
 {
-    "incorporation_date": [
-        "09-wissel-incorporation_date",
-        "10-DeBiGa-company_creation_date"
-    ],
     "company_status": [
-        "10-DeBiGa-company_status",
-        "09-wissel-company_status"
+        "09-wissel-company_status",
+        "10-DeBiGa-company_status"
+    ],
+    "company_number": [
+        "10-DeBiGa-company_number",
+        "09-wissel-company_id"
+    ],
+    "company_creation_date": [
+        "10-DeBiGa-company_creation_date",
+        "09-wissel-incorporation_date"
+    ],
+    "name": [
+        "10-DeBiGa-name",
+        "09-wissel-name"
     ]
 }

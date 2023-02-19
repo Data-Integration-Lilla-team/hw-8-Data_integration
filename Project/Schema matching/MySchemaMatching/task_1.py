@@ -60,14 +60,12 @@ def make_cluster_columns_cluster(datasets_base_path, info_path, filename_synonym
 
         cluster_path = os.path.join(datasets_base_path, cluster_folder_name)
         paths = get_path_group_name(cluster_path)
-
+        
         js_inverted_index = get_inverted_index_column_name_file(cluster_path)
 
-        if len(paths) > 1:
-            cluster_path = csv_columns_path + cluster_folder_name + "\\"
-            os.mkdir(cluster_path)
-
-            save_cluster_columns(js_synonym, js_inverted_index, paths, cluster_path)
+        cluster_path = csv_columns_path + cluster_folder_name + "\\"
+        os.mkdir(cluster_path)
+        save_cluster_columns(js_synonym, js_inverted_index, paths, cluster_path)
 
 
 def make_cluster_columns_final(datasets_base_path, info_path, filename_synonym, csv_columns_path):

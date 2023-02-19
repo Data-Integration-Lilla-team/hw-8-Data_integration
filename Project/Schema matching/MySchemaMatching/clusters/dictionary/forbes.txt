@@ -1,20 +1,49 @@
 {
-    "name": [
-        "08-slytherin-name",
-        "05-MalPatSaj-name",
-        "07-silvestri-name"
-    ],
-    "market_value_apr_2022": [
-        "07-silvestri-market_value_apr_2022",
-        "05-MalPatSaj-market_value"
-    ],
-    "country": [
-        "05-MalPatSaj-country",
-        "08-slytherin-country",
-        "07-silvestri-country"
-    ],
     "sales": [
         "05-MalPatSaj-sales",
+        "05-MalPatSaj-market_value",
         "07-silvestri-revenue_2022"
+    ],
+    "assets": [
+        "05-MalPatSaj-assets",
+        "05-MalPatSaj-sales",
+        "07-silvestri-revenue_2022",
+        "05-MalPatSaj-market_value",
+        "07-silvestri-market_value_apr_2022"
+    ],
+    "market_value": [
+        "05-MalPatSaj-market_value",
+        "05-MalPatSaj-assets",
+        "05-MalPatSaj-sales"
+    ],
+    "assets-0": [
+        "05-MalPatSaj-assets",
+        "05-MalPatSaj-profit",
+        "07-silvestri-revenue_2022",
+        "08-slytherin-revenue",
+        "05-MalPatSaj-market_value",
+        "05-MalPatSaj-sales"
+    ],
+    "market_value-1": [
+        "05-MalPatSaj-market_value",
+        "07-silvestri-market_value_apr_2022"
+    ],
+    "country": [
+        "08-slytherin-country",
+        "07-silvestri-country",
+        "05-MalPatSaj-country"
+    ],
+    "name": [
+        "07-silvestri-name",
+        "08-slytherin-name",
+        "05-MalPatSaj-name"
+    ],
+    "profit": [
+        "05-MalPatSaj-profit",
+        "05-MalPatSaj-sales"
+    ],
+    "revenue": [
+        "08-slytherin-revenue",
+        "05-MalPatSaj-sales"
     ]
 }
