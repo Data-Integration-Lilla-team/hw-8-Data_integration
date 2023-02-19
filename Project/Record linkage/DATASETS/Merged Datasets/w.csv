@@ -1,749 +1,998 @@
-ID,name,country,headquarters,address,founded,employees,market_cap,revenue,profit,industry,sector,categories,ceo;
-184579,wipro,india,,,,,,,,,,,;
-20482,wns,india,,,,,doll_3.88 b,,,,,,;
-73,wells fargo india,,,,1852,,,,,it services & consulting,,,;
-5866,wipro pari,,,,2000,,,,,,,,;
-142,whitehat jr,,,,2018,,,,,edtech,,,;
-153,wipro consumer care & lighting,,,,1945,,,,,fmcg,,,;
-1808,wipro infotech limited,,,,1945,,,,,,,,;
-208,wipro enterprises ltd,,,,1945,,,,,it services & consulting,,,;
-288,walmart,united states,,,,,,,,,,,;
-28545,whirlpool,india,,,,,,,,,,,;
-383,wockhardt,,,,1999,,,,,pharma,,,;
-448,wabco,,,,1969,,,,,auto components,,,;
-589,welspun,,,,1985,,,,,fashion & textile,,,;
-725,wind world,,,,1994,,,,,power,,,;
-819,wheelseye technology,,,,,,,,,,,,;
-924,wistron,,,,2001,,,,,,,,;
-50596,worley,australia,,,,,,,,,,,;
-70788,willis towers watson ,,,,,44.2,doll_27.56 b,doll_8.85 b,doll_1.44 b,,,,;
-61827,wheels up,united states,,,,,doll_0.17 b,,,,,,;
-1131,westside,,,,1998,,,,,fashion & textile,,,;
-1169,wipro infrastructure engineering,,,,1976,,,,,industrial machinery,,,;
-1304,wuerth,,,,1994,,,,,industrial machinery,,,;
-1312,webhelp,,,,2000,,,,,bpo,,,;
-32897,weyco group,,,,,,,,,,,,;
-1365,wapcos,,,,1969,,,,,engineering & construction,,,;
-1415,wonder cement,,,,2010,,,,,building material,,,;
-1430,wockhardt hospital,,,,1973,,,,,healthcare,,,;
-1479,westin,,,,1930,,,,,hospitality,,,;
-1782,williams lea tag,,,,1820,,,,,recruitment,,,;
-139265,western digital,united states,,,,,,,,,,,;
-1921,wellness forever medicare,,,,2008,,,,,retail,,,;
-1966,wonderla holidays,,,,2000,,,,,hospitality,,,;
-2045,writer safe guard,,,,2001,,,,,law enforcement & security,,,;
-2089,wipro ge health care,,,,1892,,,,,it services & consulting,,,;
-2139,wintax solution,,,,2018,,,,,management consulting,,,;
-18553,world fuel services,united states,,,,,,,,,,,;
-2157,win medicare,,,,2005,,,,,pharma,,,;
-2181,wissen infotech,,,,2000,,,,,it services & consulting,,,;
-183264,wolters kluwer,netherlands,,,,,doll_27.65 b,,,,,,;
-2299,wartsila,,,,1834,,,,,ports & shipping,,,;
-100945,webskitters,,,,,,,,,,,,;
-2570,windlas biotech,,,,2001,,,,,pharma,,,;
-2663,wipro hr services,,,,0,,,,,recruitment,,,;
-2728,wildcraft,,,,1998,,,,,fashion & textile,,,;
-2891,writer information management services,,,,1987,,,,,facility management services,,,;
-2913,watertec india,,,,1997,,,,,building material,,,;
-2920,wow momo foods,,,,2008,,,,,fmcg,,,;
-2928,weblink in,,,,1997,,,,,it services & consulting,,,;
-33420,wh group,hong kong,,,,,doll_0.10 b,,,,,,;
-3062,world vision,,,,1950,,,,,non-profit,,,;
-3079,weddingz.in,,,,2015,,,,,internet,,,;
-3157,walplast products,,,,2004,,,,,engineering & construction,,,;
-3170,wep solutions india,,,,1995,,,,,it services & consulting,,,;
-3196,woodland,,,,1992,,,,,fashion & textile,,,;
-3293,wagh bakri tea group,,,,1915,,,,,beverage,,,;
-3445,wissen technology,,,,2015,,,,,it services & consulting,,,;
-3617,welspun enterprises,,,,,,,,,,,,;
-3764,weatherford,,,,1941,,,,,oil & gas,,,;
-3782,weizmann forex,,,,1993,,,,,financial services,,,;
-3820,wings biotech,,,,1986,,,,,pharma,,,;
-3936,welspun global brands,,,,2000,,,,,fashion & textile,,,;
-4006,wishfin,,,,2016,,,,,financial services,,,;
-4099,wrigley,,,,1891,,,,,fmcg,,,;
-4107,writer business services,,,,1953,,,,,facility management services,,,;
-4243,wellspring healthcare,,,,2010,,,,,healthcare,,,;
-4397,webkul software,,,,2010,,,,,it services & consulting,,,;
-93776,weg,brazil,,,,,,,,,,,;
-4612,ways2excel,,,,0,,,,,edtech,,,;
-4614,wicked ride adventures,,,,2014,,,,,internet,,,;
-4633,walter bushnell,,,,2004,,,,,pharma,,,;
-4730,wilo mather and platt pumps,,,,1870,,,,,industrial machinery,,,;
-22853,wabtec,united states,,,,,doll_18.80 b,,,,,,;
-4812,webdew,,,,2016,,,,,it services & consulting,,,;
-4917,world health organization,,,,1948,,,,,government,,,;
-5067,wingreens farms,,,,2011,,,,,power,,,;
-5071,weikfield foods,,,,1956,,,,,food processing,,,;
-5133,wave infratech,,,,1963,,,,,real estate,,,;
-100614,wr logistics,germany,,,,7.0,,doll_11.66 m,,,transport,,;
-94064,wsp,,,,,,,,,,,,;
-5347,windsor machines,,,,1963,,,,,industrial machinery,,,;
-5494,west bengal state electricity distribution company,,,,2007,,,,,power,,,;
-5525,wovvtech,,,,2016,,,,,software product,,,;
-5540,weavetex overseas,,,,1969,,,,,fashion & textile,,,;
-5708,weir minerals,,,,1871,,,,,metals & mining,,,;
-5793,wpil,,,,1952,,,,,building material,,,;
-5893,wibmo,,,,1999,,,,,fintech,,,;
-5901,wonderchef home appliances,,,,2009,,,,,consumer electronics & appliances,,,;
-6146,wockhardt biotech park,,,,2004,,,,,pharma,,,;
-6235,woodenstreet.com,,,,2015,,,,,furniture & furnishing,,,;
-13955,waste management,united states,,,,,doll_65.39 b,,,,,,;
-6594,willowood crop sciences,,,,2012,,,,,agriculture,,,;
-6667,walking tree,,,,2008,,,,,software product,,,;
-6689,wellness forever lifestyle chemist,,,,0,,,,,retail,,,;
-6844,way2online interactive,,,,2006,,,,,marketing & advertising,,,;
-6836,wwics group,,,,1993,,,,,travel & tourism,,,;
-6961,winjit technologies,,,,2004,,,,,it services & consulting,,,;
-6987,wunderman,,,,1958,,,,,marketing & advertising,,,;
-6992,western coalfields,,,,1975,,,,,metals & mining,,,;
-7036,waah jobs,,,,2015,,,,,internet,,,;
-7134,way2wealth brokers,,,,1984,,,,,financial services,,,;
-7297,western heat and forge,,,,1982,,,,,industrial machinery,,,;
-137408,wise plc,uk,,,,,,,,,,,;
-7522,wingtech mobile communication,,,,0,,,,,electronics manufacturing,,,;
-7645,welkin telecom infra,,,,2004,,,,,telecom,,,;
-7732,windals precision,,,,1990,,,,,auto components,,,;
-7776,wanfeng aluminum wheel,,,,0,,,,,industrial machinery,,,;
-7814,workindia,,,,2015,,,,,it services & consulting,,,;
-7978,websol energy systems,,,,1990,,,,,semiconductors,,,;
-8103,winwire technologies,,,,2007,,,,,it services & consulting,,,;
-8236,winsome textile industries,,,,1990,,,,,fashion & textile,,,;
-8243,whsmith,,,,1792,,,,,retail,,,;
-8542,wize brains,,,,0,,,,,,,,;
-8564,white crow research,,,,2011,,,,,recruitment,,,;
-8609,wizertech informatics,,,,2000,,,,,it services & consulting,,,;
-8818,wizard e-marketing,,,,2005,,,,,it services & consulting,,,;
-8878,willis processing services,,,,1992,,,,,it services & consulting,,,;
-8960,webguru infosystems,,,,2005,,,,,it services & consulting,,,;
-9157,wwf-india,,,,1969,,,,,non-profit,,,;
-9205,wade adams contracting,,,,1976,,,,,engineering & construction,,,;
-9467,world health partners,,,,2008,,,,,non-profit,,,;
-9711,wheels india - tvs group,,,,0,,,,,,,,;
-9715,winds e world,,,,2018,,,,,retail,,,;
-9762,weaverbird engineering technology,,,,2005,,,,,it services & consulting,,,;
-9782,white shrub,,,,0,,,,,,,,;
-9896,wunderman thompson commerce,,,,1989,,,,,it services & consulting,,,;
-11332,warehousespaceeestioãå(14713488),,,                        Rapla maakond Rapla vald Rapla linn Viljandi mnt 74 79514                            ,,,,,,,,,;
-11333,webspayoãå(14842783),,,                        Harju maakond Tallinn NÃÂµmme linnaosa Kalda tn 9a/1 11625                            ,,,,,,,,,;
-11335,wellnesssparkoãå(16411202),,,                        Tartu maakond Tartu linn Tartu linn VÃÂµru tn 5-2 50111                            ,,,,,,,,,;
-11337,wespaceoãå(14503621),,,                        Harju maakond Tallinn PÃÂµhja-Tallinna linnaosa Vibu tn 5 10415                            ,,,,,,,,,;
-11338,whatifspacesoãå(16602451),,,                        Harju maakond Tallinn Kesklinna linnaosa Rotermanni tn 2 10111                            ,,,,,,,,,;
-11339,whitespacelimitlessconsultingoãå(16329222),,,                        Harju maakond Tallinn Kesklinna linnaosa TornimÃÂ¤e tn 5 10145                            ,,,,,,,,,;
-11340,whitespaceoãå(14965988),,,                        Harju maakond Tallinn NÃÂµmme linnaosa PÃÂµdra tn 79 10915                            ,,,,,,,,,;
-11342,wideworldinvestspainoãå(16458267),,,                        Harju maakond Tallinn Pirita linnaosa Valguta tn 19 11913                            ,,,,,,,,,;
-11343,wingspanoãå(14117697),,,                        Harju maakond Tallinn LasnamÃÂ¤e linnaosa Valukoja tn 32/3 11415                            ,,,,,,,,,;
-11344,wirdosoãå(16012755),,,                        Tartu maakond Tartu linn Tartu linn Anne tn 59-67 50703                            ,,,,,,,,,;
-11345,wisespaceinvestoãå(12794139),,,                        Harju maakond Tallinn PÃÂµhja-Tallinna linnaosa Telliskivi tn 60a 10412                            ,,,,,,,,,;
-11346,woodenspaoãå(16429047),,,                        Tartu maakond Kastre vald VÃÂµnnu alevik Karja tee 16 62401                            ,,,,,,,,,;
-11347,workpoweroãå(11023033),,,,,,,,,,,,;
-11348,workspacemetricsoãå(16474993),,,                        Harju maakond Tallinn LasnamÃÂ¤e linnaosa Sepapaja tn 6 15551                            ,,,,,,,,,;
-11349,workspaceoãå(14624891),,,                        Harju maakond Harku vald Tiskre kÃÂ¼la Oja tee 24-3 76916                            ,,,,,,,,,;
-11350,wurkspaces.devoãå(16466290),,,                        Harju maakond Tallinn LasnamÃÂ¤e linnaosa Sepapaja tn 6 15551                            ,,,,,,,,,;
-11437,watershed,united states,,,,,,,,internet software & services,,,;
-11485,wrapbook,united states,,,2018,,,,,fintech,,,;
-13658,weights & biases,united states,,,,,,,,artificial intelligence,,,;
-13610,worldcoin,united states,,,,,,,,fintech,,,;
-11571,webull,china,,,,,,,,fintech,,,;
-13521,wacai,china,,,,,,,,mobile & telecommunications,,,;
-11625,welab,hong kong,,,2013,,,,,fintech,,,;
-154794,womai,china,,,,,,,,,,,;
-11674,wheel,united states,,,2018,,,,,health,,,;
-11742,wasabi,united states,,,,,,,,internet software & services,,,;
-11789,workhuman,ireland,,,,,,,,internet software & services,,,;
-13321,wtoip,china,,,,,,,,,,,;
-13157,wenheyou,china,,,,,,,,other,,,;
-13144,wayflyer,ireland,,,,,,,,fintech,,,;
-12042,wave,senegal,,,,,,,,fintech,,,;
-12192,wemakeprice,south korea,,,,,,,,e-commerce & direct-to-consumer,,,;
-12876,workrise,united states,,,,,,,,internet software & services,,,;
-12293,wildlife studios,brazil,,,,,,,,other,,,;
-12354,whoop,united states,,,,,,,,e-commerce & direct-to-consumer,,,;
-12784,whatnot,united states,,,,,,,,e-commerce & direct-to-consumer,,,;
-12373,webflow,united states,,,,,,,,internet software & services,,,;
-12729,weride,china,,,,,,,,auto & transportation,,,;
-12413,wefox,germany,,,,,,,,fintech,,,;
-12674,workato,united states,,,,,,,,internet software & services,,,;
-12472,wiz,israel,,,,,,,,cybersecurity,,,;
-12489,we doctor,china,,,,,,,,health,,,;
-12507,weilong,china,,,2001,,,,,consumer & retail,,,;
-149869,wm motor,china,,,,,,,,,,,;
-136480,waste connections,united states,,,,,doll_33.82 b,,,,,,;
-31617,westlake chemical,united states,,,,,doll_0.89 b,,,,,,;
-48865,welltower,united states,,,,,doll_39.96 b,,,,,,;
-14336,wec energy group,united states,,,,,doll_32.8 b,,,,,,;
-93156,w. w. grainger,united states,,,,,doll_25.52 b,,,,,,;
-72737,weg on,brazil,,,,,doll_32.05 b,,,,,,;
-22016,weyerhaeuser,united states,,,,,doll_29.42 b,,,,,,;
-14728,w. p. carey,united states,,,,,doll_20.08 b,,,,,,;
-94593,wilmar international,singapore,,,,,doll_19.54 b,,,,,,;
-34912,warner music group,united states,,,,,doll_19.21 b,,,,,,;
-149376,watts water technologies,united states,,,,,doll_92.52 m,,,,,,;
-20192,workman,japan,,,,,doll_3.38 b,,,,,,;
-30086,westports,malaysia,,,,,doll_2.95 b,,,,,,;
-37888,warby parker,united states,,,,,doll_1.93 b,,,,,,;
-23399,winmark,united states,,,,,doll_0.88 b,,,,,,;
-39814,weight watchers,united states,,,,,doll_0.31 b,,,,,,;
-54435,wendt india,india,,,,,doll_0.19 b,,,,,,;
-33420,wh group,hong kong,,,,,doll_0.10 b,,,,,,;
-24992,wearable health solutions,united states,,,,,doll_9.18 m,,,,,,;
-16165,westwater resources,united states,,,,,doll_49.02 m,,,,,,;
-33158,westport fuel systems,canada,,,,,doll_0.17 b,,,,,,;
-62539,whole earth brands,united states,,,,,doll_0.18 b,,,,,,;
-32868,willdan group,united states,,,,,doll_0.25 b,,,,,,;
-180484,workhorse group,australia,,,,,doll_35.33 b,,,,,,;
-26211,west coast paper mills,india,,,,,doll_0.43 b,,,,,,;
-153568,wideopenwest,united states,,,,,doll_0.97 b,,,,,,;
-45058,westrock coffee,united states,,,,,doll_1.02 b,,,,,,;
-45153,wabash national,united states,,,,,doll_1.20 b,,,,,,;
-156353,wework,united states,,,,,doll_1.34 b,,,,,,;
-52608,wacker neuson,germany,,,,,doll_1.40 b,,,,,,;
-143424,westamerica bancorporation,united states,,,,,doll_1.56 b,,,,,,;
-45408,wüstenrot & württembergische,germany,,,,,doll_1.69 b,,,,,,;
-46082,winnebago industries,united states,,,,,doll_1.79 b,,,,,,;
-30722,wabco india,india,,,,,doll_1.85 b,,,,,,;
-64098,winpak,canada,,,,,doll_2.04 b,,,,,,;
-24357,wafd bank,united states,,,,,doll_2.37 b,,,,,,;
-61859,weber,united states,,,,,doll_2.32 b,,,,,,;
-141186,wh smith,uk,,,,,doll_2.54 b,,,,,,;
-20064,worthington industries,united states,,,,,doll_2.65 b,,,,,,;
-67270,werner enterprises,united states,,,,,doll_2.85 b,,,,,,;
-180864,wienerberger,austria,,,,,,,,,,,;
-62209,walker & dunlop,united states,,,,,doll_3.07 b,,,,,,;
-51201,white mountains insurance group,bermuda,,,,,doll_3.81 b,,,,,,;
-28165,wpp,,,,,115.0,doll_12.14 b,doll_13.23 b,-doll_3.21 b,,,,;
-30050,wintrust financial,united states,,,,,doll_5.31 b,,,,,,;
-19942,win semiconductors,taiwan,,,,,doll_2.52 b,,,,,,;
-19979,wh smith,united-kingdom,,,,,doll_2.55 b,,,,,retail ,;
-57671,weibo,china,,,,,doll_4.89 b,,,,,,;
-20263,wendy’s company,united states,,,,,doll_4.85 b,,,,,,;
-138114,wix.com,israel,,,,,doll_5.03 b,,,,,,;
-179744,wizz air,,,,,,,,,,,,;
-29474,wingstop restaurants,united states,,,,,doll_4.36 b,,,,,,;
-65665,wiwynn,taiwan,,,,,doll_4.54 b,,,,,,;
-50753,welcia holdings,japan,,,,,doll_4.61 b,,,,,,;
-68162,workiva,united states,,,,,doll_4.31 b,,,,,,;
-139137,wendel,france,,,,,doll_4.67 b,,,,,,;
-67169,wayfair,united states,,,,,doll_4.03 b,,,,,,;
-150625,whitecap resources,canada,,,,,,,,,,,;
-20974,wã¤rtsilã¤,finland,,,,,doll_5.71 b,,,,,machinery-manufacturing manufacturing ,;
-20993,world wrestling entertainment,united states,,,,,doll_6.65 b,,,,,,;
-57256,wan hai lines,taiwan,,,,,doll_6.82 b,,,,,,;
-67170,wesco international,united states,,,,,doll_5.89 m,,,,,,;
-139778,wynn macau,macau,,,,,doll_5.9 m,,,,,,;
-21216,west fraser timber,canada,,,,,doll_6.09 b,,,,,,;
-21252,woodward,united states,,,,,doll_5.68 b,,,,,,;
-148800,wyndham hotels & resorts,united states,,,,,doll_6.53 b,,,,,,;
-50273,western alliance bancorporation,united states,,,,,doll_7.03 b,,,,,,;
-28737,washington h. soul pattinson and company (whsp),australia,,,,,doll_7.81 b,,,,,,;
-66437,whitbread,,,,,35.7,doll_7.52 b,doll_2.27 b,doll_77.83 m,,,,;
-50144,woori financial group,south korea,,,,,doll_7.58 b,,,,,,;
-138242,wacker chemie,germany,,,,,doll_7.62 b,,,,,,;
-28640,wex,united states,,,,,doll_7.80 b,,,,,,;
-21453,webster financial,united states,,,,,doll_8.35 b,,,,,,;
-21457,wharf holdings,hong-kong,,,,,doll_8.15 b,,,,,real-estate ,;
-56866,westrock,united states,,,,,doll_13.27 b,,,,,,;
-67782,willscot,united states,,,,,doll_9.71 b,,,,,,;
-21601,wsp global,australia,,,,,doll_13.11 b,,,,,,;
-49570,worldline,france,,,,,doll_12.55 b,,,,,,;
-94822,weichai power,china,,,,,doll_13.87 b,,,,,,;
-57024,want want china,hong kong,,,,,,,,,,,;
-35715,williams-sonoma,united states,,,,,doll_8.23 b,,,,,,;
-35457,wynn resorts,united states,,,,,doll_9.78 b,,,,,,;
-27270,workday,united states,,,,,doll_46.07 b,,,,,,;
-55652,woodside energy,australia,,,,,doll_49.32 b,,,,,,;
-64802,wuliangye yibin,china,,,,,doll_119.63 b,,,,,,;
-27427,walgreens boots alliance,united states,,,,,doll_46.52 b,,,,,,;
-94844,warner bros. discovery,united states,,,,,,,,,,,;
-49731,west japan railway,japan,,,,,doll_10.08 b,,,,,,;
-22469,wolfspeed,united states,,,,,doll_9.92 b,,,,,,;
-49734,watsco,united states,,,,,doll_10.49 b,,,,,,;
-47265,western midstream,united states,,,,,doll_10.90 b,,,,,,;
-49249,wheaton precious metals,canada,,,,,doll_21.26 b,,,,,,;
-136320,wuxi biologics,china,,,,,doll_32.41 b,,,,,,;
-55778,wesfarmers,australia,,,,,doll_40.57 b,,,,,,;
-27265,wuxi apptec,china,,,,,doll_43.23 b,,,,,,;
-22815,wharf reic,hong-kong,,,,,doll_17.86 b,,,,,real-estate investment ,;
-93793,west pharmaceutical,united states,,,,,doll_18.03 b,,,,,,;
-70403,westpac banking corporation,australia,,,,,doll_67.20 b,,,,,,;
-27077,walmex,mexico,,,,,doll_69.25 b,,,,,,;
-48384,wells fargo,united states,,,,,doll_176.77 b,,,,,,;
-92325,walt disney,united states,,,,,doll_215.33 b,,,,,,;
-31658,w&t offshore,united states,,,,,doll_0.86 b,,,,,,;
-53345,wallbox,spain,,,,,doll_0.74 b,,,,,,;
-53220,wisdomtree investments,united states,,,,,doll_0.77 b,,,,,,;
-53058,walkme,israel,,,,,doll_0.88 b,,,,,,;
-31782,washington trust bancorp,united states,,,,,doll_0.82 b,,,,,,;
-38819,wolverine world wide,united states,,,,,doll_1.07 b,,,,,,;
-64325,westshore terminals investment,canada,,,,,doll_1.13 b,,,,,,;
-31265,waterdrop inc.,china,,,,,,,,,,,;
-38635,waldencast,united states,,,,,doll_0.95 b,,,,,,;
-64480,wã¼stenrot & wã¼rttembergische,,,,,,doll_1.72 b,,,,,,;
-144451,warrior met coal,united states,,,,,doll_1.77 b,,,,,,;
-142946,weis markets,united states,,,,,doll_2.31 b,,,,,,;
-30496,wesbanco,united states,,,,,doll_2.21 b,,,,,,;
-55233,wheeler real estate investment trust,united states,,,,,doll_16.94 m,,,,,,;
-24761,waitr holdings,united states,,,,,doll_19.34 m,,,,,,;
-24801,wonderplanet,japan,,,,,doll_21.13 m,,,,,,;
-63433,winc,united states,,,,,doll_1.86 m,,,,,,;
-64313,wolverine energy and infrastructure,canada,,,,,doll_6.18 m,,,,,,;
-54945,wayi international digital entertainment,taiwan,,,,,doll_58.04 m,,,,,,;
-25185,wejo group,united-kingdom,,,,,doll_71.52 m,,,,,software tech ,;
-54822,westwood holdings group,united states,,,,,doll_0.11 b,,,,,,;
-63380,william penn bancorp,united states,,,,,doll_0.17 b,,,,,,;
-100352,wave life sciences,singapore,,,,,doll_0.47 b,,,,,,;
-65063,wemade,s. korea,,,,,doll_0.49 b,,,,,,;
-25666,whitestone reit,united states,,,,,doll_0.51 b,,,,,,;
-54082,whitehorse finance,united states,,,,,doll_0.31 b,,,,,,;
-62434,weave communications,united states,,,,,doll_0.34 b,,,,,,;
-26210,webzen,s. korea,,,,,doll_0.44 b,,,,,,;
-144834,western copper and gold,canada,,,,,doll_0.29 b,,,,,,;
-33005,western new england bancorp,united states,,,,,doll_0.21 b,,,,,,;
-33059,wm technology,united states,,,,,doll_0.19 b,,,,,,;
-60354,wirtualna polska (wp holding),poland,,,,,doll_0.66 b,,,,,,;
-64324,wesdome gold mines,canada,,,,,doll_0.84 b,,,,,,;
-49272,wharf reic,hong kong,,,,,doll_18.03 b,,,,,,;
-49857,wharf holdings,hong kong,,,,,doll_9.17 b,,,,,,;
-181644,wärtsilä,finland,,,,,,,,,,,;
-29288,wendy’s company,united states,,,,,doll_4.85 b,,,,,,;
-176483,world acceptance corporation,united states,,,,,doll_0.49 b,,,,,,;
-48737,williams companies,united states,,,,,doll_41.08 b,,,,,,;
-20418,weatherford international,united states,,,,,doll_3.05 b,,,,,,;
-57785,wendys company,united states,,,,,doll_4.78 b,,,,,,;
-61739,world acceptance corporation,,,,,3.121,doll_0.49 b,doll_0.57 b,doll_17.09 m,,,,;
-119648,walmart inc.,united states,,,,,doll_429.05 b,,,,consumer staples,,;
-135936,wells fargo & company,united states,,,,,doll_200.01 b,,,,,,;
-74340,wal-mart de mexico sab de cv,mexico,,,,,doll_71.96 b,,,,consumer staples,,;
-70583,wesfarmers limited,australia,,,,,doll_43.09 b,,,home improvement retail,consumer discretionary,,;
-69594,wuxi apptec co. ltd,china,,,,,doll_42.25 b,,,diagnostics & research,healthcare,,;
-70623,wanhua chemical group co. ltd,china,,,,,doll_39.73 b,,,chemicals,basic materials,,;
-93890,will semiconductor co. ltd,china,,,,,doll_27.24 b,,,,technology,,;
-70912,woodside petroleum ltd,australia,,,,,doll_24.60 b,,,,energy,,;
-72960,wens foodstuff group co. ltd,china,,,,,doll_23.20 b,,,,consumer staples,,;
-73218,wpp plc,united kingdom,,,,,doll_15.76 b,,,advertising agencies,communication services,,;
-73238,wm morrison supermarkets plc,united kingdom,,,,,0,,,grocery stores,consumer staples,,;
-73295,wizz air holdings plc,united kingdom,,,,,doll_4.52 b,,,airlines,industrials,,;
-73315,william hill plc,united kingdom,,,,,0,,,gambling,consumer discretionary,,;
-73327,watches of switzerland group plc,united kingdom,,,,,,,,,,,;
-140896,worldwide healthcare trust,uk,,,,,,,,,,,;
-152271,witan investment trust plc,uk,,,,,doll_2.51 b,,,,,,;
-73362,wh smith plc,united kingdom,,,,,doll_2.48 b,,,specialty retail,consumer discretionary,,;
-73433,workspace group plc,united kingdom,,,,,doll_1.65 b,,,reitoffice,real estate,,;
-146113,warehouse reit,uk,,,,,,,,,,,;
-73569,watkin jones plc,united kingdom,,,,,doll_882.2 m,,,residential construction,consumer discretionary,,;
-73649,wincanton plc,united kingdom,,,,,doll_629.7 m,,,integrated freight & logistics,industrials,,;
-73830,wilmington plc,united kingdom,,,,,doll_302.2 m,,,conglomerates,industrials,,;
-73882,wandisco plc,united kingdom,,,,,doll_245.5 m,,,softwareapplication,technology,,;
-73886,water intelligence plc,united kingdom,,,,,doll_244.2 m,,,specialty business services,industrials,,;
-74031,warrego energy limited,united kingdom,,,,,doll_137.6 m,,,oil & gas e&p,energy,,;
-74065,warpaint london plc,united kingdom,,,,,doll_118.5 m,,,household & personal products,consumer staples,,;
-74117,woodbois limited,united kingdom,,,,,doll_98.2 m,,,lumber & wood production,basic materials,,;
-92389,walgreens,united states,,,,,doll_39.34 b,doll_135.95 b,,,,,;
-92754,williams,united states,,,,,doll_42.73 b,doll_10.57 b,doll_1.52 b,,,,;
-92789,wtw,united kingdom,,,,,doll_26.88 b,doll_9.58 b,,,,,;
-139358,wuchan zhongda group,china,,,,,doll_4.87 b,,,,,,;
-93619,wuestenrot & wuerttembergische,germany,,,,,doll_1.84 b,doll_8.1 b,doll_414.3 m,,,,;
-93655,westinghouse air brake technologies,united states,,,,,doll_16.52 b,doll_7.82 b,doll_555.6 m,,,,;
-140783,wpg holdings,taiwan,,,,,doll_3.14 b,,,,,,;
-93967,waters,united states,,,,,doll_17.94 b,doll_2.79 b,doll_692.8 m,,,,;
-94200,weihai city commercial bank,china,,,,,,doll_1.38 b,,,,,not found;
-152752,wt microelectronics,taiwan,,,,,,,,,,,;
-136750,wingtech technology,china,,,,,doll_12.46 b,,,,,,;
-98240,winelivery,italy,,,,10,,doll_7.34 m,,,ecommerce,,;
-97274,wolfram chain*,the netherlands,,,,29.0,,doll_2.43 m,,,management consulting,,;
-97418,woodwatch,the netherlands,,,,25,,doll_5.59 m,,,retail,,;
-98433,winter in venice,uk,,,,6,,doll_12.68 m,,,beauty,,;
-99503,wielandts upmt,belgium,,,,6,,doll_1.53 m,,,technology,,;
-98517,wave studio,romania,,,,9,,doll_4.11 m,,,technology,,;
-98619,westrafo,italy,,,,58,,doll_22.07 m,,,energy,,;
-98663,wolf & badger,uk,,,,62,,doll_11.6 m,,,ecommerce,,;
-98752,wealth club,uk,,,,22.0,,doll_6.77 m,,,financial services,,;
-97782,werksrã¤der24,germany,,,,36.0,,doll_14.9 m,,,automobiles,,;
-99797,wastepack,uk,,,,20.0,,doll_22.37 m,,,waste management & recycling,,;
-97879,worteks,france,,,,11,,doll_1.87 m,,,technology,,;
-99936,weiser brandschutz & technik,germany,,,,45.0,,doll_5.99 m,,,construction,,;
-99948,wiwie transport,germany,,,,25,,doll_4.2 m,,,transport,,;
-97971,wiseband,france,,,,15.0,,doll_1.64 m,,,media,,;
-100053,way2global sb,italy,,,,16.0,,doll_2.41 m,,,support services,,;
-98058,worldwide fishing company,spain,,,,30.0,,doll_140.44 m,,,food & beverage,,;
-100093,whites agency,poland,,,,90,,doll_4.08 m,,,advertising,,;
-104544,welol next,italy,,,,32,,doll_2.69 m,,,technology,,;
-100198,whiskyzone,germany,,,,16.0,,doll_10.75 m,,,retail,,;
-104690,wingeco,italy,,,,22.0,,doll_3.41 m,,,industrial goods,,;
-103169,werksräder24,germany,,,,36.0,,doll_14.9 m,,,automobiles,,;
-100235,workmate,singapore,,,,82,,doll_12.44 m,,,support services,,;
-100276,wakefit,india,,,,600,,doll_28.21 m,,,retail,,;
-100475,wadiz,south korea,,,,204,,doll_19.12 m,,,fintech,,;
-100368,wolt enterprises,finland,,,,293,,doll_30.07 m,,,technology,,;
-100370,whatfix,india,,,,471,,doll_13.45 m,,,technology,,;
-100430,wafour corporation,south korea,,,,11,,doll_2.87 m,,,media,,;
-100715,workcapital,spain,,,,9,,doll_28.12 m,,,financial services,,;
-100722,wetaca,spain,,,,40,,doll_3.51 m,,,food & beverage,,;
-100780,watsons indonesia,indonesia,,,,1174,,doll_77.39 m,,,retail,,;
-100970,wishcompany inc.,south korea,,,,64,,doll_43.53 m,,,beauty,,;
-100971,w-endless,japan,,,,90,,doll_7.36 m,,,advertising,,;
-101038,wantedly,japan,,,,123,,doll_28.98 m,,,technology,,;
-101049,webengage,india,,,,125,,doll_5.41 m,,,technology,,;
-104985,wheely holdings,united kingdom,,,,90,,doll_32.9 m,,,technology,,;
-101168,webedge,japan,,,,50,,doll_5.06 m,,,technology,,;
-101177,we can do hr,poland,,,,250,,doll_6.92 m,,,support services,,;
-101191,worldutility,japan,,,,8,,doll_1.31 m,,,sales & marketing,,;
-101251,w2 solution,japan,,,,62,,doll_10.00 m,,,sales & marketing,,;
-101372,wacul,japan,,,,51,,doll_6.67 m,,,sales & marketing,,;
-101443,widget brain holding,netherlands,,,,24,,doll_1.70 m,,,technology,,;
-101444,wizionesysetms,south korea,,,,29,,doll_3.03 m,,,technology,,;
-101466,wertbau nord,germany,,,,13,,doll_2.9 m,,,construction,,;
-101561,wistron information technology and,taiwan,,,,not found,,doll_172.13 m,,,technology,,;
-101667,web stars channel,italy,,,,21,,doll_3.7 m,,,advertising,,;
-101772,wasserneutral,germany,,,,24,,doll_5.62 m,,,retail,,;
-101813,world class services,india,,,,13500,,doll_33.66 m,,,support services,,;
-101844,watt and volt,greece,,,,234,,doll_164.03 m,,,energy,,;
-101980,wse,singapore,,,,13,,doll_1.64 m,,,energy,,;
-102028,willplus,japan,,,,487,,doll_322.34 m,,,automobiles,,;
-102142,wapsi,france,,,,39,,doll_6.37 m,,,management consulting,,;
-102173,wed2b,united kingdom,,,,348,,doll_20.80 m,,,retail,,;
-102219,workstories,united kingdom,,,,22,,doll_9.0 m,,,interiors,,;
-102224,wewatch security service,germany,,,,103,,doll_4.97 m,,,support services,,;
-102311,wanecque,france,,,,36,,doll_3.6 m,,,construction,,;
-102679,wood box,italy,,,,21,,doll_2.41 m,,,industrial goods,,;
-102749,workable software,united kingdom,,,,213,,doll_15.76 m,,,technology,,;
-102859,wearereasonablepeople,netherlands,,,,34,,doll_3.0 m,,,technology,,;
-102915,wellynx,italy,,,,11,,doll_1.8 m,,,energy,,;
-102985,wknd,latvia,,,,25,,doll_1.91 m,,,advertising,,;
-102990,willie beamen,france,,,,17,,doll_8.55 m,,,media,,;
-103067,we exhibit,italy,,,,16,,doll_1.79 m,,,travel & leisure,,;
-103199,weclapp,germany,,,,65,,doll_4.65 m,,,technology,,;
-103272,workstreampeople (anywhere365),netherlands,,,,34,,doll_12.1 m,,,technology,,;
-103314,weller media agency,united kingdom,,,,25,,doll_3.2 m,,,sales & marketing,,;
-103622,wow international logistics,germany,,,,10,,doll_3.7 m,,,transport,,;
-103780,wacker immobilien & bauträger,germany,,,,12,,doll_2.32 m,,,construction,,;
-103887,wealth dynamics,united kingdom,,,,71,,doll_10.3 m,,,fintech,,;
-103951,white & fluffy,germany,,,,42,,doll_4.00 m,,,chemicals,,;
-103983,workinprogress italia,italy,,,,3,,doll_2.4 m,,,architecture,,;
-104162,wiraya solutions,sweden,,,,35,,doll_4.8 m,,,technology,,;
-104195,wesselhöfft + rüting,germany,,,,35,,doll_3.59 m,,,construction,,;
-104207,we-unit group,italy,,,,18,,doll_11.45 m,,,financial services,,;
-104466,webmediarm,france,,,,30,,doll_5.98 m,,,media,,;
-104467,we are pentagon group,uk,,,,141,,doll_14.81 m,,,ecommerce,,;
-104560,we tech,italy,,,,20,,doll_3.33 m,,,technology,,;
-104696,warner land surveys,united kingdom,,,,51,,doll_11.04 m,,,construction,,;
-104718,warner land surveys,uk,,,,59,,doll_18.53 m,,,construction,,;
-104755,webranking,italy,,,,84,,doll_18.38 m,,,advertising,,;
-104792,wabel,france,,,,23,,doll_4.6 m,,,technology,,;
-104793,wito,france,,,,45,,doll_3.2 m,,,construction,,;
-104899,werbung & design socher,germany,,,,6,,doll_3.96 m,,,sales & marketing,,;
-105051,welljob,france,,,,143,,doll_58.1 m,,,support services,,;
-105088,wasserweik wassersysteme,germany,,,,27,,doll_4.2 m,,,technology,,;
-114141,wr finances ltd.,,,,,,,,,,,,;
-114231,whitebeam finances ltd,,,,,,,,,,,,;
-119837,wmg global ventures limited,united kingdom,,,,,,,,,,,;
-119840,warner bros. enterprises llc,,,,,,,,,,,,;
-119856,warner bros. consumer products inc.,united states,,,,,,,,,,,;
-119930,weglobal srl,italy,,,,,,,,,,,;
-119977,watchtower security solutions united kingdom limited,united kingdom,,,,,,,,,,,;
-119996,windway capital corp.,united states,,,,,,,,,,,;
-120030,weg automation europe srl,italy,,,,,,,,,,,;
-120072,wisconsin bank & trust,united states,,,,,,,,,,,;
-120168,w.e.c. lines uk limited,united kingdom,,,,,,,,,,,;
-120240,wmh holdings limited,united kingdom,,,,,,,,,,,;
-121953,walker limited,united kingdom,,,,,,,,,,,;
-120507,wood group engineering & operations support limited,united kingdom,,,,,,,,,,,;
-120625,wind tre spa,italy,,,,,,,,,,,;
-123170,walt disney music company,united states,,,,,,,,,,,;
-123624,whirlpool italia srl,italy,,,,,,,,,,,;
-120818,warner/chappell music inc.,united states,,,,,,,,,,,;
-123700,we are social ltd,united kingdom,,,,,,,,,,,;
-123824,whirlpool management emea srl,italy,,,,,,,,,,,;
-123884,withsecure srl,italy,,,,,,,,,,,;
-123979,west one music group france limited,united kingdom,,,,,,,,,,,;
-122344,wateralia spa,italy,,,,,,,,,,,;
-121720,wework international limited,united kingdom,,,,,,,,,,,;
-121504,wood group uk limited,united kingdom,,,,,,,,,,,;
-121511,witor's spa,italy,,,,,,,,,,,;
-121543,wolters kluwer tax and accounting limited,united kingdom,,,,,,,,,,,;
-121687,wren sterling financial planning limited,united kingdom,,,,,,,,,,,;
-121731,wireless logic limited,united kingdom,,,,,,,,,,,;
-123825,western washington university,united states,,,,,,,,,,,;
-122322,west burton property limited,united kingdom,,,,,,,,,,,;
-122363,webmd health corp.,united states,,,,,,,,,,,;
-122402,waymo llc,united states,,,,,,,,,,,;
-122425,werther international spa,italy,,,,,,,,,,,;
-122439,warwick street (ksi) llp,united kingdom,,,,,,,,,,,;
-122447,wns north america inc.,united states,,,,,,,,,,,;
-122509,western union payment services ireland limited,italy,,,,,,,,,,,;
-122528,white & case llp,united states,,,,,,,,,,,;
-122569,wekiwi srl,italy,,,,,,,,,,,;
-122688,wp safety-kleen limited,united kingdom,,,,,,,,,,,;
-124260,workfusion careers,,,,2010,,,,,computer software,,,;
-124296,workfront careers,,,,2001,,,,,computer software,,,;
-124301,wideorbit careers,,,,1999,,,,,computer software,,,;
-124366,wise ltd. careers,,,,2011,,,,,financial services,,,;
-124383,wex careers,,,,1983,,,,,financial services,,,;
-124435,webby central careers,,,,2013,,,,,information technology & services,,,;
-124459,waltham clinic careers,,,,2019,,,,,hospital & health care,,,;
-124506,western dental & orthodontics careers,,,,1903,,,,,hospital & health care,,,;
-124695,wp engine careers,,,,2010,,,,,information technology & services,,,;
-124699,wacom technology corp. careers,,,,1983,,,,,computer hardware,,,;
-124828,whip media group careers,,,,2014,,,,,entertainment,,,;
-124837,wargaming careers,,,,1998,,,,,computer games,,,;
-124868,widepoint careers,,,,2004,,,,,information technology & services,,,;
-124944,willing careers,,,,2015,,,,,internet,,,;
-124949,wardbrew careers,,,,2012,,,,,information technology & services,,,;
-138938,wallenstam ab (publ),sweden,,,,,,,,,,,;
-160548,woowa brothers,south korea,,,,,,,,,,,;
-141862,webuild s.p.a.,italy,,,,,,,,,,,;
-154276,wha corporation public company,thailand,,,,,,,,,,,;
-143682,walkme ltd.,israel,,,,,,,,,,,;
-154793,wifi master key,china,,,,,,,,,,,;
-155238,wuling motor holdings,hong kong,,,,,,,,,,,;
-155567,wuhan p&s information technology,china,,,,,,,,,,,;
-135136,wing tai holdings,singapore,,,,,,,,,,,;
-136133,whatsapp,united states,,,,,0,,,,,,;
-136593,west pharmaceutical services,united states,,,,,doll_33.41 m,,,,,,donald e morel jr;
-136643,webank,china,,,,,0,,,,,,;
-136817,wellcare health plans,united states,,,,,0,,,,,,;
-147648,wuhan hiteck biological pharma,china,,,,,doll_19.84 m,,,,,,;
-137007,wpp plc,uk,,,,,doll_16.34 m,,,,,,;
-137040,wabtec corporation,united states,,,,,doll_17.77 b,,,,,,rafael santana;
-137120,wuxi lead intelligent equipment,china,,,,,doll_16.54 b,,,,,,;
-147926,w. r. berkley corporation,united states,,,,,doll_14.94 b,,doll_1.02 b,,,,william r. berkley;
-137269,walvax biotechnology,china,,,,,doll_18.87 m,,,,,,;
-137275,wish,united states,,,,,0.0,,,,,,;
-137554,want want china holdings,china,,,,,doll_8.29 m,,,,,,;
-137805,wuhu sanqi interactive entertainment network technology group,china,,,,,doll_6.24 m,,,,,,;
-137892,western midstream partners lp,united states,,,,,doll_9.5 b,,,,,,;
-148694,wabco holdings,belgium,,,,,0.0,,,,,,;
-138054,wartsila oyj abp,finland,,,,,doll_8.61 b,,,,,,;
-138082,warehouses de pauw,belgium,,,,,,,,,,,;
-138098,wuhan guide infrared,china,,,,,doll_9.41 m,,,,,,;
-138229,weibo corporation,china,,,,,doll_7.84 b,,,,,,;
-167689,wizz air holdings,switzerland,,,,,,,,,,,;
-138473,wex inc,united states,,,,,doll_6.95 b,,,,,,;
-138534,wiwynn corporation,taiwan,,,,,doll_6.09 m,,,,,,;
-138561,wuxi shangji automation,china,,,,,doll_6.64 b,,,,,,;
-138704,wintime energy,china,,,,,doll_6.27 b,,,,,,;
-138729,weihai guangwei composites,china,,,,,doll_6.23 b,,,,,,;
-146356,westone information industry,china,,,,,doll_6.19 m,,,,,,;
-149609,webster financial corporation,united states,,,,,doll_4.58 m,,,,,,;
-138951,wintrust financial corporation,united states,,,,,doll_2.16 m,,,,,,;
-138965,western superconducting technologies,china,,,,,doll_5.47 m,,,,,,;
-138979,western securities,china,,,,,doll_5.57 m,,,,,,;
-139074,wuhan zhongshang commercial group,china,,,,,doll_5.33 m,,,,,,;
-139097,wanda film holding,china,,,,,doll_5.32 b,,,,,,;
-139884,winning health technology group,china,,,,,doll_5.29 b,,,,,,;
-139136,wpx energy,united states,,,,,doll_4.57 m,,,,,,;
-139299,wangfujing group,china,,,,,doll_3.48 m,,,,,,;
-139351,wingstop,united states,,,,,doll_4.88 b,,,,,,;
-139430,wuhu token sciences,china,,,,,doll_2.59 m,,,,,,;
-167890,watches of switzerland group,uk,,,,,,,,,,,;
-139568,wus printed circuit (kunshan),china,,,,,doll_4.52 b,,,,,,;
-139606,william hill,uk,,,,,doll_3.88 m,,,,,,;
-139629,wyndham destinations,united states,,,,,doll_3.85 m,,,,,,;
-139655,waypoint reit limited,australia,,,,,doll_4.39 b,,,,,,;
-150345,winbond electronics corporation,taiwan,,,,,doll_4.37 b,,,,,,;
-139719,wns (holdings),india,,,,,doll_4.03 m,,,,,,;
-140090,wuhan raycus fiber laser technologies,china,,,,,doll_3.97 m,,,,,,;
-140289,wuhan dr laser technologyltd,china,,,,,doll_3.63 b,,,,,,;
-140430,wolong electric drive group,china,,,,,doll_2.88 m,,,,,,;
-140450,woolworths holdings,south africa,,,,,doll_3.45 b,,,,,,;
-140519,welbilt,united states,,,,,doll_3.33 m,,,,,,;
-140584,weingarten realty investors,united states,,,,,0.0,,,,,,;
-151277,wihlborgs fastigheter ab (publ),sweden,,,,,,,,,,,;
-140732,walsin lihwa corporation,taiwan,,,,,doll_3.32 m,,,,,,;
-140747,wanxiang qianchao,china,,,,,doll_3.17 b,,,,,,;
-151484,weber inc.,united states,,,,,doll_3.12 b,,,,,,;
-140946,wisconsin electric power company pfd 3.60_perc,,,,,,doll_3.03 b,,,,,,;
-151648,wistron corporation,taiwan,,,,,doll_1.02 m,,,,,,;
-141043,walsin technology corporation,taiwan,,,,,doll_2.93 b,,,,,,;
-155936,wuhan fingu electronic technology,china,,,,,doll_2.78 b,,,,,,;
-141240,whiting petroleum corporation,united states,,,,,doll_1.84 m,,,,,,;
-168189,wallenius wilhelmsen asa,norway,,,,,,,,,,,;
-141495,wuxi taiji industry company,china,,,,,doll_2.77 m,,,,,,;
-141551,wangsu science & technology,china,,,,,doll_2.19 m,,,,,,;
-141644,wefox group,germany,,,,,doll_0.005508 t,,,,,,;
-141662,wasu media holding,china,,,,,doll_2.46 b,,,,,,;
-152484,wonders information,china,,,,,doll_2.33 m,,,,,,;
-141805,washington federal,united states,,,,,doll_2.35 b,,,,,,;
-141824,weimob,china,,,,,doll_2.33 b,,,,,,;
-142136,wisdom marine lines,taiwan,,,,,doll_2.24 m,,,,,,;
-142389,whitehaven coal,australia,,,,,doll_2.01 m,,,,,,;
-142397,waddell & reed financial,united states,,,,,doll_1.59 m,,,,,,;
-142455,winall hi-tech seed,china,,,,,doll_2.38 m,,,,,,;
-153276,wuxi chipown micro-electronics limited,china,,,,,doll_2.32 m,,,,,,;
-142679,wustenrot & wurttembergische ag,germany,,,,,doll_2.07 m,,,,,,;
-142820,world fuel services corporation,united states,,,,,doll_2.06 m,,,,,,;
-142925,wright investors' service holdings,united states,,,,,doll_1.77 b,,,,,,;
-142964,west holdings corporation,japan,,,,,doll_1.72 m,,,,,,;
-143018,walliser kantonalbank,switzerland,,,,,doll_1.75 b,,,,,,;
-143192,wuxi rural commercial bank,china,,,,,doll_1.69 b,,,,,,;
-143432,wuxi boton technology,china,,,,,doll_1.6 b,,,,,,;
-143451,wesco aircraft holdings,united states,,,,,0.0,,,,,,;
-143574,wafer works corporation,taiwan,,,,,doll_1.31 m,,,,,,;
-143813,webjet,australia,,,,,doll_1.57 m,,,,,,;
-143817,wam capital,australia,,,,,doll_1.5 m,,,,,,;
-144112,wecash,china,,,,,0.0,,,,,,;
-154931,wedge industrial,china,,,,,doll_1.38 b,,,,,,;
-144255,wuhan easy diagnosis biomedicine,china,,,,,doll_1.38 b,,,,,,;
-144448,wuxi huaguang boiler,china,,,,,doll_1.21 m,,,,,,;
-155173,wangneng environment,china,,,,,doll_1.14 m,,,,,,;
-144551,wuhan department store group,china,,,,,doll_1.23 m,,,,,,;
-144715,wacom,japan,,,,,doll_1.03 m,,,,,,;
-144889,wilh. wilhelmsen holding asa,norway,,,,,doll_0.96 m,,,,,,;
-145066,wavestone sa,france,,,,,doll_1.09 m,,,,,,;
-155747,wpg (shanghai) smart water public,china,,,,,doll_1.07 m,,,,,,;
-145217,wacoal holdings,japan,,,,,doll_1.33 m,,,,,,;
-145306,westlife development,india,,,,,doll_1.18 m,,,,,,;
-145318,wise talent information technology co. ltd,china,,,,,doll_0.95 m,,,,,,;
-145349,wha premium growth freehold and leasehold real estate investment trust,thailand,,,,,doll_1.11 b,,,,,,;
-145393,wenzhou yihua connector,china,,,,,doll_1.09 m,,,,,,;
-156094,wondershare technology group,china,,,,,doll_0.83 m,,,,,,;
-145447,wam leaders,australia,,,,,doll_1.12 m,,,,,,;
-145513,wiit,italy,,,,,doll_0.76 m,,,,,,;
-145576,wheels up experience inc.,united states,,,,,doll_1.62 m,,,,,,;
-145577,ww international,united states,,,,,doll_1.51 m,,,,,,;
-156509,wuxi xinje electric,china,,,,,doll_1.02 b,,doll_44.0 m,,,,;
-145846,wuxi best precision machinery,china,,,,,doll_1.02 b,,,,,,;
-145855,weihai guangtai airport equipment,china,,,,,doll_1.01 b,,,,,,;
-146013,wenfeng great world chain development corporation,china,,,,,doll_985.0 m,,,,,,;
-146136,watford holdings,bermuda,,,,,doll_0.69 m,,,,,,;
-146228,wuhan nusun landscape,china,,,,,doll_951.0 m,,,,,,;
-146372,west african resources limited,australia,,,,,doll_0.69 m,,,,,,;
-146415,watkin jones plc,uk,,,,,doll_917.0 m,,,,,,;
-151920,whiting petroleum corporation,united states,,,,,doll_2.78 b,,doll_427.0 m,,,,;
-153328,weatherford international plc,united states,,,,,doll_1.92 b,,doll_-450.0 m,,,,;
-155062,western metal materials,china,,,,,doll_1.34 b,,0.0,,,,;
-155352,wanbangde new building materials,china,,,,,doll_1.27 b,,0.0,,,,;
-183970,wallenius lines,,stockholm,,1934,,,,,industrials,marine transportation,,;
-183971,wasabröd,,skellefteå,,1919,,,,,consumer goods,food products,,;
-183973,wesc,,stockholm,,1999,,,,,consumer goods,clothing & accessories,,;
-183974,wg film,,malmö,,1994,,,,,consumer services,broadcasting & entertainment,,;
-178496,wm-data,,stockholm,,1969,,,,,technology,software,,;
-183363,wieliczka salt mine,,wieliczka,,1252,,,,,consumer services,recreational services,,;
-183261,wavin,,zwolle,,1955,,,,,industrials,building materials & fixtures,,;
-179000,we,,utrecht,,1917,,,,,consumer goods,apparel retailers,,;
-179001,wercker,,amsterdam,,2011,,,,,technology,software,,;
-183132,west air luxembourg,,bertrange,,2002,,,,,industrials,delivery services,,;
-179532,webuild,,milan,,1959,,,,,industrials,heavy construction,,;
-179533,wilier triestina,,rossano veneto,,1906,,,,,consumer goods,recreational products,,;
-182611,wireless group,,belfast,,2007,,,,,consumer services,broadcasting & entertainment,,;
-179664,wrightbus,,ballymena,,1946,,,,,industrials,commercial vehicles & trucks,,;
-181808,waterman,,paris,,1884,,,,,consumer goods,nondurable household products,,;
-180340,welltec,,allerød,,1994,,,,,oil & gas,oil equipment & services,,;
-180341,widex,,lynge,,1956,,,,,health care,medical equipment,,;
-180342,william demant,,ledøje-smørum,,1904,,,,,health care,health care providers,,;
-180400,walter aircraft engines,,prague,,1911,,,,,industrials,industrial machinery,,;
-181328,wargaming,,nicosia,,1998,,,,,technology,software,,;
-180776,walloon sme finance and guarantee company,,liège,,2002,,,,,financials,specialty finance,,;
-181645,woikoski,,voikoski[8],,1882,,,,,basic materials,basic resources,,;
-182132,wago kontakttechnik,,minden,,1951,,,,,industrials,electrical components & equipment,,;
-182133,warsteiner,,warstein,,1753,,,,,consumer goods,brewers,,;
-182134,wella,,darmstadt,,1880,,,,,consumer goods,personal products,,;
-182135,wera werk hermann werner,,wuppertal,,1936,,,,,consumer goods,durable household products,,;
-182136,weser flugzeugbau,,bremen,,1934,,,,,industrials,aerospace,,;
-182137,wilkhahn,,bad münder,,1907,,,,,consumer goods,furnishings,,;
-182138,wintershall,,kassel,,1894,,,,,oil & gas,exploration & production,,;
-182139,wirecard,,aschheim,,1999,,,,,financials,,,;
-182140,wittenstein,,igersheim,,1949,,,,,industrials,industrial engineering,,;
-182141,wolff & müller,,stuttgart,,1936,,,,,industrials,heavy construction,,;
-182142,wortmann,,hüllhorst,,1986,,,,,technology,computer hardware,,;
-182143,würth,,künzelsau,,1945,,,,,industrials,general industrials,,;
-182144,wüsthof,,solingen,,1814,,,,,consumer goods,durable household products,,;
-182400,watt+volt,,athens,,2011,,,,,utilities,conventional electricity,,;
-182401,wind hellas,,athens,,1992,,,,,telecommunications,fixed line telecom.,,;
-183364,wielton,,wieluń,,1996,,,,,automotive industry,utility vehicles,,;
-184576,wawa (company),,team disney building,,0,,,,,convenience store gas station fast food,,,;
-2256,wirpo technologies,,,,0,,,,,it services & consulting,,,;
-2268,waaree energies,,,,1989,,,,,power,,,;
-2593,writer corporation,,,,1953,,,,,facility management services,,,;
-2594,walchandnagar industries,,,,1908,,,,,industrial machinery,,,;
-2962,wallace pharmaceuticals,,,,1968,,,,,pharma,,,;
-3005,waycool foods and products,,,,2015,,,,,fmcg,,,;
-3567,wakefit innovations,,,,2014,,,,,furniture & furnishing,,,;
-3680,walsons facility solutions,,,,1996,,,,,recruitment,,,;
-3979,wirtgen india,,,,1961,,,,,industrial machinery,,,;
-5465,walkaroo international,,,,0,,,,,fashion & textile,,,;
-5517,wika instruments india,,,,1997,,,,,industrial machinery,,,;
-5815,waterhealth international,,,,2005,,,,,waste management,,,;
-5843,waterhealth international,,,,2005,,,,,waste management,,,;
-6394,wellknown polyesters,,,,1996,,,,,fashion & textile,,,;
-7070,w3softech india,,,,2011,,,,,it services & consulting,,,;
-7122,w pratiksha hospital,,,,2007,,,,,healthcare,,,;
-7359,west bengal power development corporation,,,,1985,,,,,power,,,;
-7388,west bengal power development corporation,,,,1985,,,,,power,,,;
-7706,west coast pharmaceuticals,,,,1965,,,,,pharma,,,;
-7998,windcare india,,,,2001,,,,,financial services,,,;
-8497,wyzmindz solutions,,,,2010,,,,,it services & consulting,,,;
-14597,waters corporation,united states,,,,,doll_20.63 b,,,,,,;
-18928,wd-40 company,united states,,,,,doll_2.40 b,,,,,,;
-22595,waters corporation,united states,,,,,doll_19.79 b,,,,,none,;
-22710,williams companies,united states,,,,,doll_39.82 b,,,,,oil-gas energy ,;
-24374,wd-40 company,united states,,,,,doll_2.36 b,,,,,none,;
-27313,williams companies,united states,,,,,doll_39.97 b,,,,,,;
-27719,waters corporation,united states,,,,,doll_20.14 b,,,,,,;
-30409,wd-40 company,united states,,,,,doll_2.37 b,,,,,,;
-34924,waters corporation,united states,,,,,doll_19.14 b,,,,,,;
-37624,wd-40 company,united states,,,,,doll_2.18 b,,,,,,;
-40128,western new england bancorp,united states,,,,,doll_210.0 m,,,,,,;
-45855,wd-40 company,united states,,,,,doll_2.26 b,,,,,[],;
-47731,waters corporation,united states,,,,,doll_20.23 b,,,,,[],;
-49136,waters corporation,united states,,,,,doll_20.43 b,,,,,,;
-55789,williams companies,united states,,,,,doll_38.32 b,,,,,,;
-56181,waters corporation,united states,,,,,doll_20.12 b,,,,,,;
-58834,wd-40 company,united states,,,,,doll_2.40 b,,,,,,;
-62684,wd-40 company,,,,,583.0,doll_2.37 b,doll_0.51 b,doll_84.1 m,,,,;
-63796,westwater resources,,,,,15.0,doll_50.47 m,,-doll_11.91 m,,,,;
-67520,waters corporation,,,,,7.800,doll_20.74 b,doll_2.94 b,doll_0.86 b,,,,;
-70130,waters corporation,united states,,,,,doll_19.11 b,,,diagnostics & research,healthcare,,;
-71130,waters corporation,united states,,,,,doll_19.11 b,,,diagnostics & research,healthcare,,;
-73130,waters corporation,united states,,,,,doll_19.11 b,,,diagnostics & research,healthcare,,;
-75091,waters corporation,united states,,,,,doll_19.11 b,,,,healthcare,,;
-114144,w i finances limited,,,,,,,,,,,,;
-114146,wealth bridge finances limited,,,,,,,,,,,,;
-114221,wingate finances limited,,,,,,,,,,,,;
-114229,whitlock finances limited,,,,,,,,,,,,;
-114261,weston finances limited,,,,,,,,,,,,;
-114287,wisemoney.com limited,,,,,,,,,,,,;
-124229,wag careers,,,,2014,,,,,consumer goods,,,;
-124250,webflow careers,,,,2012,,,,,computer software,,,;
-124286,workday careers,,,,2005,,,,,computer software,,,;
-124297,winedirect careers,,,,2002,,,,,food & beverages,,,;
-124462,whova careers,,,,2012,,,,,computer software,,,;
-124503,wunderkind careers,,,,2010,,,,,marketing & advertising,,,;
-124571,weride.ai careers,,,,2017,,,,,computer software,,,;
-124676,workreduce careers,,,,2015,,,,,marketing & advertising,,,;
-124687,webdam careers,,,,2005,,,,,computer software,,,;
-124742,webalo careers,,,,2015,,,,,computer software,,,;
-124744,wyzant careers,,,,2005,,,,,internet,,,;
-124988,worklete careers,,,,2015,,,,,computer software,,,;
-124998,wiley careers,,,,1807,,,,,newspapers & publishing,,,;
-136479,williams companies,united states,,,,,doll_30.0 m,,,,,,alan s. armstrong;
-136866,waters corporation,united states,,,,,doll_25.53 m,,,,,,udit batra;
-137352,whirlpool corporation,united states,,,,,doll_13.89 m,,,,,,jeff m. fettig;
-137493,westrock company,united states,,,,,doll_13.89 m,,,,,,;
-138021,willscot corporation,united states,,,,,doll_6.67 m,,,,,,;
-138950,winner medical co. limited,china,,,,,doll_5.14 m,,,,,,;
-139103,wendy's company,united states,,,,,doll_5.13 m,,,,,,;
-140601,wd-40 company,united states,,,,,doll_3.29 m,,,,,,;
-140851,werner enterprises,united states,,,,,doll_3.2 m,,,,,,;
-142648,weatherford international plc,united states,,,,,doll_1.1 m,,,,,,;
-144137,warom technology company,china,,,,,doll_1.26 m,,,,,,;
-144382,western metal materials,china,,,,,doll_1.65 m,,,,,,;
-144672,wanbangde new building materials,china,,,,,doll_0.99 m,,,,,,;
-145832,w.t.b. financial corporation,united states,,,,,doll_0.98 m,,,,,,;
-145898,wabash national corporation,united states,,,,,doll_0.78 m,,,,,,;
-146170,west china cement limited,china,,,,,doll_0.9 m,,,,,,;
-147159,williams companies,united states,,,,,doll_34.03 b,,doll_1.52 b,,,,alan s. armstrong;
-147546,waters corporation,united states,,,,,doll_21.18 b,,doll_692.0 m,,,,udit batra;
-148032,whirlpool corporation,united states,,,,,doll_13.79 b,,doll_1.78 b,,,,marc bitzer;
-148173,westrock company,united states,,,,,doll_12.35 b,,doll_838.0 m,,,,;
-148701,willscot corporation,united states,,,,,doll_8.78 b,,doll_160.0 m,,,,;
-149630,winner medical co. limited,china,,,,,doll_5.67 b,,doll_182.0 m,,,,;
-149783,wendy's company,united states,,,,,doll_5.31 b,,doll_200.0 m,,,,;
-151281,wd-40 company,united states,,,,,doll_3.3 b,,doll_70.0 m,,,,;
-154817,warom technology company,china,,,,,doll_1.41 b,,0.0,,,,;
-156512,w.t.b. financial corporation,united states,,,,,doll_1.02 b,,0.0,,,,;
-156578,wabash national corporation,united states,,,,,doll_1.01 b,,doll_1.0 m,,,,;
-156850,west china cement limited,china,,,,,doll_962.0 m,,0.0,,,,;
-178493,wayne's coffee,,stockholm,,1994,,,,,consumer services,restaurants & bars,,;
-183972,wayne's coffee,,stockholm,,1994,,,,,consumer services,restaurants & bars,,;
-184577,whirlpool corporation,,team disney building,,0,,,,,home appliances,,,;
+id,name,country,address,founded,employees,market_cap,revenue,profit,categories,ceo,city
+184579,wipro,india,,1945.0,231671.0,doll_2.622 b,doll_1.0070000000000001 b,doll_1.529 b,"['technology', 'software and it', 'software outsourcing services', 'software consulting services', 'technology', 'consulting services', 'outsourcing and staffing', 'software products']",thierry delaporte,sarjapur road
+20482,wns,india,,,,doll_0.388 b,doll_0.118 b,doll_0.018 b,['professional services'],,
+73,wells fargo india,,,1852.0,,,,,['it services & consulting'],,
+109,wipro bps,,,2000.0,,,,,['it services & consulting'],,
+142,whitehat jr,,,2018.0,,,,,['edtech'],,
+153,wipro consumer care & lighting,,,1945.0,,,,,['fmcg'],,
+162,wipro infotech,,,1945.0,,,,,['it services & consulting'],,
+208,wipro enterprises ltd,,,1945.0,,,,,['it services & consulting'],,
+26884,walmart,united states,,1962.0,2300000.0,doll_42.905 b,doll_57.275 b,doll_1.367 b,"['retail', 'super markets', 'ecommerce', 'hypermarkets', 'consumer services']",doug mcmillon,heidenheim an der brenz
+28545,whirlpool,india,"avenida das nacoes unidas, 12995,32 andar, brooklin novo, sao paulo, 04.183-090",1911.0,69000.0,doll_0.22999999999999998 b,doll_2.198 b,doll_0.046 b,"['technology', 'electronics', 'consumer electronics']",not found,
+383,wockhardt,,,1999.0,,,,,['pharma'],,
+448,wabco,,,1969.0,,,,,['auto components'],,
+589,welspun,,,1985.0,,,,,['fashion & textile'],,
+9715,wind world,,,1994.0,,,,,['retail'],,
+819,wheelseye technology,,,2017.0,,,,,['logistics'],,
+93679,wistron,taiwan,,2001.0,,doll_0.28300000000000003 b,doll_3.086 b,doll_0.3748 b,['technology hardware & equipment'],po tuan huang,
+161185,worley,australia,,1971.0,57831.0,doll_0.58 b,doll_0.006712 b,doll_0.119 b,"['engineering', 'energy']",not found,
+70788,willis towers watson ,united kingdom,"51 lime street, london, ec3m7dq",2016.0,44200.0,doll_2.756 b,doll_0.885 b,doll_0.144 b,['financial services'],mr. carl a. hess,
+1101,wheels,,,1962.0,,,,,['auto components'],,
+1131,westside,,,1998.0,,,,,['fashion & textile'],,
+1169,wipro infrastructure engineering,,,1976.0,,,,,['industrial machinery'],,
+1304,wuerth,,,1994.0,,,,,['industrial machinery'],,
+1312,webhelp,,,2000.0,,,,,['bpo'],,
+2115,welspun group,,,1985.0,,,,,['iron & steel'],,
+1365,wapcos,,,1969.0,,,,,['engineering & construction'],,
+1415,wonder cement,,,2010.0,,,,,['building material'],,
+1430,wockhardt hospital,,,1973.0,,,,,['healthcare'],,
+1479,westin,,,1930.0,,,,,['hospitality'],,
+1782,williams lea tag,,,1820.0,,,,,['recruitment'],,
+1808,wipro infotech limited,,,,,,,,,,
+1856,wipro digital,,,2015.0,,,,,['it services & consulting'],,
+1921,wellness forever medicare,,,2008.0,,,,,['retail'],,
+1966,wonderla holidays,,,2000.0,,,,,['hospitality'],,
+2045,writer safe guard,,,2001.0,,,,,['law enforcement & security'],,
+2089,wipro ge health care,,,1892.0,,,,,['it services & consulting'],,
+2139,wintax solution,,,2018.0,,,,,['management consulting'],,
+2151,worldline global services,,,1974.0,,,,,['it services & consulting'],,
+2157,win medicare,,,2005.0,,,,,['pharma'],,
+2181,wissen infotech,,,2000.0,,,,,['it services & consulting'],,
+2256,wirpo technologies,,,,,,,,['it services & consulting'],,
+2268,waaree energies,,,1989.0,,,,,['power'],,
+68868,wolters kluwer,netherlands,"zuidpoolsingel 2, alphen aan den rijn, 2408ze",1836.0,19454.0,doll_2.7649999999999997 b,doll_0.5599999999999999 b,doll_0.802 b,"['software', 'tech']",nancy mckinstry,alphen aan den rijn
+2299,wartsila,,,1834.0,,,,,['ports & shipping'],,
+100945,webskitters,india,,2010.0,,,doll_0.00135 b,,['technology'],,
+2570,windlas biotech,,,2001.0,,,,,['pharma'],,
+2593,writer corporation,,,1953.0,,,,,['facility management services'],,
+2594,walchandnagar industries,,,1908.0,,,,,['industrial machinery'],,
+2663,wipro hr services,,,,,,,,['recruitment'],,
+2728,wildcraft,,,1998.0,,,,,['fashion & textile'],,
+2891,writer information management services,,,1987.0,,,,,['facility management services'],,
+2913,watertec india,,,1997.0,,,,,['building material'],,
+2920,wow momo foods,,,2008.0,,,,,['fmcg'],,
+2928,weblink in,,,1997.0,,,,,['it services & consulting'],,
+2962,wallace pharmaceuticals,,,1968.0,,,,,['pharma'],,
+3005,waycool foods and products,,,2015.0,,,,,['fmcg'],,
+171077,weir group,uk,,,13500.0,doll_0.00623 b,doll_0.002565 b,doll_0.342 b,"['industries', 'industry machinery', 'engineering products', 'machinery manufacturing']",not found,
+3062,world vision,,,1950.0,,,,,['non-profit'],,
+3077,welspun flooring,,,2016.0,,,,,['building material'],,
+3079,weddingz.in,,,2015.0,,,,,['internet'],,
+3157,walplast products,,,2004.0,,,,,['engineering & construction'],,
+3170,wsp consultants india,,,1959.0,,,,,['engineering & construction'],,
+3196,woodland,,,1992.0,,,,,['fashion & textile'],,
+3293,wagh bakri tea group,,,1915.0,,,,,['beverage'],,
+67393,western union,united states,,,,doll_0.505 b,doll_0.46399999999999997 b,doll_0.427 b,"['basic materials', 'mining', 'metals', 'iron and steel', 'copper mining', 'zinc', 'nickel', 'lead']",not found,
+3445,wissen technology,,,2015.0,,,,,['it services & consulting'],,
+3567,wakefit innovations,,,2014.0,,,,,['furniture & furnishing'],,
+3617,welspun enterprises,india,,1976.0,,,doll_0.24993 b,,['energy'],,
+3680,walsons facility solutions,,,1996.0,,,,,['recruitment'],,
+3764,weatherford,,,1941.0,,,,,['oil & gas'],,
+3782,weizmann forex,,,1993.0,,,,,['financial services'],,
+3820,wings biotech,,,1986.0,,,,,['pharma'],,
+3936,welspun global brands,,,2000.0,,,,,['fashion & textile'],,
+3979,wirtgen india,,,1961.0,,,,,['industrial machinery'],,
+4006,wishfin,,,2016.0,,,,,['financial services'],,
+4099,wrigley,,,1891.0,,,,,['fmcg'],,
+4107,writer business services,,,1953.0,,,,,['facility management services'],,
+4243,wellspring healthcare,,,2010.0,,,,,['healthcare'],,
+28192,western digital,united states,"5601 great oaks parkway, san jose, california, 95119",1970.0,65600.0,doll_1.548 b,doll_1.8940000000000001 b,doll_0.15 b,"['technology', 'electronics', 'computers hardware', 'technology hardware and instruments']",david goeckeler,
+4397,webkul software,,,2010.0,,,,,['it services & consulting'],,
+126149,weg,brazil,,1961.0,33342.0,doll_0.02189 b,doll_0.44000000000000006 b,doll_0.769 b,"['industries', 'electrical products', 'engines manufacturing', 'engineering products', 'engineering services', 'industry machinery']",harry schmelzer jr.,
+4612,ways2excel,,,,,,,,['edtech'],,
+4633,walter bushnell,,,2004.0,,,,,['pharma'],,
+4730,wilo mather and platt pumps,,,1870.0,,,,,['industrial machinery'],,
+22853,wabtec,united states,,,,doll_1.8800000000000001 b,doll_0.8119999999999999 b,doll_0.10500000000000001 b,['logistics'],,
+4812,webdew,,,2016.0,,,,,['it services & consulting'],,
+4917,world health organization,,,1948.0,,,,,['government'],,
+5067,wingreens farms,,,2011.0,,,,,['power'],,
+5071,weikfield foods,,,1956.0,,,,,['food processing'],,
+5133,wave infratech,,,1963.0,,,,,['real estate'],,
+100614,wr logistics,germany,,2017.0,7000.0,,doll_0.01166 b,,['transport'],,
+94064,wsp,canada,,,,doll_1.447 b,doll_0.82 b,doll_0.3778 b,['agro chemicals'],alexandre j. l'heureux,
+5347,windsor machines,,,1963.0,,,,,['industrial machinery'],,
+5465,walkaroo international,,,,,,,,['fashion & textile'],,
+5494,west bengal state electricity distribution company,,,2007.0,,,,,['power'],,
+5525,wovvtech,,,2016.0,,,,,['software product'],,
+5540,weavetex overseas,,,1969.0,,,,,['fashion & textile'],,
+5708,weir minerals,,,1871.0,,,,,['metals & mining'],,
+5793,wpil,,,1952.0,,,,,['building material'],,
+5843,waterhealth international,,,2005.0,,,,,['waste management'],,
+5866,wipro pari,,,,,,,,,,
+5893,wibmo,,,1999.0,,,,,['fintech'],,
+5901,wonderchef home appliances,,,2009.0,,,,,['consumer electronics & appliances'],,
+5947,wep solutions india,,,1995.0,,,,,['it services & consulting'],,
+39872,wheels up,united states,,2017.0,2700.0,doll_0.032 b,doll_0.13 b,doll_0.032 b,"['travel and transport', 'airlines', 'aviation']",not found,
+6146,wockhardt biotech park,,,2004.0,,,,,['pharma'],,
+6235,woodenstreet.com,,,2015.0,,,,,['furniture & furnishing'],,
+69505,waste management,united states,800 capitol st ste 3000,1968.0,48500.0,doll_6.695 b,doll_1.7899999999999998 b,doll_0.182 b,"['industries', 'waste and trash management', 'environmental services', 'utilities']",james c. fish jr,houston
+6394,wellknown polyesters,,,1996.0,,,,,['fashion & textile'],,
+6594,willowood crop sciences,,,2012.0,,,,,['agriculture'],,
+6667,walking tree,,,2008.0,,,,,['software product'],,
+6689,wellness forever lifestyle chemist,,,,,,,,['retail'],,
+6844,way2online interactive,,,2006.0,,,,,['marketing & advertising'],,
+6836,wwics group,,,1993.0,,,,,['travel & tourism'],,
+6961,winjit technologies,,,2004.0,,,,,['it services & consulting'],,
+6987,wunderman,,,1958.0,,,,,['marketing & advertising'],,
+6992,western coalfields,,,1975.0,,,,,['metals & mining'],,
+7036,waah jobs,,,2015.0,,,,,['internet'],,
+7070,w3softech india,,,2011.0,,,,,['it services & consulting'],,
+7122,w pratiksha hospital,,,2007.0,,,,,['healthcare'],,
+7134,way2wealth brokers,,,1984.0,,,,,['financial services'],,
+7297,western heat and forge,,,1982.0,,,,,['industrial machinery'],,
+7327,wood plc,,,,,,,,['engineering & construction'],,
+7522,wingtech mobile communication,,,,,,,,['electronics manufacturing'],,
+7645,welkin telecom infra,,,2004.0,,,,,['telecom'],,
+7732,windals precision,,,1990.0,,,,,['auto components'],,
+7776,wanfeng aluminum wheel,,,,,,,,['industrial machinery'],,
+7814,workindia,,,2015.0,,,,,['it services & consulting'],,
+7978,websol energy systems,,,1990.0,,,,,['semiconductors'],,
+7998,windcare india,,,2001.0,,,,,['financial services'],,
+8103,winwire technologies,,,2007.0,,,,,['it services & consulting'],,
+8236,winsome textile industries,,,1990.0,,,,,['fashion & textile'],,
+8243,whsmith,,,1792.0,,,,,['retail'],,
+8497,wyzmindz solutions,,,2010.0,,,,,['it services & consulting'],,
+8542,wize brains,,,,,,,,,,
+8564,white crow research,,,2011.0,,,,,['recruitment'],,
+8609,wizertech informatics,,,2000.0,,,,,['it services & consulting'],,
+49731,west japan railway,japan,"4-24, shibata 2-chome, kita-ku, osaka-shi, 530-8341",1987.0,136709.0,doll_1.008 b,doll_0.8949999999999999 b,doll_-0.826 b,"['industries', 'railway', 'railway operating company', 'real estate', 'hotels', 'travel and transport']",not found,
+8818,wizard e-marketing,,,2005.0,,,,,['it services & consulting'],,
+8878,willis processing services,,,1992.0,,,,,['it services & consulting'],,
+8960,webguru infosystems,,,2005.0,,,,,['it services & consulting'],,
+9157,wwf-india,,,1969.0,,,,,['non-profit'],,
+9205,wade adams contracting,,,1976.0,,,,,['engineering & construction'],,
+9467,world health partners,,,2008.0,,,,,['non-profit'],,
+9711,wheels india - tvs group,,,,,,,,,,
+9762,weaverbird engineering technology,,,2005.0,,,,,['it services & consulting'],,
+9782,white shrub,,,,,,,,,,
+9896,wunderman thompson commerce,,,1989.0,,,,,['it services & consulting'],,
+11332,warehousespaceeestioãå(14713488),,,,,,,,,,
+11333,webspayoãå(14842783),,,,,,,,,,
+11335,wellnesssparkoãå(16411202),,,,,,,,,,
+11337,wespaceoãå(14503621),,,,,,,,,,
+11338,whatifspacesoãå(16602451),,,,,,,,,,
+11339,whitespacelimitlessconsultingoãå(16329222),,,,,,,,,,
+11340,whitespaceoãå(14965988),,,,,,,,,,
+11342,wideworldinvestspainoãå(16458267),,,,,,,,,,
+11343,wingspanoãå(14117697),,,,,,,,,,
+11344,wirdosoãå(16012755),,,,,,,,,,
+11345,wisespaceinvestoãå(12794139),,,,,,,,,,
+11346,woodenspaoãå(16429047),,,,,,,,,,
+11347,workpoweroãå(11023033),,,,,,,,,,
+11348,workspacemetricsoãå(16474993),,,,,,,,,,
+11349,workspaceoãå(14624891),,,,,,,,,,
+11350,wurkspaces.devoãå(16466290),,,,,,,,,,
+11437,watershed,united states,,,,,,,['internet software & services'],,san francisco
+11485,wrapbook,united states,,,,,,,['fintech'],,new york
+13658,weights & biases,united states,,,,,,,['artificial intelligence'],,san francisco
+13610,worldcoin,united states,,,,,,,['fintech'],,san francisco
+11571,webull,china,,2016.0,,,,,['fintech'],,changsha
+13521,wacai,china,,,,,,,['mobile & telecommunications'],,hangzhou
+11625,welab,hong kong,,,,,,,['fintech'],,
+154794,womai,china,,2009.0,,doll_7.6930000000000005 b,,0.0,['e-commerce & direct-to-consumer'],not found,beijing
+11674,wheel,united states,,,,,,,['health'],,austin
+11742,wasabi,united states,,,,,,,['internet software & services'],,boston
+11789,workhuman,ireland,,,,,,,['internet software & services'],,dublin
+13321,wtoip,china,,,,doll_7.6930000000000005 b,,0.0,['internet software & services'],not found,guangzhou
+13157,wenheyou,china,,,,,,,['other'],,hunan
+13144,wayflyer,ireland,,,,,,,['fintech'],,dublin
+12042,wave,senegal,,,,,,,['fintech'],,dakar
+12192,wemakeprice,south korea,,,,doll_4.8580000000000005 b,,0.0,"['internet or mobile app based business', 'ecommerce']",not found,seoul
+12876,workrise,united states,,,,,,,['internet software & services'],,austin
+12293,wildlife studios,brazil,,,,,,,['other'],,sao paulo
+12354,whoop,united states,,,,,,,['e-commerce & direct-to-consumer'],,boston
+12784,whatnot,united states,,,,,,,['e-commerce & direct-to-consumer'],,marina del rey
+12373,webflow,united states,,,,,,,['internet software & services'],,san francisco
+12741,weee!,united states,,,,,,,"['supply chain, logistics, & delivery']",,fremont
+12729,weride,china,,,,,,,['auto & transportation'],,guangzhou
+12413,wefox,germany,,,,,,,['fintech'],,berlin
+12674,workato,united states,,,,,,,['internet software & services'],,mountain view
+12472,wiz,israel,,,,,,,['cybersecurity'],,tel aviv
+12489,we doctor,china,,,,,,,['health'],,hangzhou
+12507,weilong,china,,,,,,,['consumer & retail'],,luohe
+160547,wm motor,china,,,,doll_3.19 b,,0.0,"['automobile', 'electric vehicles']",not found,shanghai
+48384,wells fargo,united states,,1929.0,247848.0,doll_20.000999999999998 b,doll_8.412 b,doll_2.057 b,"['banks', 'financialservices']",mr. charles w. scharf,
+92325,walt disney,united states,,,,doll_21.533 b,doll_7.298 b,doll_0.308 b,['entertainment dow-jones '],robert a. chapek,
+95868,wuliangye yibin,china,,1998.0,26348.0,doll_9.898 b,doll_0.8480000000000001 b,doll_0.34900000000000003 b,"['consumer defensive', 'alcoholic beverages', 'beverages']",chen lin,
+27077,walmex,mexico,,,,doll_6.925 b,doll_3.9479999999999995 b,doll_0.33599999999999997 b,['retail supermarkets '],,
+70403,westpac banking corporation,australia,"l 18 275 kent st, sydney, new south wales, 2000",,40143.0,doll_6.720000000000001 b,doll_2.0460000000000003 b,doll_0.00378 b,"['financial services', 'banking services', 'asset management', 'wealth management', 'credit cards']",peter king,
+96834,workday,united states,,2005.0,12500.0,doll_6.256 b,doll_0.515 b,doll_0.029 b,"['software', 'tech']",chano fernandez,
+55652,woodside energy,australia,,,,doll_1.58 b,,doll_0.001983 b,['energy oil-gas '],meg o neill,
+48737,williams companies,united states,,,4783.0,doll_0.03403 b,doll_0.010627000000000001 b,doll_0.357 b,"['energy', 'oil and gas', 'gas utilities', 'natural gas generation', 'electricity generation', 'utilities', 'oil and gas pipeline transport']",alan s. armstrong,
+27330,wesfarmers,australia,,1914.0,122000.0,doll_4.057 b,doll_2.535 b,doll_0.16499999999999998 b,"['consumer cyclical', 'conglomerate', 'retail', 'super markets', 'fertilizers', 'chemicals', 'mining', 'coal mining', 'consumer non durables']",rob scott,
+34561,waste connections,united states,,1997.0,19998.0,doll_3.614 b,doll_0.62 b,doll_0.618 b,"['industries', 'waste and trash management', 'environmental services', 'utilities']",mr. worthing f. jackman,
+95625,wanhua chemical group,china,,1998.0,19692.0,doll_3.973 b,doll_2.243 b,doll_0.387 b,['chemicals'],liao zengtai,
+146958,walgreens boots alliance,united states,"108 wilmot road, deerfield, illinois, 60015",2014.0,202000.0,doll_4.055 b,doll_13.27 b,doll_0.002542 b,"['healthcare', 'pharmacy', 'healthcare service', 'retail', 'healthcare products']",ms. rosalind gates brewer,
+27265,wuxi apptec,china,,2000.0,34912.0,doll_26.885 b,0,doll_0.801 b,"['healthcare', 'pharmaceutical', 'biopharmaceutical', 'medical equipment', 'software and it', 'software products', 'health care diagnostics']",ge li,
+48865,welltower,united states,,1970.0,,doll_3.3609999999999998 b,doll_0.004742 b,doll_0.336 b,"['real estate', 'property investments', 'investments', 'hospitals', 'consumer services']",shankh mitra,
+14336,wec energy group,united states,"231 w michigan st, po box 1331, milwaukee, wisconsin, 53201-1331",1896.0,6938.0,doll_3.254 b,doll_0.8320000000000001 b,doll_0.13 b,"['utilities', 'energy', 'natural gas generation', 'electric utilities', 'gas utilities', 'power generation', 'electricity generation']",scott j. lauber,
+93156,w. w. grainger,united states,"5500 west howard st, skokie, illinois, 60077",1927.0,22700.0,doll_2.552 b,doll_1.3 b,doll_0.10400000000000001 b,"['industries', 'retail', 'ecommerce', 'internet or mobile app based business', 'b2b services', 'consumer services', 'office equipment']",donald g. macpherson,
+14351,weg on,brazil,,,,doll_3.082 b,,,,,
+169596,warner bros. discovery,united states,"230 park avenue south, new york, 10003",,11000.0,doll_4.991 b,doll_1.218 b,doll_0.001006 b,['media'],david zaslav,team disney building
+125829,woolworths group,australia,"1 woolworths way, bella vista, sydney, new south wales, 2153",1924.0,210067.0,doll_3.533 b,doll_0.041915999999999995 b,doll_5.465 b,"['consumer defensive', 'retail', 'super markets', 'hypermarkets', 'consumer non durables']",bradford banducci,
+74689,wuxi biologics,china,,,9864.0,doll_3.2409999999999997 b,doll_0.16 b,doll_0.062 b,"['pharmaceuticals', 'biotech']",dr. zhisheng  chen,
+22016,weyerhaeuser,united states,"220 occidental avenue south, seattle, washington, 98104",,9214.0,doll_3.102 b,doll_1.02 b,doll_0.314 b,['diversified financials'],devin w. stockfish,
+49185,w. r. berkley,united states,,,,doll_2.008 b,doll_1.0779999999999998 b,doll_0.173 b,['insurance'],,
+14597,waters corporation,united states,,1958.0,7800.0,doll_1.911 b,doll_0.002785 b,doll_0.692 b,"['healthcare', 'biotechnology', 'electronics', 'medical equipment', 'technology', 'capital goods', 'healthcare products', 'health care diagnostics']",udit batra,
+158272,wilmar international,singapore,"28 biopolis road, singapore, 138568",1991.0,100000.0,doll_1.954 b,doll_6.5840000000000005 b,doll_0.189 b,"['consumer defensive', 'agriculture products', 'fmcg', 'consumer goods', 'food products', 'agriculture related', 'farming / seeds / milling']",kuok khoon hong,
+126208,warner music group corp.,united states,"1633 broadway, new york, 10019",1958.0,5900.0,doll_1.921 b,doll_0.005301 b,doll_0.304 b,"['communication services', 'entertainment', 'music']",mr. stephen forbes cooper,new york
+96777,wheaton precious metals,canada,"suite 3500 - 1021 west hastings street, vancouver, british columbia, v6e0c3",2004.0,,doll_2.1260000000000003 b,doll_0.12 b,doll_0.754 b,"['basic materials', 'mining', 'metals', 'precious metals', 'silver mining', 'gold mining']",randy v. j. smallwood,
+35012,west pharmaceutical,united states,,,,doll_1.895 b,doll_0.29 b,doll_0.073 b,"['pharmaceuticals', 'packaging']",,
+27840,w. p. carey,united states,,,,doll_1.7289999999999999 b,doll_0.145 b,doll_0.409 b,"['real estate', 'consumer services', 'investments', 'property investments']",jason e. fox,
+21601,wisetech global,australia,,,1900.0,doll_1.1 b,doll_0.438 b,doll_0.134 b,"['technology', 'software and it', 'software products']",not found,
+22404,wsp global,canada,"1600 rene-levesque blvd w 16th floor, montreal, quebec, h3h1p9",,47000.0,doll_1.58 b,doll_0.82 b,doll_0.378 b,"['industries', 'infrastructure', 'engineering products', 'engineering services', 'professional services', 'construction']",alexandre j. l heureux,
+50144,woori financial group,south korea,"51, sogong-ro, jung-gu, seoul, 04632",2001.0,13715.0,doll_0.951 b,doll_1.147 b,doll_0.22000000000000003 b,"['financial services', 'banking services']",not found,
+20993,world wrestling entertainment,united states,"1241 e main st, stamford, connecticut, 6902",,,doll_0.665 b,doll_0.001095 b,doll_0.18 b,"['communication services', 'consumer services', 'entertainment']",not found,
+14977,wynn macau,macao,"rua cidade de sintra, nape, macau",,27500.0,doll_0.6639999999999999 b,doll_0.15 b,doll_-0.66 b,"['consumer cyclical', 'hotels']",not found,
+150625,whitecap resources,canada,"3800-525 8 ave sw, calgary, alberta, t2p1g1",,,doll_0.508 b,doll_0.18 b,doll_0.16699999999999998 b,"['energy', 'oil and gas']",mr. grant bradley fagerheim,
+149376,watts water technologies,united states,"815 chestnut st, north andover, massachusetts, 1845",,4597.0,doll_0.512 b,doll_0.195 b,doll_0.165 b,"['industries', 'metal fabrication products', 'capital goods', 'engineering products', 'industry machinery']",not found,
+20192,workman,japan,,,,doll_0.33799999999999997 b,doll_0.848 b,doll_0.134 b,['retail'],not found,
+30086,westports,malaysia,,,,doll_0.29500000000000004 b,,,['ports'],,
+30050,wsfs financial,united states,,,,doll_0.296 b,doll_0.081 b,doll_0.026000000000000002 b,"['financialservices', 'banks']",,
+30496,wesbanco,united states,,,2480.0,doll_0.213 b,doll_0.05600000000000001 b,doll_0.242 b,"['financial services', 'banking services']",not found,
+37888,warby parker,united states,,,1746.0,doll_0.193 b,doll_0.057999999999999996 b,doll_-0.157 b,"['retail', 'ecommerce']",not found,
+64325,westshore terminals investment,canada,,,,doll_0.11299999999999999 b,doll_0.025 b,doll_0.082 b,"['ports', 'infrastructure']",mr. william w. stinson,
+44768,wolverine world wide,united states,"9341 courtland dr, rockford, michigan, 49351",,4400.0,doll_0.10600000000000001 b,doll_0.26 b,doll_0.068 b,"['consumer cyclical', 'consumer non durables', 'footwear']",not found,
+23399,winmark,united states,,,,doll_0.09 b,doll_0.08065 b,doll_0.05314 b,['retail'],,
+53345,wallbox,spain,,,,doll_0.077 b,,,['ev-charging electricity energy '],,
+39814,weight watchers,united states,,,,doll_0.028999999999999998 b,doll_0.10900000000000001 b,doll_0.019 b,,,
+54435,wendt india,india,,,,doll_0.019 b,doll_0.02418 b,doll_0.0052699999999999995 b,,,
+15649,wm technology,united states,,,,doll_0.02 b,doll_0.022 b,doll_0.05183 b,"['cannabis', 'tech', 'internet']",,
+15712,wag! group,united states,,,,doll_0.01 b,doll_0.03309 b,doll_0.033049999999999996 b,['tech'],,
+24801,wonderplanet,japan,,,,doll_0.019289999999999998 b,,,"['videogames', 'entertainment', 'tech']",,
+34053,winc,united states,,,,doll_0.00186 b,doll_0.0704 b,doll_0.01743 b,"['beverages', 'alcoholic beverages', 'retail', 'e-commerce', 'tech', 'internet']",,
+24934,wolverine energy and infrastructure,canada,,,,doll_0.00618 b,doll_0.04426 b,doll_0.018760000000000002 b,"['energy', 'oilgas', 'oilgasequipmentservices']",,
+24992,wearable health solutions,united states,,,,doll_0.009179999999999999 b,doll_0.0009599999999999999 b,doll_0.00939 b,['medical-devices '],,
+55233,wheeler real estate investment trust,united states,,,,doll_0.01694 b,doll_0.169 b,doll_0.016 b,"['real estate', 'property investments', 'commercial properties']","mr. scott timothy frederiksen ccim, sior",
+33858,waitr holdings,united states,,,,doll_0.01934 b,,,"['food', 'food delivery', 'internet', 'tech']",,
+16165,westwater resources,united states,,,,doll_0.05047 b,,doll_0.01191 b,['mining '],,
+54945,wayi international digital entertainment,taiwan,,,,doll_0.05885 b,doll_0.00597 b,doll_0.00123 b,"['video games', 'entertainment']",,
+16224,wejo group,uk,,,,doll_0.08524 b,,,"['software', 'tech']",,
+98309,wetrade group,china,,2017.0,5000.0,doll_0.08023999999999999 b,doll_0.004900000000000001 b,0.0,['fashion'],not found,
+33474,wrap technologies,united states,,,,doll_0.09251999999999999 b,doll_0.00691 b,doll_0.01932 b,,,
+54822,westwood holdings group,united states,,,,doll_0.011 b,doll_0.06761 b,doll_0.0013 b,['investment financial-services '],,
+33158,westport fuel systems,canada,,,,doll_0.017 b,doll_0.031 b,doll_0.00705 b,,mr. david m. johnson,
+16579,william penn bancorp,united states,,,,doll_0.017 b,doll_0.02562 b,doll_0.00463 b,"['banks', 'financial services']",,
+25575,wheels india,india,,,,doll_0.017 b,doll_0.054000000000000006 b,doll_0.01108 b,['automotive suppliers'],,
+62539,whole earth brands,united states,,,,doll_0.018 b,doll_0.053000000000000005 b,doll_0.03288 b,['food'],,
+40128,western new england bancorp,united states,,,,doll_0.020999999999999998 b,doll_0.08849 b,doll_0.03049 b,"['banks', 'financialservices']",,
+32868,willdan group,united states,,,,doll_0.025 b,doll_0.04 b,doll_0.01314 b,['professional services'],,
+32897,weyco group,united states,,,,doll_0.025 b,doll_0.034999999999999996 b,doll_0.039270000000000006 b,['footwear'],,
+26468,western copper and gold,canada,,,,doll_0.028000000000000004 b,,doll_0.00434 b,['mining gold-mining '],,
+54082,whitehorse finance,united states,,,,doll_0.031 b,,,"['investment', 'financial services', 'asset management']",,
+54081,workhorse group,united states,,,,doll_0.033 b,doll_0.00043 b,doll_0.018 b,,,
+62434,weave communications,united states,,,,doll_0.034999999999999996 b,doll_0.013000000000000001 b,doll_0.053090000000000005 b,"['software', 'tech']",,
+100352,wave life sciences,singapore,,,,doll_0.047 b,doll_0.01584 b,,"['pharmaceuticals', 'biotech']","dr. paul b.  bolno m.b.a., m.d., mba",
+26211,west coast paper mills,india,,,,doll_0.043 b,doll_0.054000000000000006 b,doll_0.011 b,['pulp and paper'],,
+26210,webzen,s. korea,,,,doll_0.044 b,,,"['videogames', 'entertainment', 'tech']",,
+44165,wemade,s. korea,,,,doll_0.047 b,,,"['videogames', 'entertainment', 'tech']",,
+176483,world acceptance corporation,united states,,,3175.0,doll_0.049 b,doll_0.056999999999999995 b,doll_0.053 b,['financial services'],not found,
+25666,whitestone reit,united states,,,,doll_0.051000000000000004 b,doll_0.013000000000000001 b,doll_0.01864 b,"['real estate', 'investment', 'reits']",,
+134272,wesdome gold mines,canada,,,,doll_0.071 b,doll_0.201 b,doll_0.101 b,"['basic materials', 'gold mining', 'mining']",not found,
+60354,wirtualna polska (wp holding),poland,,,,doll_0.073 b,,,"['internet', 'e-commerce', 'tech']",mr. jacek  swiderski,
+135618,wisdomtree investments,united states,,,,doll_0.077 b,,doll_0.044 b,"['financial services', 'investments', 'asset management']",,
+167011,washington trust bancorp,united states,,,,doll_0.08199999999999999 b,doll_0.022 b,doll_0.076 b,"['financial services', 'banking services']",not found,
+53058,walkme,israel,,,,doll_0.087 b,,,"['software', 'tech']",,
+31658,w&t offshore,united states,,,,doll_0.086 b,doll_0.089 b,doll_0.028999999999999998 b,['oil-gas energy '],,
+31617,westlake chemical partners,united states,,,,doll_0.089 b,doll_0.155 b,doll_0.082 b,['chemicals'],,
+17855,waldencast,united states,,,,doll_0.09 b,,,"['cosmetics and beauty', 'wellness']",,
+153568,wideopenwest,united states,,,1500.0,doll_0.093 b,doll_0.06999999999999999 b,doll_0.77 b,"['communication services', 'media', 'advertising', 'consumer services', 'television services', 'entertainment']",not found,
+45058,westrock,united states,"1000 abernathy rd, atlanta, georgia, 30328-5606",,49900.0,doll_0.10400000000000001 b,doll_1.9300000000000002 b,doll_0.033409999999999995 b,['beverages'],david b. sewell,
+45153,wabash national,united states,,,,doll_0.12 b,doll_0.23199999999999998 b,doll_0.08079 b,['manufacturing'],,
+31265,waterdrop inc.,china,,,,doll_0.129 b,doll_0.040999999999999995 b,doll_0.06470000000000001 b,"['insurance', 'healthcare']",,
+156353,wework,united states,,,,doll_0.134 b,doll_0.277 b,doll_0.29100000000000004 b,['real estate'],,
+52608,wacker neuson,germany,"preussenstrasse 41, muenchen, 80809",1848.0,6329.0,doll_0.13999999999999999 b,doll_0.22000000000000003 b,doll_0.137 b,"['industries', 'heavy machinery']",dr. karl  tragl,munich
+143424,westamerica bancorporation,united states,,,,doll_0.156 b,doll_0.214 b,doll_0.086 b,"['financial services', 'banking services']",not found,
+45408,wüstenrot & württembergische,germany,,,,doll_0.16899999999999998 b,,,,,
+18553,world fuel services,united states,"9800 n.w. 41st street, miami, florida, 33178",1984.0,4414.0,doll_0.172 b,doll_3.13 b,doll_0.073 b,"['energy', 'oil refining', 'oil and gas']",michael j. kasbar,
+42336,winnebago industries,united states,"13200 pioneer trail, suite 150, eden prairie, minnesota, 55347",,6532.0,doll_0.174 b,doll_0.495 b,doll_0.281 b,"['consumer cyclical', 'construction materials', 'consumer non durables', 'recreational vehicles']",not found,
+30722,wabco india,india,,,,doll_0.185 b,doll_0.245 b,doll_0.013 b,"['consumer cyclical', 'automobile', 'automobile parts']",not found,
+144451,warrior met coal,united states,,,,doll_0.192 b,doll_0.001059 b,doll_0.15 b,"['basic materials', 'energy', 'mining', 'coal mining', 'coke coal']",not found,
+64098,winpak,canada,,,2507.0,doll_0.20400000000000001 b,doll_0.77 b,doll_0.079 b,"['consumer cyclical', 'plastics / plastic products', 'packaging', 'packaging machines', 'packaging materials']",not found,
+51909,wafd bank,united states,,,,doll_0.23700000000000002 b,doll_0.066 b,doll_0.03 b,,,
+108065,weis markets,united states,"1000 s second st, po box 471, sunbury, pennsylvania, 17801",,24000.0,doll_0.23199999999999998 b,doll_0.449 b,doll_0.108 b,"['consumer defensive', 'retail', 'food and beverage', 'food products', 'consumer services']",not found,
+61859,weber,united states,,,2534.0,doll_0.23199999999999998 b,doll_0.176 b,doll_0.018 b,,,
+161955,wd-40 company,united states,,,,doll_0.23700000000000002 b,doll_0.051000000000000004 b,doll_0.07 b,"['basic materials', 'chemicals']",not found,
+18979,win semiconductors,taiwan,,,,doll_0.252 b,doll_0.898 b,doll_0.187 b,"['technology', 'semiconductors', 'electronics']",not found,
+141186,wh smith,uk,,,14321.0,doll_0.254 b,doll_0.001176 b,doll_-0.109 b,['retail'],not found,
+20064,worthington industries,united states,"200 old wilson bridge road, columbus, ohio, 43085",,9000.0,doll_0.265 b,doll_0.005242 b,doll_0.379 b,"['basic materials', 'mining', 'iron and steel', 'metals', 'capital goods', 'metal fabrication products']",not found,
+51553,werner enterprises,united states,"14507 frontier rd, omaha, nebraska, 68138",,9988.0,doll_0.272 b,doll_0.27 b,doll_0.259 b,"['industries', 'transportation', 'freight transport', 'logistics']",not found,
+180864,wienerberger,austria,kordoni tn 1,1819.0,,doll_0.305 b,doll_0.00438 b,doll_0.343 b,"['basic materials', 'construction materials']",not found,"aseri alevik, viru-nigula vald"
+62209,walker & dunlop,united states,"suite 1200e, 7501 wisconsin avenue, bethesda, maryland, 20814",,1305.0,doll_0.307 b,doll_0.13 b,doll_0.256 b,['financial services'],not found,
+179744,wizz air,jersey,,2003.0,,doll_0.352 b,,,['airlines'],,budapest
+51201,white mountains insurance group,united states,,,1648.0,doll_0.381 b,doll_0.944 b,doll_-0.275 b,"['financial services', 'insurance']",not found,
+42144,weatherford international,united states,"2000 st. james place, houston, texas, 77056",,17000.0,doll_0.395 b,doll_0.40800000000000003 b,doll_-0.45 b,"['energy', 'oil and gas']",not found,
+29474,wingstop restaurants,united states,,,,doll_0.42300000000000004 b,doll_0.032 b,doll_0.07619 b,"['restaurantchains', 'food']",,
+28165,wpp,uk,,,115000.0,doll_1.214 b,doll_1.323 b,doll_0.321 b,['advertising '],mark julian read,
+19979,wh smith,united-kingdom,,,,doll_0.255 b,,,['retail '],,
+46404,weibo,china,,,,doll_0.489 b,doll_0.2 b,doll_0.051000000000000004 b,['tech internet '],,
+67766,wendyâs company,united states,,,,doll_0.485 b,doll_0.196 b,doll_0.022 b,['food restaurant-chains '],,
+138114,wix.com,israel,,,3934.0,doll_0.503 b,doll_0.001269 b,doll_-0.117 b,"['technology', 'software and it', 'software products', 'software and it infrastructure']",not found,
+41889,wiwynn,taiwan,,,,doll_0.453 b,doll_0.8880000000000001 b,doll_0.054000000000000006 b,"['tech', 'techhardware']",,
+50753,welcia holdings,japan,,,9882.0,doll_0.462 b,doll_0.008121 b,doll_0.209 b,"['healthcare', 'pharmacy', 'retail', 'healthcare service']",not found,
+128193,workiva,united states,,,2375.0,doll_0.47000000000000003 b,doll_0.051000000000000004 b,doll_-0.037 b,"['technology', 'software and it', 'software products']",not found,
+139137,wendel,france,,1704.0,,doll_0.46699999999999997 b,doll_0.008276 b,doll_0.092 b,"['financial services', 'investments', 'asset management']",not found,
+67169,wayfair,united states,,2002.0,16681.0,doll_0.501 b,doll_0.013708 b,doll_-0.131 b,"['consumer cyclical', 'ecommerce', 'consumer services', 'furniture', 'home furnishing', 'home improvement', 'retail', 'internet or mobile app based business']",niraj shah,
+106496,wintrust financial,united states,"9700 west higgins road, 8th floor, rosemont, illinois, 60018",,5239.0,doll_0.5309999999999999 b,doll_0.19 b,doll_0.438 b,"['financial services', 'banking services']",not found,
+20974,wã¤rtsilã¤,finland,,,,doll_0.571 b,,,['machinery-manufacturing manufacturing '],,
+41760,wan hai lines,taiwan,"10f, no. 136, sung chiang road, jhongshan district, taipei, 104",,,doll_0.682 b,doll_0.82 b,doll_3.6 b,"['industries', 'transportation', 'shipping']",tom yario,
+177924,wesco international,united states,"ste 700, 225 west station square drive, pittsburgh, pennsylvania, 15219",,18000.0,doll_0.00649 b,doll_1.8199999999999998 b,doll_0.465 b,"['consumer cyclical', 'healthcare service', 'consumer services']",not found,
+21216,west fraser timber,canada,"c/o west fraser group, 501-858 beatty st, vancouver, british columbia, v6b1c1",,11000.0,doll_0.609 b,doll_1.05 b,doll_2.947 b,"['basic materials', 'agriculture products', 'forest products', 'wood products']",raymond w. ferris,
+159808,woodward,united states,,,7200.0,doll_0.5730000000000001 b,doll_0.002245 b,doll_0.208 b,"['industries', 'aerospace and defense', 'aircraft parts', 'weapons']",not found,
+148800,wyndham hotels & resorts,united states,"22 sylvan way, parsippany, new jersey, 07054-3801",,8000.0,doll_0.63 b,doll_0.122 b,doll_0.244 b,"['consumer cyclical', 'hotels', 'consumer services']",mr. geoffrey a. ballotti,
+50273,western alliance bancorporation,united states,"one e. washington street, phoenix, arizona, 85004",,3139.0,doll_0.7030000000000001 b,doll_0.223 b,doll_0.895 b,"['financial services', 'banking services']",kenneth a. vecchione,
+28737,washington h. soul pattinson and company (whsp),australia,"level 14, 151, clarence street, sydney, new south wales, 2000",,,doll_0.674 b,doll_0.21000000000000002 b,doll_0.189 b,"['energy', 'mining', 'coal mining']",not found,
+66437,whitbread,uk,,,35700.0,doll_0.752 b,doll_0.227 b,doll_0.07783 b,"['consumer cyclical', 'travel and transport', 'hotels', 'restaurants', 'consumer services']",not found,
+80416,wacker chemie,germany,"hanns-seidel-platz 4, muenchen, 81737",1914.0,14542.0,doll_0.0078 b,doll_0.006711 b,doll_0.871 b,['chemicals'],dr. christian  hartel,munich
+21394,wh group,hong-kong,,,,doll_0.773 b,,,['food '],,
+28640,wex,united states,,,,doll_0.7030000000000001 b,doll_0.198 b,doll_0.036 b,['financialservices'],,
+105729,webster financial,united states,"200 elm street, stamford, connecticut, 06902",,3245.0,doll_0.835 b,doll_0.13 b,doll_0.398 b,"['financial services', 'banking services']",not found,
+21457,wharf holdings,hong-kong,,,,doll_0.8150000000000001 b,,,['real-estate '],,
+67782,willscot,united states,,,,doll_0.9640000000000001 b,doll_0.221 b,doll_0.036 b,,,
+86624,worldline,france,"tour voltaire, 1 place des degres, cs 81162, paris, 92059",,20000.0,doll_1.2550000000000001 b,doll_0.0036880000000000003 b,doll_-0.751 b,"['technology', 'software and it', 'financial services', 'digital payment solution services', 'software products', 'software and it infrastructure']",gilles grapinet,
+158146,weichai power,china,,2002.0,45361.0,doll_1.387 b,doll_3.1399999999999997 b,doll_0.143 b,"['industries', 'engineering products', 'engines manufacturing', 'electronics', 'industry machinery']",tan xuguang,
+95042,westlake chemical,united states,,,14550.0,doll_1.634 b,doll_1.178 b,doll_0.348 b,['chemicals'],albert yuan chao,
+21769,want want china,hong-kong,,,,doll_0.8320000000000001 b,,,['food '],,
+35715,williams-sonoma,united states,,1956.0,21000.0,doll_0.8230000000000001 b,doll_0.82 b,doll_0.11299999999999999 b,"['consumer cyclical', 'construction materials', 'consumer services', 'home furnishing', 'retail']",laura alber,
+35457,wynn resorts,united states,"3131 las vegas blvd s, nevada, 89109-1967",,26950.0,doll_0.978 b,doll_0.379 b,doll_-0.755 b,"['consumer cyclical', 'hotels', 'resorts', 'casinos', 'consumer services']",not found,
+22469,wolfspeed,united states,,,,doll_0.992 b,doll_0.08299999999999999 b,doll_0.022 b,['semiconductors tech tech-hardware electronics '],,
+49734,watsco,united states,,,6900.0,doll_1.049 b,doll_0.72 b,doll_0.418 b,"['industries', 'home appliances', 'air conditioners', 'heating equipment', 'refrigerators']",not found,
+47265,western midstream,united states,,,,doll_1.09 b,doll_0.319 b,doll_0.147 b,,,
+22815,wharf reic,hong-kong,,,,doll_1.786 b,,,['real-estate investment '],,
+64480,wã¼stenrot & wã¼rttembergische,germany,,,,doll_0.172 b,doll_0.64 b,doll_0.048 b,,,
+25185,wejo group,united-kingdom,,,,doll_0.07152 b,,,['software tech '],,
+56259,wharf reic,hong kong,,,,doll_1.754 b,,,"['realestate', 'investment']",,
+57024,want want china,hong kong,,,,doll_0.806 b,,,['food'],,
+49857,wharf (holdings),hong kong,,1886.0,7700.0,doll_0.00917 b,doll_0.002853 b,doll_0.767 b,"['real estate', 'hotels', 'transportation', 'marine transportation']",not found,
+170467,wh group,hong kong,"unit 7602b–7604a, level 76, international commerce centre, 1 austin road west, kowloon, hong kong",,101000.0,doll_0.8859999999999999 b,doll_2.73 b,doll_0.10700000000000001 b,"['consumer defensive', 'fmcg', 'meat / poultry / fish / chicken', 'food products', 'consumer non durables', 'package foods']",gordon lijun guo,
+46697,wrtsil,finland,,1834.0,,doll_0.564 b,,,['electronic equipment'],,helsinki
+29288,wendy’s company,united states,,,,doll_0.485 b,,,"['food', 'restaurantchains']",,
+57785,wendys company,united states,,,,doll_0.47800000000000004 b,,,,,
+68419,wal-mart de mexico sab de cv,mexico,"nextengo no. 78 santa cruz acayucan, mexico city, 02770",,231259.0,doll_7.196 b,doll_3.63 b,,['retailing'],mr. guilherme  de souza macedo loureiro,
+72453,"workday, inc.",united states,6110 stoneridge mall rd,,15200.0,doll_5.87 b,doll_0.514 b,,,mr. aneel  bhusri,pleasanton
+74532,wipro limited,india,,,220000.0,doll_4.398 b,doll_7500.0 b,,,mr. thierry  delaporte,
+68611,wesfarmers limited,australia,,1914.0,122000.0,doll_4.309 b,doll_3.08 b,,,mr. robert g. scott,
+91497,welltower inc.,united states,,1970.0,,doll_3.996 b,doll_0.512 b,,,mr. shankh s. mitra,
+72737,weg sa,brazil,"3300, centro, jaragua do sul, 89.256-900",,36987.0,doll_3.2049999999999996 b,doll_0.44000000000000006 b,,['industrial goods and machinery'],mr. harry  schmelzer jr.,
+68802,weyerhaeuser company,united states,,1900.0,9214.0,doll_2.942 b,doll_0.010201 b,doll_0.0026070000000000004 b,"['real estate', 'property investments', 'investments', 'wood products', 'consumer services']","mr. devin w. stockfish esq., j.d.",
+71776,"west pharmaceutical services, inc.",united states,530 herman o west dr,1923.0,10065.0,doll_3.023 b,doll_0.27999999999999997 b,doll_0.661 b,"['healthcare', 'pharmaceutical', 'healthcare products', 'chemicals', 'packaging', 'medical equipment']",eric m. green,exton
+91915,will semiconductor co. ltd,china,,,3291.0,doll_2.7239999999999998 b,0,,,not found,
+72838,"w.w. grainger, inc.",united states,,1927.0,22700.0,doll_2.7329999999999997 b,doll_1.1800000000000002 b,,,mr. donald g. macpherson,
+70912,woodside petroleum ltd,australia,,1954.0,3684.0,doll_2.46 b,doll_0.701 b,doll_0.202 b,"['energy', 'oil and gas', 'natural gas generation']","ms. marguerite eileen o'neill b.sc., m.sc.",
+72960,wens foodstuff group co. ltd,china,"no.9 east dike north road, xincheng town, xinxing county, yunfu, guangdong, 527400",,52809.0,doll_2.32 b,doll_1.01 b,doll_-1.951 b,"['consumer defensive', 'meat / poultry / fish / chicken', 'food products', 'meat / poultry / fish / chicken', 'farming / seeds / milling']",not found,
+119648,walmart inc.,united states,3200 wilshire blvd,,2300000.0,doll_42.905 b,doll_57.279999999999994 b,,['retailing'], mr. c. douglas mcmillon,los angeles
+135936,wells fargo & company,united states,420 montgomery st,,253871.0,doll_20.000999999999998 b,doll_0.078492 b,doll_21.548 b,"['financial services', 'banking services', 'insurance', 'credit cards', 'asset management']",charles w. scharf,san francisco
+70594,wuxi apptec co. ltd,china,,,,doll_4.225 b,,,, dr. ge  li ph.d.,
+158369,wpp plc,uk,"sea containers house, 18 upper ground, london, se19gl",,100000.0,doll_1.21 b,doll_0.016757 b,doll_0.834 b,"['communication services', 'media', 'advertising', 'marketing services', 'technology', 'broadcasting']",mark read,
+90931,wm morrison supermarkets plc,united kingdom,"hilmore house, gain lane, bradford, west yorkshire, bd37dl",,110000.0,0,doll_2.42 b,,['retailing'],not found,
+73257,whitbread plc,united kingdom,"whitbread court, porz avenue, houghton hall park, dunstable, lu55xe",,34328.0,doll_0.755 b,doll_0.22999999999999998 b,,['leisure and arts'],ms. alison j. brittain cbe,
+170631,wizz air holdings,switzerland,"world trade center 1, geneva international airport, geneve, 1218",,,doll_0.0077 b,doll_0.001663 b,doll_-0.631 b,"['industries', 'airlines', 'aviation']",mr. jã³zsef  vã¡radi,
+160962,william hill,uk,"1 bedford avenue, london, england, wc1b3au",,,0,doll_0.002183 b,0.0,"['consumer cyclical', 'betting', 'gaming']",not found,
+150150,watches of switzerland group,uk,"aurum house, 2 elland road, leicester, le31tt",,,doll_0.273 b,doll_0.0014579999999999999 b,doll_0.119 b,"['consumer cyclical', 'luxury goods', 'watches', 'jewellery']",mr. hugh brian duffy,
+88281,worldwide healthcare,united kingdom,,,,doll_0.21200000000000002 b,,,,not found,
+162945,witan investment trust,uk,,,,doll_0.00265 b,doll_0.317 b,doll_0.309 b,"['investments', 'asset management']",not found,
+73362,wh smith plc,united kingdom,"greenbridge road, swindon, sn33rx",,,doll_0.189 b,doll_0.19 b,,['retailing'],not found,
+153064,workspace group,uk,,,,doll_0.16499999999999998 b,doll_0.155 b,doll_0.145 b,"['real estate', 'property investments', 'commercial properties']",not found,
+146113,warehouse reit,uk,,,,doll_0.9469 b,,doll_0.225 b,['property investments'],not found,
+73569,watkin jones plc,uk,,,,doll_0.917 b,,0.0,"['consumer cyclical', 'construction', 'real estate']",mr. richard c. simpson,
+73649,wincanton plc,united kingdom,"methuen park, chippenham, sn140wt",,,doll_0.6297 b,doll_0.2 b,,['transport and logistics'],mr. james  wroath,
+88673,wilmington plc,united kingdom,,,1000.0,doll_0.2304 b,,,,mr. mark f. milner,
+73882,wandisco plc,united kingdom,,,,doll_0.2455 b,,,,mr. david james richards m.b.e.,
+88701,water intelligence plc,united kingdom,,,,doll_0.2442 b,,,,not found,
+73987,wynnstay group plc,united kingdom,,,,doll_0.122 b,,,,mr. gareth wynn davies,
+88826,warrego energy limited,united kingdom,,,,doll_0.1376 b,,,,mr. dennis  donald,
+74032,walker greenbank plc,united kingdom,,,,doll_0.124 b,,,,ms. lisa kimberley montague,
+74065,warpaint london plc,united kingdom,,,,doll_0.1185 b,,,,mr. samuel  bazini,
+74117,woodbois limited,united kingdom,,,,doll_0.07490000000000001 b,,,,not found,
+155746,wavestone sa,france,,,,doll_0.0011799999999999998 b,doll_0.47 b,doll_0.051 b,"['technology', 'software and it']",not found,
+75277,wyld networks ab ,,,,,0,,,,mr. christopher  caswell,
+75301,winsome yarns ltd,,,,,doll_0.0106 b,,,,mr. manish  bagrodia,
+105048,wallix group,france,,,,doll_0.11109999999999999 b,doll_0.0115 b,,['cyber security'],mr. jean-noel  de galzain,
+75364,winfarm sa,,,,,doll_0.0503 b,,,,not found,
+75405,witbe.net sa,,,,,doll_0.0291 b,,,,mr. jean-michel  planche,
+75411,wedia sa,,,,,doll_0.030899999999999997 b,,,,mr. nicolas  boutet,
+75471,wesure global tech ltd,,,,,0,,,,not found,
+75597,weya sa,,,,,0,,,,not found,
+179663,wireless group,,,2007.0,,doll_0.0023 b,,,['broadcasting & entertainment'],not found,belfast
+75737,we.connect sa,,,,,doll_0.0451 b,,,,mr. moshey  gorsd,
+75754,"wuchan zhongda group co.,ltd.",,,,18549.0,doll_2.726 b,,,,not found,
+140289,wuhan dr laser technologyltd,china,,,,doll_2.496 b,doll_0.185 b,doll_0.056 b,"['industries', 'industry machinery']",not found,
+151401,"wuxi autowell technology co.,ltd.",china,,,,doll_2.205 b,,0.0,"['industries', 'industry machinery']",not found,
+139430,wuhu token sciences,china,,,,doll_0.00259 b,doll_0.001021 b,doll_0.132 b,"['basic materials', 'chemicals']",not found,
+149794,winning health technology group,china,,,,doll_0.0046500000000000005 b,doll_0.4 b,doll_0.055 b,"['healthcare', 'software and it', 'healthcare technology and information']",not found,
+151110,wolong electric drive group,china,,,14470.0,doll_1.6800000000000002 b,doll_0.0020369999999999997 b,doll_0.144 b,"['industries', 'home appliances', 'kitchen appliances', 'electrical products', 'air conditioners']",not found,
+162849,wuxi taiji industry company,china,,,,doll_0.00259 b,doll_0.003535 b,doll_0.132 b,"['technology', 'semiconductors']",not found,
+76014,wangfujing group co. ltd,,,,11634.0,doll_1.583 b,,,,not found,
+152231,wangsu science & technology,china,,,,doll_0.00219 b,doll_0.666 b,doll_0.024 b,"['technology', 'software and it infrastructure']",not found,
+76058,wuxi nce power co. ltd,,,,,doll_1.46 b,,,,not found,
+76096,"wuxi paike new materials technology co.,ltd.",china,,,,doll_0.002 b,,0.0,"['metal fabrication products', 'metal products manufacturing']",not found,
+76158,wonders information co. ltd,,,,6615.0,doll_1.268 b,,,,not found,
+141826,"weihai city commercial bank co., ltd.",china,,,,doll_1.83 b,doll_0.13999999999999999 b,0.0,['banking'],not found,
+129408,wuhan raycus fiber laser technologies,china,,,2532.0,doll_0.00385 b,doll_0.496 b,doll_0.069 b,"['technology', 'technology hardware and instruments']",not found,
+76192,winall hi-tech seed co. ltd,,,,,doll_1.1560000000000001 b,,,,not found,
+174435,"wuhan keqian biology co.,ltd",china,,,,doll_0.00219 b,,0.0,"['healthcare', 'biotechnology']",not found,
+164544,wuxi rural commercial bank,china,,,,doll_0.16899999999999998 b,,0.0,"['financial services', 'banking services']",not found,
+76320,winner medical co. limited,china,,,,doll_0.00514 b,doll_0.001181 b,doll_0.182 b,"['medical equipment', 'healthcare']",not found,
+171075,weihai guangwei composites,china,,,1657.0,doll_0.00623 b,doll_0.409 b,doll_0.119 b,"['basic materials', 'chemicals']",not found,
+76451,"western mining co.,ltd",,,,5484.0,doll_3.2960000000000003 b,,,,not found,
+138561,wuxi shangji automation,china,,,,doll_0.6639999999999999 b,doll_0.001588 b,doll_0.249 b,"['industries', 'industry machinery', 'solar power devices', 'semiconductors']",not found,
+76551,"wintime energy co.,ltd.",,,,8745.0,doll_3.688 b,,,,not found,
+159588,weibo corporation,china,,,5073.0,doll_0.784 b,doll_0.0022570000000000003 b,doll_0.428 b,"['communication services', 'software and it', 'internet or mobile app based business', 'technology', 'software products']",mr. gaofei  wang,
+160323,western superconducting technologies,china,,,,doll_3.8259999999999996 b,doll_0.426 b,doll_0.108 b,"['industries', 'metal fabrication products']",not found,
+76718,wisekey international holding ag,,,,,doll_0.0507 b,,,,mr. carlos creus moreira,
+76754,w.s. industries ,,,,,doll_0.25739999999999996 b,,,,not found,
+76971,wallbox n.v.,,,,,0,,,,mr. enric  asuncion escorsa,
+76980,washtec ag,,,,1773.0,doll_0.6275 b,,,,dr. ralf  koeppe,
+77006,wcm beteiligungs- und grundbesitz-ag,,,,,doll_0.7984 b,,,,not found,
+77021,wallstreet:online ag,,,,,doll_0.2931 b,,,,mr. matthias  hach,
+77079,westwing group ag,,,,2105.0,doll_0.2374 b,,,,mr. stefan  smalla,
+77126,westgrund ag,,,,,doll_0.10400000000000001 b,,,,not found,
+77162,westag & getalit ag,,,,1157.0,doll_0.1544 b,,,,harald  pichler,
+77272,wirecard,,,,,doll_0.0221 b,,,['financial services'],not found,aschheim
+77338,windeln.de se,,,,,doll_0.0111 b,,,,mr. matthias  peuckert,
+77364,wasgau produktions & handels ag,,,,1668.0,doll_0.0964 b,,,,mr. ambroise  forssman-trevedy,
+77566,warteck invest ag,,,,,doll_0.589 b,,,,mr. daniel  petitjean,
+137120,wuxi lead intelligent equipment,china,,,,doll_1.654 b,doll_0.00146 b,doll_0.231 b,"['industries', 'electronics', 'electrical products', 'solar power devices', 'batteries', 'industry machinery']",not found,
+77692,wescoal holdings ltd,,,,,doll_0.0079 b,,,,mr. muthanyi robinson ramaite,
+77757,workforce holdings ltd,,,,1259.0,doll_0.0032 b,,,,"mr. ronald stanley katz b.com., l.l.b., m.b.a., b com, llb, mba",
+77858,wing tai properties ltd,,,,,doll_0.554 b,,,,mr. michael hamilton  hobson,
+155238,wuling motor holdings,hong kong,,,,0,doll_0.002 b,doll_-0.004 b,['automobile'],not found,
+77958,wealthking investments ltd,,,,,doll_0.244 b,,,,not found,
+77978,wasion holdings ltd,,,,3578.0,doll_0.288 b,,,,ms. zhao hui  cao,
+78048,wanda hotel development company ltd,,,,,doll_0.134 b,,,,not found,
+78068,wing fung group asia ltd,,,,,doll_0.8425 b,,,,mr. chi keung  chung,
+78083,water oasis group ltd,,,,,doll_0.9567 b,,,,mr. siu kei  tam,
+78171,winox holdings ltd,,,,4204.0,doll_0.5512999999999999 b,,,,not found,
+78172,wls holdings ltd,,,,,doll_0.5534 b,,,,mr. kam wang  kong,
+78203,win hanverky holdings ltd,,,,19000.0,doll_0.4102 b,,,,mr. kwok leung  lee,
+78290,winson holdings hong kong ltd,,,,1867.0,doll_0.255 b,,,,not found,
+78305,wan leader international ltd,,,,,doll_0.1769 b,,,,not found,
+78321,wai chi holdings company ltd,,,,2319.0,doll_0.1958 b,,,,mr. chung po  chen,
+78322,wise ally international holdings ltd,,,,1800.0,doll_0.1941 b,,,,mr. wai hang  chu,
+78350,wecon holdings ltd,,,,,doll_0.1464 b,,,,mr. ka yip  tsang,
+78359,wealth glory holdings ltd,,,,,doll_0.15109999999999998 b,,,,not found,
+78365,wine's link international holdings ltd,,,,,doll_0.15380000000000002 b,,,,ms. chi lou  wong,
+78370,wah sun handbags international holdings ltd,,,,4737.0,doll_0.15730000000000002 b,,,,mr. hing ming  ma,
+78388,wai chun group holdings ltd,,,,,doll_0.115 b,,,,mr. ching kui  lam,
+78392,wah wo holdings group ltd,,,,,doll_0.117 b,,,,mr. yuet wa  chen,
+78440,wing chi holdings ltd,,,,,doll_0.0943 b,,,,mr. cheuk kam  li,
+78443,wac holdings ltd,,,,,doll_0.0965 b,,,,not found,
+78463,wan kei group holdings ltd,,,,,doll_0.1056 b,,,,not found,
+78507,world super holdings ltd,,,,,doll_0.0815 b,,,,mr. peng kan  sou,
+78548,winning tower group holdings ltd,,,,,doll_0.0644 b,,,,mr. ho yin  lai,
+78550,wmch global investment ltd,,,,,doll_0.0111 b,,,,mr. seng  wong,
+78592,windmill group ltd,,,,,doll_0.1708 b,,,,mr. shing kuen  li,
+78611,wonderful sky financial group holdings ltd,,,,,doll_0.2778 b,,,,mr. tian ni  liu,
+78655,wang on properties ltd,,,,,doll_0.10600000000000001 b,,,,mr. ho hong  tang,
+78657,wang on group ltd,,,,2103.0,doll_0.10900000000000001 b,,,,not found,
+78759,wealth first portfolio managers ltd,,,,,doll_0.277 b,,,,not found,
+78786,wustenrot & wurttembergische ag,germany,"gutenbergstrasse 30, stuttgart, 70176",1999.0,,doll_0.00207 b,doll_0.8099999999999999 b,doll_0.4143 b,"['financial services', 'insurance']",jürgen albert junker,
+79069,wlm participacoes e comercio de maquinas e veiculos sa,,,,,doll_0.12 b,,,,mr. rubem roberto ribeiro,
+79086,westwing comércio varejista sa,,,,,doll_0.31010000000000004 b,,,,not found,
+79181,wetzel sa,,,,,doll_0.0367 b,,,,rodrigo moretti ramalho camara,
+79270,wiz solucoes e corretagem de seguros sa,,,,1635.0,doll_0.129 b,,,,mr. heverton pessoa de melo peixoto,
+79328,wirtek a/s,,,,,doll_0.1182 b,,,,mr. michael  aaen,
+158112,wingtech technology,china,"no. 777 yazhong road, nanhu district, jiaxing, zhejiang, 314000",,22467.0,doll_1.06 b,doll_0.82 b,doll_0.38 b,"['technology', 'semiconductors', 'electronics', 'communications equipment']",shu jie mao,
+158631,walvax biotechnology,china,,,,doll_1.462 b,doll_0.544 b,doll_0.067 b,"['healthcare', 'biotechnology', 'biopharmaceutical', 'pharmaceutical']",not found,
+79384,weichai power co ltd,china,"no.197a, fushou east street, hi-tech industrial development zone, weifang, shandong , 261061",,82417.0,doll_10.544 b,doll_3.16 b,,['automotive'],mr. xuguang  tan,
+153698,walliser kantonalbank,switzerland,,,,doll_0.175 b,doll_0.243 b,doll_0.09 b,"['financial services', 'banking services']",not found,
+79557,wstbygg gruppen ab,,,,,doll_0.308 b,,,,mr. jorgen  andersson,
+79729,wise group ab,,,,,doll_0.3917 b,,,,ms. ingrid  hã¶ã¶g,
+79751,waystream holding ab,,,,,doll_0.18209999999999998 b,,,,ms. susanne  torrbacka,
+79928,westpay ab,,,,,doll_0.0877 b,,,,not found,
+161951,wihlborgs fastigheter ab (publ),sweden,,,,doll_0.00385 b,doll_0.324 b,doll_0.355 b,"['real estate', 'financial services']",not found,
+80042,wereldhave n.v.,,,,,doll_0.7192000000000001 b,,,,mr. matthijs  storm,
+80194,wesizwe platinum ltd,,,,,doll_0.24 b,,,,mr. zhimin  li,
+80456,walkme ltd,,,,,doll_0.127 b,,,,mr. dan  adika,
+183364,wielton,,,,,doll_0.1066 b,,,['utility vehicles'],not found,wieluń
+80491,wawel sa,,,,1036.0,doll_0.15930000000000002 b,,,,not found,
+80615,winpak ltd.,,,,2563.0,doll_0.24700000000000003 b,,,,mr. olivier y. muggli,
+80684,well health technologies corp.,,,,,doll_0.101 b,,,,mr. hamed  shahbazi bsc,
+80770,wildbrain ltd.,,,,,doll_0.5776 b,,,,mr. eric  ellenbogen,
+80801,worksport ltd,,,,,doll_0.5367999999999999 b,,,,mr. steven f. rossi,
+80838,wall financial corporation,,,,,doll_0.49610000000000004 b,,,,mr. bruno  wall,
+81046,waterloo brewing ltd.,,,,,doll_0.1643 b,,,,mr. george h. croft,
+81153,white gold corp,,,,,doll_0.09570000000000001 b,,,,"mr. david m. d'onofrio c.a., cpa",
+81167,wealth minerals ltd,,,,,doll_0.1006 b,,,,mr. hendrik  van alphen,
+81188,western resources corp.,,,,,doll_0.0777 b,,,,mr. wenye  xue,
+81215,western uranium & vanadium corp,,,,,doll_0.0705 b,,,,mr. george e. l. glasier,
+81311,"west vault mining, inc.",,,,,doll_0.06620000000000001 b,,,,"mr. sandy  mcvey m.sc., msc, p.eng., p.eng. pmp, p.m.p.",
+81352,western magnesium corp,,,,,doll_0.1477 b,,,,mr. sam  ataya,
+81373,wallbridge mining company limited,,,,,doll_0.2786 b,,,,"mr. faramarz  kord-gharachorloo m.b.a., m.sc., p.eng., mba",
+81390,western copper and gold corporation,,,,,doll_0.42219999999999996 b,,,,dr. paul  west-sells,
+81397,wajax corporation,,,,2800.0,doll_0.43119999999999997 b,,,,mr. ignacy  domagalski,
+81412,western forest products inc.,,,,2051.0,doll_0.7289 b,,,,mr. donald eugene demens,
+81800,wistron corp,taiwan,"158, singshan road, neihu, taipei , 114",,,doll_8.638 b,doll_3.09 b,,['technology and communications'],not found,
+151463,wpg holdings,taiwan,"22f, no. 189, jingmao 2nd road, taipei, taipei , 11568",2005.0,5000.0,doll_0.314 b,doll_2.79 b,doll_0.38 b,"['technology', 'electronics']",fu hai yeh,
+173088,walsin lihwa corporation,taiwan,"25f, no.1, songzhi road, xinyi district, taipei, 110",,,doll_0.318 b,doll_0.005176999999999999 b,doll_0.484 b,"['industries', 'electrical products', 'cables and wires']",not found,
+81825,winbond electronics corporation,taiwan,"no.8, keya 1st rd, cntrl science industrl prk, daya district, taichung, 428",,4510.0,doll_0.437 b,doll_0.00329 b,doll_0.449 b,"['technology', 'electronics', 'semiconductors']",mr. yu-cheng  chiao,
+163424,wt microelectronics,taiwan,,1993.0,,doll_0.22000000000000003 b,doll_1e-05 b,doll_0.262 b,"['technology', 'electronics', 'semiconductors']",mr. wen-tsung  cheng,
+106080,walsin technology corporation,taiwan,"24f, no.1, songzhi road, xinyi district, taipei, 110",,,doll_0.13 b,doll_0.15 b,doll_0.262 b,"['industries', 'electronics', 'technology', 'technology hardware and instruments', 'engineering products']",mr. yu-heng  chiao,
+81887,wafer works corp,,,,,doll_3.5189999999999997 b,,,,mr. ping-hai  chiao,
+81920,wah lee industrial corp,,,,,doll_2.496 b,,,,mr. tsuen-hsien  chang,
+145601,wistron neweb corporation,taiwan,"no.20, park avenue ii, hsinchu science park, hsinchu, 308",,,doll_0.00102 b,doll_0.24 b,doll_0.041 b,"['technology', 'communications equipment']",not found,
+82045,"weltrend semiconductor, inc.",,,,,doll_1.46 b,,,,mr. samantha  lin,
+82050,winway technology co. ltd,,,,,doll_1.497 b,,,,not found,
+82125,wei chuan foods corp,,,,,doll_1.0779999999999998 b,,,,not found,
+107158,weikeng industrial co ltd,taiwan,"11f, no.308, sec. 1 neihu road, neihu district, taipei, 114",,,doll_1.1789999999999998 b,doll_0.26 b,,['technology and communications'],mr. chiu-chiang  hu,
+82225,"walton advanced engineering, inc.",,,,,doll_0.852 b,,,,mr. yu-heng  chiao,
+82239,wowprime corp,,,,,doll_0.881 b,,,,zheng hui  chen,
+82389,wanhwa enterprise company,,,,,doll_0.538 b,,,,not found,
+82392,well shin technology co. ltd,,,,,doll_0.538 b,,,,not found,
+82393,wus printed circuit co. ltd,,,,,doll_0.5389999999999999 b,,,,not found,
+82441,wonderful hi-tech co. ltd,,,,,doll_0.49400000000000005 b,,,,not found,
+82528,"weblink international, inc.",,,,,doll_0.343 b,,,,not found,
+82565,wholetech system hitech ltd,,,,,doll_0.366 b,,,,not found,
+82593,winstek semiconductor co. ltd,,,,,doll_0.44699999999999995 b,,,,not found,
+82614,"winmate, inc.",,,,,doll_0.561 b,,,,not found,
+82623,waffer technology corp,,,,,doll_0.626 b,,,,not found,
+82624,wistron information technology & services corp,,,,,doll_0.627 b,,,,mr. ching  hsiao,
+82675,"wei chih steel industrial co.,ltd.",,,,,doll_1.383 b,,,,not found,
+82741,wiwynn corp,taiwan,"8f, no.90, section 1, xintai 5th road, xizhi district, new taipei, 221",,,doll_17.107 b,doll_0.6900000000000001 b,,['technology and communications'],ms. emily  hong,
+82800,wallenstam ab,,,,,doll_4.493 b,,,,mr. mathias  aronsson,
+170151,west japan railway company,japan,"4-24, shibata 2-chome, kita-ku, osaka-shi, 530-8341",,136709.0,doll_1000.9999999999999 b,doll_0.007524 b,doll_-0.826 b,"['industries', 'railway', 'railway operating company', 'real estate', 'hotels', 'travel and transport']",not found,
+83044,welcia holdings co. ltd,,,,11708.0,doll_62.963 b,,,,not found,
+153644,west holdings corporation,japan,,,,doll_0.00177 b,doll_0.496 b,doll_0.047 b,"['utilities', 'electricity generation']",not found,
+145217,wacoal holdings,japan,"29 nakajima-cho, kisshoin, kyoto-shi, 6018530",,20984.0,doll_11.99 b,doll_0.15 b,doll_0.034 b,"['consumer cyclical', 'apparels and accessories']",not found,
+83482,"weathernews, inc.",,,,1086.0,doll_9.608 b,,,,not found,
+83490,"wealthnavi, inc.",,,,,doll_9.818000000000001 b,,,,mr. kazuhisa  shibayama,
+83579,wdb holdings co. ltd,,,,4830.0,doll_7.0569999999999995 b,,,,mr. toshimitsu  nakano,
+83607,"wowow, inc.",,,,,doll_6.211 b,,,,mr. akira  tanaka,
+83730,wacom co. ltd,,,,1007.0,doll_14.785 b,,,,mr. nobutaka  ide,
+84046,wooridul huebrain ltd,,,,,doll_11.902 b,,,,not found,
+84073,"woojin, inc.",,,,,doll_22.438 b,,,,not found,
+140450,woolworths holdings,south africa,"woolworths house 93 longmarket street, cape town, 8001",,210067.0,doll_0.004070000000000001 b,doll_0.004766 b,doll_0.221 b,"['consumer cyclical', 'retail', 'hypermarkets', 'super markets']",mr. roy enzo bagattini,
+169920,want want china holdings,china,"no.1088, east hong song road, shanghai, 201103",,39132.0,doll_0.8300000000000001 b,doll_0.00349 b,doll_0.611 b,"['consumer defensive', 'food and beverage', 'food products', 'fmcg', 'package foods']",not found,
+93635,wharf real estate investment company,hong kong,"16th floor,ocean centre, canton road,harbour city, kowloon, hong kong",,2900.0,doll_1.78 b,doll_0.21000000000000002 b,doll_0.56 b,"['real estate', 'property investments', 'investments', 'commercial properties', 'construction']",not found,
+84291,worldgate global logistics ltd,,,,,doll_0.0282 b,,,,mr. kin ho chan,
+84355,wns (holdings) limited,,,,49610.0,doll_0.42800000000000005 b,,,,mr. keshav r. murugesh,
+135136,wing tai holdings,singapore,,,,doll_0.0010400000000000001 b,doll_0.331 b,doll_0.022 b,['real estate'],not found,
+84625,wilton resources corp ltd,,,,,doll_0.047200000000000006 b,,,,not found,
+84689,wong fong industries ltd,,,,,doll_0.036 b,,,,mr. ah kuie  liew,
+84698,wei yuan holdings ltd,,,,,doll_0.1097 b,,,,mr. tian fah  ng,
+84973,wellington drive technologies ltd,,,,,doll_0.07429999999999999 b,,,,not found,
+85170,wijaya karya persero tbk pt,,,,5263.0,doll_15796.0 b,,,,not found,
+85953,watani iron steel co.,,,,,doll_0.8368 b,,,,not found,
+85964,wafrah for industry and development company,,,,,doll_0.9999 b,,,,mr. khaled saleh abobaker al amoudi,
+85971,walaa cooperative insurance company,,,,,doll_0.10900000000000001 b,,,,not found,
+86003,wataniya insurance company,,,,,doll_0.675 b,,,,not found,
+86222,wiit s.p.a.,,,,,doll_0.7974 b,,,,mr. alessandro  cozzi,
+86241,webuild s.p.a.,italy,"milanofiori strada 6, palazzo l, rozzano, 20089",,,doll_0.145 b,doll_0.71 b,0.0,['industries'],dr. pietro  salini,
+86387,websolute s.p.a.,,,,,doll_0.0252 b,,,,mr. lamberto  mattioli,
+86457,wm capital s.p.a.,,,,,doll_0.0017 b,,,,mr. nicola  valietti,
+167653,wartsila oyj abp,finland,,,18307.0,doll_0.861 b,doll_0.005265 b,doll_0.213 b,"['industries', 'power equipment', 'power systems', 'marine systems', 'manufacturing', 'industry machinery']","mr. hakan  agnevall m.b.a., m.sc.",
+86902,wisetech global limited,,,,1900.0,doll_1.6510000000000002 b,,,,mr. richard john white,
+139655,waypoint reit limited,australia,,,,doll_0.43899999999999995 b,doll_0.132 b,doll_0.327 b,"['real estate', 'property investments']",not found,
+86947,worley ltd,australia,"l 15 141 walker st, north sydney, new south wales, 2060",,51000.0,doll_0.58 b,doll_0.73 b,,['energy and utilities'],mr. robert christopher ashton,
+87029,wam capital limited,,,,,doll_0.20099999999999998 b,,,,not found,
+87039,webjet limited,,,,1800.0,doll_0.213 b,,,,ms. shelley  beasley,
+87064,western areas limited,,,,,doll_0.118 b,,,,"mr. daniel richard lougher b.sc., m.sc., msc. eng",
+135696,west african resources limited,australia,,,,doll_0.934 b,,doll_0.13 b,"['basic materials', 'gold mining', 'mining']","mr. richard  hyde b.sc., mausimm, maig",
+87081,wam leaders limited,,,,,doll_0.135 b,,,,not found,
+87110,westgold resources limited,,,,1051.0,doll_0.8334 b,,,,not found,
+87128,wam global limited,,,,,doll_0.5294 b,,,,not found,
+87131,whitefield limited,,,,,doll_0.5296000000000001 b,,,,not found,
+87144,wpp aunz limited,,,,,doll_0.5539 b,,,,not found,
+87225,wam research limited,,,,,doll_0.3495 b,,,,not found,
+87242,weebit nano limited,,,,,doll_0.3817 b,,,,mr. jacob  hanoch,
+87261,wagners holding company limited,,,,,doll_0.2689 b,,,,not found,
+87264,wam microcap limited,,,,,doll_0.2722 b,,,,not found,
+87289,whispir limited,,,,,doll_0.2062 b,,,,"mr. jeromy  wells b.arch (hons), maicd, raia",
+87295,wotso property,,,,,doll_0.2084 b,,,,not found,
+87296,wisr limited,,,,,doll_0.21130000000000002 b,,,,not found,
+87306,wam alternative assets limited,,,,,doll_0.2214 b,,,,not found,
+87360,westoz investment company limited,,,,,doll_0.1923 b,,,,not found,
+87402,wameja limited,,,,,doll_0.086 b,,,,not found,
+87456,walkabout resources limited,,,,,doll_0.11059999999999999 b,,,,mr. andrew  cunningham,
+87478,webcentral group limited,,,,,doll_0.12090000000000001 b,,,,not found,
+87485,waterco limited,,,,,doll_0.12359999999999999 b,,,,mr. soon sinn goh,
+87529,wide open agriculture limited,,,,,doll_0.1051 b,,,,not found,
+87588,wam active limited,,,,,doll_0.07740000000000001 b,,,,"ms. katherine a. thorley b.comm, cpa, grad dip ap",
+87679,wa kaolin limited,,,,,doll_0.0594 b,,,,not found,
+87693,west wits mining limited,,,,,doll_0.060899999999999996 b,,,,not found,
+87716,wattle health australia limited,,,,,doll_0.0818 b,,,,not found,
+87739,wiluna mining corporation limited,,,,,doll_0.1205 b,,,,not found,
+153069,whitehaven coal,australia,"l 28 259 george st, sydney, new south wales, 2000",,,doll_0.454 b,doll_0.37 b,doll_1.351 b,"['energy', 'mining', 'coal mining']","mr. paul j. flynn b.com., bcomm, f.c.a., fca",
+87950,watt's sa,,,,3048.0,doll_16.666999999999998 b,,,,not found,
+88080,wereldhave belgium naamloze vennootschap,,,,,doll_0.5048 b,,,,mr. nicolas  beaussillon,
+138082,warehouses de pauw,belgium,,,,doll_0.00844 b,doll_0.306 b,doll_0.10800000000000001 b,"['real estate', 'logistics', 'property investments']",not found,
+89418,wp energy public company ltd,,,,,doll_0.262 b,,,,not found,
+89419,wow factor public company ltd,,,,,doll_0.262 b,,,,mr. sirutt  ratanapaitoon,
+89435,wattanapat hospital trang public company ltd,,,,,doll_0.178 b,,,,dr. somchai  chansawang m.d.,
+134659,wha premium growth freehold and leasehold real estate investment trust,thailand,,,,doll_0.11100000000000002 b,doll_0.071 b,doll_0.057 b,"['real estate', 'property investments']",not found,
+89475,wiik public company ltd,,,,,doll_0.143 b,,,,mr. wiboon  sangwithayanon,
+89494,winner group enterprise public company ltd,,,,,doll_0.158 b,,,,mr. jane  wongissariyakul,
+89531,wyncoast industrial park public company ltd,,,,,doll_0.121 b,,,,mr. jak  chamikorn,
+89593,wattana karnpaet public company ltd,,,,,doll_0.49 b,,,,dr. phiphat  tangsubkul,
+89616,wave entertainment public company ltd,,,,,doll_0.656 b,,,,mr. matthew  kichodhan,
+126565,w. r. berkley corporation,united states,"475 steamboat rd, greenwich, connecticut, 06830-7144",,7681.0,doll_0.01494 b,doll_0.009481 b,doll_1.022 b,"['financial services', 'insurance']",william r. berkley,
+158402,wabtec corporation,united states,,,25000.0,doll_1.797 b,doll_0.007822 b,doll_0.558 b,"['industries', 'railway', 'capital goods', 'railway vehicles and railway components']",rafael santana,
+126725,westlake chemical corporation,united states,,,14550.0,doll_0.01119 b,doll_0.011778 b,doll_0.2 b,"['basic materials', 'chemicals', 'petrochemicals']",albert chao,
+108659,"watsco, inc.",united states,"ste 901, 2665 s bayshore dr, coconut grove, florida, 33133",,6850.0,doll_1.06 b,doll_0.63 b,,['industrial goods and machinery'],mr. albert h. nahmad,
+137892,western midstream partners lp,united states,"9950 woodloch forest drive, suite 2800, the woodlands, texas, 77380-7046",,1127.0,doll_0.008150000000000001 b,doll_0.002877 b,doll_0.896 b,"['energy', 'oil and gas', 'utilities', 'gas utilities']",mr. michael p. ure,
+90170,"williams-sonoma, inc.",,,,12200.0,doll_1.074 b,,,,ms. laura j. alber,
+90208,"wynn resorts, limited",,,,26950.0,doll_0.9259999999999999 b,,,,mr. craig scott billings,
+90222,"woodward, inc.",,,,7200.0,doll_0.783 b,,,,mr. thomas a. gendron,
+90471,workiva inc.,,,,2106.0,doll_0.5690000000000001 b,,,,mr. martin j. vanderploeg,
+149153,wex inc,united states,"97 darling avenue, south portland, maine, 04106",,5600.0,doll_0.00822 b,doll_0.19 b,doll_0.0 b,"['technology', 'business services', 'software and it infrastructure']",ms. melissa d. smith,
+90516,willscot mobile mini holdings corp,united states,"4646 e. van buren street, suite 400, phoenix, arizona, 85008",,4700.0,doll_0.9349999999999999 b,doll_0.19 b,,['business and consumer services'],mr. bradley lee soultz,
+90528,wayfair inc.,united states,"4 copley place, boston, massachusetts, 02116",,16681.0,doll_0.44000000000000006 b,doll_1.3699999999999999 b,,['retailing'],mr. niraj s. shah,
+148032,whirlpool corporation,united states,,,78000.0,doll_1.109 b,doll_0.021985 b,doll_0.0017829999999999999 b,"['consumer cyclical', 'electronics', 'electrical products', 'consumer durables', 'home appliances', 'refrigerators', 'air conditioners', 'home furnishing']",marc bitzer,team disney building
+90531,westrock company,united states,,,49900.0,doll_1.2550000000000001 b,doll_0.018746 b,doll_0.838 b,"['consumer cyclical', 'packaging', 'packaging machines', 'machinery manufacturing', 'packaging materials', 'consumer durables']",mr. david b. sewell,
+90539,w. p. carey inc.,,,,,doll_1.482 b,,,,mr. jason e. fox,
+90621,wice logistics public company ltd,,,,,doll_1.121 b,,,,dr. araya  kongsoonthorn,
+90633,workpoint entertainment public company ltd,,,,,doll_1.269 b,,,,mr. phanich  sodsee,
+90660,wha utilities and power public company ltd,,,,,doll_1.568 b,,,,dr. niphon  bundechanan,
+90984,wha corp public company ltd,,,,,doll_4.993 b,,,,ms. jareeporn  jarukornsakul,
+92389,walgreens,united states,,,,doll_3.934 b,doll_13.594999999999999 b,doll_0.629 b,['retail and wholesale'],stefano pessina,
+180484,woolworths,australia,,1950.0,,doll_3.461 b,doll_3.8840000000000003 b,doll_0.601 b,['broadline retailers'],bradford banducci,nicosia
+92754,williams,united states,,,,doll_4.273 b,doll_1.057 b,doll_0.152 b,['oil & gas operations'],alan s. armstrong,
+95789,wtw,united kingdom,,,,doll_2.6879999999999997 b,doll_0.958 b,doll_0.422 b,['insurance'],carl aaron hess,
+96080,wr berkley,united states,,,,doll_1.802 b,doll_0.9460000000000001 b,doll_0.10200000000000001 b,['insurance'],william robert berkley jr.,
+93156,w.w. grainger,united states,"5500 west howard st, skokie, illinois, 60077",1927.0,22700.0,doll_2.552 b,doll_1.3 b,doll_0.10400000000000001 b,"['industries', 'retail', 'ecommerce', 'internet or mobile app based business', 'b2b services', 'consumer services', 'office equipment']",donald g. macpherson,
+171716,wuchan zhongda group,china,,,20322.0,doll_0.487 b,doll_8.729000000000001 b,doll_0.58 b,"['industries', 'iron and steel', 'coal mining', 'energy', 'chemicals', 'conglomerate']",hong jiong song,
+96655,westinghouse air brake technologies,united states,"30 isabella street, pittsburgh, pennsylvania, 15212",,25000.0,doll_1.85 b,doll_0.78 b,doll_0.5556 b,['capital goods'],rafael o. santana,
+93890,will semiconductor,china,"east building, no. 88 shangke road, pudong new area, shanghai, 201210",2007.0,4493.0,doll_3.811 b,doll_0.37 b,doll_0.651 b,"['technology', 'semiconductors', 'electronics']",not found,
+93967,waters,united states,,,7800.0,doll_1.794 b,doll_0.279 b,doll_0.6928 b,['health care equipment & services'],udit batra,
+98240,winelivery,italy,,2015.0,10000.0,,doll_0.00734 b,,['ecommerce'],,
+99242,waterdrop,austria,,2016.0,180000.0,,doll_0.041210000000000004 b,,['food & beverage'],,
+97274,wolfram chain*,the netherlands,,2017.0,29000.0,,doll_0.0024300000000000003 b,,['management consulting'],,
+97418,woodwatch,the netherlands,,2013.0,25000.0,,doll_0.0055899999999999995 b,,['retail'],,
+98433,winter in venice,uk,,2010.0,6000.0,,doll_0.01268 b,,['beauty'],,
+99503,wielandts upmt,belgium,,2013.0,6000.0,,doll_0.0015300000000000001 b,,['technology'],,
+98517,wave studio,romania,,2014.0,9000.0,,doll_0.00411 b,,['technology'],,
+98619,westrafo,italy,,2014.0,58000.0,,doll_0.02207 b,,['energy'],,
+98663,wolf & badger,uk,,2009.0,62000.0,,doll_0.0116 b,,['ecommerce'],,
+98752,wealth club,uk,,2016.0,22000.0,,doll_0.00677 b,,['financial services'],,
+97782,werksrã¤der24,germany,,2013.0,36000.0,,doll_0.0149 b,,['automobiles'],,
+99797,wastepack,uk,,1997.0,20000.0,,doll_0.02237 b,,['waste management & recycling'],,
+97879,worteks,france,,2016.0,11000.0,,doll_0.0018700000000000001 b,,['technology'],,
+99936,weiser brandschutz & technik,germany,,2005.0,45000.0,,doll_0.0059900000000000005 b,,['construction'],,
+99948,wiwie transport,germany,,2016.0,25000.0,,doll_0.004200000000000001 b,,['transport'],,
+97971,wiseband,france,,2014.0,15000.0,,doll_0.00164 b,,['media'],,
+100023,web geo services,france,,2009.0,57000.0,,doll_0.02411 b,,['technology'],,
+100053,way2global sb,italy,,2017.0,16000.0,,doll_0.0024100000000000002 b,,['support services'],,
+98058,worldwide fishing company,spain,,2016.0,30000.0,,doll_0.14044 b,,['food & beverage'],,
+100093,whites agency,poland,,2011.0,90000.0,,doll_0.00408 b,,['advertising'],,
+104544,welol next,italy,,2011.0,32000.0,,doll_0.00269 b,,['technology'],,
+100198,whiskyzone,germany,,2014.0,16000.0,,doll_0.01075 b,,['retail'],,
+104690,wingeco,italy,,2016.0,22000.0,,doll_0.0034100000000000003 b,,['industrial goods'],,
+103169,werksrder24,germany,,2013.0,,,doll_0.0149 b,,['automobiles'],,
+100235,workmate,singapore,,2015.0,,,doll_0.01244 b,,['support services'],,
+100276,wakefit,india,,2016.0,,,doll_0.028210000000000002 b,,['retail'],,
+100475,wadiz,south korea,,2012.0,,,doll_0.01247 b,,['fintech'],,
+100368,wolt enterprises,finland,,2014.0,,,doll_0.03007 b,,['technology'],,
+100370,whatfix,india,,2013.0,,,doll_0.01345 b,,['technology'],,
+100430,wafour corporation,south korea,,2017.0,,,doll_0.00287 b,,['media'],,
+100715,workcapital,spain,,2015.0,,,doll_0.028120000000000003 b,,['financial services'],,
+100722,wetaca,spain,,2014.0,,,doll_0.0035099999999999997 b,,['food & beverage'],,
+100780,watsons indonesia,indonesia,,2005.0,,,doll_0.07739 b,,['retail'],,
+100970,wishcompany inc.,south korea,,2010.0,,,doll_0.04353 b,,['beauty'],,
+100971,w-endless,japan,,2014.0,,,doll_0.01589 b,,['advertising'],,
+101038,wantedly,japan,,2010.0,,,doll_0.02686 b,,['advertising'],,
+101049,webengage,india,,2011.0,,,doll_0.00541 b,,['technology'],,
+101055,winnow holdings,united kingdom,,2013.0,,,doll_0.0028 b,,['technology'],,
+101168,webedge,japan,,2008.0,,,doll_0.005059999999999999 b,,['technology'],,
+101177,we can do hr,poland,,2015.0,,,doll_0.00692 b,,['support services'],,
+101191,worldutility,japan,,2015.0,,,doll_0.00131 b,,['sales & marketing'],,
+101229,wewe media group,singapore,,2013.0,,,doll_0.009550000000000001 b,,['sales & marketing'],,
+101251,w2 solution,japan,,2005.0,,,doll_0.01 b,,['sales & marketing'],,
+101372,wacul,japan,,2010.0,,,doll_0.00667 b,,['sales & marketing'],,
+101443,widget brain holding,netherlands,,2015.0,,,doll_0.0017 b,,['technology'],,
+101444,wizionesysetms,south korea,,2014.0,,,doll_0.0030299999999999997 b,,['technology'],,
+101466,wertbau nord,germany,,2014.0,,,doll_0.0029 b,,['construction'],,
+101561,wistron information technology and,taiwan,,1992.0,,,doll_0.17213 b,,['technology'],,
+101667,web stars channel,italy,,2013.0,,,doll_0.00619 b,,['advertising'],,
+101772,wasserneutral,germany,,2014.0,,,doll_0.00562 b,,['retail'],,
+101813,world class services,india,,2011.0,,,doll_0.033659999999999995 b,,['support services'],,
+101844,watt and volt,greece,,2011.0,,,doll_0.16403 b,,['energy'],,
+101980,wse,singapore,,2016.0,,,doll_0.00164 b,,['energy'],,
+102028,willplus,japan,,2007.0,,,doll_0.32233999999999996 b,,['automobiles'],,
+102142,wapsi,france,,2015.0,,,doll_0.00637 b,,['management consulting'],,
+102173,wed2b,united kingdom,,2009.0,,,doll_0.0177 b,,['retail'],,
+102219,workstories,united kingdom,,2013.0,,,doll_0.009 b,,['interiors'],,
+102224,wewatch security service,germany,,2013.0,,,doll_0.00497 b,,['support services'],,
+102311,wanecque,france,,2012.0,,,doll_0.0036 b,,['construction'],,
+102679,wood box,italy,,2015.0,,,doll_0.0024100000000000002 b,,['industrial goods'],,
+102749,workable software,united kingdom,,2012.0,,,doll_0.01576 b,,['technology'],,
+102859,wearereasonablepeople,netherlands,,2011.0,,,doll_0.003 b,,['technology'],,
+102915,wellynx,italy,,2011.0,,,doll_0.0018 b,,['energy'],,
+102985,wknd,latvia,,2015.0,,,doll_0.00191 b,,['advertising'],,
+102990,willie beamen,france,,2013.0,,,doll_0.00855 b,,['media'],,
+103067,we exhibit,italy,,2015.0,,,doll_0.0017900000000000001 b,,['travel & leisure'],,
+103199,weclapp,germany,,2008.0,,,doll_0.0046500000000000005 b,,['technology'],,
+103272,workstreampeople (anywhere365),netherlands,,2008.0,,,doll_0.0121 b,,['technology'],,
+103314,weller media agency,united kingdom,,2013.0,,,doll_0.0032 b,,['sales & marketing'],,
+103622,wow international logistics,germany,,2013.0,,,doll_0.0037 b,,['transport'],,
+103780,wacker immobilien & bautrger,germany,,2016.0,,,doll_0.00232 b,,['construction'],,
+103887,wealth dynamics,united kingdom,,2012.0,,,doll_0.0103 b,,['fintech'],,
+103951,white & fluffy,germany,,2012.0,,,doll_0.004 b,,['chemicals'],,
+103983,workinprogress italia,italy,,2007.0,,,doll_0.0024 b,,['architecture'],,
+104162,wiraya solutions,sweden,,2008.0,,,doll_0.0048 b,,['technology'],,
+104195,wesselhöfft + rüting,germany,,2013.0,,,doll_0.00359 b,,['construction'],,
+104207,we-unit group,italy,,2008.0,,,doll_0.01145 b,,['financial services'],,
+104466,webmediarm,france,,2014.0,,,doll_0.00833 b,,['media'],,
+104467,we are pentagon group,uk,,2009.0,,,doll_0.01481 b,,['ecommerce'],,
+104560,we tech,italy,,2014.0,,,doll_0.00333 b,,['technology'],,
+104696,warner land surveys,united kingdom,,1994.0,,,doll_0.01104 b,,['construction'],,
+104718,warner land surveys,uk,,1994.0,,,doll_0.01853 b,,['construction'],,
+104755,webranking,italy,,1998.0,,,doll_0.0213 b,,['advertising'],,
+104792,wabel,france,,2010.0,,,doll_0.0046 b,,['technology'],,
+104793,wito,france,,2010.0,,,doll_0.00435 b,,['construction'],,
+104899,werbung & design socher,germany,,1995.0,,,doll_0.00396 b,,['sales & marketing'],,
+104985,wheely holdings,united kingdom,,2010.0,,,doll_0.0329 b,,['transport'],,
+105039,workable technology,uk,,2012.0,,,doll_0.02069 b,,['technology'],,
+105051,welljob,france,,1997.0,,,doll_0.0581 b,,['support services'],,
+105088,wasserweik wassersysteme,germany,,2011.0,,,doll_0.004200000000000001 b,,['technology'],,
+105266,winpak ltd,canada,"100 saulteaux cres, winnipeg, manitoba, r3j3t3",,2563.0,doll_0.2 b,doll_0.1 b,,['paper and packaging'],,
+144551,wuhan department store group,china,"no. 690, jiefang avenue, jianghan district, wuhan, hubei, 430022",,,doll_0.13 b,doll_0.11000000000000001 b,0.0,"['consumer cyclical', 'retail', 'super markets', 'department stores']",not found,
+129029,wns (holdings),india,"gate 4, godrej & boyce complex, pirojshanagar, vikroli(w), mumbai, 400079",,1941.0,doll_0.00428 b,doll_0.11000000000000001 b,doll_0.002 b,"['industries', 'business services']",not found,
+105493,wafa assurance sa,morocco,"1, bd abdelmoumen, casablanca, 20100",,,doll_0.12 b,doll_0.11000000000000001 b,,['financial services'],,
+105560,wilson bayly holmes-ovcon ltd,south africa,"53 andries street, wynberg, sandton, 2090",,,doll_0.3376 b,doll_0.12 b,,['construction'],mr. wolfgang p. neff b.sc.,
+105697,west china cement ltd,china,"aerospace industrial base, no. 336 4th shenzhou road, chang'an district, xi'an, shaanxi, 710075",,7299.0,doll_0.6889 b,doll_0.12 b,,['construction'],,
+105736,wixcom ltd,israel,"40 namal, tel aviv-yafo, 6701101",,4789.0,doll_0.47000000000000003 b,doll_0.13 b,,['technology and communications'],,
+105837,w p carey inc,united states,"one manhattan west, 395 9th avenue, 58th floor, new york, 1001",,,doll_1.7100000000000002 b,doll_0.13 b,,['construction'],,
+106114,whiting holdings llc,united states,"1700 lincoln street, 1700 broadway, suite 2300, denver, colorado, 80290",,,doll_0.27 b,doll_0.15 b,,['energy and utilities'],,
+106137,welbilt inc,united states,"2227 welbilt blvd, new port richey, florida, 34655-5130",,4800.0,doll_0.33999999999999997 b,doll_0.15 b,,['industrial goods and machinery'],,
+136320,wuxi biologics (cayman),china,"no. 108, meiliang road, mashan, wuxi, jiangsu",,5544.0,doll_4.363 b,doll_0.001617 b,doll_0.532 b,"['healthcare', 'healthcare service', 'technology', 'biopharmaceutical', 'biotechnology', 'healthcare products']",ge li(non-executive chairman),
+145898,wabash national corporation,united states,"3900 mccarty lane, lafayette, indiana, 47905",,6200.0,doll_0.12 b,doll_0.18 b,doll_0.001 b,['automotive'],,
+106638,wangfujing group co ltd,china,"no.253 wangfujing avenue, beijing, 100006",,16138.0,doll_0.51 b,doll_0.2 b,,['retailing'],,
+150564,weifu high-technology group,china,"no.5 huashan road, xinwu district, wuxi, jiangsu, 214028",,5389.0,doll_0.26 b,doll_0.001991 b,doll_0.375 b,"['consumer cyclical', 'automobile parts', 'automobile']",not found,
+106886,wates group ltd,united kingdom,"wates house, station approach, leatherhead, surrey , kt227sw",,1524.0,0,doll_0.22000000000000003 b,,['construction'],,
+107019,woodward inc,united states,"1081 woodward way, fort collins, colorado, 80524",,7200.0,doll_0.63 b,doll_0.24 b,,['aerospace and defense'],,
+107104,weiqiao textile co ltd,china,"1 weifang road, zouping economic development zone, binzhou, shandong , 256200",,40000.0,doll_0.2445 b,doll_0.25 b,,['consumer packaged goods'],,
+107282,waters corp,united states,"34 maple st, milford, massachusetts, 01757-3604",,7800.0,doll_1.95 b,doll_0.27999999999999997 b,,['medical equipment'],,
+152077,wallenius wilhelmsen asa,norway,"strandveien 20, lysaker, 1366",,,doll_0.00165 b,doll_0.003884 b,doll_0.133 b,"['industries', 'logistics']",not found,
+108341,workday inc,united states,"6110 stoneridge mall road, pleasanton, california, 94588",,17522.0,doll_4.220000000000001 b,doll_0.51 b,,['technology and communications'],,
+108491,wartsila corp,finland,"hiililaiturinkuja 2, helsinki, 00180",,17585.0,doll_0.5700000000000001 b,doll_0.5599999999999999 b,,['industrial goods and machinery'],,
+108508,windstream holdings inc,united states,"4001 n rodney parham rd, little rock, arkansas, 72212-2459",,11945.0,0,doll_0.5700000000000001 b,,['technology and communications'],,
+108580,western mining co ltd,china,"no.52 wusi street, xining, qinghai, 810001",,5851.0,doll_0.4 b,doll_0.6 b,,['metals and mining'],,
+108807,woodside energy group ltd,australia,"mia yellagonga, 11 mount street, perth, 6000",,3684.0,doll_4.91 b,doll_0.7 b,,['energy and utilities'],,
+109010,williams sonoma inc,united states,"3250 van ness ave, san francisco, california, 94109",,12200.0,doll_0.8300000000000001 b,doll_0.82 b,,['retailing'],,
+109247,wuliangye yibin co ltd,china,"no. 150, minjiang west road, cuiping district, yibin, sichuan, 644007",,25803.0,doll_11.8 b,doll_1.03 b,,['consumer packaged goods'],,
+109289,wipro ltd,india,"doddakannelli, sarjapur road, bangalore, karnataka, 560035",,259179.0,doll_2.7 b,doll_1.0699999999999998 b,,['technology and communications'],,
+109296,wegmans food markets inc,united states,"p.o. box 30844, 1500 brooks avenue, rochester, new york, 14603",,52000.0,0,doll_1.08 b,,['retailing'],,
+158179,wellcare health plans,united states,"p.o. box 31370, tampa, florida, 33631",,14000.0,0,doll_2.04 b,0.0,"['healthcare', 'healthcare service', 'healthcare products']",not found,
+109948,whirlpool corp,united states,"whirlpool ctr 2000 m 63, benton harbor, michigan, 49022-2692",,69000.0,doll_0.82 b,doll_2.2 b,,['consumer packaged goods'],,
+110088,wesfarmers ltd,australia,"brookfield place tower 2, level 14 123 street georges terrace, perth, 6000",,120000.0,doll_3.9200000000000004 b,doll_2.77 b,,['retailing'],,
+110444,wells fargo & co,united states,"420 montgomery st, san francisco, california, 94104-1207",,243674.0,doll_16.53 b,doll_8.24 b,,['financial services'],,
+114141,wr finances ltd.,,,,,,,,,,
+114144,w i finances limited,,,,,,,,,,
+114146,wealth bridge finances limited,,,,,,,,,,
+114221,wingate finances limited,,,,,,,,,,
+114229,whitlock finances limited,,,,,,,,,,
+114231,whitebeam finances ltd,,,,,,,,,,
+114261,weston finances limited,,,,,,,,,,
+114287,wisemoney.com limited,,,,,,,,,,
+123818,whirlpool emea spa,italy,strada provinciale arceviese 139/a,,,,,,['manufacturing'],,fabriano (ca' maiano )
+119160,waterfall italia spa,italy,viale giosue\' carducci 48,,,,,,"['finance, insurance, and real estate']",,bologna
+119407,wuerth srl,italy,"via stazione 51, egna, 39044, bolzano, italy",1963.0,,,,,['wholesale trade'],,
+119652,"wal-mart stores east, lp",united states,702 sw 8th st,,,,,,,,bentonville
+119708,"walt disney parks and resorts u.s., inc.",united states,1375 buena vista dr fl 4,,,,,,,,lake buena vista
+119824,"waste management of illinois, inc.",united states,700 e ste 400 butterfield rd,,,,,,,,lombard
+119836,warner bros. distributing inc.,united states,4000 warner blvd,,,,,,,,burbank
+119837,wmg global ventures limited,united kingdom,13 bramley road,,,,,,,,london
+119840,warner bros. enterprises llc,united states,4000 warner blvd,,,,,,,,burbank
+119844,warner bros. records inc.,united states,777 s santa fe ave,,,,,,,,los angeles
+119848,"warner bros. (transatlantic), inc.",united states,4000 warner blvd,,,,,,,,burbank
+119852,warner bros. consumer products inc.,united states,4001 w olive ave,,,,,,,,burbank
+119856,warner bros. technical operations inc.,united states,4000 warner blvd,,,,,,,,burbank
+119868,"walt disney company, the",united states,500 s buena vista st,,,,,,,,burbank
+119930,weglobal srl,italy,via bisceglie 76,,,,,,,,milano (c/o regus )
+119977,watchtower security solutions united kingdom limited,united kingdom,82 st. john street,,,,,,,,london
+119996,windway capital corp.,united states,630 riverfront dr ste 200,,,,,,,,sheboygan
+120030,weg automation europe srl,italy,via giosue' carducci 24,,,,,,,,gerenzano
+120072,wisconsin bank & trust,united states,1717 10th st,,,,,,,,monroe
+120168,w.e.c. lines uk limited,united kingdom,"unit 1 orwell house, ferry lane",,,,,,,,felixstowe
+120240,wmh holdings limited,united kingdom,impact handling gainsborough business park,,,,,,,,nottingham
+120362,"world wide technology, llc",united states,1 world wide way,,,,,,,,saint louis
+120440,"wrike, inc.",united states,70 n 2nd st,,,,,,,,san jose
+120498,womad limited,united kingdom,"mill la, box",,,,,,,,corsham
+120507,wood group engineering & operations support limited,united kingdom,sir ian wood house hareness road,,,,,,,,aberdeen
+120593,"welocalize, inc.",united states,15 w 37th st fl 4,,,,,,,,new york
+120625,wind tre spa,italy,largo metropolitana 5,,,,,,,,rho
+123170,walt disney music company,united states,500 s buena vista,,,,,,,,burbank
+120650,"walt disney imagineering research & development, inc.",united states,1401 flower st,,,,,,,,glendale
+120662,"wall street systems delaware, inc.",united states,1345 aven of the americas 49th fl,,,,,,,,new york
+123624,wood italiana srl,italy,via sebastiano caboto 15,,,,,,,,corsico
+120818,warner/chappell music inc.,united states,75 rockefeller plz bsmt 1,,,,,,,,new york
+123700,we are social ltd,united kingdom,alphabeta 14-18 finsbury square,,,,,,,,london
+120952,whirlpool italia srl,italy,via carlo pisacane 1,,,,,,,,pero
+123824,whirlpool management emea srl,italy,via carlo pisacane 1,,,,,,,,pero
+123884,withsecure srl,italy,via vittor pisani 15,,,,,,,,milano
+123979,west one music group france limited,united kingdom,"first floor jebsen house, 53-55-61 high street",,,,,,,,ruislip
+121183,"world bank group, the",united states,1818 h st nw,,,,,,,,washington
+124088,wateralia spa,italy,piazza fontana 6,,,,,,,,milano
+124069,walker limited,united kingdom,"s4c building parc ty glas, llanishen",,,,,,,,cardiff
+121336,wework international limited,united kingdom,3rd floor 207 regent street,,,,,,,,london
+121398,"william morris endeavor entertainment, llc",united states,9601 wilshire blvd,,,,,,,,beverly hills
+121401,"wme img, llc",united states,9601 wilshire blvd,,,,,,,,beverly hills
+121474,wine lister limited,united kingdom,douglas houghton house 231 vauxhall bridge road,,,,,,,,london
+121504,wood group uk limited,united kingdom,15 justice mill lane,,,,,,,,aberdeen
+121511,witor's spa,italy,via levata 2,,,,,,,,corte de' frati (aspice )
+121543,wolters kluwer tax and accounting limited,united kingdom,145 london road,,,,,,,,kingston upon thames
+123577,"waste management national services, inc.",united states,800 capitol st ste 3000,,,,,,,,houston
+121687,wren sterling financial planning limited,united kingdom,13-19 derby road,,,,,,,,nottingham
+121720,wba (it services) international limited,united kingdom,"2 the heights, brooklands weybridge",,,,,,,,weybridge
+121731,wireless logic limited,united kingdom,"horizon honey lane, hurley",,,,,,,,maidenhead
+121778,"welsh, carson, anderson & stowe vi, l.p.",united states,599 lexington ave ste 1800,,,,,,,,new york
+121812,watches of switzerland operations limited,united kingdom,"aurum house 2 elland road, braunstone",,,,,,,,leicester
+123825,western washington university,united states,516 high st,,,,,,,,bellingham
+121953,wavin limited,united kingdom,wavin edlington lane edlington,,,,,,,,doncaster
+122294,"wood group usa, inc.",united states,17325 park row,,,,,,,,houston
+122322,west burton property limited,united kingdom,90 whitfield street,,,,,,,,london
+122363,webmd health corp.,united states,395 hudson st fl 3,,,,,,,,new york
+122402,waymo llc,united states,1600 amphitheatre pkwy,,,,,,,,mountain view
+122425,werther international spa,italy,via filippo brunelleschi 12,,,,,,,,reggio nell'emilia
+122439,warwick street (ksi) llp,united kingdom,6th floor 25 farringdon street,,,,,,,,london
+122447,wns north america inc.,united states,15 exchange pl ste 310,,,,,,,,jersey city
+122499,wcs services limited,united kingdom,lamport drive,,,,,,,,daventry
+122509,western union payment services ireland limited,italy,via barberini 68,,,,,,,,roma
+122510,"white house office, the",united states,1600 pennsylvania ave nw,,,,,,,,washington
+122528,white & case llp,united states,1221 ave of the americas ste 41-50,,,,,,,,new york
+122569,wekiwi srl,italy,via de' carracci 69/2,,,,,,,,bologna
+122688,wp safety-kleen limited,united kingdom,profile west 950 great west road,,,,,,,,brentford
+122700,wp midco1 limited,united kingdom,profile west 950 great west road,,,,,,,,brentford
+124229,webalo careers,,,2005.0,,,,,['computer software'],,
+124296,workfusion careers,,,2001.0,,,,,['computer software'],,
+124286,workreduce careers,,,2015.0,,,,,['computer software'],,
+124297,wideorbit careers,,,2002.0,,,,,['information technology & services'],,
+124366,wise ltd. careers,,,2011.0,,,,,['financial services'],,
+124435,webby central careers,,,2013.0,,,,,['information technology & services'],,
+124459,waltham clinic careers,,,2019.0,,,,,['hospital & health care'],,
+124462,whova careers,,,2012.0,,,,,['computer software'],,
+124503,wunderkind careers,,,2010.0,,,,,['marketing & advertising'],,
+124506,western dental & orthodontics careers,,,1903.0,,,,,['hospital & health care'],,
+124571,weride.ai careers,,,2017.0,,,,,['computer software'],,
+124699,wacom technology corp. careers,,,1983.0,,,,,['computer hardware'],,
+124718,weight watchers careers,,,1963.0,,,,,"['health, wellness & fitness']",,
+124744,wyzant careers,,,2005.0,,,,,['internet'],,
+124828,whip media group careers,,,2014.0,,,,,['entertainment'],,
+124837,wargaming careers,,,1998.0,,,,,['computer games'],,
+124944,willing careers,,,2015.0,,,,,['internet'],,
+124949,wardbrew careers,,,2012.0,,,,,['information technology & services'],,
+124998,wiley careers,,,1807.0,,,,,['newspapers & publishing'],,
+125152,warner bros. entertainment careers,,,1923.0,,,,,['broadcast & online media'],,
+136133,whatsapp,united states,,,,0,,0.0,"['technology', 'communication services']",not found,
+157506,wal-mart de mexico,mexico,,,239000.0,doll_0.0624 b,doll_0.03706 b,doll_0.002222 b,"['consumer defensive', 'retail', 'super markets', 'hypermarkets']",guilherme loureiro,
+157957,willis towers watson public company,uk,,,46600.0,doll_2.8850000000000002 b,doll_0.008997999999999999 b,doll_0.422 b,"['financial services', 'insurance']",carl hess,
+136643,webank,china,,,,0,,0.0,"['technology', 'financial services', 'banking services', 'artificial intelligence', 'big data', 'cloud services']",david ku,
+147648,wantai biological pharmacy,china,,,,doll_0.01984 b,doll_0.903 b,doll_0.317 b,"['healthcare', 'biotechnology']",not found,
+126593,wish,united states,,,,doll_1.383 b,,0.0,"['ecommerce', 'technology', 'internet or mobile app based business']",not found,
+126720,wise plc,uk,,,2243.0,doll_0.013130000000000001 b,doll_0.658 b,doll_0.038 b,"['digital payment solution services', 'software and it infrastructure', 'software and it', 'technology']",not found,
+148485,wuhu sanqi interactive entertainment network technology group,china,,,,doll_0.00624 b,doll_0.0023599999999999997 b,doll_0.418 b,"['gaming', 'software and it', 'technology', 'entertainment', 'automobile', 'automobile parts']",not found,
+127334,wabco holdings,belgium,,,,doll_2.081 b,,0.0,"['consumer cyclical', 'automobile', 'capital goods']",not found,
+138021,willscot corporation,united states,,,4700.0,doll_0.00878 b,doll_0.0018939999999999999 b,doll_0.16 b,"['industries', 'construction materials', 'furniture', 'retail', 'rent / lease services']",not found,
+159458,wuhan guide infrared,china,,,,doll_0.833 b,doll_0.549 b,doll_0.174 b,"['technology', 'technology hardware and instruments']",not found,
+138276,western union company,united states,,,10500.0,doll_0.00764 b,doll_0.00507 b,doll_0.805 b,"['financial services', 'business services']",not found,
+138534,wiwynn corporation,taiwan,,,,doll_0.00609 b,doll_0.006605000000000001 b,doll_0.297 b,"['technology', 'computers hardware', 'technology hardware and instruments', 'cloud services', 'data centers']",not found,
+149384,wintime energy,china,,,,doll_0.00617 b,doll_0.003941 b,doll_0.155 b,"['energy', 'coal mining', 'mining']",not found,
+160096,westone information industry,china,,,,doll_0.618 b,doll_0.406 b,doll_0.035 b,"['industries', 'security systems and solutions', 'networking products / solutions', 'technology']",not found,
+138938,wallenstam ab (publ),sweden,,,,doll_0.00588 b,doll_0.246 b,doll_0.5 b,['real estate'],not found,
+128289,western securities,china,,,,doll_0.00557 b,doll_0.981 b,doll_0.205 b,"['financial services', 'stock markets, trading, capital markets', 'securities', 'brokerage services']",not found,
+139074,wuhan zhongshang commercial group,china,,,,doll_0.00533 b,doll_0.061 b,doll_0.007 b,"['consumer cyclical', 'retail', 'super markets']",not found,
+160455,wanda film holding,china,,,,doll_0.532 b,doll_0.001818 b,doll_0.015 b,"['communication services', 'entertainment']",not found,
+171457,wendy's company,united states,,,14000.0,doll_0.00531 b,doll_0.001896 b,doll_0.2 b,"['consumer cyclical', 'restaurants', 'food service', 'consumer services']",not found,
+139136,wpx energy,united states,,,,doll_0.00457 b,,0.0,"['energy', 'oil and gas']",not found,
+160548,woowa brothers,south korea,,,,doll_3.19 b,,0.0,['software and it'],not found,
+128609,wangfujing group,china,,,11634.0,doll_0.0049900000000000005 b,doll_0.001856 b,doll_0.195 b,"['consumer cyclical', 'retail']",not found,
+184578,wingstop,united states,,1994.0,,doll_0.00511 b,doll_0.282 b,doll_0.042 b,"['consumer cyclical', 'restaurants', 'consumer services']",not found,"addison, texas"
+150248,wus printed circuit (kunshan),china,,,,doll_0.00452 b,doll_0.0010789999999999999 b,doll_0.155 b,"['technology', 'electrical products', 'electronics', 'capital goods', 'pcb']",not found,
+150309,wyndham destinations,united states,,,8000.0,doll_0.00385 b,doll_0.0031869999999999997 b,doll_0.313 b,"['consumer cyclical', 'hotels', 'consumer services']",not found,
+150988,wsfs financial corporation,united states,,,1839.0,doll_0.362 b,doll_0.619 b,doll_0.271 b,"['financial services', 'banking services']",not found,
+172801,"wuxi nce power co., ltd.",china,,,,doll_0.00346 b,doll_0.22 b,doll_0.06 b,"['technology', 'semiconductors']",not found,
+129829,welbilt,united states,,,4800.0,doll_0.0033900000000000002 b,doll_0.001546 b,doll_0.07 b,"['industries', 'technology', 'machinery manufacturing', 'manufacturing', 'industry machinery']",not found,
+151264,weingarten realty investors,united states,,,,doll_0.00278 b,doll_0.434 b,doll_0.192 b,"['real estate', 'consumer services', 'retail', 'property investments']",not found,
+151427,wanxiang qianchao,china,,,8245.0,doll_0.00317 b,doll_0.002084 b,doll_0.1 b,"['consumer cyclical', 'automobile', 'automobile parts']",not found,
+140804,weber inc.,united states,,,,doll_0.00312 b,doll_0.001982 b,doll_0.047 b,"['kitchen appliances', 'home appliances', 'home improvement', 'home furnishing']",not found,
+140896,worldwide healthcare trust,uk,,,,doll_0.305 b,doll_-0.155 b,doll_-0.166 b,"['investments', 'asset management']",not found,
+130242,wisconsin electric power company pfd 3.60_perc,not found,,,,doll_0.0030299999999999997 b,,0.0,"['utilities', 'electric utilities']",not found,
+151648,wistron corporation,taiwan,,,80000.0,doll_0.00299 b,doll_0.028487 b,doll_0.346 b,"['technology', 'computers hardware', 'communications equipment']",not found,
+151917,wuhan jingce electronic group,china,,,,doll_0.27799999999999997 b,doll_0.35 b,doll_0.028 b,"['technology', 'technology hardware and instruments']",not found,
+173601,whiting petroleum corporation,united states,,,,doll_0.27799999999999997 b,doll_0.0015329999999999999 b,doll_0.427 b,"['energy', 'oil and gas']",not found,
+152324,wefox group,germany,,,,doll_5.508 b,,0.0,"['artificial intelligence', 'technology', 'software and it']",not found,
+174021,wasu media holding,china,,,,doll_0.246 b,doll_0.001234 b,doll_0.132 b,"['communication services', 'entertainment']",not found,
+152361,"willfar information technology co., ltd.",china,,,,doll_0.00177 b,,0.0,"['technology', 'software and it']",not found,
+152485,washington federal,united states,,,,doll_0.00235 b,,doll_0.183 b,"['financial services', 'banking services']",not found,
+152484,wonders information,china,,,,doll_0.00235 b,doll_0.511 b,doll_0.01 b,"['technology', 'software and it']",not found,
+141824,weimob,china,,,,doll_0.233 b,doll_0.391 b,doll_-0.114 b,"['technology', 'software and it']",not found,
+163488,wisdom marine lines,taiwan,,,,doll_0.00216 b,,0.0,"['industries', 'shipping']",not found,
+142298,welspun india,india,,,,doll_0.0017900000000000001 b,doll_0.001045 b,doll_0.075 b,"['consumer cyclical', 'apparels and accessories', 'textile']",not found,
+163749,waddell & reed financial,united states,,,1162.0,doll_0.00159 b,,0.0,"['financial services', 'investments', 'asset management']",not found,
+153135,winall hi-tech seed,china,,,,doll_0.002 b,doll_0.367 b,doll_0.025 b,"['consumer defensive', 'farming / seeds / milling', 'agriculture related', 'scientific research products']",not found,
+174944,wuxi chipown micro-electronics limited,china,,,,doll_0.00232 b,,0.0,"['technology', 'semiconductors']",not found,
+153605,wright investors' service holdings,united states,,,,doll_0.00177 b,doll_0.0 b,doll_-0.001 b,"['financial services', 'shell company', 'retail', 'ecommerce']",not found,
+164544,wuxi rural commercial bank,china,,,,doll_0.16899999999999998 b,,0.0,"['financial services', 'banking services']",not found,
+154112,wuxi boton technology,china,,,,doll_0.0010400000000000001 b,,0.0,"['industries', 'industry machinery']",not found,
+175809,wesco aircraft holdings,united states,,,,doll_7.216 b,,0.0,"['industries', 'retail', 'capital goods']",not found,
+154254,wafer works corporation,taiwan,,,,doll_0.00131 b,,0.0,"['technology', 'semiconductors']",not found,
+154276,wha corporation public company,thailand,,,,doll_0.00148 b,doll_0.288 b,doll_0.072 b,['real estate'],not found,
+143682,walkme ltd.,israel,,,,doll_0.00229 b,,0.0,['software and it'],not found,
+154497,wam capital,australia,,,,doll_0.145 b,doll_-0.281 b,doll_-0.203 b,"['financial services', 'asset management', 'investments']",not found,
+143813,webjet,australia,,,,doll_0.145 b,doll_0.096 b,doll_-0.059 b,"['consumer cyclical', 'consumer durables', 'travel and transport']",not found,
+154793,wifi master key,china,,,,doll_7.6930000000000005 b,,0.0,,not found,
+154792,wecash,china,,,,doll_7.6930000000000005 b,,0.0,"['artificial intelligence', 'technology', 'software and it']",not found,
+154817,warom technology company,china,,,,doll_0.00126 b,,0.0,"['industries', 'lighting products', 'electrical products']",not found,
+176608,wuhan easy diagnosis biomedicine,china,,,,doll_0.00102 b,,0.0,"['healthcare', 'medical equipment']",not found,
+176611,wedge industrial,china,,,,doll_0.0012 b,,0.0,"['utilities', 'electric utilities']",not found,
+176740,western metal materials,china,,,,doll_0.00134 b,,0.0,"['basic materials', 'mining']",not found,
+133760,wuxi huaguang boiler,china,,,,doll_0.133 b,,0.0,"['industries', 'industry machinery']",not found,
+155173,wangneng environment,china,,,,doll_0.00114 b,,0.0,"['consumer cyclical', 'waste and trash management']",not found,
+144672,wanbangde new building materials,china,,,,doll_0.00099 b,,0.0,"['basic materials', 'aluminum']",not found,
+155395,wacom,japan,,,,doll_0.00103 b,doll_0.794 b,doll_0.08 b,"['technology', 'computers hardware']",not found,
+144834,western region gold,china,,,,doll_0.0011200000000000001 b,,0.0,"['basic materials', 'gold mining', 'mining']",not found,
+166241,wilh. wilhelmsen holding asa,norway,,,,doll_0.122 b,doll_0.873 b,doll_0.072 b,"['industries', 'shipping']",not found,
+155567,wuhan p&s information technology,china,,,,doll_0.00101 b,,0.0,['technology'],not found,
+155747,wpg (shanghai) smart water public,china,,,,doll_0.00107 b,,0.0,"['industries', 'industry machinery']",not found,
+155912,"winbo-dongjian automotive technology co., ltd.",china,,,,doll_0.00114 b,,0.0,"['consumer cyclical', 'automobile parts']",not found,
+134560,"wuxi dk electronic materials co.,ltd.",china,,,,doll_0.11299999999999999 b,,0.0,"['industries', 'electrical products']",not found,
+155936,wuhan fingu electronic technology,china,,,,doll_0.00113 b,,0.0,"['technology', 'communications equipment']",not found,
+166658,westlife development,india,,,,doll_0.0011200000000000001 b,doll_0.195 b,doll_0.0 b,"['consumer cyclical', 'restaurants']",not found,
+177665,wise talent information technology co. ltd,china,,,,doll_0.0011200000000000001 b,,0.0,"['industries', 'outsourcing and staffing']",not found,
+156073,wenzhou yihua connector,china,,,,doll_0.11000000000000001 b,,0.0,"['technology', 'electronics', 'capital goods']",not found,
+177766,wondershare technology group,china,,,,doll_0.11000000000000001 b,,0.0,"['technology', 'software and it']",not found,
+156100,wuhan hiteck biological pharma,china,,,,doll_0.11000000000000001 b,,0.0,"['healthcare', 'pharmaceutical']",not found,
+177798,wam leaders,australia,,,,doll_0.0011200000000000001 b,doll_0.063 b,doll_0.045 b,"['financial services', 'asset management']",not found,
+156193,wiit,italy,,,,doll_0.10800000000000001 b,doll_0.077 b,doll_-0.001 b,"['technology', 'software and it infrastructure']",not found,
+156256,wheels up experience inc.,united states,,,2171.0,doll_0.10600000000000001 b,doll_0.001194 b,doll_-0.19 b,"['industries', 'airports operating']",not found,
+178178,wuxi xinje electric,china,,,,doll_0.00102 b,doll_0.189 b,doll_0.044 b,"['technology', 'electronics', 'capital goods']",not found,
+156512,w.t.b. financial corporation,united states,,,,doll_0.00102 b,,0.0,"['financial services', 'banking services']",not found,
+156526,wuxi best precision machinery,china,,,,doll_0.00064 b,,0.0,"['industries', 'industry machinery']",not found,
+145855,weihai guangtai airport equipment,china,,,,doll_0.0011899999999999999 b,,0.0,"['industries', 'heavy machinery']",,
+146013,wenfeng great world chain development corporation,china,,,,doll_0.00086 b,,0.0,"['consumer cyclical', 'retail', 'department stores', 'super markets', 'home appliances']",,
+156816,watford holdings,bermuda,,,,doll_0.00069 b,,doll_0.065 b,"['financial services', 'insurance']",,
+135488,west china cement limited,china,,,,doll_0.0009 b,,0.0,"['construction materials', 'cement']",,
+156908,wuhan nusun landscape,china,,,,doll_0.951 b,,0.0,"['industries', 'construction']",,
+135672,wuhan tianyu information industry,china,,,,doll_0.0009 b,,0.0,"['industries', 'office equipment']",,
+183970,wallenius lines,,,1934.0,,,,,['marine transportation'],,stockholm
+183971,wasabröd,,,1919.0,,,,,['food products'],,skellefteå
+183972,wayne's coffee,,,1994.0,,,,,['restaurants & bars'],,stockholm
+183973,wesc,,,1999.0,,,,,['clothing & accessories'],,stockholm
+183974,wg film,,,1994.0,,,,,['broadcasting & entertainment'],,malmö
+178496,wm-data,,,1969.0,,,,,['software'],,stockholm
+183363,wieliczka salt mine,,,1252.0,,,,,['recreational services'],,wieliczka
+183261,wavin,,,1955.0,,,,,['building materials & fixtures'],,zwolle
+179000,we,,,1917.0,,,,,['apparel retailers'],,utrecht
+179001,wercker,,,2011.0,,,,,['software'],,amsterdam
+183132,west air luxembourg,,,2002.0,,,,,['delivery services'],,bertrange
+179532,webuild,,,1959.0,,,,,['heavy construction'],,milan
+179533,wilier triestina,,,1906.0,,,,,['recreational products'],,rossano veneto
+179664,wrightbus,,,1946.0,,,,,['commercial vehicles & trucks'],,ballymena
+181808,waterman,,,1884.0,,,,,['nondurable household products'],,paris
+180340,welltec,,,1994.0,,,,,['oil equipment & services'],,allerød
+180341,widex,,,1956.0,,,,,['medical equipment'],,lynge
+180342,william demant,,,1904.0,,,,,['health care providers'],,ledøje-smørum
+180400,walter aircraft engines,,,1911.0,,,,,['industrial machinery'],,prague
+181328,wargaming,,,1998.0,,,,,['software'],,nicosia
+180776,walloon sme finance and guarantee company,,,2002.0,,,,,['specialty finance'],,liège
+181645,woikoski,,,1882.0,,,,,['basic resources'],,voikoski[8]
+182132,wago kontakttechnik,,,1951.0,,,,,['electrical components & equipment'],,minden
+182133,warsteiner,,,1753.0,,,,,['brewers'],,warstein
+182134,wella,,,1880.0,,,,,['personal products'],,darmstadt
+182135,wera werk hermann werner,,,1936.0,,,,,['durable household products'],,wuppertal
+182136,weser flugzeugbau,,,1934.0,,,,,['aerospace'],,bremen
+182137,wilkhahn,,,1907.0,,,,,['furnishings'],,bad münder
+182138,wintershall,,,1894.0,,,,,['exploration & production'],,kassel
+182140,wittenstein,,,1949.0,,,,,['industrial engineering'],,igersheim
+182141,wolff & müller,,,1936.0,,,,,['heavy construction'],,stuttgart
+182142,wortmann,,,1986.0,,,,,['computer hardware'],,hüllhorst
+182143,würth,,,1945.0,,,,,['general industrials'],,künzelsau
+182144,wüsthof,,,1814.0,,,,,['durable household products'],,solingen
+182400,watt+volt,,,2011.0,,,,,['conventional electricity'],,athens
+182401,wind hellas,,,1992.0,,,,,['fixed line telecom.'],,athens
+184572,want want,,,1884.0,,,,,,,heidenheim an der brenz
+184576,wawa (company),,,,,,,,,,team disney building
+4614,wicked ride adventures,,,2014.0,,,,,['internet'],,
+5517,wika instruments india,,,1997.0,,,,,['industrial machinery'],,
+7359,west bengal power development corporation,,,1985.0,,,,,['power'],,
+7388,west bengal power development corporation,,,1985.0,,,,,['power'],,
+7706,west coast pharmaceuticals,,,1965.0,,,,,['pharma'],,
+75464,way 2 vat ltd,,,,,0,,,,mr. amos  simantov,
+77436,willy-food investments ltd,,,,,doll_0.5418999999999999 b,,,,not found,
+78090,wealthy way group ltd,,,,,doll_0.9796 b,,,,mr. wai ho  lo,
+82448,ways technical corp ltd,,,,,doll_0.41500000000000004 b,,,,not found,
+83062,"workman co.,ltd.",,,,,doll_41.629000000000005 b,,,,not found,
+86135,wix.com ltd.,,,,5000.0,doll_0.567 b,,,,mr. avishai  abrahami,
+86768,wulff-yhtiöt oyj,,,,,doll_0.0292 b,,,,ms. elina  pienimã¤ki m.sc.,
+89513,well graded engineering public company ltd,,,,,doll_0.11200000000000002 b,,,,not found,
+120179,"wonderful company llc, the",united states,11444 w olympic blvd,,,,,,,,los angeles

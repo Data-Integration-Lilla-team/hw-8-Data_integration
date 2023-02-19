@@ -1,820 +1,1063 @@
-ID,name,country,headquarters,address,founded,employees,market_cap,revenue,profit,industry,sector,categories,ceo;
-47,udaan,,,,2016,,,,,internet,,,;
-14432,ultratech cement,india,,,,,,,,,,,;
-68,ujjivan small finance bank,,,,2017,,,,,banking,,,;
-134,ust,,,,2001,,,,,it services & consulting,,,;
-62336,united fire group,united states,,,,,doll_0.75 b,,,,,,;
-285,united phosphorus,,,,1969,,,,,agro chemicals,,,;
-332,uno minda,,,,1958,,,,,auto components,,,;
-464,uflex,,,,1985,,,,,packaging,,,;
-504,usv,,,,1961,,,,,pharma,,,;
-520,unacademy,india,,,2015,,,,,edtech,,,;
-32571,unisys,united states,,,,,,,,,,,;
-669,unichem laboratories,,,,1944,,,,,pharma,,,;
-13056,upgrad,india,,,,,,,,edtech,,,;
-147393,unicharm,japan,,,,,doll_22.08 b,,,,,,;
-903,united alliance technology,,,,0,,,,,it services & consulting,,,;
-35842,united rentals,united states,,,,,,,,,,,;
-963,ubs,switzerland,,,,,doll_56.17 b,,,,,,;
-12161,urban company,india,,,,,,,,e-commerce & direct-to-consumer,,,;
-27136,uber,united states,,,,,doll_60.27 b,,,,,,;
-1032,ugam solution,,,,2000,,,,,it services & consulting,,,;
-148769,united spirits,india,,,,,,,,,,,;
-1144,uttam value steels,,,,1974,,,,,iron & steel,,,;
-1230,ups logistics,,,,1907,,,,,logistics,,,;
-1308,united colors of benetton info,,,,1992,,,,,retail,,,;
-1478,updater services,,,,1985,,,,,facility management services,,,;
-1502,ukb electronics,,,,1996,,,,,electronics manufacturing,,,;
-1572,usha martin,,,,1961,,,,,iron & steel,,,;
-1624,ufaber,,,,2013,,,,,edtech,,,;
-1669,unitedlex,,,,2006,,,,,legal,,,;
-1675,utility powertech,,,,1995,,,,,power,,,;
-1744,unimoni,,,,2006,,,,,fintech,,,;
-1783,uppcl,,,,1999,,,,,power,,,;
-1838,ucal fuel systems,,,,1985,,,,,auto components,,,;
-1853,universal sompo general insurance,,,,2007,,,,,insurance,,,;
-1991,udaan cargo & logistics,,,,2015,,,,,logistics,,,;
-2002,uplers,,,,2012,,,,,it services & consulting,,,;
-2184,urc construction,,,,1956,,,,,engineering & construction,,,;
-2373,unitech,,,,1971,,,,,real estate,,,;
-2821,uae exchange & financial services,,,,1980,,,,,fintech,,,;
-149598,ubisoft entertainment sa,france,,,,,,,,,,,;
-3131,ubs business solutions,,,,0,,,,,,,,;
-3198,urban ladder,,,,2012,,,,,retail,,,;
-3240,uniinfo telecom services,,,,2010,,,,,telecom,,,;
-3273,university of petroleum & energy studies,,,,2003,,,,,education & training,,,;
-155776,united airlines holdings,united states,,,,,doll_0.93 b,,,,,,;
-3319,uneecops technologies,,,,1995,,,,,it services & consulting,,,;
-3470,unibic foods,,,,2004,,,,,food processing,,,;
-29152,univar solutions,united states,,,,,,,,,,,;
-3556,unique identification authority of india,,,,2009,,,,,it services & consulting,,,;
-3736,unicef,,,,1946,,,,,non-profit,,,;
-7748,ugc supply chain solutions,,,,1999,,,,,logistics,,,;
-3887,ultimate kronos group,,,,1977,,,,,it services & consulting,,,;
-4160,unique plus,,,,,,,,,,,,;
-4009,uae exchange,,,,1995,,,,,fintech,,,;
-4101,unilog content solutions ( p),,,,1998,,,,,it services & consulting,,,;
-4492,unicorn infosolutions,,,,2002,,,,,retail,,,;
-4526,ujaas energy,,,,1979,,,,,power,,,;
-180481,university of liverpool,,nicosia,,1989,,,,,consumer services,education,,;
-4674,uds,,,,1985,,,,,facility management services,,,;
-4684,university of engineering and management,,,,2014,,,,,education & training,,,;
-4884,unitedhealthcare parekh insurance tpa,,,,1977,,,,,healthcare,,,;
-4921,ufo moviez,,,,2005,,,,,media & entertainment,,,;
-5053,unitile,,,,1994,,,,,building material,,,;
-5103,umlaut,,,,1996,,,,,management consulting,,,;
-5121,united nations development programme,,,,1965,,,,,non-profit,,,;
-62624,upwork,united states,,,,,doll_1.65 b,,,,,,;
-5247,urs scott wilson india,,,,1951,,,,,engineering & construction,,,;
-5419,uas international,,,,0,,,,,financial services,,,;
-5572,uniqlo,,,,0,,,,,retail,,,;
-5679,underwriters laboratories,,,,1894,,,,,financial services,,,;
-5726,unimark remedies,,,,1982,,,,,pharma,,,;
-5932,u.s. polo assn,,,,1890,,,,,retail,,,;
-5999,unistal systems,,,,1994,,,,,software product,,,;
-6194,umang dairies,,,,1994,,,,,fmcg,,,;
-6270,unity infraprojects,,,,1979,,,,,engineering & construction,,,;
-6257,uti technology services,,,,1993,,,,,it services & consulting,,,;
-12336,upstox,india,,,,,,,,fintech,,,;
-6520,ultimate flexipack,,,,1987,,,,,petrochemicals,,,;
-6494,urbanpro,,,,2011,,,,,edtech,,,;
-6528,urjanet energy solutions,,,,2010,,,,,it services & consulting,,,;
-6624,utility projects and services,,,,2006,,,,,engineering & construction,,,;
-6750,uni klinger,,,,1983,,,,,industrial machinery,,,;
-6769,ummeed housing finance,,,,2016,,,,,financial services,,,;
-6811,unison pharmaceuticals,,,,1981,,,,,pharma,,,;
-6926,uttam toyota,,,,2000,,,,,automobile,,,;
-6956,uti mutual fund,,,,1963,,,,,financial services,,,;
-38786,ufp technologies,united states,,,,,doll_0.89 b,,,,,,;
-7258,ultratech cement ltd- rmc div,,,,0,,,,,engineering & construction,,,;
-7426,ub engineering,,,,1963,,,,,engineering & construction,,,;
-7506,unitech power transmission,,,,1995,,,,,power,,,;
-7523,ust product engineering,,,,1996,,,,,it services & consulting,,,;
-7536,unicom infotel,,,,1996,,,,,telecom,,,;
-7587,ubs investment bank,,,,0,,,,,investment banking / venture capital / private equity,,,;
-7617,utsav fashion,,,,2000,,,,,internet,,,;
-7871,upman placements,,,,2002,,,,,recruitment,,,;
-7894,uttam sugar mills,,,,1993,,,,,food processing,,,;
-156540,us ecology,united states,,,,,,,,,,,;
-7987,united biotech,,,,1997,,,,,pharma,,,;
-8425,u k paints,,,,1919,,,,,building material,,,;
-8434,ubique systems,,,,2000,,,,,recruitment,,,;
-8530,utracon structural systems,,,,1998,,,,,engineering & construction,,,;
-29152,univar solutions,united states,,,,,,,,,,,;
-184545,universal precision screws,,,,,,,,,,,,;
-8906,u c s k m public school,,,,0,,,,,education & training,,,;
-8994,urbacon trading & contracting,,,,2011,,,,,engineering & construction,,,;
-9065,ujala credit co-operative society,,,,2012,,,,,financial services,,,;
-9211,uber eats,,,,2014,,,,,internet,,,;
-9242,unlistedguru,,,,2021,,,,,financial services,,,;
-9352,upl-2,,,,0,,,,,agro chemicals,,,;
-9388,udaan express,,,,0,,,,,,,,;
-9524,uniworld logistics,,,,2002,,,,,logistics,,,;
-180480,universal life,,,,1970,,,,,financials,life insurance,,;
-9487,umasons auto compo,,,,2000,,,,,auto components,,,;
-62336,united rentals,united states,,,,,,,,,,,;
-9631,ucertify,,,,2004,,,,,edtech,,,;
-9646,unitech plasto components,,,,2003,,,,,petrochemicals,,,;
-9721,uv infratech systems,,,,0,,,,,,,,;
-9790,universal construction machinery and equipment,,,,1974,,,,,industrial machinery,,,;
-11170,uãåsportsparadise(12252942),,,                        Tartu maakond Kambja vald ÃÅlenurme alevik Loopealse tn 11 61714                            ,,,,,,,,,;
-11266,uabsparrssbalticeestifiliaal(11478957),,,,,,,,,,,,;
-11268,uipsspaceoãå(16248245),,,                        VÃÂµru maakond VÃÂµru linn Koreli tn 28a-42 65607                            ,,,,,,,,,;
-11269,umeshspaceoãå(14489714),,,                        Tartu maakond Tartu linn Tartu linn Narva mnt 27-517 51009                            ,,,,,,,,,;
-11271,upspacedigitaloãå(16623016),,,                        Tartu maakond Tartu linn Tartu linn Ropka tn 15a 50111                            ,,,,,,,,,;
-11272,upspawnoãå(16046688),,,                        Harju maakond Tallinn LasnamÃÂ¤e linnaosa Sepapaja tn 6 15551                            ,,,,,,,,,;
-11273,urbanspaoãå(12531228),,,                        Harju maakond Viimsi vald Haabneeme alevik Heki tee 6-111 74001                            ,,,,,,,,,;
-11274,urmasuuspalu(12867543),,,,,,,,,,,,;
-11275,urspuudenmaanrakennus-jasaneerauspalveluoãå(12436211),,,                        MÃÂµisa tn 24-5b Piira village Vinni rural municipality LÃÂ¤ÃÂ¤ne-Viru county 46607                            ,,,,,,,,,;
-11276,ustiginvestoãå(12136503),,,,,,,,,,,,;
-11277,uudenmaansisustus-japuhdistuspalvelutoãå(12441778),,,,,,,,,,,,;
-13754,unstoppable domains,united states,,,,,,,,internet software & services,,,;
-67040,us foods,united states,,,,,,,,,,,;
-11760,unit,united states,,,,,,,,fintech,,,;
-11857,unisound,china,,,,,,,,,,,;
-13220,upside,united states,,,,,,,,mobile & telecommunications,,,;
-11959,uplight,united states,,,,,,,,other,,,;
-12033,unite us,united states,,,,,,,,health,,,;
-13105,uniswap,united states,,,,,,,,fintech,,,;
-13009,unqork,united states,,,,,,,,fintech,,,;
-12194,uptake,united states,,,,,,,,artificial intelligence,,,;
-12216,uniphore,united states,,,,,,,,artificial intelligence,,,;
-12928,uala,argentina,,,,,,,,fintech,,,;
-12234,unico,brazil,,,,,,,,artificial intelligence,,,;
-12411,ubtech robotics,china,,,,,,,,hardware,,,;
-12474,upgrade,united states,,,2009,,,,,fintech,,,;
-93121,universal music group,netherlands,,,,,doll_46.2 b,,,,,,;
-14469,udr apartments,united states,,,,,doll_21.91 b,,,,,,;
-14562,upm-kymmene,finland,,,,,,,,,,,;
-47393,uni-president enterprises,taiwan,,,,,doll_12.74 b,,,,,,;
-45568,u.s. cellular,united states,,,,,doll_1.73 b,,,,,,;
-25347,u.s. xpress enterprises,united states,,,,,doll_0.11 b,,,,,,;
-25408,usd partners,united states,,,,,doll_0.11 b,,,,,,;
-54624,unifi,united states,,,,,doll_0.16 b,,,,,,;
-61424,ubm development,austria,,,,,doll_0.22 b,,,,,,;
-63552,uranium energy,united states,,,,,doll_0.25 b,,,,,,;
-61314,urban one,united states,,,,,doll_0.25 b,,,,,,;
-61090,utah medical products,united states,,,,,doll_0.32 b,,,,,,;
-60128,ufp technologies,united states,,,,,doll_0.89 b,,,,,,;
-38816,u.s. silica,united states,,,,,doll_0.94 b,,,,,,;
-45344,uni-select,canada,,,,,doll_1.26 b,,,,,,;
-18212,uponor,finland,,,,,doll_1.29 b,,,,,,;
-45409,utz brands,united states,,,,,doll_1.30 b,,,,,,;
-53128,universal corporation,united states,,,,,doll_22.08 b,,,,,,;
-30592,usa compression partners,united states,,,,,doll_2.04 b,,,,,,;
-62787,uniqa insurance group,austria,,,,,doll_2.57 b,,,,,,;
-37379,ultrapar participacoes,brazil,,,,,doll_2.70 b,,,,,,;
-67266,unifirst,united states,,,,,doll_3.58 b,,,,,,;
-66181,unilever,,,,,148.012,doll_130.24 b,doll_58.20 b,doll_8.07 b,,,,;
-146598,union pacific corporation,united states,,,,,doll_184.19 b,,,,,,;
-28930,uwm holdings,united states,,,,,doll_6.27 b,,,,,,;
-50147,unimicron,taiwan,,,,,doll_6.20 b,,,,,,;
-58500,ultragenyx,united states,,,,,doll_3.05 b,,,,,,;
-151876,urban outfitters,united states,,,,,doll_2.58 b,,,,,,;
-184548,ubisoft,france,,,,,,,,,,,;
-20271,unite group (unite students),united-kingdom,,,,,doll_4.87 b,,,,,real-estate ,;
-20352,unicaja banco,spain,,,,,,,,,,,;
-20480,umb financial,united states,,,,,doll_4.19 b,,,,,,;
-104961,umpqua holdings,united states,,,,,,,,,,,;
-58179,united community bank,singapore,,,,,doll_39.73 b,,,,,,;
-41992,uol group,singapore,,,,,,,,,,,;
-148705,under armour,united states,,,,,doll_4.87 b,,,,,,;
-57634,universal forest products,united states,,,,,doll_5.39 b,,,,,,;
-40513,united bankshares,united states,,,,,doll_0.11 b,,,,,,;
-29152,univar solutions,united states,,,,,,,,,,,;
-67076,u.s. steel,united states,,,,,doll_8.75 b,,,,,,;
-57258,upl,india,,,,,doll_6.59 b,,,,,,;
-50081,union bank of india,india,,,,,doll_6.97 b,,,,,,;
-21345,unipolsai,italy,,,,,doll_7.37 b,,,,,,;
-28576,unum,united states,,,,,doll_8.18 b,,,,,,;
-181059,umicore,belgium,,,,,,,,,,,;
-56577,unity software,united states,,,,,doll_26.56 b,,,,,,;
-67850,uipath,united states,,,,,doll_7.63 b,,,,,,;
-57025,ugi corporation,united states,,,,,doll_8.14 b,,,,,,;
-35777,unibail-rodamco-westfield,france,,,,,doll_12.14 m,,,,,,;
-49632,unilever indonesia,indonesia,,,,,doll_12.02 b,,,,,,;
-146701,u.s. bancorp,united states,,,,,doll_80.16 b,,,,,,;
-136448,unicredit,italy,,,,,,,,,,,;
-22496,universal health services,united states,,,,,doll_0.71 b,,,,,,;
-156673,united microelectronics,taiwan,,,,,doll_23.35 b,,,,,,;
-22691,uob,singapore,,,,,doll_37.55 b,,,,,,;
-181057,ucb,belgium,,,,,,,,,,,;
-136996,ubiquiti,united states,,,,,doll_18.25 b,,,,,,;
-55616,united heavy machinery,russia,,,,,doll_53.58 b,,,,,,;
-67201,ulta beauty,united states,,,,,doll_21.49 b,,,,,,;
-48386,united parcel service,united states,,,,,doll_163.03 b,,,,,,;
-23429,usana,united states,,,,,doll_1.11 b,,,,,,;
-157184,uniqure,netherlands,,,,,doll_1.08 b,,,,,,;
-23460,usertesting,united states,,,,,doll_1.08 b,,,,,,;
-39009,umh properties,united states,,,,,doll_0.99 b,,,,,,;
-62534,uniti,united states,,,,,doll_1.44 b,,,,,,;
-38560,upstart,united states,,,,,doll_1.39 b,,,,,,;
-38524,u.s. physical therapy,united states,,,,,doll_1.16 b,,,,,,;
-59777,uniper,germany,,,,,doll_1.14 b,,,,,,;
-38018,uct (ultra clean holdings),united states,,,,,doll_1.50 b,,,,,,;
-24096,udemy,united states,,,,,doll_1.55 b,,,,,,;
-63367,urban edge properties,united states,,,,,doll_1.89 b,,,,,,;
-30691,usiminas,brazil,,,,,,,,,,,;
-33856,ultimate games,poland,,,,,doll_17.63 m,,,,,,;
-62441,uphealth,united states,,,,,doll_47.12 m,,,,,,;
-25376,userjoy technology,taiwan,,,,,doll_0.11 b,,,,,,;
-33129,united,japan,,,,,doll_0.18 b,,,,,,;
-63169,urogen pharma,united states,,,,,doll_0.19 b,,,,,,;
-63750,ur energy,united states,,,,,doll_0.28 b,,,,,,;
-39904,unity bancorp,united states,,,,,doll_0.28 b,,,,,,;
-53123,up fintech (tiger brokers),china,,,,,doll_0.63 b,,,,,,;
-38980,univest,united states,,,,,doll_0.76 b,,,,,,;
-57772,unite group (unite students),uk,,,,,doll_4.51 b,,,,,,;
-69185,unitedhealth group incorporated,united states,,,,,doll_488.52 b,,,healthcare plans,healthcare,,;
-72393,ubs group ag,switzerland,,,,,doll_68.93 b,,,,financials,,;
-70978,ucb sa,belgium,,,,,doll_22.71 b,,,,healthcare,,;
-73232,united utilities group plc,united kingdom,,,,,doll_10.30 b,,,utilitiesregulated water,utilities,,;
-73343,ultra electronics holdings plc,united kingdom,,,,,doll_3.10 b,,,aerospace & defense,industrials,,;
-144388,uk commercial property reit limited,uk,,,,,,,,,,,;
-73643,urban logistics reit,uk,,,,,doll_0.8 m,,,,,,;
-73692,urovant sciences ltd.,united kingdom,,,,,0,,,biotechnology,healthcare,,;
-73797,unicorn aim vct plc,united kingdom,,,,,doll_341.0 m,,,asset management,financials,,;
-73874,u and i group plc,united kingdom,,,,,0,,,real estatediversified,real estate,,;
-74000,up global sourcing holdings plc,united kingdom,,,,,doll_148.5 m,,,specialty retail,consumer discretionary,,;
-92442,union pacific,united states,,,,,doll_147.23 b,doll_22.66 b,,,,,;
-150647,unipol gruppo,italy,,,,,doll_4.08 b,,,,,,;
-93293,uni-president,taiwan,,,,,doll_13.09 b,doll_16.95 b,doll_711.7 m,,,,;
-93694,ugi,united states,,,,,doll_7.68 b,doll_8.71 b,doll_1.07 b,,,,;
-93734,unibail-rodamco,france,,,,,doll_10.45 b,doll_2.98 b,doll_-1.15 b,,,,;
-93913,uniqa,,vienna,,1922,,,,,financials,full line insurance,,;
-97248,unit8,switzerland,,,,41.0,,doll_7.23 m,,,technology,,;
-100976,urbantz,belgium,,,,55.0,,doll_3.03 m,,,technology,,;
-97440,ulrich mã¼ller wealth academy,germany,,,,6,,doll_3.52 m,,,education,,;
-98626,uplink network,germany,,,,46.0,,doll_28.14 m,,,telecoms,,;
-97790,ultra premium direct,france,,,,81,,doll_20.78 m,,,agricultural commodities,,;
-103968,upslide,france,,,,75.0,,doll_8.27 m,,,support services,,;
-102081,unicoenergia,italy,,,,14,,doll_8.66 m,,,energy,,;
-100619,united silk,japan,,,,8,,doll_5.08 m,,,sales & marketing,,;
-100699,unifa,japan,,,,198,,doll_13.35 m,,,technology,,;
-100714,unify communications,united kingdom,,,,,,doll_6.48 m,,,telecoms,,;
-100854,uyama resort,japan,,,,7,,doll_2.32 m,,,travel & leisure,,;
-100961,unerry,japan,,,,20,,doll_5.31 m,,,technology,,;
-100980,ubiquicom,italy,,,,18,,doll_2.94 m,,,technology,,;
-101157,ureru net advertising,japan,,,,33,,doll_25.94 m,,,advertising,,;
-102544,univers auto,france,,,,4,,doll_11.7 m,,,automobiles,,;
-101427,up young,taiwan,,,,not found,,doll_36.17 m,,,industrial goods,,;
-101437,union gas holdings,singapore,,,,228,,doll_57.77 m,,,energy,,;
-178802,uniplaces,,lisbon,,2012,,,,,technology,internet,,;
-102864,upgrade,italy,,,,3,,doll_2.3 m,,,advertising,,;
-101684,unusual,singapore,,,,not found,,doll_45.41 m,,,travel & leisure,,;
-101690,union gas,singapore,,,,256,,doll_62.47 m,,,energy,,;
-102314,uqido,italy,,,,30,,doll_1.99 m,,,technology,,;
-102327,urbano bernabe manufacturing,spain,,,,not found,,doll_13.55 m,,,support services,,;
-102427,unite flooring,uk,,,,47,,doll_4.89 m,,,construction,,;
-102650,unicommerce 2000,bulgaria,,,,7,,doll_11.75 m,,,food & beverage,,;
-102792,uab incorpus,lithuania,,,,25,,doll_2.79 m,,,construction,,;
-103172,utensilveneta,italy,,,,4,,doll_1.9 m,,,retail,,;
-103338,universum events,romania,,,,83,,doll_5.50 m,,,support services,,;
-103869,uab integre trans,lithuania,,,,107,,doll_46.86 m,,,transport,,;
-104012,utopia lab,italy,,,,10,,doll_2.3 m,,,management consulting,,;
-104078,umeå release finans,sweden,,,,29,,doll_48.91 m,,,financial services,,;
-104375,uab hostinger,lithuania,,,,300,,doll_12.16 m,,,technology,,;
-120904,union gas metano spa,italy,,,,,,,,,,,;
-104427,urbania projekt,germany,,,,1,,doll_4.8 m,,,construction,,;
-104983,ulabox,spain,,,,60,,doll_9.5 m,,,ecommerce,,;
-105155,upline,italy,,,,10,,doll_2.2 m,,,support services,,;
-116675,u & a holdings limited,,,,,,,,,,,,;
-116679,u & a supplies ltd,,,,,,,,,,,,;
-116711,u & i counselling c.i.c.,,,,,,,,,,,,;
-116720,u and i finance plc,,,,,,,,,,,,;
-116752,u & k motors limited,,,,,,,,,,,,;
-116759,u & k supplies ltd,,,,,,,,,,,,;
-116761,u & m logistics ltd,,,,,,,,,,,,;
-116767,u & m property investment ltd,,,,,,,,,,,,;
-116769,u & p holdings ltd,,,,,,,,,,,,;
-116770,u & r electrical ltd,,,,,,,,,,,,;
-116790,u & u motors ltd,,,,,,,,,,,,;
-116810,u. b. co (uk) ltd,,,,,,,,,,,,;
-116813,u. b. drylining ltd,,,,,,,,,,,,;
-116845,u can recycling cic,,,,,,,,,,,,;
-116857,u carz transport ltd,,,,,,,,,,,,;
-116887,u creative communications limited,,,,,,,,,,,,;
-116923,u. d. trading ltd,,,,,,,,,,,,;
-116940,u f c fund management plc,,,,,,,,,,,,;
-117007,u. h. s. medical consultancy services limited,,,,,,,,,,,,;
-117027,u k a s f p,,,,,,,,,,,,;
-120736,universita' degli studi di foggia,italy,,,,,,,,,,,;
-123692,unicredit spa,italy,,,,,,,,,,,;
-119960,umpqua bank,united states,,,,,,,,,,,;
-119961,uniper uk limited,united kingdom,,,,,,,,,,,;
-120249,unilever innovations limited,united kingdom,,,,,,,,,,,;
-120376,universita' politecnica delle marche,italy,,,,,,,,,,,;
-120399,uk power networks (operations) limited,united kingdom,,,,,,,,,,,;
-120465,united biscuits (uk) limited,united kingdom,,,,,,,,,,,;
-120467,university of maryland global campus,united states,,,,,,,,,,,;
-120471,uml bondi limited,united kingdom,,,,,,,,,,,;
-120632,uniform color company,united states,,,,,,,,,,,;
-120636,urenco limited,united kingdom,,,,,,,,,,,;
-120754,u.c.i.t. srl,italy,,,,,,,,,,,;
-121333,u.s. bank global corporate trust limited,united kingdom,,,,,,,,,,,;
-121447,urban outfitters uk limited,united kingdom,,,,,,,,,,,;
-123505,umb bank n.a.,united states,,,,,,,,,,,;
-121825,unipolsai assicurazioni,italy,,,,,,,,,,,;
-121877,university of michigan health system,united states,,,,,,,,,,,;
-123993,united specialty insurance company,united states,,,,,,,,,,,;
-122055,uk space agency,united kingdom,,,,,,,,,,,;
-124140,usi insurance services llc,united states,,,,,,,,,,,;
-122153,usi service corporation,united states,,,,,,,,,,,;
-122612,ustc-united states technologies communication corp,united states,,,,,,,,,,,;
-122639,ups logistics group inc,united states,,,,,,,,,,,;
-124642,unruly studios careers,,,,2014,,,,,primary & secondary education,,,;
-124654,u.s. department of housing and urban development careers,,,,1930,,,,,government administration,,,;
-124802,univision communications careers,,,,1962,,,,,broadcast & online media,,,;
-124824,u.s. naval research laboratory careers,,,,1923,,,,,research,,,;
-124866,utah state legislature careers,,,,1896,,,,,government administration,,,;
-124875,urban science careers,,,,1977,,,,,automotive,,,;
-124898,us foods careers,,,,1989,,,,,food & beverages,,,;
-125095,under armour careers,,,,1996,,,,,retail,,,;
-125096,ultra mobile careers,,,,2011,,,,,telecommunications,,,;
-137861,uwm holdings corporation,united states,,,,,,,,,,,;
-150698,ucommune,china,,,,,,,,,,,;
-150697,ucar,china,,,,,,,,,,,;
-141985,unizo holdings company,japan,,,,,,,,,,,;
-132865,united development company,qatar,,,,,,,,,,,;
-137025,udr,united states,,,,,doll_18.0 b,,,,,,thomas w toomey;
-137243,united company rusal,russia,,,,,,,,,,,evgenii nikitin;
-137720,union electric company,united states,,,,,doll_10.52 b,,,,,,;
-138192,us foods holding,united states,,,,,doll_8.0 b,,,,,,;
-149563,unione di banche italiane,italy,,,,,doll_5.03 m,,,,,,;
-149619,unum group,united states,,,,,doll_5.44 m,,,,,,;
-139112,universal scientific industrial (shanghai),china,,,,,doll_4.87 m,,,,,,;
-139186,ubtech,china,,,,,doll_0.00319 t,,,,,,;
-149867,united imaging,china,,,,,doll_0.00319 t,,,,,,;
-139272,ultragenyx pharmaceutical,united states,,,,,doll_5.03 b,,,,,,;
-139625,umpqua holdings corporation,united states,,,,,doll_4.29 m,,,,,,;
-139811,uni-president china holdings ltd,china,,,,,doll_4.12 m,,,,,,;
-139859,uss co ltd,japan,,,,,doll_4.16 m,,,,,,;
-154121,united urban investment corporation,japan,,,,,doll_6.07 b,,,,,,;
-140866,ultra electronics holdings,uk,,,,,doll_3.07 b,,,,,,;
-141072,usinas siderurgicas de minas gerais,brazil,,,,,doll_2.9 b,,,,,,;
-141139,ulvac,japan,,,,,doll_2.86 b,,,,,,;
-141355,unibet group plc,malta,,,,,,,,,,,;
-141678,unibel,france,,,,,doll_2.16 m,,doll_469.0 m,,,,;
-142093,unipro,russia,,,,,doll_2.18 b,,,,,,;
-142115,united malt group limited,australia,,,,,doll_2.12 m,,,,,,;
-142261,upi semiconductor corp.,taiwan,,,,,doll_1.2 m,,,,,,;
-142500,unidas - todos os direitos reservados,brazil,,,,,doll_2.39 m,,,,,,;
-142533,usana health sciences,united states,,,,,doll_1.97 b,,,,,,;
-142597,ushio,japan,,,,,doll_2.21 m,,,,,,;
-142837,uti asset management company,india,,,,,doll_2.1 m,,,,,,;
-142885,u-ming marine transport corporation,taiwan,,,,,doll_2.0 m,,,,,,;
-142984,ube industries,japan,,,,,doll_2.01 m,,,,,,;
-142994,uco bank,india,,,,,doll_1.78 m,,,,,,;
-143449,unilumin group,china,,,,,doll_1.48 m,,,,,,;
-143495,unipar carbocloro,brazil,,,,,doll_1.67 m,,,,,,;
-154435,union medical healthcare,hong kong,,,,,doll_1.47 b,,,,,,;
-143784,usen-nextholdings,japan,,,,,doll_1.69 m,,,,,,;
-143867,uniphar,ireland,,,,,doll_1.44 b,,,,,,;
-144104,udacity,united states,,,,,0.0,,,,,,;
-144253,ut group,japan,,,,,doll_1.13 m,,,,,,;
-144831,united renewable energy,taiwan,,,,,doll_1.23 b,,,,,,;
-144961,usi corporation,taiwan,,,,,doll_1.2 b,,,,,,;
-156221,united corporations,canada,,,,,doll_1.07 b,,,,,,;
-145629,united laboratories international holdings,hong kong,,,,,doll_1.05 b,,,,,,;
-145828,uob-kay hian holdings,singapore,,,,,doll_1.0 m,,,,,,;
-152795,united malt group limited,australia,,,,,doll_0.97 m,,,,,,;
-146259,union optech,china,,,,,doll_950.0 m,,,,,,;
-146301,uroica precision information engineering,china,,,,,doll_942.0 m,,,,,,;
-146395,united international transportation company,saudi arabia,,,,,doll_917.0 m,,,,,,;
-149178,united states steel corporation,united states,,,,,doll_6.86 b,,doll_4.17 b,,,,;
-151541,uniti group,united states,,,,,doll_3.08 b,,doll_123.0 m,,,,;
-154129,unilumin group,china,,,,,doll_1.59 b,,0.0,,,,;
-154933,ut group,japan,,,,,doll_1.38 b,,doll_23.0 m,,,,;
-155103,unisys corporation,united states,,,,,doll_1.33 b,,doll_-448.0 m,,,,;
-183957,uddeholms ab,,hagfors,,1668,,,,,basic materials,iron & steel,,;
-183958,umeå energi,,umeå,,1887,,,,,utilities,conventional electricity,,;
-178480,urbanears,,stockholm,,2009,,,,,consumer goods,recreational products,,;
-183670,uralita group,,madrid,,1907,,,,,industrials,building materials & fixtures,,;
-178680,u.s. steel košice,,košice,,2000,,,,,basic materials,iron & steel,,;
-178731,ubisoft bucharest,,bucharest,,1992,,,,,technology,software,,;
-178732,upc romania,,bucharest,,1992,,,,,telecommunications,fixed line telecommunications,,;
-178733,ursus breweries,,bucharest,,1878,,,,,consumer goods,brewers,,;
-178734,uti holdings,,bucharest,,1990,,,,,conglomerates,-,,;
-178800,umm,,lisbon,,1977,,,,,industrials,diversified industrials,,;
-178801,unicer brewery,,matosinhos,,1890,,,,,consumer goods,brewers,,;
-179019,unibet,,gżira,,1997,,,,,consumer services,gambling,,;
-183131,utopia group,,luxembourg city,,2002,,,,,consumer services,recreational services,,;
-179517,ubi banca,,bergamo,,2003,,,,,financials,banks,,;
-182992,unipol,,bologna,,1963,,,,,financials,banks,,;
-179520,unoaerre,,arezzo,,1926,,,,,consumer goods,clothing & accessories,,;
-182603,udg healthcare,,dublin,,1948,,,,,health care,pharmaceuticals,,;
-179656,ulster bank,,dublin,,1836,,,,,financials,banks,,;
-179657,ulsterbus,,derry,,2006,,,,,consumer services,travel & tourism,,;
-179740,upc magyarország,,budapest,,1998,,,,,telecommunications,fixed line telecommunications,,;
-180337,united shipping & trading company,,middelfart,,1876,,,,,industrials,marine transportation,,;
-181384,unicredit bank czech republic and slovakia,,prague,,2006,,,,,financials,banks,,;
-180576,uljanik,,pula,,1856,,,,,industrials,commercial vehicles & trucks,,;
-180656,unionbank,,sofia,,1991,,,,,financials,banks,,;
-180657,united bulgarian bank,,sofia,,1992,,,,,financials,banks,,;
-181058,umedia,,brussels,,2010,,,,,consumer services,broadcasting and entertainment,,;
-181060,unibind,,brussels,,1939,,,,,industrials,containers and packaging,,;
-181061,union minière du haut katanga,,brussels,,1906,,,,,basic materials,general mining,,;
-182114,uhlsport,,balingen,,1948,,,,,consumer goods,clothing & accessories,,;
-182115,ulla popken,,rastede,,1880,,,,,consumer goods,clothing & accessories,,;
-182116,ultrasone,,tutzing,,1991,,,,,consumer goods,consumer electronics,,;
-182117,underberg,,rheinberg,,1846,,,,,consumer goods,brewers,,;
-183361,ursus sa,,lublin,,1893,,,,,automotive inductry,agricultural machinery,,;
-184550,united airlines,,willis tower,,0,,,,,information technology consulting outsourcing,,,;
-238,utkarsh small finance bank,,,,2009,,,,,banking,,,;
-503,usha international,,,,1934,,,,,consumer electronics & appliances,,,;
-1245,union bank of india,,,,1919,,,,,banking,,,;
-2609,uco bank,,,,1943,,,,,banking,,,;
-3829,ushodaya enterprises,,,,1974,,,,,fmcg,,,;
-4699,united bank of india,,,,1950,,,,,banking,,,;
-4715,united bank of india,,,,1950,,,,,banking,,,;
-5201,utkarsh india,,,,1987,,,,,industrial machinery,,,;
-5382,umedica laboratories,,,,1982,,,,,pharma,,,;
-5693,ugro capital,,,,1993,,,,,,,,;
-5822,utkal alumina international,,,,1993,,,,,chemicals,,,;
-5952,uttar pradesh jal nigam,,,,1975,,,,,government,,,;
-6949,unschool learning,,,,2019,,,,,edtech,,,;
-7440,uma polymers,,,,1987,,,,,packaging,,,;
-7752,ukay metal industries,,,,1988,,,,,metals & mining,,,;
-8678,usha fire safety equipments,,,,1988,,,,,industrial machinery,,,;
-8783,u n mehta institute of cardiology & research centre,,,,1982,,,,,education & training,,,;
-9120,usg boral building products,,,,2014,,,,,building material,,,;
-9135,utkal automobiles,,,,1955,,,,,automobile,,,;
-39698,utah medical products,united states,,,,,doll_350.0 m,,,,,,;
-65654,uni-president enterprises,,,,,,doll_12.76 b,doll_17.42 b,doll_1.31 b,,,,;
-114253,ur finances limited,,,,,,,,,,,,;
-116648,u limited,,,,,,,,,,,,;
-116650,u agency ltd,,,,,,,,,,,,;
-116653,u account ltd,,,,,,,,,,,,;
-116654,u a associates ltd,,,,,,,,,,,,;
-116655,u a composites limited,,,,,,,,,,,,;
-116656,u a extrusions limited,,,,,,,,,,,,;
-116657,u agaty ltd,,,,,,,,,,,,;
-116658,u aesthetics ltd.,,,,,,,,,,,,;
-116659,u a engineering limited,,,,,,,,,,,,;
-116660,u a electrical ltd,,,,,,,,,,,,;
-116661,u ali locum services ltd,,,,,,,,,,,,;
-116662,u a international limited,,,,,,,,,,,,;
-116663,u ahmed holdings ltd,,,,,,,,,,,,;
-116664,u ahmed limited,,,,,,,,,,,,;
-116665,u agnieszka ltd,,,,,,,,,,,,;
-116666,u a locums ltd,,,,,,,,,,,,;
-116667,u amar ltd,,,,,,,,,,,,;
-116668,u a logistics ltd,,,,,,,,,,,,;
-116669,u a modern communication ltd,,,,,,,,,,,,;
-116670,u and a auto repair centre ltd,,,,,,,,,,,,;
-116671,u and a limited,,,,,,,,,,,,;
-116672,u & a ahmed limited,,,,,,,,,,,,;
-116673,u & a beds ltd,,,,,,,,,,,,;
-116674,u and a locums limited,,,,,,,,,,,,;
-116676,u & a home appliances ltd,,,,,,,,,,,,;
-116677,u & a fabrications ltd,,,,,,,,,,,,;
-116678,u & a consultants limited,,,,,,,,,,,,;
-116680,u and a capital ltd,,,,,,,,,,,,;
-116681,u and a shoppe limited,,,,,,,,,,,,;
-116682,u & a services ltd,,,,,,,,,,,,;
-116683,u & a scotland ltd,,,,,,,,,,,,;
-116684,u and a property investments limited,,,,,,,,,,,,;
-116685,u & a (mcr) ltd,,,,,,,,,,,,;
-116686,u & b-star ltd,,,,,,,,,,,,;
-116687,u & c von oppell limited,,,,,,,,,,,,;
-116688,u & ch (lh) ltd,,,,,,,,,,,,;
-116689,u & g transport limited,,,,,,,,,,,,;
-116690,u & g murtaza services limited,,,,,,,,,,,,;
-116691,u & g limited,,,,,,,,,,,,;
-116692,u & h investments limited,,,,,,,,,,,,;
-116693,u & h groups ltd,,,,,,,,,,,,;
-116694,u & h limited,,,,,,,,,,,,;
-116695,u & i un limited,,,,,,,,,,,,;
-116696,u and health ltd,,,,,,,,,,,,;
-116697,u & h real estate ltd,,,,,,,,,,,,;
-116698,u & h property developers limited,,,,,,,,,,,,;
-116699,u & h mortgage advisors limited,,,,,,,,,,,,;
-116700,u and i clinic limited,,,,,,,,,,,,;
-116701,u and i (ashford) ltd,,,,,,,,,,,,;
-116702,u & i accounting ltd,,,,,,,,,,,,;
-116703,u and i (cambridge) limited,,,,,,,,,,,,;
-116704,u and i (bromley commercial) limited,,,,,,,,,,,,;
-116705,u and i company secretaries limited,,,,,,,,,,,,;
-116706,u & i connect healthcare ltd,,,,,,,,,,,,;
-116707,u and i corporation limited,,,,,,,,,,,,;
-116708,u & i consultancy limited,,,,,,,,,,,,;
-116709,u and i director 1 limited,,,,,,,,,,,,;
-116710,u and i (development and trading) limited,,,,,,,,,,,,;
-116712,u & i drinks ltd,,,,,,,,,,,,;
-116713,u & i employment consultants ltd,,,,,,,,,,,,;
-116714,u and i (8ae) limited,,,,,,,,,,,,;
-116715,u and i (gvp) limited,,,,,,,,,,,,;
-116716,u and i director 2 limited,,,,,,,,,,,,;
-116717,u and i group limited,,,,,,,,,,,,;
-116718,u and i (golf) limited,,,,,,,,,,,,;
-116719,u & i fuels limited,,,,,,,,,,,,;
-116721,u and i exit limited,,,,,,,,,,,,;
-116722,u and i (innovation hubs) limited,,,,,,,,,,,,;
-116723,u & i ijeneme consults ltd,,,,,,,,,,,,;
-116724,u & i home. ltd,,,,,,,,,,,,;
-116725,u and i (harwell) limited,,,,,,,,,,,,;
-116726,u and i investment portfolio limited,,,,,,,,,,,,;
-116727,u and i ipa sc limited,,,,,,,,,,,,;
-116728,u and i ipa limited,,,,,,,,,,,,;
-116729,u and i ipc limited,,,,,,,,,,,,;
-116730,u & i london ltd,,,,,,,,,,,,;
-116731,u and i ipb ltd,,,,,,,,,,,,;
-116732,u & i learning limited,,,,,,,,,,,,;
-116733,u and i plus x tc limited,,,,,,,,,,,,;
-116734,u and i (pincents lane) ltd,,,,,,,,,,,,;
-116735,u and i (pb) commercial limited,,,,,,,,,,,,;
-116736,u and i partnerships ltd,,,,,,,,,,,,;
-116737,u & i radio limited,,,,,,,,,,,,;
-116738,u and i property services ltd,,,,,,,,,,,,;
-116739,u & i properties uk ltd,,,,,,,,,,,,;
-116740,u and i powerhouse limited,,,,,,,,,,,,;
-116741,u & i trading services limited,,,,,,,,,,,,;
-116742,u and i ppp limited,,,,,,,,,,,,;
-116743,u & i solutions ltd,,,,,,,,,,,,;
-116744,u & i team properties ltd,,,,,,,,,,,,;
-116745,u & i search ltd,,,,,,,,,,,,;
-116746,u & i travels ltd,,,,,,,,,,,,;
-116747,u & j concepts ltd,,,,,,,,,,,,;
-116748,u & i vision ltd,,,,,,,,,,,,;
-116749,u and i (wie) limited,,,,,,,,,,,,;
-116750,u and i turningpoint ltd,,,,,,,,,,,,;
-116751,u & ko ltd,,,,,,,,,,,,;
-116753,u & k commercial ltd,,,,,,,,,,,,;
-116754,u & k limited,,,,,,,,,,,,;
-116755,u & l properties ltd,,,,,,,,,,,,;
-116756,u. & leo limited,,,,,,,,,,,,;
-116757,u & k partners limited,,,,,,,,,,,,;
-116758,u & m marts limited,,,,,,,,,,,,;
-116760,u and m consultants ltd,,,,,,,,,,,,;
-116762,u and me limited,,,,,,,,,,,,;
-116763,u & m pannu limited,,,,,,,,,,,,;
-116764,u and me shopping limited,,,,,,,,,,,,;
-116765,u & m properties limited,,,,,,,,,,,,;
-116766,u & m smiles ltd,,,,,,,,,,,,;
-116768,u. and partners (east anglia) limited,,,,,,,,,,,,;
-116771,u & p stores limited,,,,,,,,,,,,;
-116772,u & r services ltd,,,,,,,,,,,,;
-116773,u & r 51 ltd,,,,,,,,,,,,;
-116774,u & r fitness limited,,,,,,,,,,,,;
-116775,u & r enterprise ltd.,,,,,,,,,,,,;
-116776,u & s (newport) trading ltd,,,,,,,,,,,,;
-116777,u & s investment ltd,,,,,,,,,,,,;
-116778,u & s services ltd,,,,,,,,,,,,;
-116779,u & s property ltd,,,,,,,,,,,,;
-116780,u & s ryatt investments (uk) limited,,,,,,,,,,,,;
-116782,u & s (scot) ltd,,,,,,,,,,,,;
-116783,u & s estates limited,,,,,,,,,,,,;
-116784,u & s news food & wine limited,,,,,,,,,,,,;
-116785,u & t limited,,,,,,,,,,,,;
-116786,u and t investments ltd,,,,,,,,,,,,;
-116787,u & tariq limited,,,,,,,,,,,,;
-116788,u & u investments ltd,,,,,,,,,,,,;
-116789,u & t union ltd,,,,,,,,,,,,;
-116791,u & t starts services ltd,,,,,,,,,,,,;
-116792,u & w properties ltd,,,,,,,,,,,,;
-116793,u and w international trading company ltd,,,,,,,,,,,,;
-116794,u & u ltd,,,,,,,,,,,,;
-116795,u and world ltd,,,,,,,,,,,,;
-116796,u & z accountants limited,,,,,,,,,,,,;
-116797,u & z company limited,,,,,,,,,,,,;
-116798,u and v sabharwal enterprises limited,,,,,,,,,,,,;
-116799,u a  property group limited,,,,,,,,,,,,;
-116800,u and your skin limited,,,,,,,,,,,,;
-116801,u & w stone masonry ltd,,,,,,,,,,,,;
-116802,u architects limited,,,,,,,,,,,,;
-116803,u a trading ltd,,,,,,,,,,,,;
-116804,u apparel limited,,,,,,,,,,,,;
-116805,u a u ltd,,,,,,,,,,,,;
-116806,u aye and co. limited,,,,,,,,,,,,;
-116807,u awan ltd,,,,,,,,,,,,;
-116808,u b computer solutions ltd,,,,,,,,,,,,;
-116809,u b collections ltd,,,,,,,,,,,,;
-116811,u beauty limited,,,,,,,,,,,,;
-116812,u beautie limited,,,,,,,,,,,,;
-116814,u b developments limited,,,,,,,,,,,,;
-116815,u aye and company trading limited,,,,,,,,,,,,;
-116816,u belper limited,,,,,,,,,,,,;
-116817,u best profits limited,,,,,,,,,,,,;
-116818,u beauty salon ltd,,,,,,,,,,,,;
-116819,u b estates ltd,,,,,,,,,,,,;
-116820,u bercika ltd,,,,,,,,,,,,;
-116821,u b d equipment ltd,,,,,,,,,,,,;
-116822,u been framed upvc ltd,,,,,,,,,,,,;
-116823,u best leader limited,,,,,,,,,,,,;
-116824,u best deal ltd,,,,,,,,,,,,;
-116825,u best record limited,,,,,,,,,,,,;
-116826,u b eyecare limited,,,,,,,,,,,,;
-116827,u bnb ltd,,,,,,,,,,,,;
-116828,u box da ltd,,,,,,,,,,,,;
-116829,u bolka ltd,,,,,,,,,,,,;
-116830,u b r management company limited,,,,,,,,,,,,;
-116831,u brown ltd,,,,,,,,,,,,;
-116832,u build technologies limited,,,,,,,,,,,,;
-116833,u break we fix (hereford) limited,,,,,,,,,,,,;
-116834,u builder bathrooms glasgow limited,,,,,,,,,,,,;
-116835,u build consultants ltd,,,,,,,,,,,,;
-116836,u cabbi ltd,,,,,,,,,,,,;
-116837,u cab limited,,,,,,,,,,,,;
-116838,u burn fitness training ltd,,,,,,,,,,,,;
-116839,u can fly limited,,,,,,,,,,,,;
-116840,u cannot make it up limited,,,,,,,,,,,,;
-116841,u can afford it ltd,,,,,,,,,,,,;
-116842,u can occupational therapy services ltd,,,,,,,,,,,,;
-116843,u can online ltd,,,,,,,,,,,,;
-116844,u can property limited,,,,,,,,,,,,;
-116846,u can travel consulting ltd,,,,,,,,,,,,;
-116847,u can store it limited,,,,,,,,,,,,;
-116848,u canteen ltd,,,,,,,,,,,,;
-116849,u cargo services limited,,,,,,,,,,,,;
-116850,u care we care ltd,,,,,,,,,,,,;
-116851,u c consulting limited,,,,,,,,,,,,;
-116852,u can yoga limited,,,,,,,,,,,,;
-116853,u c b home loans corporation limited,,,,,,,,,,,,;
-116854,u capital management limited,,,,,,,,,,,,;
-116855,u cash limited,,,,,,,,,,,,;
-116856,u catering group ltd,,,,,,,,,,,,;
-116858,u c em facilities ltd,,,,,,,,,,,,;
-116859,u c d and associates limited,,,,,,,,,,,,;
-116860,u- cee solutions limited,,,,,,,,,,,,;
-116861,u c engineering limited,,,,,,,,,,,,;
-116862,u certa off license limited,,,,,,,,,,,,;
-116863,u c engineering and construction limited,,,,,,,,,,,,;
-116864,u choose limited,,,,,,,,,,,,;
-116865,u chek ltd,,,,,,,,,,,,;
-116866,u c f limited,,,,,,,,,,,,;
-116867,u certify ltd,,,,,,,,,,,,;
-116868,u charge limited,,,,,,,,,,,,;
-116869,u cioci limited,,,,,,,,,,,,;
-116870,u choze limited,,,,,,,,,,,,;
-116871,u c installations ltd,,,,,,,,,,,,;
-116872,u click we deliver limited,,,,,,,,,,,,;
-116873,u c l coachbuilders limited,,,,,,,,,,,,;
-116874,u choose u lease catering equipment limited,,,,,,,,,,,,;
-116875,u click v collect ltd,,,,,,,,,,,,;
-116876,u coach ltd,,,,,,,,,,,,;
-116877,u c mas (uk) ltd,,,,,,,,,,,,;
-116878,u collaboration ltd,,,,,,,,,,,,;
-116879,u collect deliveries service limited,,,,,,,,,,,,;
-116880,u coach me limited,,,,,,,,,,,,;
-116881,u compare limited,,,,,,,,,,,,;
-116882,u connect hub ltd,,,,,,,,,,,,;
-116883,u connect services limited,,,,,,,,,,,,;
-116884,u corporation ltd,,,,,,,,,,,,;
-116885,u consults limited,,,,,,,,,,,,;
-116886,u construction group uk limited,,,,,,,,,,,,;
-116888,u cre8 community arts limited,,,,,,,,,,,,;
-116889,u created education limited,,,,,,,,,,,,;
-116890,u c parts limited,,,,,,,,,,,,;
-116891,u creative limited,,,,,,,,,,,,;
-116892,u dad properties limited,,,,,,,,,,,,;
-116893,u c s (ne) ltd,,,,,,,,,,,,;
-116894,u crolla & sons ltd.,,,,,,,,,,,,;
-116895,u deserve productions ltd,,,,,,,,,,,,;
-116896,u dentistry limited,,,,,,,,,,,,;
-116897,u dandekar medical services ltd.,,,,,,,,,,,,;
-116898,u deserve it 2 ltd,,,,,,,,,,,,;
-116899,u designer ltd,,,,,,,,,,,,;
-116900,u designs ltd,,,,,,,,,,,,;
-116901,u developments ltd,,,,,,,,,,,,;
-116902,u design treorchy limited,,,,,,,,,,,,;
-116903,u dig ltd,,,,,,,,,,,,;
-116904,u d international healthcare limited,,,,,,,,,,,,;
-116905,u digit ltd,,,,,,,,,,,,;
-116906,u - dox brand development limited,,,,,,,,,,,,;
-116907,u donutz ltd,,,,,,,,,,,,;
-116908,u d nwachukwu ltd,,,,,,,,,,,,;
-116909,u dream limited,,,,,,,,,,,,;
-116910,u drain limited,,,,,,,,,,,,;
-116911,u - drive hire uk limited,,,,,,,,,,,,;
-116912,u drive driver training ltd,,,,,,,,,,,,;
-116913,u drive cars limited,,,,,,,,,,,,;
-116914,u drive cover limited,,,,,,,,,,,,;
-116915,u dream we build ltd,,,,,,,,,,,,;
-116916,u drive lancs limited,,,,,,,,,,,,;
-116917,u drive it ltd,,,,,,,,,,,,;
-116918,u drive msm limited,,,,,,,,,,,,;
-116919,u drive performance ltd,,,,,,,,,,,,;
-116920,u drive plus ltd,,,,,,,,,,,,;
-116921,u drive performance group ltd,,,,,,,,,,,,;
-116922,u e company limited,,,,,,,,,,,,;
-116924,u d test & inspection limited,,,,,,,,,,,,;
-116925,u d roofing limited,,,,,,,,,,,,;
-116926,u e health ltd,,,,,,,,,,,,;
-116927,u ecommerce ltd,,,,,,,,,,,,;
-116928,u eat limited,,,,,,,,,,,,;
-116929,u energy group limited,,,,,,,,,,,,;
-116930,u energy ltd,,,,,,,,,,,,;
-116931,u energy (yorkshire) limited,,,,,,,,,,,,;
-116932,u elite care ltd,,,,,,,,,,,,;
-116933,u entertainment ltd,,,,,,,,,,,,;
-116934,u events limited,,,,,,,,,,,,;
-116935,u facilities management limited,,,,,,,,,,,,;
-116936,u ewy ltd,,,,,,,,,,,,;
-116937,u fantasy ltd,,,,,,,,,,,,;
-116938,u e onishi limited,,,,,,,,,,,,;
-116939,u farms holdings limited,,,,,,,,,,,,;
-116941,u fashion limited,,,,,,,,,,,,;
-116942,u fit community leisure ltd,,,,,,,,,,,,;
-116943,u first transport ltd,,,,,,,,,,,,;
-116944,u finance ltd,,,,,,,,,,,,;
-116945,u f financial services limited,,,,,,,,,,,,;
-116946,u fit online limited,,,,,,,,,,,,;
-116947,u fit mini limited,,,,,,,,,,,,;
-116948,u fit group limited,,,,,,,,,,,,;
-116949,u fit studio (leicester) limited,,,,,,,,,,,,;
-116950,u fit production ltd,,,,,,,,,,,,;
-116951,u fly ltd,,,,,,,,,,,,;
-116952,u fit sash windows ltd,,,,,,,,,,,,;
-116953,u flex trading ltd,,,,,,,,,,,,;
-116954,u fit wellness limited,,,,,,,,,,,,;
-116955,u foods ( uk ) ltd,,,,,,,,,,,,;
-116956,u fonez limited,,,,,,,,,,,,;
-116957,u f1rst doctors limited,,,,,,,,,,,,;
-116958,u 4 coffee limited,,,,,,,,,,,,;
-116959,u 4 utility ltd,,,,,,,,,,,,;
-116960,u furniture limited,,,,,,,,,,,,;
-116961,u fresh point ltd,,,,,,,,,,,,;
-116962,u f solutions limited,,,,,,,,,,,,;
-116963,u gen limited,,,,,,,,,,,,;
-116964,u g c global services limited,,,,,,,,,,,,;
-116965,u gene ltd,,,,,,,,,,,,;
-116966,u gas electric limited,,,,,,,,,,,,;
-116967,u global ltd,,,,,,,,,,,,;
-116968,u g holdings limited,,,,,,,,,,,,;
-116969,u g food (u.k) ltd,,,,,,,,,,,,;
-116970,u got jokes ltd,,,,,,,,,,,,;
-116971,u go physio ltd,,,,,,,,,,,,;
-116972,u godsell & sons limited,,,,,,,,,,,,;
-116973,u glow limited,,,,,,,,,,,,;
-116974,u g properties limited,,,,,,,,,,,,;
-116975,u got this ltd,,,,,,,,,,,,;
-116976,u graduate ltd,,,,,,,,,,,,;
-116977,u got jokes comedy ltd,,,,,,,,,,,,;
-116978,u grand ltd,,,,,,,,,,,,;
-116979,u grass ltd,,,,,,,,,,,,;
-116980,u grand k limited,,,,,,,,,,,,;
-116981,u grow ltd,,,,,,,,,,,,;
-116982,u grow hydroponics limited,,,,,,,,,,,,;
-116983,u grow hydro ltd,,,,,,,,,,,,;
-116984,u h ltd,,,,,,,,,,,,;
-116985,u g sales ltd,,,,,,,,,,,,;
-116986,u grow the easy way ltd,,,,,,,,,,,,;
-116987,u handbag limited,,,,,,,,,,,,;
-116988,u haitch ltd,,,,,,,,,,,,;
-116989,u hair and beauty spa ltd,,,,,,,,,,,,;
-116990,u gutka ltd,,,,,,,,,,,,;
-116991,u grzegorczyk ltd,,,,,,,,,,,,;
-116992,u haliny i janusza ltd,,,,,,,,,,,,;
-116993,u happy palace limited,,,,,,,,,,,,;
-116994,u hear limited,,,,,,,,,,,,;
-116995,u h creations ltd,,,,,,,,,,,,;
-116996,u h films limited,,,,,,,,,,,,;
-116997,u h m limited,,,,,,,,,,,,;
-116998,u hire limited,,,,,,,,,,,,;
-116999,u holdings ltd,,,,,,,,,,,,;
-117000,u hire (ni) limited,,,,,,,,,,,,;
-117001,u honey limited,,,,,,,,,,,,;
-117002,u home construction ltd,,,,,,,,,,,,;
-117003,u homecare ltd,,,,,,,,,,,,;
-117004,u hold the key self storage ltd.,,,,,,,,,,,,;
-117005,u i a trading ltd,,,,,,,,,,,,;
-117006,u h y hacker young (east) limited,,,,,,,,,,,,;
-117008,u h siddique limited,,,,,,,,,,,,;
-117009,u i jasnelven uk ltd,,,,,,,,,,,,;
-117010,u i d investments limited,,,,,,,,,,,,;
-117011,u i consultancy private limited,,,,,,,,,,,,;
-117012,u in mind care limited,,,,,,,,,,,,;
-117013,u international limited,,,,,,,,,,,,;
-117014,u in mind staffing limited,,,,,,,,,,,,;
-117016,u invest limited,,,,,,,,,,,,;
-117017,u island cic,,,,,,,,,,,,;
-117018,u ishfaq limited,,,,,,,,,,,,;
-117019,u j&r ltd,,,,,,,,,,,,;
-117020,u i t limited,,,,,,,,,,,,;
-117021,u janusza kuchnia polska ltd,,,,,,,,,,,,;
-117022,u janosika limited,,,,,,,,,,,,;
-117023,u janjua ltd,,,,,,,,,,,,;
-117024,u joli limited,,,,,,,,,,,,;
-117025,u j n martins housing and security company limited,,,,,,,,,,,,;
-117026,u j fashion boutique ltd,,,,,,,,,,,,;
-117028,u k analytical limited,,,,,,,,,,,,;
-117029,u just cook ltd,,,,,,,,,,,,;
-117030,u k builders (tt) ltd,,,,,,,,,,,,;
-117031,u k anaesthesia manufacturers ltd.,,,,,,,,,,,,;
-117032,u k brick limited,,,,,,,,,,,,;
-117033,u kay energy ltd,,,,,,,,,,,,;
-117034,uk bargains4 u ltd.,,,,,,,,,,,,;
-117035,u k cladding refurb and coatings limited,,,,,,,,,,,,;
-124214,upnest careers,,,,2013,,,,,real estate,,,;
-124318,upgrade careers,,,,2016,,,,,financial services,,,;
-124417,umr careers,,,,2010,,,,,hospital & health care,,,;
-124689,upthere careers,,,,2011,,,,,computer software,,,;
-137806,unisplendour corporation,china,,,,,doll_10.18 m,,,,,,;
-138498,united states steel corporation,united states,,,,,doll_7.23 m,,,,,,;
-140861,uniti group,united states,,,,,doll_3.07 m,,,,,,;
-144423,unisys corporation,united states,,,,,doll_1.62 m,,,,,,;
-145177,uacj corporation,japan,,,,,doll_1.19 m,,,,,,;
-145363,urovo technology,china,,,,,doll_0.86 m,,,,,,;
-148486,unisplendour corporation,china,,,,,doll_9.96 b,,doll_337.0 m,,,,;
-155857,uacj corporation,japan,,,,,doll_1.15 b,,doll_234.0 m,,,,;
-156043,urovo technology,china,,,,,doll_1.11 b,,0.0,,,,;
+id,name,country,address,founded,employees,market_cap,revenue,profit,categories,ceo,city
+12299,udaan,india,,2016.0,,,,,"['supply chain, logistics, & delivery']",,bengaluru
+14432,ultratech cement,india,"""b"" wing, 2nd floor, ahura centre, mahakali caves road, andheri (east), mumbai, 400093",1983.0,22000.0,doll_2.584 b,doll_0.006472 b,doll_0.919 b,"['basic materials', 'cement', 'construction materials']",ashish dwivedi,
+68,ujjivan small finance bank,,,2017.0,,,,,['banking'],,
+134,ust,,,2001.0,,,,,['it services & consulting'],,
+55335,unitedhealth,united states,,,,doll_45.476 b,doll_31.313 b,doll_2.523 b,['healthcare'],,
+238,utkarsh small finance bank,,,2009.0,,,,,['banking'],,
+285,united phosphorus,,,1969.0,,,,,['agro chemicals'],,
+332,uno minda,,,1958.0,,,,,['auto components'],,
+464,uflex,,,1985.0,,,,,['packaging'],,
+503,usha international,,,1934.0,,,,,['consumer electronics & appliances'],,
+504,usv,,,1961.0,,,,,['pharma'],,
+520,unacademy,india,,2015.0,,,,,['edtech'],,bengaluru
+43968,unisys,united states,,1986.0,,doll_0.036 b,doll_0.196 b,doll_0.017 b,"['it services', 'software', 'tech']",,london
+669,unichem laboratories,,,1944.0,,,,,['pharma'],,
+13056,upgrad,india,,2015.0,,,doll_0.02305 b,,['edtech'],,mumbai
+21988,unicharm,japan,,1961.0,,doll_2.199 b,doll_0.71 b,doll_0.6621 b,['beauty & personal care'],", eiko hashiba",
+903,united alliance technology,,,,,,,,['it services & consulting'],,
+160320,united breweries,india,"ub towers, 24 vittal mallya road, ub city, bangalore, karnataka, 560001",1857.0,3207.0,doll_0.5269999999999999 b,doll_0.092 b,doll_0.046 b,"['consumer defensive', 'conglomerate', 'real estate', 'beverages', 'alcoholic beverages', 'fertilizers', 'infrastructure', 'fmcg']",not found,
+963,ubs,switzerland,,,,doll_5.617 b,doll_3.522 b,doll_0.745 b,['banking'],ralph hamers,
+12161,urban company,india,,,,,,,['e-commerce & direct-to-consumer'],,gurgaon
+27136,uber,united states,,2009.0,,doll_6.027 b,doll_1.7449999999999999 b,doll_-0.496 b,"['ridesharing', 'internet', 'tech', 'transportation']",dara khosrowshahi,"san francisco, california"
+1032,ugam solution,,,2000.0,,,,,['it services & consulting'],,
+148769,united spirits,india,,1997.0,3382.0,doll_0.736 b,doll_0.0012079999999999999 b,doll_0.104 b,"['consumer defensive', 'food and beverage', 'beverages', 'food products', 'alcoholic beverages']",not found,
+1144,uttam value steels,,,1974.0,,doll_0.248 b,,,['iron & steel'],not found,
+1230,ups logistics,,,1907.0,,,,,['logistics'],,
+172417,union bank of india,india,"union bank bhavan, 239, vidhan bhavan marg, nariman point, mumbai, 400021",1919.0,78202.0,doll_0.362 b,doll_1.128 b,doll_0.147 b,"['financial services', 'banking services']",not found,
+1308,united colors of benetton info,,,1992.0,,,,,['retail'],,
+1478,updater services,,,1985.0,,,,,['facility management services'],,
+1502,ukb electronics,,,1996.0,,,,,['electronics manufacturing'],,
+1572,usha martin,,,1961.0,,,,,['iron & steel'],,
+1624,ufaber,,,2013.0,,,,,['edtech'],,
+1669,unitedlex,,,2006.0,,,,,['legal'],,
+1675,utility powertech,,,1995.0,,,,,['power'],,
+1744,unimoni,,,2006.0,,,,,['fintech'],,
+1783,uppcl,,,1999.0,,,,,['power'],,
+1838,ucal fuel systems,,,1985.0,,,,,['auto components'],,
+1853,universal sompo general insurance,,,2007.0,,,,,['insurance'],,
+1991,udaan cargo & logistics,,,2015.0,,,,,['logistics'],,
+2002,uplers,,,2012.0,,,,,['it services & consulting'],,
+2184,urc construction,,,1956.0,,,,,['engineering & construction'],,
+2251,uniparts group,,,1984.0,,,,,['industrial machinery'],,
+2373,unitech,,,1971.0,,,,,['real estate'],,
+153674,uco bank,india,"10, b t m sarani, kolkata, 700001",1943.0,22436.0,doll_0.176 b,doll_0.24 b,doll_0.112 b,"['financial services', 'banking services']",not found,
+2821,uae exchange & financial services,,,1980.0,,,,,['fintech'],,
+3108,ubisoft entertainment sa,france,"2 rue du chene heleuc, carentoir cedex 2, 56910",1986.0,18045.0,doll_0.27 b,doll_0.002124 b,doll_0.079 b,"['communication services', 'software and it', 'technology', 'video games / mobile games / tech games / casino games', 'software products', 'gaming']",mr. yves  guillemot,
+3131,ubs business solutions,,,,,,,,,,
+3198,urban ladder,,,2012.0,,,,,['retail'],,
+3240,uniinfo telecom services,,,2010.0,,,,,['telecom'],,
+3273,university of petroleum & energy studies,,,2003.0,,,,,['education & training'],,
+3285,united india insurance company,,,1938.0,,,,,['insurance'],,
+3319,uneecops technologies,,,1995.0,,,,,['it services & consulting'],,
+3470,unibic foods,,,2004.0,,,,,['food processing'],,
+3530,us tech solutions,,,2000.0,,,,,['recruitment'],,
+3736,unicef,,,1946.0,,,,,['non-profit'],,
+3829,ushodaya enterprises,,,1974.0,,,,,['fmcg'],,
+7748,ups supply chain solutions,,,2002.0,,,,,['logistics'],,
+3887,ultimate kronos group,,,1977.0,,,,,['it services & consulting'],,
+3996,ultra engineers,,,1991.0,,,,,['other'],,
+4009,uae exchange,,,1995.0,,,,,['fintech'],,
+4101,unilog content solutions ( p),,,1998.0,,,,,['it services & consulting'],,
+4160,unique engineers,,,1990.0,,,,,['industrial machinery'],,
+4492,unicorn infosolutions,,,2002.0,,,,,['retail'],,
+4526,ujaas energy,,,1979.0,,,,,['power'],,
+4579,university of delhi,,,1922.0,,,,,['education & training'],,
+4674,uds,,,1985.0,,,,,['facility management services'],,
+4684,university of engineering and management,,,2014.0,,,,,['education & training'],,
+4884,unitedhealthcare parekh insurance tpa,,,1977.0,,,,,['healthcare'],,
+4921,ufo moviez,,,2005.0,,,,,['media & entertainment'],,
+5053,unitile,,,1994.0,,,,,['building material'],,
+5103,umlaut,,,1996.0,,,,,['management consulting'],,
+5121,united nations development programme,,,1965.0,,,,,['non-profit'],,
+5201,utkarsh india,,,1987.0,,,,,['industrial machinery'],,
+62624,upwork,united states,,2015.0,,doll_0.16499999999999998 b,doll_0.059 b,doll_-0.056 b,"['industries', 'outsourcing and staffing', 'software and it']",not found,
+5247,urs scott wilson india,,,1951.0,,,,,['engineering & construction'],,
+5382,umedica laboratories,,,1982.0,,,,,['pharma'],,
+5419,uas international,,,,,,,,['financial services'],,
+5572,uniqlo,,,,,,,,['retail'],,
+5679,underwriters laboratories,,,1894.0,,,,,['financial services'],,
+5693,ugro capital,,,1993.0,,,,,,,
+5726,unimark remedies,,,1982.0,,,,,['pharma'],,
+5932,u.s. polo assn,,,1890.0,,,,,['retail'],,
+5999,unistal systems,,,1994.0,,,,,['software product'],,
+6194,umang dairies,,,1994.0,,,,,['fmcg'],,
+6239,unity infraprojects,,,1979.0,,doll_0.1148 b,,,['engineering & construction'],mr. abhijit kumar avarsekar,
+6257,uti technology services,,,1993.0,,,,,['it services & consulting'],,
+12336,upstox,india,,,,,,,['fintech'],,mumbai
+6520,ultimate flexipack,,,1987.0,,,,,['petrochemicals'],,
+6494,urbanpro,,,2011.0,,,,,['edtech'],,
+6502,united industries,,,1985.0,,,,,['industrial machinery'],,
+6528,urjanet energy solutions,,,2010.0,,,,,['it services & consulting'],,
+6624,utility projects and services,,,2006.0,,,,,['engineering & construction'],,
+6750,uni klinger,,,1983.0,,,,,['industrial machinery'],,
+6769,ummeed housing finance,,,2016.0,,,,,['financial services'],,
+6811,unison pharmaceuticals,,,1981.0,,,,,['pharma'],,
+6926,uttam toyota,,,2000.0,,,,,['automobile'],,
+6949,unschool learning,,,2019.0,,,,,['edtech'],,
+6956,uti mutual fund,,,1963.0,,,,,['financial services'],,
+7063,unify technologies,,,2015.0,,,,,['it services & consulting'],,
+7258,ultratech cement ltd- rmc div,,,,,,,,['engineering & construction'],,
+7426,ub engineering,,,1963.0,,,,,['engineering & construction'],,
+7440,uma polymers,,,1987.0,,,,,['packaging'],,
+7506,unitech power transmission,,,1995.0,,,,,['power'],,
+7523,ust product engineering,,,1996.0,,,,,['it services & consulting'],,
+7536,unicom infotel,,,1996.0,,,,,['telecom'],,
+7563,ultratech india,,,1992.0,,,,,['pharma'],,
+7587,ubs investment bank,,,,,,,,['investment banking / venture capital / private equity'],,
+7617,utsav fashion,,,2000.0,,,,,['internet'],,
+7752,ukay metal industries,,,1988.0,,,,,['metals & mining'],,
+7871,upman placements,,,2002.0,,,,,['recruitment'],,
+7894,uttam sugar mills,,,1993.0,,,,,['food processing'],,
+7901,us technology,,,,,,,,['it services & consulting'],,
+7987,united biotech,,,1997.0,,,,,['pharma'],,
+8425,u k paints,,,1919.0,,,,,['building material'],,
+8434,ubique systems,,,2000.0,,,,,['recruitment'],,
+8530,utracon structural systems,,,1998.0,,,,,['engineering & construction'],,
+8678,usha fire safety equipments,,,1988.0,,,,,['industrial machinery'],,
+8716,unique builders,,,2002.0,,,,,['engineering & construction'],,
+8783,u n mehta institute of cardiology & research centre,,,1982.0,,,,,['education & training'],,
+8795,unthinkable solutions,,,2019.0,,,,,['it services & consulting'],,
+8902,universal precision screws,,,2006.0,,,,,['industrial machinery'],,
+8906,u c s k m public school,,,,,,,,['education & training'],,
+8994,urbacon trading & contracting,,,2011.0,,,,,['engineering & construction'],,
+9065,ujala credit co-operative society,,,2012.0,,,,,['financial services'],,
+9120,usg boral building products,,,2014.0,,,,,['building material'],,
+9211,uber eats,,,2014.0,,,,,['internet'],,
+9242,unlistedguru,,,2021.0,,,,,['financial services'],,
+9352,upl-2,,,,,,,,['agro chemicals'],,
+9388,udaan express,,,,,,,,,,
+9524,uniworld logistics,,,2002.0,,,,,['logistics'],,
+9462,universal cables,,,1962.0,,,,,['building material'],,
+9487,umasons auto compo,,,2000.0,,,,,['auto components'],,
+9548,united nations,,,1945.0,,,,,['other'],,
+9631,ucertify,,,2004.0,,,,,['edtech'],,
+9646,unitech plasto components,,,2003.0,,,,,['petrochemicals'],,
+9721,uv infratech systems,,,,,,,,,,
+9790,universal construction machinery and equipment,,,1974.0,,,,,['industrial machinery'],,
+11170,uãåsportsparadise(12252942),,,,,,,,,,
+11266,uabsparrssbalticeestifiliaal(11478957),,,,,,,,,,
+11268,uipsspaceoãå(16248245),,,,,,,,,,
+11269,umeshspaceoãå(14489714),,,,,,,,,,
+11271,upspacedigitaloãå(16623016),,,,,,,,,,
+11272,upspawnoãå(16046688),,,,,,,,,,
+11273,urbanspaoãå(12531228),,,,,,,,,,
+11274,urmasuuspalu(12867543),,,,,,,,,,
+11275,urspuudenmaanrakennus-jasaneerauspalveluoãå(12436211),,,,,,,,,,
+11276,ustiginvestoãå(12136503),,,,,,,,,,
+11277,uudenmaansisustus-japuhdistuspalvelutoãå(12441778),,,,,,,,,,
+13754,unstoppable domains,united states,,,,,,,['internet software & services'],,las vegas
+13736,upside foods,united states,,,,,,,['other'],,berkeley
+13452,uisee technology,china,,,,,,,"['supply chain, logistics, & delivery']",,beijing
+11760,unit,united states,,,,,,,['fintech'],,new york
+154785,unisound,china,,2012.0,,doll_7.6930000000000005 b,,0.0,"['artificial intelligence', 'technology', 'software and it']",not found,beijing
+13220,upside,united states,,,,,,,['mobile & telecommunications'],,dc
+11959,uplight,united states,,,,,,,['other'],,boulder
+12033,unite us,united states,,,,,,,['health'],,new york
+13105,uniswap,united states,,,,,,,['fintech'],,new york
+13009,unqork,united states,,,,,,,['fintech'],,new york
+12194,uptake,united states,,,,,,,['artificial intelligence'],,chicago
+12216,uniphore,united states,,2008.0,,,,,['artificial intelligence'],,palo alto
+12928,uala,argentina,,,,,,,['fintech'],,buenos aires
+12234,unico,brazil,,,,,,,['artificial intelligence'],,sao paulo
+12411,ubtech robotics,china,,,,,,,['hardware'],,shenzhen
+12474,upgrade,united states,,,,,,,['fintech'],,san francisco
+66181,unilever,uk,,,148012.0,doll_13.024000000000001 b,doll_5.82 b,doll_0.807 b,['packaged goods'],mr. alan w. jope,london
+68240,union pacific corporation,united states,"1400 douglas street, omaha, nebraska, 68179",1969.0,29905.0,doll_18.419 b,doll_2.266 b,doll_0.6809999999999999 b,"['railways', 'transportation', 'infrastructure']",lance m. fritz,
+48386,united parcel service,united states,55 glenlake pkwy ne,1907.0,534000.0,doll_19.05 b,doll_9.72 b,doll_1.2890000000000001 b,"['courier', 'transportation']",carol b. tome,atlanta
+91266,u.s. bancorp,united states,"800 nicollet mall, minneapolis, minnesota, 55402-7000",,68796.0,doll_8.016 b,doll_2.35 b,doll_7.605 b,"['financial services', 'banking services']",andrew cecere,
+55616,united heavy machinery,russia,,,,doll_5.358 b,doll_0.096 b,doll_0.011 b,['machinery-manufacturing manufacturing '],,
+93121,universal music group,netherlands,,,,doll_4.62 b,doll_1.0050000000000001 b,doll_0.10500000000000001 b,['entertainment'],lucian c. grainge,
+22691,uob,singapore,,,,doll_3.8280000000000003 b,,,"['banks', 'financialservices']",,
+136448,unicredit,italy,,1998.0,90836.0,doll_2.162 b,doll_0.018591 b,doll_0.151 b,"['financial services', 'banking services', 'insurance']",andrea orcel,porta nuova
+27521,united rentals,united states,100 1st stamford pl ste 700,1997.0,20400.0,doll_2.5460000000000003 b,doll_0.9720000000000001 b,doll_0.13899999999999998 b,"['industries', 'rent / lease services', 'b2b services']",matthew john flannery,stamford
+14469,udr apartments,united states,,,,doll_2.191 b,doll_0.146 b,doll_0.033 b,,,
+67201,ulta beauty,united states,"suite 120, 1000 remington boulevard, bolingbrook, illinois, 60440",1990.0,37000.0,doll_2.38 b,doll_0.86 b,doll_0.985 b,['retailing'],david c. kimbell,
+14562,upm-kymmene,finland,,1996.0,,doll_1.8739999999999999 b,doll_1.16 b,doll_0.152 b,['paper'],jussi pesonen,helsinki
+125953,united microelectronics corporation,taiwan,"no.3, li-shin road ii, hsinchu science park, 300",1980.0,19500.0,doll_2.335 b,doll_0.76 b,doll_0.194 b,"['semiconductors', 'tech']",stan hung,hsinchu science park
+136996,ubiquiti,united states,,,1223.0,doll_1.766 b,doll_0.173 b,doll_0.378 b,"['technology', 'network hardware and software', 'software and it', 'networking products / solutions', 'communications equipment']",robert pera,
+47489,unity software inc.,united states,,2004.0,5245.0,doll_2.6559999999999997 b,doll_0.11100000000000002 b,doll_-0.532 b,"['technology', 'software and it', 'video games / mobile games / tech games / casino games']",john riccitiello,
+169696,uni-president enterprises,taiwan,"no. 301, zhongzheng road, yongkang district, tainan, 710",,6000.0,doll_1.276 b,doll_0.016236 b,doll_0.682 b,"['consumer defensive', 'food and beverage', 'beverages', 'non-alcoholic beverages', 'dairy products', 'food products', 'fmcg', 'package foods']",win yang,
+96033,u.s. steel,united states,,,24540.0,doll_0.6599999999999999 b,doll_2.045 b,doll_0.404 b,"['steelproducers', 'steelindustry']",david b. burritt,
+50147,unimicron,taiwan,,,,doll_0.62 b,doll_0.45599999999999996 b,doll_0.124 b,['electronics tech tech-hardware '],,
+20707,united internet,germany,"elgendorfer strasse 57, montabaur, 56410",1988.0,9638.0,doll_0.446 b,doll_0.006104 b,doll_0.45 b,"['communication services', 'software and it', 'technology', 'software products', 'telecom']",not found,montabaur
+58500,ultragenyx,united states,,,,doll_0.29700000000000004 b,doll_0.034 b,doll_0.064 b,"['pharmaceuticals', 'biotech']",,
+45568,u.s. cellular,united states,,,,doll_0.173 b,doll_0.418 b,doll_0.027000000000000003 b,,,
+15328,uniti,united states,,,,doll_0.144 b,doll_0.11299999999999999 b,doll_0.03083 b,['real-estate reit investment telecommunication infrastructure '],,
+60195,unitil corporation,united states,,,,doll_0.08299999999999999 b,doll_0.054000000000000006 b,doll_0.08020000000000001 b,"['utility companies', 'electricity', 'oil&gas', 'energy']",,
+33856,ultimate games,poland,,,,doll_0.01945 b,,,"['video games', 'entertainment']",,
+62441,uphealth,united states,,,,doll_0.047119999999999995 b,doll_0.014000000000000002 b,doll_0.053000000000000005 b,"['telehealth', 'healthcare', 'software', 'tech']",,
+55075,u.s. gold corp,united states,,,,doll_0.04307 b,,doll_0.01211 b,['mining gold-mining '],,
+135940,unitech group,india,,,149000.0,doll_0.05734 b,doll_0.057793 b,doll_0.454 b,"['real estate', 'rent / lease services', 'property investments']",alan jope,
+33600,unity biotechnology,united states,,,,doll_0.060880000000000004 b,doll_0.005019999999999999 b,doll_0.05306 b,"['pharmaceuticals', 'biotech']",,
+16258,united insurance holdings,united states,"suite 100, 1110 w. commercial blvd., fort lauderdale, florida, 33309",,,doll_0.06539 b,doll_0.11000000000000001 b,doll_0.015 b,['insurance'],,
+25347,u.s. xpress enterprises,united states,,,,doll_0.011 b,doll_0.19 b,doll_0.03108 b,['transportation'],,
+41861,united bankshares,united states,"300 united center, , 500 virginia street e, charleston, west virginia, 25301",,2966.0,doll_0.011 b,doll_0.1 b,doll_0.366 b,"['financial services', 'banking services']",not found,
+25376,userjoy technology,taiwan,,,,doll_0.011 b,doll_0.05493 b,doll_0.01184 b,"['videogames', 'entertainment', 'tech']",,
+25408,usd partners,united states,,,,doll_0.011 b,doll_0.011 b,doll_0.04478 b,,,
+54624,unifi,united states,,,3100.0,doll_0.016 b,doll_0.079 b,doll_0.00863 b,,,
+43751,united,japan,,,,doll_0.018 b,,,"['software', 'tech', 'video games', 'entertainment']",,
+63169,urogen pharma,united states,,,,doll_0.019 b,doll_0.06243 b,doll_0.011 b,['pharmaceuticals biotech '],,
+61424,ubm development,austria,,,,doll_0.022 b,,,['real estate'],,
+61346,uranium royalty,canada,,,,doll_0.025 b,,doll_0.00522 b,['uranium'],mr. scott eric melbye,
+16834,upland software,united states,,,,doll_0.025 b,doll_0.031 b,doll_0.05701 b,"['software', 'tech']",,
+61314,urban one,united states,,,,doll_0.025 b,doll_0.048 b,doll_0.0586 b,['mediapress'],,
+39904,unity bancorp,united states,,,,doll_0.028000000000000004 b,doll_0.09431999999999999 b,doll_0.05091 b,"['banks', 'financialservices']",,
+63750,ur energy,united states,,,,doll_0.028000000000000004 b,doll_1e-05 b,doll_0.0112 b,"['uranium', 'energy', 'mining']",,
+61090,utah medical products,united states,,,,doll_0.032 b,doll_0.05162 b,doll_0.020239999999999998 b,['medical-devices '],,
+17507,up fintech (tiger brokers),china,,,,doll_0.061 b,doll_0.022 b,doll_0.01055 b,['financial-services tech '],,
+17923,umh properties,united states,,,,doll_0.073 b,doll_0.019 b,doll_0.021 b,"['real estate', 'consumer services', 'property investments']",not found,
+53313,universal health realty income trust,united states,,,,doll_0.071 b,doll_0.0879 b,doll_0.011 b,"['real estate', 'investment', 'reits']",,
+17668,univest,united states,,,,doll_0.076 b,doll_0.028000000000000004 b,doll_0.08956 b,['investment financial-services insurance '],,
+62336,united fire group,united states,"118 2nd ave se, cedar rapids, iowa, 52401-1212",,1903.0,doll_0.075 b,doll_0.096 b,doll_0.255 b,"['energy', 'oil and gas']",not found,
+60128,ufp technologies,united states,,,,doll_0.089 b,doll_0.031 b,doll_0.04957 b,['manufacturing'],,
+38816,u.s. silica,united states,,,,doll_0.094 b,doll_0.13899999999999998 b,doll_0.011 b,['mining'],,
+38752,universal logistics holdings,united states,,,,doll_0.093 b,doll_0.202 b,doll_0.020999999999999998 b,['transportation'],,
+157184,uniqure,netherlands,,,,doll_0.10200000000000001 b,,doll_0.329 b,['gene-therapy genomics pharmaceuticals biotech '],,
+23460,usertesting,united states,,,,doll_0.10800000000000001 b,doll_0.018 b,doll_0.06386 b,"['software', 'tech']",,
+23429,usana,united states,,,,doll_0.11100000000000002 b,doll_0.10300000000000001 b,doll_0.011 b,"['multilevelmarketing', 'wellness', 'dietarysupplements']",,
+59777,uniper,germany,,,,doll_0.119 b,doll_26.937 b,doll_2.0629999999999997 b,"['energy', 'electricity']",,
+45344,uni-select,canada,,,,doll_0.126 b,doll_0.16999999999999998 b,doll_0.08009999999999999 b,,,
+38524,u.s. physical therapy,united states,,,3158.0,doll_0.11299999999999999 b,doll_0.045 b,doll_0.031 b,"['healthcare', 'healthcare products', 'hospitals']",not found,
+18212,uponor,finland,,,,doll_0.129 b,,,,,
+45409,utz brands,united states,"900 high street, hanover, pennsylvania, 17331",,3469.0,doll_0.13 b,doll_0.13 b,doll_0.02 b,"['consumer defensive', 'package foods']",not found,
+165601,universal corporation,united states,,,20000.0,doll_0.133 b,doll_0.236 b,doll_0.086 b,"['consumer defensive', 'tobacco products', 'tobacco and cigarette', 'agriculture products', 'consumer services']",not found,
+63552,uranium energy,united states,,,,doll_0.145 b,doll_0.0 b,doll_-0.014 b,"['energy', 'uranium', 'mining']",not found,
+38560,upstart,united states,,,,doll_0.13899999999999998 b,doll_0.099 b,doll_0.00592 b,['financial-services tech '],,
+38018,uct (ultra clean holdings),united states,,,,doll_0.148 b,doll_0.242 b,doll_0.01 b,"['semiconductors', 'tech', 'tech hardware']",,
+18400,udemy,united states,,,1238.0,doll_0.15 b,doll_0.515 b,doll_-0.08 b,"['education', 'training services', 'internet or mobile app based business']",not found,
+163264,urban edge properties,united states,,,,doll_0.187 b,doll_0.041999999999999996 b,doll_0.102 b,"['real estate', 'financial services', 'investments', 'property investments']",not found,
+30592,usa compression partners,united states,,,,doll_0.20400000000000001 b,doll_0.067 b,doll_-0.038 b,"['energy', 'oil and gas', 'utilities', 'gas utilities']",not found,
+30691,usiminas,brazil,,,,doll_0.20299999999999999 b,doll_0.65 b,doll_0.175 b,"['steelproducers', 'steelindustry']",sérgio leite de andrade,
+51746,united natural foods,united states,"313 iron horse way, providence, rhode island, 02908-5637",1976.0,28300.0,doll_0.24300000000000002 b,doll_2.7800000000000002 b,doll_0.149 b,['manufacturing'],j. alexander m.,
+173632,united industrial corporation,singapore,,,2300.0,doll_0.24100000000000002 b,,0.0,['real estate'],not found,
+51681,urban outfitters,united states,"5000 s broad st, philadelphia, pennsylvania, 19112",,19000.0,doll_0.248 b,doll_0.004548 b,doll_0.31 b,"['clothing', 'retail']",not found,
+42278,uniqa insurance group ag,austria,"untere donaustrasse 21, wien, 1029",,,doll_0.25 b,doll_0.8300000000000001 b,0.0,"['financial services', 'insurance']",not found,
+184548,ubisoft,france,,1986.0,,doll_0.268 b,doll_0.23700000000000002 b,doll_0.020999999999999998 b,['software'],,rennes
+51639,ultrapar participacoes,brazil,"avenida brigadeiro luis antonio, 1.343, 8 andar, bela vista, sao paulo, 01.317-910",,,doll_0.27 b,doll_2.0300000000000002 b,doll_0.167 b,"['energy', 'chemicals', 'oil and gas', 'utilities', 'gas utilities', 'natural gas generation']",mr. marcos marinho lutz,
+20352,unicaja banco,spain,"avenida de andalucia, numeros 10 y 12, malaga, 29007",,,doll_0.343 b,doll_0.16899999999999998 b,doll_0.123 b,"['financial services', 'banking services']",mr. manuel  menendez menendez,
+67266,unifirst,united states,,,,doll_0.358 b,doll_0.2 b,doll_0.013000000000000001 b,['clothing'],,
+19457,umpqua holdings,united states,"one southwest columbia street, s-1200, portland, oregon, 97204",,4000.0,doll_0.376 b,doll_0.13 b,doll_0.42 b,"['financial services', 'banking services']",not found,
+46432,united community bank,united states,125 hwy 515 e,,2921.0,doll_0.403 b,doll_0.08 b,doll_0.261 b,"['financial services', 'banking services']",not found,blairsville
+20480,umb financial,united states,"1010 grand ave, kansas city, missouri, 64106",,3529.0,doll_0.40800000000000003 b,doll_0.132 b,doll_0.353 b,"['financial services', 'banking services']",not found,
+28930,uwm holdings,united states,,,,doll_0.563 b,doll_0.21600000000000003 b,doll_0.123 b,['financialservices'],,
+20271,unite group (unite students),united-kingdom,,,,doll_0.487 b,,,['real-estate '],,
+41992,uol group,singapore,,,1900.0,doll_0.43200000000000005 b,doll_0.001913 b,doll_0.225 b,['real estate'],not found,
+148705,under armour,united states,"3rd floor, 1020 hull street, baltimore, maryland, 21230",,7100.0,doll_0.00876 b,doll_0.005683 b,doll_0.36 b,"['consumer cyclical', 'clothing', 'apparels and accessories', 'textile', 'consumer non durables', 'footwear', 'shoes', 'sports goods']",not found,
+128353,universal forest products,united states,,,14000.0,doll_0.5389999999999999 b,doll_0.9720000000000001 b,doll_0.535 b,"['basic materials', 'forest products', 'wood products']",not found,
+29152,univar solutions,united states,"3075 highland pkwy ste 200, downers grove, illinois, 60515-5560",,9450.0,doll_0.5429999999999999 b,doll_0.95 b,doll_0.46 b,"['basic materials', 'chemicals', 'consumer durables']",not found,
+159522,upl,india,,,11524.0,doll_0.659 b,doll_0.648 b,doll_0.439 b,"['basic materials', 'chemicals', 'agriculture related']",not found,
+65089,united tractors,indonesia,,,,doll_0.6 b,doll_0.769 b,doll_0.179 b,['mining coal-mining energy '],,
+138337,universal display corporation,united states,,,,doll_0.607 b,doll_0.553 b,doll_0.184 b,"['technology', 'electronics', 'electrical products', 'technology hardware and instruments', 'computers hardware', 'capital goods', 'semiconductors']",not found,
+21345,unipolsai,italy,,,,doll_0.7110000000000001 b,doll_1.497 b,doll_0.08399999999999999 b,['financialservices'],,
+28576,unum,united states,,,,doll_0.818 b,doll_1.201 b,doll_0.146 b,['insurance'],richard paul mckenney,
+67040,us foods,united states,,,28000.0,doll_0.8210000000000001 b,doll_2.949 b,doll_0.032 b,['food markets'],pietro satriano,
+181059,umicore,belgium,"rue du marais 31, bruxelles, 1000",1989.0,11050.0,doll_0.967 b,doll_0.026508 b,doll_0.682 b,['general mining'],mathias miedreich,brussels
+67850,uipath,united states,,,,doll_0.786 b,doll_0.099 b,doll_0.040999999999999995 b,"['software', 'tech']",,
+57025,ugi corporation,united states,,,11300.0,doll_0.8140000000000001 b,doll_1.006 b,doll_0.17099999999999999 b,"['utilities', 'oil and gas', 'gas utilities', 'electric utilities']",mr. roger  perreault,
+21792,united utilities,united-kingdom,,,,doll_0.844 b,,,['utility-companies '],,
+35777,unibail-rodamco-westfield,france,"cs 31622, paris cedex 16, 75772",,3495.0,doll_0.772 b,doll_0.002776 b,doll_-1.071 b,"['real estate', 'construction', 'property investments', 'infrastructure', 'commercial properties', 'construction', 'investments', 'retail']",not found,
+35264,united therapeutics,united states,"1040 spring st, silver spring, maryland, 20910",,,doll_1.189 b,doll_0.186 b,doll_0.475 b,"['healthcare', 'healthcare products', 'biotechnology']",not found,
+49632,unilever indonesia,indonesia,,,,doll_1.202 b,doll_0.27999999999999997 b,doll_0.054000000000000006 b,"['food', 'consumergoods']",,
+27872,united airlines holdings,united states,"233 south wacker drive, chicago, illinois, 60606",1968.0,84100.0,doll_1.6809999999999998 b,doll_2.898 b,doll_-1.964 b,"['industries', 'airlines', 'aviation', 'travel and transport']",scott kirby,
+22496,universal health services,united states,"367 s gulph rd, king of prussia, pennsylvania, 19406-3121",1979.0,89400.0,doll_1.052 b,doll_1.26 b,doll_0.989 b,"['healthcare', 'hospitals', 'healthcare products', 'healthcare service']",marc d. miller,
+181057,ucb,belgium,,1928.0,,doll_1.7260000000000002 b,doll_0.6799999999999999 b,doll_0.125 b,['pharmaceuticals'],jean-christophe tellier,brussels
+170177,united utilities group,uk,"haweswater hse, lingley green avenue, warrington, wa53lp",,5354.0,doll_0.86 b,doll_0.002193 b,doll_-0.066 b,"['utilities', 'water utilities']",not found,
+57772,unite group (unite students),uk,,,,doll_0.44299999999999995 b,,,['realestate'],,
+69185,unitedhealth group,united states,"9900 bren rd e, hopkins, minnesota, 55343-9664",1977.0,350000.0,doll_48.852 b,doll_29.755000000000003 b,doll_17.28 b,"['healthcare', 'healthcare service', 'insurance', 'healthcare products']",andrew witty,
+91212,ups,united states,,,267890.0,doll_19.05 b,doll_8.4628 b,,,ms. carol b. tome,
+91328,ubs group ag,switzerland,"bahnhofstr. 45, zurich, 8001",1998.0,71385.0,doll_6.893000000000001 b,doll_0.0 b,doll_7.457 b,"['financial services', 'banking services', 'asset management']",ralph hamers,
+91394,"uber technologies, inc.",united states,,,29300.0,doll_6.266 b,doll_1.7454999999999998 b,,,mr. dara  khosrowshahi,
+157824,united overseas bank ltd,singapore,"80 raffles place, uob plaza, singapore, 048624",1935.0,24346.0,doll_3.973 b,doll_0.889 b,doll_2.956 b,"['financial services', 'banking services']",wee ee cheong,
+86563,unicredit s.p.a.,italy,piazza gae aulenti 3 tower a,,80879.0,doll_2.965 b,doll_3.91 b,,"['finance, insurance, and real estate']",mr. andrea  orcel,milano
+70016,"ulta beauty, inc.",united states,,1990.0,16000.0,doll_2.182 b,doll_0.48550000000000004 b,,,mr. david c. kimbell,
+91808,unicharm corp,japan,"sumitomo fudosan mita twin bldg. wt wng, 3-5-27, mita, minato-ku, tokyo, 108-8575",,16665.0,doll_2.2079999999999997 b,doll_0.7 b,,['consumer packaged goods'],mr. takahisa  takahara,
+70978,ucb sa,belgium,"allee de la recherche, 60, anderlecht, 1070",,8600.0,doll_2.271 b,doll_0.006365999999999999 b,doll_0.11699999999999999 b,"['healthcare', 'pharmaceutical', 'biopharmaceutical', 'biotechnology', 'technology', 'healthcare products']",jean-christophe tellier,
+92042,ubiquiti inc.,united states,"685 3rd ave fl 27, new york, 10017-4024",,1223.0,doll_1.825 b,doll_0.1016 b,,['technology and communications'],mr. robert j. pera,
+92227,unilever plc,united kingdom,"unilever house, 100 victoria embankment, london, greater london, ec4y0dy",,,doll_11.784 b,doll_6.2 b,,['consumer packaged goods'], mr. alan w. jope,
+170177,united utilities group,uk,"haweswater hse, lingley green avenue, warrington, wa53lp",,5354.0,doll_0.7849999999999999 b,doll_0.002193 b,doll_-0.066 b,"['utilities', 'water utilities']",not found,
+173217,ultra electronics holdings,uk,"35 portman square, marylebone, london, w1h6lr",1920.0,4500.0,doll_0.307 b,doll_0.001001 b,doll_0.078 b,"['industries', 'electronics', 'aerospace and defense']",not found,
+144388,uk commercial property reit limited,uk,,,,doll_0.134 b,doll_0.296 b,doll_0.278 b,['property investments'],not found,
+177509,urban logistics reit,uk,,,,doll_0.644 b,doll_0.217 b,doll_0.201 b,"['real estate', 'property investments']",not found,
+88545,urovant sciences ltd.,united kingdom,,,,doll_0.5142 b,,,,not found,
+88612,unicorn aim vct plc,united kingdom,,,,doll_0.26 b,,,,not found,
+88712,u and i group plc,united kingdom,,,,0,,,,not found,
+74000,up global sourcing holdings plc,united kingdom,,,,doll_0.11320000000000001 b,,,,mr. simon a. showman,
+75137,usinas siderurgicas de minas gerais,brazil,"11th floor, avenue do contorno, 6594, savassi, belo horizonte, minas gerais, 30110-044",,,doll_0.2 b,doll_0.63 b,doll_1.784 b,"['basic materials', 'iron and steel', 'metal fabrication products']",mr. sergio leite de andrade,
+150697,ucar,china,,,,doll_0.0281 b,,0.0,,not found,
+75418,uniti s.a,,,,,doll_0.0317 b,,,,mr. stephane  oria,
+75419,u10 corp,,,,,doll_0.0325 b,,,,mr. thierry  liã¨vre,
+75458,upergy,,,,,doll_0.0198 b,,,,mr. david  buffelard,
+75504,uv germi sa,,,,,doll_0.0119 b,,,,mr. andres  bordas,
+75540,union technologies informatique,,,,,doll_0.0046 b,,,,ms. jacqueline fouet aumard,
+139811,uni-president china holdings ltd,china,"no. 131, linhong road, shanghai hongqiao linkong economic zone, changning district, 200335",,30430.0,doll_0.00412 b,doll_0.0036720000000000004 b,doll_0.218 b,"['consumer defensive', 'food and beverage', 'food products', 'non-alcoholic beverages', 'beverages']",not found,
+75808,universal scientific industrial ,,,,,doll_2.556 b,,,,not found,
+76353,uas drone corp,,,,,doll_205136,,,,mr. yossef  balucka,
+76470,unet credit finance services ltd,,,,,doll_0.0013 b,,,,yoav  tsabar,
+76484,utron ltd,,,,,doll_0.0016 b,,,,mr. haim m. shani,
+76775,unitronics ,,,,,doll_0.32580000000000003 b,,,,ms. bareket  shani,
+76809,umanis sa,,,,2465.0,doll_0.29519999999999996 b,,,,mr. laurent  piepszownik,
+76813,union financière de france banque sa,,,,1260.0,doll_0.3093 b,,,,mr. julien  brami,
+76953,uniply industries ltd,,,,,doll_0.6656 b,,,,not found,
+76960,univastu india ltd,,,,,doll_0.7268 b,,,,not found,
+76976,"urbas grupo financiero, sa",,,,,0,,,,mr. juan antonio acedo fernã¡ndez,
+77037,uzin utz ag,,,,1413.0,doll_0.38139999999999996 b,,,,not found,
+77049,uestra hannoversche verkehrsbetriebe ag,,,,2745.0,doll_0.198 b,,,,not found,
+77085,usu software ag,,,,,doll_0.2376 b,,,,mr. bernhard  oberschmidt,
+77114,umweltbank ag,,,,,doll_0.563 b,,,,mr. jã¼rgen  koppmann,
+77253,uet united electronic technology ag,,,,,doll_0.014 b,,,,mr. werner  neubauer,
+77258,uca ag,,,,,doll_0.0161 b,,,,not found,
+77266,united labels ag,,,,,doll_0.0192 b,,,,mr. peter matthias boder,
+77269,unidevice ag,,,,,doll_0.0211 b,,,,dr. christian  pahl,
+77345,umt united mobility technology ag,,,,,doll_0.0329 b,,,,dr. albert  wahl ph.d.,
+77573,u-blox holding ag,,,,1147.0,doll_0.6157 b,,,,mr. thomas  seiler,
+78071,u banquet group holding ltd,,,,4690.0,doll_0.8801 b,,,,not found,
+78124,universal technologies holdings ltd,,,,,doll_0.7159 b,,,,mr. jinyang  chen,
+78155,universe entertainment and culture group company ltd,,,,,doll_0.49860000000000004 b,,,,not found,
+78380,ulferts international ltd,,,,,doll_0.1662 b,,,,not found,
+78435,union asia enterprise holdings ltd,,,,,doll_0.0938 b,,,,mr. liang  huang,
+78617,unity enterprise holdings ltd,,,,,doll_0.3543 b,,,,mr. leung  chan,
+78618,ucloudlink group inc.,,,,,doll_0.0455 b,,,,mr. chaohui  chen,
+78849,urals stampings plant pao,,,,3313.0,doll_0.7150000000000001 b,,,,not found,
+78950,unibel,france,,,,doll_0.22799999999999998 b,doll_0.003377 b,doll_0.469 b,"['consumer defensive', 'package foods', 'food products', 'fmcg']",not found,
+79229,unifique telecomunicações sa,,,,1572.0,0,,,,not found,
+79258,unicasa industria de moveis sa,,,,,doll_0.2296 b,,,,gustavo  dall'onder,
+79619,urb-it ab,,,,,doll_0.8337 b,,,,not found,
+79625,upsales technology ab,,,,,doll_0.8737999999999999 b,,,,mr. daniel  wikberg,
+79730,unibap ab,,,,,doll_0.3922 b,,,,ms. lena w. jansson,
+79790,unltd. travel group ab,,,,,doll_0.0883 b,,,,mr. jens petter stenseth,
+79899,uswe sports ab ,,,,,0,,,,not found,
+80041,uniqure n.v.,,,,,doll_0.8364 b,,,,mr. matthew craig kapusta,
+80122,"unifin financiera, s. a. b. de c. v.",,,,,doll_1.095 b,,,,not found,
+80136,"urbi, desarrollos urbanos, s.a.b. de c.v.",,,,,doll_0.1105 b,,,,not found,
+80317,urja global ltd,,,,,doll_0.9630000000000001 b,,,,not found,
+80320,uniphos enterprises ltd,,,,,doll_0.908 b,,,,not found,
+80705,united corporations,canada,,,,doll_0.00107 b,doll_-0.016 b,doll_-0.018 b,"['financial services', 'asset management']",not found,
+106208,uni-select inc.,canada,"170 industriel blvd, boucherville, quebec, j4b2x3",,4800.0,doll_0.13 b,doll_0.16 b,,['retailing'],"mr. brian  mcmanus b.a., m.b.a.",
+80970,urbana corporation,,,,,doll_0.1764 b,,,,not found,
+81265,unisys corp,united states,"801 lakeview dr ste 100, blue bell, pennsylvania, 19422-1961",,,doll_0.0587 b,doll_0.21000000000000002 b,,['technology and communications'],mr. albert el tassi,
+81269,urbanfund corp,,,,,doll_0.0589 b,,,,mr. mitchell steven cohen,
+81364,uex corporation,,,,,doll_0.21359999999999998 b,,,,"mr. roger marcel lemaitre p.geo., p.eng., m.sc., b.sc.l, p. geo., mba, b.sc.",
+81415,uranium participation corporation,,,,,doll_0.7327 b,,,,not found,
+143495,unipar carbocloro,brazil,,,,doll_0.157 b,doll_0.001237 b,doll_0.39 b,"['basic materials', 'chemicals']",mauricio parolin russomanno,
+81750,unifiedpost group sa,,,,1306.0,doll_0.3485 b,,,,mr. hans a. leybaert,
+156673,unimicron technology corporation,taiwan,"no. 179, shanying road, guishan district, taoyuan, 333",,,doll_2.5140000000000002 b,doll_0.003585 b,doll_0.453 b,"['technology', 'electronics', 'capital goods', 'pcb']",not found,
+175236,u-ming marine transport corporation,taiwan,,,,doll_0.002 b,doll_0.463 b,doll_0.162 b,"['industries', 'shipping']",not found,
+177189,united renewable energy,taiwan,,,,doll_0.123 b,doll_0.473 b,doll_-0.043 b,"['technology', 'solar power devices']",not found,
+131587,upi semiconductor corp.,taiwan,,,,doll_6.851000000000001 b,,0.0,"['technology', 'semiconductors', 'processors / chips', 'technology hardware and instruments']",not found,
+81894,united integrated services co. ltd,,,,,doll_3.665 b,,,,mr. chao shui  chen,
+156673,unimicron technology corporation,taiwan,,,,doll_2.5140000000000002 b,doll_0.003585 b,doll_0.453 b,"['technology', 'electronics', 'capital goods', 'pcb']",not found,
+81976,universal vision biotechnology co. ltd,,,,,doll_2.128 b,,,,not found,
+82038,universal cement corp,,,,,doll_1.402 b,,,,not found,
+82089,"ultrachip, inc.",,,,,doll_1.216 b,,,,not found,
+82130,unitech printed circuit board corp,,,,,doll_1.093 b,,,,not found,
+82143,"universal microwave technology, inc.",,,,,doll_1.1300000000000001 b,,,,not found,
+82165,unictron technologies corp,,,,,doll_0.889 b,,,,not found,
+82348,unitech computer co. ltd,,,,,doll_0.595 b,,,,not found,
+82395,utechzone co. ltd,,,,,doll_0.5389999999999999 b,,,,mr. joseph  tzou,
+82429,universal microelectronics co. ltd,,,,2953.0,doll_0.483 b,,,,not found,
+82485,union insurance co. ltd,,,,1118.0,doll_0.442 b,,,,not found,
+82511,"userjoy technology co.,ltd.",,,,,doll_0.397 b,,,,not found,
+82576,universal incorp,,,,,doll_0.40499999999999997 b,,,,not found,
+82588,up young cornerstone corp,,,,,doll_0.41100000000000003 b,,,,not found,
+82595,united alloy-tech company,,,,,doll_0.45199999999999996 b,,,,not found,
+82676,unizyx holding corp,,,,,doll_1.3820000000000001 b,,,,mr. gordon  yang,
+82712,usi corp,,,,,doll_3.274 b,,,,mr. yi-gui  wu,
+83015,uss co. ltd,,,,1109.0,doll_52.678999999999995 b,,,,mr. yukihiro  ando,
+161600,united urban investment corporation,japan,,,,doll_44.660000000000004 b,doll_0.343 b,doll_0.125 b,"['real estate', 'property investments', 'commercial properties', 'investments']",not found,
+83157,"ulvac, inc.",,,,6063.0,doll_30.330000000000002 b,,,,mr. setsuo  iwashita,
+153664,ube industries,japan,"1978-96 kogushi, ube, ube-shi, yamaguchi, 755-8633",,11010.0,doll_0.0020099999999999996 b,doll_0.58 b,doll_0.179 b,"['basic materials', 'chemicals']",mr. masato  izumihara,
+154121,universal entertainment corporation,japan,,,7866.0,doll_0.0017 b,doll_0.66 b,doll_-0.139 b,"['consumer cyclical', 'video games / mobile games / tech games / casino games', 'gaming', 'leisure']",mr. jun  fujimoto,
+83239,"ushio, inc.",japan,"20f, asahi seimei otemachi bldg., 2-6-1, ote-machi, chiyoda-ku, tokyo, 100-8150",,5053.0,doll_21.877000000000002 b,doll_0.13 b,,['industrial goods and machinery'],mr. koji  naito,
+83302,"usen-next holdings co.,ltd.",,,,4692.0,doll_15.600999999999999 b,,,,mr. yasuhide  uno,
+155776,united super markets holdings,japan,233 s wacker dr,,28905.0,doll_0.0013 b,doll_0.005228 b,doll_0.039 b,"['consumer cyclical', 'retail', 'super markets', 'department stores']",not found,chicago
+83397,uacj corp,,,,9722.0,doll_11.987 b,,,,mr. miyuki  ishihara,
+83409,ut group co. ltd,,,,40078.0,doll_12.311 b,,,,mr. yoichi  wakayama,
+83610,union tool co.,,,,1479.0,doll_6.687 b,,,,mr. takao  katayama,
+84281,uts marketing solutions holdings ltd,,,,1304.0,doll_0.5819 b,,,,mr. koon yew lee,
+84293,umatrin holding ltd,,,,,doll_0.0046 b,,,,mr. hin chai eu,
+84298,ug healthcare corp ltd,,,,1118.0,doll_0.15280000000000002 b,,,,mr. keck keong  lee,
+84312,united overseas australia limited,,,,1511.0,doll_0.9826 b,,,,not found,
+84651,union gas holdings,singapore,,,,doll_0.0268 b,doll_0.05777 b,,['energy'],mr. hark piang  teo,
+84534,uni-asia group ltd,,,,,doll_0.10909999999999999 b,,,,mr. kenji  fukuyado,
+84556,united global ltd,,,,,doll_0.1407 b,,,,mr. thuan hor  tan,
+84774,usp group ltd,,,,,doll_0.0045 b,,,,mr. sau ian  tanoto,
+84904,ums holdings ltd,,,,,doll_0.6497 b,,,,mr. andy  luong,
+135140,uob-kay hian holdings,singapore,,,,doll_0.00102 b,doll_0.46 b,doll_0.111 b,"['financial services', 'stock markets, trading, capital markets']",not found,
+85819,uniper se,germany,"holzstrasse 6, duesseldorf, 40221",,11644.0,doll_0.01461 b,doll_0.1807 b,doll_-4.595 b,"['utilities', 'energy', 'gas utilities', 'electric utilities', 'electricity generation', 'power generation']",klaus-dieter maubach,
+131384,united electronics company,saudi arabia,,,9000.0,doll_0.22000000000000003 b,doll_0.001555 b,doll_0.518 b,"['utilities', 'electric utilities']",not found,
+135713,united international transportation company,saudi arabia,,,,doll_0.917 b,,0.0,"['industries', 'rent / lease services']",mr. fawaz abdullah ahmed danish,
+85972,united wire factories company,,,,,doll_0.10800000000000001 b,,,,not found,
+85981,united cooperative assurance company,,,,,doll_0.13 b,,,,not found,
+86022,umm al-qura cement company,,,,,doll_0.154 b,,,,not found,
+129281,unipol gruppo,italy,"via stalingrado, 45, bologna, 40128",,11836.0,doll_0.40800000000000003 b,doll_1.689 b,doll_0.69 b,"['financial services', 'insurance', 'banking services']",carlo cimbri,
+86274,unieuro spa,italy,"via piero maroncelli 10, forli', 47121, forli'-cesena, italy",,,doll_0.3537 b,doll_0.35 b,,['retailing'],mr. giancarlo nicosanti monterastelli,
+121825,unipolsai assicurazioni,italy,"via stalingrado, 45, bologna, 40128",,,doll_0.008199999999999999 b,doll_0.016253 b,doll_0.758 b,"['financial services', 'insurance']",not found,bologna
+86583,uniphar plc,,,,2300.0,doll_0.101 b,,,,mr. gerard  rabbette b.comm fca,
+86588,udg healthcare plc,ireland,"river walk 20, citywest business campus, citywest, dublin, d24nr23",,9000.0,doll_0.194 b,doll_0.13 b,,['business and consumer services'],mr. brendan patrick mcatamney,
+153798,uponor oyj,finland,"ayritie 20, vantaa, 01510",,,doll_0.13 b,doll_0.001313 b,doll_0.096 b,"['industries', 'construction materials', 'plastics / plastic products', 'building products and equipment']",mr. michael  rauterkus,
+86721,united bankers oyj,,,,,doll_0.1353 b,,,,mr. patrick  anderson,
+147554,upm-kymmene oyj,finland,"alvar aallon katu 1, helsinki, 00100",,17512.0,doll_1.92 b,doll_0.010815 b,doll_0.001417 b,"['basic materials', 'paper and pulp']",jussi pesonen,
+174466,uniti group limited,australia,,,,doll_0.217 b,doll_0.762 b,doll_0.084 b,"['communication services', 'telecom']",mr. michael  simmons,
+87169,universal store holdings limited,,,,1065.0,doll_0.4118 b,,,,ms. alice  barbery,
+87394,"universal biosensors, inc.",,,,,doll_0.1574 b,,,,not found,
+87540,us masters residential property fund,,,,,doll_0.0871 b,,,,mr. brian  disler,
+88414,ulaslar turizm yatirimlari ve dayanikli tüketim mallari ticaret pazarlama a.s.,,,,,doll_0.0787 b,,,,not found,
+89146,uzertas boya sanayi ticaret ve yatirim anonim sirketi,,,,,doll_0.2736 b,,,,not found,
+89182,usak seramik sanayi a.s.,,,,,doll_0.35769999999999996 b,,,,not found,
+89278,union auction public company ltd,,,,,doll_0.5389999999999999 b,,,,mr. varunyoo  sila,
+89294,united power of asia public company ltd,,,,,doll_0.5980000000000001 b,,,,mr. kawin  chalermroj,
+89319,uac global public company ltd,,,,,doll_0.397 b,,,,mr. chatchaphol  prasopchoke,
+89362,uob kay hian securities ,,,,,doll_0.296 b,,,,mr. chaipat  nakmontanakum,
+89406,united palm oil industry public company ltd,,,,,doll_0.24500000000000002 b,,,,not found,
+89420,union petrochemical public company ltd,,,,,doll_0.266 b,,,,not found,
+89521,unimit engineering public company ltd,,,,,doll_0.11399999999999999 b,,,,not found,
+89591,union pioneer public company ltd,,,,,doll_0.4854 b,,,,not found,
+89599,union plastic public company ltd,,,,,doll_0.5275 b,,,,not found,
+89630,urbana property fund,,,,,doll_0.2002 b,,,,not found,
+89674,ubis ,,,,,doll_0.10900000000000001 b,,,,mr. piyakun  kritayanutkul,
+89686,union textile industries public company ltd,,,,,doll_0.16799999999999998 b,,,,not found,
+89732,univanich palm oil public company ltd,,,,,doll_0.653 b,,,,mr. john harvey clendon,
+89785,ufuk yatirim yonetim ve gayrimenkul a.s.,,,,,doll_0.8301000000000001 b,,,,not found,
+89965,"udr, inc.",,,,1219.0,doll_1.717 b,,,,mr. thomas w. toomey,
+126200,"uipath, inc.",united states,,,2863.0,doll_2.059 b,doll_0.892 b,doll_-0.525 b,"['technology', 'software and it', 'artificial intelligence', 'robotics', 'automation', 'software and it infrastructure']",daniel dines,
+90128,"universal health services, inc.",,,,68300.0,doll_1.2429999999999999 b,,,,mr. marc d. miller,
+90133,union electric co.,,,,3998.0,doll_0.95 b,,,,not found,
+173568,united states steel corporation,united states,"room 1500, 600 grant st, pittsburgh, pennsylvania, 15219-2800",,24540.0,doll_1.048 b,doll_0.020274999999999998 b,doll_0.155 b,"['basic materials', 'iron and steel', 'metals', 'mining']",not found,
+159235,"upstart holdings, inc.",united states,,,1497.0,doll_0.8150000000000001 b,doll_0.801 b,doll_0.135 b,['financial services'],mr. david j. girouard,
+90272,uwm holdings corporation class,,,,8000.0,doll_0.734 b,,,,mr. mathew r. ishbia,
+171296,unum group,united states,"1 fountain sq, chattanooga, tennessee, 37402",,10100.0,doll_0.00113 b,doll_0.011852999999999999 b,doll_0.824 b,"['financial services', 'insurance']",not found,
+159552,us foods holding,united states,"9399 w higgins rd ste 100, rosemont, illinois, 60018-6900",,28000.0,doll_0.8320000000000001 b,doll_2.95 b,doll_0.164 b,"['consumer defensive', 'retail', 'consumer non durables', 'food chains / distributor', 'package foods']",mr. pietro  satriano,
+90670,utopya turizm insaat isletmecilik ticaret a.s.,,,,,doll_0.9917 b,,,,not found,
+90693,ulusoy un sanayi ve ticaret a.s.,,,,,doll_0.153 b,,,,mr. kamil  adem,
+91169,ulusoy elektrik imalat taahhüt ve ticaret a.s.,,,,,doll_1.06 b,,,,not found,
+95363,us bancorp,united states,,,,doll_7.548 b,doll_2.3120000000000003 b,doll_0.721 b,['banking'],andrew j. cecere,
+93293,uni-president,taiwan,,,,doll_1.309 b,doll_1.7 b,doll_0.7117 b,"['food, drink & tobacco']","chao kai huang, ching tien li",
+93694,ugi,united states,,,5800.0,doll_0.768 b,doll_0.8699999999999999 b,doll_0.10700000000000001 b,['oil & gas operations'],roger perreault,
+93734,unibail-rodamco,france,,,,doll_1.045 b,doll_0.298 b,doll_-0.11499999999999999 b,['construction'],jean-marie tritant,
+180860,uniqa,austria,,1922.0,,doll_0.246 b,doll_0.82 b,doll_0.372 b,['full line insurance'],andreas brandstetter,vienna
+97248,unit8,switzerland,,2017.0,41000.0,,doll_0.00723 b,,['technology'],,
+100976,urbantz,belgium,,2015.0,55000.0,,doll_0.0030299999999999997 b,,['technology'],,
+97440,ulrich mã¼ller wealth academy,germany,,2014.0,6000.0,,doll_0.00352 b,,['education'],,
+98626,uplink network,germany,,2013.0,46000.0,,doll_0.028140000000000002 b,,['telecoms'],,
+97790,ultra premium direct,france,,2013.0,81000.0,,doll_0.02078 b,,['agricultural commodities'],,
+103968,upslide,france,,2013.0,75000.0,,doll_0.00827 b,,['support services'],,
+102081,unicoenergia,italy,,2013.0,,,doll_0.00866 b,,['energy'],,
+100619,united silk,japan,,2016.0,,,doll_0.00508 b,,['sales & marketing'],,
+100699,unifa,japan,,2013.0,,,doll_0.013349999999999999 b,,['technology'],,
+102922,unify communications,united kingdom,,2012.0,,,doll_0.00279 b,,['telecoms'],,
+100854,uyama resort,japan,,2016.0,,,doll_0.00232 b,,['travel & leisure'],,
+100961,unerry,japan,,2015.0,,,doll_0.00531 b,,['technology'],,
+100980,ubiquicom,italy,,2004.0,,,doll_0.00314 b,,['technology'],,
+101157,ureru net advertising,japan,,2010.0,,,doll_0.02594 b,,['advertising'],,
+102544,univers auto,france,,2012.0,,,doll_0.011210000000000001 b,,['automobiles'],,
+101342,unique plus,japan,,2015.0,,,doll_0.0025800000000000003 b,,['energy'],,
+101427,up young,taiwan,,2002.0,,,doll_0.03617 b,,['industrial goods'],,
+178802,uniplaces,united kingdom,,2012.0,,,doll_0.0034 b,,['internet'],,lisbon
+102864,upgrade,italy,,2014.0,,,doll_0.00296 b,,['advertising'],,
+101684,unusual,singapore,,1997.0,,,doll_0.04541 b,,['travel & leisure'],,
+101690,union gas,singapore,,2016.0,,,doll_0.06247 b,,['energy'],,
+102314,uqido,italy,,2010.0,,,doll_0.00199 b,,['technology'],,
+102327,urbano bernabe manufacturing,spain,,2014.0,,,doll_0.013550000000000001 b,,['support services'],,
+102427,unite flooring,uk,,2013.0,,,doll_0.004889999999999999 b,,['construction'],,
+102650,unicommerce 2000,bulgaria,,2000.0,,,doll_0.01175 b,,['food & beverage'],,
+102792,uab incorpus,lithuania,,2007.0,,,doll_0.00279 b,,['construction'],,
+104634,urban tp,france,,2014.0,,,doll_0.00352 b,,['construction'],,
+103172,utensilveneta,italy,,2014.0,,,doll_0.0019 b,,['retail'],,
+103338,universum events,romania,,2010.0,,,doll_0.0055 b,,['support services'],,
+103869,uab integre trans,lithuania,,2008.0,,,doll_0.04686 b,,['transport'],,
+104012,utopia lab,italy,,2008.0,,,doll_0.0030099999999999997 b,,['management consulting'],,
+104078,umeå release finans,sweden,,2013.0,,,doll_0.048909999999999995 b,,['financial services'],,
+104289,universal iberland,spain,,2004.0,,,doll_0.0212 b,,['food & beverage'],,
+104375,uab hostinger,lithuania,,2004.0,,,doll_0.01216 b,,['technology'],,
+120904,union gas metano spa,italy,via domenico scarlatti 30,,,,doll_0.05594 b,,['energy'],,milano
+104427,urbania projekt,germany,,2010.0,,,doll_0.0048 b,,['construction'],,
+104961,ultimate holdings,united kingdom,,2011.0,,,doll_0.0043 b,,['property'],,
+104983,ulabox,spain,,2010.0,,,doll_0.0095 b,,['ecommerce'],,
+105155,upline,italy,,2011.0,,,doll_0.0022 b,,['support services'],,
+105232,us ecology,united states,"101 s capitol blvd ste 1000, boise, idaho, 83702",,,doll_0.101 b,doll_0.988 b,doll_0.005 b,['environmental and waste management services'],,
+105294,unitika ltd,japan,"osaka center bldg., 4-1-3, kyutaro-machi, chuo-ku, osaka-shi, 541-8566",,3037.0,doll_0.10729999999999999 b,doll_0.1 b,,['chemicals'],,
+105342,unionbank of the philippines,philippines,"unionbank plaza, ortigas center, meralco avenue cor.onyx & sapphire roads, pasig, 1605",,3676.0,doll_0.39 b,doll_0.1 b,,['financial services'],,
+105353,united arrows ltd.,japan,"3-28-1, jingumae, shibuya-ku, tokyo, 150-0001",,4213.0,doll_0.399 b,doll_0.11000000000000001 b,,['retailing'],,
+105444,uniti group,united states,"2101 riverfront drive, suite a, little rock, arkansas, 72202",,,doll_0.13999999999999999 b,doll_0.11000000000000001 b,doll_0.123 b,"['real estate', 'consumer services', 'property investments']",not found,
+105448,u.s. silica holdings inc,united states,"24275 katy freeway, suite 600, texas, 77494",,1863.0,doll_0.8857999999999999 b,doll_0.11000000000000001 b,,['metals and mining'],,
+105486,unilumin group co ltd,china,"building a, no. 112 yongfu road, qiaotou community, fuyong street, baoan district, shenzhen, guangdong, 518103",,5876.0,doll_0.9482999999999999 b,doll_0.11000000000000001 b,,['construction'],,
+105495,uno minda ltd,india,"nawada, fatehpur, sikanderpur badda imt manesar, gurgaon, 122004",,5766.0,doll_0.36 b,doll_0.11000000000000001 b,,['automotive'],,
+142533,usana health sciences,united states,"3838 west parkway boulevard, salt lake city, utah, 84120",,1978.0,doll_0.197 b,doll_0.12 b,doll_0.116 b,"['consumer defensive', 'chemicals', 'consumer durables', 'fmcg']",not found,
+152773,unipro,russia,"presnenskaya naberezhnaya, d.10, blok b, 23 etazh, moscow, 123112",,,doll_0.13 b,doll_0.12 b,0.0,"['utilities', 'electricity generation']",not found,
+105767,udr inc,united states,"suite 200, 1745 shea center drive, highlands ranch, colorado, 80129",,1219.0,doll_1.3 b,doll_0.13 b,,['construction'],,
+105958,ulker biskuvi sanayi as,turkey,"davutpasa cad. no:10 topkapi, istanbul, 34692",,9498.0,doll_0.8055 b,doll_0.13999999999999999 b,,['consumer packaged goods'],,
+106317,united bank for africa plc,nigeria,"57 marina, lagos",,10281.0,doll_0.6152000000000001 b,doll_0.16999999999999998 b,,['financial services'],,
+106405,uflex ltd,india,"a 107-108, sector iv, noida, 201301",,6910.0,doll_0.5034 b,doll_0.18 b,,['paper and packaging'],,
+106610,uol group ltd,singapore,"101 thomson road, rank_33-00 united square, singapore, 307591",,1500.0,doll_0.43 b,doll_0.19 b,,['construction'],,
+106612,university college london hospitals nhs foundation trust,united kingdom,"2nd floor central, 250 euston road, london, greater london, nw1 2pg",,11945.0,0,doll_0.19 b,,['pharmaceuticals and healthcare'],,
+106664,unifirst corp,united states,"68 jonspin road, wilmington, massachusetts, 01887",,14000.0,doll_0.36 b,doll_0.2 b,,['consumer packaged goods'],,
+106782,universal corp,united states,"stony point ii building, 9201 forest hill avenue, richmond, virginia, 23235",,25000.0,doll_0.13 b,doll_0.21000000000000002 b,,['consumer packaged goods'],,
+106811,ulvac inc,japan,"2500, hagisono, chigasaki-shi, kanagawa, 253-8543",,6235.0,doll_0.22999999999999998 b,doll_0.21000000000000002 b,,['industrial goods and machinery'],,
+107016,universal robina corp,philippines,"8th floor, tera tower,bridgetowne, e. rodriguez, jr. avenue (c5 road), ugong norte, quezon, 1110",,12317.0,doll_0.5700000000000001 b,doll_0.24 b,,['consumer packaged goods'],,
+107208,umw holdings bhd,malaysia,"menara umw, jalan puncak, off jalan p ramlee, kuala lumpur, 50250",,6405.0,doll_0.1 b,doll_0.27 b,,['automotive'],,
+107686,union of european football associations,switzerland,"46 route de geneve, nyon, waadt, 1260",,,0,doll_0.35 b,,['government and non-profit organisations'],,
+107972,unibel sa,france,"2 allee de longchamp, suresnes, 92150",,11800.0,doll_0.22999999999999998 b,doll_0.4 b,,['consumer packaged goods'],,
+108060,united spirits ltd,india,"ub tower, vittal mallya road, bengaluru, karnataka, 560001",,3145.0,doll_0.76 b,doll_0.42000000000000004 b,,['consumer packaged goods'],,
+171234,unione di banche italiane,italy,"piazza vittorio veneto, 8, bergamo, 24122",,19342.0,0,doll_0.55 b,0.0,"['financial services', 'banking services']",not found,
+108522,u-haul holding co,united states,"5555 kietzke lane ste 100, reno, nevada, 89511",,15456.0,doll_1.21 b,doll_0.5700000000000001 b,,['transport and logistics'],,
+108653,upl ltd,india,"uniphos house, c. d. marg, 11th roard, madhu park, mumbai, 400052",,13054.0,doll_0.67 b,doll_0.63 b,,['chemicals'],,
+108679,united aircraft corporation,russia,"ul. b. pionerskaya, d. 1, moscow, 115054",,,doll_2.3600000000000003 b,doll_0.007694 b,doll_-0.282 b,"['industries', 'aerospace and defense']",not found,
+108919,university of texas md anderson cancer center,united states,"1515 holcombe boulevard, houston, texas, 77030",,22088.0,0,doll_0.77 b,,['government and non-profit organisations'],,
+109066,universal scientific industrial shanghai co ltd,china,"no.1558, zhangdong road, shanghai, 201203",,24768.0,doll_0.55 b,doll_0.86 b,,['technology and communications'],,
+109080,ufp industries inc,united states,"2801 east beltline ne, grand rapids, michigan, 49525",,15000.0,doll_0.53 b,doll_0.86 b,,['construction'],,
+109232,ugi corp,united states,"460 n gulph rd, p o box 858, king of prussia, pennsylvania, 19406",,5800.0,doll_0.82 b,doll_1.01 b,,['energy and utilities'],,
+169604,united company rusal,russia,"ul. oktyabr'skaya, d. 8, ofis. 410, kaliningrad, 236006",,,doll_0.011519999999999999 b,doll_0.011994 b,doll_0.003225 b,"['basic materials', 'mining', 'metals', 'aluminum', 'bauxite mining']",evgenii nikitin,
+168418,uber technologies,united states,"1515 3rd street, san francisco, california, 94158",,29300.0,doll_8.053 b,doll_1.75 b,doll_-0.496 b,"['technology', 'transportation', 'consumer services', 'software and it', 'software products', 'ride sharing']",dara khosrowshahi,
+109864,ubs wealth management,switzerland,"bahnhofstrasse 45, zurich, 8001",,9329.0,0,doll_1.94 b,,['financial services'],,
+110216,usaa,united states,"9800 fredericksburg road, san antonio, texas, 78288",,37000.0,0,doll_3.75 b,,['financial services'],,
+114253,ur finances limited,,,,,,,,,,
+116648,u limited,,,,,,,,,,
+116653,u account ltd,,,,,,,,,,
+116657,u agaty ltd,,,,,,,,,,
+116660,u a electrical ltd,,,,,,,,,,
+116665,u agnieszka ltd,,,,,,,,,,
+116667,u amar ltd,,,,,,,,,,
+116687,u & c von oppell limited,,,,,,,,,,
+116689,u & g transport limited,,,,,,,,,,
+116691,u & g limited,,,,,,,,,,
+116692,u & h investments limited,,,,,,,,,,
+116694,u & h limited,,,,,,,,,,
+116695,u & i un limited,,,,,,,,,,
+116698,u & h property developers limited,,,,,,,,,,
+116699,u & h mortgage advisors limited,,,,,,,,,,
+116708,u & i consultancy limited,,,,,,,,,,
+116711,u & i counselling c.i.c.,,,,,,,,,,
+116719,u & i fuels limited,,,,,,,,,,
+116720,u and i finance plc,,,,,,,,,,
+116726,u and i investment portfolio limited,,,,,,,,,,
+116732,u & i learning limited,,,,,,,,,,
+116737,u & i radio limited,,,,,,,,,,
+116741,u & i trading services limited,,,,,,,,,,
+116752,u & k motors limited,,,,,,,,,,
+116754,u & k limited,,,,,,,,,,
+116757,u & k partners limited,,,,,,,,,,
+116758,u & m marts limited,,,,,,,,,,
+116761,u & m logistics ltd,,,,,,,,,,
+116763,u & m pannu limited,,,,,,,,,,
+116767,u & m property investment ltd,,,,,,,,,,
+116770,u & r electrical ltd,,,,,,,,,,
+116771,u & p stores limited,,,,,,,,,,
+116774,u & r fitness limited,,,,,,,,,,
+116785,u & t limited,,,,,,,,,,
+116787,u & tariq limited,,,,,,,,,,
+116790,u & u motors ltd,,,,,,,,,,
+116796,u & z accountants limited,,,,,,,,,,
+116802,u architects limited,,,,,,,,,,
+116804,u apparel limited,,,,,,,,,,
+116807,u awan ltd,,,,,,,,,,
+116808,u b computer solutions ltd,,,,,,,,,,
+116809,u b collections ltd,,,,,,,,,,
+116812,u beautie limited,,,,,,,,,,
+116813,u. b. drylining ltd,,,,,,,,,,
+116814,u b developments limited,,,,,,,,,,
+116816,u belper limited,,,,,,,,,,
+116818,u beauty salon ltd,,,,,,,,,,
+116819,u b estates ltd,,,,,,,,,,
+116820,u bercika ltd,,,,,,,,,,
+116821,u b d equipment ltd,,,,,,,,,,
+116826,u b eyecare limited,,,,,,,,,,
+116827,u bnb ltd,,,,,,,,,,
+116828,u box da ltd,,,,,,,,,,
+116829,u bolka ltd,,,,,,,,,,
+116830,u b r management company limited,,,,,,,,,,
+116831,u brown ltd,,,,,,,,,,
+116832,u build technologies limited,,,,,,,,,,
+116834,u builder bathrooms glasgow limited,,,,,,,,,,
+116836,u cabbi ltd,,,,,,,,,,
+116837,u cab limited,,,,,,,,,,
+116838,u burn fitness training ltd,,,,,,,,,,
+116844,u can property limited,,,,,,,,,,
+116845,u can recycling cic,,,,,,,,,,
+116849,u cargo services limited,,,,,,,,,,
+116851,u c consulting limited,,,,,,,,,,
+116852,u can yoga limited,,,,,,,,,,
+116853,u c b home loans corporation limited,,,,,,,,,,
+116854,u capital management limited,,,,,,,,,,
+116855,u cash limited,,,,,,,,,,
+116857,u carz transport ltd,,,,,,,,,,
+116858,u c em facilities ltd,,,,,,,,,,
+116860,u- cee solutions limited,,,,,,,,,,
+116861,u c engineering limited,,,,,,,,,,
+116863,u c engineering and construction limited,,,,,,,,,,
+116865,u chek ltd,,,,,,,,,,
+116866,u c f limited,,,,,,,,,,
+116867,u certify ltd,,,,,,,,,,
+116868,u charge limited,,,,,,,,,,
+116869,u cioci limited,,,,,,,,,,
+116870,u choze limited,,,,,,,,,,
+116871,u c installations ltd,,,,,,,,,,
+116872,u click we deliver limited,,,,,,,,,,
+116873,u c l coachbuilders limited,,,,,,,,,,
+116874,u choose u lease catering equipment limited,,,,,,,,,,
+116875,u click v collect ltd,,,,,,,,,,
+116876,u coach ltd,,,,,,,,,,
+116879,u collect deliveries service limited,,,,,,,,,,
+116880,u coach me limited,,,,,,,,,,
+116881,u compare limited,,,,,,,,,,
+116882,u connect hub ltd,,,,,,,,,,
+116884,u corporation ltd,,,,,,,,,,
+116886,u construction group uk limited,,,,,,,,,,
+116887,u creative communications limited,,,,,,,,,,
+116888,u cre8 community arts limited,,,,,,,,,,
+116890,u c parts limited,,,,,,,,,,
+116891,u creative limited,,,,,,,,,,
+116892,u dad properties limited,,,,,,,,,,
+116896,u dentistry limited,,,,,,,,,,
+116899,u designer ltd,,,,,,,,,,
+116902,u design treorchy limited,,,,,,,,,,
+116903,u dig ltd,,,,,,,,,,
+116904,u d international healthcare limited,,,,,,,,,,
+116905,u digit ltd,,,,,,,,,,
+116907,u donutz ltd,,,,,,,,,,
+116908,u d nwachukwu ltd,,,,,,,,,,
+116910,u drain limited,,,,,,,,,,
+116911,u - drive hire uk limited,,,,,,,,,,
+116912,u drive driver training ltd,,,,,,,,,,
+116913,u drive cars limited,,,,,,,,,,
+116914,u drive cover limited,,,,,,,,,,
+116916,u drive lancs limited,,,,,,,,,,
+116918,u drive msm limited,,,,,,,,,,
+116919,u drive performance ltd,,,,,,,,,,
+116921,u drive performance group ltd,,,,,,,,,,
+116922,u e company limited,,,,,,,,,,
+116923,u. d. trading ltd,,,,,,,,,,
+116924,u d test & inspection limited,,,,,,,,,,
+116925,u d roofing limited,,,,,,,,,,
+116926,u e health ltd,,,,,,,,,,
+116927,u ecommerce ltd,,,,,,,,,,
+116928,u eat limited,,,,,,,,,,
+116929,u energy group limited,,,,,,,,,,
+116930,u energy ltd,,,,,,,,,,
+116934,u events limited,,,,,,,,,,
+116935,u facilities management limited,,,,,,,,,,
+116936,u ewy ltd,,,,,,,,,,
+116937,u fantasy ltd,,,,,,,,,,
+116938,u e onishi limited,,,,,,,,,,
+116939,u farms holdings limited,,,,,,,,,,
+116940,u f c fund management plc,,,,,,,,,,
+116941,u fashion limited,,,,,,,,,,
+116944,u finance ltd,,,,,,,,,,
+116945,u f financial services limited,,,,,,,,,,
+116953,u flex trading ltd,,,,,,,,,,
+116956,u fonez limited,,,,,,,,,,
+116957,u f1rst doctors limited,,,,,,,,,,
+116958,u 4 coffee limited,,,,,,,,,,
+116959,u 4 utility ltd,,,,,,,,,,
+116960,u furniture limited,,,,,,,,,,
+116962,u f solutions limited,,,,,,,,,,
+116963,u gen limited,,,,,,,,,,
+116964,u g c global services limited,,,,,,,,,,
+116965,u gene ltd,,,,,,,,,,
+116966,u gas electric limited,,,,,,,,,,
+116967,u global ltd,,,,,,,,,,
+116968,u g holdings limited,,,,,,,,,,
+116970,u got jokes ltd,,,,,,,,,,
+116971,u go physio ltd,,,,,,,,,,
+116972,u godsell & sons limited,,,,,,,,,,
+116973,u glow limited,,,,,,,,,,
+116974,u g properties limited,,,,,,,,,,
+116976,u graduate ltd,,,,,,,,,,
+116977,u got jokes comedy ltd,,,,,,,,,,
+116978,u grand ltd,,,,,,,,,,
+116979,u grass ltd,,,,,,,,,,
+116980,u grand k limited,,,,,,,,,,
+116982,u grow hydroponics limited,,,,,,,,,,
+116983,u grow hydro ltd,,,,,,,,,,
+116984,u h ltd,,,,,,,,,,
+116985,u g sales ltd,,,,,,,,,,
+116987,u handbag limited,,,,,,,,,,
+116988,u haitch ltd,,,,,,,,,,
+116990,u gutka ltd,,,,,,,,,,
+116991,u grzegorczyk ltd,,,,,,,,,,
+116992,u haliny i janusza ltd,,,,,,,,,,
+116996,u h films limited,,,,,,,,,,
+116997,u h m limited,,,,,,,,,,
+116998,u hire limited,,,,,,,,,,
+116999,u holdings ltd,,,,,,,,,,
+117003,u homecare ltd,,,,,,,,,,
+117006,u h y hacker young (east) limited,,,,,,,,,,
+117007,u. h. s. medical consultancy services limited,,,,,,,,,,
+117008,u h siddique limited,,,,,,,,,,
+117010,u i d investments limited,,,,,,,,,,
+117011,u i consultancy private limited,,,,,,,,,,
+117016,u invest limited,,,,,,,,,,
+117017,u island cic,,,,,,,,,,
+117018,u ishfaq limited,,,,,,,,,,
+117019,u j&r ltd,,,,,,,,,,
+117020,u i t limited,,,,,,,,,,
+117021,u janusza kuchnia polska ltd,,,,,,,,,,
+117022,u janosika limited,,,,,,,,,,
+117023,u janjua ltd,,,,,,,,,,
+117024,u joli limited,,,,,,,,,,
+117027,u k a s f p,,,,,,,,,,
+117028,u k analytical limited,,,,,,,,,,
+117031,u k anaesthesia manufacturers ltd.,,,,,,,,,,
+117032,u k brick limited,,,,,,,,,,
+117033,u kay energy ltd,,,,,,,,,,
+118939,unicredit allianz vita spa,italy,"piazza tre torri 3, milano, 20145, milano, italy",1995.0,,,,,"['finance, insurance, and real estate']",,
+119029,unicoop tirreno soc coop,italy,"strada statale s.s. aurelia km. 237 snc, piombino, 57025, livorno, italy",1945.0,,,,,"['finance, insurance, and real estate']",,
+119112,unicomm srl,italy,"via adele bei 340, cesena, 47522, forli'-cesena, italy",1980.0,,,,,['retail trade'],,
+119138,unilever italia mkt. operations srl,italy,"via paolo di dono 3/a, roma, 00142, roma, italy",1996.0,,,,,['wholesale trade'],,
+119177,u.t. communications spa,italy,"via monte napoleone 8, milano, 20121, milano, italy",1994.0,,,,,"['finance, insurance, and real estate']",,
+119202,unico la farmacia dei farmacisti spa,italy,"via garbagnate 63, lainate, 20045, milano, italy",1945.0,,,,,['wholesale trade'],,
+119206,unione farmaceutica novarese,italy,"corso vercelli 120/c, novara, 28100, novara, italy",1945.0,,,,,"['finance, insurance, and real estate']",,
+119215,unes maxi spa,italy,"viale delle industrie snc, vimodrone, 20055, milano, italy",1984.0,,,,,['retail trade'],,
+119311,unoenergy spa,italy,"corso felice cavallotti 30, sanremo, 18038, imperia, italy",2004.0,,,,,"['transportation, communications, electric, gas, and sanitary services']",,
+119312,united parcel service italia srl,italy,"via gaudenzio fantoli 15/2 15/8, milano, 20138, milano, italy",1986.0,,,,,"['transportation, communications, electric, gas, and sanitary services']",,
+119315,uno holding srl,italy,"via caldera 21, milano, 20153, milano, italy",2015.0,,,,,"['finance, insurance, and real estate']",,
+119322,umana spa,italy,"via colombara 113, venezia, 30176, venezia, italy",1997.0,,,,,['services'],,
+119340,unigra' srl,italy,"via gardizza 9/b, conselice, 48017, ravenna, italy",1970.0,,,,,['manufacturing'],,
+119365,urbaser s.a.,italy,"via consortile, avellino, 83100, avellino, italy",2015.0,,,,,['services'],,
+119416,uvet viaggi turismo spa,italy,"bastioni di porta volta 10, milano, 20121, milano, italy",1950.0,,,,,"['transportation, communications, electric, gas, and sanitary services']",,
+119515,unifarm spa unione farmacisti trentino alto adige,italy,"via provina 3, trento, 38123, trento, italy",1970.0,,,,,['wholesale trade'],,
+119568,"universal music group distribution, corp.",united states,2220 colorado ave,,,,,,,,santa monica
+119572,"universal music group, inc.",united states,2220 colorado ave,,,,,,,,santa monica
+119576,"universal music investments, inc.",united states,2220 colorado ave,,,,,,,,santa monica
+119624,"usf international holdings, llc",united states,1209 orange ste,,,,,,,,wilmington
+119654,universita' degli studi suor orsola benincasa,italy,corso vittorio emanuele 292,,,,,,,,napoli
+120736,universita' degli studi di foggia,italy,via antonio gramsci 89/91,,,,,,,,foggia
+119854,universita' degli studi di roma la sapienza,italy,piazzale aldo moro 5,,,,,,,,roma
+119858,ufi filters spa,italy,via europa 26,,,,,,,,porto mantovano
+119920,"universal services of america, lp",united states,1551 n tustin ave fl 6 ste 650,,,,,,,,santa ana
+123969,"universal protection service, lp",united states,1551 n tustin ave ste 650,,,,,,,,santa ana
+119960,umpqua bank,united states,445 se main st,,,,,,,,roseburg
+119961,uniper uk limited,united kingdom,"unit 2300 compton house, the crescent, birmingham business park",,,,,,,,birmingham
+120040,uniphore technologies inc.,united states,1001 page mill rd bldg 4 ste 100-b,,,,,,,,palo alto
+122804,university of liverpool,united kingdom,crown street,,,,,,,,liverpool
+120249,unilever innovations limited,united kingdom,unilever house springfield drive,,,,,,,,leatherhead
+120376,universita' politecnica delle marche,italy,piazza roma 22,,,,,,,,ancona
+120399,uk power networks (operations) limited,united kingdom,newington house 237 southwark bridge road,,,,,,,,london
+120465,united biscuits (uk) limited,united kingdom,"building 3 chiswick park 566 chiswick high road, chiswick",,,,,,,,london
+120467,university of maryland global campus,united states,3501 university blvd e,,,,,,,,adelphi
+120471,uml bondi limited,united kingdom,portland house 69-71 wembley hill road,,,,,,,,wembley
+120632,uniform color company,united states,942 brooks ave,,,,,,,,holland
+120636,urenco limited,united kingdom,sefton park bells hill stoke poges,,,,,,,,slough
+124802,univision communications inc.,united states,114 5th ave,,,,,,['broadcast & online media'],,new york
+120754,u.c.i.t. srl,italy,viale giuseppe duodo 5,,,,,,,,udine
+120826,uniflair spa,italy,viale della tecnica 2,,,,,,,,conselve
+121132,"university of wisconsin-stevens point, foundation inc.",united states,2100 main st rm 134,,,,,,,,stevens point
+121168,unity technologies sf,united states,30 3rd st,,,,,,,,san francisco
+121333,u.s. bank global corporate trust limited,united kingdom,125 old broad street fifth floor,,,,,,,,london
+121420,unipart group limited,united kingdom,"jupiter firstpoint, balby carr bank",,,,,,,,doncaster
+121447,urban outfitters uk limited,united kingdom,1 finsbury circus,,,,,,,,london
+123505,umb bank n.a.,united states,1010 grand blvd fl 3,,,,,,,,kansas city
+121874,"university hospitals health system, inc.",united states,3605 warrensville ctr rd,,,,,,,,shaker heights
+121877,university of michigan health system,united states,1500 e medical center dr,,,,,,,,ann arbor
+123993,united specialty insurance company,united states,1900 l don dodson drive,,,,,,,,bedford
+122055,uk space agency,united kingdom,polaris house north star avenue,,,,,,,,swindon
+122067,unique system (uk) limited,united kingdom,"unit 1a, howe moss drive, kirkhill industrial estate dyce",,,,,,,,aberdeen
+124140,usi insurance services llc,united states,100 summit lake dr 400,,,,,,,,valhalla
+122153,usi service corporation,united states,100 summit lake dr ste 400,,,,,,,,valhalla
+122612,ustc-united states technologies communication corp,united states,225 raritan ctr pkwy,,,,,,,,edison
+122639,ups logistics group inc,united states,55 glenlake pkwy,,,,,,,,atlanta
+122645,"ups international, inc.",united states,55 glenlake pkwy,,,,,,,,atlanta
+124214,upnest careers,,,2013.0,,,,,['real estate'],,
+124318,upgrade careers,,,2016.0,,,,,['financial services'],,
+124417,umr careers,,,2010.0,,,,,['hospital & health care'],,
+124652,unilever careers,,,1872.0,,,,,['retail'],,
+124654,u.s. department of housing and urban development careers,,,1930.0,,,,,['government administration'],,
+124689,upthere careers,,,2011.0,,,,,['computer software'],,
+124702,universal electronics careers,,,1986.0,,,,,['computer hardware'],,
+124824,u.s. naval research laboratory careers,,,1923.0,,,,,['research'],,
+124866,utah state legislature careers,,,1896.0,,,,,['government administration'],,
+124875,urban science careers,,,1977.0,,,,,['automotive'],,
+124898,us foods careers,,,1989.0,,,,,['food & beverages'],,
+125095,under armour careers,,,1996.0,,,,,['retail'],,
+125096,ultra mobile careers,,,2011.0,,,,,['telecommunications'],,
+147393,unicharm corporation,japan,,,16665.0,doll_2.516 b,doll_0.006418 b,doll_0.597 b,"['consumer defensive', 'fmcg', 'consumer non durables', 'personal care products', 'beauty and personal care']",takahisa takahara,
+158275,unigroup guoxin microelectronics,china,,,2192.0,doll_0.020370000000000003 b,doll_0.777 b,doll_0.284 b,"['technology', 'electronics', 'semiconductors']",not found,
+137025,udr,united states,,,1219.0,doll_0.018 b,doll_0.0012900000000000001 b,doll_0.15 b,"['real estate', 'consumer services', 'investments', 'property investments']",thomas w toomey,
+159168,unisplendour corporation,china,,,14484.0,doll_0.9960000000000001 b,doll_0.010616 b,doll_0.337 b,"['technology', 'electronics', 'technology hardware and instruments', 'computers hardware']",not found,
+137861,uwm holdings corporation,united states,,,,doll_0.966 b,doll_0.002529 b,doll_0.098 b,['financial services'],not found,
+138305,unity technologies,united states,,,5245.0,0.0,doll_0.00111 b,doll_-0.532 b,"['video games / mobile games / tech games / casino games', 'gaming', 'software and it', 'technology']",not found,
+138851,unite group,uk,,,1400.0,doll_0.00587 b,doll_0.353 b,doll_0.454 b,"['real estate', 'rent / lease services', 'property investments']",not found,
+149792,universal scientific industrial (shanghai),china,,,,doll_0.00529 b,doll_0.00868 b,doll_0.291 b,"['technology', 'electronics', 'capital goods']",not found,
+160545,united imaging,china,,,,doll_3.19 b,,0.0,"['medical equipment', 'healthcare products']",not found,
+160544,ubtech,china,,,1000.0,doll_3.19 b,,0.0,['robotics'],not found,
+149952,ultragenyx pharmaceutical,united states,,,1119.0,doll_0.00653 b,doll_0.351 b,doll_-0.454 b,"['healthcare', 'pharmaceutical', 'biotechnology', 'biopharmaceutical', 'healthcare products']",not found,
+150539,uss co ltd,japan,,,1260.0,doll_0.00408 b,doll_0.595 b,doll_0.217 b,"['consumer cyclical', 'internet or mobile app based business', 'ecommerce', 'automobile', 'automobile dealers']",not found,
+150698,ucommune,china,,,,doll_3.9579999999999997 b,,0.0,,not found,
+140228,unifirst corporation,united states,,,14000.0,doll_0.00369 b,doll_0.0018260000000000001 b,doll_0.151 b,"['industries', 'consumer services', 'apparels and accessories', 'business services']",not found,
+151819,ulvac,japan,,,6370.0,doll_0.286 b,doll_0.001335 b,doll_0.108 b,"['technology', 'electronics', 'capital goods']",not found,
+152035,unibet group plc,malta,,,,doll_0.00269 b,,0.0,"['consumer cyclical', 'gambling', 'leisure', 'entertainment']",not found,
+152328,"utz brands, inc.",united states,"900 high street, hanover, pennsylvania, 17331",,3741.0,doll_0.246 b,doll_0.12 b,doll_0.02 b,"['consumer defensive', 'package foods']",not found,
+152386,ultra clean holdings,united states,,,7066.0,doll_0.00207 b,doll_0.002101 b,doll_0.119 b,"['technology', 'electronics', 'semiconductors']",not found,
+141985,unizo holdings company,japan,,,,doll_5.836 b,,0.0,['real estate'],not found,
+142500,unidas - todos os direitos reservados,brazil,,,,doll_0.00198 b,,0.0,"['industries', 'rent / lease services']",not found,
+174948,ushio,japan,,,,doll_0.194 b,doll_0.0010860000000000002 b,doll_0.092 b,"['industries', 'industry machinery']",not found,
+153517,uti asset management company,india,,,,doll_0.00183 b,doll_0.14 b,doll_0.067 b,"['financial services', 'mutual funds', 'asset management', 'investments']",not found,
+164391,"ucloud technology co., ltd.",china,,,,doll_0.00225 b,,0.0,"['technology', 'software and it infrastructure']",not found,
+164801,unilumin group,china,,,,doll_0.159 b,,0.0,"['technology', 'electronics', 'capital goods']",not found,
+132865,united development company,qatar,,,,doll_0.155 b,doll_0.56 b,doll_0.089 b,['real estate'],not found,
+154435,union medical healthcare,hong kong,,,,doll_0.147 b,,0.0,"['healthcare', 'healthcare service', 'fmcg']",not found,
+154464,usen-nextholdings,japan,,,,doll_0.146 b,doll_0.00152 b,doll_0.059 b,"['communication services', 'telecom']",not found,
+165219,uniphar,ireland,,,,doll_0.144 b,doll_0.001942 b,doll_0.048 b,"['healthcare', 'hospitals', 'healthcare service']",not found,
+154784,udacity,united states,,,2138.0,doll_7.6930000000000005 b,,0.0,"['education', 'internet or mobile app based business', 'technology']",not found,
+176605,ut group,japan,,,,doll_0.13799999999999998 b,doll_0.0011439999999999998 b,doll_0.023 b,"['industries', 'outsourcing and staffing']",not found,
+144423,unisys corporation,united states,,,16300.0,doll_0.133 b,doll_0.002054 b,doll_-0.448 b,"['technology', 'software and it', 'software products']",not found,
+144614,umw holdings,malaysia,,,,0,,0.0,['automobile'],not found,
+144612,united integrated services,taiwan,,,,doll_0.128 b,doll_0.846 b,doll_0.091 b,"['industries', 'construction']",not found,
+177312,usi corporation,taiwan,,,,doll_0.00126 b,doll_0.002371 b,doll_0.172 b,"['basic materials', 'plastics / plastic products', 'chemicals']",not found,
+155776,united super markets holdings,japan,,,28905.0,doll_0.11699999999999999 b,doll_0.005228 b,doll_0.039 b,"['consumer cyclical', 'retail', 'super markets', 'department stores']",not found,
+166529,uacj corporation,japan,,,,doll_0.11499999999999999 b,doll_0.005713 b,doll_0.234 b,"['basic materials', 'aluminum']",not found,
+134561,"usertesting, inc.",nyse,,,,doll_0.00114 b,,0.0,,not found,
+156043,urovo technology,china,,,,doll_0.00086 b,,0.0,"['technology', 'communications equipment']",not found,
+166981,united laboratories international holdings,hong kong,,,,doll_0.10500000000000001 b,doll_0.0014119999999999998 b,doll_0.144 b,"['healthcare', 'pharmaceutical']",not found,
+135309,united malt group limited,australia,,,,doll_0.986 b,,doll_0.009 b,"['consumer defensive', 'alcoholic beverages', 'beverages']",,
+156939,union optech,china,,,,doll_0.0005899999999999999 b,,0.0,"['technology', 'electronics', 'capital goods']",,
+146301,uroica precision information engineering,china,,,,doll_0.942 b,,0.0,"['industries', 'engineering products', 'engineering services', 'conglomerate']",,
+135746,univest financial corporation,united states,,,,doll_0.0008 b,,doll_0.091 b,"['financial services', 'banking services']",,
+183957,uddeholms ab,,,1668.0,,,,,['iron & steel'],,hagfors
+183958,umeå energi,,,1887.0,,,,,['conventional electricity'],,umeå
+178480,urbanears,,,2009.0,,,,,['recreational products'],,stockholm
+183670,uralita group,,,1907.0,,,,,['building materials & fixtures'],,madrid
+178680,u.s. steel košice,,,2000.0,,,,,['iron & steel'],,košice
+178731,ubisoft bucharest,,,1992.0,,,,,['software'],,bucharest
+178732,upc romania,,,1992.0,,,,,['fixed line telecommunications'],,bucharest
+178733,ursus breweries,,,1878.0,,,,,['brewers'],,bucharest
+178734,uti holdings,,,1990.0,,,,,,,bucharest
+178800,umm,,,1977.0,,,,,['diversified industrials'],,lisbon
+178801,unicer brewery,,,1890.0,,,,,['brewers'],,matosinhos
+179019,unibet,,,1997.0,,,,,['gambling'],,gżira
+183131,utopia group,,,2002.0,,,,,['recreational services'],,luxembourg city
+179517,ubi banca,,,2003.0,,,,,['banks'],,bergamo
+182992,unipol,,,1963.0,,,,,['banks'],,bologna
+179520,unoaerre,,,1926.0,,,,,['clothing & accessories'],,arezzo
+182603,udg healthcare,,,1948.0,,,,,['pharmaceuticals'],,dublin
+179656,ulster bank,,,1836.0,,,,,['banks'],,dublin
+179657,ulsterbus foyle,,,2006.0,,,,,['travel & tourism'],,derry
+179658,ulsterbus,,,1967.0,,,,,['travel & tourism'],,belfast
+179740,upc magyarország,,,1998.0,,,,,['fixed line telecommunications'],,budapest
+180337,united shipping & trading company,,,1876.0,,,,,['marine transportation'],,middelfart
+181384,unicredit bank czech republic and slovakia,,,2006.0,,,,,['banks'],,prague
+180480,universal life,,,1970.0,,,,,['life insurance'],,nicosia
+180481,university of cyprus,,,1989.0,,,,,['education'],,nicosia
+180482,university of nicosia,,,1980.0,,,,,['education'],,nicosia
+180576,uljanik,,,1856.0,,,,,['commercial vehicles & trucks'],,pula
+181140,unicredit bulbank,,,1964.0,,,,,['banks'],,sofia
+180656,unionbank,,,1991.0,,,,,['banks'],,sofia
+180657,united bulgarian bank,,,1992.0,,,,,['banks'],,sofia
+181058,umedia,,,2010.0,,,,,['broadcasting and entertainment'],,brussels
+181060,unibind,,,1939.0,,,,,['containers and packaging'],,brussels
+181061,union minière du haut katanga,,,1906.0,,,,,['general mining'],,brussels
+182114,uhlsport,,,1948.0,,,,,['clothing & accessories'],,balingen
+182115,ulla popken,,,1880.0,,,,,['clothing & accessories'],,rastede
+182116,ultrasone,,,1991.0,,,,,['consumer electronics'],,tutzing
+182117,underberg,,,1846.0,,,,,['brewers'],,rheinberg
+183361,ursus sa,,,1893.0,,,,,['agricultural machinery'],,lublin
+184550,united airlines,,,,,,,,,,willis tower
+3556,unique identification authority of india,,,2009.0,,,,,['it services & consulting'],,
+5822,utkal alumina international,,,1993.0,,,,,['chemicals'],,
+5952,uttar pradesh jal nigam,,,1975.0,,,,,['government'],,
+9135,utkal automobiles,,,1955.0,,,,,['automobile'],,
+76376,upsellon brands holdings ltd,,,,,doll_848245,,,,ariel  dor,
+84398,uol group ltd,,,,2000.0,doll_0.599 b,,,,not found,
+84566,unusual ltd,,,,,doll_0.14830000000000002 b,,,,mr. chin soon  ong,
+89286,unique engineering and construction public company ltd,,,,,doll_0.564 b,,,,mr. prasong  suviwattanachai,
+89295,univentures public company ltd,,,,,doll_0.609 b,,,,not found,
+89537,unique mining services public company ltd,,,,,doll_0.128 b,,,,mr. dome  liewlomviboon,
+90620,united paper public company ltd,,,,,doll_1.0859999999999999 b,,,,not found,
+116650,u agency ltd,,,,,,,,,,
+116654,u a associates ltd,,,,,,,,,,
+116655,u a composites limited,,,,,,,,,,
+116656,u a extrusions limited,,,,,,,,,,
+116658,u aesthetics ltd.,,,,,,,,,,
+116659,u a engineering limited,,,,,,,,,,
+116661,u ali locum services ltd,,,,,,,,,,
+116662,u a international limited,,,,,,,,,,
+116663,u ahmed holdings ltd,,,,,,,,,,
+116664,u ahmed limited,,,,,,,,,,
+116666,u a locums ltd,,,,,,,,,,
+116668,u a logistics ltd,,,,,,,,,,
+116669,u a modern communication ltd,,,,,,,,,,
+116670,u and a auto repair centre ltd,,,,,,,,,,
+116671,u and a limited,,,,,,,,,,
+116672,u & a ahmed limited,,,,,,,,,,
+116673,u & a beds ltd,,,,,,,,,,
+116674,u and a locums limited,,,,,,,,,,
+116675,u & a holdings limited,,,,,,,,,,
+116676,u & a home appliances ltd,,,,,,,,,,
+116677,u & a fabrications ltd,,,,,,,,,,
+116678,u & a consultants limited,,,,,,,,,,
+116679,u & a supplies ltd,,,,,,,,,,
+116680,u and a capital ltd,,,,,,,,,,
+116681,u and a shoppe limited,,,,,,,,,,
+116682,u & a services ltd,,,,,,,,,,
+116683,u & a scotland ltd,,,,,,,,,,
+116684,u and a property investments limited,,,,,,,,,,
+116685,u & a (mcr) ltd,,,,,,,,,,
+116686,u & b-star ltd,,,,,,,,,,
+116688,u & ch (lh) ltd,,,,,,,,,,
+116690,u & g murtaza services limited,,,,,,,,,,
+116693,u & h groups ltd,,,,,,,,,,
+116696,u and health ltd,,,,,,,,,,
+116697,u & h real estate ltd,,,,,,,,,,
+116700,u and i clinic limited,,,,,,,,,,
+116701,u and i (ashford) ltd,,,,,,,,,,
+116702,u & i accounting ltd,,,,,,,,,,
+116703,u and i (cambridge) limited,,,,,,,,,,
+116704,u and i (bromley commercial) limited,,,,,,,,,,
+116705,u and i company secretaries limited,,,,,,,,,,
+116706,u & i connect healthcare ltd,,,,,,,,,,
+116707,u and i corporation limited,,,,,,,,,,
+116709,u and i director 1 limited,,,,,,,,,,
+116710,u and i (development and trading) limited,,,,,,,,,,
+116712,u & i drinks ltd,,,,,,,,,,
+116713,u & i employment consultants ltd,,,,,,,,,,
+116714,u and i (8ae) limited,,,,,,,,,,
+116715,u and i (gvp) limited,,,,,,,,,,
+116716,u and i director 2 limited,,,,,,,,,,
+116717,u and i group limited,,,,,,,,,,
+116718,u and i (golf) limited,,,,,,,,,,
+116721,u and i exit limited,,,,,,,,,,
+116722,u and i (innovation hubs) limited,,,,,,,,,,
+116723,u & i ijeneme consults ltd,,,,,,,,,,
+116724,u & i home. ltd,,,,,,,,,,
+116725,u and i (harwell) limited,,,,,,,,,,
+116727,u and i ipa sc limited,,,,,,,,,,
+116728,u and i ipa limited,,,,,,,,,,
+116729,u and i ipc limited,,,,,,,,,,
+116730,u & i london ltd,,,,,,,,,,
+116731,u and i ipb ltd,,,,,,,,,,
+116733,u and i plus x tc limited,,,,,,,,,,
+116734,u and i (pincents lane) ltd,,,,,,,,,,
+116735,u and i (pb) commercial limited,,,,,,,,,,
+116736,u and i partnerships ltd,,,,,,,,,,
+116738,u and i property services ltd,,,,,,,,,,
+116739,u & i properties uk ltd,,,,,,,,,,
+116740,u and i powerhouse limited,,,,,,,,,,
+116742,u and i ppp limited,,,,,,,,,,
+116743,u & i solutions ltd,,,,,,,,,,
+116744,u & i team properties ltd,,,,,,,,,,
+116745,u & i search ltd,,,,,,,,,,
+116746,u & i travels ltd,,,,,,,,,,
+116747,u & j concepts ltd,,,,,,,,,,
+116748,u & i vision ltd,,,,,,,,,,
+116749,u and i (wie) limited,,,,,,,,,,
+116750,u and i turningpoint ltd,,,,,,,,,,
+116751,u & ko ltd,,,,,,,,,,
+116753,u & k commercial ltd,,,,,,,,,,
+116755,u & l properties ltd,,,,,,,,,,
+116756,u. & leo limited,,,,,,,,,,
+116759,u & k supplies ltd,,,,,,,,,,
+116760,u and m consultants ltd,,,,,,,,,,
+116762,u and me limited,,,,,,,,,,
+116764,u and me shopping limited,,,,,,,,,,
+116765,u & m properties limited,,,,,,,,,,
+116766,u & m smiles ltd,,,,,,,,,,
+116768,u. and partners (east anglia) limited,,,,,,,,,,
+116769,u & p holdings ltd,,,,,,,,,,
+116772,u & r services ltd,,,,,,,,,,
+116773,u & r 51 ltd,,,,,,,,,,
+116775,u & r enterprise ltd.,,,,,,,,,,
+116776,u & s (newport) trading ltd,,,,,,,,,,
+116777,u & s investment ltd,,,,,,,,,,
+116778,u & s services ltd,,,,,,,,,,
+116779,u & s property ltd,,,,,,,,,,
+116780,u & s ryatt investments (uk) limited,,,,,,,,,,
+116781,u & s properties ltd,,,,,,,,,,
+116782,u & s (scot) ltd,,,,,,,,,,
+116783,u & s estates limited,,,,,,,,,,
+116784,u & s news food & wine limited,,,,,,,,,,
+116786,u and t investments ltd,,,,,,,,,,
+116788,u & u investments ltd,,,,,,,,,,
+116789,u & t union ltd,,,,,,,,,,
+116791,u & t starts services ltd,,,,,,,,,,
+116792,u & w properties ltd,,,,,,,,,,
+116793,u and w international trading company ltd,,,,,,,,,,
+116794,u & u ltd,,,,,,,,,,
+116795,u and world ltd,,,,,,,,,,
+116797,u & z company limited,,,,,,,,,,
+116798,u and v sabharwal enterprises limited,,,,,,,,,,
+116799,u a  property group limited,,,,,,,,,,
+116800,u and your skin limited,,,,,,,,,,
+116801,u & w stone masonry ltd,,,,,,,,,,
+116803,u a trading ltd,,,,,,,,,,
+116805,u a u ltd,,,,,,,,,,
+116806,u aye and co. limited,,,,,,,,,,
+116810,u. b. co (uk) ltd,,,,,,,,,,
+116811,u beauty limited,,,,,,,,,,
+116815,u aye and company trading limited,,,,,,,,,,
+116817,u best profits limited,,,,,,,,,,
+116822,u been framed upvc ltd,,,,,,,,,,
+116823,u best leader limited,,,,,,,,,,
+116824,u best deal ltd,,,,,,,,,,
+116825,u best record limited,,,,,,,,,,
+116833,u break we fix (hereford) limited,,,,,,,,,,
+116835,u build consultants ltd,,,,,,,,,,
+116839,u can fly limited,,,,,,,,,,
+116840,u cannot make it up limited,,,,,,,,,,
+116841,u can afford it ltd,,,,,,,,,,
+116842,u can occupational therapy services ltd,,,,,,,,,,
+116843,u can online ltd,,,,,,,,,,
+116846,u can travel consulting ltd,,,,,,,,,,
+116847,u can store it limited,,,,,,,,,,
+116848,u canteen ltd,,,,,,,,,,
+116850,u care we care ltd,,,,,,,,,,
+116856,u catering group ltd,,,,,,,,,,
+116859,u c d and associates limited,,,,,,,,,,
+116862,u certa off license limited,,,,,,,,,,
+116864,u choose limited,,,,,,,,,,
+116877,u c mas (uk) ltd,,,,,,,,,,
+116878,u collaboration ltd,,,,,,,,,,
+116883,u connect services limited,,,,,,,,,,
+116885,u consults limited,,,,,,,,,,
+116889,u created education limited,,,,,,,,,,
+116893,u c s (ne) ltd,,,,,,,,,,
+116894,u crolla & sons ltd.,,,,,,,,,,
+116895,u deserve productions ltd,,,,,,,,,,
+116897,u dandekar medical services ltd.,,,,,,,,,,
+116898,u deserve it 2 ltd,,,,,,,,,,
+116900,u designs ltd,,,,,,,,,,
+116901,u developments ltd,,,,,,,,,,
+116906,u - dox brand development limited,,,,,,,,,,
+116909,u dream limited,,,,,,,,,,
+116915,u dream we build ltd,,,,,,,,,,
+116917,u drive it ltd,,,,,,,,,,
+116920,u drive plus ltd,,,,,,,,,,
+116931,u energy (yorkshire) limited,,,,,,,,,,
+116932,u elite care ltd,,,,,,,,,,
+116933,u entertainment ltd,,,,,,,,,,
+116942,u fit community leisure ltd,,,,,,,,,,
+116943,u first transport ltd,,,,,,,,,,
+116946,u fit online limited,,,,,,,,,,
+116947,u fit mini limited,,,,,,,,,,
+116948,u fit group limited,,,,,,,,,,
+116949,u fit studio (leicester) limited,,,,,,,,,,
+116950,u fit production ltd,,,,,,,,,,
+116951,u fly ltd,,,,,,,,,,
+116952,u fit sash windows ltd,,,,,,,,,,
+116954,u fit wellness limited,,,,,,,,,,
+116955,u foods ( uk ) ltd,,,,,,,,,,
+116961,u fresh point ltd,,,,,,,,,,
+116969,u g food (u.k) ltd,,,,,,,,,,
+116975,u got this ltd,,,,,,,,,,
+116981,u grow ltd,,,,,,,,,,
+116986,u grow the easy way ltd,,,,,,,,,,
+116989,u hair and beauty spa ltd,,,,,,,,,,
+116993,u happy palace limited,,,,,,,,,,
+116994,u hear limited,,,,,,,,,,
+116995,u h creations ltd,,,,,,,,,,
+117000,u hire (ni) limited,,,,,,,,,,
+117001,u honey limited,,,,,,,,,,
+117002,u home construction ltd,,,,,,,,,,
+117004,u hold the key self storage ltd.,,,,,,,,,,
+117005,u i a trading ltd,,,,,,,,,,
+117009,u i jasnelven uk ltd,,,,,,,,,,
+117012,u in mind care limited,,,,,,,,,,
+117013,u international limited,,,,,,,,,,
+117014,u in mind staffing limited,,,,,,,,,,
+117015,"u international group co., ltd",,,,,,,,,,
+117025,u j n martins housing and security company limited,,,,,,,,,,
+117026,u j fashion boutique ltd,,,,,,,,,,
+117029,u just cook ltd,,,,,,,,,,
+117030,u k builders (tt) ltd,,,,,,,,,,
+117034,uk bargains4 u ltd.,,,,,,,,,,
+117035,u k cladding refurb and coatings limited,,,,,,,,,,
+124642,unruly studios careers,,,2014.0,,,,,['primary & secondary education'],,

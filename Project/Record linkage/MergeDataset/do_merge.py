@@ -1,4 +1,5 @@
 import pandas as pd
+import numpy as np
 
 class Merger:
 
@@ -19,7 +20,9 @@ class Merger:
         return id_match
 
     def most_frequent(self, l):
-        return max(set(l), key = l.count)
+        if len(l) > 0:
+            return max(set(l), key = l.count)
+        return np.nan
     
     def dict_list_to_dict_first_value(d):
         return {k: v[0] for k, v in d.items() if len(v) >= 1}
@@ -29,8 +32,8 @@ class Merger:
         for index, row in self.prediction.iterrows():
             if row["match_score"] > self.threshold:
                 score = row["match_score"]
-                l_id = row['ltable_ID']
-                r_id = row['rtable_ID']
+                l_id = row['ltable_id']
+                r_id = row['rtable_id']
                 if l_id not in self.dict_match.keys():
                     self.dict_match[l_id] = set()
                 self.dict_match[l_id].add(r_id) #((r_id, score))
@@ -54,9 +57,10 @@ class Merger:
         keys = list(self.dataset.columns)
         dict_of_merge = {k: [] for k in keys}
         for value in values:
-            tmp = Merger.dict_list_to_dict_first_value(self.dataset.loc[self.dataset['ID'] == value].to_dict(orient="list"))
+            tmp = Merger.dict_list_to_dict_first_value(self.dataset.loc[self.dataset['id'] == value].to_dict(orient="list"))
             for k, v in tmp.items():
-                dict_of_merge[k].append(v)
+                if v is not np.nan:
+                    dict_of_merge[k].append(v)
         return {k: Merger.most_frequent(self, v) for k, v in dict_of_merge.items()}
 
 
@@ -69,7 +73,7 @@ class Merger:
         list_id = Merger.getListId(self)
         res2 = []
         for index, row in self.dataset.iterrows():
-            if row['ID'] not in list_id:
+            if row['id'] not in list_id:
                 res2.append(row)
         output2 = pd.DataFrame(res2)
         list_df = [output1, output2]

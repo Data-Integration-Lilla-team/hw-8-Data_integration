@@ -1,1022 +1,1289 @@
-ID,name,country,headquarters,address,founded,employees,market_cap,revenue,profit,industry,sector,categories,ceo;
-71,oppo,,,,2004,,,,,consumer electronics & appliances,,,;
-55362,oracle,united states,,,,,doll_203.34 b,,,,,,;
-12617,oyo rooms,india,,,,,,,,,,,;
-3008,omega healthcare,united states,,,,,,,,,,,;
-167,optum,,,,1977,,,,,healthcare,,,;
-12482,ola cabs,india,,,,,,,,,,,;
-519,orange business services,,,,2006,,,,,it services & consulting,,,;
-535,ocwen financial solutions,,,,1988,,,,,financial services,,,;
-595,oracle financial services software,india,,,,,,,,,,,;
-7628,optimus global services,,,,0,,,,,it services & consulting,,,;
-706,oil and natural gas corporation,,,,1956,,,,,oil & gas,,,;
-765,orion edutech,,,,2006,,,,,edtech,,,;
-829,om logistics,,,,1999,,,,,logistics,,,;
-51009,olam,singapore,,,,,doll_4.55 b,,,,,,;
-1020,otis elevator,,,,1853,,,,,industrial machinery,,,;
-1023,ocs group,,,,1996,,,,,facility management services,,,;
-1080,ola electric mobility,india,,,,,,,,auto & transportation,,,;
-1111,omics international,,,,2007,,,,,printing & publishing,,,;
-40323,omaxe,india,,,,,doll_0.15 b,,,,,,;
-1168,olx,,,,2006,,,,,it services & consulting,,,;
-65539,orient electric,india,,,,,,,,,,,;
-1377,oriental structural engineers,,,,1986,,,,,engineering & construction,,,;
-1422,ongc petro additions,,,,2006,,,,,petrochemicals,,,;
-1449,onward technologies inc,,,,1991,,,,,bpo,,,;
-1450,offshore infrastructures,,,,1995,,,,,engineering & construction,,,;
-1459,orient technologies,,,,1992,,,,,electrical equipment,,,;
-1564,okaya power,,,,1987,,,,,power,,,;
-1629,opentext technologies,,,,1991,,,,,software product,,,;
-1718,omax autos,,,,1983,,,,,auto components,,,;
-1755,onshore construction,,,,1995,,,,,engineering & construction,,,;
-1791,online legal india,,,,2019,,,,,legal,,,;
-2171,onward eservices,,,,2003,,,,,it services & consulting,,,;
-2204,onprocess technology,,,,1998,,,,,logistics,,,;
-2495,orix auto infrastructure services,,,,1995,,,,,logistics,,,;
-148643,owens corning,united states,,,,,doll_8.35 b,,,,,,;
-2531,omkar realtors and developers group,,,,2003,,,,,real estate,,,;
-2636,oneplus,,,,2013,,,,,consumer electronics & appliances,,,;
-2665,orcapod consulting services,,,,2010,,,,,it services & consulting,,,;
-2793,orchid chemicals & pharmaceuticals,,,,1992,,,,,pharma,,,;
-2814,offshoot agency,,,,2002,,,,,it services & consulting,,,;
-2893,optimhire,,,,2018,,,,,it services & consulting,,,;
-183867,oriflame,,,,1967,,,,,consumer goods,,,;
-3002,ozone overseas,,,,2000,,,,,architecture & interior design,,,;
-128929,oberoi realty,india,,,,,,,,,,,;
-3330,opporture,,,,0,,,,,marketing & advertising,,,;
-3375,oodlestechnologies,,,,2009,,,,,it services & consulting,,,;
-3381,ordnance factory,,,,1775,,,,,government,,,;
-3424,onicra credit rating agency,,,,1993,,,,,fintech,,,;
-3446,onsitego,,,,2010,,,,,internet,,,;
-67490,oceaneering international,united states,,,,,,,,,,,;
-3535,oil india,,,,1959,,,,,oil & gas,,,;
-3572,onida,,,,1981,,,,,consumer electronics & appliances,,,;
-3598,overnite express,,,,1987,,,,,logistics,,,;
-3640,odessa,,,,1998,,,,,it services & consulting,,,;
-3702,onmobile global,,,,2000,,,,,telecom,,,;
-3726,oerlikon graziano transmission,,,,1906,,,,,industrial machinery,,,;
-3835,orra fine jewellery,,,,2004,,,,,jewellery,,,;
-3844,organic india,,,,1997,,,,,fmcg,,,;
-3881,oneassist consumer solutions,,,,2011,,,,,financial services,,,;
-3907,orion security solutions,,,,2005,,,,,law enforcement & security,,,;
-3980,oxford university press,,,,1478,,,,,printing & publishing,,,;
-30433,office depot,united states,,,,,doll_2.31 b,,,,,,;
-4047,om innovation call services,,,,2005,,,,,bpo,,,;
-56068,olympus,japan,,,,,,,,,,,;
-4137,oriental carbon & chemicals,,,,1978,,,,,chemicals / agri inputs,,,;
-4176,optimum infosystem,,,,1997,,,,,it services & consulting,,,;
-4237,onpassive,,,,2018,,,,,it services & consulting,,,;
-16576,oriental aromatics,india,,,,,doll_0.17 b,,,,,,;
-4285,outworx solutions,,,,2003,,,,,it services & consulting,,,;
-4291,oncquest laboratories,,,,2000,,,,,healthcare,,,;
-4355,omniactive health technologies,,,,2004,,,,,fitness & wellness,,,;
-4372,operational energy group india,,,,2007,,,,,oil & gas,,,;
-4481,oxigen services,,,,2004,,,,,fintech,,,;
-143775,oriental bank of commerce,india,,,,,,,,,,,;
-4576,oneclick it consultancy,,,,2012,,,,,it services & consulting,,,;
-4600,orchid pharma,,,,1992,,,,,pharma,,,;
-4652,oasys cybernetics,,,,2000,,,,,it services & consulting,,,;
-4670,olive bar & kitchen,,,,2000,,,,,hospitality,,,;
-4815,olx autos,,,,0,,,,,,,,;
-146497,olectra greentech,india,,,,,doll_0.48 b,,,,,,;
-5084,oakridge international school,,,,2011,,,,,education & training,,,;
-5220,onto innovation,united states,,,,,doll_3.83 b,,,,,,;
-182341,orient paper mills,india,,,,,,,,,,,;
-5318,oman national engineering & investment company,,,,1978,,,,,engineering & construction,,,;
-183330,optimus s.a.,,warsaw,,1988,,,,,technology,computer hardware,,;
-5415,onkar dies,,,,1998,,,,,engineering & construction,,,;
-5490,osi technologies,,,,1993,,,,,it services & consulting,,,;
-5513,oswal castings,,,,2005,,,,,metals & mining,,,;
-5595,object frontier software,,,,1997,,,,,it services & consulting,,,;
-5785,orange city water,,,,2011,,,,,waste management,,,;
-5861,odisha power generation corporation,,,,1984,,,,,oil & gas,,,;
-5924,orange retail finance,,,,2000,,,,,financial services,,,;
-5970,o9 solutions,united states,,,,,,,,,,,;
-6095,overseas health care,,,,1994,,,,,pharma,,,;
-6107,oceanic pharmachem,,,,1998,,,,,pharma,,,;
-6108,oman shapoorji llc,,,,1975,,,,,engineering & construction,,,;
-6289,opgs power gujarat,,,,2008,,,,,power,,,;
-6414,ogilvy,,,,1948,,,,,marketing & advertising,,,;
-6466,ozonegroup,,,,2003,,,,,real estate,,,;
-123330,out in spa,italy,,,,,,,,,,,;
-6707,omega elevators,,,,1985,,,,,industrial machinery,,,;
-6868,ok play,,,,1993,,,,,industrial machinery,,,;
-6880,optisol business solutions,,,,2006,,,,,it services & consulting,,,;
-6885,ortel communications,,,,1995,,,,,media & entertainment,,,;
-6944,origofinance,,,,2016,,,,,financial services,,,;
-6963,optimize it systems,,,,2010,,,,,it services & consulting,,,;
-6988,object technology solutions,,,,2010,,,,,it services & consulting,,,;
-7001,orion electronics,,budapest,,1913,,,,,industrials,electronic equipment,,;
-7035,ola foods,,,,0,,,,,,,,;
-141185,orange polska,france,,,,,,,,,,,;
-7217,osource global,,,,0,,,,,,,,;
-7221,oda class,,,,2017,,,,,edtech,,,;
-7248,omni hospital,,,,2010,,,,,healthcare,,,;
-7267,oorja technical services,,,,2004,,,,,electrical equipment,,,;
-7329,ola cars,,,,0,,,,,,,,;
-7416,opus consulting solutions,,,,1997,,,,,fintech,,,;
-7422,optus infotech,,,,0,,,,,it services & consulting,,,;
-7573,otsuka chemical india,,,,0,,,,,chemicals,,,;
-7642,omega hospitals,,,,2010,,,,,healthcare,,,;
-150690,oaknorth bank,uk,,,,,,,,,,,;
-7754,okinawa autotech,,,,2016,,,,,auto components,,,;
-7858,oberoi flight services,,,,1934,,,,,aviation,,,;
-7875,ocs services,,,,1984,,,,,oil & gas,,,;
-7877,objectwin technology,,,,1997,,,,,recruitment,,,;
-7895,orient blackswan,,,,1948,,,,,printing & publishing,,,;
-7907,optcl,,,,2004,,,,,power,,,;
-7951,on demand agility software,,,,2006,,,,,it services & consulting,,,;
-8002,oneindia bsc,,,,2015,,,,,financial services,,,;
-8060,o3 hire,,,,2016,,,,,management consulting,,,;
-8156,oman trading establishment,,,,1991,,,,,auto components,,,;
-8195,one trust,,,,0,,,,,,,,;
-8229,oasis resource management,,,,2000,,,,,recruitment,,,;
-8473,ori-plast,,,,1965,,,,,petrochemicals,,,;
-8521,oerlikon balzers,,,,1994,,,,,metals & mining,,,;
-8539,osi digital,,,,1993,,,,,it services & consulting,,,;
-8573,oil field instrumentation,,,,1992,,,,,oil & gas,,,;
-8708,oriental rubber industries,,,,1949,,,,,petrochemicals,,,;
-8761,ovt india,,,,2002,,,,,electrical equipment,,,;
-8834,oasis,,,,1993,,,,,it services & consulting,,,;
-8867,oswal woollen mills,,,,1949,,,,,fashion & textile,,,;
-9064,orissa metaliks,,,,0,,,,,,,,;
-9070,ondoor concepts,,,,2014,,,,,internet,,,;
-71138,omnicom group,united states,,,,,doll_18.80 b,,,,,,;
-9145,orbit technologies,,,,1995,,,,,industrial machinery,,,;
-9196,onegene,,,,0,,,,,auto components,,,;
-9241,orthosquare dental clinic,,,,0,,,,,,,,;
-9262,optimus information,,,,2009,,,,,it services & consulting,,,;
-9331,open access technology india,,,,1995,,,,,it services & consulting,,,;
-9439,one auto,,,,2011,,,,,automobile,,,;
-9465,oxford public school,,,,1989,,,,,education & training,,,;
-9517,oxalis pharmaceuticals,,,,2012,,,,,pharma,,,;
-9538,outbooks outsourcing,,,,0,,,,,accounting & auditing,,,;
-9553,orange county resorts & hotels,,,,1994,,,,,hospitality,,,;
-9869,oasys tech solutions,,,,2012,,,,,it services & consulting,,,;
-9897,optimus pharma,,,,0,,,,,healthcare / pharma,,,;
-9904,osaãâ¼hingaarspak(10166769),,,                        Harju maakond Viimsi vald Lubja kÃÂ¼la Ampri tee 7 74010                            ,,,,,,,,,;
-9907,oãåabconlinesolution(16008334),,,                        Harju maakond Tallinn Kesklinna linnaosa Raua tn 51-2 10120                            ,,,,,,,,,;
-9908,oãåabcrakennuspalvelut(11739760),,,,,,,,,,,,;
-9918,osaãâ¼hingaespaehitus(11373307),,,                        Rapla maakond Kohila vald Aespa alevik Looduse tn 9 79701                            ,,,,,,,,,;
-9920,oãåaespajuuksur(12260290),,,                        Rapla maakond Kohila vald Aespa alevik RÃÂµÃÂµmu tn 4 79705                            ,,,,,,,,,;
-9922,oãåaespal(11079513),,,                        Rapla maakond Kohila vald Aespa alevik Aespa ringtee 3 79732                            ,,,,,,,,,;
-9924,osaãâ¼hingafloors(11468211),,,,,,,,,,,,;
-9945,oãåaidutãâ¶ãâ¶stuspark(11306854),,,,,,,,,,,,;
-9948,osaãåhingairspace(11009168),,,                        Harju maakond Tallinn Kesklinna linnaosa Rataskaevu tn 22 10123                            ,,,,,,,,,;
-9954,oãåalarhaljastesiivouspalvelus(11233517),,,                        PÃÂµlva maakond Kanepi vald PÃÂµlgaste kÃÂ¼la PÃÂµlgaste keskus 7-1 63123                            ,,,,,,,,,;
-9961,osaãâ¼hingalekspa(10166411),,,,,,,,,,,,;
-9963,osaãâ¼hingalfaehituspartner(11193083),,,,,,,,,,,,;
-9974,osaãâ¼hingamritasalong(11278508),,,,,,,,,,,,;
-9975,osaãâ¼hingamun(11471961),,,                        Harju maakond Tallinn Kesklinna linnaosa Jakobi tn 22-1 10144                            ,,,,,,,,,;
-9983,oãåaqua-spaskaubandus(10635834),,,,,,,,,,,,;
-10003,oãåasaspa(10083300),,,                        Saare maakond Saaremaa vald Kuressaare linn Pargi tn 12 93810                            ,,,,,,,,,;
-10008,osaãåhingaspalhambaravi(10285541),,,,,,,,,,,,;
-10010,osaãâ¼hingasparagos(10257556),,,                        Harju maakond Tallinn Kesklinna linnaosa Filmi tn 6-53 10155                            ,,,,,,,,,;
-10014,osaãâ¼hingaspar(10442584),,,,,,,,,,,,;
-10016,osaãâ¼hingaspar-trans(10090576),,,                        Rapla maakond MÃÂ¤rjamaa vald MÃÂ¤rjamaa alev Pihlaka tn 7 78301                            ,,,,,,,,,;
-10028,osaãâ¼hingavispa(10258124),,,                        Harju maakond Saku vald Saku alevik Tiigi tn 8-1 75501                            ,,,,,,,,,;
-10036,osaãâ¼hingbalticaviationspaceagency(12421729),,,,,,,,,,,,;
-10039,osaãâ¼hingbaltiehituspartner(11055731),,,,,,,,,,,,;
-10048,oãåbeautypro(10639536),,,                        Harju maakond Tallinn Kesklinna linnaosa Roosikrantsi tn 17 10119                            ,,,,,,,,,;
-10061,oãåbiltoria(11096658),,,                        Ida-Viru maakond Narva linn A. PuÃÂ¡kini tn 25-73 20303                            ,,,,,,,,,;
-10063,oãåbiofuture(11251320),,,,,,,,,,,,;
-10070,oãåblankspace(14944584),,,                        Harju maakond Tallinn NÃÂµmme linnaosa Lauliku tn 46 10914                            ,,,,,,,,,;
-10117,osaãåhingdasparion(11279896),,,,,,,,,,,,;
-10119,osaãâ¼hingdayspa(10964398),,,                        Harju maakond Tallinn Kesklinna linnaosa Vana-Posti tn 4 10146                            ,,,,,,,,,;
-10125,osaãâ¼hingdespalmini(10956231),,,                        Harju maakond Tallinn NÃÂµmme linnaosa Viljandi mnt 11/1 11214                            ,,,,,,,,,;
-10126,osaãåhingdespalsj(11315971),,,                        JÃÂ¤rva maakond JÃÂ¤rva vald Ahula kÃÂ¼la Pae 73401                            ,,,,,,,,,;
-10127,osaãâ¼hingdesparo(11052365),,,,,,,,,,,,;
-10132,oãådirectspace(11242410),,,                        Harju maakond Tallinn LasnamÃÂ¤e linnaosa Asunduse tn 6-47 11416                            ,,,,,,,,,;
-10133,osaãâ¼hingdispak(10266012),,,                        Harju maakond Tallinn PÃÂµhja-Tallinna linnaosa Puuvilla tn 19 10314                            ,,,,,,,,,;
-10138,oãådreamspace(12741115),,,,,,,,,,,,;
-10175,oãåehituspartner(11205426),,,,,,,,,,,,;
-10176,osaãâ¼hingehituspartner(10382965),,,,,,,,,,,,;
-10177,oãåehitusplaadiekspert(11242195),,,,,,,,,,,,;
-10194,osaãâ¼hingespaada(10073081),,,,,,,,,,,,;
-10197,osaãâ¼hingespada-kaubandus(10178392),,,,,,,,,,,,;
-10199,osaãâ¼hingespais(10502731),,,,,,,,,,,,;
-10206,osaãâ¼hingespakpaide(12048070),,,                        JÃÂ¤rva maakond Paide linn Paide linn PrÃÂ¤ÃÂ¤ma tee 20 72720                            ,,,,,,,,,;
-10212,oãåespalux(10925644),,,,,,,,,,,,;
-10213,oãåespandel(10543121),,,,,,,,,,,,;
-10217,osaãâ¼hingespard(11977755),,,,,,,,,,,,;
-10219,oãåesparko(14272340),,,                        PÃÂ¤rnu maakond PÃÂ¤rnu linn PÃÂ¤rnu linn Kuninga tn 5-2 80011                            ,,,,,,,,,;
-10220,osaãâ¼hingesparsett(10359802),,,,,,,,,,,,;
-10222,oãåespartoinvesteeringud(10660128),,,,,,,,,,,,;
-10223,oãåesparto(10889173),,,,,,,,,,,,;
-10227,osaãåhingespatra(11088305),,,                        Ida-Viru maakond Narva linn Tallinna mnt 47 20605                            ,,,,,,,,,;
-10231,oãåespaxotsa(14619482),,,                        JÃÂ¤rva maakond TÃÂ¼ri vald Raukla kÃÂ¼la Otsa 72305                            ,,,,,,,,,;
-10245,oãåexpospace(11503891),,,,,,,,,,,,;
-10248,osaãâ¼hingfarbotprojekt(11451450),,,,,,,,,,,,;
-10251,osaãâ¼hingfinantspartner(10681515),,,                        Harju maakond Tallinn Kesklinna linnaosa Tartu mnt 10-20 10145                            ,,,,,,,,,;
-10259,osaãâ¼hingfoodspace(14685846),,,                        Harju maakond Tallinn Haabersti linnaosa Paldiski mnt 179-26 13518                            ,,,,,,,,,;
-10266,oãåfreespalk(12190425),,,,,,,,,,,,;
-10271,oãågamerspace(16101987),,,,,,,,,,,,;
-10278,oãåglaspak(11089380),,,,,,,,,,,,;
-10281,osaãâ¼hinggoldenspace(11355491),,,                        Tartu maakond Tartu linn Tartu linn Kaluri tn 2 51004                            ,,,,,,,,,;
-10286,oãågospa(11658797),,,                        Saare maakond Saaremaa vald Kuressaare linn Tori tn 2 93810                            ,,,,,,,,,;
-10291,oãågreenspace(11666951),,,                        Harju maakond Tallinn Kesklinna linnaosa J. Kunderi tn 32/1-5 10121                            ,,,,,,,,,;
-10297,oãåhaaelektritãâ¶ãâ¶d(11920465),,,                        Harju maakond Keila linn Paldiski mnt 31 76606                            ,,,,,,,,,;
-10306,osaãâ¼hinghanspak(10707158),,,,,,,,,,,,;
-10314,oãåhettegroup(11464990),,,                        JÃÂµgeva maakond PÃÂµltsamaa vald RÃÂµstla kÃÂ¼la Rehe 48022                            ,,,,,,,,,;
-10322,oãåhispaaniamaja(11692389),,,                        Harju maakond Tallinn Kristiine linnaosa Tondi tn 42 11316                            ,,,,,,,,,;
-10325,osaãâ¼hinghispanistikaãâµpingutekeskuspablopicasso(11158626),,,                        Harju maakond Tallinn PÃÂµhja-Tallinna linnaosa Niine tn 2a-3 10414                            ,,,,,,,,,;
-10326,osaãâ¼hinghispa(10680711),,,,,,,,,,,,;
-10334,oãåholidayinspace(10365621),,,,,,,,,,,,;
-10347,oãåhydroehituspartner(11384469),,,,,,,,,,,,;
-10356,oãåiluspa(11489062),,,                        Harju maakond Tallinn PÃÂµhja-Tallinna linnaosa Kotzebue tn 8 10412                            ,,,,,,,,,;
-10360,osaãâ¼hinginfospace(10991687),,,                        Harju maakond Tallinn Kesklinna linnaosa Narva mnt 5-116 10117                            ,,,,,,,,,;
-10364,osaãâ¼hinginspa(11052891),,,,,,,,,,,,;
-10368,osaãâ¼hinginspirit(10050275),,,                        Tartu maakond Tartu linn MÃÂ¤rja alevik Pilve tn 6 61406                            ,,,,,,,,,;
-10375,oãåistitutoeuropeodiformazionespaenergy(11254703),,,                        Harju maakond Tallinn Kristiine linnaosa Tulika tn 42/1 10613                            ,,,,,,,,,;
-10383,oãåjespar(11669143),,,,,,,,,,,,;
-10392,osaãâ¼hingjãâ¤rveliivaarendus(11255826),,,,,,,,,,,,;
-10403,osaãâ¼hingkarl&caspar(10661197),,,,,,,,,,,,;
-10416,oãåkasparbusiness(10822364),,,                        Harju maakond Raasiku vald Pikavere kÃÂ¼la Kaupluse 75202                            ,,,,,,,,,;
-10423,oãåkasparhaldus(10823808),,,,,,,,,,,,;
-10426,oãåkasparimãâ¶ãâ¶bel(16043081),,,                        PÃÂ¤rnu maakond Tori vald Sindi linn Roheline tn 4 86704                            ,,,,,,,,,;
-10440,osaãåhingkasparkaup(10188223),,,,,,,,,,,,;
-10457,oãåkasparpeterson(14757356),,,                        Harju maakond Tallinn Kesklinna linnaosa Filtri tee 8-6 10132                            ,,,,,,,,,;
-10482,oãåkemace(14375287),,,                        LÃÂ¤ÃÂ¤ne-Viru maakond VÃÂ¤ike-Maarja vald Ebavere kÃÂ¼la Paju 46209                            ,,,,,,,,,;
-10485,osaãâ¼hingkespar(10078227),,,,,,,,,,,,;
-10489,oãåkiisamaaseiklus-jalooduspark(14399885),,,                        PÃÂ¤rnu maakond LÃÂ¤ÃÂ¤neranna vald Kiisamaa kÃÂ¼la Jaani 88416                            ,,,,,,,,,;
-10490,oãåkimptonmanagement(11038268),,,,,,,,,,,,;
-10491,oãåkindlifeeesti(11915180),,,                        Harju maakond Tallinn Kesklinna linnaosa TornimÃÂ¤e tn 7-131 10145                            ,,,,,,,,,;
-10497,oãåkivikaevur(11339463),,,,,,,,,,,,;
-10513,oãåksspark(16208903),,,                        Ida-Viru maakond Narva linn A. PuÃÂ¡kini tn 22-59 20307                            ,,,,,,,,,;
-10517,oãåkuuspakk(10996785),,,,,,,,,,,,;
-10522,osaãâ¼hinglaaneoja(11531433),,,                        PÃÂ¤rnu maakond Tori vald VÃÂµlli kÃÂ¼la Laaneoja 86821                            ,,,,,,,,,;
-10532,oãålaspa(11059605),,,,,,,,,,,,;
-10555,osaãâ¼hingloigospareparts(10111212),,,,,,,,,,,,;
-10557,oãåloodusvara(10736340),,,,,,,,,,,,;
-10559,osaãâ¼hinglootosãâµis(11447164),,,                        LÃÂ¤ÃÂ¤ne-Viru maakond VÃÂ¤ike-Maarja vald VÃÂ¤ike-Maarja alevik Koidu tn 1 46202                            ,,,,,,,,,;
-10570,osaãâ¼hingmajanduspartner(10399262),,,                        Harju maakond Viimsi vald Lubja kÃÂ¼la PÃÂ¤rtle tee 20 74010                            ,,,,,,,,,;
-10577,oãåmarinespastudio(16129397),,,                        Tartu maakond Tartu linn Tartu linn Kalda tee 8-74 50703                            ,,,,,,,,,;
-10583,osaãâ¼hingmarkspark(10744262),,,,,,,,,,,,;
-10591,osaãâ¼hingmedicalspa(11001741),,,,,,,,,,,,;
-10594,oãåmeelispaik(10881912),,,,,,,,,,,,;
-10595,oãåmeelispartner(16378551),,,                        Tartu maakond Tartu linn Tartu linn J. Kuperjanovi tn 20-36 50409                            ,,,,,,,,,;
-10596,oãåmegerato(11621828),,,,,,,,,,,,;
-10598,oãåmetspal(16598749),,,                        PÃÂ¤rnu maakond PÃÂ¤rnu linn PÃÂ¤rnu linn Oja tn 118-36 80040                            ,,,,,,,,,;
-10601,oãåmindspaapp(14596108),,,                        Harju maakond Viimsi vald Haabneeme alevik IdapÃÂµllu tee 3-34 74001                            ,,,,,,,,,;
-10603,oãåmindspaholding(16393023),,,                        Harju maakond Tallinn Kesklinna linnaosa TornimÃÂ¤e tn 7-131 10145                            ,,,,,,,,,;
-10604,oãåmindspa(14092589),,,                        Harju maakond Tallinn Kesklinna linnaosa TornimÃÂ¤e tn 7-131 10145                            ,,,,,,,,,;
-10605,oãåminuspa(16161857),,,                        Harju maakond Tallinn NÃÂµmme linnaosa Kiige tn 4-1 11615                            ,,,,,,,,,;
-10610,osaãâ¼hingmobilespa(11518266),,,,,,,,,,,,;
-10612,osaãåhingmobispa(12632708),,,                        Harju maakond Tallinn NÃÂµmme linnaosa Mai tn 18a 11621                            ,,,,,,,,,;
-10621,osaãâ¼hingmrspace(11448962),,,                        Harju maakond Tallinn LasnamÃÂ¤e linnaosa Pae tn 11-31 11414                            ,,,,,,,,,;
-10632,oãåmustveehotel&spa(11153853),,,,,,,,,,,,;
-10642,oãånarvaspa(14099775),,,                        Harju maakond Viimsi vald Haabneeme alevik Randvere tee 11 74001                            ,,,,,,,,,;
-10648,osaãâ¼hingneospark(10461392),,,,,,,,,,,,;
-10650,oãånewspaceestonia(11298480),,,,,,,,,,,,;
-10652,osaãâ¼hingnexustrading(11027692),,,,,,,,,,,,;
-10662,oãånovaspace(11998533),,,,,,,,,,,,;
-10666,oãånuustakuspa(12779804),,,                        Tartu maakond Tartu linn Tartu linn Ringtee tn 25 50105                            ,,,,,,,,,;
-10667,odostrimitasoãå(11945732),,,,,,,,,,,,;
-10668,ohkunordicspasoãå(16431156),,,                        Harju maakond Tallinn PÃÂµhja-Tallinna linnaosa Suve tn 2-43 10149                            ,,,,,,,,,;
-10669,ohutuspartneroãå(11466405),,,                        Harju maakond Tallinn Kesklinna linnaosa Uue Maailma tn 21-10 10131                            ,,,,,,,,,;
-10670,ojamultimediaspaceoãå(16338942),,,                        Harju maakond Tallinn Kesklinna linnaosa Veskiposti tn 2-1002 10138                            ,,,,,,,,,;
-10671,osaãâ¼hingolivespa(11924090),,,                        Harju maakond Tallinn Kesklinna linnaosa Narva mnt 59 10120                            ,,,,,,,,,;
-10672,onenesspayoãå(14845899),,,                        Harju maakond Tallinn Kesklinna linnaosa Roosikrantsi tn 2-1217 10119                            ,,,,,,,,,;
-10674,osaãâ¼hingoraspartner(11239483),,,,,,,,,,,,;
-10675,oãåorientspa(11407839),,,,,,,,,,,,;
-10676,oskarkaspargruppoãå(10589040),,,,,,,,,,,,;
-10677,oãåosmussaareholding(11877901),,,                        Harju maakond Tallinn Kesklinna linnaosa Tartu mnt 14 10117                            ,,,,,,,,,;
-10678,ospaoãå(16421175),,,                        Harju maakond Tallinn Pirita linnaosa Puhkekodu tee 33 12013                            ,,,,,,,,,;
-10679,otepãâ¤ãâ¤looduspargiadministratsioon(70004525),,,,,,,,,,,,;
-10680,osaãâ¼hingotepãâ¤ãâ¤seikluspark(11108195),,,                        Valga maakond OtepÃÂ¤ÃÂ¤ vald OtepÃÂ¤ÃÂ¤ linn Tehvandi tn 3 76403                            ,,,,,,,,,;
-10681,otherspacesoãå(16307545),,,                        Harju maakond Tallinn Kesklinna linnaosa F. Kuhlbarsi tn 1 10128                            ,,,,,,,,,;
-10682,outofspaceoãå(16399748),,,                        Harju maakond Tallinn LasnamÃÂ¤e linnaosa Katusepapi tn 6 11412                            ,,,,,,,,,;
-10683,oxfordfund2companythreeoãå(11674486),,,,,,,,,,,,;
-10690,oãåpeipsiehitus(11157182),,,,,,,,,,,,;
-10693,osaãâ¼hingphotofactory(11517158),,,,,,,,,,,,;
-10694,osaãâ¼hingpispar(10073342),,,                        Harju maakond Tallinn MustamÃÂ¤e linnaosa E. Vilde tee 63-28 13421                            ,,,,,,,,,;
-10698,osaãâ¼hingplusspanus(10611785),,,                        Harju maakond Rae vald Lagedi alevik Kooli tn 20 75303                            ,,,,,,,,,;
-10699,osaãâ¼hingplusspartner(10487813),,,                        Harju maakond Saku vald Saku alevik ÃÅksnurme tee 10 75501                            ,,,,,,,,,;
-10709,oãåprospace(11282289),,,,,,,,,,,,;
-10715,osaãâ¼hingpãâ¤ividiiselservice(11254076),,,,,,,,,,,,;
-10718,oãåpãâ¤rnuseikluspark(11410669),,,,,,,,,,,,;
-10730,osaãâ¼hingrakennus-jamaalauspalvelu(11998355),,,                        Harju maakond Tallinn LasnamÃÂ¤e linnaosa LinnamÃÂ¤e tee 35-64 13912                            ,,,,,,,,,;
-10735,oãåraspador(10986485),,,,,,,,,,,,;
-10736,oãåratsionaal(11465452),,,                        Harju maakond Harku vald Tabasalu alevik Lehe tee 8 76901                            ,,,,,,,,,;
-10742,oãåreispass.com(14211580),,,                        LÃÂ¤ÃÂ¤ne maakond LÃÂ¤ÃÂ¤ne-Nigula vald PÃÂ¤ri kÃÂ¼la Vetissilla 90717                            ,,,,,,,,,;
-10743,osaãâ¼hingreispass(10411684),,,                        Harju maakond Tallinn Kesklinna linnaosa Tare tn 14 10135                            ,,,,,,,,,;
-10744,osaãâ¼hingrekspakk(10498047),,,                        PÃÂ¤rnu maakond Tori vald PÃÂ¤rivere kÃÂ¼la                            ,,,,,,,,,;
-10745,oãårentalspace(16519313),,,                        Valga maakond OtepÃÂ¤ÃÂ¤ vald PÃÂ¤idla kÃÂ¼la JÃÂ¤rvesalu 67506                            ,,,,,,,,,;
-10746,osaãâ¼hingrespaania(10420973),,,,,,,,,,,,;
-10749,osaãâ¼hingrespait(10400083),,,                        Ida-Viru maakond Kohtla-JÃÂ¤rve linn JÃÂ¤rve linnaosa Kauba tn 41 30328                            ,,,,,,,,,;
-10750,osaãâ¼hingrespakaubandus(11405220),,,,,,,,,,,,;
-10757,oãårevalmanagement(11279471),,,,,,,,,,,,;
-10761,osaãåhingriispau(10239110),,,,,,,,,,,,;
-10768,osaãâ¼hingrospa(11718491),,,,,,,,,,,,;
-10770,osaãâ¼hingrukkilillespar(10683514),,,,,,,,,,,,;
-10783,oãåsatrianaerospace(12386714),,,                        Harju maakond Tallinn PÃÂµhja-Tallinna linnaosa Volta tn 7 10411                            ,,,,,,,,,;
-10786,oãåscãâvetkezetcespany(11206354),,,,,,,,,,,,;
-10801,oãåshnellispa(11710762),,,                        Harju maakond Tallinn PÃÂµhja-Tallinna linnaosa Toompuiestee 37 10149                            ,,,,,,,,,;
-10805,oãåsilverspace(12025494),,,,,,,,,,,,;
-10819,osaãâ¼hingsolarinfra(11286962),,,                        Tartu maakond Kambja vald ÃÅlenurme alevik MÃÂµisniku tn 25 61714                            ,,,,,,,,,;
-10833,osaãâ¼hingspaaper(10367569),,,                        Harju maakond Tallinn LasnamÃÂ¤e linnaosa Vikerlase tn 8-49 13615                            ,,,,,,,,,;
-10835,oãåspaatel(10388301),,,,,,,,,,,,;
-10850,osaãâ¼hingspacecominvest(10682176),,,                        Harju maakond Tallinn LasnamÃÂ¤e linnaosa Pallasti tn 36-11 11413                            ,,,,,,,,,;
-10867,oãåspacegate(14060299),,,,,,,,,,,,;
-10870,oãåspacegrupp(10707321),,,,,,,,,,,,;
-10871,oãåspaceholding(10863759),,,                        Harju maakond Tallinn Kristiine linnaosa SÃÂµpruse pst 145 13425                            ,,,,,,,,,;
-10876,oãåspacein(14782609),,,                        Harju maakond Tallinn LasnamÃÂ¤e linnaosa Paasiku tn 4 13916                            ,,,,,,,,,;
-10877,osaãâ¼hingspaceinteragro(11256004),,,                        Harju maakond Tallinn Kristiine linnaosa HÃÂ¼ÃÂ¼bi tn 20 13426                            ,,,,,,,,,;
-10883,osaãâ¼hingspacelord(11502975),,,,,,,,,,,,;
-10886,oãåspacemasters(11591919),,,                        Harju maakond Tallinn MustamÃÂ¤e linnaosa Laki tn 30-302/3 12915                            ,,,,,,,,,;
-10889,oãåspacemonkey(16503720),,,                        Harju maakond Rae vald Aruvalla kÃÂ¼la Taevasmaa tee 19-1 75320                            ,,,,,,,,,;
-10900,oãåspaceshark(12852636),,,                        Saare maakond Saaremaa vald Kuressaare linn Kaevu tn 15a 93814                            ,,,,,,,,,;
-10906,osaãâ¼hingspacestar(11309114),,,                        Harju maakond Harku vald Tabasalu alevik Tammede allee 8 76901                            ,,,,,,,,,;
-10908,osaãâ¼hingspacetech(11458914),,,,,,,,,,,,;
-10921,osaãâ¼hingspacewind&twin(10573263),,,,,,,,,,,,;
-10925,oãåspaciousroom(10364648),,,,,,,,,,,,;
-10926,osaãåhingspacogroup(10455144),,,                        Harju maakond Tallinn PÃÂµhja-Tallinna linnaosa Tuulemaa tn 9-38 10312                            ,,,,,,,,,;
-10927,oãåspactum(12800786),,,                        Tartu maakond Tartu linn Tartu linn Vasara tn 31-1 50109                            ,,,,,,,,,;
-10931,oãåspadamed(16034917),,,                        Harju maakond Tallinn LasnamÃÂ¤e linnaosa Meeliku tn 23/3-72 13915                            ,,,,,,,,,;
-10932,oãåspadamedpluss(16204070),,,                        Harju maakond Tallinn Kesklinna linnaosa A. Lauteri tn 1-1a 10114                            ,,,,,,,,,;
-10934,osaãâ¼hingspadelaspagroup(14316285),,,                        Harju maakond Tallinn LasnamÃÂ¤e linnaosa K. KÃÂ¤rberi tn 4-15 13812                            ,,,,,,,,,;
-10939,oãåspaestonia(11698529),,,,,,,,,,,,;
-10944,oãåspaidelgrupp(11985482),,,,,,,,,,,,;
-10948,oãåspain24.ee(12445368),,,                        Harju maakond Tallinn Kesklinna linnaosa Gonsiori tn 3-20 10117                            ,,,,,,,,,;
-10951,oãåspain-estehitus(12387145),,,                        LÃÂ¤ÃÂ¤ne-Viru maakond VÃÂ¤ike-Maarja vald Tammiku kÃÂ¼la Tomeli 46329                            ,,,,,,,,,;
-10965,osaãâ¼hingspalaris(10553237),,,,,,,,,,,,;
-10968,osaãâ¼hingspaldecom(10756495),,,,,,,,,,,,;
-10969,osaãâ¼hingspaleer(10404224),,,,,,,,,,,,;
-10976,osaãâ¼hingspamarin(10909763),,,,,,,,,,,,;
-10982,osaãâ¼hingspanglertrade(11450509),,,                        Harju maakond Raasiku vald Igavere kÃÂ¼la KÃÂ¼nka 75208                            ,,,,,,,,,;
-10986,osaãâ¼hingspanner(11389366),,,                        Harju maakond Tallinn Pirita linnaosa VabaÃÂµhukooli tee 64-3 12015                            ,,,,,,,,,;
-10987,oãåspan(11799673),,,                        LÃÂ¤ÃÂ¤ne maakond Haapsalu linn UuemÃÂµisa alevik MÃÂµisa tee 5 90401                            ,,,,,,,,,;
-10988,osaãâ¼hingspantal(10392449),,,                        Harju maakond Tallinn Kristiine linnaosa Tulika tn 31 10615                            ,,,,,,,,,;
-10991,osaãâ¼hingspapearl(12720892),,,,,,,,,,,,;
-10992,osaãâ¼hingspaplaza(10637313),,,                        Harju maakond Tallinn NÃÂµmme linnaosa LÃÂµuna tn 31-1 11617                            ,,,,,,,,,;
-10993,oãåsparanrt(11905454),,,,,,,,,,,,;
-10994,osaãâ¼hingsparcar(10000691),,,,,,,,,,,,;
-10995,osaãâ¼hingsparcom(11251604),,,                        Harju maakond Tallinn Haabersti linnaosa Ãâ¢ismÃÂ¤e tee 4-22 13511                            ,,,,,,,,,;
-10996,oãåsparecrew(11998591),,,,,,,,,,,,;
-10997,oãåspareinvest(12609172),,,                        Harju maakond Tallinn NÃÂµmme linnaosa Seedri tn 12 10912                            ,,,,,,,,,;
-11000,osaãâ¼hingsparer(10532761),,,                        JÃÂµgeva maakond Mustvee vald Voore kÃÂ¼la Tehnohoolde 49324                            ,,,,,,,,,;
-11001,oãåsparescentrum(12530128),,,                        Harju maakond Tallinn LasnamÃÂ¤e linnaosa Punane tn 14a-419-/5 13619                            ,,,,,,,,,;
-11006,oãåsparewoods(11042540),,,                        Tartu maakond Tartu linn Tartu linn Vaksali tn 7-2 50410                            ,,,,,,,,,;
-11009,oãåsparexline(11282332),,,                        Harju maakond Tallinn Kesklinna linnaosa Narva mnt 13 10151                            ,,,,,,,,,;
-11012,oãåsparexport(11242309),,,,,,,,,,,,;
-11017,oãåspariks(11579368),,,                        PÃÂ¤rnu maakond PÃÂ¤rnu linn PÃÂ¤rnu linn Rohu tn 11-7 80040                            ,,,,,,,,,;
-11019,osaãâ¼hingsparipaekna(10265248),,,,,,,,,,,,;
-11021,osaãâ¼hingsparkali(10035146),,,,,,,,,,,,;
-11037,oãåsparkiesgroup(16385396),,,                        LÃÂ¤ÃÂ¤ne-Viru maakond Tapa vald Moe kÃÂ¼la Moe keskus 7-9 45005                            ,,,,,,,,,;
-11040,osaãâ¼hingsparkkaubandus(10288568),,,,,,,,,,,,;
-11047,osaãâ¼hingsparkles(10809369),,,                        Harju maakond Tallinn Pirita linnaosa Supluse pst 1 11911                            ,,,,,,,,,;
-11050,osaãâ¼hingsparkliinvest(12524271),,,                        Harju maakond Tallinn MustamÃÂ¤e linnaosa Kadaka tee 5 10621                            ,,,,,,,,,;
-11053,oãåsparklinggroup(11144914),,,                        Harju maakond Tallinn Kesklinna linnaosa Viru vÃÂ¤ljak 2 10111                            ,,,,,,,,,;
-11064,oãåsparknetcompany(11609655),,,                        Harju maakond Tallinn Kesklinna linnaosa Roopa tn 23 10136                            ,,,,,,,,,;
-11066,oãåsparknivis(16194147),,,                        Viljandi maakond Mulgi vald Lilli kÃÂ¼la Kooli 69002                            ,,,,,,,,,;
-11082,osaãâ¼hingsparks(11740131),,,,,,,,,,,,;
-11086,oãåsparktd(12718487),,,,,,,,,,,,;
-11091,osaãâ¼hingsparkwell(11018977),,,,,,,,,,,,;
-11093,oãåsparky(11005688),,,,,,,,,,,,;
-11095,oãåsparoberg(10957207),,,                        Harju maakond Tallinn Kesklinna linnaosa Lootsi tn 3a-150 10151                            ,,,,,,,,,;
-11097,oãåsparohansa(10956797),,,                        Ida-Viru maakond SillamÃÂ¤e linn Mere pst 4 40231                            ,,,,,,,,,;
-11098,osaãâ¼hingsparolink(10957087),,,                        Harju maakond Tallinn Kristiine linnaosa Meleka tn 6-10 10615                            ,,,,,,,,,;
-11099,osaãâ¼hingsparossia(11168688),,,                        Harju maakond Tallinn Kesklinna linnaosa Lootsi tn 3a-42 10151                            ,,,,,,,,,;
-11103,osaãâ¼hingsparren(10931314),,,,,,,,,,,,;
-11105,osaãâ¼hingsparrow(10371051),,,,,,,,,,,,;
-11109,osaãâ¼hingspars(10260736),,,                        Harju maakond Keila linn Aiandi tn 11 76609                            ,,,,,,,,,;
-11115,oãåspartak(12475033),,,,,,,,,,,,;
-11124,oãåsparta(12464041),,,                        Harju maakond Tallinn Kesklinna linnaosa PÃÂ¤rnu mnt 139c 11314                            ,,,,,,,,,;
-11125,osaãâ¼hingspartaplus(10266638),,,,,,,,,,,,;
-11130,osaãâ¼hingspartaturvateenistus(10483175),,,,,,,,,,,,;
-11131,osaãâ¼hingspartaveod(10036594),,,                        Harju maakond Tallinn NÃÂµmme linnaosa Suur-MÃÂ¤nniku tn 8 11216                            ,,,,,,,,,;
-11139,osaãåhingspartsmore(10570922),,,                        Harju maakond Tallinn LasnamÃÂ¤e linnaosa Liikuri tn 46-37 13618                            ,,,,,,,,,;
-11140,osaãâ¼hingsparus(10781872),,,                        Harju maakond Tallinn PÃÂµhja-Tallinna linnaosa TÃÂ¶ÃÂ¶stuse tn 3-11 10416                            ,,,,,,,,,;
-11142,oãåspasanitaartehnika(10921899),,,                        Harju maakond Tallinn Kesklinna linnaosa RÃÂ¤vala pst 19-112 10143                            ,,,,,,,,,;
-11144,osaãâ¼hingspash(12981842),,,                        Ida-Viru maakond LÃÂ¼ganuse vald KiviÃÂµli linn Keskpuiestee 55-16 43122                            ,,,,,,,,,;
-11151,oãåspazzola(16606762),,,                        Viljandi maakond Viljandi linn Riia mnt 40-2 71009                            ,,,,,,,,,;
-11152,osaãâ¼hingspatekstiil(11331266),,,,,,,,,,,,;
-11153,osaãâ¼hingspate(11392479),,,                        Harju maakond Tallinn Kesklinna linnaosa Gonsiori tn 5a-3 10117                            ,,,,,,,,,;
-11158,osaãâ¼hingspatium(10002129),,,                        Tartu maakond Tartu linn Tartu linn Pikk tn 84-7 50606                            ,,,,,,,,,;
-11160,osaãâ¼hingspatli(10735004),,,,,,,,,,,,;
-11161,oãåspatours(11693733),,,                        Saare maakond Saaremaa vald Kuressaare linn Tallinna tn 15 93811                            ,,,,,,,,,;
-11164,oãåspavarad(11693452),,,                        Saare maakond Saaremaa vald Kuressaare linn Tallinna tn 15 93811                            ,,,,,,,,,;
-11165,oãåspavãâµrugrupp(10438996),,,,,,,,,,,,;
-11175,osaãâ¼hingstilettodance(11279583),,,,,,,,,,,,;
-11179,oãås.v.p.restoranid(10652229),,,                        Harju maakond Tallinn Kesklinna linnaosa RÃÂ¤vala pst 8 10143                            ,,,,,,,,,;
-11180,oãåsvrakennuspalvelu(12239172),,,                        Harju maakond Tallinn Kesklinna linnaosa VÃÂ¤ike-Ameerika tn 8-213 10129                            ,,,,,,,,,;
-11181,oãåswimitationspa(12928049),,,,,,,,,,,,;
-11182,osaãâ¼hingsãâµrvepuit(11095788),,,,,,,,,,,,;
-11185,osaãâ¼hingzieds(11206093),,,,,,,,,,,,;
-11211,oãåtervaspari(11038661),,,,,,,,,,,,;
-11225,osaãåhingtoff(10484720),,,,,,,,,,,,;
-11227,osaãâ¼hingtopspakinnisvara(11182857),,,,,,,,,,,,;
-11232,osaãâ¼hingtranspackeuropecompany(11234965),,,                        Harju maakond Tallinn LasnamÃÂ¤e linnaosa Suur-SÃÂµjamÃÂ¤e pÃÂµik 9/1 11415                            ,,,,,,,,,;
-11235,oãåtranspal(11246750),,,,,,,,,,,,;
-11237,osaãâ¼hingtranspap(10494173),,,,,,,,,,,,;
-11246,oãåtranspario(14676281),,,                        Tartu maakond Tartu linn Tartu linn Teguri tn 31a-4 50107                            ,,,,,,,,,;
-11247,osaãâ¼hingtranspartner(11371751),,,                        Harju maakond Tallinn LasnamÃÂ¤e linnaosa VÃÂµidujooksu tn 1-9 13628                            ,,,,,,,,,;
-11256,osaãâ¼hingturunduspartner(10526476),,,                        Harju maakond Tallinn Pirita linnaosa VabaÃÂµhukooli tee 70 12015                            ,,,,,,,,,;
-11260,osaãâ¼hingtãâ¤hepark(10744240),,,,,,,,,,,,;
-11265,oãåtãâ¼riseikluspark(12866644),,,                        JÃÂ¤rva maakond TÃÂ¼ri vald TÃÂ¼ri linn PÃÂµik tn 8 72212                            ,,,,,,,,,;
-11267,oãåudomsakpetch(11034700),,,,,,,,,,,,;
-11270,osaãâ¼hingunispark(10743771),,,,,,,,,,,,;
-11278,osaãâ¼hinguuemãâµisaspar(10641823),,,,,,,,,,,,;
-11279,osaãâ¼hinguusruum(10906664),,,,,,,,,,,,;
-11282,oãåvalguspall(12776831),,,,,,,,,,,,;
-11287,osaãâ¼hingvaspavel(10347518),,,,,,,,,,,,;
-11289,oãåvedespas(11645697),,,,,,,,,,,,;
-11297,osaãâ¼hingvespal(10212708),,,,,,,,,,,,;
-11300,oãåvestmantãâ¶ãâ¶stuspargid(11364490),,,,,,,,,,,,;
-11301,oãåvideoexpert(11191428),,,                        Harju maakond LÃÂ¤ÃÂ¤ne-Harju vald Laulasmaa kÃÂ¼la Laulu vkt 35 76702                            ,,,,,,,,,;
-11302,osaãâ¼hingviikingehituspartner(11309947),,,                        Harju maakond Tallinn PÃÂµhja-Tallinna linnaosa Madala tn 22-10 10315                            ,,,,,,,,,;
-11305,oãåviimsispa(11298913),,,,,,,,,,,,;
-11315,osaãâ¼hingvirumeistrid(10744196),,,                        Harju maakond Saue vald VanamÃÂµisa kÃÂ¼la VanamÃÂµisa tee 16 76407                            ,,,,,,,,,;
-11316,oãåvirutãâ¶ãâ¶stuspark(11306819),,,,,,,,,,,,;
-11318,oãåvisualspace(12419514),,,                        Harju maakond Tallinn PÃÂµhja-Tallinna linnaosa Kotzebue tn 9-58 10412                            ,,,,,,,,,;
-11319,oãåvitspaju(12244309),,,,,,,,,,,,;
-11329,oãåvãâµsuspa(14640051),,,                        LÃÂ¤ÃÂ¤ne-Viru maakond Haljala vald VÃÂµsu alevik Vabaduse tn 13 45501                            ,,,,,,,,,;
-11334,oãåweldspark(16447039),,,                        Ida-Viru maakond Narva linn A. PuÃÂ¡kini tn 22-59 20307                            ,,,,,,,,,;
-11336,osaãâ¼hingwellspa(10959100),,,                        Rapla maakond MÃÂ¤rjamaa vald Varbola kÃÂ¼la Kivi 78203                            ,,,,,,,,,;
-11341,oãåwidespace(10634875),,,,,,,,,,,,;
-11356,oãåãåhinenudtãâ¶ãâ¶stuspargid(11680541),,,                        Harju maakond Saue vald Laagri alevik Metsa tn 15/6 76401                            ,,,,,,,,,;
-11363,oãåyesparmãâãâbel(11655968),,,                        Tartu maakond Tartu linn Tartu linn Kannikese tn 17 50408                            ,,,,,,,,,;
-11364,osaãâ¼hingyespartner(11329683),,,,,,,,,,,,;
-12608,outsystems,united states,,,,,,,,internet software & services,,,;
-11408,opn,japan,,,2013,,,,,fintech,,,;
-13740,open,india,,,,,,,,fintech,,,;
-13733,oyster,united states,,,,,,,,fintech,,,;
-150691,oscar health,united states,,,,,,,,,,,;
-13698,one,singapore,,,,,,,,internet software & services,,,;
-11483,owkin,united states,,,,,,,,artificial intelligence,,,;
-13640,orchard,united states,,,,,,,,fintech,,,;
-11597,orca bio,united states,,,,,,,,health,,,;
-176417,omio,germany,,,,,,,,,,,;
-154748,orcam technologies,israel,,,,,,,,,,,;
-13412,ovh,france,,,,,,,,other,,,;
-11795,offchain labs,united states,,,2018,,,,,internet software & services,,,;
-11824,ovo energy,united kingdom,,,2009,,,,,other,,,;
-11879,onecard,india,,,,,,,,fintech,,,;
-11905,ouyeel,china,,,,,,,,internet software & services,,,;
-11936,olist,brazil,,,,,,,,e-commerce & direct-to-consumer,,,;
-11978,openweb,united states,,,,,,,,internet software & services,,,;
-12021,optimism,united states,,,,,,,,internet software & services,,,;
-12041,orca security,united states,,,,,,,,cybersecurity,,,;
-12070,opentrons,united states,,,,,,,,hardware,,,;
-12108,opay,nigeria,,,2018,,,,,fintech,,,;
-13027,ocsial,luxembourg,,,,,,,,,,,;
-12904,oura,finland,,,,,,,,health,,,;
-12273,openai,united states,,,,,,,,artificial intelligence,,,;
-12281,outschool,united states,,,,,,,,edtech,,,;
-12329,ownbackup,united states,,,,,,,,data management & analytics,,,;
-12955,odoo,belgium,,,,,,,,internet software & services,,,;
-12348,otto bock healthcare,germany,,,,,,,,health,,,;
-12384,olive,united states,,,,,,,,health,,,;
-176418,outreach,united states,,,,,,,,,,,;
-12432,ofbusiness,india,,,,,,,,e-commerce & direct-to-consumer,,,;
-12457,onetrust,united states,,,,,,,,,,,;
-12578,opensea,united states,,,,,,,,internet software & services,,,;
-55651,o'reilly automotive,united states,,,,,doll_46.92 b,,,,,,;
-48738,ocbc bank,singapore,,,,,doll_40.57 b,,,,,,;
-34563,otis worldwide,united states,,,,,doll_31.04 b,,,,,,;
-22658,old dominion freight line,united states,,,,,doll_35.99 b,,,,,,;
-35460,ono pharmaceutical,japan,,,,,doll_12.29 b,,,,,,;
-30341,oge energy,united states,,,,,doll_0.53 b,,,,,,;
-46787,oshkosh corporation,united states,,,,,doll_6.18 b,,,,,,;
-50720,owl rock capital,united states,,,,,doll_5.07 b,,,,,,;
-20837,option care health,united states,,,,,doll_5.09 b,,,,,,;
-98243,one gas,united states,,,,,,,,,,,;
-30978,owens & minor,united states,,,,,doll_1.60 b,,,,,,;
-156354,orthopediatrics,united states,,,,,doll_1.07 b,,,,,,;
-25796,oyster point pharma,united states,,,,,doll_0.29 b,,,,,,;
-63489,oric pharmaceuticals,united states,,,,,doll_0.26 b,,,,,,;
-40801,oncocyte,united states,,,,,doll_57.89 m,,,,,,;
-33890,oragenics,united states,,,,,doll_15.96 m,,,,,,;
-33888,organovo,united states,,,,,doll_16.03 m,,,,,,;
-41093,ontrak,united states,,,,,doll_15.31 m,,,,,,;
-25154,orion energy systems,united states,,,,,doll_64.6 m,,,,,,;
-54881,owlet,united states,,,,,doll_68.93 m,,,,,,;
-25280,orion-group-holdings,united states,,,,,doll_84.94 m,,,,,,;
-33288,oconee federal financial,united states,,,,,doll_0.13 b,,,,,,;
-62372,offerpad,united states,,,,,doll_0.17 b,,,,,,;
-54562,oxford square capital,united states,,,,,doll_0.17 b,,,,,,;
-33123,olympique lyonnais groupe,france,,,,,doll_0.18 b,,,,,,;
-33061,oportun financial,united states,,,,,doll_0.21 b,,,,,,;
-40004,oil-dri corporation of america,united states,,,,,doll_0.25 b,,,,,,;
-32866,ocwen,united states,,,,,doll_0.25 b,,,,,,;
-32705,organigram holdings,canada,,,,,doll_0.31 b,,,,,,;
-39776,ooma,united states,,,,,doll_0.35 b,,,,,,;
-32347,onewater marine,united states,,,,,doll_0.48 b,,,,,,;
-156612,orpea,france,,,,,doll_0.63 b,,,,,,;
-60356,orthofix medical,united states,,,,,doll_0.73 b,,,,,,;
-23300,origin materials,united states,,,,,doll_0.78 b,,,,,,;
-23621,onespaworld,bahamas,,,,,doll_0.97 b,,,,,,;
-52832,omega flex,united states,,,,,doll_0.98 b,,,,,,;
-23675,open lending,united states,,,,,doll_1.08 b,,,,,,;
-38688,odontoprev,brazil,,,,,doll_1.13 b,,,,,,;
-31304,opko health,united states,,,,,doll_1.15 b,,,,,,;
-23936,orion engineered carbons,united states,,,,,doll_1.21 b,,,,,,;
-62817,outset medical,united states,,,,,doll_1.30 b,,,,,,;
-38309,ottogi,s. korea,,,,,doll_1.38 b,,,,,,;
-53187,oatly,sweden,,,,,doll_1.50 b,,,,,,;
-59456,osi systems,united states,,,,,doll_1.51 b,,,,,,;
-38081,oxford industries,united states,,,,,doll_1.72 b,,,,,,;
-59239,olav thon,norway,,,,,doll_1.79 b,,,,,,;
-141185,orange polska,france,,,,,,,,,,,;
-24353,oc oerlikon,switzerland,,,,,doll_2.26 b,,,,,,;
-181602,outokumpu,finland,,,,,,,,,,,;
-30372,osisko gold royalties,canada,,,,,doll_2.43 b,,,,,,;
-45989,o-i glass,united states,,,,,doll_2.93 b,,,,,,;
-46083,outfront media,united states,,,,,doll_3.13 b,,,,,,;
-67777,ollie's bargain outlet,united states,,,,,doll_3.31 b,,,,,,;
-68004,one medical(1life healthcare),united states,,,,,doll_3.35 b,,,,,,;
-19552,olaplex,united states,,,,,doll_4.08 b,,,,,,;
-58850,olink holding,sweden,,,,,doll_2.93 b,,,,,,;
-58433,ovh groupe,france,,,,,doll_3.10 b,,,,,,;
-37290,oil india,india,,,,,doll_3.11 b,,,,,,;
-68132,otter tail,united states,,,,,doll_2.56 b,,,,,,;
-138433,omnicell,united states,,,,,doll_2.60 b,,,,,,;
-58368,old mutual,south africa,,,,,doll_3.01 b,,,,,,;
-46593,orica,australia,,,,,doll_4.76 b,,,,,,;
-144134,oceanfirst financial,united states,,,,,doll_0.12 b,,,,,,;
-140259,oberbank,austria,,,,,doll_3.92 b,,,,,,;
-29570,onex,canada,,,,,,,,,,,;
-138562,odakyu electric railway,japan,,,,,doll_4.61 b,,,,,,;
-29249,ormat technologies,united states,,,,,doll_5.05 b,,,,,,;
-46659,offcn education,china,,,,,doll_4.86 b,,,,,,;
-29216,obayashi,japan,,,,,doll_5.1 b,,,,,,;
-151333,old national bank,united states,,,,,doll_5.44 b,,,,,,;
-36097,on holding ag,switzerland,,,,,,,,,,,;
-21056,oak street health,united states,,,,,doll_5.16 b,,,,,,;
-57280,ote group,greece,,,,,doll_6.70 b,,,,,,;
-29001,otsuka,japan,,,,,doll_6.06 b,,,,,,;
-93667,osaka gas,japan,,,,,doll_6.54 b,,,,,,;
-149154,oz minerals,australia,,,,,doll_6.50 b,,,,,,;
-149381,ooredoo,qatar,,,,,,,,,,,;
-67436,old republic international,united states,,,,,doll_7.33 b,,,,,,;
-21346,oci,netherlands,,,,,doll_7.20 b,,,,,,;
-57157,orkla,norway,,,,,doll_7.38 b,,,,,,;
-28649,orion corporation,finland,,,,,doll_7.65 b,,,,,,;
-57088,olin,united states,,,,,doll_7.69 b,,,,,,;
-21406,ocado,united-kingdom,,,,,doll_7.77 b,,,,,retail e-commerce internet tech food ,;
-57058,organon,united states,,,,,doll_8.18 b,,,,,,;
-28137,ovintiv,united states,,,,,doll_12.45 b,,,,,,;
-137218,obic,japan,,,,,doll_13.67 b,,,,,,;
-21795,oracle corp japan,japan,,,,,doll_8.48 b,,,,,,;
-147938,otp bank,hungary,,,,,doll_8.49 b,,,,,,;
-50018,opentext,canada,,,,,doll_8.81 b,,,,,,;
-21896,orient overseas container line,hong-kong,,,,,doll_11.39 b,,,,,transportation container-shipping maritime-transportation ,;
-35424,okta,united states,,,,,doll_10.89 b,,,,,,;
-56065,oil & natural gas,india,,,,,doll_28.62 b,,,,,,;
-74375,oriental land,japan,,,,,doll_64.66 b,,,,,,;
-147297,oneok,united states,,,,,doll_31.65 b,,,,,,;
-180833,omv,,,,,,,,,,,,;
-66883,omnicom,united states,,,,,doll_17.08 b,,,,,,;
-35553,omron,japan,,,,,doll_10.43 b,,,,,,;
-92576,orix,japan,,,,,doll_21.71 b,,,,,,;
-22786,otsuka holdings,japan,,,,,doll_19.03 b,,,,,,;
-147232,occidental petroleum,united states,,,,,doll_52.30 b,,,,,,;
-72832,on semiconductor,united states,,,,,doll_27.63 b,,,,,,;
-155681,olvi plc,finland,,,,,doll_1.28 m,,,,,,;
-23360,office properties income trust,united states,,,,,doll_0.82 b,,,,,,;
-146241,osisko mining,canada,,,,,doll_20.41 m,,,,,,;
-31489,opendoor,united states,,,,,doll_1.05 b,,,,,,;
-38824,overstock.com,united states,,,,,doll_0.97 b,,,,,,;
-142343,ourpalm,china,,,,,doll_1.34 b,,,,,,;
-63042,oceanfirst financial,united states,,,,,doll_0.12 b,,,,,,;
-38496,origin bancorp,united states,,,,,doll_1.17 b,,,,,,;
-52711,orla mining,canada,,,,,doll_1.17 b,,,,,,;
-23910,olo,united states,,,,,doll_1.18 b,,,,,,;
-63041,opal fuels,united states,,,,,doll_1.16 b,,,,,,;
-24000,oyak çimento,turkey,,,,,doll_1.25 b,,,,,,;
-24648,opthea,australia,,,,,doll_0.25 b,,,,,,;
-143236,oppenheimer holdings,united states,,,,,doll_0.49 b,,,,,,;
-41056,olb group,united states,,,,,doll_16.02 m,,,,,,;
-67242,ozon,united states,,,,,,,,,,,;
-64928,onion global,china,,,,,doll_25.01 m,,,,,,;
-63639,oblong,united states,,,,,doll_4.93 m,,,,,,;
-41121,opgen,united states,,,,,doll_7.53 m,,,,,,;
-25058,ourgame international,china,,,,,doll_43.47 m,,,,,,;
-25088,okyo pharma,united-kingdom,,,,,doll_51.81 m,,,,,pharmaceuticals biotech ,;
-25232,orchard therapeutics,united-kingdom,,,,,doll_83.61 m,,,,,gene-therapy genomics biotech pharmaceuticals ,;
-64225,oncolytics biotech,canada,,,,,doll_97.39 m,,,,,,;
-25405,ohio valley banc corp,united states,,,,,doll_0.12 b,,,,,,;
-25430,o2micro,none,,,,,doll_0.13 b,,,,,electronics tech ,;
-53633,orion office reit,united states,,,,,doll_0.50 b,,,,,,;
-63843,one liberty properties,united states,,,,,doll_0.50 b,,,,,,;
-54085,omega therapeutics,united states,,,,,doll_0.41 b,,,,,,;
-32514,ottakringer getränke,austria,,,,,doll_0.38 b,,,,,,;
-32737,overseas shipholding group,united states,,,,,doll_0.31 b,,,,,,;
-25857,ocular therapeutix,united states,,,,,doll_0.30 b,,,,,,;
-32690,optimizerx,united states,,,,,doll_0.31 b,,,,,,;
-63194,optinose,united states,,,,,doll_0.20 b,,,,,,;
-54117,oneconnect,china,,,,,doll_0.28 b,,,,,,;
-39748,organogenesis,united states,,,,,doll_0.33 b,,,,,,;
-63013,ouster,united states,,,,,doll_0.22 b,,,,,,;
-26146,orrstown financial services,united states,,,,,doll_0.25 b,,,,,,;
-39562,on24,united states,,,,,doll_0.42 b,,,,,,;
-145959,orchid island capital,united states,,,,,doll_0.43 b,,,,,,;
-182336,olympic steel,united states,,,,,doll_0.46 b,,,,,,;
-60812,optim,japan,,,,,doll_0.46 b,,,,,,;
-32274,onespan,united states,,,,,doll_0.50 b,,,,,,;
-60640,oil states international,hong kong,,,,,doll_0.55 b,,,,,,;
-38976,old second bancorp,united states,,,,,doll_0.26 b,,,,,,;
-32768,ocugen,united states,,,,,doll_0.28 b,,,,,,;
-26592,orrön energy,sweden,,,,,doll_0.63 b,,,,,,;
-63369,otc markets group,united states,,,,,doll_0.67 b,,,,,,;
-60516,opera,norway,,,,,doll_0.62 b,,,,,,;
-49601,orient overseas container line,hong kong,,,,,doll_0.43 b,,,,,,;
-57097,ocado,uk,,,,,doll_7.68 b,,,,,,;
-40416,o2micro,cayman islands,,,,,doll_0.13 b,,,,,,;
-54970,orchard therapeutics,uk,,,,,,,,,,,;
-33690,okyo pharma,uk,,,,,doll_39.82 m,,,,,,;
-54662,o2micro,united states,,,,,doll_0.12 b,,,,,,;
-135909,oracle corporation,united states,,,,,doll_228.18 b,,,,technology,,;
-136192,open joint stock company omz,russia,,,,,doll_47.15 b,,,,industrials,,;
-92449,oversea-chinese banking corp ltd,singapore,,,,,doll_40.77 b,,,,,,;
-72716,otis worldwide corporation,united states,,,,,doll_33.09 b,,,specialty industrial machinery,industrials,,;
-154592,orix corporation,japan,,,,,doll_23.97 b,,,,,,;
-136608,olympus corp,japan,,,,,doll_23.00 b,,,,healthcare,,;
-73227,ocado group plc,united kingdom,,,,,,,,,consumer staples,,;
-73429,oxford instruments plc,united kingdom,,,,,doll_1.67 b,,,semiconductor equipment & materials,technology,,;
-74002,octopus aim vct 2 plc,united kingdom,,,,,0,,,asset management,financials,,;
-73602,oxford biomedica plc,united kingdom,,,,,doll_734.7 m,,,biotechnology,healthcare,,;
-73645,odfjell drilling ltd,united kingdom,,,,,doll_634.7 m,,,oil & gas drilling,energy,,;
-73673,oxford immunotec global plc,united kingdom,,,,,0,,,diagnostics & research,healthcare,,;
-73689,octopus renewables infrastructure trust plc,,,,,,doll_398.9 m,,,,,,not found;
-73701,on the beach group plc,united kingdom,,,,,doll_497.1 m,,,travel services,consumer discretionary,,;
-73810,octopus apollo vct,united kingdom,,,,,doll_322.6 m,,,asset management,financials,,;
-74051,open orphan plc,united kingdom,,,,,doll_123.9 m,,,biotechnology,healthcare,,;
-74069,oncimmune holdings plc,united kingdom,,,,,doll_116.8 m,,,biotechnology,healthcare,,;
-74129,onthemarket plc,united kingdom,,,,,doll_91.8 m,,,internet content & information,communication services,,;
-136906,omv group,austria,,,,,doll_16.24 b,,,,,,;
-94752,orsted,denmark,,,,,doll_49.11 b,,,,,,;
-93704,orient securities company,china,,,,,doll_4.1 b,,,,,,;
-94041,ogaki kyoritsu bank,japan,,,,,doll_622 m,doll_701 m,doll_87 m,,,,;
-100256,oci,uk,,,,32,,doll_568.32 m,,,financial services,,;
-98235,onlyfans,uk,,,,800.0,,doll_316.73 m,,,technology,,;
-98308,omnisend,uk,,,,99.0,,doll_11.76 m,,,technology,,;
-97313,octopus energy,uk,,,,,,,,,,,;
-99317,ouihelp,france,,,,106.0,,doll_3.69 m,,,support services,,;
-98336,oxray,portugal,,,,6,,doll_5.47 m,,,health,,;
-99453,oculavis,germany,,,,55.0,,doll_3.92 m,,,technology,,;
-98462,ooni pizza ovens,uk,,,,83,,doll_63.88 m,,,personal & household goods,,;
-99553,oceanis yachts,italy,,,,6,,doll_3.06 m,,,travel & leisure,,;
-98554,opus db,france,,,,8.0,,doll_12.17 m,,,construction,,;
-102388,onbuy.com,uk,,,,18,,doll_2.72 m,,,ecommerce,,;
-97603,opéra energie,france,,,,98,,doll_11.22 m,,,energy,,;
-102653,olympp,france,,,,27.0,,doll_5.51 m,,,technology,,;
-102817,obiz,france,,,,38.0,,doll_15.38 m,,,media,,;
-99694,otl - online trainer,germany,,,,46.0,,doll_6.61 m,,,health,,;
-102913,opyn,italy,,,,19,,doll_4.17 m,,,financial services,,;
-97825,ocean transport,spain,,,,19,,doll_4.78 m,,,transport,,;
-103547,oxylabs.io,lithuania,,,,245.0,,doll_25.04 m,,,technology,,;
-97921,opteamis,france,,,,35.0,,doll_13.86 m,,,support services,,;
-100000,ogrodosfera.pl,poland,,,,23,,doll_13.26 m,,,ecommerce,,;
-100065,ogury,uk,,,,371,,doll_108.76 m,,,advertising,,;
-99110,opna,france,,,,23,,doll_2.32 m,,,support services,,;
-100132,opencorporates,uk,,,,25,,doll_2.73 m,,,technology,,;
-100185,oasis smart sim europe**,france,,,,20.0,,doll_3.07 m,,,telecoms,,;
-100205,on metall,germany,,,,6,,doll_2.59 m,,,industrial goods,,;
-100266,omkara,india,,,,39,,doll_10.71 m,,,financial services,,;
-100593,one retail group*,united kingdom,,,,12,,doll_16.4 m,,,ecommerce,,;
-100761,one of a kind inc.,japan,,,,17,,doll_3.50 m,,,media,,;
-100788,olimplanet,south korea,,,,50,,doll_5.10 m,,,technology,,;
-101753,osiway,france,,,,3,,doll_4.68 m,,,technology,,;
-100800,onda,south korea,,,,54,,doll_4.31 m,,,technology,,;
-100802,one 97 / paytm,india,,,,not found,,doll_515.33 m,,,financial services,,;
-100968,ooni,united kingdom,,,,34,,doll_11.29 m,,,personal & household goods,,;
-100972,origin integrated studios,malaysia,,,,19,,doll_1.15 m,,,technology,,;
-101007,one stop warehouse,australia,,,,92,,doll_380.27 m,,,energy,,;
-101078,ota insight,united kingdom,,,,105,,doll_11.63 m,,,technology,,;
-101127,oriano clean energy,india,,,,67,,doll_22.66 m,,,energy,,;
-101145,oradian,croatia,,,,125,,doll_2.20 m,,,fintech,,;
-101169,orient software,united states,,,,312,,doll_6.62 m,,,technology,,;
-101183,ohr marketing (olive house),malaysia,,,,103,,doll_6.32 m,,,retail,,;
-101236,otso fintech,taiwan,,,,20,,doll_1.66 m,,,fintech,,;
-101309,over the wire,australia,,,,162,,doll_65.13 m,,,technology,,;
-101361,orbitremit,new zealand,,,,42,,doll_11.15 m,,,fintech,,;
-149264,open house,japan,,,,,,,,,,,;
-101454,onestar,japan,,,,202,,doll_102.88 m,,,advertising,,;
-101502,ogury*,united kingdom,,,,295,,doll_70.42 m,,,advertising,,;
-102127,oxwork,france,,,,10,,doll_4.41 m,,,retail,,;
-101551,okwave,japan,,,,160,,doll_44.08 m,,,support services,,;
-101573,obido,poland,,,,42,,doll_2.06 m,,,technology,,;
-101611,ogrodosfera,poland,,,,15,,doll_8.38 m,,,ecommerce,,;
-101810,oasis fertility,india,,,,318,,doll_9.20 m,,,health,,;
-101858,onco-life hospitals,india,,,,164,,doll_3.82 m,,,health,,;
-101878,over the lux,italy,,,,5,,doll_3.3 m,,,travel & leisure,,;
-101894,okkami,thailand,,,,30,,doll_1.21 m,,,technology,,;
-102024,onkochishin,japan,,,,125,,doll_1.26 m,,,travel & leisure,,;
-102160,oxford summer courses,united kingdom,,,,12,,doll_5.3 m,,,education,,;
-102187,otc engineering,spain,,,,11,,doll_2.0 m,,,technology,,;
-102220,oni foods overseas,spain,,,,12,,doll_44.21 m,,,food & beverage,,;
-102447,oppo brothers,uk,,,,16,,doll_4.85 m,,,food & beverage,,;
-102647,orderbird,germany,,,,133,,doll_9.0 m,,,technology,,;
-102802,one unity consulting,germany,,,,8,,doll_1.73 m,,,technology,,;
-104288,on ze air,france,,,,23,,doll_2.3 m,,,media,,;
-102850,offhealth,italy,,,,39,,doll_11.08 m,,,pharmaceuticals,,;
-102852,obiz concept,france,,,,29,,doll_3.4 m,,,sales & marketing,,;
-102900,omnia group*,italy,,,,7,,doll_1.72 m,,,advertising,,;
-102983,ombea,sweden,,,,13,,doll_2.86 m,,,technology,,;
-103082,ooni,uk,,,,50,,doll_15.63 m,,,retail,,;
-103284,optiwella,hungary,,,,42,,doll_10.1 m,,,telecoms,,;
-103367,oika oika,france,,,,11,,doll_6.19 m,,,retail,,;
-103410,openwork / le monde après,france,,,,229,,doll_28.27 m,,,support services,,;
-103491,ova projects,spain,,,,25,,doll_6.2 m,,,industrial goods,,;
-103556,oxford summer courses,uk,,,,74,,doll_9.57 m,,,education,,;
-103590,o2feel,france,,,,18,,doll_11.1 m,,,personal & household goods,,;
-104694,osmii,united kingdom,,,,18,,doll_4.1 m,,,support services,,;
-103742,optogama*,lithuania,,,,14,,doll_2.22 m,,,technology,,;
-103932,onefifty consultancy,uk,,,,16,,doll_2.02 m,,,sales & marketing,,;
-103935,one 77 mortgages,united kingdom,,,,32,,doll_2.34 m,,,financial services,,;
-103987,opisto,france,,,,14,,doll_2.0 m,,,automobiles,,;
-104259,opisto (saceo),france,,,,20,,doll_2.71 m,,,automobiles,,;
-104280,outscale**,france,,,,103,,doll_25.6 m,,,technology,,;
-104310,oxbotica,uk,,,,151,,doll_4.39 m,,,technology,,;
-104671,once upon a time global,uk,,,,123,,doll_44.47 m,,,advertising,,;
-104787,operador vitotrans,spain,,,,not found,,doll_5.7 m,,,transport,,;
-104968,overdrive,france,,,,29,,doll_3.51 m,,,construction,,;
-105058,oettinger gruppe,germany,,,,105,,doll_36.85 m,,,construction,,;
-105109,o.k. energie haus,austria,,,,32,,doll_4.9 m,,,construction,,;
-105195,olibar ,italy,,,,44,,doll_19.4 m,,,food & beverage,,;
-113121,omnis global ltd,,,,,,,,,,,,;
-114107,oil finances ltd,,,,,,,,,,,,;
-119642,oli ebike systems srl,italy,,,,,,,,,,,;
-119923,omd estonia ou,estonia,,,,,,,,,,,;
-122825,o.r.i. martin acciaieria e ferriera di brescia spa,italy,,,,,,,,,,,;
-122829,o.r.i. martin holding srl,italy,,,,,,,,,,,;
-120129,ohme operations uk limited,united kingdom,,,,,,,,,,,;
-122929,octo telematics spa,italy,,,,,,,,,,,;
-120483,odfjell technology (uk) ltd.,united kingdom,,,,,,,,,,,;
-123384,opis srl,italy,,,,,,,,,,,;
-123438,onclusive media srl,italy,,,,,,,,,,,;
-120831,orapi applied limited,united kingdom,,,,,,,,,,,;
-120877,olmar and mirta spa,italy,,,,,,,,,,,;
-120912,one51 es plastics (uk) limited,united kingdom,,,,,,,,,,,;
-121728,orano uk limited,united kingdom,,,,,,,,,,,;
-182912,officine maccaferri spa,italy,,,,,,,,,,,;
-120954,optical express (holdings) limited,united kingdom,,,,,,,,,,,;
-123896,ordine nazionale dei biologi di roma,italy,,,,,,,,,,,;
-123994,orwell group holding ltd,united kingdom,,,,,,,,,,,;
-121325,oscartielle spa,italy,,,,,,,,,,,;
-121451,olivetti spa societa' benefit,italy,,,,,,,,,,,;
-121478,one underwriting srl,italy,,,,,,,,,,,;
-121570,ocado solutions limited,united kingdom,,,,,,,,,,,;
-121732,online sim spa di intermediazione mobiliare in sigla online sim spa,italy,,,,,,,,,,,;
-121890,our media limited,united kingdom,,,,,,,,,,,;
-121909,ow italy srl,italy,,,,,,,,,,,;
-121920,ontime automotive limited,united kingdom,,,,,,,,,,,;
-124041,orgenesis maryland inc,united states,,,,,,,,,,,;
-122074,octorate srl,italy,,,,,,,,,,,;
-122236,onnicar srl,italy,,,,,,,,,,,;
-122337,ovarro ld ltd,united kingdom,,,,,,,,,,,;
-122339,oxford healthcare,united states,,,,,,,,,,,;
-122340,ovarro ltd,united kingdom,,,,,,,,,,,;
-122523,office of the secretary of state for scotland,united kingdom,,,,,,,,,,,;
-122537,open health inc.,united states,,,,,,,,,,,;
-122553,octopus publishing group limited,united kingdom,,,,,,,,,,,;
-124232,optimity advisors careers,,,,2009,,,,,management consulting,,,;
-124731,opentext careers,,,,1996,,,,,logistics & supply chain,,,;
-124323,opengov inc. careers,,,,2012,,,,,internet,,,;
-124347,oriental trading company careers,,,,1932,,,,,retail,,,;
-124627,ontario insurance company careers,,,,1877,,,,,insurance,,,;
-124716,orochem technologies careers,,,,1996,,,,,biotechnology,,,;
-124745,omd careers,,,,1996,,,,,marketing & advertising,,,;
-124746,omnivision technologies careers,,,,1995,,,,,semiconductors,,,;
-124796,optimal synthesis inc. careers,,,,1992,,,,,aviation & aerospace,,,;
-124838,outsystems careers,,,,2001,,,,,computer software,,,;
-124881,one gas careers,,,,2014,,,,,utilities,,,;
-124981,ohio computer medix careers,,,,1992,,,,,information technology & services,,,;
-125004,ontario teachers'â pension plan careers,,,,1989,,,,,investment management,,,;
-162882,open lending corporation,united states,,,,,,,146 million usd,,,,;
-131201,olav thon eiendomsselskap asa,norway,,,,,,,,,,,;
-144064,offerup,united states,,,,,,,,,,,;
-133603,oaktree specialty lending corporation,united states,,,,,,,,,,,;
-156518,oakley capital investments limited,bermuda,,,,,,,,,,,;
-136618,on semiconductor corporation,united states,,,,,doll_19.1 m,,,,,,alan campbell;
-136670,ongc,india,,,,,doll_21.08 m,,,,,,;
-147662,omron corporation,japan,,,,,doll_18.78 b,,,,,,;
-137163,ocado group,uk,,,,,doll_15.93 b,,,,,,tim steiner;
-137473,open text corporation,canada,,,,,doll_14.9 m,,,,,,;
-182041,otto group,germany,,,,,,,,,,,;
-137673,one97 communications limited,india,,,,,doll_10.89 b,,,,,,;
-137826,ovintiv inc.,canada,,,,,doll_9.87 b,,,,,,;
-137850,orkla asa,norway,,,,,doll_9.74 b,,,,,,;
-138044,otsuka corporation,japan,,,,,doll_8.63 b,,,,,,;
-148811,organon & co.,united states,,,,,doll_8.2 b,,,,,,;
-148908,oxford nanopore technologies plc,uk,,,,,,,,,,,;
-138283,offcn education technology,china,,,,,doll_10.28 m,,,,,,;
-138542,onex corporation,canada,,,,,doll_6.71 b,,,,,,;
-138850,ozon holdings plc,cyprus,,,,,doll_5.87 b,,,,,,;
-138945,owl rock capital corporation,united states,,,,,doll_5.73 m,,,,,,;
-138946,orion oyj,finland,,,,,doll_5.71 m,,,,,,;
-138985,obayashi corporation,japan,,,,,doll_5.58 b,,,,,,;
-150089,orbia advance corporation,mexico,,,,,doll_5.75 m,,,,,,;
-150105,oji holdings corporation,japan,,,,,doll_5.39 m,,,,,,;
-150107,olam international,singapore,,,,,doll_4.45 m,,,,,,;
-139431,ortho clinical diagnostics holdings plc,united states,,,,,doll_4.75 b,,doll_-54.0 m,,,,;
-150127,oatly group ab,sweden,,,,,,,,,,,;
-139835,old mutual limited,south africa,,,,,doll_4.11 b,,,,,,;
-139855,orix jreit,japan,,,,,doll_4.87 m,,,,,,;
-150692,ovo,indonesia,,,,,doll_0.003958 t,,,,,,;
-140201,o2 czech republic,czech republic,,,,,doll_3.67 m,,,,,,;
-140273,oneness biotech,taiwan,,,,,doll_3.65 b,,,,,,;
-151101,orion corp.,south korea,,,,,doll_4.32 m,,doll_193.0 m,,,,;
-151183,oc oerlikon corporation ag,switzerland,,,,,,,,,,,;
-151244,onesavings bank,uk,,,,,doll_3.16 m,,,,,,;
-140576,offshore oil engineering,china,,,,,doll_3.34 b,,,,,,;
-140907,osotspa public company,thailand,,,,,doll_3.33 m,,,,,,;
-168117,osterreichische post ag,austria,,,,,,,,,,,;
-141157,olo inc.,united states,,,,,doll_5.67 m,,,,,,;
-141191,otter tail corporation,united states,,,,,doll_2.28 m,,,,,,;
-141212,ossur,iceland,,,,,doll_2.8 b,,,,,,;
-141267,obic business consultants,japan,,,,,doll_2.76 b,,,,,,;
-141387,orange life insurance,south korea,,,,,doll_0.005263 t,,,,,,;
-152129,oasis petroleum,united states,,,,,doll_1.72 m,,,,,,;
-141566,opple lighting,china,,,,,doll_2.62 m,,,,,,;
-142078,orora,australia,,,,,doll_2.22 m,,,,,,;
-142152,oci company ltd,south korea,,,,,doll_2.56 m,,,,,,;
-142226,organizacion soriana s. a. b. de c. v,mexico,,,,,doll_2.12 b,,,,,,;
-142481,ocean's king lighting science & technology,china,,,,,doll_1.97 m,,,,,,;
-154144,orient corporation,japan,,,,,,,,,,,;
-142942,orient group incorporation,china,,,,,doll_1.67 m,,,,,,;
-153645,oue commercial real estate investment trust,singapore,,,,,doll_1.67 m,,,,,,;
-142996,ox2 ab (publ),sweden,,,,,doll_1.78 m,,,,,,;
-143058,octopus titan vct,uk,,,,,doll_1.42 m,,,,,,;
-143153,olympic circuit technology,china,,,,,doll_1.0 m,,,,,,;
-143334,outsourcing,japan,,,,,doll_1.63 b,,,,,,;
-143632,oem international ab (publ),sweden,,,,,doll_1.31 m,,,,,,;
-154592,okuma corporation,japan,,,,,doll_23.97 b,,,,,,;
-144067,orbbec,china,,,,,0.0,,,,,,;
-144190,olink holding ab (publ),sweden,,,,,doll_3.81 m,,,,,,;
-144366,one software technologies ltd,israel,,,,,doll_1.12 m,,,,,,;
-144391,ogawa smart healthcare technology group,china,,,,,doll_1.34 b,,,,,,;
-144433,orange belgium,belgium,,,,,doll_1.41 m,,,,,,;
-144605,oxford biomedica,uk,,,,,doll_1.69 m,,,,,,;
-144649,ottogi corporation,south korea,,,,,doll_1.27 b,,,,,,;
-144931,oasis midstream partners lp,united states,,,,,doll_1.03 m,,,,,,;
-144954,objective corporation,australia,,,,,doll_1.2 b,,,,,,;
-145099,okinawa cellular telephone company,japan,,,,,doll_1.17 b,,,,,,;
-145373,okamura corporation,japan,,,,,doll_1.52 m,,,,,,;
-145402,orient international enterprise,china,,,,,doll_1.02 m,,,,,,;
-145435,oceanagold corporation,australia,,,,,doll_1.31 m,,,,,,;
-145596,okumura corporation,japan,,,,,doll_1.06 m,,,,,,;
-145720,opto tech corporation,taiwan,,,,,doll_1.03 b,,,,,,;
-146024,o.y. nofar energy ltd,israel,,,,,doll_989.0 m,,,,,,;
-146046,ohsho food service,japan,,,,,doll_1.02 m,,doll_64.0 m,,,,;
-146076,oil refineries,israel,,,,,doll_982.0 m,,,,,,;
-146203,optimizerx corporation,united states,,,,,doll_1.17 m,,,,,,;
-146335,oisix ra daichi,japan,,,,,doll_1.22 m,,,,,,;
-146405,optorun,japan,,,,,doll_917.0 m,,,,,,;
-146457,origen financial,united states,,,,,doll_0.97 m,,,,,,;
-150133,ofilm group,china,,,,,doll_4.72 b,,doll_-382.0 m,,,,;
-151837,olo inc.,united states,,,,,doll_2.84 b,,doll_-42.0 m,,,,;
-153161,ocean's king lighting science & technology,china,,,,,doll_1.99 b,,0.0,,,,;
-154587,ocumension therapeutics,china,,,,,doll_1.42 b,,0.0,,,,;
-156053,okamura corporation,japan,,,,,doll_1.1 b,,doll_109.0 m,,,,;
-156082,orient international enterprise,china,,,,,doll_1.1 b,,0.0,,,,;
-178387,odd molly,,stockholm,,2002,,,,,consumer goods,clothing & accessories,,;
-183865,onoff,,upplands väsby,,1971,,,,,consumer services,broadline retailers,,;
-183866,orexo,,uppsala,,1995,,,,,health care,pharmaceuticals,,;
-178392,orrefors glassworks,,orrefors,,1898,,,,,industrials,building materials & fixtures,,;
-178393,oskarshamn shipyard,,oskarshamn,,1863,,,,,industrials,commercial vehicles & trucks,,;
-178394,ovako,,stockholm,,1969,,,,,basic materials,iron & steel,,;
-183645,obrascón huarte lain,,madrid,,1999,,,,,industrials,heavy construction,,;
-183646,orbea,,mallabia,,1931,,,,,consumer goods,recreational products,,;
-178677,o2 slovakia,,bratislava,,2006,,,,,telecommunications,mobile telecommunications,,;
-183329,okocim brewery,,brzesko,,1845,,,,,consumer goods,brewers,,;
-183221,océ,,venlo,,1877,,,,,technology,electronic office equipment,,;
-179017,one productions,,marsa,,1994,,,,,consumer services,broadcasting & entertainment,,;
-183117,orco,,capellen,,1991,,,,,financials,real estate holding & development,,;
-183042,olainfarm,,olaine,,1972,,,,,health care,pharmaceuticals,,;
-179438,osca,,san lazzaro di savena,,1947,,,,,consumer goods,automobiles,,;
-179440,olidata,,cesena,,1982,,,,,technology,software,,;
-179441,olivetti,,ivrea,,1908,,,,,consumer goods,consumer electronics,,;
-179442,omas,,bologna,,1925,,,,,consumer goods,nondurable household products,,;
-179443,omp racing,,ronco scrivia,,1973,,,,,consumer goods,auto parts,,;
-179444,onda mobile communication,,roveredo in piano,,2003,,,,,technology,telecommunications equipment,,;
-179445,osella,,verolengo,,1965,,,,,consumer goods,automobiles,,;
-179446,ostoni,,cormano,,1958,,,,,consumer goods,durable household products,,;
-182920,oto melara,,rome,,1905,,,,,industrials,defense,,;
-179448,oz group,,san martino di lupari,,1971,,,,,consumer goods,tires,,;
-179628,oatfield,,letterkenny,,1927,,,,,consumer goods,food products,,;
-182576,o'briens irish sandwich bars,,dublin,,1988,,,,,consumer services,food retailers & wholesalers,,;
-182577,openet,,dublin,,1999,,,,,technology,software,,;
-179717,oncotherm,,budapest,,1988,,,,,health care,medical equipment,,;
-182456,organica technologies,,budapest,,1998,,,,,utilities,water,,;
-179720,otp bank,,budapest,,1949,,,,,financials,banks,,;
-182219,open tv,,koropi,,1990,,,,,consumer services,broadcasting & entertainment,,;
-180043,orano,,courbevoie,,2017,,,,,nuclear industries,nuclear cycle,,;
-180044,oxbow,,mérignac,,1985,,,,,consumer goods,recreational products,,;
-180131,olvi,,helsinki,,1878,,,,,consumer goods,soft drinks,,;
-180205,olerex,,tartu,,1994,,,,,consumer services,specialty retailers,,;
-180206,omniva,,tallinn,,1638,,,,,logistics,delivery services,,;
-180379,o2 czech republic,,prague,,2006,,,,,telecommunications,telecommunications,,;
-180380,okd,,ostrava,,1952,,,,,basic materials,coal,,;
-181306,omega tv cyprus,,nicosia,,1992,,,,,consumer services,media,,;
-181307,open university of cyprus,,nicosia,,2002,,,,,consumer services,education,,;
-181217,odašiljači i veze,,zagreb,,2001,,,,,technology,internet,,;
-181128,ontotext,,sofia,,2000,,,,,technology,software,,;
-181129,overgas,,sofia,,1991,,,,,oil & gas,pipelines,,;
-181032,option n.v.,,leuven,,1986,,,,,technology,computer hardware,,;
-180834,onepharm,,vienna,,2005,,,,,health care,biotechnology,,;
-182037,opel,,rüsselsheim am main,,1862,,,,,consumer goods,automobiles,,;
-182038,orenstein & koppel,,berlin,,1876,,,,,industrials,industrial vehicles & trucks,,;
-182039,osram,,munich,,1919,,,,,industrials,building materials & fixtures,,;
-182340,optima bank,,athens,,2000,,,,,financials,banks,,;
-182335,olympia odos consortium,,athens,,2008,,,,,industrials,transportation services,,;
-182337,olympos,,larissa,,1965,,,,,consumer services,food & beverages,,;
-182338,olympus airways,,athens,,2014,,,,,consumer services,airlines,,;
-182339,opap,,athens,,1958,,,,,consumer services,gambling,,;
-182342,ote,,maroussi,,1949,,,,,telecommunications,fixed line telecom.,,;
-182343,oteglobe,,athens,,2000,,,,,telecommunications,broadband and internet,,;
-182344,ouzo plomari,,plomari,,1894,,,,,consumer goods,beverages,,;
-184370,olympus corporation,,bagsværd,,0,,,,,electronics,,,;
-184373,otobi,,dhaka,,1975,,,,,telecommunications,,,;
-184374,officemax,,,,0,,,,,retail,,,;
-184375,oracle corporation,,,,0,,,,,enterprise software business software cloud computing computer hardware consulting,,,;
-184377,ornua,,dublin,,1961,,,,,food retail,,,;
-416,oberoi group of hotels,,,,1934,,,,,hospitality,,,;
-1126,orchids international school,,,,2004,,,,,education & training,,,;
-1665,otsuka pharmaceutical,,,,2012,,,,,pharma,,,;
-2261,osource india,,,,2004,,,,,it services & consulting,,,;
-2514,origo commodities,,,,2010,,,,,agriculture,,,;
-2861,onkar infotech,,,,2000,,,,,bpo,,,;
-3151,omninos solutions,,,,2016,,,,,software product,,,;
-3929,ozone pharmaceuticals,,,,1991,,,,,pharma,,,;
-5650,o p jindal global university,,,,2009,,,,,education & training,,,;
-5873,om careers,,,,2008,,,,,recruitment,,,;
-6072,omprime technology private limited,,,,2019,,,,,it services & consulting,,,;
-6158,osb india,,,,2004,,,,,financial services,,,;
-6866,oliva skin and hair clinics,,,,2009,,,,,healthcare,,,;
-6989,opulentus overseas careers,,,,2001,,,,,travel & tourism,,,;
-7052,oeg india,,,,2007,,,,,oil & gas,,,;
-7681,ocrolus east,,,,2014,,,,,fintech,,,;
-8664,om enterprises,,,,1992,,,,,fashion & textile,,,;
-8767,ognibene india,,,,1953,,,,,industrial machinery,,,;
-8804,openview technologies,,,,1996,,,,,it services & consulting,,,;
-9075,ornate technoservices,,,,2009,,,,,it services & consulting,,,;
-11975,orna therapeutics,united states,,,2019,,,,,health,,,;
-13169,orna therapeutics,united states,,,,,,,,health,,,;
-16901,outlook therapeutics,united states,,,,,doll_0.27 b,,,,,['pharmaceuticals'],;
-24758,onconova therapeutics,united states,,,,,doll_19.17 m,,,,,pharmaceuticals biotech ,;
-25540,ovid therapeutics,united states,,,,,doll_0.16 b,,,,,pharmaceuticals biotech ,;
-25568,op bancorp (open bank),united states,,,,,doll_0.17 b,,,,,banks financial-services ,;
-25696,orasure technologies,united states,,,,,doll_0.37 b,,,,,diagnostics biotech ,;
-25859,outlook therapeutics,united states,,,,,doll_0.32 b,,,,,pharmaceuticals ,;
-25877,olema pharmaceuticals,united states,,,,,doll_0.17 b,,,,,pharmaceuticals biotech ,;
-32584,orasure technologies,united states,,,,,doll_0.37 b,,,,,,;
-32625,outlook therapeutics,united states,,,,,doll_0.34 b,,,,,,;
-33179,olema pharmaceuticals,united states,,,,,doll_0.16 b,,,,,,;
-33181,ovid therapeutics,united states,,,,,doll_0.16 b,,,,,,;
-33864,onconova therapeutics,united states,,,,,doll_18.41 m,,,,,,;
-39720,orasure technologies,united states,,,,,doll_350.0 m,,,,,,;
-39934,outlook therapeutics,united states,,,,,doll_260.0 m,,,,,,;
-40407,ovid therapeutics,united states,,,,,doll_130.0 m,,,,,,;
-41028,onconova therapeutics,united states,,,,,doll_15.06 m,,,,,,;
-42745,outlook therapeutics,united states,,,,,doll_0.22 b,,,,,['pharmaceuticals'],;
-53919,orasure technologies,united states,,,,,doll_0.38 b,,,,,,;
-54398,outlook therapeutics,united states,,,,,doll_0.20 b,,,,,,;
-54664,ovid therapeutics,united states,,,,,doll_0.12 b,,,,,,;
-55236,onconova therapeutics,united states,,,,,doll_15.8 m,,,,,,;
-61023,orasure technologies,united states,,,,,doll_0.36 b,,,,,,;
-61244,outlook therapeutics,united states,,,,,doll_0.27 b,,,,,,;
-61560,olema pharmaceuticals,united states,,,,,doll_0.18 b,,,,,,;
-62511,orasure technologies,,,,,785.0,doll_0.37 b,doll_0.32 b,-doll_40.8 m,,,,;
-63526,olema pharmaceuticals,,,,,72.0,doll_0.16 b,,-doll_0.11 b,,,,;
-63645,ovid therapeutics,,,,,44.0,doll_0.16 b,doll_1.45 m,-doll_68.97 m,,,,;
-63798,onconova therapeutics,,,,,14.0,doll_18.41 m,doll_0.22 m,-doll_17.31 m,,,,;
-63833,outlook therapeutics,,,,,9.0,doll_0.34 b,,-doll_66.05 m,,,,;
-114109,one nine finances limited,,,,,,,,,,,,;
-114230,omni claim ltd,,,,,,,,,,,,;
-114235,owo holding ltd,,,,,,,,,,,,;
-114257,os finances limited,,,,,,,,,,,,;
-114263,orinoko jantar ltd,,,,,,,,,,,,;
-117478,omega facade ltd,,,,,,,,,,,,;
-117482,ozbenz limited,,,,,,,,,,,,;
-118128,ozzy workshop ltd,,,,,,,,,,,,;
-124438,oath careers,,,,2006,,,,,internet,,,;
-124507,oclc careers,,,,1967,,,,,information technology & services,,,;
-124575,ombud careers,,,,2011,,,,,computer software,,,;
-124601,onepoint careers,,,,2002,,,,,management consulting,,,;
-124779,ocr careers,,,,1983,,,,,computer software,,,;
-124886,ohiohealth careers,,,,1891,,,,,hospital & health care,,,;
-124911,optokey careers,,,,2009,,,,,medical device,,,;
-124928,overstock careers,,,,1999,,,,,internet,,,;
-125000,outdoorsy careers,,,,2015,,,,,internet,,,;
-125061,onsemi careers,,,,1999,,,,,semiconductors,,,;
-137331,oppein home group,china,,,,,doll_13.91 m,,,,,,;
-138060,olin corporation,united states,,,,,doll_8.0 m,,,,,,;
-138234,old republic international corporation,united states,,,,,doll_7.95 m,,,,,,;
-138441,opendoor technologies inc.,united states,,,,,doll_11.29 m,,,,,,;
-139453,ofilm group,china,,,,,doll_3.02 m,,,,,,;
-141575,org technology,china,,,,,doll_2.13 m,,,,,,;
-143907,ocumension therapeutics,china,,,,,doll_1.61 m,,,,,,;
-148011,oppein home group,china,,,,,doll_14.01 b,,doll_388.0 m,,,,;
-148740,olin corporation,united states,,,,,doll_8.59 b,,doll_1.3 b,,,,;
-148914,old republic international corporation,united states,,,,,doll_7.83 b,,doll_1.53 b,,,,;
-149121,opendoor technologies inc.,united states,,,,,doll_7.1 b,,doll_-662.0 m,,,,;
-149625,owl rock capital corporation,united states,,,,,doll_5.69 b,,doll_624.0 m,,,,;
-152255,org technology,china,,,,,doll_2.53 b,,0.0,,,,;
-180132,op financial group,,helsinki,,1891,,,,,financials,financial services,,;
-180133,orion corporation,,espoo,,1917,,,,,health care,pharmaceuticals,,;
-181600,op financial group,,helsinki,,1891,,,,,financials,financial services,,;
-181601,orion corporation,,espoo,,1917,,,,,health care,pharmaceuticals,,;
-182040,otto gmbh,,hamburg,,1949,,,,,consumer services,broadline retailers,,;
-182333,ocean rig,,athens,,1996,,,,,oil & gas,exploration & production,,;
+id,name,country,address,founded,employees,market_cap,revenue,profit,categories,ceo,city
+71,oppo,,,2004.0,,,,,['consumer electronics & appliances'],,
+71200,oracle,united states,,1977.0,132000.0,doll_22.818 b,doll_4.183 b,doll_0.9460000000000001 b,"['tech', 'software']",ms. safra ada catz,
+170144,oyo rooms,india,,,17000.0,doll_1.863 b,doll_0.387 b,doll_0.021 b,['travel'],not found,gurugram
+63533,omega healthcare,united states,,,,doll_0.6769999999999999 b,doll_0.098 b,doll_0.065 b,['it services & consulting'],,
+167,optum,,,1977.0,,,,,['healthcare'],,
+7329,ola cabs,india,,2010.0,4500.0,doll_1.859 b,doll_0.331 b,0.0,['auto & transportation'],not found,bengaluru
+416,oberoi group of hotels,,,1934.0,,,,,['hospitality'],,
+519,orange business services,,,2006.0,,,,,['it services & consulting'],,
+535,ocwen financial solutions,,,1988.0,,,,,['financial services'],,
+160866,oracle financial services software,india,,1990.0,8001.0,doll_0.462 b,doll_0.654 b,doll_0.236 b,"['technology', 'software and it', 'software products', 'software and it infrastructure']",not found,
+613,optum global solutions,,,,,,,,['it services & consulting'],,
+706,oil and natural gas corporation,india,"kdmipe capmus, kaulagarh road, deharadun, 248195",,,doll_2.3 b,doll_7.2 b,,['oil & gas'],,
+765,orion edutech,,,2006.0,,,,,['edtech'],,
+829,om logistics,,,1999.0,,,,,['logistics'],,
+51009,olam,singapore,,,,doll_0.45499999999999996 b,,,"['food', 'agriculture']",,
+1020,otis elevator,,,1853.0,,,,,['industrial machinery'],,
+57280,omv group,austria,,1956.0,25391.0,doll_1.6239999999999999 b,doll_4.202 b,doll_0.24700000000000003 b,"['energy', 'oil and gas', 'oil and gas pipeline transport', 'oil refining', 'electricity generation']",alfred stern,
+1080,ola electric mobility,india,,,,,,,['auto & transportation'],,bengaluru
+1111,omics international,,,2007.0,,,,,['printing & publishing'],,
+1126,orchids international school,,,2004.0,,,,,['education & training'],,
+40323,omaxe,india,,,,doll_0.015 b,doll_0.07626999999999999 b,doll_0.03309 b,['real estate'],,
+1168,olx,,,2006.0,,,,,['it services & consulting'],,
+1221,orient craft,,,1976.0,,,,,['fashion & textile'],,
+39757,orient cement,india,,,,doll_0.033 b,doll_0.034999999999999996 b,doll_0.03476 b,"['cement', 'buildingmaterials']",,
+1377,oriental structural engineers,,,1986.0,,,,,['engineering & construction'],,
+1422,ongc petro additions,,,2006.0,,,,,['petrochemicals'],,
+1450,offshore infrastructures,,,1995.0,,,,,['engineering & construction'],,
+1459,orient technologies,,,1992.0,,,,,['electrical equipment'],,
+53314,orient electric,india,,,,doll_0.06899999999999999 b,doll_0.032 b,doll_0.016 b,"['consumer durables', 'electrical products', 'home appliances', 'home furnishing']",not found,
+1564,okaya power,,,1987.0,,,,,['power'],,
+8804,opentext technologies,,,1996.0,,,,,['software product'],,
+1665,otsuka pharmaceutical,,,2012.0,,,,,['pharma'],,
+1718,olx autos,,,,,,,,['auto components'],,
+1755,onshore construction,,,1995.0,,,,,['engineering & construction'],,
+1791,online legal india,,,2019.0,,,,,['legal'],,
+2171,onward eservices,,,2003.0,,,,,['it services & consulting'],,
+2204,onprocess technology,,,1998.0,,,,,['logistics'],,
+2261,osource india,,,2004.0,,,,,['it services & consulting'],,
+2482,orient bell,,,1977.0,,,,,['building material'],,
+2495,orix auto infrastructure services,,,1995.0,,,,,['logistics'],,
+148643,owens corning,united states,"one owens corning parkway, toledo, ohio, 43659",1938.0,20000.0,doll_0.835 b,doll_0.85 b,doll_0.995 b,"['industries', 'capital goods', 'machinery manufacturing', 'manufacturing', 'building products and equipment']",brian d. chambers,
+2514,origo commodities,,,2010.0,,,,,['agriculture'],,
+2531,omkar realtors and developers group,,,2003.0,,,,,['real estate'],,
+2636,oneplus,,,2013.0,,,,,['consumer electronics & appliances'],,
+2665,orcapod consulting services,,,2010.0,,,,,['it services & consulting'],,
+2793,orchid chemicals & pharmaceuticals,,,1992.0,,,,,['pharma'],,
+2814,offshoot agency,,,2002.0,,,,,['it services & consulting'],,
+2861,onkar infotech,,,2000.0,,,,,['bpo'],,
+2893,optimhire,,,2018.0,,,,,['it services & consulting'],,
+183867,oriflame,,,1967.0,,,,,['beauty & personal care'],,stockholm
+3002,ozone overseas,,,2000.0,,,,,['architecture & interior design'],,
+3008,omega healthcare investors,united states,"suite 3500, 200 international circle, hunt valley, maryland, 21030",,,doll_0.0075 b,doll_0.001062 b,doll_0.416 b,"['real estate', 'consumer services', 'property investments']",mr. c. taylor pickett,
+128929,oberoi realty,india,,1980.0,,doll_0.376 b,doll_0.041999999999999996 b,doll_0.131 b,['real estate'],not found,
+3151,omninos solutions,,,2016.0,,,,,['software product'],,
+3330,opporture,,,,,,,,['marketing & advertising'],,
+3375,oodlestechnologies,,,2009.0,,,,,['it services & consulting'],,
+3381,ordnance factory,,,1775.0,,,,,['government'],,
+3424,onicra credit rating agency,,,1993.0,,,,,['fintech'],,
+3446,onsitego,,,2010.0,,,,,['internet'],,
+67490,oceaneering international,united states,"11911 fm 529, houston, texas, 77041",,8500.0,doll_0.188 b,doll_0.199 b,doll_-0.049 b,"['energy', 'oil and gas equipment and services', 'oil and gas', 'engineering services']",not found,
+51522,oil india,india,,1959.0,33498.0,doll_0.314 b,doll_0.46399999999999997 b,doll_0.704 b,"['energy', 'oil and gas']",not found,
+3572,onida,,,1981.0,,,,,['consumer electronics & appliances'],,
+3598,overnite express,,,1987.0,,,,,['logistics'],,
+3640,odessa,,,1998.0,,,,,['it services & consulting'],,
+3702,onmobile global,,,2000.0,,,,,['telecom'],,
+3726,oerlikon graziano transmission,,,1906.0,,,,,['industrial machinery'],,
+3835,orra fine jewellery,,,2004.0,,,,,['jewellery'],,
+3844,organic india,,,1997.0,,,,,['fmcg'],,
+3881,oneassist consumer solutions,,,2011.0,,,,,['financial services'],,
+3907,orion security solutions,,,2005.0,,,,,['law enforcement & security'],,
+3929,ozone pharmaceuticals,,,1991.0,,,,,['pharma'],,
+3980,oxford university press,,,1478.0,,,,,['printing & publishing'],,
+3982,office beacon,,,2001.0,,,,,['bpo'],,
+4047,om innovation call services,,,2005.0,,,,,['bpo'],,
+56068,olympus,japan,,2010.0,,doll_2.396 b,doll_0.771 b,doll_0.9018999999999999 b,['healthcare'],yasuo takeuchi,
+4137,oriental carbon & chemicals,,,1978.0,,,,,['chemicals / agri inputs'],,
+4176,optimum infosystem,,,1997.0,,,,,['it services & consulting'],,
+4237,onpassive,,,2018.0,,,,,['it services & consulting'],,
+16576,oriental aromatics,india,,,,doll_0.017 b,doll_0.011 b,doll_0.0070999999999999995 b,['chemicals'],not found,
+4285,outworx solutions,,,2003.0,,,,,['it services & consulting'],,
+4291,oncquest laboratories,,,2000.0,,,,,['healthcare'],,
+4355,omniactive health technologies,,,2004.0,,,,,['fitness & wellness'],,
+4372,operational energy group india,,,2007.0,,,,,['oil & gas'],,
+4481,oxigen services,,,2004.0,,,,,['fintech'],,
+133093,oriental bank of commerce,india,,,,doll_7.531000000000001 b,,doll_0.007 b,"['financial services', 'banking services']",not found,
+4576,oneclick it consultancy,,,2012.0,,,,,['it services & consulting'],,
+4600,orchid pharma,,,1992.0,,,,,['pharma'],,
+4652,oasys cybernetics,,,2000.0,,,,,['it services & consulting'],,
+4670,olive bar & kitchen,,,2000.0,,,,,['hospitality'],,
+4898,olectra greentech,india,,,,doll_0.048 b,doll_0.012 b,doll_0.01022 b,['electrical equipment'],,
+5064,oaknet healthcare,,,2015.0,,,,,['pharma'],,
+5084,oakridge international school,,,2011.0,,,,,['education & training'],,
+46400,onto innovation,united states,,,1411.0,doll_0.377 b,doll_0.097 b,doll_0.142 b,"['technology', 'semiconductors']",not found,
+5261,orchid hotel,,,1973.0,,,,,['hospitality'],,
+33383,orient paper mills,india,,,,doll_0.011 b,doll_0.01 b,doll_0.0014 b,['pulp and paper'],,
+5318,oman national engineering & investment company,,,1978.0,,,,,['engineering & construction'],,
+5381,optimus drugs,,,2004.0,,,,,['pharma'],,
+5415,onkar dies,,,1998.0,,,,,['engineering & construction'],,
+5490,osi technologies,,,1993.0,,,,,['it services & consulting'],,
+5513,oswal castings,,,2005.0,,,,,['metals & mining'],,
+5595,object frontier software,,,1997.0,,,,,['it services & consulting'],,
+5650,o p jindal global university,,,2009.0,,,,,['education & training'],,
+5785,orange city water,,,2011.0,,,,,['waste management'],,
+5873,ombud careers,,,2008.0,,,,,['computer software'],,
+5924,orange retail finance,,,2000.0,,,,,['financial services'],,
+176420,o9 solutions,united states,,2009.0,,doll_7.6930000000000005 b,,0.0,"['artificial intelligence', 'technology', 'software and it']",not found,dallas
+6095,overseas health care,,,1994.0,,,,,['pharma'],,
+6107,oceanic pharmachem,,,1998.0,,,,,['pharma'],,
+6108,oman shapoorji llc,,,1975.0,,,,,['engineering & construction'],,
+6158,osb india,,,2004.0,,,,,['financial services'],,
+6289,opgs power gujarat,,,2008.0,,,,,['power'],,
+6414,ogilvy,,,1948.0,,,,,['marketing & advertising'],,
+6466,ozonegroup,,,2003.0,,,,,['real estate'],,
+6707,omega elevators,,,1985.0,,,,,['industrial machinery'],,
+6762,orient fashions,,,1973.0,,,,,['fashion & textile'],,
+6866,oliva skin and hair clinics,,,2009.0,,,,,['healthcare'],,
+6868,ok play,,,1993.0,,,,,['industrial machinery'],,
+6880,optisol business solutions,,,2006.0,,,,,['it services & consulting'],,
+6885,ortel communications,,,1995.0,,,,,['media & entertainment'],,
+6944,origofinance,,,2016.0,,,,,['financial services'],,
+6963,optimize it systems,,,2010.0,,,,,['it services & consulting'],,
+6988,object technology solutions,,,2010.0,,,,,['it services & consulting'],,
+6989,opulentus overseas careers,,,2001.0,,,,,['travel & tourism'],,
+7001,optiemus electronics,,,2016.0,,,,,['electronics manufacturing'],,
+7035,ola foods,,,,,,,,,,
+7046,orange romania,,,1997.0,,,,,['mobile telecommunications'],,bucharest
+7052,oeg india,,,2007.0,,,,,['oil & gas'],,
+7217,osource global,,,,,,,,,,
+7221,oda class,,,2017.0,,,,,['edtech'],,
+7248,omni hospital,,,2010.0,,,,,['healthcare'],,
+7267,oorja technical services,,,2004.0,,,,,['electrical equipment'],,
+7416,opus consulting solutions,,,1997.0,,,,,['fintech'],,
+7422,optus infotech,,,,,,,,['it services & consulting'],,
+7573,otsuka chemical india,,,,,,,,['chemicals'],,
+7628,optimus global services,,,2002.0,,,,,['bpo'],,
+7642,omega hospitals,,,2010.0,,,,,['healthcare'],,
+7681,ocrolus east,,,2014.0,,,,,['fintech'],,
+100357,oaknorth bank,united kingdom,,2015.0,,,doll_0.06791 b,,['fintech'],,london
+7754,okinawa autotech,,,2016.0,,,,,['auto components'],,
+7858,oberoi flight services,,,1934.0,,,,,['aviation'],,
+7875,ocs services,,,1984.0,,,,,['oil & gas'],,
+7877,objectwin technology,,,1997.0,,,,,['recruitment'],,
+7895,orient blackswan,,,1948.0,,,,,['printing & publishing'],,
+7907,optcl,,,2004.0,,,,,['power'],,
+7951,on demand agility software,,,2006.0,,,,,['it services & consulting'],,
+8002,oneindia bsc,,,2015.0,,,,,['financial services'],,
+8060,o3 hire,,,2016.0,,,,,['management consulting'],,
+8156,oman trading establishment,,,1991.0,,,,,['auto components'],,
+8195,one trust,,,,,,,,,,
+8229,oasis resource management,,,2000.0,,,,,['recruitment'],,
+8473,ori-plast,,,1965.0,,,,,['petrochemicals'],,
+8521,oerlikon balzers,,,1994.0,,,,,['metals & mining'],,
+8539,osi digital,,,1993.0,,,,,['it services & consulting'],,
+8573,oil field instrumentation,,,1992.0,,,,,['oil & gas'],,
+8664,om enterprises,,,1992.0,,,,,['fashion & textile'],,
+8685,orient abrasives,,,1974.0,,,,,['metals & mining'],,
+8708,oriental rubber industries,,,1949.0,,,,,['petrochemicals'],,
+8761,ovt india,,,2002.0,,,,,['electrical equipment'],,
+8767,ognibene india,,,1953.0,,,,,['industrial machinery'],,
+8834,oasis,,,1993.0,,,,,['it services & consulting'],,
+8867,oswal woollen mills,,,1949.0,,,,,['fashion & textile'],,
+9070,ondoor concepts,,,2014.0,,,,,['internet'],,
+9075,ornate technoservices,,,2009.0,,,,,['it services & consulting'],,
+119376,omnicom media group,italy,"via giovanni spadolini 5, milano, 20141, milano, italy",1989.0,,,,,['services'],,
+9145,orbit technologies,,,1995.0,,,,,['industrial machinery'],,
+9196,onegene,,,,,,,,['auto components'],,
+9241,orthosquare dental clinic,,,,,,,,,,
+9262,optimus information,,,2009.0,,,,,['it services & consulting'],,
+9331,open access technology india,,,1995.0,,,,,['it services & consulting'],,
+9439,one auto,,,2011.0,,,,,['automobile'],,
+9465,oxford public school,,,1989.0,,,,,['education & training'],,
+9517,oxalis pharmaceuticals,,,2012.0,,,,,['pharma'],,
+9538,outbooks outsourcing,,,,,,,,['accounting & auditing'],,
+9553,orange county resorts & hotels,,,1994.0,,,,,['hospitality'],,
+9869,oasys tech solutions,,,2012.0,,,,,['it services & consulting'],,
+9897,optimus pharma,,,,,,,,['healthcare / pharma'],,
+9904,osaãâ¼hingaarspak(10166769),,,,,,,,,,
+9907,oãåabconlinesolution(16008334),,,,,,,,,,
+9908,oãåabcrakennuspalvelut(11739760),,,,,,,,,,
+9918,osaãâ¼hingaespaehitus(11373307),,,,,,,,,,
+9920,oãåaespajuuksur(12260290),,,,,,,,,,
+9922,oãåaespal(11079513),,,,,,,,,,
+9924,osaãâ¼hingafloors(11468211),,,,,,,,,,
+9945,oãåaidutãâ¶ãâ¶stuspark(11306854),,,,,,,,,,
+9948,osaãåhingairspace(11009168),,,,,,,,,,
+9954,oãåalarhaljastesiivouspalvelus(11233517),,,,,,,,,,
+9961,osaãâ¼hingalekspa(10166411),,,,,,,,,,
+9963,osaãâ¼hingalfaehituspartner(11193083),,,,,,,,,,
+9974,osaãâ¼hingamritasalong(11278508),,,,,,,,,,
+9975,osaãâ¼hingamun(11471961),,,,,,,,,,
+9983,oãåaqua-spaskaubandus(10635834),,,,,,,,,,
+10003,oãåasaspa(10083300),,,,,,,,,,
+10008,osaãåhingaspalhambaravi(10285541),,,,,,,,,,
+10010,osaãâ¼hingasparagos(10257556),,,,,,,,,,
+10014,osaãâ¼hingaspar(10442584),,,,,,,,,,
+10016,osaãâ¼hingaspar-trans(10090576),,,,,,,,,,
+10028,osaãâ¼hingavispa(10258124),,,,,,,,,,
+10036,osaãâ¼hingbalticaviationspaceagency(12421729),,,,,,,,,,
+10039,osaãâ¼hingbaltiehituspartner(11055731),,,,,,,,,,
+10048,oãåbeautypro(10639536),,,,,,,,,,
+10061,oãåbiltoria(11096658),,,,,,,,,,
+10063,oãåbiofuture(11251320),,,,,,,,,,
+10070,oãåblankspace(14944584),,,,,,,,,,
+10117,osaãåhingdasparion(11279896),,,,,,,,,,
+10119,osaãâ¼hingdayspa(10964398),,,,,,,,,,
+10125,osaãâ¼hingdespalmini(10956231),,,,,,,,,,
+10126,osaãåhingdespalsj(11315971),,,,,,,,,,
+10127,osaãâ¼hingdesparo(11052365),,,,,,,,,,
+10132,oãådirectspace(11242410),,,,,,,,,,
+10133,osaãâ¼hingdispak(10266012),,,,,,,,,,
+10138,oãådreamspace(12741115),,,,,,,,,,
+10175,oãåehituspartner(11205426),,,,,,,,,,
+10176,osaãâ¼hingehituspartner(10382965),,,,,,,,,,
+10177,oãåehitusplaadiekspert(11242195),,,,,,,,,,
+10194,osaãâ¼hingespaada(10073081),,,,,,,,,,
+10197,osaãâ¼hingespada-kaubandus(10178392),,,,,,,,,,
+10199,osaãâ¼hingespais(10502731),,,,,,,,,,
+10206,osaãâ¼hingespakpaide(12048070),,,,,,,,,,
+10212,oãåespalux(10925644),,,,,,,,,,
+10213,oãåespandel(10543121),,,,,,,,,,
+10217,osaãâ¼hingespard(11977755),,,,,,,,,,
+10219,oãåesparko(14272340),,,,,,,,,,
+10220,osaãâ¼hingesparsett(10359802),,,,,,,,,,
+10222,oãåespartoinvesteeringud(10660128),,,,,,,,,,
+10223,oãåesparto(10889173),,,,,,,,,,
+10227,osaãåhingespatra(11088305),,,,,,,,,,
+10231,oãåespaxotsa(14619482),,,,,,,,,,
+10245,oãåexpospace(11503891),,,,,,,,,,
+10248,osaãâ¼hingfarbotprojekt(11451450),,,,,,,,,,
+10251,osaãâ¼hingfinantspartner(10681515),,,,,,,,,,
+10259,osaãâ¼hingfoodspace(14685846),,,,,,,,,,
+10266,oãåfreespalk(12190425),,,,,,,,,,
+10271,oãågamerspace(16101987),,,,,,,,,,
+10278,oãåglaspak(11089380),,,,,,,,,,
+10281,osaãâ¼hinggoldenspace(11355491),,,,,,,,,,
+10286,oãågospa(11658797),,,,,,,,,,
+10291,oãågreenspace(11666951),,,,,,,,,,
+10297,oãåhaaelektritãâ¶ãâ¶d(11920465),,,,,,,,,,
+10306,osaãâ¼hinghanspak(10707158),,,,,,,,,,
+10314,oãåhettegroup(11464990),,,,,,,,,,
+10322,oãåhispaaniamaja(11692389),,,,,,,,,,
+10325,osaãâ¼hinghispanistikaãâµpingutekeskuspablopicasso(11158626),,,,,,,,,,
+10326,osaãâ¼hinghispa(10680711),,,,,,,,,,
+10334,oãåholidayinspace(10365621),,,,,,,,,,
+10347,oãåhydroehituspartner(11384469),,,,,,,,,,
+10356,oãåiluspa(11489062),,,,,,,,,,
+10360,osaãâ¼hinginfospace(10991687),,,,,,,,,,
+10364,osaãâ¼hinginspa(11052891),,,,,,,,,,
+10368,osaãâ¼hinginspirit(10050275),,,,,,,,,,
+10375,oãåistitutoeuropeodiformazionespaenergy(11254703),,,,,,,,,,
+10383,oãåjespar(11669143),,,,,,,,,,
+10392,osaãâ¼hingjãâ¤rveliivaarendus(11255826),,,,,,,,,,
+10403,osaãâ¼hingkarl&caspar(10661197),,,,,,,,,,
+10416,oãåkasparbusiness(10822364),,,,,,,,,,
+10423,oãåkasparhaldus(10823808),,,,,,,,,,
+10426,oãåkasparimãâ¶ãâ¶bel(16043081),,,,,,,,,,
+10440,osaãåhingkasparkaup(10188223),,,,,,,,,,
+10457,oãåkasparpeterson(14757356),,,,,,,,,,
+10482,oãåkemace(14375287),,,,,,,,,,
+10485,osaãâ¼hingkespar(10078227),,,,,,,,,,
+10489,oãåkiisamaaseiklus-jalooduspark(14399885),,,,,,,,,,
+10490,oãåkimptonmanagement(11038268),,,,,,,,,,
+10491,oãåkindlifeeesti(11915180),,,,,,,,,,
+10497,oãåkivikaevur(11339463),,,,,,,,,,
+10513,oãåksspark(16208903),,,,,,,,,,
+10517,oãåkuuspakk(10996785),,,,,,,,,,
+10522,osaãâ¼hinglaaneoja(11531433),,,,,,,,,,
+10532,oãålaspa(11059605),,,,,,,,,,
+10555,osaãâ¼hingloigospareparts(10111212),,,,,,,,,,
+10557,oãåloodusvara(10736340),,,,,,,,,,
+10559,osaãâ¼hinglootosãâµis(11447164),,,,,,,,,,
+10570,osaãâ¼hingmajanduspartner(10399262),,,,,,,,,,
+10577,oãåmarinespastudio(16129397),,,,,,,,,,
+10583,osaãâ¼hingmarkspark(10744262),,,,,,,,,,
+10591,osaãâ¼hingmedicalspa(11001741),,,,,,,,,,
+10594,oãåmeelispaik(10881912),,,,,,,,,,
+10595,oãåmeelispartner(16378551),,,,,,,,,,
+10596,oãåmegerato(11621828),,,,,,,,,,
+10598,oãåmetspal(16598749),,,,,,,,,,
+10601,oãåmindspaapp(14596108),,,,,,,,,,
+10603,oãåmindspaholding(16393023),,,,,,,,,,
+10604,oãåmindspa(14092589),,,,,,,,,,
+10605,oãåminuspa(16161857),,,,,,,,,,
+10610,osaãâ¼hingmobilespa(11518266),,,,,,,,,,
+10612,osaãåhingmobispa(12632708),,,,,,,,,,
+10621,osaãâ¼hingmrspace(11448962),,,,,,,,,,
+10632,oãåmustveehotel&spa(11153853),,,,,,,,,,
+10642,oãånarvaspa(14099775),,,,,,,,,,
+10648,osaãâ¼hingneospark(10461392),,,,,,,,,,
+10650,oãånewspaceestonia(11298480),,,,,,,,,,
+10652,osaãâ¼hingnexustrading(11027692),,,,,,,,,,
+10662,oãånovaspace(11998533),,,,,,,,,,
+10666,oãånuustakuspa(12779804),,,,,,,,,,
+10667,odostrimitasoãå(11945732),,,,,,,,,,
+10668,ohkunordicspasoãå(16431156),,,,,,,,,,
+10669,ohutuspartneroãå(11466405),,,,,,,,,,
+10670,ojamultimediaspaceoãå(16338942),,,,,,,,,,
+10671,osaãâ¼hingolivespa(11924090),,,,,,,,,,
+10672,onenesspayoãå(14845899),,,,,,,,,,
+10674,osaãâ¼hingoraspartner(11239483),,,,,,,,,,
+10675,oãåorientspa(11407839),,,,,,,,,,
+10676,oskarkaspargruppoãå(10589040),,,,,,,,,,
+10677,oãåosmussaareholding(11877901),,,,,,,,,,
+10678,ospaoãå(16421175),,,,,,,,,,
+10679,otepãâ¤ãâ¤looduspargiadministratsioon(70004525),,,,,,,,,,
+10680,osaãâ¼hingotepãâ¤ãâ¤seikluspark(11108195),,,,,,,,,,
+10681,otherspacesoãå(16307545),,,,,,,,,,
+10682,outofspaceoãå(16399748),,,,,,,,,,
+10683,oxfordfund2companythreeoãå(11674486),,,,,,,,,,
+10690,oãåpeipsiehitus(11157182),,,,,,,,,,
+10693,osaãâ¼hingphotofactory(11517158),,,,,,,,,,
+10694,osaãâ¼hingpispar(10073342),,,,,,,,,,
+10698,osaãâ¼hingplusspanus(10611785),,,,,,,,,,
+10699,osaãâ¼hingplusspartner(10487813),,,,,,,,,,
+10709,oãåprospace(11282289),,,,,,,,,,
+10715,osaãâ¼hingpãâ¤ividiiselservice(11254076),,,,,,,,,,
+10718,oãåpãâ¤rnuseikluspark(11410669),,,,,,,,,,
+10730,osaãâ¼hingrakennus-jamaalauspalvelu(11998355),,,,,,,,,,
+10735,oãåraspador(10986485),,,,,,,,,,
+10736,oãåratsionaal(11465452),,,,,,,,,,
+10742,oãåreispass.com(14211580),,,,,,,,,,
+10743,osaãâ¼hingreispass(10411684),,,,,,,,,,
+10744,osaãâ¼hingrekspakk(10498047),,,,,,,,,,
+10745,oãårentalspace(16519313),,,,,,,,,,
+10746,osaãâ¼hingrespaania(10420973),,,,,,,,,,
+10749,osaãâ¼hingrespait(10400083),,,,,,,,,,
+10750,osaãâ¼hingrespakaubandus(11405220),,,,,,,,,,
+10757,oãårevalmanagement(11279471),,,,,,,,,,
+10761,osaãåhingriispau(10239110),,,,,,,,,,
+10768,osaãâ¼hingrospa(11718491),,,,,,,,,,
+10770,osaãâ¼hingrukkilillespar(10683514),,,,,,,,,,
+10783,oãåsatrianaerospace(12386714),,,,,,,,,,
+10786,oãåscãâvetkezetcespany(11206354),,,,,,,,,,
+10801,oãåshnellispa(11710762),,,,,,,,,,
+10805,oãåsilverspace(12025494),,,,,,,,,,
+10819,osaãâ¼hingsolarinfra(11286962),,,,,,,,,,
+10833,osaãâ¼hingspaaper(10367569),,,,,,,,,,
+10835,oãåspaatel(10388301),,,,,,,,,,
+10850,osaãâ¼hingspacecominvest(10682176),,,,,,,,,,
+10867,oãåspacegate(14060299),,,,,,,,,,
+10870,oãåspacegrupp(10707321),,,,,,,,,,
+10871,oãåspaceholding(10863759),,,,,,,,,,
+10876,oãåspacein(14782609),,,,,,,,,,
+10877,osaãâ¼hingspaceinteragro(11256004),,,,,,,,,,
+10883,osaãâ¼hingspacelord(11502975),,,,,,,,,,
+10886,oãåspacemasters(11591919),,,,,,,,,,
+10889,oãåspacemonkey(16503720),,,,,,,,,,
+10900,oãåspaceshark(12852636),,,,,,,,,,
+10906,osaãâ¼hingspacestar(11309114),,,,,,,,,,
+10908,osaãâ¼hingspacetech(11458914),,,,,,,,,,
+10921,osaãâ¼hingspacewind&twin(10573263),,,,,,,,,,
+10925,oãåspaciousroom(10364648),,,,,,,,,,
+10926,osaãåhingspacogroup(10455144),,,,,,,,,,
+10927,oãåspactum(12800786),,,,,,,,,,
+10931,oãåspadamed(16034917),,,,,,,,,,
+10932,oãåspadamedpluss(16204070),,,,,,,,,,
+10934,osaãâ¼hingspadelaspagroup(14316285),,,,,,,,,,
+10939,oãåspaestonia(11698529),,,,,,,,,,
+10944,oãåspaidelgrupp(11985482),,,,,,,,,,
+10948,oãåspain24.ee(12445368),,,,,,,,,,
+10951,oãåspain-estehitus(12387145),,,,,,,,,,
+10965,osaãâ¼hingspalaris(10553237),,,,,,,,,,
+10968,osaãâ¼hingspaldecom(10756495),,,,,,,,,,
+10969,osaãâ¼hingspaleer(10404224),,,,,,,,,,
+10976,osaãâ¼hingspamarin(10909763),,,,,,,,,,
+10982,osaãâ¼hingspanglertrade(11450509),,,,,,,,,,
+10986,osaãâ¼hingspanner(11389366),,,,,,,,,,
+10987,oãåspan(11799673),,,,,,,,,,
+10988,osaãâ¼hingspantal(10392449),,,,,,,,,,
+10991,osaãâ¼hingspapearl(12720892),,,,,,,,,,
+10992,osaãâ¼hingspaplaza(10637313),,,,,,,,,,
+10993,oãåsparanrt(11905454),,,,,,,,,,
+10994,osaãâ¼hingsparcar(10000691),,,,,,,,,,
+10995,osaãâ¼hingsparcom(11251604),,,,,,,,,,
+10996,oãåsparecrew(11998591),,,,,,,,,,
+10997,oãåspareinvest(12609172),,,,,,,,,,
+11000,osaãâ¼hingsparer(10532761),,,,,,,,,,
+11001,oãåsparescentrum(12530128),,,,,,,,,,
+11006,oãåsparewoods(11042540),,,,,,,,,,
+11009,oãåsparexline(11282332),,,,,,,,,,
+11012,oãåsparexport(11242309),,,,,,,,,,
+11017,oãåspariks(11579368),,,,,,,,,,
+11019,osaãâ¼hingsparipaekna(10265248),,,,,,,,,,
+11021,osaãâ¼hingsparkali(10035146),,,,,,,,,,
+11037,oãåsparkiesgroup(16385396),,,,,,,,,,
+11040,osaãâ¼hingsparkkaubandus(10288568),,,,,,,,,,
+11047,osaãâ¼hingsparkles(10809369),,,,,,,,,,
+11050,osaãâ¼hingsparkliinvest(12524271),,,,,,,,,,
+11053,oãåsparklinggroup(11144914),,,,,,,,,,
+11064,oãåsparknetcompany(11609655),,,,,,,,,,
+11066,oãåsparknivis(16194147),,,,,,,,,,
+11082,osaãâ¼hingsparks(11740131),,,,,,,,,,
+11086,oãåsparktd(12718487),,,,,,,,,,
+11091,osaãâ¼hingsparkwell(11018977),,,,,,,,,,
+11093,oãåsparky(11005688),,,,,,,,,,
+11095,oãåsparoberg(10957207),,,,,,,,,,
+11097,oãåsparohansa(10956797),,,,,,,,,,
+11098,osaãâ¼hingsparolink(10957087),,,,,,,,,,
+11099,osaãâ¼hingsparossia(11168688),,,,,,,,,,
+11103,osaãâ¼hingsparren(10931314),,,,,,,,,,
+11105,osaãâ¼hingsparrow(10371051),,,,,,,,,,
+11109,osaãâ¼hingspars(10260736),,,,,,,,,,
+11115,oãåspartak(12475033),,,,,,,,,,
+11124,oãåsparta(12464041),,,,,,,,,,
+11125,osaãâ¼hingspartaplus(10266638),,,,,,,,,,
+11130,osaãâ¼hingspartaturvateenistus(10483175),,,,,,,,,,
+11131,osaãâ¼hingspartaveod(10036594),,,,,,,,,,
+11139,osaãåhingspartsmore(10570922),,,,,,,,,,
+11140,osaãâ¼hingsparus(10781872),,,,,,,,,,
+11142,oãåspasanitaartehnika(10921899),,,,,,,,,,
+11144,osaãâ¼hingspash(12981842),,,,,,,,,,
+11151,oãåspazzola(16606762),,,,,,,,,,
+11152,osaãâ¼hingspatekstiil(11331266),,,,,,,,,,
+11153,osaãâ¼hingspate(11392479),,,,,,,,,,
+11158,osaãâ¼hingspatium(10002129),,,,,,,,,,
+11160,osaãâ¼hingspatli(10735004),,,,,,,,,,
+11161,oãåspatours(11693733),,,,,,,,,,
+11164,oãåspavarad(11693452),,,,,,,,,,
+11165,oãåspavãâµrugrupp(10438996),,,,,,,,,,
+11175,osaãâ¼hingstilettodance(11279583),,,,,,,,,,
+11179,oãås.v.p.restoranid(10652229),,,,,,,,,,
+11180,oãåsvrakennuspalvelu(12239172),,,,,,,,,,
+11181,oãåswimitationspa(12928049),,,,,,,,,,
+11182,osaãâ¼hingsãâµrvepuit(11095788),,,,,,,,,,
+11185,osaãâ¼hingzieds(11206093),,,,,,,,,,
+11211,oãåtervaspari(11038661),,,,,,,,,,
+11225,osaãåhingtoff(10484720),,,,,,,,,,
+11227,osaãâ¼hingtopspakinnisvara(11182857),,,,,,,,,,
+11232,osaãâ¼hingtranspackeuropecompany(11234965),,,,,,,,,,
+11235,oãåtranspal(11246750),,,,,,,,,,
+11237,osaãâ¼hingtranspap(10494173),,,,,,,,,,
+11246,oãåtranspario(14676281),,,,,,,,,,
+11247,osaãâ¼hingtranspartner(11371751),,,,,,,,,,
+11256,osaãâ¼hingturunduspartner(10526476),,,,,,,,,,
+11260,osaãâ¼hingtãâ¤hepark(10744240),,,,,,,,,,
+11265,oãåtãâ¼riseikluspark(12866644),,,,,,,,,,
+11267,oãåudomsakpetch(11034700),,,,,,,,,,
+11270,osaãâ¼hingunispark(10743771),,,,,,,,,,
+11278,osaãâ¼hinguuemãâµisaspar(10641823),,,,,,,,,,
+11279,osaãâ¼hinguusruum(10906664),,,,,,,,,,
+11282,oãåvalguspall(12776831),,,,,,,,,,
+11287,osaãâ¼hingvaspavel(10347518),,,,,,,,,,
+11289,oãåvedespas(11645697),,,,,,,,,,
+11297,osaãâ¼hingvespal(10212708),,,,,,,,,,
+11300,oãåvestmantãâ¶ãâ¶stuspargid(11364490),,,,,,,,,,
+11301,oãåvideoexpert(11191428),,,,,,,,,,
+11302,osaãâ¼hingviikingehituspartner(11309947),,,,,,,,,,
+11305,oãåviimsispa(11298913),,,,,,,,,,
+11315,osaãâ¼hingvirumeistrid(10744196),,,,,,,,,,
+11316,oãåvirutãâ¶ãâ¶stuspark(11306819),,,,,,,,,,
+11318,oãåvisualspace(12419514),,,,,,,,,,
+11319,oãåvitspaju(12244309),,,,,,,,,,
+11329,oãåvãâµsuspa(14640051),,,,,,,,,,
+11334,oãåweldspark(16447039),,,,,,,,,,
+11336,osaãâ¼hingwellspa(10959100),,,,,,,,,,
+11341,oãåwidespace(10634875),,,,,,,,,,
+11356,oãåãåhinenudtãâ¶ãâ¶stuspargid(11680541),,,,,,,,,,
+11363,oãåyesparmãâãâbel(11655968),,,,,,,,,,
+11364,osaãâ¼hingyespartner(11329683),,,,,,,,,,
+12608,outsystems,united states,,,,,,,['internet software & services'],,boston
+11408,opn,japan,,,,,,,['fintech'],,tokyo
+13740,open,india,,,,,,,['fintech'],,bengaluru
+13733,oyster,united states,,,,,,,['fintech'],,wilmington
+11433,omada health,united states,,,,,,,['health'],,san francisco
+13698,one,singapore,,,,,,,['internet software & services'],,
+11483,owkin,united states,,2016.0,,,,,['artificial intelligence'],,new york
+13640,orchard,united states,,,,,,,['fintech'],,new york
+11597,orca bio,united states,,,,,,,['health'],,menlo park
+176417,omio,germany,,,,0.0,,0.0,['travel'],not found,berlin
+176419,orcam technologies,israel,,2010.0,,0.0,,0.0,"['artificial intelligence', 'technology', 'software and it']",not found,jerusalem
+13412,ovh,france,,,,,,,['other'],,roubaix
+11795,offchain labs,united states,,,,,,,['internet software & services'],,princeton
+30341,oge energy,united states,,2009.0,2185.0,doll_0.251 b,doll_0.003653 b,doll_0.737 b,"['utilities', 'electric utilities']",not found,bristol
+11835,optibus,israel,,,,,,,"['supply chain, logistics, & delivery']",,tel aviv
+11879,onecard,india,,,,,,,['fintech'],,pune
+11905,ouyeel,china,,,,,,,['internet software & services'],,shanghai
+11936,olist,brazil,,,,,,,['e-commerce & direct-to-consumer'],,curitiba
+13169,orna therapeutics,united states,,,,,,,['health'],,cambridge
+11978,openweb,united states,,,,,,,['internet software & services'],,new york
+12021,optimism,united states,,,,,,,['internet software & services'],,san francisco
+12041,orca security,united states,,,,,,,['cybersecurity'],,portland
+12070,opentrons,united states,,2016.0,,,,,['hardware'],,new york
+12108,opay,nigeria,,,,,,,['fintech'],,lagos
+13027,ocsial,luxembourg,,,,doll_7.6930000000000005 b,,0.0,['technology'],not found,leudelange
+12904,oura,finland,,,,,,,['health'],,oulu
+12273,openai,united states,,,,,,,['artificial intelligence'],,san francisco
+12281,outschool,united states,,,,,,,['edtech'],,san francisco
+12329,ownbackup,united states,,,,,,,['data management & analytics'],,englewood cliffs
+12955,odoo,belgium,,,,,,,['internet software & services'],,louvain-la-neuve
+12348,otto bock healthcare,germany,,,,,,,['health'],,duderstadt
+12384,olive,united states,,,,,,,['health'],,columbus
+176418,outreach,united states,,,1450.0,0.0,,0.0,['internet software & services'],not found,seattle
+12432,ofbusiness,india,,2015.0,,,doll_0.23711000000000002 b,,['e-commerce & direct-to-consumer'],,gurgaon
+151236,onetrust,united states,,2016.0,2289.0,doll_4.472 b,,0.0,"['artificial intelligence', 'technology', 'software and it']",not found,atlanta
+12578,opensea,united states,,,,,,,['internet software & services'],,new york
+48141,occidental petroleum corporation,united states,"5 greenway plaza, suite 110, houston, texas, 77046",1920.0,11678.0,doll_5.2299999999999995 b,doll_2.596 b,doll_2.322 b,"['energy', 'oil and gas', 'chemicals', 'petrochemicals', 'petroleum', 'natural gas generation']",vicki hollub,
+71942,o'reilly automotive,united states,"233 s patterson ave, springfield, missouri, 65802",1957.0,82852.0,doll_4.814 b,doll_1.33 b,doll_0.21600000000000003 b,"['consumer cyclical', 'retail', 'automobile parts', 'consumer services', 'automobile']",gregory d. johnson,
+157602,oriental land,japan,,1960.0,8034.0,doll_4.822 b,doll_0.20400000000000001 b,doll_0.059 b,"['consumer cyclical', 'travel and transport', 'tourism', 'entertainment', 'leisure']",toshio kagami,
+48738,ocbc bank,singapore,,,,doll_4.311999999999999 b,,,['banks'],,
+72832,on semiconductor corporation,united states,"5005 e mcdowell road, phoenix, arizona, 85008",1999.0,30000.0,doll_2.763 b,doll_0.67 b,doll_0.101 b,"['technology', 'semiconductors', 'electronics', 'technology hardware and instruments']",hassane el-khoury,
+34563,otis worldwide corporation,united states,"one carrier place, farmington, connecticut, 06032",1853.0,70000.0,doll_3.309 b,doll_1.4300000000000002 b,doll_0.125 b,"['industries', 'heavy machinery', 'industry machinery', 'building products and equipment']",ms. judith f. marks,
+22658,old dominion freight line,united states,"500 old dominion way, thomasville, north carolina, 27360",1934.0,23663.0,doll_3.4939999999999998 b,doll_0.53 b,doll_0.10300000000000001 b,['transportation'],greg c. gantt,
+147297,oneok,united states,,1906.0,2847.0,doll_3.165 b,doll_1.7269999999999999 b,doll_0.213 b,"['energy', 'oil and gas', 'gas utilities', 'natural gas generation', 'utilities']",pierce h. norton ii,
+64578,orange,france,,,,doll_2.862 b,doll_5.026 b,doll_0.67 b,['telecommunications services'],christel heydemann,
+56065,oil & natural gas,india,,,,doll_2.862 b,doll_6.628 b,doll_0.756 b,['oil & gas operations'],alka mittal,
+92576,orix,japan,,,,doll_2.1710000000000003 b,doll_2.273 b,doll_0.238 b,"['banks', 'financialservices']",makoto inoue,
+41474,otsuka holdings,japan,,,33151.0,doll_0.023469999999999998 b,doll_0.012286 b,doll_0.10300000000000001 b,"['pharmaceuticals', 'biotech']",kazumichi kobayashi,
+49601,orient overseas container line,hong kong,,,,doll_1.191 b,,,"['transportation', 'containershipping', 'maritimetransportation']",,
+14824,ovintiv,united states,,,1713.0,doll_1.248 b,doll_1.0539999999999998 b,doll_0.383 b,"['oilgas', 'energy']",brendan m. mccracken,
+35460,ono pharmaceutical,japan,"1-8-2, kyutaro-machi, chuo-ku, osaka-shi, 541-8564",,3560.0,doll_1.2289999999999999 b,doll_0.32 b,doll_0.588 b,"['healthcare', 'pharmaceutical', 'healthcare products']",not found,
+180833,omv,austria,,1956.0,,doll_1.6260000000000001 b,,,['exploration & production'],,vienna
+14947,ocado,uk,,,,doll_0.768 b,,,"['retail', 'e-commerce', 'internet', 'tech', 'food']",,
+46787,oshkosh corporation,united states,,,15000.0,doll_0.618 b,doll_0.0017909999999999998 b,doll_0.006 b,"['industries', 'automobile', 'automobile parts', 'defense products', 'capital goods', 'trucks', 'heavy machinery']",mr. john c. pfeifer,
+90368,owl rock capital,united states,"399 park avenue, 38th floor, new york, 10022",,,doll_0.507 b,doll_0.688 b,doll_0.624 b,"['financial services', 'provides loans']",mr. craig w. packer,
+160932,option care health,united states,"3000 lakeside dr, suite 300n, bannockburn, illinois, 60015",,5430.0,doll_0.509 b,doll_0.003438 b,doll_0.139 b,"['healthcare', 'healthcare service', 'hospitals']",mr. john c. rademacher,
+29476,one gas,united states,,,3500.0,doll_0.42699999999999994 b,doll_0.23399999999999999 b,doll_0.206 b,"['utilities', 'gas utilities']",not found,
+30978,owens & minor,united states,"9120 lockwood blvd, mechanicsville, virginia, 23116",,6900.0,doll_0.16 b,doll_0.9869999999999999 b,doll_0.221 b,"['healthcare', 'healthcare products']",not found,
+38496,origin bancorp,united states,,,68796.0,doll_0.11699999999999999 b,doll_0.261 b,doll_0.108 b,"['financial services', 'banking services']",not found,
+156354,orthopediatrics,united states,,,,doll_0.10300000000000001 b,doll_0.011 b,doll_-0.016 b,"['healthcare', 'medical equipment']",not found,
+15553,on24,united states,,,,doll_0.041999999999999996 b,doll_0.019 b,doll_0.05565 b,"['software', 'tech']",,
+15586,organogenesis,united states,,,,doll_0.034 b,doll_0.046 b,doll_0.03211 b,"['biotech', 'medical devices']",,
+15591,optimizerx,united states,,,,doll_0.028999999999999998 b,doll_0.0631 b,doll_0.01081 b,['healthcare software tech '],,
+25796,oyster point pharma,united states,,,,doll_0.028999999999999998 b,doll_0.019579999999999997 b,doll_0.017 b,['pharmaceuticals'],,
+63489,oric pharmaceuticals,united states,,,,doll_0.026000000000000002 b,,doll_0.08746 b,['pharmaceuticals'],,
+42816,old point financial,united states,,,,doll_0.012 b,doll_0.05465999999999999 b,doll_0.00931 b,"['financialservices', 'banks']",,
+33341,ohio valley banc corp,united states,,,,doll_0.012 b,doll_0.053149999999999996 b,doll_0.01466 b,"['banks', 'financialservices']",,
+40801,oncocyte,united states,,,,doll_0.057890000000000004 b,doll_0.00809 b,doll_0.06372 b,['diagnostics and testing'],,
+15811,ozon,united states,,,,0.0,doll_0.333 b,doll_0.06899999999999999 b,"['internet', 'e-commerce', 'tech']",,
+33890,oragenics,united states,,,,doll_0.015960000000000002 b,doll_8e-05 b,doll_0.01627 b,['pharmaceuticals'],,
+34019,oblong,united states,,,,doll_0.0049299999999999995 b,doll_0.006019999999999999 b,doll_0.01194 b,"['software', 'tech']",,
+41121,opgen,united states,,,,doll_0.00753 b,doll_0.00331 b,doll_0.03352 b,['diagnostics biotech '],,
+108290,onfolio holdings,united states,"601 nw 2nd st, evansville, indiana, 47708-1013",,8800.0,doll_0.01011 b,doll_0.5 b,doll_0.131 b,"['financial services', 'banking services', 'insurance']",douglas h. shulman,
+33888,organovo,united states,,,,doll_0.016030000000000003 b,doll_0.00157 b,doll_0.011949999999999999 b,['pharmaceuticals'],,
+15968,olb group,united states,,,52000.0,doll_0.01602 b,doll_0.035 b,doll_0.0 b,"['retail', 'ecommerce', 'pharmacy']",not found,
+55236,onconova therapeutics,united states,,,,doll_0.01841 b,doll_0.00022 b,doll_0.01731 b,"['pharmaceuticals', 'biotech']",,
+42913,orosur mining,canada,,,,doll_0.02041 b,,doll_0.003 b,['mining gold-mining '],not found,
+64928,onion global,china,,,,doll_0.02501 b,doll_0.039 b,doll_0.055630000000000006 b,"['ecommerce', 'tech']",,
+41093,ontrak,united states,,,,doll_0.01531 b,doll_0.02233 b,doll_0.05733 b,['healthcare'],,
+33701,ocean power technologies,united states,,,,doll_0.041159999999999995 b,doll_0.00225 b,doll_0.023899999999999998 b,"['electricity', 'energy']",,
+25058,ourgame international,china,,,,doll_0.04347 b,doll_0.02256 b,doll_0.02125 b,"['video games', 'entertainment']",,
+40838,okyo pharma,uk,,,,doll_0.03982 b,,,"['pharmaceuticals', 'biotech']",,
+25154,orion energy systems,united states,,,,doll_0.06459999999999999 b,doll_0.08823 b,doll_0.006679999999999999 b,,,
+54881,owlet,united states,,,,doll_0.06893 b,doll_0.054729999999999994 b,doll_0.08386 b,['medical-devices '],,
+33527,orchard therapeutics,uk,,,,doll_0.055740000000000005 b,,,"['gene therapy', 'genomics', 'biotech', 'pharmaceuticals']",,
+25280,orion-group-holdings,united states,,,2447.0,doll_0.09262999999999999 b,doll_0.071 b,doll_0.01593 b,['construction'],,
+64225,oncolytics biotech,canada,,,,doll_0.011 b,,doll_0.020030000000000003 b,"['pharmaceuticals', 'biotech']",dr. matthew c. coffey,
+40416,o2micro,cayman islands,,,,doll_0.013000000000000001 b,,,"['electronics', 'tech']",,
+33288,oconee federal financial,united states,,,,doll_0.013000000000000001 b,doll_0.01731 b,doll_0.005809999999999999 b,['financialservices'],,
+62372,offerpad,united states,,,,doll_0.017 b,doll_0.414 b,doll_0.01464 b,['real estate'],,
+25540,ovid therapeutics,united states,,,,doll_0.016 b,doll_0.00145 b,doll_0.06897 b,"['pharmaceuticals', 'biotech']",,
+25568,op bancorp (open bank),united states,,,,doll_0.017 b,,,"['banks', 'financial services']",,
+54562,oxford square capital,united states,,,,doll_0.017 b,doll_0.05867 b,doll_0.06276 b,['investment'],,
+33123,olympique lyonnais groupe,france,,,,doll_0.018 b,doll_0.016 b,doll_0.05939 b,['football'],mr. jean-michel  aulas,
+63526,olema pharmaceuticals,united states,,,72000.0,doll_0.018 b,,doll_0.011 b,"['pharmaceuticals', 'biotech']",,
+16644,optinose,united states,,,,doll_0.019 b,doll_0.07792 b,doll_0.058929999999999996 b,['pharmaceuticals biotech '],,
+43840,ouster,united states,,,,doll_0.022 b,doll_0.04194 b,doll_0.013000000000000001 b,"['tech', 'techhardware', 'lidar', 'autonomoriving']",,
+33061,oportun financial,united states,,,,doll_0.020999999999999998 b,,,['financial-services '],,
+40004,oil-dri corporation of america,united states,,,,doll_0.025 b,doll_0.036 b,doll_0.01285 b,,,
+24648,opthea,australia,,,,doll_0.025 b,,,"['pharmaceuticals', 'biotech']",,
+26146,orrstown financial services,united states,,,,doll_0.025 b,doll_0.012 b,doll_0.023219999999999998 b,"['banks', 'financialservices']",,
+32768,ocugen,united states,,,,doll_0.028000000000000004 b,,doll_0.074 b,"['pharmaceuticals', 'biotech']",,
+32824,orange county bancorp,united states,,,,doll_0.026000000000000002 b,,,"['banks', 'financial services']",,
+32866,ocwen,united states,,,,doll_0.025 b,doll_0.099 b,doll_0.041999999999999996 b,['financialservices'],,
+25859,outlook therapeutics,united states,,,,doll_0.027000000000000003 b,,doll_0.06605 b,['pharmaceuticals'],,
+32705,organigram holdings,canada,,,,doll_0.031 b,doll_0.011 b,doll_0.01116 b,['cannabis'],,
+25857,ocular therapeutix,united states,,,,doll_0.031 b,doll_0.04972 b,doll_0.05935 b,"['biotech', 'pharmaceuticals']",,
+32737,overseas shipholding group,united states,,,,doll_0.031 b,doll_0.044 b,doll_0.009970000000000001 b,['oil-gas transportation maritime-transportation '],,
+54117,oneconnect,china,,,,doll_0.034 b,doll_0.068 b,doll_0.018 b,['tech financial-services '],,
+39776,ooma,united states,,,,doll_0.034999999999999996 b,doll_0.020999999999999998 b,doll_0.00539 b,['telecommunication'],,
+25696,orasure technologies,united states,,,,doll_0.036 b,doll_0.032 b,doll_0.040799999999999996 b,['diagnostics biotech '],,
+54085,omega therapeutics,united states,,,,doll_0.037 b,doll_0.00148 b,doll_0.09273 b,"['pharmaceuticals', 'biotech']",,
+32514,ottakringer getrnke,austria,,,,doll_0.038 b,,,['beverages alcoholic-beverages '],,
+17227,orchid island capital,united states,,,,doll_0.044 b,,,"['real estate', 'investment', 'reits']",,
+39650,olympic steel,united states,"5096 richmond rd, bedford heights, ohio, 44146",,1644.0,doll_0.046 b,doll_0.266 b,doll_0.016 b,['metals and mining'],,
+44290,optim,japan,,,,doll_0.046 b,,,"['tech', 'software']",,
+32347,onewater marine,united states,,,,doll_0.048 b,doll_0.174 b,doll_0.020999999999999998 b,,,
+17284,orpea,france,,,,doll_0.063 b,doll_0.48600000000000004 b,doll_0.011 b,['medicalcarefacilities'],,
+17314,one liberty properties,united states,,,,doll_0.05 b,doll_0.08556 b,doll_0.05727 b,"['reits', 'realestate', 'investment']",,
+17345,orion office reit,united states,,,,doll_0.05 b,doll_0.019 b,doll_0.011 b,"['real estate', 'investment', 'reits']",,
+61793,oppenheimer holdings,united states,"22nd floor, 85 broad street, new york, 10004",,2866.0,doll_0.051000000000000004 b,doll_0.11599999999999999 b,doll_0.012 b,"['banks', 'financialservices', 'investment']",,
+60683,onespan,united states,,,,doll_0.05 b,doll_0.022 b,doll_0.02259 b,"['it security', 'software', 'tech']",,
+49934,origin energy,australia,"level 32, tower 1, 100 barangaroo avenue, new south wales, 2000",,5000.0,doll_0.053000000000000005 b,doll_0.009958 b,doll_-0.989 b,"['energy', 'utilities', 'gas utilities', 'electric utilities', 'electricity generation', 'power generation', 'oil and gas']","mr. frank g. calabria bec, graddip, mba, fca, ffin",
+60640,oil states international,united states,,,2373.0,doll_0.05500000000000001 b,doll_0.06899999999999999 b,doll_0.015880000000000002 b,"['oilgas', 'energy']",,
+44515,opera,norway,,,,doll_0.062 b,,,"['software', 'tech', 'internet']",,
+26592,orrön energy,sweden,,,,doll_0.064 b,,,['oil-gas energy '],,
+44509,oscar health,united states,,,2621.0,doll_0.064 b,doll_0.36 b,doll_-0.572 b,"['insurance', 'healthcare service']",not found,
+63369,otc markets group,united states,,,,doll_0.067 b,doll_0.01 b,doll_0.03772 b,"['financial services', 'stock exchanges', 'stock/crypto exchanges']",,
+38976,old second bancorp,united states,,,,doll_0.074 b,doll_0.020999999999999998 b,doll_0.04815 b,"['banks', 'financialservices']",,
+60356,orthofix medical,united states,,,,doll_0.06899999999999999 b,doll_0.046 b,doll_0.01883 b,,,
+60345,olvi plc,finland,,,,doll_0.073 b,,,['beverages alcoholic-beverages '],,
+23360,office properties income trust,united states,,,,doll_0.08199999999999999 b,doll_0.056999999999999995 b,doll_-0.008 b,"['real estate', 'property investments', 'commercial properties']",not found,
+23300,origin materials,united states,,,,doll_0.078 b,,doll_0.06781000000000001 b,,,
+146241,osisko mining,canada,,,176000.0,doll_0.089 b,,0.0,['mining gold-mining '],"mr. john feliks burzynski m.sc., p.geo.",
+163074,overstock.com,united states,"799 w. coliseum way, midvale, utah, 84047",,1350.0,doll_0.097 b,doll_0.213 b,doll_0.368 b,"['consumer cyclical', 'consumer services', 'retail', 'internet or mobile app based business', 'ecommerce']",not found,
+23621,onespaworld,bahamas,,,,doll_0.097 b,,,['wellness'],,
+52832,omega flex,united states,,,,doll_0.098 b,doll_0.13 b,doll_0.026 b,"['industries', 'capital goods', 'industry machinery']",not found,
+31489,opendoor,united states,,,2816.0,doll_0.101 b,doll_1.653 b,doll_0.11499999999999999 b,"['real estate', 'internet']",,
+23675,open lending,united states,,,,doll_0.101 b,doll_0.02 b,doll_0.012 b,['financialservices'],,
+59840,odontoprev,brazil,,,,doll_0.11299999999999999 b,doll_0.363 b,doll_0.075 b,"['healthcare', 'insurance']",not found,
+38670,opko health,united states,"4400 biscayne blvd., miami, florida, 33137",1991.0,5767.0,doll_0.11499999999999999 b,doll_0.001774 b,doll_-0.03 b,"['healthcare', 'healthcare products', 'health care diagnostics']",not found,
+18147,orla mining,canada,,,,doll_0.11699999999999999 b,doll_0.014000000000000002 b,doll_0.047189999999999996 b,['mining gold-mining silver-mining '],,
+59750,olo,united states,,,,doll_0.11000000000000001 b,doll_0.017 b,doll_0.045439999999999994 b,"['food delivery', 'food', 'internet', 'software', 'tech']",,
+23936,orion engineered carbons,united states,,,,doll_0.121 b,doll_0.196 b,doll_0.134 b,"['basic materials', 'chemicals']",not found,
+63041,opal fuels,united states,,,,doll_0.124 b,doll_0.017 b,doll_0.02809 b,"['oilgas', 'energy']",,
+62817,outset medical,united states,,,,doll_0.13 b,doll_0.011 b,doll_-0.131 b,"['healthcare', 'medical equipment']",not found,
+176131,ofg bancorp,united states,,,,doll_0.131 b,doll_0.054000000000000006 b,doll_0.022 b,"['financial services', 'banking services']",not found,
+18244,oceanfirst financial,united states,,,,doll_0.132 b,doll_0.038 b,doll_0.106 b,"['financial services', 'banking services']",not found,
+38309,ottogi,s. korea,,,,doll_0.13799999999999998 b,doll_0.23700000000000002 b,doll_0.014000000000000002 b,['food'],,
+38327,ourpalm,china,,,,doll_0.134 b,doll_0.018 b,doll_-0.181 b,"['communication services', 'gaming']",not found,
+24000,oyak çimento,turkey,,,,doll_0.144 b,,,['cement building-materials '],,
+53187,oatly,sweden,,,,doll_0.15 b,,,['food'],,
+59456,osi systems,united states,"12525 chadron ave, hawthorne, california, 90250",,6298.0,doll_0.151 b,doll_0.11699999999999999 b,doll_0.115 b,"['technology', 'electronics', 'semiconductors', 'capital goods']",not found,
+38081,oxford industries,united states,"suite 688, 999 peachtree street ne, atlanta, georgia, 30309",,4700.0,doll_0.172 b,doll_0.001142 b,doll_0.131 b,['clothing'],not found,
+59239,olav thon,norway,,,,doll_0.179 b,,,['real-estate '],,
+141185,orange polska,poland,"al. jerozolimskie 160, warszawa, 02-326",1991.0,,doll_0.20800000000000002 b,doll_0.002813 b,doll_0.394 b,"['communication services', 'telecom']",not found,warsaw
+24353,oc oerlikon,switzerland,,,,doll_0.22599999999999998 b,,,['manufacturing'],,
+131584,office depot,united states,,,26000.0,doll_0.231 b,doll_0.842 b,doll_-0.208 b,"['consumer cyclical', 'retail', 'consumer services']",not found,
+36097,on holding ag,sweden,,,,0,doll_0.768 b,doll_-0.004 b,"['healthcare', 'health care diagnostics']",not found,
+138433,omnicell,united states,,,3800.0,doll_0.25 b,doll_0.13 b,doll_0.077 b,"['software', 'tech', 'healthcare']",not found,
+181602,outokumpu,finland,,1932.0,,doll_0.25 b,,,['iron & steel'],,helsinki
+30372,osisko gold royalties,canada,,,,doll_0.24300000000000002 b,doll_0.017 b,doll_-0.018 b,"['basic materials', 'gold mining', 'mining']",not found,
+19012,otter tail,united states,,,2487.0,doll_0.256 b,doll_0.149 b,doll_0.04 b,['utility-companies electricity energy '],,
+45989,o-i glass,united states,,,24000.0,doll_0.29300000000000004 b,doll_0.675 b,doll_0.149 b,"['consumer cyclical', 'packaging']",not found,
+172480,outfront media,united states,,,2195.0,doll_0.303 b,doll_0.174 b,doll_0.035 b,['advertising'],not found,
+58433,ovh groupe,france,,,,doll_0.31 b,doll_0.057999999999999996 b,doll_0.04322 b,"['internet', 'tech', 'telecommunication', 'software']",mr. michel  paulin,
+58368,old mutual,south africa,,,29861.0,doll_0.323 b,doll_1.6800000000000002 b,doll_0.45039999999999997 b,"['financial services', 'insurance']",iain george williamson,
+67777,ollie's bargain outlet,united states,"6295 allentown blvd ste 1, harrisburg, pennsylvania, 17112-2693",,9800.0,doll_0.331 b,doll_0.174 b,doll_0.157 b,"['consumer defensive', 'retail', 'consumer services']",not found,
+68004,one medical(1life healthcare),united states,,,3090.0,doll_0.335 b,doll_0.099 b,doll_0.040999999999999995 b,,,
+46400,onto innovation,united states,,,1411.0,doll_0.377 b,doll_0.097 b,doll_0.142 b,"['technology', 'semiconductors']",not found,
+129569,oberbank,austria,,,,doll_0.392 b,doll_0.597 b,doll_0.237 b,"['financial services', 'banking services']",not found,
+19552,olaplex,united states,,,,doll_0.40800000000000003 b,doll_0.074 b,doll_0.034999999999999996 b,['consumergoods'],,
+29570,onex,canada,,,,doll_0.417 b,doll_0.336 b,doll_0.141 b,"['asset management', 'investment']",gerald w. schwartz,
+46593,orica,australia,,,12000.0,doll_0.476 b,doll_0.003848 b,doll_-0.128 b,"['basic materials', 'mining', 'metals', 'chemicals']",not found,
+36584,onemain financial,united states,,,,doll_0.43899999999999995 b,doll_0.40700000000000003 b,doll_0.128 b,,,
+138562,odakyu electric railway,japan,"1-8-3, nishi-shinjuku, shinjuku-ku, tokyo, 160-8309",,14193.0,doll_0.462 b,doll_0.0026179999999999997 b,doll_0.088 b,"['industries', 'railway']",not found,
+161086,ormat technologies,united states,,,1385.0,doll_0.505 b,doll_0.071 b,doll_0.062 b,"['utilities', 'electric utilities', 'renewable energy']",not found,
+46659,offcn education,china,,,,doll_0.48600000000000004 b,doll_0.067 b,doll_0.045 b,['education'],,
+29216,obayashi,japan,,,,doll_0.536 b,doll_1.7 b,doll_0.6006 b,['construction'],takeo obayashi,
+46726,old national bank,united states,,,,doll_0.536 b,doll_0.136 b,doll_0.034999999999999996 b,,,
+36097,on holding ag,switzerland,,,,0,doll_0.768 b,doll_-0.18 b,"['sportsgoods', 'footwear']",mr. martin  hoffmann,
+21056,oak street health,united states,,,4800.0,doll_0.704 b,doll_0.191 b,doll_-0.409 b,"['healthcare', 'hospitals', 'healthcare service']",not found,
+57280,omv group,austria,,1956.0,25391.0,doll_1.6239999999999999 b,doll_4.202 b,doll_0.24700000000000003 b,"['energy', 'oil and gas', 'oil and gas pipeline transport', 'oil refining', 'electricity generation']",alfred stern,
+29001,otsuka,japan,,,,doll_0.5980000000000001 b,,,"['itservices', 'professionalservices']",,
+93667,osaka gas,japan,,1897.0,5271.0,doll_0.654 b,doll_1.315 b,doll_0.936 b,"['utilities', 'oil and gas', 'gas utilities']",zheng hai zhang,
+149154,oz minerals,australia,"2 hamra dr, adelaide, south australia, 5950",,1037.0,doll_0.65 b,doll_0.16 b,doll_0.367 b,"['basic materials', 'mining', 'gold mining', 'metals', 'copper mining']",mr. andrew  cole bappsc(hons),
+149381,ooredoo,qatar,,1987.0,,doll_0.628 b,doll_0.008213 b,doll_0.013 b,"['communication services', 'telecom', 'mobile services', 'fixed line service', 'internet providers']",not found,bagsværd
+127554,old republic international,united states,"307 n michigan ave, chicago, illinois, 60601",,9600.0,doll_0.733 b,doll_0.86 b,doll_0.153 b,"['financial services', 'insurance']",craig r. smiddy,
+21346,oci,netherlands,,,3147.0,doll_0.5730000000000001 b,doll_0.006318 b,doll_0.57 b,"['basic materials', 'chemicals', 'fertilizers']",not found,
+57157,orkla,norway,,,,doll_0.738 b,,,['consumergoods'],,
+181601,orion corporation,finland,,1917.0,,doll_0.76 b,,,['pharmaceuticals'],,espoo
+57088,olin,united states,,,7750.0,doll_0.774 b,doll_0.891 b,doll_0.13 b,['chemicals'],scott mcdougald sutton,
+21406,ocado,united-kingdom,,,,doll_0.7769999999999999 b,,,['retail e-commerce internet tech food '],,
+46944,organon,united states,,,9300.0,doll_0.663 b,doll_0.65 b,doll_0.124 b,['pharmaceuticals biotech '],kevin ali,
+126530,obic,japan,,,,doll_1.291 b,doll_0.254 b,doll_0.086 b,"['technology', 'software and it', 'cloud services']",masahiro noda,
+21795,oracle corp japan,japan,"oracle aoyama center, 2-5-8, kita-aoyama, minato-ku, tokyo, 107-0061",,2260.0,doll_0.01068 b,doll_0.001567 b,doll_0.373 b,"['technology', 'software and it', 'software products']",not found,
+179720,otp bank,hungary,,1949.0,,doll_0.882 b,doll_0.58 b,doll_0.15 b,['banks'],sándor csányi,budapest
+50018,opentext,canada,,,,doll_0.881 b,doll_0.351 b,doll_0.040999999999999995 b,"['software', 'tech']",,
+21896,orient overseas container line,hong-kong,,,,doll_1.139 b,,,['transportation container-shipping maritime-transportation '],,
+35424,okta,united states,,,5030.0,doll_1.1 b,doll_0.0013 b,doll_-0.848 b,"['technology', 'software and it', 'software products', 'software and it infrastructure']",todd mckinnon,
+66883,omnicom,united states,,,,doll_1.7079999999999997 b,doll_1.427 b,doll_0.207 b,['professional-services advertising '],,
+35553,omron,japan,,,,doll_1.043 b,,,['electronics '],,
+25088,okyo pharma,united-kingdom,,,,doll_0.05181 b,,,['pharmaceuticals biotech '],,
+25232,orchard therapeutics,united-kingdom,,,,doll_0.08361 b,,,['gene-therapy genomics biotech pharmaceuticals '],,
+68384,oriental land co. ltd,japan,,,8782.0,doll_6.465999999999999 b,0,,,mr. toshio  kagami,
+91424,occidental petroleum corporation,united states,"5 greenway plaza, suite 110, houston, texas, 77046",1920.0,11678.0,doll_5.2299999999999995 b,doll_2.6314 b,doll_2.322 b,"['energy', 'oil and gas', 'chemicals', 'petrochemicals', 'petroleum', 'natural gas generation']",vicki hollub,
+71936,open joint stock company omz,russia,,,,doll_4.715 b,doll_0.387 b,doll_-0.077 b,"['industries', 'industry machinery', 'heavy machinery']",igor y. zhilkin,
+74682,orange sa,france,"111, quai du president roosevelt, cs 70222, issy-les-moulineaux, 92449",1988.0,132002.0,doll_3.2840000000000003 b,doll_0.046859000000000005 b,doll_0.256 b,"['communication services', 'telecom', 'mobile services', 'fixed line service', 'television services', 'internet providers', 'utilities', 'broadcasting', 'telecom equipment']",stephane richard,paris
+89863,"oneok, inc.",united states,"100 w 5th st, tulsa, oklahoma, 74103-4279",1906.0,2847.0,doll_3.166 b,doll_1.65 b,,['energy and utilities'],mr. pierce h. norton ii,
+68929,olympus corp,japan,"shinjuku monolith, 2-3-1, nishi-shinjuku, shinjuku-ku, tokyo, 163-0914",,31653.0,doll_2.3 b,doll_0.77 b,,['medical equipment'],mr. yasuo  takeuchi,
+136708,orix corporation,japan,,1984.0,33153.0,doll_2.397 b,doll_0.002034 b,doll_1.405 b,"['industries', 'asset management']",makoto inoue,
+122369,"okta, inc.",united states,100 1st st ste 600,,5030.0,doll_2.245 b,doll_0.13 b,,,mr. todd  mckinnon,san francisco
+71138,omnicom group inc.,united states,"280 park avenue, new york, 10022",1986.0,71700.0,doll_1.8800000000000001 b,doll_1.427 b,doll_1.407 b,['media'],john wren,
+69157,otsuka holdings co. ltd,japan,"2-9, kanda tsukasa-machi, chiyoda-ku, tokyo, 101-0048",,33151.0,doll_1.903 b,doll_1.33 b,,['pharmaceuticals and healthcare'],mr. tatsuo  higuchi,
+157251,oracle corporation,united states,,1977.0,132000.0,doll_22.818 b,doll_0.04244 b,doll_0.6719999999999999 b,"['technology', 'software and it', 'software products', 'cloud services', 'software and it infrastructure']",safra a. catz,
+72611,oversea-chinese banking corp ltd,singapore,"65 chulia street, rank_01-00, ocbc centre, singapore, 049513",,29622.0,doll_4.077 b,doll_2.3600000000000003 b,,['financial services'],not found,
+90944,ocado group,uk,buildings one & two trident place mosquito way,,17121.0,doll_0.27 b,doll_0.00327 b,doll_-0.292 b,"['consumer defensive', 'retail', 'consumer services', 'ecommerce']",tim steiner,hatfield
+153253,oxford instruments,uk,,,,doll_0.00207 b,doll_0.432 b,doll_0.045 b,"['technology', 'engineering products', 'semiconductors']",not found,
+153738,octopus titan vct,uk,,,,doll_0.174 b,doll_0.259 b,doll_0.254 b,"['financial services', 'asset management']",not found,
+73602,oxford biomedica,uk,,,,doll_0.00128 b,doll_0.167 b,doll_0.022 b,"['healthcare', 'biotechnology']",dr. roch  doliveux,
+88507,odfjell drilling ltd,united kingdom,,,,doll_0.6347 b,,,,mr. simen  lieungh,
+73673,oxford immunotec global plc,united kingdom,,,,doll_0.5588 b,,,,not found,
+73689,octopus renewables infrastructure trust plc,united kingdom,,,,doll_0.3989 b,,,,not found,
+88536,on the beach group plc,united kingdom,,,,doll_0.49710000000000004 b,,,,mr. simon  cooper,
+73810,octopus apollo vct,united kingdom,,,,doll_0.246 b,,,,not found,
+88897,open orphan plc,united kingdom,,,,doll_0.0945 b,,,,dr. yamin mohammed khan ph.d.,
+74069,oncimmune holdings plc,united kingdom,,,,doll_0.1168 b,,,,dr. adam mark hill ph.d.,
+74129,onthemarket plc,united kingdom,,,,doll_0.09179999999999999 b,,,,mr. jason  tebb,
+75138,origin enterprises plc,,,,2641.0,doll_0.5393 b,,,,mr. sean gerard coyle,
+75175,onde sa,,,,,0,,,,not found,
+75204,orascom development holding ag,,,,,doll_0.3742 b,,,,mr. omar  el hamamsy,
+75252,opal balance investments ltd,,,,,doll_0.0031 b,,,,mr. daniel  mizrahi,
+75288,ose immunotherapeutics sa,,,,,doll_0.1585 b,,,,dr. dominique  costantini m.d.,
+75382,oncodesign,,,,,doll_0.061799999999999994 b,,,,dr. philippe  genne,
+75435,oron group investments & holdings ltd,,,,,doll_27289,,,,mr. yoel  azaria,
+75443,osmozis sas,,,,,doll_0.0161 b,,,,mr. yves  boulot,
+75465,otonomo technologies ltd,,,,,0,,,,mr. ben  volkow,
+75503,ober sa,,,,,doll_0.0112 b,,,,mr. etienne  de la thã©beaudiã¨re,
+75523,ordissimo saca,,,,,doll_0.003 b,,,,mr. alexandre  vielle,
+75531,octopus robots saca,,,,,doll_0.0036 b,,,,not found,
+75543,o sorbet d'amour sa,,,,,doll_0.0048 b,,,,not found,
+75567,obiz concept,france,,2010.0,,0,doll_0.0052699999999999995 b,,['sales & marketing'],mr. brice  chambard,
+75642,one experience sa,,,,,doll_0.013800000000000002 b,,,,not found,
+75646,orad ltd,,,,,doll_6193,,,,not found,
+75720,onxeo sa,,,,,doll_0.033600000000000005 b,,,,mr. julien  miara,
+75726,orapi,,,,1112.0,doll_0.0375 b,,,,mr. vincent  estager,
+75736,orege sa,,,,,doll_0.0443 b,,,,mr. pascal  gendrot,
+140576,offshore oil engineering,china,,,,doll_0.33399999999999996 b,doll_0.002881 b,doll_0.054 b,"['energy', 'engineering products', 'engineering services', 'oil and gas']",not found,
+76029,"opple lighting co.,ltd.",,,,5199.0,doll_1.399 b,,,,not found,
+175301,orient group incorporation,china,,,,doll_0.0016699999999999998 b,doll_0.00221 b,doll_-0.25 b,"['industries', 'asset management', 'financial services', 'food products', 'agriculture products', 'ecommerce', 'conglomerate']",not found,
+76391,omer-decugis & cie sa,,,,,doll_0.07 b,,,,mr. vincent  omer-decugis,
+76466,o.r.t. technologies ltd,,,,,doll_0.0012 b,,,,not found,
+76565,optibase ltd.,,,,,doll_625429,,,,not found,
+76574,overseas commerce ltd,,,,,doll_0.0023 b,,,,not found,
+76694,openlimit holding ag,,,,,doll_668010,,,,mr. marc jason gurov,
+76889,obseva sa,,,,,doll_0.1025 b,,,,mr. brian  o'callaghan,
+76912,orell füssli ag,,,,,doll_0.1718 b,,,,mr. daniel  link m.b.a.,
+105388,ohb se,germany,"manfred-fuchs-platz 2-4, bremen, 28359",,3077.0,doll_0.6427999999999999 b,doll_0.11000000000000001 b,,['aerospace and defense'],mr. marco r. fuchs,
+77106,oekoworld ag,,,,,doll_0.5212 b,,,,mr. alfred  platow,
+77186,orbis ag,,,,,doll_0.07479999999999999 b,,,,mr. thomas  gard,
+77213,onoff ag,,,,,doll_0.037 b,,,,not found,
+77283,otrs ag,,,,,doll_0.0282 b,,,,mr. andrã©  mindermann,
+77401,open joint stock company donskoy factory of radiocomponents,,,,,doll_0.8583 b,,,,not found,
+77418,orbit technologies ltd,,,,,doll_0.4046 b,,,,ms. meirav  dudek,
+77451,orian sh.m. ltd,,,,,doll_0.7263999999999999 b,,,,mr. chen  lamdan,
+145932,oeneo sa,france,,,,doll_0.8743 b,,doll_0.037 b,"['consumer defensive', 'alcoholic beverages', 'beverages']",not found,
+77553,"oppein home group, inc.",,,,20022.0,doll_7.045999999999999 b,,,,not found,
+96704,orient securities company,china,"21-29f, oriental intrntnl fnncl square, no. 318 zhongshan south road, huangpu district, shanghai, 200010",,6339.0,doll_1.26 b,doll_0.32 b,doll_0.843 b,"['financial services', 'banking services', 'asset management', 'brokerage services', 'investments', 'securities', 'stock markets, trading, capital markets']",not found,
+77563,orior ag,,,,2000.0,doll_0.5877 b,,,,stefan  weber,
+77680,oryzon genomics sa,,,,,doll_0.1379 b,,,,dr. carlos manuel buesa  arjol,
+77807,onelogix group ltd,,,,2009.0,doll_0.0056 b,,,,"mr. ian kenneth lourens ba (hons), mba",
+77998,oriental press group ltd,,,,1012.0,doll_0.16299999999999998 b,,,,mr. shun-chuen  lam,
+78025,okg technology holdings ltd,,,,,doll_0.11699999999999999 b,,,,mr. yunan  ren,
+78309,orange sky golden harvest entertainment ,,,,,doll_0.1825 b,,,,mr. ho nam  yeung,
+78351,oneforce holdings ltd,,,,,doll_0.1467 b,,,,mr. zhanjiang  wu,
+78497,ooh holdings ltd,,,,,doll_0.077 b,,,,ms. wai chu  chau,
+78518,orient securities international holdings ltd,,,,,doll_0.051 b,,,,not found,
+78632,oi wah pawnshop credit holdings ltd,,,,,doll_0.4644 b,,,,mr. kai ho  chan,
+78650,overseas chinese town ,,,,,doll_0.8068 b,,,,ms. mei  xie,
+78753,opg power ventures plc,,,,,doll_0.026600000000000002 b,,,,mr. arvind  gupta,
+78837,open joint stock company solikamsk magnesium works,,,,2760.0,doll_0.49400000000000005 b,,,,not found,
+106616,oi sa,brazil,"rua do lavradio, 71,2 andar, centro, rio de janeiro, 20.230-070",,11288.0,doll_0.49400000000000005 b,doll_0.19 b,,['technology and communications'],mr. rodrigo modesto de abreu,
+78987,omega geracao sa,,,,,doll_0.6519999999999999 b,,,,mr. antonio augusto torres de bastos filho filho,
+79023,orizon valorização de resíduos sa,,,,,doll_0.23199999999999998 b,,,,mr. milton  pilao junior,
+79116,oceanpact serviços marítimos sa,,,,2310.0,doll_0.5444 b,,,,not found,
+79175,osx brasil sa,,,,,doll_0.0213 b,,,,mr. thiago meira coelho lemgruber porto,
+79225,oncoclínicas do brasil serviços médicos sa,,,,,0,,,,mr. bruno lemos ferrari,
+79281,ouro fino saude animal participacoes sa,,,,17952.0,doll_0.13999999999999999 b,,,,mr. kleber cesar silveira gomes,
+79323,odico a/s,,,,,doll_0.062299999999999994 b,,,,mr. anders bundsgaard petersen,
+79345,orphazyme a/s,,,,,doll_0.1916 b,,,,"mr. anders fink vadsholt m.b.a., m.sc., mba",
+79538,ovzon ab,,,,,doll_0.24500000000000002 b,,,,not found,
+79541,odd molly international ab,,,,,doll_0.22400000000000003 b,,,,not found,
+79664,organoclick ab,,,,,doll_0.5682 b,,,,mr. marten  hellberg,
+79687,orexo ab,,,,,doll_0.6921 b,,,,mr. nikolaj  sã¸rensen,
+79688,oncopeptides ab,,,,,doll_0.705 b,,,,not found,
+79693,oasmia pharmaceutical ab,,,,,doll_0.7296 b,,,,not found,
+79732,ossdsign ab,,,,,doll_0.3987 b,,,,not found,
+79795,oncozenge ab ,,,,,doll_0.09709999999999999 b,,,,not found,
+79824,obducat ab,,,,,doll_0.013900000000000001 b,,,,mr. patrik  lundstrom,
+79835,online brands nordic ab,,,,,doll_0.0464 b,,,,not found,
+171810,oatly group ab,sweden,,,,doll_0.01078 b,doll_0.643 b,doll_-0.212 b,"['non-alcoholic beverages', 'beverages', 'dairy products', 'fmcg', 'package foods', 'food products']",mr. toni  petersson,
+79887,ox2 ab ,,,,,0,,,,not found,
+79947,oxe marine ab,,,,,doll_0.44980000000000003 b,,,,mr. anders  berg,
+79963,opticept technologies ab ,,,,,doll_0.1227 b,,,,ms. eda demir westman m.sc.,
+154312,oem international ab (publ),sweden,,,,doll_0.00151 b,doll_0.356 b,doll_0.043 b,"['industries', 'industry machinery']",mr. jorgen  zahlin,
+80026,ordina n.v.,,,,2428.0,doll_0.43489999999999995 b,,,,mr. jo g. maes,
+80027,oranjewoud n.v.,,,,10048.0,doll_0.38989999999999997 b,,,,not found,
+80082,obrascón huarte lain,spain,"torrespacio. paseo de la castellana, 259 d, madrid, 28046",1999.0,,doll_0.3368 b,doll_0.32999999999999996 b,,['heavy construction'],mr. jose antonio  fernã¡ndez gallar,madrid
+84104,organizacion soriana s. a. b. de c. v,mexico,,,,doll_4.142 b,doll_0.007794 b,doll_0.217 b,"['consumer cyclical', 'retail', 'department stores', 'super markets']",not found,
+80193,octodec investments ltd,,,,,doll_0.211 b,,,,not found,
+80306,oriental carbon & chemicals ltd,,,,,doll_0.7889999999999999 b,,,,mr. arvindbhai kumar vishwanath goenka,
+80353,ogk-2 pjsc,,,,7341.0,doll_4.421 b,,,,not found,
+156704,o.y. nofar energy ltd,israel,,,,doll_0.23199999999999998 b,,0.0,"['technology', 'solar power devices']",not found,
+135392,oil refineries,israel,,,,doll_0.00067 b,,doll_-0.052 b,"['energy', 'oil and gas']",mr. moshe  kaplinsky-peleg,
+80471,oncoarendi therapeutics sa,,,,,doll_0.09340000000000001 b,,,,mr. marcin jan szumowski,
+80486,oponeo.pl sa,,,,,doll_0.1423 b,,,,mr. dariusz  topolewski,
+80766,osisko development corp,,,,,doll_0.5607000000000001 b,,,,mr. sean e. o. roosen eng.,
+80780,organigram holdings inc.,,,,,doll_0.6101 b,,,,ms. beena g. goldenberg,
+80859,orezone gold corp,,,,,doll_0.3623 b,,,,mr. patrick g. downey p.eng.,
+80908,oroco resource corp,,,,,doll_0.31489999999999996 b,,,,mr. craig james dalziel,
+80939,"orca gold, inc.",,,,,doll_0.1686 b,,,,"mr. richard peter clark acc.dir, l.l.b., llb",
+80986,opsens inc.,,,,,doll_0.18780000000000002 b,,,,"mr. louis  laflamme c.a., cpa, cpa",
+81019,osino resources corp,,,,,doll_0.1524 b,,,,"mr. heye edmund daun b.sc., m.b.a., mba",
+81064,optiva inc.,,,,,doll_0.12869999999999998 b,,,,mr. john p. giere,
+81096,"organto foods, inc.",,,,,doll_0.075 b,,,,mr. steven r. bromley,
+81197,"orogen royalties, inc.",,,,,doll_0.0819 b,,,,"mr. john patrick nicol m.b.a., mba",
+81257,"osisko metals, inc.",,,,,doll_0.0538 b,,,,mr. robert p. wares p.geo.,
+81278,orvana minerals corp.,,,,,doll_0.0606 b,,,,not found,
+81280,"oculus visiontech, inc.",,,,,doll_0.048600000000000004 b,,,,mr. rowland  perkins,
+81337,olympia financial group inc.,,,,,doll_0.1217 b,,,,mr. richard k. skauge,
+81426,orla mining ltd.,,,,,doll_0.146 b,,,,"mr. jason douglas simpson p.eng., peng.",
+137473,open text corporation,canada,,,14300.0,doll_1.44 b,doll_0.003493 b,doll_0.397 b,"['technology', 'software and it', 'software products']",mr. mark j. barrenechea,
+127968,orpea sa,france,"12 rue jean jaures, puteaux cedex, 92813",,,doll_0.5171 b,doll_0.004297 b,doll_0.065 b,"['healthcare', 'hospitals', 'healthcare products', 'healthcare service']",mr. philippe  charrier,
+81619,ormonde mining plc,,,,,doll_0.0043 b,,,,mr. brendan  mcmorrow,
+81627,ovoca bio plc,,,,,doll_0.012199999999999999 b,,,,mr. kirill andreyevich golovanov,
+81640,oneview healthcare plc,,,,,doll_0.1134 b,,,,mr. james  fitter,
+81740,oxurion nv,,,,,doll_0.056799999999999996 b,,,,mr. thomas  graney c.f.a.,
+81796,oneness biotech co. ltd,,,,,doll_7.981 b,,,,not found,
+81946,o-bank co. ltd,,,,1545.0,doll_2.799 b,,,,not found,
+81986,"obi pharma, inc.",,,,,doll_2.189 b,,,,dr. michael n.  chang ph.d.,
+82028,opto tech corp,,,,,doll_1.8960000000000001 b,,,,mr. hung-tung  wang,
+82094,orient semiconductor electronics ltd,,,,5701.0,doll_1.242 b,,,,mr. tung  yueh-ming,
+82158,o-ta precision industry co. ltd,,,,2930.0,doll_1.174 b,,,,not found,
+82271,ocean plastics co. ltd,,,,,doll_0.765 b,,,,not found,
+82461,optimax technology corp,,,,,doll_0.426 b,,,,not found,
+82542,ofco industrial corp,,,,,doll_0.35 b,,,,not found,
+82569,orient pharma co. ltd,,,,,doll_0.37 b,,,,not found,
+82690,oriental union chemical corp,,,,,doll_1.9620000000000002 b,,,,not found,
+82891,ono pharmaceutical co. ltd,,,,3607.0,doll_1576.0 b,,,,mr. gyo  sagara,
+108769,omron corp,japan,"omron kyoto center bldg, shiokoji-dori horikawa-higashiiri, shimogyo-ku, kyoto-shi, 600-8530",,29020.0,doll_1670.0 b,doll_0.6799999999999999 b,,['industrial goods and machinery'],mr. yoshihito  yamada,
+82895,"obic co.,ltd.",,,,2049.0,doll_1661.0 b,,,,mr. masahiro  noda,
+82973,open house co. ltd,,,,4087.0,doll_70.89099999999999 b,,,,not found,
+108896,otsuka corp,japan,"5-25-1, shimo-oguchi, oguchi-cho, niwa-gun, aichi, 480-0193",,3953.0,doll_0.13 b,doll_0.22000000000000003 b,,['technology and communications'],mr. masayuki  nakamura,
+83008,osaka gas co. ltd,japan,"4-1-2, hirano-machi, chuo-ku, osaka-shi, 541-0046",,20961.0,doll_87.72 b,doll_1.41 b,,['energy and utilities'],not found,
+83040,oji holdings corporation,japan,"4-7-5, ginza, chuo-ku, tokyo, 104-0061",,36034.0,doll_0.0047599999999999995 b,doll_1.31 b,doll_0.639 b,"['basic materials', 'paper and pulp', 'forest products']",mr. masatoshi  kaku,
+83561,"orix jreit, inc.",,,,,doll_7.334999999999999 b,,,,not found,
+83167,obic business consultants co. ltd,,,,,doll_31.438 b,,,,mr. shigefumi  wada,
+83240,orient corp,japan,"5-2-1, koji-machi, chiyoda-ku, tokyo, 102-8503",,6084.0,doll_0.15 b,doll_0.2 b,,['financial services'],not found,
+83285,osg corp,,,,7489.0,doll_18.201 b,,,,mr. norio  ishikawa,
+134912,okuma corporation,japan,,,31653.0,doll_2.809 b,doll_0.005539 b,doll_0.092 b,"['healthcare', 'medical equipment', 'healthcare products']",not found,bagsværd
+83319,"outsourcing, inc.",,,,93028.0,doll_16.509999999999998 b,,,,mr. haruhiko  doi,
+177442,okinawa cellular telephone company,japan,,,,doll_0.11699999999999999 b,doll_0.536 b,doll_0.078 b,"['communication services', 'telecom']",not found,
+83374,organo corp,,,,2319.0,doll_11.606 b,,,,not found,
+83377,ohsho food service,japan,,,,doll_0.00102 b,,doll_0.064 b,"['consumer cyclical', 'restaurants']",not found,
+146335,oisix ra daichi,japan,,,,doll_11.204 b,,doll_0.02 b,"['consumer defensive', 'food chains / distributor']",mr. kohey  takashima,
+83462,"optorun co.,ltd.",,,,,doll_9.11 b,,,,not found,
+83552,oki electric industry co ltd,japan,"1-7-12, toranomon, minato-ku, tokyo, 105-8460",,14850.0,doll_0.4833 b,doll_0.31 b,,['technology and communications'],not found,
+83554,"okamoto industries, inc.",,,,2891.0,doll_7.244 b,,,,not found,
+83559,"okasan securities group, inc.",,,,3607.0,doll_7.317 b,,,,not found,
+83560,osaka soda co. ltd,,,,,doll_7.31 b,,,,kenshi  terada,
+83592,osaka organic chemical industry ltd,,,,,doll_6.513 b,,,,not found,
+83595,optex group company ltd,,,,1881.0,doll_6.517 b,,,,mr. isamu  oguni,
+83625,osaka steel co. ltd,,,,1024.0,doll_6.055 b,,,,mr. taisuke  nomura,
+83803,obayashi corp,japan,"tower b, shinagawa intercity, 2-15-2, konan, minato-ku, tokyo, 108-8502",,15267.0,doll_0.54 b,doll_1.7100000000000002 b,,['construction'],not found,
+83868,oci nv,netherlands,"honthorststraat 19, amsterdam, 1071dc",,3850.0,doll_0.6769999999999999 b,doll_0.63 b,,['chemicals'],not found,
+138946,orion oyj,finland,"orionintie 1a, espoo, 02200",,3337.0,doll_0.00571 b,doll_0.001148 b,doll_0.213 b,"['healthcare', 'pharmaceutical', 'healthcare']",not found,
+84128,"orbia advance corp, s.a.b. de c.v.",,,,22393.0,doll_10.711 b,,,,not found,
+84155,omnia holdings ltd,,,,4200.0,doll_1.238 b,,,,mr. thanaseelan  gobalsamy,
+129153,old mutual limited,south africa,"mutualpark, jan smuts drive pinelands, cape town, 7405",,29830.0,doll_0.32 b,doll_0.014656 b,doll_0.397 b,"['financial services', 'insurance']",mr. iain george williamson,
+84216,orient overseas (international) ltd,hong kong,"33rd floor, harbour centre, 25 harbour road, wanchai, hong kong",,10593.0,doll_1.1400000000000001 b,doll_1.6800000000000002 b,,['transport and logistics'],mr. xiaowen  huang,
+84290,orient telecoms plc,,,,,doll_0.0026 b,,,,not found,
+153645,oue commercial real estate investment trust,singapore,,,,doll_0.00177 b,doll_0.183 b,doll_0.028 b,"['real estate', 'retail', 'property investments', 'commercial properties']",mr. khim siew  han,
+139427,olam international,singapore,,,81650.0,doll_0.0047599999999999995 b,doll_0.026507000000000003 b,doll_0.14 b,"['consumer defensive', 'fmcg', 'agriculture products', 'food chains / distributor']",mr. sunny george verghese,
+84407,om holdings limited,,,,,doll_0.6766 b,,,,mr. ngee tong  low beng (mech),
+84416,oxley holdings ltd,,,,,doll_0.7633 b,,,,mr. chiat kwong  ching,
+84434,oue ltd,,,,,doll_0.118 b,,,,dr. stephen  riady,
+84527,overseas education ltd,,,,,doll_0.10590000000000001 b,,,,ms. lok hiong  wong,
+84546,optima automobile group holdings ltd,,,,,doll_0.7299 b,,,,mr. lay keong  ang,
+84585,oio holdings ltd,,,,,doll_0.07429999999999999 b,,,,not found,
+84626,oxpay financial ltd,,,,,doll_0.048100000000000004 b,,,,not found,
+84631,ots holdings ltd,,,,,doll_0.0503 b,,,,not found,
+84647,okp holdings ltd,,,,,doll_0.0557 b,,,,not found,
+84653,okh global ltd,,,,,doll_0.027100000000000003 b,,,,mr. wai han  lock,
+84681,ossia international ltd,,,,,doll_0.0344 b,,,,mr. ching huat  goh,
+84710,osteopore limited,,,,,doll_0.0205 b,,,,not found,
+84788,oneapex ltd,,,,,doll_0.008400000000000001 b,,,,mr. pei hong  tan,
+84825,oel ,,,,,doll_0.0112 b,,,,ms. xin  zhao,
+84879,oue lippo healthcare ltd,,,,,doll_0.15109999999999998 b,,,,mr. kum meng  yet,
+84933,oceania healthcare limited,,,,2800.0,doll_0.7052999999999999 b,,,,not found,
+86256,orsero s.p.a.,,,,1631.0,doll_0.2395 b,,,,ms. raffaella  orsero,
+120964,otb spa,italy,via dell\'industria 2,,,doll_0.4556 b,,,"['finance, insurance, and real estate']",dr. stefano  beraldo,breganze
+86318,openjobmetis s.p.a.,,,,,doll_0.15419999999999998 b,,,,dr. rosario  rasizza,
+86350,osai automation system s.p.a.,,,,,doll_0.0581 b,,,,fabio  benetti,
+86493,officina stellare s.p.a.,,,,,doll_0.0888 b,,,,mr. giovanni  dal lago,
+86668,oma sstöpankki oyj,,,,,doll_0.5516 b,,,,"mr. pasi  sydã¤nlammi m.b.a., m.sc.",
+155681,olvi oyj,finland,,,,doll_0.7493 b,doll_0.462 b,doll_0.047 b,"['consumer defensive', 'alcoholic beverages', 'beverages']",mr. lasse  aho m.soc.sc.,
+86697,outokumpu oyj,finland,"salmisaarenranta 11, helsinki, 00180",,9915.0,doll_0.00313 b,doll_0.008503 b,doll_0.61 b,"['basic materials', 'iron and steel']","mr. heikki  malinen m.b.a., m.sc., m.sc. (econ.), mba",
+86746,oriola oyj,,,,2645.0,doll_0.326 b,,,,ms. elisa  markula m.sc.,
+86767,ovaro kiinteistösijoitus oyj,,,,,doll_0.0308 b,,,,mr. marko  huttunen,
+132448,outotec oyj,finland,,,,doll_0.0757 b,,0.0,"['industries', 'heavy machinery', 'machinery manufacturing', 'agriculture machinery', 'mining equipment']",not found,
+86935,orica limited,,,,13000.0,doll_0.639 b,,,,mr. sanjeev kumar gulab gandhi m.b.a.,
+86987,orora limited,,,,3768.0,doll_0.331 b,,,,"mr. brian phillip lowe m.b.a., mba",
+86988,orocobre limited,,,,,doll_0.34700000000000003 b,,,,mr. martin perez de solay,
+166306,objective corporation,australia,,,,doll_0.172 b,doll_0.073 b,doll_0.013 b,"['technology', 'software and it']",mr. tony  walls,
+134753,oceanagold corporation,australia,,,2200.0,doll_0.10900000000000001 b,doll_0.744 b,doll_-0.003 b,"['basic materials', 'gold mining', 'mining']","mr. scott  sullivan b.e., m.b.a.",
+87160,ofx group limited,,,,,doll_0.5948 b,,,,mr. john alexander malcolm,
+87237,opthea limited,,,,,doll_0.3718 b,,,,"dr. megan  baldwin m.a.i.c.d., maicd, ph.d.",
+87413,ozgrowth limited,,,,,doll_0.1276 b,,,,not found,
+87426,orion minerals limited,,,,,doll_0.1333 b,,,,"mr. errol john smart b.sc., nd, nhd, b.sc. (hons), prscinat",
+87570,orthocell limited,,,,,doll_0.0922 b,,,,mr. paul frederick anderson,
+87581,optiscan imaging limited,,,,,doll_0.0773 b,,,,"prof. camile  farah m.a.i.c.d., m.b.a., ph.d.",
+87605,otto energy limited,,,,,doll_0.0815 b,,,,mr. michael j. utsler,
+87789,orecorp limited,,,,,doll_0.30360000000000004 b,,,,"mr. matthew giles yates b.sc. (hons.), maig",
+87826,ooh!media limited,,,,1800.0,doll_0.9611000000000001 b,,,,ms. catherine  o'connor,
+87829,omni bridgeway limited,,,,,doll_0.9783 b,,,,mr. andrew  saker,
+88081,ontex group nv,belgium,"korte keppestraat 21, aalst, 9320",,9627.0,doll_0.536 b,doll_0.24 b,,['consumer packaged goods'],not found,
+106209,orange belgium,belgium,"avenue du bourget 3, bruxelles, 1140",,,doll_0.1 b,doll_0.001363 b,doll_0.039 b,"['communication services', 'telecom']",not found,
+88289,ozderici gayrimenkul yatirim ortakligi a.s.,,,,,doll_0.52 b,,,,not found,
+88777,oxford metrics plc,,,,,doll_0.12090000000000001 b,,,,mr. nicholas paul bolton,
+89076,oylum sinai yatirimlar anonim sirketi,,,,,doll_0.1242 b,,,,not found,
+89080,oyak yatirim ortakligi as,,,,,doll_0.128 b,,,,not found,
+89137,ostim endüstriyel yatirimlar ve isletme a.s.,,,,,doll_0.25839999999999996 b,,,,not found,
+89207,osmanli yatirim menkul degerler a.s.,,,,,doll_0.486 b,,,,not found,
+89565,oriental payment group holdings ltd,,,,,doll_0.2072 b,,,,mr. xiaofeng  lin,
+89604,ocean glass public company ltd,,,,,doll_0.5655 b,,,,not found,
+89699,ocean commerce public company ltd,,,,,doll_0.221 b,,,,mr. teera  chutivarapon,
+89727,ohtl public company ltd,,,,,doll_0.492 b,,,,not found,
+89753,orge enerji elektrik taahhüt anonim sirketi,,,,,doll_0.548 b,,,,mr. orhan  gunduz,
+137826,ovintiv inc.,canada,"370 - 17th street, suite 1700, denver, colorado, 80202",,1713.0,doll_0.9869999999999999 b,doll_0.8699999999999999 b,doll_1.416 b,"['energy', 'oil and gas']",mr. brendan michael mccracken,
+127457,organon & co.,united states,,,9300.0,doll_0.008199999999999999 b,doll_0.006304000000000001 b,doll_1.351 b,"['healthcare', 'pharmaceutical']",not found,
+90306,"onemain holdings, inc.",,,,8800.0,doll_0.644 b,,,,mr. douglas h. shulman,
+90416,"omnicell, inc.",,,,3800.0,doll_0.558 b,,,,mr. randall a. lipps,
+148740,olin corporation,united states,,,7750.0,doll_0.8390000000000001 b,doll_0.00891 b,doll_0.13 b,"['basic materials', 'chemicals']",mr. scott mcdougald sutton,
+107785,oge energy corp.,united states,"321 n harvey, po box 321, oklahoma city, 73101-0321",,2185.0,doll_0.841 b,doll_0.37 b,,['power'],mr. robert sean trauschke,
+90667,orma orman mahsulleri integre sanayi ve ticaret a.s.,,,,,doll_0.9659 b,,,,not found,
+90689,ozbal celik boru sanayi ticaret ve taahhut anonim sirketi,,,,,doll_0.12 b,,,,not found,
+90786,oishi group public company ltd,,,,,doll_1.7429999999999999 b,,,,ms. nongnuch  buranasetkul,
+90823,origin property public company ltd,,,,,doll_2.92 b,,,,mr. peerapong  jaroon-ek,
+90852,odas elektrik üretim sanayi ticaret a.s.,,,,,doll_0.236 b,,,,mr. burak  altay,
+90868,ozak gayrimenkul yatirim ortakligi a.s.,,,,,doll_0.298 b,,,,not found,
+151621,osotspa public company,thailand,,,,doll_0.301 b,doll_0.741 b,doll_0.09 b,"['consumer defensive', 'non-alcoholic beverages', 'beverages', 'healthcare products']",not found,
+91164,otokar otomotiv ve savunma sanayi a.s.,,,,2286.0,doll_1.025 b,,,,not found,
+91167,oyak çimento fabrikalari a.s.,,,,2082.0,doll_1.06 b,,,,not found,
+92449,oversea-chinese banking,singapore,,,,doll_3.971 b,doll_2.289 b,doll_0.362 b,['banking'],pik kuen wong,
+92752,orsted,denmark,,,,doll_4.911 b,doll_1.099 b,doll_0.162 b,['oil & gas operations'],mads nipper,
+96013,otsuka holding,japan,,,,doll_1.7870000000000001 b,doll_1.364 b,doll_0.11399999999999999 b,['drugs & biotechnology'],tatsuo higuchi,
+93513,olam group,singapore,,,,doll_0.475 b,doll_3.4979999999999998 b,doll_0.4679 b,"['food, drink & tobacco']",sunny george verghese,
+96704,orient securities company,china,"21-29f, oriental intrntnl fnncl square, no. 318 zhongshan south road, huangpu district, shanghai, 200010",,6339.0,doll_1.26 b,doll_0.32 b,doll_0.843 b,"['financial services', 'banking services', 'asset management']",xin jun pan,
+94041,ogaki kyoritsu bank,japan,,,,doll_0.622 b,doll_0.701 b,doll_0.087 b,['banking'],takashi tsuchiya,
+100256,oci,uk,,2012.0,32000.0,,doll_0.56832 b,,['financial services'],,
+98235,onlyfans,uk,,2016.0,800000.0,,doll_0.31673 b,,['technology'],,
+98243,one lease,france,,2016.0,11000.0,,doll_0.00902 b,,['support services'],,
+98308,omnisend,uk,,2008.0,99000.0,,doll_0.01176 b,,['technology'],,
+97313,octopus energy,uk,,2015.0,918000.0,,doll_2.12007 b,,['energy'],,
+99317,ouihelp,france,,2016.0,106000.0,,doll_0.00369 b,,['support services'],,
+98336,oxray,portugal,,2009.0,6000.0,,doll_0.00547 b,,['health'],,
+99453,oculavis,germany,,2016.0,55000.0,,doll_0.00392 b,,['technology'],,
+98462,ooni pizza ovens,uk,,2012.0,83000.0,,doll_0.06388 b,,['personal & household goods'],,
+99553,oceanis yachts,italy,,2007.0,6000.0,,doll_0.0030600000000000002 b,,['travel & leisure'],,
+98554,opus db,france,,2016.0,8000.0,,doll_0.01217 b,,['construction'],,
+102388,onbuy.com,uk,,2014.0,18000.0,,doll_0.00272 b,,['ecommerce'],,
+97603,opéra energie,france,,2014.0,98000.0,,doll_0.01122 b,,['energy'],,
+102653,olympp,france,,2016.0,27000.0,,doll_0.00551 b,,['technology'],,
+102817,obiz,france,,2010.0,38000.0,,doll_0.015380000000000001 b,,['media'],,
+99694,otl - online trainer,germany,,2015.0,46000.0,,doll_0.00661 b,,['health'],,
+102913,opyn,italy,,2012.0,19000.0,,doll_0.00417 b,,['financial services'],,
+97825,ocean transport,spain,,2009.0,19000.0,,doll_0.00478 b,,['transport'],,
+103547,oxylabs.io,lithuania,,2015.0,245000.0,,doll_0.02504 b,,['technology'],,
+97921,opteamis,france,,2005.0,35000.0,,doll_0.013859999999999999 b,,['support services'],,
+100000,ogrodosfera.pl,poland,,2011.0,23000.0,,doll_0.01326 b,,['ecommerce'],,
+100065,ogury,uk,,2014.0,371000.0,,doll_0.10876000000000001 b,,['advertising'],,
+99110,opna,france,,2015.0,23000.0,,doll_0.00232 b,,['support services'],,
+100132,opencorporates,uk,,2010.0,25000.0,,doll_0.00273 b,,['technology'],,
+100185,oasis smart sim europe**,france,,2010.0,20000.0,,doll_0.00307 b,,['telecoms'],,
+100205,on metall,germany,,2016.0,6000.0,,doll_0.00259 b,,['industrial goods'],,
+100266,omkara,india,,2014.0,,,doll_0.01071 b,,['financial services'],,
+100593,one retail group*,united kingdom,,2014.0,,,doll_0.016399999999999998 b,,['ecommerce'],,
+100761,one of a kind inc.,japan,,2009.0,,,doll_0.0035 b,,['media'],,
+100788,olimplanet,south korea,,2015.0,,,doll_0.0050999999999999995 b,,['technology'],,
+101753,osiway,france,,2014.0,,,doll_0.0024 b,,['technology'],,
+100800,onda,south korea,,2016.0,,,doll_0.00431 b,,['technology'],,
+100802,one 97 / paytm,india,,2010.0,,,doll_0.5153300000000001 b,,['financial services'],,
+100968,ooni,united kingdom,,2012.0,,,doll_0.01129 b,,['personal & household goods'],,
+100972,origin integrated studios,malaysia,,2015.0,,,doll_0.00115 b,,['technology'],,
+101007,one stop warehouse,australia,,2013.0,,,doll_0.38027 b,,['energy'],,
+101078,ota insight,united kingdom,,2012.0,,,doll_0.011630000000000001 b,,['technology'],,
+101127,oriano clean energy,india,,2015.0,,,doll_0.02266 b,,['energy'],,
+101145,oradian,croatia,,2012.0,,,doll_0.0022 b,,['fintech'],,
+101169,orient software,vietnam,,2005.0,,,doll_0.00662 b,,['technology'],,
+101183,ohr marketing (olive house),malaysia,,2014.0,,,doll_0.00632 b,,['retail'],,
+101236,otso fintech,taiwan,,2015.0,,,doll_0.00166 b,,['fintech'],,
+101309,over the wire,australia,,2011.0,,,doll_0.06513 b,,['technology'],,
+101361,orbitremit,new zealand,,2008.0,,,doll_0.01115 b,,['fintech'],,
+101447,open house group,japan,,1997.0,,,doll_0.0 b,,['property'],,
+101454,onestar,japan,,2008.0,,,doll_0.10288 b,,['advertising'],,
+101502,ogury*,united kingdom,,2014.0,,,doll_0.07042 b,,['advertising'],,
+102127,oxwork,france,,2014.0,,,doll_0.0019 b,,['retail'],,
+101551,okwave,japan,,1999.0,,,doll_0.04408 b,,['support services'],,
+101573,obido,poland,,2015.0,,,doll_0.00206 b,,['technology'],,
+101611,ogrodosfera,poland,,2012.0,,,doll_0.00838 b,,['ecommerce'],,
+101810,oasis fertility,india,,2009.0,,,doll_0.0092 b,,['health'],,
+101858,onco-life hospitals,india,,2015.0,,,doll_0.00382 b,,['health'],,
+101878,over the lux,italy,,2010.0,,,doll_0.0033 b,,['travel & leisure'],,
+101894,okkami,thailand,,2016.0,,,doll_0.00121 b,,['technology'],,
+102024,onkochishin,japan,,2011.0,,,doll_0.00126 b,,['travel & leisure'],,
+102160,oxford summer courses,united kingdom,,2010.0,,,doll_0.0053 b,,['education'],,
+102187,otc engineering,spain,,2013.0,,,doll_0.002 b,,['technology'],,
+102220,oni foods overseas,spain,,2015.0,,,doll_0.05863 b,,['food & beverage'],,
+102447,oppo brothers,uk,,2013.0,,,doll_0.004849999999999999 b,,['food & beverage'],,
+102647,orderbird,germany,,2011.0,,,doll_0.009 b,,['technology'],,
+102802,one unity consulting,germany,,2016.0,,,doll_0.00173 b,,['technology'],,
+104288,on ze air,france,,2014.0,,,doll_0.0023 b,,['media'],,
+102850,offhealth,italy,,2013.0,,,doll_0.01108 b,,['pharmaceuticals'],,
+102900,omnia group*,italy,,2015.0,,,doll_0.00172 b,,['advertising'],,
+102983,ombea,sweden,,2011.0,,,doll_0.0028599999999999997 b,,['technology'],,
+103082,ooni,uk,,2012.0,,,doll_0.01563 b,,['retail'],,
+103284,optiwella,hungary,,2011.0,,,doll_0.0101 b,,['telecoms'],,
+103367,oika oika,france,,2013.0,,,doll_0.00619 b,,['retail'],,
+103410,openwork / le monde après,france,,2010.0,,,doll_0.03521 b,,['management consulting'],,
+103491,ova projects,spain,,2008.0,,,doll_0.0062 b,,['industrial goods'],,
+103556,oxford summer courses,uk,,2012.0,,,doll_0.00957 b,,['education'],,
+103590,o2feel,france,,2010.0,,,doll_0.0111 b,,['personal & household goods'],,
+104694,osmii,united kingdom,,2011.0,,,doll_0.0040999999999999995 b,,['support services'],,
+103742,optogama*,lithuania,,2015.0,,,doll_0.00222 b,,['technology'],,
+103932,onefifty consultancy,uk,,2015.0,,,doll_0.00202 b,,['sales & marketing'],,
+103935,one 77 mortgages,united kingdom,,2011.0,,,doll_0.00234 b,,['financial services'],,
+103987,opisto,france,,2010.0,,,doll_0.002 b,,['automobiles'],,
+104259,opisto (saceo),france,,2010.0,,,doll_0.00271 b,,['automobiles'],,
+104280,outscale**,france,,2010.0,,,doll_0.0256 b,,['technology'],,
+104310,oxbotica,uk,,2014.0,,,doll_0.00439 b,,['technology'],,
+104671,once upon a time global,uk,,2013.0,,,doll_0.044469999999999996 b,,['advertising'],,
+104787,operador vitotrans,spain,,2012.0,,,doll_0.0057 b,,['transport'],,
+104968,overdrive,france,,2010.0,,,doll_0.0035099999999999997 b,,['construction'],,
+105058,oettinger gruppe,germany,,2006.0,,,doll_0.03685 b,,['construction'],,
+105109,o.k. energie haus,austria,,2004.0,,,doll_0.004900000000000001 b,,['construction'],,
+105195,olibar ,italy,,2000.0,,,doll_0.019399999999999997 b,,['food & beverage'],,
+105328,odfjell se,norway,"postterminalen, conrad mohrsv. 29, p.o. box 6101, bergen, 5892",,2299.0,doll_0.7442000000000001 b,doll_0.1 b,,['transport and logistics'],,
+105346,ocwen financial corp,united states,"1661 worthington rd ste 100, west palm beach, florida, 33409-6493",,5700.0,doll_0.26230000000000003 b,doll_0.11000000000000001 b,,['financial services'],,
+105392,oil search ltd,papua new guinea,"po box 842, port moresby, 121",,1243.0,0,doll_0.11000000000000001 b,,['energy and utilities'],,
+105504,omnicell inc,united states,"590 east middlefield road, mountain view, california, 94043",,3800.0,doll_0.24 b,doll_0.11000000000000001 b,,['technology and communications'],,
+105587,omron healthcare co ltd,japan,"53, kunotsubo, terado-cho, muko, kyoto, 617-0002",,4095.0,0,doll_0.12 b,,['medical equipment'],,
+105624,otter tail corp,united states,"215 s cascade st, fergus falls, minnesota, 56537-2801",,2487.0,doll_0.25 b,doll_0.12 b,,['power'],,
+105786,okta inc,united states,"suite 600, 100 1st street, san francisco, california, 94105",,5776.0,doll_1.1 b,doll_0.13 b,,['technology and communications'],,
+105905,oglethorpe power corp,united states,"2100 east exchange place, tucker, georgia, 30084",,,0,doll_0.13999999999999999 b,,['power'],,
+105945,oriental pearl group co ltd,china,"no. 757, yishan road, xuhui district, shanghai, 200233",,6984.0,doll_0.33999999999999997 b,doll_0.13999999999999999 b,,['media'],,
+105996,outsurance group ltd,south africa,"3rd floor, 2 merchant place, corner fredman drive and rivonia road, johannesburg, 2196",,35572.0,doll_0.31 b,doll_0.13999999999999999 b,,['financial services'],,
+106157,okinawa electric power co inc,japan,"5-2-1, makiminato, urasoe-shi, okinawa, 901-2602",,2806.0,doll_0.4501 b,doll_0.16 b,,['power'],,
+106336,oriola corp,finland,"orionintie 5, espoo, 02200",,,doll_0.35919999999999996 b,doll_0.16999999999999998 b,,['pharmaceuticals and healthcare'],,
+150881,o2 czech republic,czech republic,"za brumlovkou 266/2, praha 4 - michle, 14022",,4993.0,doll_0.00372 b,doll_0.001655 b,doll_0.263 b,"['communication services', 'telecom', 'internet providers', 'mobile services', 'fixed line service']",not found,
+106549,octopus energy ltd,united kingdom,"uk house, 5th floor, 164-182 oxford street, london, greater london, w1d1nn",,,0,doll_0.19 b,,['power'],,
+106588,ogk-2,russia,"peterburgskoye shosse, d. 66, korpus 1, lit. a., saint petersburg, 196140",,8437.0,doll_0.9368 b,doll_0.19 b,,['power'],,
+106701,onex corp,canada,"161 bay street, p o box 700, toronto, ontario, m5j2s1",,,doll_0.41 b,doll_0.2 b,,['financial services'],,
+106744,oil & gas development co ltd,pakistan,"ogdcl house, plot no.3, jinnah avenue, blue area, islamabad, 44000",,11627.0,doll_0.13999999999999999 b,doll_0.21000000000000002 b,,['energy and utilities'],,
+106787,orion holdings corp,south korea,"13, baekbeom-ro 90da-gil, yongsan-gu, seoul, 04369",,2087.0,doll_0.7569 b,doll_0.21000000000000002 b,,['consumer packaged goods'],,
+107027,ottogi corp,south korea,"405, heungan-daero, dongan-gu, anyang, 14060",,3231.0,doll_0.15 b,doll_0.24 b,,['consumer packaged goods'],,
+107064,"oriental land co., ltd.",japan,"1-1, maihama, urayasu-shi, chubu , 279-8511",,9094.0,doll_5.49 b,doll_0.25 b,,['leisure and arts'],,
+107307,oci co ltd,south korea,"94, sogong-ro, jung-gu, seoul, 04532",,2627.0,doll_0.16999999999999998 b,doll_0.27999999999999997 b,,['chemicals'],,
+161857,oc oerlikon corporation ag,switzerland,"churerstrasse 120, pfaeffikon, 8808",,,doll_0.24 b,doll_0.002834 b,doll_0.175 b,"['industries', 'industry machinery', 'machinery manufacturing']",not found,
+173314,osterreichische post ag,austria,"rochusplatz 1, wien, 1030",,,doll_0.00299 b,doll_0.002778 b,doll_0.168 b,"['industries', 'logistics']",not found,
+107478,orora ltd,australia,"109 burwood rd, hawthorn, victoria, 3122",,4820.0,doll_0.18 b,doll_0.31 b,,['paper and packaging'],,
+107654,osram licht ag,germany,"marcel-breuer-strasse 6, muenchen, 80807",,21200.0,doll_0.52 b,doll_0.33999999999999997 b,,['technology and communications'],,
+107702,open text corp,canada,"275 frank tompa dr, waterloo, ontario, n2l0a1",,14800.0,doll_0.8699999999999999 b,doll_0.35 b,,['technology and communications'],,
+107733,orascom construction plc,united arab emirates,"office 301-3, level 3, gate village 1, d, dubai",,23341.0,doll_0.4087 b,doll_0.35 b,,['construction'],,
+107995,oil india ltd,india,"plot no. 19, sector-16a, noida, dist. g b nagar, 201301",,6256.0,doll_0.31 b,doll_0.41 b,,['energy and utilities'],,
+108007,oriental energy co ltd,china,"no.1 ziqi road, xuzhuang software park, xianlin avenue, nanjing, jiangsu, 210042",,1828.0,doll_0.21000000000000002 b,doll_0.41 b,,['energy and utilities'],,
+108233,oncor electric delivery co llc,united states,"1616 woodall rodgers fwy, dallas, texas, 75202",,4537.0,0,doll_0.48 b,,['power'],,
+175686,outsourcing,japan,"5f, marunouchi trust tower main, 1-8-3, marunouchi, chiyoda-ku, tokyo, 100-0005",,86020.0,doll_0.16299999999999998 b,doll_0.004154 b,doll_0.006 b,"['industries', 'outsourcing and staffing']",not found,
+108395,orica ltd,australia,"1 nicholson st, melbourne, victoria, 3002",,12000.0,doll_0.48 b,doll_0.53 b,,['metals and mining'],,
+108439,ontario power generation inc,canada,"700 university avenue, toronto, ontario, m5g1x6",,9325.0,0,doll_0.55 b,,['power'],,
+127168,orkla asa,norway,"drammensveien 149, oslo city, 0277",,18110.0,doll_0.00974 b,doll_0.005649 b,doll_0.538 b,"['consumer defensive', 'retail', 'food products', 'fmcg', 'package foods']",not found,
+147938,otp bank nyrt,hungary,"nador u. 16., budapest, 1051",,38626.0,doll_1.475 b,doll_0.0 b,doll_0.001321 b,"['financial services', 'banking services']",sasndor csanyi,
+108648,omv petrom sa,romania,"petrom city, strada coralilor, nr. 22, sector 1, bucuresti, 013329",,7768.0,doll_0.61 b,doll_0.63 b,,['energy and utilities'],,
+108655,oman telecommunications co saog,oman,"p.o. box 789, ruwi, muscat, 112",,2240.0,doll_0.18 b,doll_0.63 b,,['technology and communications'],,
+108681,o-i glass inc,united states,"corporation trust center, 1209 orange street, new castle county, perrysburg, ohio, 43551-2999",,24000.0,doll_0.29 b,doll_0.64 b,,['paper and packaging'],,
+108923,oshkosh corp,united states,"1917 four wheel drive, oshkosh, wisconsin, 54902",,15000.0,doll_0.61 b,doll_0.77 b,,['automotive'],,
+109011,ooredoo qpsc,qatar,"cornish street,  west bay, p.o. box 217, doha",,1832.0,doll_0.79 b,doll_0.8300000000000001 b,,['technology and communications'],,
+109100,orbia advance corp sab de cv,mexico,"av. paseo de la reforma n. 483 piso 47, cuauhtemoc, 06500",,24655.0,doll_0.42000000000000004 b,doll_0.8800000000000001 b,,['industrial goods and machinery'],,
+109112,olin corp,united states,"190 carondelet plaza suite 1530, olin corp, clayton, missouri, 63105",,7750.0,doll_0.76 b,doll_0.89 b,,['chemicals'],,
+109434,orsted as,denmark,"kraftvaerksvej 53, skaerbaek, fredericia, 7000",,7292.0,doll_4.2 b,doll_1.24 b,,['power'],,
+109844,otto gmbh & co kg,germany,"werner-otto-strasse 1-7, hamburg, 22179",,43000.0,0,doll_1.9 b,,['retailing'],,
+109962,orix corp,japan,"world trade center bldg., south tower, 2-4-1, hamamatsu-cho, minato-ku, tokyo, 105-5135",,32235.0,doll_2.2 b,doll_2.2399999999999998 b,,['financial services'],,
+110253,omv ag,austria,"trabrennstrasse 6-8, wien, 1020",,22338.0,doll_1.69 b,doll_4.2 b,,['energy and utilities'],,
+110260,oracle corp,united states,"2300 oracle way, austin, texas, 78741",,143000.0,doll_23.380000000000003 b,doll_4.24 b,,['technology and communications'],,
+113121,omnis global ltd,,22bridgefieldclose tyldesley manchester england m298qx,,,,,,,,
+114107,oil finances ltd,,,,,,,,,,
+114235,owo holding ltd,,,,,,,,,,
+114257,os finances limited,,,,,,,,,,
+114263,orinoko jantar ltd,,,,,,,,,,
+117478,omega facade ltd,,,,,,,,,,
+117482,ozbenz limited,,,,,,,,,,
+119399,openjobmetis spa agenzia per il lavoro,italy,"via bernardino telesio 18, milano, 20145, milano, italy",2001.0,,,,,['services'],,
+122829,o.r.i. martin holding srl,italy,via cosimo canovetti 13,,,,,,"['finance, insurance, and real estate']",,brescia
+119504,o.r.i. martin acciaieria e ferriera di brescia spa,italy,via cosimo canovetti 13,,,,,,['manufacturing'],,brescia
+119511,ospedale san raffaele srl,italy,"via olgettina 60, milano, 20132, milano, italy",1972.0,,,,,['services'],,
+119642,oli ebike systems srl,italy,strada degli schiocchi 12,,,,,,,,modena
+119923,omd estonia ou,estonia,parnu mnt 18,,,,,,,,tallinn
+120129,ohme operations uk limited,united kingdom,"seventh floor wellington house, 125-130 strand",,,,,,,,london
+122929,octo telematics spa,italy,via vincenzo lamaro 51,,,,,,,,roma
+120227,"oak creek homes, l.p.",united states,2450 s shore blvd,,,,,,,,league city
+124089,"octopus industries, inc.",united states,110 e 59th st fl 27,,,,,,,,new york
+120476,"oliver wyman, inc.",united states,1166 avenue of the americas,,,,,,,,new york
+120483,odfjell technology (uk) ltd.,united kingdom,"bergen house crawpeel road, altens industrial estate",,,,,,,,aberdeen
+123330,out in spa,italy,via galvani 1,,,,,,,,campodarsego
+120491,"opry entertainment group holdings, llc",united states,600 opry mills dr,,,,,,,,nashville
+123384,opis srl,italy,via giacomo matteotti 10,,,,,,,,desio
+123438,onclusive media srl,italy,via alberto dominutti 20,,,,,,,,verona
+120716,"osi group, llc",united states,1225 corporate blvd ste 300,,,,,,,,aurora
+120831,orapi applied limited,united kingdom,spring road,,,,,,,,smethwick
+120877,olmar and mirta spa,italy,strada cortesa 12/a,,,,,,,,quistello
+120912,one51 es plastics (uk) limited,united kingdom,barbot hall industrial estate mangham road,,,,,,,,rotherham
+123715,orano uk limited,united kingdom,suite 7 hitching court abingdon business park,,,,,,,,abingdon
+123800,officine maccaferri spa,italy,via john fitzgerald kennedy 10,,,,,,,,zola predosa
+120954,optical express (holdings) limited,united kingdom,5 deerdykes road,,,,,,,,glasgow
+123896,ordine nazionale dei biologi di roma,italy,via icilio 7,,,,,,,,roma
+122795,"one rock capital partners, llc",united states,30 rockefeller plz 54th fl,,,,,,,,new york
+123994,orwell group holding ltd,united kingdom,2nd floor 110 cannon street,,,,,,,,london
+121325,oscartielle spa,italy,via boffalora ang. via garibaldi,,,,,,,,treviolo
+121451,olivetti spa societa' benefit,italy,strada monte navale 2/c,,,,,,,,ivrea
+121478,one underwriting srl,italy,via della chiusa 15,,,,,,,,milano
+121570,ocado innovation limited,united kingdom,buildings one & two trident place,,,,,,,,hatfield
+121597,ot group limited,united kingdom,"unit 1 alexandria court, alexandria drive",,,,,,,,ashton-under-lyne
+121713,"onyx graphics, inc.",united states,6915 high tech dr ste a,,,,,,,,midvale
+121728,oats limited,united kingdom,100 delta business park,,,,,,,,swindon
+121732,online sim spa di intermediazione mobiliare in sigla online sim spa,italy,via pier capponi 13,,,,,,,,milano
+121890,our media limited,united kingdom,44 brook green,,,,,,,,london
+121909,ow italy srl,italy,via roberto lepetit 8/10,,,,,,,,milano
+121920,ontime automotive limited,united kingdom,e p s industrial estate appletree road chipping warden,,,,,,,,banbury
+121950,ocorian limited,united kingdom,26 new street st helier,,,,,,,,jersey
+124041,orgenesis maryland inc,united states,20271 goldenrod ln,,,,,,,,germantown
+122074,octorate srl,italy,via filippo caruso 23,,,,,,,,roma
+122179,oralia srl,italy,piazza statuto c/o servetto 14,,,,,,,,torino
+122236,onnivan srl,italy,regione catena rossa 18,,,,,,,,piobesi d'alba
+122239,onnicar srl,italy,corso riddone 88,,,,,,,,corneliano d'alba
+122337,ovarro ld ltd,united kingdom,"primayer house parklands business park forest road, denmead",,,,,,,,waterlooville
+122339,oxford healthcare,united states,310 graham st sw,,,,,,,,cullman
+122340,ovarro ltd,united kingdom,rotherside road eckington,,,,,,,,sheffield
+122427,o2 (uk) limited,united kingdom,highdown house yeoman way,,,,,,,,worthing
+122501,"oak hill advisors, l.p.",united states,1 vanderbilt ave fl 16,,,,,,,,new york
+122523,office of the secretary of state for scotland,united kingdom,dover house whitehall,,,,,,,,london
+122537,open health inc.,united states,311 s wacker dr ste 5020,,,,,,,,chicago
+122553,octopus publishing group limited,united kingdom,carmelite house 50 victoria embankment,,,,,,,,london
+122582,"outokumpu stainless usa, llc",united states,1 steel dr,,,,,,,,calvert
+122589,olsam group limited,united kingdom,kemp house 152-160 city road,,,,,,,,london
+124232,optimity advisors careers,,,2009.0,,,,,['management consulting'],,
+124779,oclc careers,,,1983.0,,,,,['logistics & supply chain'],,
+124323,opengov inc. careers,,,2012.0,,,,,['internet'],,
+124347,oriental trading company careers,,,1932.0,,,,,['retail'],,
+124438,oath careers,,,2006.0,,,,,['internet'],,
+124601,onepoint careers,,,2002.0,,,,,['management consulting'],,
+124627,ontario insurance company careers,,,1877.0,,,,,['insurance'],,
+124716,orochem technologies careers,,,1996.0,,,,,['biotechnology'],,
+124731,opentext careers,,,1991.0,,,,,['computer software'],,
+124745,omd careers,,,1996.0,,,,,['marketing & advertising'],,
+124746,omnivision technologies careers,,,1995.0,,,,,['semiconductors'],,
+124796,optimal synthesis inc. careers,,,1992.0,,,,,['aviation & aerospace'],,
+124838,outsystems careers,,,2001.0,,,,,['computer software'],,
+124881,one gas careers,,,2014.0,,,,,['utilities'],,
+124886,ohiohealth careers,,,1891.0,,,,,['hospital & health care'],,
+124911,optokey careers,,,2009.0,,,,,['medical device'],,
+124928,overstock careers,,,1999.0,,,,,['internet'],,
+124981,ohio computer medix careers,,,1992.0,,,,,['information technology & services'],,
+125000,outdoorsy careers,,,2015.0,,,,,['internet'],,
+125004,ontario teachers'â pension plan careers,,,1989.0,,,,,['investment management'],,
+125034,orchard therapeutics careers,,,2015.0,,,,,['biotechnology'],,
+125061,onsemi careers,,,1999.0,,,,,['semiconductors'],,
+157635,orsted a/s,denmark,,,6429.0,doll_0.0677 b,doll_0.011496000000000001 b,doll_1.622 b,"['utilities', 'electricity generation', 'power generation', 'energy', 'electric utilities', 'renewable energy']",mads nipper,
+125705,oversea-chinese banking corporation,singapore,,,30538.0,doll_0.039369999999999995 b,doll_0.007594999999999999 b,doll_0.003491 b,"['financial services', 'banking services', 'asset management', 'wealth management']",helen wong,
+136608,olympus corporation,japan,,,31653.0,doll_0.02809 b,doll_0.00634 b,doll_0.845 b,"['healthcare', 'medical equipment', 'healthcare products']",yasuo takeuchi,bagsværd
+169036,ongc,india,,,30105.0,doll_2.646 b,doll_0.061473 b,doll_0.005698000000000001 b,"['energy', 'oil and gas', 'natural gas generation', 'petroleum', 'petrochemicals', 'lubricants', 'chemicals']",subhash kumar,
+169344,omron corporation,japan,,,28006.0,doll_1.8780000000000001 b,doll_0.005539 b,doll_0.448 b,"['technology', 'automobile', 'automobile parts', 'electronics', 'electrical products', 'capital goods']",not found,
+169504,orient overseas (international),hong kong,,,10593.0,doll_0.01636 b,doll_0.016832 b,doll_0.007128 b,"['industries', 'shipping', 'logistics', 'construction']",not found,
+158530,"olaplex holdings, inc.",united states,,,,0,doll_0.598 b,doll_0.22 b,"['fmcg', 'personal care products', 'beauty and personal care']",ceo jue wong,
+126657,oppein home group,china,,,,doll_0.01401 b,doll_0.002975 b,doll_0.388 b,"['consumer cyclical', 'home furnishing', 'furniture']",not found,
+148353,one97 communications limited,india,,,5000.0,doll_1.089 b,doll_0.621 b,doll_-0.3 b,"['digital payment solution services', 'technology', 'software and it']",not found,
+167683,oxford nanopore technologies plc,uk,,,,doll_0.784 b,doll_0.174 b,doll_-0.218 b,"['healthcare', 'scientific research products']",not found,
+148963,offcn education technology,china,,,41000.0,doll_0.01028 b,doll_0.001006 b,doll_-0.345 b,"['consumer defensive', 'education', 'technology', 'training services']",not found,
+149121,opendoor technologies inc.,united states,,,2816.0,doll_0.01129 b,doll_0.008021 b,doll_-0.662 b,"['real estate', 'internet or mobile app based business', 'technology']",not found,
+127904,open house,japan,,,5860.0,doll_0.657 b,doll_0.006416000000000001 b,doll_0.551 b,['real estate'],not found,
+138850,ozon holdings plc,cyprus,,,12000.0,doll_0.00587 b,doll_0.0029289999999999997 b,doll_-0.933 b,"['ecommerce', 'internet or mobile app based business', 'retail']",not found,
+149862,opendoor labs,united states,,,,0,doll_0.008021 b,doll_-0.662 b,"['internet or mobile app based business', 'ecommerce', 'real estate', 'software and it']",not found,
+150089,orbia advance corporation,mexico,,,,doll_0.00478 b,doll_0.008782 b,doll_0.657 b,"['basic materials', 'chemicals', 'fertilizers', 'construction materials', 'cables and wires', 'petrochemicals']",not found,
+139431,ortho clinical diagnostics holdings plc,united states,,,4700.0,doll_0.475 b,doll_0.002042 b,doll_-0.054 b,"['healthcare', 'health care diagnostics']",not found,
+171809,ofilm group,china,,,,doll_0.00302 b,doll_0.0033239999999999997 b,doll_-0.382 b,"['technology', 'electronics', 'sensors', 'technology hardware and instruments', 'capital goods']",not found,
+150535,orix jreit,japan,,,,doll_0.00408 b,doll_0.345 b,doll_0.142 b,"['real estate', 'property investments', 'investments', 'commercial properties']",not found,
+150690,oaknorth,uk,,,,doll_3.9579999999999997 b,,0.0,"['banking services', 'financial services']",not found,
+150692,ovo,indonesia,,,1900.0,doll_3.9579999999999997 b,,0.0,"['digital payment solution services', 'technology']",not found,
+150953,oneness biotech,taiwan,,,,doll_0.00365 b,doll_0.002 b,doll_-0.013 b,"['healthcare', 'biotechnology']",not found,
+140421,orion corp.,south korea,,,3343.0,doll_0.00349 b,doll_0.0017620000000000001 b,doll_0.193 b,"['consumer defensive', 'fmcg', 'food products', 'chocolate & confectionery']",not found,
+151244,onesavings bank,uk,,,1828.0,doll_0.00335 b,,doll_0.458 b,"['financial services', 'banking services']",not found,
+151333,old national bancorp,united states,,,2374.0,doll_0.32599999999999996 b,,doll_0.277 b,"['financial services', 'banking services']",not found,
+151402,oriental energy,china,,,,doll_0.00319 b,doll_0.003837 b,doll_0.166 b,"['energy', 'oil and gas']",not found,
+141157,olo inc.,united states,,,,doll_0.0028399999999999996 b,doll_0.149 b,doll_-0.042 b,"['online food delivery', 'software and it']",not found,
+173542,otter tail corporation,united states,,,2487.0,doll_0.00228 b,doll_0.001196 b,doll_0.176 b,"['utilities', 'electric utilities']",not found,
+168162,ossur,iceland,,,4000.0,doll_0.27999999999999997 b,doll_0.718 b,doll_0.063 b,"['healthcare', 'medical equipment']",not found,
+151947,obic business consultants,japan,,,,doll_0.00346 b,doll_0.254 b,doll_0.086 b,"['technology', 'software and it']",not found,
+152067,orange life insurance,south korea,,,,doll_5.263 b,,0.0,"['financial services', 'insurance']",not found,
+152129,oasis petroleum,united states,,,,doll_0.00263 b,doll_0.0015789999999999999 b,doll_0.319 b,"['energy', 'oil and gas']",not found,
+162882,open lending corporation,united states,,,,doll_0.256 b,doll_0.215 b,doll_0.146 b,['financial services'],not found,
+173920,opple lighting,china,,,6000.0,doll_0.00262 b,doll_0.001287 b,doll_0.132 b,"['consumer cyclical', 'lighting products', 'electrical products', 'home furnishing']",not found,
+173923,org technology,china,,,,doll_0.00213 b,,0.0,"['technology', 'software and it']",not found,
+131201,olav thon eiendomsselskap asa,norway,,,,doll_0.22999999999999998 b,doll_0.405 b,doll_0.388 b,['real estate'],not found,
+131390,orora,australia,,,,doll_0.00219 b,doll_0.002833 b,doll_0.127 b,"['consumer cyclical', 'packaging', 'metals']",not found,
+152832,oci company ltd,south korea,,,,doll_0.00256 b,doll_0.002427 b,doll_0.484 b,"['basic materials', 'chemicals', 'solar power']",not found,
+153161,ocean's king lighting science & technology,china,,,,doll_0.00199 b,,0.0,"['industries', 'lighting products', 'electrical products']",not found,
+153227,orient corporation,japan,,,3432.0,doll_0.196 b,doll_0.001677 b,doll_0.142 b,['financial services'],not found,
+153676,ox2 ab (publ),sweden,,,,doll_0.176 b,,0.0,"['utilities', 'renewable energy', 'wind power']",not found,
+153833,olympic circuit technology,china,,,,doll_0.17099999999999999 b,,0.0,"['technology', 'electronics', 'capital goods']",not found,
+175588,oceanwide holdings,china,,,,doll_0.16699999999999998 b,doll_0.0021709999999999998 b,doll_-1.638 b,"['real estate', 'conglomerate']",not found,
+154144,osg corporation,japan,,,7236.0,doll_0.00158 b,doll_0.921 b,doll_0.08 b,"['industries', 'tools and equipment', 'machinery manufacturing']",not found,
+143842,"oscar health, inc.",united states,,,2621.0,doll_0.0032400000000000003 b,doll_0.0019199999999999998 b,doll_-0.572 b,"['healthcare', 'insurance']",not found,
+143907,ocumension therapeutics,china,,,,doll_0.142 b,,0.0,"['healthcare', 'pharmaceutical', 'biotechnology']",not found,
+144067,orbbec,china,,,,0.0,,0.0,"['artificial intelligence', 'technology', 'software and it']",not found,
+144065,ola electric,india,,,,0.0,,0.0,,not found,
+144064,offerup,united states,,,,0.0,,0.0,,not found,
+133603,oaktree specialty lending corporation,united states,,,,doll_0.00132 b,doll_0.248 b,doll_0.237 b,['financial services'],not found,
+155046,one software technologies ltd,israel,,,,doll_0.0011200000000000001 b,doll_0.834 b,doll_0.04 b,"['technology', 'software and it']",mr. adi  eyal,
+144391,ogawa smart healthcare technology group,china,,,,doll_0.00134 b,,0.0,"['consumer cyclical', 'medical equipment', 'healthcare', 'leisure']",not found,
+155329,ottogi corporation,south korea,,,,doll_0.0015400000000000001 b,doll_0.002258 b,doll_0.092 b,"['consumer defensive', 'fmcg', 'package foods', 'food products']",not found,
+144931,oasis midstream partners lp,united states,,,,doll_0.00103 b,doll_0.348 b,doll_0.019 b,"['energy', 'oil and gas']",not found,
+166754,orient international enterprise,china,,,,doll_0.00102 b,,0.0,"['industries', 'logistics']",not found,
+145572,organogenesis holdings,united states,,,,doll_0.10600000000000001 b,doll_0.468 b,doll_0.094 b,"['healthcare', 'pharmaceutical']",not found,
+156400,opto tech corporation,taiwan,,,,doll_0.00103 b,,0.0,"['technology', 'semiconductors']",not found,
+156518,oakley capital investments limited,bermuda,,,,doll_0.00102 b,,0.0,['asset management'],not found,
+156626,onespaworld holdings,bahamas,,,,doll_0.995 b,,doll_-0.068 b,"['consumer cyclical', 'healthcare service', 'leisure']",,
+156639,oxford lane capital,united states,,,,doll_0.00079 b,,doll_0.125 b,"['financial services', 'asset management', 'investments']",,
+146203,optimizerx corporation,united states,,,,doll_0.00117 b,,doll_0.0 b,"['healthcare', 'healthcare service', 'business services', 'healthcare technology and information']",,
+135723,optorun,japan,,,,doll_0.917 b,,doll_0.046 b,"['industries', 'industry machinery']",,
+157137,origen financial,united states,,,,doll_0.0009699999999999999 b,,doll_0.002 b,"['real estate', 'chemicals']",,
+146497,olectra greentech limited,india,,,,doll_0.91 b,,doll_0.004 b,"['consumer cyclical', 'automobile parts']",,
+178387,odd molly,,,2002.0,,,,,['clothing & accessories'],,stockholm
+183865,onoff,,,1971.0,,,,,['broadline retailers'],,upplands väsby
+183866,orexo,,,1995.0,,,,,['pharmaceuticals'],,uppsala
+178392,orrefors glassworks,,,1898.0,,,,,['building materials & fixtures'],,orrefors
+178393,oskarshamn shipyard,,,1863.0,,,,,['commercial vehicles & trucks'],,oskarshamn
+178394,ovako,,,1969.0,,,,,['iron & steel'],,stockholm
+183646,orbea,,,1931.0,,,,,['recreational products'],,mallabia
+178661,"ofz, a.s., istebné,",,,1999.0,,,,,['iron & steel'],,istebné
+178662,orange slovensko,,,1997.0,,,,,['mobile telecommunications'],,bratislava
+183329,okocim brewery,,,1845.0,,,,,['brewers'],,brzesko
+183330,optimus s.a.,,,1988.0,,,,,['computer hardware'],,warsaw
+183221,océ,,,1877.0,,,,,['electronic office equipment'],,venlo
+179017,one productions,,,1994.0,,,,,['broadcasting & entertainment'],,marsa
+183117,orco,,,1991.0,,,,,['real estate holding & development'],,capellen
+183042,olainfarm,,,1972.0,,,,,['pharmaceuticals'],,olaine
+179438,osca,,,1947.0,,,,,['automobiles'],,san lazzaro di savena
+182912,officine meccaniche,,,1918.0,,,,,['commercial vehicles & trucks'],,milan
+179440,olidata,,,1982.0,,,,,['software'],,cesena
+179441,olivetti,,,1908.0,,,,,['consumer electronics'],,ivrea
+179442,omas,,,1925.0,,,,,['nondurable household products'],,bologna
+179443,omp racing,,,1973.0,,,,,['auto parts'],,ronco scrivia
+179444,onda mobile communication,,,,,,,,['telecommunications equipment'],,roveredo in piano
+179445,osella,,,1965.0,,,,,['automobiles'],,verolengo
+179446,ostoni,,,1958.0,,,,,['durable household products'],,cormano
+182920,oto melara,,,1905.0,,,,,['defense'],,rome
+179448,oz group,,,1971.0,,,,,['tires'],,san martino di lupari
+179628,oatfield,,,1927.0,,,,,['food products'],,letterkenny
+182576,o'briens irish sandwich bars,,,1988.0,,,,,['food retailers & wholesalers'],,dublin
+182577,openet,,,1999.0,,,,,['software'],,dublin
+179717,oncotherm,,,1988.0,,,,,['medical equipment'],,budapest
+182456,organica technologies,,,1998.0,,,,,['water'],,budapest
+182457,orion electronics,,,1913.0,,,,,['electronic equipment'],,budapest
+182219,open tv,,,1990.0,,,,,['broadcasting & entertainment'],,koropi
+180043,orano,,,2017.0,,,,,['nuclear cycle'],,courbevoie
+180044,oxbow,,,1985.0,,,,,['recreational products'],,mérignac
+180131,olvi,,,1878.0,,,,,['soft drinks'],,helsinki
+181600,op financial group,,,1891.0,,,,,['financial services'],,helsinki
+181603,outotec,,,2006.0,,,,,['business support services'],,espoo
+180205,olerex,,,1994.0,,,,,['specialty retailers'],,tartu
+180206,omniva,,,1638.0,,,,,['delivery services'],,tallinn
+180380,okd,,,1952.0,,,,,['coal'],,ostrava
+181306,omega tv cyprus,,,1992.0,,,,,['media'],,nicosia
+181307,open university of cyprus,,,2002.0,,,,,['education'],,nicosia
+181217,odašiljači i veze,,,2001.0,,,,,['internet'],,zagreb
+181128,ontotext,,,2000.0,,,,,['software'],,sofia
+181129,overgas,,,1991.0,,,,,['pipelines'],,sofia
+181032,option n.v.,,,1986.0,,,,,['computer hardware'],,leuven
+180834,onepharm,,,2005.0,,,,,['biotechnology'],,vienna
+182037,opel,,,1862.0,,,,,['automobiles'],,rüsselsheim am main
+182038,orenstein & koppel,,,1876.0,,,,,['industrial vehicles & trucks'],,berlin
+182039,osram,,,1919.0,,,,,['building materials & fixtures'],,munich
+182040,otto gmbh,,,1949.0,,,,,['broadline retailers'],,hamburg
+182041,otto bock,,,1919.0,,,,,['medical equipment'],,duderstadt
+182333,ocean rig,,,1996.0,,,,,['exploration & production'],,athens
+182340,optima bank,,,2000.0,,,,,['banks'],,athens
+182335,olympia odos consortium,,,2008.0,,,,,['transportation services'],,athens
+182336,olympic air,,,2009.0,,,,,['airlines'],,spata
+182337,olympos,,,1965.0,,,,,['food & beverages'],,larissa
+182338,olympus airways,,,2014.0,,,,,['airlines'],,athens
+182339,opap,,,1958.0,,,,,['gambling'],,athens
+182341,orient bikes,,,1987.0,,,,,['recreational products'],,larissa
+182342,ote,,,1949.0,,,,,['fixed line telecom.'],,maroussi
+182343,oteglobe,,,2000.0,,,,,['broadband and internet'],,athens
+182344,ouzo plomari,,,1894.0,,,,,['beverages'],,plomari
+184371,oknoplast,,,1994.0,,,,,,,bagsværd
+184373,otobi,,,1975.0,,,,,,,dhaka
+184374,officemax,,,,,,,,,,
+184377,ornua,,,1961.0,,,,,,,dublin
+184537,oao tmk,,,2001.0,,,,,,,"nihonbashi, ch??, tokyo"
+1449,onward technologies inc,,,1991.0,,,,,['bpo'],,
+5861,odisha power generation corporation,,,1984.0,,,,,['oil & gas'],,
+6072,omprime technology private limited,,,2019.0,,,,,['it services & consulting'],,
+6492,o2 spa,,,2007.0,,,,,['beauty & personal care'],,
+9064,orissa metaliks,,,,,,,,,,
+75219,one point one solutions ltd,,,,1127.0,doll_0.2883 b,,,,not found,
+78304,ocean one holding ltd,,,,,doll_0.1757 b,,,,mr. kin fung  chan,
+78506,omnibridge holdings ltd,,,,,doll_0.0804 b,,,,mr. chee kian  chew,
+84484,oceanus group ltd,,,,,doll_0.563 b,,,,mr. heng kang  koh pbm,
+84839,ocean sky international ltd,,,,,doll_0.016800000000000002 b,,,,mr. boon cheow  ang,
+87795,over the wire holdings limited,,,,,doll_0.3255 b,,,,"mr. michael nictarios omeros b.e., be(hons), binfotech, m.a.i.c.d., maicd",
+89647,o.c.c. public company ltd,,,,,doll_0.714 b,,,,ms. teerada  ambhanwong,
+90631,one to one contacts public company ltd,,,,,doll_1.241 b,,,,mr. kanawuthi  wattanadhirach,
+114109,one nine finances limited,,,,,,,,,,
+114230,omni claim ltd,,,,,,,,,,
+118128,ozzy workshop ltd,,,,,,,,,,
+120929,"ocean properties, ltd.",united states,1001 e atlantic avenue ste 202,,,,,,,,delray beach
+178677,o2 slovakia,,,2006.0,,,,,['mobile telecommunications'],,bratislava
+180379,o2 czech republic,,,2006.0,,,,,['telecommunications'],,prague
+181366,o2 czech republic,,,2006.0,,,,,['telecommunications'],,prague
+183518,o2 slovakia,,,2006.0,,,,,['mobile telecommunications'],,bratislava

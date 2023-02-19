@@ -1,758 +1,903 @@
-ID,name,country,headquarters,address,founded,employees,market_cap,revenue,profit,industry,sector,categories,ceo;
-74,zydus cadila,,,,1952,,,,,pharma,,,;
-283,zensar technologies,,,,2001,,,,,it services & consulting,,,;
-50242,zomato,india,,,,,,,,,,,;
-516,zs,,,,1983,,,,,management consulting,,,;
-676,zf rane automotive,,,,0,,,,,auto components,,,;
-1022,zf steering gear,,,,1915,,,,,auto components,,,;
-1191,zuventus healthcare,,,,2002,,,,,pharma,,,;
-38470,zydus wellness,india,,,,,doll_1.17 b,,,,,,;
-1290,zte corporation,china,,,,,,,,,,,;
-1397,zoho,,,,1996,,,,,software product,,,;
-1410,zydus lifesciences,india,,,,,,,,,,,;
-1464,zydus healthcare,,,,0,,,,,,,,;
-1517,ziqitza health care,,,,2005,,,,,healthcare,,,;
-1833,zealous services,,,,2007,,,,,bpo,,,;
-1988,zycus infotech,,,,1997,,,,,software product,,,;
-2196,zolo,,,,2015,,,,,internet,,,;
-2209,zeetech management and marketing,,,,2011,,,,,,,,;
-2225,zoomcar,,,,2012,,,,,internet,,,;
-101632,zara,,,,1974,,,,,consumer services,apparel retailers,,;
-2448,zimetrics technologies,,,,2015,,,,,it services & consulting,,,;
-2622,zf wind power,,,,1923,,,,,power,,,;
-2731,zf india technology center,,,,1915,,,,,auto components,,,;
-3004,zebronics,,,,1997,,,,,consumer electronics & appliances,,,;
-3115,zydus hospital,,,,2015,,,,,healthcare,,,;
-3320,zim laboratories,,,,1984,,,,,pharma,,,;
-3452,zepto,,,,2021,,,,,internet,,,;
-43201,zee learn,india,,,,,doll_26.89 m,,,,,,;
-4033,zyoin,,,,2005,,,,,recruitment,,,;
-4092,zscaler softech,,,,2008,,,,,software product,,,;
-4519,zodiac clothing company,,,,1984,,,,,fashion & textile,,,;
-13218,zeta,united states,,,2015,,,,,fintech,,,;
-5102,zf group,,,,0,,,,,auto components,,,;
-150700,zerodha,india,,,,,,,,,,,;
-5580,zucol group,,,,2010,,,,,it services & consulting,,,;
-5737,zeco aircon,,,,1989,,,,,industrial machinery,,,;
-5806,ziff davis performance marketing,,,,2005,,,,,marketing & advertising,,,;
-59238,zeta global,united states,,,,,doll_1.83 b,,,,,,;
-6373,zudio,,,,0,,,,,retail,,,;
-6440,zcl chemicals,,,,1991,,,,,pharma,,,;
-6604,zacks research,,,,1978,,,,,financial services,,,;
-6685,zunroof tech,,,,2016,,,,,power,,,;
-6993,zamil,,,,1920,,,,,financial services,,,;
-7037,zydus hospira oncology,,,,0,,,,,,,,;
-7146,zopper,,,,2011,,,,,internet,,,;
-7357,zivame.com,,,,2011,,,,,fashion & textile,,,;
-7385,zicom electronic security systems,,,,1994,,,,,consumer electronics & appliances,,,;
-7412,zahran operation & maintenance,,,,1975,,,,,it services & consulting,,,;
-7432,zee news,,,,1999,,,,,broadcasting,,,;
-7724,zenith precision,,,,1986,,,,,aviation,,,;
-7731,zenith leisure holidays,,,,1997,,,,,travel & tourism,,,;
-7849,zinnov management consulting,,,,2002,,,,,management consulting,,,;
-8036,zeiss pharma,,,,2014,,,,,pharma,,,;
-8136,zenq,,,,2003,,,,,it services & consulting,,,;
-8258,ztt,,,,1992,,,,,industrial machinery,,,;
-8492,zenith software,,,,1996,,,,,it services & consulting,,,;
-8569,zinghr,,,,2002,,,,,it services & consulting,,,;
-8605,zen technologies,,,,1993,,,,,consumer electronics & appliances,,,;
-64940,zengame technology,china,,,,,doll_0.29 b,,,,,,;
-9219,zydus takeda healthcare,,,,1781,,,,,pharma,,,;
-9415,zensoft services,,,,2013,,,,,it services & consulting,,,;
-9536,zentiva,,bucharest,,1962,,,,,health care,pharmaceuticals,,;
-101193,zifo rnd solutions,india,,,,,,,,,technology,,;
-9775,zymr systems,,,,2012,,,,,it services & consulting,,,;
-11186,zspaautotradeoãå(12828916),,,                        Harju maakond Tallinn LasnamÃÂ¤e linnaosa Pae tn 58-36 13620                            ,,,,,,,,,;
-11489,zopa,united kingdom,,,,,,,,fintech,,,;
-13592,zihaiguo,china,,,,,,,,consumer & retail,,,;
-11589,zwift,united states,,,,,,,,e-commerce & direct-to-consumer,,,;
-13506,zhaogang,china,,,,,,,,e-commerce & direct-to-consumer,,,;
-11648,zhuan zhuan,china,,,,,,,,e-commerce & direct-to-consumer,,,;
-13485,zebec,united states,,,,,,,,fintech,,,;
-11723,zego,united kingdom,,,,,,,,fintech,,,;
-13346,zip,united states,,,,,,,,fintech,,,;
-11962,zenoti,united states,,,,,,,,internet software & services,,,;
-13114,zenbusiness,united states,,,,,,,,fintech,,,;
-13123,zhubajie,china,,,,,,,,internet software & services,,,;
-12057,zocdoc,united states,,,,,,,,health,,,;
-12082,zigbang,south korea,,,,,,,,mobile & telecommunications,,,;
-12096,zilch,united kingdom,,,2018,,,,,fintech,,,;
-12184,zume,united states,,,,,,,,consumer & retail,,,;
-12220,zetwerk,india,,,2018,,,,,internet software & services,,,;
-161376,zuoyebang,china,,,,,,,,,,,;
-12753,zapier,united states,,,,,,,,internet software & services,,,;
-12439,zepz,united kingdom,,,,,,,,fintech,,,;
-138306,ziroom,china,,,,,,,,,,,;
-155392,zengame technology,china,,,,,,,,,,,;
-41281,zurich insurance group,switzerland,,,,,doll_73.58 b,,,,,,;
-48005,zijin mining,china,,,,,doll_43.93 b,,,,,,;
-56003,zimmer biomet,united states,,,,,doll_26.91 b,,,,,,;
-27716,z holdings,japan,,,,,doll_18.88 b,,,,,,;
-27620,zto express,china,,,,,doll_23.22 b,,,,,,;
-15843,zovio,united states,,,,,doll_3.17 m,,,,,,;
-33760,zk international group,china,,,,,doll_31.3 m,,,,,,;
-43715,zentek,canada,,,,,doll_0.14 b,,,,,,;
-54240,zimvie,united states,,,,,doll_0.22 b,,,,,,;
-25799,zevia,united states,,,,,doll_0.29 b,,,,,,;
-32032,zynex,united states,,,,,doll_0.64 b,,,,,,;
-65227,zensar,india,,,,,doll_0.62 b,,,,,,;
-44578,zeal network,germany,,,,,doll_0.78 b,,,,,,;
-37892,zug estates holding,switzerland,,,,,doll_1.87 b,,,,,,;
-46016,zain saudi arabia,saudi arabia,,,,,doll_2.55 b,,,,,,;
-36736,zurn water solutions,united states,,,,,doll_3.98 b,,,,,,;
-19978,zain saudi arabia,saudi-arabia,,,,,doll_2.56 b,,,,,telecommunication ,;
-20067,zee entertainment,india,,,,,doll_2.71 b,,,,,,;
-58048,ziff davis,united states,,,,,doll_3.8 b,,,,,,;
-141570,zhongsheng group,china,,,,,doll_4.29 b,,,,,,;
-64897,zai lab,china,,,,,doll_4.74 b,,,,,,;
-20806,zhongan insurance,china,,,,,doll_5.08 b,,,,,,;
-50638,zurich airport,switzerland,,,,,doll_5.1 b,,,,,,;
-64801,zoomlion,china,,,,,doll_7.34 b,,,,,,;
-148704,zozo,japan,,,,,doll_7.28 b,,,,,,;
-28644,zions bancorporation,united states,,,,,doll_7.68 b,,,,,,;
-49828,zendesk,united states,,,,,doll_9.62 b,,,,,,;
-136965,zalando,germany,,,,,doll_19.1 b,,,,,,;
-141570,zhongsheng group,china,,,,,doll_14.73 b,,,,,,;
-21929,zoominfo,united states,,,,,doll_11.45 b,,,,,,;
-136001,zoetis,united states,,,,,doll_85.74 b,,,,,,;
-35169,zebra technologies,united states,,,,,doll_15.41 b,,,,,,;
-56325,zscaler,united states,,,,,doll_16.83 b,,,,,,;
-22464,zillow,united states,,,,,doll_10.25 b,,,,,,;
-56172,zoom,united states,,,,,doll_20.31 b,,,,,,;
-95104,zte,china,,,,,doll_17.80 b,,,,,,;
-38883,zealand pharma,denmark,,,,,doll_0.81 b,,,,,,;
-62217,zuora,united states,,,,,doll_0.89 b,,,,,,;
-129347,zhihu,china,,,,,,,,,,,;
-151557,zhejiang jinke tom culture industry,china,,,,,,,,,,,;
-59072,ziprecruiter,united states,,,,,doll_1.94 b,,,,,,;
-93408,zim integrated shipping services,israel,,,,,doll_6.53 b,,,,,,;
-33728,zordix,sweden,,,,,doll_36.95 m,,,,,,;
-40876,zion oil & gas,united states,,,,,doll_38.59 m,,,,,,;
-39488,zumiez,united states,,,,,doll_0.47 b,,,,,,;
-53893,zur rose group,switzerland,,,,,doll_0.49 b,,,,,,;
-60512,zymeworks,canada,,,,,doll_0.63 b,,,,,,;
-62690,zerofox,united states,,,,,doll_0.59 b,,,,,,;
-55121,zynerba pharmaceuticals,united states,,,,,doll_28.25 m,,,,,,;
-70337,zoetis inc.,united states,,,,,doll_89.82 b,,,drug manufacturers—specialty & generic,healthcare,,;
-70694,z holdings corp,japan,,,,,doll_34.24 b,,,,,,;
-96832,zto express (cayman),china,,,,,doll_22.05 b,,,,,,;
-74976,zebra technologies corporation,united states,,,,,doll_21.87 b,,,communication equipment,technology,,;
-73036,zoominfo technologies inc.,united states,,,,,doll_21.23 b,,,software—application,technology,,;
-70126,zhejiang huayou cobalt co. ltd,china,,,,,doll_19.20 b,,,other industrial metals & mining,basic materials,,;
-73361,zimplats holdings limited,united kingdom,,,,,doll_2.48 b,,,other precious metals & mining,basic materials,,;
-73914,zoetic international plc,united kingdom,,,,,0,,,drug manufacturersspecialty & generic,healthcare,,;
-73933,zotefoams plc,united kingdom,,,,,doll_202.0 m,,,specialty chemicals,basic materials,,;
-74023,zoo digital group plc,united kingdom,,,,,doll_140.6 m,,,softwareapplication,technology,,;
-74109,zephyr energy plc,united kingdom,,,,,doll_101.3 m,,,oil & gas e&p,energy,,;
-93286,zions bancorp,united states,,,,,doll_9.23 b,doll_2.96 b,doll_1.12 b,,,,;
-146910,zoom video communications,united states,,,,,doll_51.14 b,,doll_1.38 b,,,,eric yuan;
-93599,zoomlion heavy industry,china,,,,,,doll_10.4 b,,,,,;
-93618,zhongliang holdings,china,,,,,doll_968 m,doll_11.81 b,doll_419 m,,,,;
-152579,zhongyuan bank,china,,,,,doll_2.07 b,,doll_437.0 m,,,,;
-155652,zheshang development group,china,,,,,doll_1.2 b,,,,,,;
-137092,zhejiang chint electrics,china,,,,,doll_18.41 m,,,,,,;
-140080,zhejiang expressway,china,,,,,doll_3.86 b,,,,,,;
-94195,zall smart commerce group,china,,,,,doll_698 m,doll_16.21 b,doll_-179.2 m,,,,;
-100328,zego,uk,,,,224.0,,doll_12.16 m,,,fintech,,;
-98337,zega invest,germany,,,,4.0,,doll_3.79 m,,,property,,;
-102657,zeck fishing,germany,,,,25,,doll_6.81 m,,,retail,,;
-98668,zara imballaggi fabriano,italy,,,,6,,doll_2.3 m,,,industrial goods,,;
-97704,zia lucia,uk,,,,43.0,,doll_4.85 m,,,restaurants,,;
-97714,zenâup,france,,,,9,,doll_1.89 m,,,insurance,,;
-103221,zanatta media group,germany,,,,9,,doll_8.38 m,,,advertising,,;
-103385,zimmerei nordmann,germany,,,,11,,doll_2.07 m,,,construction,,;
-100096,zinox laser,italy,,,,47.0,,doll_6.36 m,,,interiors,,;
-98187,zero,italy,,,,37,,doll_42.0 m,,,energy,,;
-102929,zen’up,france,,,,9,,doll_1.89 m,,,insurance,,;
-100729,zeal digital,australia,,,,20,,doll_1.33 m,,,advertising,,;
-100596,zairyo,singapore,,,,10,,doll_2.11 m,,,ecommerce,,;
-100628,zonneplan,netherlands,,,,91,,doll_76.9 m,,,energy,,;
-101051,zenmarket,japan,,,,195,,doll_36.79 m,,,ecommerce,,;
-101103,zemoso,india,,,,176,,doll_6.20 m,,,technology,,;
-101237,zhong yang technology,taiwan,,,,672,,doll_45.03 m,,,industrial goods,,;
-101320,zuu,japan,,,,96,,doll_16.98 m,,,fintech,,;
-102117,zeitwerk personal,germany,,,,7,,doll_4.42 m,,,support services,,;
-102474,zelená pošta,slovakia,,,,6,,doll_1.64 m,,,support services,,;
-102642,zia lucia holdings,uk,,,,34,,doll_3.68 m,,,restaurants,,;
-102772,zoot group,czech republic,,,,577,,doll_37.5 m,,,retail,,;
-103150,zukunftsenergie fichtelgebirge,germany,,,,1,,doll_5.3 m,,,energy,,;
-104712,zac personalservice,germany,,,,170,,doll_5.35 m,,,support services,,;
-103610,zimmerei peter stock,germany,,,,24,,doll_2.74 m,,,construction,,;
-104300,ziegler logistik,germany,,,,146,,doll_27.3 m,,,transport,,;
-104657,zebra systems,czech republic,,,,15,,doll_4.63 m,,,cyber security,,;
-104835,zoomici,france,,,,17,,doll_25.73 m,,,retail,,;
-115976,z & s stores ltd,,,,,,,,,,,,;
-115903,z a k transport limited,,,,,,,,,,,,;
-115908,z & a fast food ltd,,,,,,,,,,,,;
-116033,z & k fleets ltd,,,,,,,,,,,,;
-116033,z & s stores ltd,,,,,,,,,,,,;
-115915,z & a healthcare ltd,,,,,,,,,,,,;
-116096,z & s stores ltd,,,,,,,,,,,,;
-115918,z & a solutions limited,,,,,,,,,,,,;
-116033,z & s stores ltd,,,,,,,,,,,,;
-115928,z & co logistics limited,,,,,,,,,,,,;
-115934,z & c properties ltd,,,,,,,,,,,,;
-115976,z & s stores ltd,,,,,,,,,,,,;
-116033,z & k fleets ltd,,,,,,,,,,,,;
-115942,z & e property development company limited,,,,,,,,,,,,;
-115946,z & f developments ltd,,,,,,,,,,,,;
-115959,z + f uk properties limited,,,,,,,,,,,,;
-115967,z & h distribution ltd,,,,,,,,,,,,;
-115977,z & j leisure limited,,,,,,,,,,,,;
-115980,z & j properties ltd,,,,,,,,,,,,;
-115981,z & k builder construction ltd,,,,,,,,,,,,;
-115983,z & k butler ltd,,,,,,,,,,,,;
-115984,z & k distributors limited,,,,,,,,,,,,;
-115985,z & k import and export ltd,,,,,,,,,,,,;
-115986,z & k hot food ltd,,,,,,,,,,,,;
-115991,z & k property investments ltd,,,,,,,,,,,,;
-115993,z & k quality foods ltd,,,,,,,,,,,,;
-115995,z & k tyres ltd,,,,,,,,,,,,;
-115997,z & k exeter ltd,,,,,,,,,,,,;
-116011,z & m trade limited,,,,,,,,,,,,;
-116016,z & n investments trading limited,,,,,,,,,,,,;
-116018,z & n pharma ltd,,,,,,,,,,,,;
-116025,z & partners limited,,,,,,,,,,,,;
-116039,z & r simply motors limited,,,,,,,,,,,,;
-116044,z & s (basket) ltd,,,,,,,,,,,,;
-116062,z & s real estates ltd,,,,,,,,,,,,;
-116064,z & s rail consulting ltd,,,,,,,,,,,,;
-116065,z & s property company ltd,,,,,,,,,,,,;
-116066,z & s transport limited,,,,,,,,,,,,;
-116073,z & t ops uk limited,,,,,,,,,,,,;
-116081,z & x consultancy ltd,,,,,,,,,,,,;
-116086,z & z brothers it solutions ltd,,,,,,,,,,,,;
-116092,z & z hotel investment management limited,,,,,,,,,,,,;
-116103,z & z products ltd,,,,,,,,,,,,;
-116104,z and z sectech ltd,,,,,,,,,,,,;
-116105,z & z properties investment ltd,,,,,,,,,,,,;
-116108,z & z solutions limited,,,,,,,,,,,,;
-116111,z & z security ltd,,,,,,,,,,,,;
-116116,z a property solutions limited,,,,,,,,,,,,;
-116124,z automotive group ltd,,,,,,,,,,,,;
-116125,z autoz limited,,,,,,,,,,,,;
-116126,z auto ltd,,,,,,,,,,,,;
-116128,z audio digital ltd,,,,,,,,,,,,;
-116129,z a transport ltd,,,,,,,,,,,,;
-116136,z axis analytics ltd,,,,,,,,,,,,;
-116139,z autoz repairs ltd,,,,,,,,,,,,;
-116159,z b electrical services ltd,,,,,,,,,,,,;
-116167,z cad solutions limited,,,,,,,,,,,,;
-116170,z b utilities ltd,,,,,,,,,,,,;
-116178,z british mainframe consulting ltd,,,,,,,,,,,,;
-116181,z car hire ltd,,,,,,,,,,,,;
-116188,z cars (exeter) ltd,,,,,,,,,,,,;
-116189,z cars evolutions limited,,,,,,,,,,,,;
-116190,z cars engineering limited,,,,,,,,,,,,;
-116193,z catering equipment ltd,,,,,,,,,,,,;
-116198,z cars (st ives) ltd,,,,,,,,,,,,;
-116199,z cars 2018 ltd,,,,,,,,,,,,;
-116200,z cars taxis limited,,,,,,,,,,,,;
-116208,z communications ltd,,,,,,,,,,,,;
-116210,z commerce ltd,,,,,,,,,,,,;
-116215,z contracts ltd,,,,,,,,,,,,;
-116218,z construction management ltd,,,,,,,,,,,,;
-116222,z controls & automation ltd,,,,,,,,,,,,;
-116236,z d communications ltd,,,,,,,,,,,,;
-116244,z design consultancy limited,,,,,,,,,,,,;
-116252,z. d. f. services ltd,,,,,,,,,,,,;
-116256,z ebrahim professional accountant & co ltd,,,,,,,,,,,,;
-123200,zuckids srl,italy,,,,,,,,,,,;
-120623,zip co us inc.,united states,,,,,,,,,,,;
-123458,zodia custody limited,united kingdom,,,,,,,,,,,;
-123464,zigzag global ltd,united kingdom,,,,,,,,,,,;
-120889,zurich italy bank spa,italy,,,,,,,,,,,;
-121454,zim italia srl,italy,,,,,,,,,,,;
-121993,zignago vetro,italy,,,,,,,,,,,;
-122357,zynga inc.,united states,,,,,,,,,,,;
-122664,zoffany limited,united kingdom,,,,,,,,,,,;
-122678,zeneca holdings inc.,united states,,,,,,,,,,,;
-124433,zume pizza careers,,,,2018,,,,,food & beverages,,,;
-124712,zaius careers,,,,2012,,,,,computer software,,,;
-124892,zilliant careers,,,,1999,,,,,computer software,,,;
-124914,zemax careers,,,,1991,,,,,computer software,,,;
-124996,zycus careers,,,,1998,,,,,computer software,,,;
-150500,zhejiang china commodities city group,china,,,,,,,,,,,;
-151362,zip co limited,australia,,,,,,,,,,,;
-162276,zenkoku hosho,japan,,,,,,,,,,,;
-174403,zhenro properties group,china,,,,,,,,,,,;
-153445,zhongliang holdings group company,china,,,,,,,,,,,;
-154273,zhuguang holdings group company,hong kong,,,,,,,,,,,;
-156161,zensun enterprises,hong kong,,,,,,,,,,,;
-137299,zillow group,united states,,,,,doll_14.35 b,,doll_-527.0 m,,,,rich barton;
-137329,zhejiang sanhua intelligent controls,china,,,,,doll_13.52 m,,,,,,;
-137521,zhuzhou crrc times electric,china,,,,,doll_6.95 m,,,,,,;
-141570,zhejiang wanliyang,china,,,,,doll_11.98 b,,,,,,;
-144767,zhejiang asia-pacific mechanical & electronic,china,,,,,doll_14.82 m,,,,,,;
-148259,zhejiang satellite petrochemical,china,,,,,doll_11.5 b,,,,,,;
-137652,zangge holding company,china,,,,,doll_11.01 b,,,,,,;
-137721,zayo group holdings,united states,,,,,0.0,,,,,,;
-148547,zoomlion heavy industry science and technology,china,,,,,doll_11.01 m,,doll_989.0 m,,,,;
-137983,zozo inc,japan,,,,,doll_11.38 m,,,,,,;
-141570,zhejiang wanliyang,china,,,,,doll_1.64 m,,,,,,;
-148940,zheshang securities,china,,,,,doll_7.73 b,,,,,,;
-138509,zhejiang weiming environment protection,china,,,,,doll_6.82 b,,,,,,;
-138537,zynga,united states,,,,,doll_9.66 m,,,,,,;
-144706,zhejiang yinlun machinery,china,,,,,doll_1.26 b,,,,,,;
-142976,zhejiang sunoren solar technology,china,,,,,doll_1.07 m,,,,,,;
-156098,zhejiang jolly pharmaceutical,china,,,,,doll_6.31 b,,,,,,;
-138693,zhongjin gold,china,,,,,doll_6.3 b,,,,,,;
-149419,zhejiang zhongxin fluoride materials,china,,,,,doll_0.97 m,,,,,,;
-139015,zotye automobile co. ltd,china,,,,,doll_2.38 m,,,,,,;
-149710,zhuzhou hongda electronics,china,,,,,doll_5.46 b,,,,,,;
-139071,zhongan online p & c insurance,china,,,,,doll_5.37 b,,doll_183.0 m,,,,;
-139105,zhongji innolight,china,,,,,doll_3.82 m,,,,,,;
-139167,zoox,united states,,,,,doll_0.003185 t,,,,,,;
-139401,zibo qixiang tengda chemical co. ltd,china,,,,,doll_3.96 m,,,,,,;
-139822,zee entertainment enterprises,india,,,,,doll_2.33 m,,,,,,;
-150619,zhejiang cfmoto power,china,,,,,doll_4.0 b,,,,,,;
-140023,zhengzhou yutong bus,china,,,,,doll_4.25 m,,,,,,;
-150732,zooplus ag,germany,,,,,,,,,,,;
-140126,zardoya otis,united states,,,,,doll_3.81 b,,,,,,;
-151115,zhen ding technology holding,taiwan,,,,,doll_3.37 m,,,,,,;
-151117,zhejiang crystal-optech,china,,,,,doll_3.47 b,,doll_64.0 m,,,,;
-140489,zhejiang semir garment,china,,,,,doll_3.69 m,,,,,,;
-140512,zhejiang shuanghuan driveline,china,,,,,doll_3.4 b,,,,,,;
-140636,zhengzhou coal mining machinery group company,china,,,,,doll_3.26 m,,,,,,;
-151633,zhongshan broad-ocean motor,china,,,,,doll_3.0 b,,,,,,;
-141010,zhongyu gas holdings,hong kong,,,,,doll_2.27 m,,,,,,;
-141410,zhejiang jiuli hi-tech metals,china,,,,,doll_2.65 b,,,,,,;
-142337,zhejiang shouxiangu pharmaceutical,china,,,,,doll_2.08 m,,,,,,;
-141571,zhejiang kaishan compressor,china,,,,,doll_2.53 b,,,,,,;
-141786,zhongmin energy,china,,,,,doll_2.37 b,,,,,,;
-141806,zhejiang sanwei rubber item,china,,,,,doll_2.08 m,,,,,,;
-141899,zhongyuan bank,china,,,,,doll_2.92 m,,,,,,;
-152794,zuger kantonalbank,switzerland,,,,,doll_2.17 b,,,,,,;
-152802,zhe jiang taihua new material,china,,,,,doll_2.17 b,,,,,,;
-142301,zhejiang conba pharmaceutical,china,,,,,doll_1.68 m,,,,,,;
-142390,zhongshan public utilities group,china,,,,,doll_2.0 m,,,,,,;
-142398,zhejiang huace film & tv,china,,,,,doll_2.04 b,,,,,,;
-142438,zhejiang southeast space frame,china,,,,,doll_2.01 b,,,,,,;
-142537,zhejiang orient financial holdings group,china,,,,,doll_1.82 m,,,,,,;
-142543,zhejiang huatie emergency equipment science & technology,china,,,,,doll_1.17 m,,,,,,;
-142711,zhejiang wanfeng auto wheel,china,,,,,doll_1.76 m,,,,,,;
-142803,zhejiang meida industrial,china,,,,,doll_1.85 b,,,,,,;
-142805,zhejiang daily digital culture group,china,,,,,doll_1.34 m,,,,,,;
-142855,zhe jiang dali technology,china,,,,,doll_1.82 b,,,,,,;
-153538,zimplats holdings,channel islands,,,,,doll_1.82 b,,,,,,;
-142952,zhejiang weixing industrial development,china,,,,,doll_0.99 m,,,,,,;
-142976,zhejiang sunoren solar technology,china,,,,,doll_1.07 m,,,,,,;
-143055,zhejiang narada power source,china,,,,,doll_1.64 m,,,,,,;
-143107,zhejiang guyuelongshan shaoxing wine,china,,,,,doll_1.72 b,,,,,,;
-143184,zhejiang tiantie industry,china,,,,,doll_1.79 m,,,,,,;
-143276,zhuzhou times new material technology,china,,,,,doll_1.28 m,,,,,,;
-143446,zhongfu information,china,,,,,doll_1.59 b,,,,,,;
-143452,zhejiang yasha decoration,china,,,,,doll_1.59 b,,,,,,;
-143478,zeta global holdings corp.,united states,,,,,doll_1.29 m,,,,,,;
-154165,zhou hei ya international holdings company,china,,,,,doll_2.52 m,,,,,,;
-143645,zensar technologies,india,,,,,doll_1.38 m,,doll_52.0 m,,,,;
-143811,zhonghang electronic measuring instruments,china,,,,,doll_1.45 b,,,,,,;
-144216,zanyu technology group,china,,,,,doll_1.21 m,,,,,,;
-144372,zhejiang jingu company,china,,,,,doll_0.92 m,,,,,,;
-144597,zhejiang huatong meat products,china,,,,,doll_1.29 b,,,,,,;
-144697,z energy,new zealand,,,,,doll_1.26 b,,,,,,;
-155477,zhejiang tony electronic co. ltd,china,,,,,doll_1.24 b,,,,,,;
-144879,zhejiang garden bio-chemical high-tech,china,,,,,doll_1.22 b,,,,,,;
-144934,zhongnan red culture group,china,,,,,doll_0.92 m,,,,,,;
-145015,zad holding company,qatar,,,,,doll_1.19 b,,doll_52.0 m,,,,;
-145074,zhuhai enpower electric,china,,,,,doll_0.76 m,,,,,,;
-145097,zehnder group ag,switzerland,,,,,doll_1.29 m,,,,,,;
-145294,zhengzhou deheng hongsheng technology,china,,,,,doll_1.12 b,,,,,,;
-145409,zhejiang great southeastltd,china,,,,,doll_0.97 m,,,,,,;
-145494,zhuhai orbita aerospace science & technology,china,,,,,doll_1.08 m,,,,,,;
-156699,zhejiang merit interactive network technology,china,,,,,doll_0.8 m,,,,,,;
-156723,zhejiang qianjiang motorcycle,china,,,,,doll_1.02 m,,,,,,;
-156753,zhongman petroleum and natural gas group,china,,,,,doll_979.0 m,,,,,,;
-146208,zinus,south korea,,,,,doll_950.0 m,,,,,,;
-146223,zhuhai port,china,,,,,doll_951.0 m,,,,,,;
-146237,zhongfu straits (pingtan) development company limited,china,,,,,doll_954.0 m,,,,,,;
-157027,zhengzhou coal industry & electric power,china,,,,,doll_926.0 m,,,,,,;
-146417,zogenix,united states,,,,,doll_0.83 m,,,,,,;
-146426,zhongnongfa seed industry group,china,,,,,doll_917.0 m,,,,,,;
-146437,zhejiang huamei holding,china,,,,,doll_922.0 m,,,,,,;
-146495,zhuzhou qianjin pharmaceutical,china,,,,,doll_909.0 m,,,,,,;
-147337,zimmer biomet holdings,united states,,,,,doll_26.77 b,,doll_401.0 m,,,,bryan c. hanson;
-148341,zions bancorporation national association,united states,,,,,doll_10.97 b,,doll_1.09 b,,,,;
-150081,zibo qixiang tengda chemical co. ltd,china,,,,,doll_4.8 b,,doll_348.0 m,,,,;
-150377,zhejiang wolwo bio-pharmaceutical,china,,,,,doll_4.31 b,,doll_49.0 m,,,,;
-151900,zhihu inc.,china,,,,,doll_2.79 b,,doll_-214.0 m,,,,;
-152551,zhejiang starry pharmaceutical,china,,,,,doll_2.31 b,,doll_47.0 m,,,,;
-153223,zhejiang huatie emergency equipment science & technology,china,,,,,doll_1.97 b,,0.0,,,,;
-153440,zhejiang dun'an artificial environment co. ltd,china,,,,,doll_1.87 b,,0.0,,,,;
-153735,zhejiang narada power source,china,,,,,doll_1.74 b,,doll_-199.0 m,,,,;
-153956,zhuzhou times new material technology,china,,,,,doll_1.66 b,,0.0,,,,;
-155052,zhejiang jingu company,china,,,,,doll_1.34 b,,0.0,,,,;
-173033,zip co,australia,,,2013,,,,,['financial services'],,,not found;
-183676,zinkia entertainment,,madrid,,2001,,,,,consumer services,broadcasting & entertainment,,;
-178648,zootfly,,ljubljana,,2002,,,,,technology,software,,;
-178683,zlatý bažant,,hurbanovo,,1969,,,,,consumer goods,brewers,,;
-178888,zmt sa,,tarnów,,1917,,,,,industrials,defense,,;
-183265,zeeman,,alphen aan den rijn,,1967,,,,,consumer goods,apparel retailers,,;
-183008,zagato,,rho,,1919,,,,,industrials,commercial vehicles & trucks,,;
-179536,zambon,,bresso,,1906,,,,,health care,pharmaceuticals,,;
-179537,zamperla,,vicenza,,1966,,,,,consumer goods,recreational products,,;
-179538,zanussi,,pordenone,,1916,,,,,consumer goods,durable household products,,;
-179745,zen studios,,budapest,,2003,,,,,technology,software,,;
-179746,zsolnay,,pécs,,1853,,,,,consumer goods,durable household products,,;
-179747,zwack,,budapest,,1790,,,,,consumer goods,distillers & vintners,,;
-180228,zeroturnaround,,tartu,,2007,,,,,technology,software,,;
-181504,zentropa,,hvidovre,,1992,,,,,consumer services,broadcasting & entertainment,,;
-180401,zetor,,brno,,1946,,,,,industrials,commercial vehicles & trucks,,;
-181243,zagreb film,,zagreb,,1953,,,,,consumer services,broadcasting & entertainment,,;
-181244,zagreb stock exchange,,zagreb,,1991,,,,,financials,financial services,,;
-180585,zagrebačka pivovara,,zagreb,,1892,,,,,consumer goods,brewers,,;
-180586,zagrebački električni tramvaj,,zagreb,,1891,,,,,industrials,transportation services,,;
-180777,zetes,,brussels,,1984,,,,,technology,technology hardware,,;
-180865,zumtobel lighting group,,dornbirn,,1950,,,,,industrials,building materials & fixtures,,;
-182145,zf friedrichshafen,,friedrichshafen,,1915,,,,,industrials,industrial suppliers,,;
-182146,ziehl-abegg se,,künzelsau,,1910,,,,,industrials,electrical components & equipment,,;
-182402,zante ferries,,piraeus,,1991,,,,,industrials,marine transportation,,;
-184590,zara (retailer),,moscow,,1975,,,,,retail,,,;
-184594,zippo,,bradford,,1932,,,,,manufacturing,,,;
-184595,zyxel,,hsinchu science park,,1989,,,,,telecommunications,,,;
-1759,zee entertainment enterprises,,,,1992,,,,,media & entertainment,,,;
-2368,zetwerk manufacturing businesses,,,,2018,,,,,iron & steel,,,;
-2641,zuari cement,,,,2000,,,,,building material,,,;
-2771,zovian technologies,,,,2016,,,,,it services & consulting,,,;
-2778,zydex industries,,,,1997,,,,,chemicals,,,;
-3323,zee laboratories,,,,1993,,,,,pharma,,,;
-3368,zuari agro chemicals,,,,1967,,,,,agro chemicals,,,;
-4028,zamil steel buildings india,,,,2008,,,,,engineering & construction,,,;
-4335,zee media corporation,,,,1999,,,,,media & entertainment,,,;
-7349,zigma technologies,,,,2004,,,,,it services & consulting,,,;
-7381,zigma technologies,,,,2004,,,,,it services & consulting,,,;
-8856,zieta technologies,,,,2001,,,,,it services & consulting,,,;
-9852,zone by the park chennai,,,,2011,,,,,hospitality,,,;
-16052,zynerba pharmaceuticals,united states,,,,,doll_27.76 m,,,,,['pharmaceuticals'],;
-23739,zentalis pharmaceuticals,united states,,,,,doll_1.42 b,,,,,pharmaceuticals biotech ,;
-24870,zynerba pharmaceuticals,united states,,,,,doll_29.64 m,,,,,pharmaceuticals ,;
-25818,zomedica pharmaceuticals,united states,,,,,doll_0.31 b,,,,,pharmaceuticals biotech ,;
-31046,zentalis pharmaceuticals,united states,,,,,doll_1.42 b,,,,,,;
-32920,zomedica pharmaceuticals,united states,,,,,doll_0.24 b,,,,,,;
-33782,zynerba pharmaceuticals,united states,,,,,doll_27.76 m,,,,,,;
-38417,zentalis pharmaceuticals,united states,,,,,doll_1.21 b,,,,,,;
-40064,zomedica pharmaceuticals,united states,,,,,doll_220.0 m,,,,,,;
-40922,zynerba pharmaceuticals,united states,,,,,doll_25.5 m,,,,,,;
-43187,zynerba pharmaceuticals,united states,,,,,doll_27.29 m,,,,,['pharmaceuticals'],;
-52758,zentalis pharmaceuticals,united states,,,,,doll_1.14 b,,,,,,;
-54447,zomedica pharmaceuticals,united states,,,,,doll_0.18 b,,,,,,;
-59614,zentalis pharmaceuticals,united states,,,,,doll_1.35 b,,,,,,;
-61254,zomedica pharmaceuticals,united states,,,,,doll_0.27 b,,,,,,;
-63218,zentalis pharmaceuticals,,,,,177.0,doll_1.42 b,,-doll_0.23 b,,,,;
-63640,zomedica pharmaceuticals,,,,,47.0,doll_0.24 b,doll_16.85 m,-doll_21.15 m,,,,;
-63717,zynerba pharmaceuticals,,,,,28.0,doll_27.76 m,,-doll_35.84 m,,,,;
-69758,zhangzhou pientzehuang pharmaceutical. ltd,china,,,,,doll_31.17 b,,,drug manufacturers—general,healthcare,,;
-70758,zhangzhou pientzehuang pharmaceutical. ltd,china,,,,,doll_31.17 b,,,drug manufacturers—general,healthcare,,;
-72758,zhangzhou pientzehuang pharmaceutical. ltd,china,,,,,doll_31.17 b,,,drug manufacturers—general,healthcare,,;
-74718,zhangzhou pientzehuang pharmaceutical. ltd,china,,,,,doll_31.17 b,,,,healthcare,,;
-94105,zhangzhou pientzehuang pharmaceutical,china,,,,,doll_27.54 b,doll_1.23 b,doll_377 m,,,,;
-114183,zwibau finances limited,,,,,,,,,,,,;
-115868,z ltd,,,,,,,,,,,,;
-115869,z abbas hussain ltd,,,,,,,,,,,,;
-115870,z a a (nw) limited,,,,,,,,,,,,;
-115871,z limited,,,,,,,,,,,,;
-115873,z a & shah ltd,,,,,,,,,,,,;
-115877,z a catering limited,,,,,,,,,,,,;
-115878,z a care limited,,,,,,,,,,,,;
-115879,z abz limited,,,,,,,,,,,,;
-115880,z a business ltd,,,,,,,,,,,,;
-115881,z accountax ltd,,,,,,,,,,,,;
-115882,z a builders limited,,,,,,,,,,,,;
-115883,z a construction management services ltd,,,,,,,,,,,,;
-115884,z a desserts limited,,,,,,,,,,,,;
-115885,zac z limited,,,,,,,,,,,,;
-115886,z a distribution ltd,,,,,,,,,,,,;
-115887,z admin services ltd,,,,,,,,,,,,;
-115888,z a developers ltd,,,,,,,,,,,,;
-115889,z a distributors limited,,,,,,,,,,,,;
-115890,z a h alsindi ltd,,,,,,,,,,,,;
-115891,z a glasgow ltd,,,,,,,,,,,,;
-115892,z a fashions ltd,,,,,,,,,,,,;
-115893,z a estates limited,,,,,,,,,,,,;
-115894,z adventures europe limited,,,,,,,,,,,,;
-115897,z ahmed medical services ltd,,,,,,,,,,,,;
-115898,z a industries ltd,,,,,,,,,,,,;
-115899,z a h c s limited,,,,,,,,,,,,;
-115900,z a khan limited,,,,,,,,,,,,;
-115901,z akhtar holdings ltd,,,,,,,,,,,,;
-115902,z a i construction limited,,,,,,,,,,,,;
-115904,z & a asset management limited,,,,,,,,,,,,;
-115905,z a merry chippy limited,,,,,,,,,,,,;
-115906,z a m holdings ltd,,,,,,,,,,,,;
-115907,z. alam associates ltd,,,,,,,,,,,,;
-115910,z & a convenience limited,,,,,,,,,,,,;
-115911,z and a consulting limited,,,,,,,,,,,,;
-115912,z & a beaumont ltd,,,,,,,,,,,,;
-115916,z & a halal meat ltd,,,,,,,,,,,,;
-115919,z & a services ltd,,,,,,,,,,,,;
-115920,z & a london ltd,,,,,,,,,,,,;
-115921,z & b consultants limited,,,,,,,,,,,,;
-115922,z & b ltd,,,,,,,,,,,,;
-115923,z & c care ltd,,,,,,,,,,,,;
-115925,z and co hair and beauty ltd,,,,,,,,,,,,;
-115926,z & c jewellery limited,,,,,,,,,,,,;
-115927,z & c domestic services limited,,,,,,,,,,,,;
-115929,z & d goodrum ltd,,,,,,,,,,,,;
-115930,z and d care limited,,,,,,,,,,,,;
-115931,z & daughters limited,,,,,,,,,,,,;
-115932,z & co ncl ltd,,,,,,,,,,,,;
-115933,z & d limited,,,,,,,,,,,,;
-115936,z & e investments ltd,,,,,,,,,,,,;
-115937,z &e halal meat ltd,,,,,,,,,,,,;
-115938,z & e fashion limited,,,,,,,,,,,,;
-115939,z & e legal consultancy limited,,,,,,,,,,,,;
-115940,z & d rentals ltd,,,,,,,,,,,,;
-115943,z and e medicals ltd,,,,,,,,,,,,;
-115944,z & e lettings ltd.,,,,,,,,,,,,;
-115945,z and f enterprise limited,,,,,,,,,,,,;
-115947,z andersons limited,,,,,,,,,,,,;
-115948,z & f group limited,,,,,,,,,,,,;
-115950,z & f sons ltd,,,,,,,,,,,,;
-115953,z & g joinery limited,,,,,,,,,,,,;
-115954,z & g consulting ltd,,,,,,,,,,,,;
-115955,z & f interiors limited,,,,,,,,,,,,;
-115956,z & g limited,,,,,,,,,,,,;
-115957,z & h brothers limited,,,,,,,,,,,,;
-115958,z & h ltd,,,,,,,,,,,,;
-115960,z & f ware ltd,,,,,,,,,,,,;
-115961,z & h consultancy services limited,,,,,,,,,,,,;
-115963,z & h consulting limited,,,,,,,,,,,,;
-115964,z &h consultants ltd,,,,,,,,,,,,;
-115966,z & i ltd,,,,,,,,,,,,;
-115968,z & h properties limited,,,,,,,,,,,,;
-115970,z & i construction ltd,,,,,,,,,,,,;
-115972,z & i universal limited,,,,,,,,,,,,;
-115973,z & i solution ltd,,,,,,,,,,,,;
-115974,z & i dreams limited,,,,,,,,,,,,;
-115975,z and i pvt limited,,,,,,,,,,,,;
-115978,z and j group ltd,,,,,,,,,,,,;
-115979,z & j enterprises limited,,,,,,,,,,,,;
-115987,z & k kaspas ltd,,,,,,,,,,,,;
-115988,z & k gloucester ltd,,,,,,,,,,,,;
-115992,z & k southwest ltd,,,,,,,,,,,,;
-115998,z & m care limited,,,,,,,,,,,,;
-115999,z & m consulting ltd,,,,,,,,,,,,;
-116000,z & m consultancy limited,,,,,,,,,,,,;
-116001,z & m global ltd,,,,,,,,,,,,;
-116002,z & m it solutions ltd,,,,,,,,,,,,;
-116003,z & m kitchen ltd,,,,,,,,,,,,;
-116004,z & m k1 ltd,,,,,,,,,,,,;
-116005,z & m lifestyle limited,,,,,,,,,,,,;
-116006,z & m management limited,,,,,,,,,,,,;
-116007,z & m properties limited,,,,,,,,,,,,;
-116008,z & n anaesthesia limited,,,,,,,,,,,,;
-116009,z & n limited,,,,,,,,,,,,;
-116012,z & m roofing limited,,,,,,,,,,,,;
-116013,z & n kara limited,,,,,,,,,,,,;
-116014,z & n healthcare limited,,,,,,,,,,,,;
-116015,z and n foods ltd,,,,,,,,,,,,;
-116017,z & n products ltd,,,,,,,,,,,,;
-116019,z & n t/a mr pats wakefield ltd,,,,,,,,,,,,;
-116020,z & n properties limited,,,,,,,,,,,,;
-116021,z & o limited,,,,,,,,,,,,;
-116022,z and o fruits veg ltd,,,,,,,,,,,,;
-116024,z & p barbers ltd,,,,,,,,,,,,;
-116026,z & p capital ltd,,,,,,,,,,,,;
-116027,z & p properties ltd,,,,,,,,,,,,;
-116028,z & q enterprise limited,,,,,,,,,,,,;
-116029,z & q ltd,,,,,,,,,,,,;
-116030,z and precious removals ltd,,,,,,,,,,,,;
-116032,z and p incorporated ltd,,,,,,,,,,,,;
-116034,z & r consulting limited,,,,,,,,,,,,;
-116037,z & r motorcycles limited,,,,,,,,,,,,;
-116038,z & r online ltd,,,,,,,,,,,,;
-116040,z & r hyder investments limited,,,,,,,,,,,,;
-116041,z & s associates limited,,,,,,,,,,,,;
-116042,z & s (brighton) ltd,,,,,,,,,,,,;
-116043,z & s blinds ltd,,,,,,,,,,,,;
-116045,z & s (broadwater) ltd,,,,,,,,,,,,;
-116046,z & s carpentry ltd,,,,,,,,,,,,;
-116047,z & s care ltd,,,,,,,,,,,,;
-116048,z & s (hove) limited,,,,,,,,,,,,;
-116049,z & s constructions ltd,,,,,,,,,,,,;
-116051,z & s direct ltd,,,,,,,,,,,,;
-116052,z & s enterprises limited,,,,,,,,,,,,;
-116054,z & s linked ltd,,,,,,,,,,,,;
-116055,z & s mohsini limited,,,,,,,,,,,,;
-116056,z & son limited,,,,,,,,,,,,;
-116057,z & s (lewes road) ltd,,,,,,,,,,,,;
-116058,z & s (poets) ltd,,,,,,,,,,,,;
-116059,z & s plumbing and heating ltd,,,,,,,,,,,,;
-116060,z & s developments ltd,,,,,,,,,,,,;
-116061,z & s (portslade) ltd,,,,,,,,,,,,;
-116063,z & s properties limited,,,,,,,,,,,,;
-116067,z & s professional services ltd,,,,,,,,,,,,;
-116068,z & t limited,,,,,,,,,,,,;
-116069,z and s trading ltd,,,,,,,,,,,,;
-116070,z & s shine ltd,,,,,,,,,,,,;
-116072,z & s scotland ltd,,,,,,,,,,,,;
-116074,z & v ceren limited,,,,,,,,,,,,;
-116075,z & u online ltd,,,,,,,,,,,,;
-116076,z and t house moves limited,,,,,,,,,,,,;
-116077,z & t hair treatments ltd,,,,,,,,,,,,;
-116078,z and w ltd,,,,,,,,,,,,;
-116080,z and v consulting limited,,,,,,,,,,,,;
-116082,z & y limited,,,,,,,,,,,,;
-116083,z & zalik limited,,,,,,,,,,,,;
-116084,z & z accountants limited,,,,,,,,,,,,;
-116085,z & z (burnley) limited,,,,,,,,,,,,;
-116087,z & z amin ltd,,,,,,,,,,,,;
-116088,z & y accounting ltd,,,,,,,,,,,,;
-116089,z & z aslam (perth) ltd,,,,,,,,,,,,;
-116090,z and z associates limited,,,,,,,,,,,,;
-116091,z & z aslam limited,,,,,,,,,,,,;
-116094,z and z design and build limited,,,,,,,,,,,,;
-116095,z and z delights limited,,,,,,,,,,,,;
-116097,z and z management ltd,,,,,,,,,,,,;
-116098,z & z corporation ltd,,,,,,,,,,,,;
-116100,z & z london ltd,,,,,,,,,,,,;
-116101,z & z properties limited,,,,,,,,,,,,;
-116102,z & z medical ltd,,,,,,,,,,,,;
-116106,z & z removals limited,,,,,,,,,,,,;
-116107,z a optics limited,,,,,,,,,,,,;
-116109,z& z solicitors limited,,,,,,,,,,,,;
-116110,z a pizza limited,,,,,,,,,,,,;
-116112,z a signature ltd,,,,,,,,,,,,;
-116113,z a service station ltd,,,,,,,,,,,,;
-116114,z a scot ltd,,,,,,,,,,,,;
-116115,z a rashid ltd,,,,,,,,,,,,;
-116117,z a r a  c o l l e c t i o n ltd,,,,,,,,,,,,;
-116118,z a properties management ltd,,,,,,,,,,,,;
-116119,z a s investments ltd,,,,,,,,,,,,;
-116120,z a product limited,,,,,,,,,,,,;
-116121,z a t consultants ltd,,,,,,,,,,,,;
-116122,z a traders ltd,,,,,,,,,,,,;
-116123,z a store ltd,,,,,,,,,,,,;
-116130,z a training limited,,,,,,,,,,,,;
-116131,z a utilities limited,,,,,,,,,,,,;
-116132,z axis international inc limited,,,,,,,,,,,,;
-116133,z aziz ltd,,,,,,,,,,,,;
-116134,z a trading group limited,,,,,,,,,,,,;
-116135,z .a. zaman locum ltd,,,,,,,,,,,,;
-116137,z axis limited,,,,,,,,,,,,;
-116138,z a w fishing ltd,,,,,,,,,,,,;
-116140,z avenue records ltd,,,,,,,,,,,,;
-116141,z babakordi limited,,,,,,,,,,,,;
-116142,z barber ltd,,,,,,,,,,,,;
-116143,z b accountants limited,,,,,,,,,,,,;
-116144,z b & co limited,,,,,,,,,,,,;
-116145,z aziz properties limited,,,,,,,,,,,,;
-116146,z beautyy ltd,,,,,,,,,,,,;
-116147,z b consultants ltd,,,,,,,,,,,,;
-116148,z b d enterprises limited,,,,,,,,,,,,;
-116149,z b builders limited,,,,,,,,,,,,;
-116150,z b cars ltd,,,,,,,,,,,,;
-116151,z barber shop ltd,,,,,,,,,,,,;
-116152,z. bhanji limited,,,,,,,,,,,,;
-116153,z besty'z limited,,,,,,,,,,,,;
-116154,z bistro ltd,,,,,,,,,,,,;
-116155,z bert ltd,,,,,,,,,,,,;
-116156,z barber club ltd,,,,,,,,,,,,;
-116157,z b enterprise ltd,,,,,,,,,,,,;
-116158,z belting limited,,,,,,,,,,,,;
-116160,z beds limited,,,,,,,,,,,,;
-116161,z bond nominees ltd,,,,,,,,,,,,;
-116162,z box ltd,,,,,,,,,,,,;
-116163,z b m a properties ltd,,,,,,,,,,,,;
-116164,z booths ltd,,,,,,,,,,,,;
-116165,z books and hounds ltd,,,,,,,,,,,,;
-116166,z cap ltd.,,,,,,,,,,,,;
-116168,z cabs limited,,,,,,,,,,,,;
-116169,z bryan tm limited,,,,,,,,,,,,;
-116171,z brothers garden services ltd,,,,,,,,,,,,;
-116172,z bridal studio limited,,,,,,,,,,,,;
-116173,z cares social care consulting ltd,,,,,,,,,,,,;
-116174,z branch limited,,,,,,,,,,,,;
-116175,z cares ltd,,,,,,,,,,,,;
-116176,z care professionals ltd,,,,,,,,,,,,;
-116179,z capital global partners limited,,,,,,,,,,,,;
-116180,z capital asset ltd,,,,,,,,,,,,;
-116182,z cars & van ltd,,,,,,,,,,,,;
-116183,z cars bury ltd,,,,,,,,,,,,;
-116184,z cars bristol limited,,,,,,,,,,,,;
-116185,z cars express limited,,,,,,,,,,,,;
-116186,z cars (north east) limited,,,,,,,,,,,,;
-116187,z cars south gloucestershire limited,,,,,,,,,,,,;
-116191,z c development limited,,,,,,,,,,,,;
-116192,z cars london limited,,,,,,,,,,,,;
-116194,z catering limited,,,,,,,,,,,,;
-116195,z. carz ltd,,,,,,,,,,,,;
-116196,z caterers limited,,,,,,,,,,,,;
-116197,z cars (wrexham) ltd,,,,,,,,,,,,;
-116201,z clad project limited,,,,,,,,,,,,;
-116202,z civils limited,,,,,,,,,,,,;
-116204,z charge ltd,,,,,,,,,,,,;
-116205,z chaudhry services ltd,,,,,,,,,,,,;
-116206,z construction ltd,,,,,,,,,,,,;
-116207,z cons trans limited,,,,,,,,,,,,;
-116209,z coach & tours ltd,,,,,,,,,,,,;
-116211,z chandos place ltd,,,,,,,,,,,,;
-116212,z class apparel ltd,,,,,,,,,,,,;
-116213,z class limited,,,,,,,,,,,,;
-116214,z commodities limited,,,,,,,,,,,,;
-116216,z consulting ltd,,,,,,,,,,,,;
-116217,z consultants limited,,,,,,,,,,,,;
-116219,z consult limited,,,,,,,,,,,,;
-116220,z consultancy limited,,,,,,,,,,,,;
-116223,z corp export limited,,,,,,,,,,,,;
-116224,z corp ltd,,,,,,,,,,,,;
-116225,z (corps) international limited,,,,,,,,,,,,;
-116226,z daniel limited,,,,,,,,,,,,;
-116227,z d limited,,,,,,,,,,,,;
-116228,z cyber limited,,,,,,,,,,,,;
-116229,z c trade co. ltd,,,,,,,,,,,,;
-116230,z c services ltd,,,,,,,,,,,,;
-116231,z covent garden holdco limited,,,,,,,,,,,,;
-116232,z cosmetic clinic ltd,,,,,,,,,,,,;
-116233,z c samuels ltd,,,,,,,,,,,,;
-116234,z dec ltd,,,,,,,,,,,,;
-116235,z d company services ltd,,,,,,,,,,,,;
-116237,z. d. drive limited,,,,,,,,,,,,;
-116238,z d'avignon strategic consultancy ltd,,,,,,,,,,,,;
-116239,z dar traders ltd,,,,,,,,,,,,;
-116240,z dar ltd,,,,,,,,,,,,;
-116241,z designs studio ltd,,,,,,,,,,,,;
-116242,z des ltd,,,,,,,,,,,,;
-116243,z design limited,,,,,,,,,,,,;
-116245,z. dudhia & company limited,,,,,,,,,,,,;
-116246,z desai eyecare services limited,,,,,,,,,,,,;
-116247,z dudhia holdings ltd,,,,,,,,,,,,;
-116248,z d property management limited,,,,,,,,,,,,;
-116249,z direct ltd,,,,,,,,,,,,;
-116250,z d medicals limited,,,,,,,,,,,,;
-116251,z d ellis limited,,,,,,,,,,,,;
-116253,z e europe limited,,,,,,,,,,,,;
-116254,z devices limited,,,,,,,,,,,,;
-116255,z design uk  limited,,,,,,,,,,,,;
-116257,z educational consultancy ltd,,,,,,,,,,,,;
-116258,z edition ltd,,,,,,,,,,,,;
-116259,z e cafe cinos limited,,,,,,,,,,,,;
-116260,z dudov limited,,,,,,,,,,,,;
-124213,zelis careers,,,,2016,,,,,information technology & services,,,;
-124216,zenoti careers,,,,2010,,,,,computer software,,,;
-124328,zuumers careers,,,,2017,,,,,consumer electronics,,,;
-124983,zoom careers,,,,2011,,,,,information technology & services,,,;
-125055,zenlist careers,,,,2017,,,,,real estate,,,;
-136415,zhangzhou pientzehuang pharmaceutical. ltd,china,,,,,doll_31.41 m,,,,,,;
-136604,zebra technologies corporation,united states,,,,,doll_31.36 m,,,,,,michael a. smith;
-136657,zimmer biomet holdings,united states,,,,,doll_31.42 m,,,,,,christopher b. begley;
-136867,zoominfo technologies inc.,united states,,,,,doll_25.54 m,,,,,,henry schuck;
-136989,zhejiang huayou cobalt co. ltd,china,,,,,doll_23.09 m,,,,,,;
-137661,zions bancorporation national association,united states,,,,,doll_9.38 m,,,,,,;
-138255,zhejiang huafeng spandex co. ltd,china,,,,,doll_9.63 m,,,,,,;
-139154,zhejiang huahai pharmaceutical,china,,,,,doll_3.72 m,,,,,,;
-140183,zhe jiang hai liang co. ltd,china,,,,,doll_3.32 m,,,,,,;
-141220,zhihu inc.,china,,,,,doll_5.38 m,,,,,,;
-141871,zhejiang starry pharmaceutical,china,,,,,doll_1.43 m,,,,,,;
-142759,zhende medical,china,,,,,doll_1.08 m,,,,,,;
-142760,zhejiang dun'an artificial environment co. ltd,china,,,,,doll_0.96 m,,,,,,;
-143634,zbom home collection,china,,,,,doll_1.11 m,,,,,,;
-147095,zhangzhou pientzehuang pharmaceutical. ltd,china,,,,,doll_37.28 b,,doll_354.0 m,,,,;
-147669,zhejiang huayou cobalt co. ltd,china,,,,,doll_18.6 b,,doll_567.0 m,,,,;
-148935,zhejiang huafeng spandex co. ltd,china,,,,,doll_7.74 b,,doll_342.0 m,,,,;
-149834,zhejiang huahai pharmaceutical,china,,,,,doll_5.21 b,,doll_71.0 m,,,,;
-150863,zhe jiang hai liang co. ltd,china,,,,,doll_3.73 b,,doll_161.0 m,,,,;
-153439,zhende medical,china,,,,,doll_1.87 b,,doll_87.0 m,,,,;
-154314,zbom home collection,china,,,,,doll_1.52 b,,0.0,,,,;
-180584,zagrebačka banka,,zagreb,,1914,,,,,financials,banks,,;
-181245,zagrebačka banka,,zagreb,,1914,,,,,financials,banks,,;
+id,name,country,address,founded,employees,market_cap,revenue,profit,categories,ceo,city
+74,zydus cadila,,,1952.0,,,,,['pharma'],,
+176001,zensar technologies,india,,,,doll_0.00151 b,doll_0.531 b,doll_0.052 b,"['technology', 'software and it']",not found,"pune, india"
+50242,zomato,india,,2008.0,3755.0,doll_0.541 b,doll_0.525 b,doll_-0.151 b,"['online food delivery', 'internet or mobile app based business', 'food service', 'technology', 'retail', 'ecommerce']",deepinder goyal,
+516,zs,,,1983.0,,,,,['management consulting'],,
+676,zf rane automotive,,,,,,,,['auto components'],,
+1022,zf steering gear,,,1915.0,,,,,['auto components'],,
+1191,zuventus healthcare,,,2002.0,,,,,['pharma'],,
+132802,zydus wellness,india,,,,doll_0.11699999999999999 b,doll_0.027000000000000003 b,doll_0.039 b,"['consumer defensive', 'food and beverage', 'beverages', 'food products', 'fmcg', 'package foods']",not found,
+158150,zte corporation,china,,,72584.0,doll_0.02225 b,doll_0.017991 b,doll_0.00107 b,"['technology', 'mobiles', 'mobiles & accessories', 'telecom equipment', 'network hardware and software', 'networking products / solutions', 'software and it', 'communications equipment']",xu ziyang,
+1397,zoho,,,1996.0,,,,,['software product'],,
+1410,zydus lifesciences,india,"zydue tower, satellite cross road, ahmedabad, 380015",1952.0,13405.0,doll_0.5469999999999999 b,doll_0.001856 b,doll_0.562 b,"['healthcare', 'healthcare products', 'pharmaceutical']",not found,
+1464,zydus healthcare,,,,,,,,,,
+1517,ziqitza health care,,,2005.0,,,,,['healthcare'],,
+150502,zee entertainment enterprises,india,,,3429.0,doll_0.00233 b,doll_0.0010249999999999999 b,doll_0.121 b,"['communication services', 'media', 'advertising', 'broadcasting', 'entertainment', 'movies / entertainment', 'entertainment', 'music', 'music, movies & posters', 'television services']",not found,
+1833,zealous services,,,2007.0,,,,,['bpo'],,
+1988,zycus infotech,,,1997.0,,,,,['software product'],,
+2196,zolo,,,2015.0,,,,,['internet'],,
+2209,zeetech management and marketing,,,2011.0,,,,,,,
+2225,zoomcar,,,2012.0,,,,,['internet'],,
+101632,zara,italy,,1974.0,,,doll_0.0017 b,,['apparel retailers'],,arteixo
+2368,zetwerk manufacturing businesses,,,2018.0,,,,,['iron & steel'],,
+2448,zimetrics technologies,,,2015.0,,,,,['it services & consulting'],,
+2622,zf wind power,,,1923.0,,,,,['power'],,
+2731,zf india technology center,,,1915.0,,,,,['auto components'],,
+2771,zovian technologies,,,2016.0,,,,,['it services & consulting'],,
+2778,zydex industries,,,1997.0,,,,,['chemicals'],,
+3004,zebronics,,,1997.0,,,,,['consumer electronics & appliances'],,
+3115,zydus hospital,,,2015.0,,,,,['healthcare'],,
+3320,zim laboratories,,,1984.0,,,,,['pharma'],,
+3323,zee laboratories,,,1993.0,,,,,['pharma'],,
+3368,zuari agro chemicals,,,1967.0,,,,,['agro chemicals'],,
+3452,zepto,,,2021.0,,,,,['internet'],,
+43201,zee learn,india,,,,doll_0.02689 b,doll_0.03698 b,doll_0.00029 b,['education'],,
+4033,zyoin,,,2005.0,,,,,['recruitment'],,
+4028,zamil steel buildings india,,,2008.0,,,,,['engineering & construction'],,
+4092,zscaler softech,,,2008.0,,,,,['software product'],,
+4335,zee media corporation,,,1999.0,,,,,['media & entertainment'],,
+4519,zodiac clothing company,,,1984.0,,,,,['fashion & textile'],,
+13218,zeta,united states,,2015.0,,,,,['fintech'],,san francisco
+5102,zf group,,,,,,,,['auto components'],,
+5478,zerodha,india,,2010.0,1100.0,doll_3.9579999999999997 b,,0.0,"['brokerage services', 'stock markets, trading, capital markets', 'trading', 'software and it']",not found,
+5580,zucol group,,,2010.0,,,,,['it services & consulting'],,
+5737,zeco aircon,,,1989.0,,,,,['industrial machinery'],,
+5806,ziff davis performance marketing,,,2005.0,,,,,['marketing & advertising'],,
+133440,zeta global,united states,,2007.0,1434.0,doll_0.179 b,doll_0.05500000000000001 b,doll_0.028999999999999998 b,"['artificial intelligence', 'technology', 'software and it']",not found,
+6373,zudio,,,,,,,,['retail'],,
+6440,zcl chemicals,,,1991.0,,,,,['pharma'],,
+6604,zacks research,,,1978.0,,,,,['financial services'],,
+6685,zunroof tech,,,2016.0,,,,,['power'],,
+6993,zamil,,,1920.0,,,,,['financial services'],,
+7037,zydus hospira oncology,,,,,,,,,,
+7146,zopper,,,2011.0,,,,,['internet'],,
+7381,zigma technologies,,,2004.0,,,,,['it services & consulting'],,
+7357,zivame.com,,,2011.0,,,,,['fashion & textile'],,
+7385,zicom electronic security systems,,,1994.0,,,,,['consumer electronics & appliances'],,
+7412,zahran operation & maintenance,,,1975.0,,,,,['it services & consulting'],,
+7432,zee news,,,1999.0,,,,,['broadcasting'],,
+7724,zenith precision,,,1986.0,,,,,['aviation'],,
+7731,zenith leisure holidays,,,1997.0,,,,,['travel & tourism'],,
+7849,zinnov management consulting,,,2002.0,,,,,['management consulting'],,
+8036,zeiss pharma,,,2014.0,,,,,['pharma'],,
+8136,zenq,,,2003.0,,,,,['it services & consulting'],,
+8258,ztt,,,1992.0,,,,,['industrial machinery'],,
+8370,zeon lifesciences,,,1987.0,,,,,['healthcare'],,
+8492,zenith software,,,1996.0,,,,,['it services & consulting'],,
+8569,zinghr,,,2002.0,,,,,['it services & consulting'],,
+8605,zen technologies,,,1993.0,,,,,['consumer electronics & appliances'],,
+8856,zieta technologies,,,2001.0,,,,,['it services & consulting'],,
+9044,zopsmart technology,,,2014.0,,,,,['software product'],,
+9219,zydus takeda healthcare,,,1781.0,,,,,['pharma'],,
+9415,zensoft services,,,2013.0,,,,,['it services & consulting'],,
+9536,zentiva,,,1962.0,,,,,['pharmaceuticals'],,bucharest
+101193,zifo rnd solutions,india,,2008.0,,,doll_0.04486 b,,['technology'],,
+9775,zymr systems,,,2012.0,,,,,['it services & consulting'],,
+11186,zspaautotradeoãå(12828916),,,,,,,,,,
+11489,zopa,united kingdom,,,,,doll_0.0546 b,,['fintech'],,london
+13592,zihaiguo,china,,,,,,,['consumer & retail'],,chongqing
+11589,zwift,united states,,,,,,,['e-commerce & direct-to-consumer'],,long beach
+13506,zhaogang,china,,,,,,,['e-commerce & direct-to-consumer'],,shanghai
+11648,zhuan zhuan,china,,,,,,,['e-commerce & direct-to-consumer'],,beijing
+13485,zebec,united states,,,,,,,['fintech'],,san francisco
+11723,zego,united kingdom,,,,,,,['fintech'],,london
+13346,zip,united states,,,,,,,['fintech'],,san francisco
+11962,zenoti,united states,,,,,,,['internet software & services'],,bellevue
+13114,zenbusiness,united states,,,,,,,['fintech'],,austin
+13123,zhubajie,china,,,,,,,['internet software & services'],,chongqing
+12057,zocdoc,united states,,,,,,,['health'],,new york
+12082,zigbang,south korea,,,,,,,['mobile & telecommunications'],,seoul
+12096,zilch,united kingdom,,,,,,,['fintech'],,london
+12184,zume,united states,,,,,,,['consumer & retail'],,mountain view
+12220,zetwerk,india,,,,,,,['internet software & services'],,bengaluru
+12882,zipline,united states,,,,,,,"['supply chain, logistics, & delivery']",,south san francisco
+161376,zuoyebang,china,,2014.0,,doll_3.9579999999999997 b,,0.0,['edtech'],not found,beijing
+12753,zapier,united states,,,,,,,['internet software & services'],,sunnyvale
+12439,zepz,united kingdom,,,,,,,['fintech'],,london
+138306,ziroom,china,,,,0.0,,0.0,"['rent / lease services', 'consumer services']",not found,beijing
+12520,zongmu technology,china,,,,,,,['auto & transportation'],,shanghai
+48515,zurich insurance group ag,switzerland,"mythenquai 2, zuerich, 8002",1872.0,55000.0,doll_7.358 b,doll_0.065801 b,doll_0.005203 b,"['financial services', 'insurance']",mario greco,
+41280,zoetis,united states,,1952.0,12100.0,doll_8.574 b,doll_0.778 b,doll_0.20400000000000001 b,"['pharmaceuticals', 'biotech']",juan ramón alaix,
+22083,zijin mining,china,,,,doll_4.470000000000001 b,doll_3.918 b,doll_0.511 b,['mining'],,
+56003,zimmer biomet,united states,,,19500.0,doll_2.58 b,doll_0.784 b,doll_0.4016 b,['health care equipment & services'],bryan c. hanson,
+41447,zoom,united states,,,,doll_2.0309999999999997 b,doll_0.434 b,doll_0.041999999999999996 b,"['tech', 'internet', 'software']",,
+27716,z holdings,japan,,,,doll_1.888 b,,,['internet'],,
+27620,zto express,china,,,,doll_2.322 b,doll_0.523 b,doll_0.11599999999999999 b,['courier'],,
+168800,zscaler,united states,,2007.0,3153.0,doll_1.6469999999999998 b,doll_0.86 b,doll_-0.262 b,"['technology', 'software and it', 'cloud services', 'software products', 'software and it infrastructure']",jay chaudhry,
+21929,zoominfo,united states,,,2742.0,doll_1.145 b,doll_0.101 b,doll_0.019 b,"['software', 'tech']",,
+22464,zillow,united states,,,,doll_1.019 b,doll_0.9630000000000001 b,doll_0.028999999999999998 b,"['realestate', 'internet', 'tech']",,
+64897,zai lab,china,,,1194.0,doll_0.445 b,doll_0.144 b,doll_-0.704 b,"['healthcare', 'healthcare products', 'biotechnology', 'biopharmaceutical']",not found,
+20067,zee entertainment,india,,,,doll_0.271 b,doll_0.10700000000000001 b,doll_0.014000000000000002 b,"['entertainment', 'media/press']",,
+129347,zhihu,china,,,,doll_0.11299999999999999 b,doll_0.435 b,doll_-0.216 b,['internet or mobile app based business'],not found,
+15593,zengame technology,china,,,,doll_0.028999999999999998 b,doll_0.023 b,doll_0.09397 b,"['video games', 'entertainment']",,
+33728,zordix,sweden,,,,doll_0.04206 b,,,"['video games', 'entertainment']",,
+15843,zovio,united states,,,,doll_0.00317 b,doll_0.019 b,doll_0.04889 b,['education'],,
+33760,zk international group,china,,,,doll_0.0313 b,doll_0.0994 b,doll_0.00436 b,['steel-industry '],,
+63717,zynerba pharmaceuticals,united states,,,28000.0,doll_0.02776 b,,doll_0.035840000000000004 b,['pharmaceuticals'],,
+40876,zion oil & gas,united states,,,,doll_0.038590000000000006 b,,doll_0.00894 b,['oil-gas energy '],,
+43715,zentek,canada,,,,doll_0.014000000000000002 b,doll_0.00016 b,doll_0.01175 b,,,
+54240,zimvie,united states,,,2700.0,doll_0.022 b,doll_0.094 b,doll_0.015 b,['medical-devices '],,
+40064,zomedica pharmaceuticals,united states,,,,doll_0.018 b,doll_0.01685 b,doll_0.02115 b,"['pharmaceuticals', 'biotech']",,
+25799,zevia,united states,,,,doll_0.028999999999999998 b,doll_0.016 b,doll_0.07887999999999999 b,['beverages'],,
+39488,zumiez,united states,,,8800.0,doll_0.047 b,doll_0.001183 b,doll_0.119 b,"['consumer cyclical', 'apparels and accessories', 'consumer services', 'retail']",not found,
+163073,zur rose group ag,switzerland,"walzmuehlestrasse 60, frauenfeld, 8500",,,doll_0.049 b,doll_0.19 b,doll_-0.234 b,"['healthcare', 'pharmacy', 'healthcare service', 'ecommerce', 'internet or mobile app based business', 'retail']",mr. walter  oberhã¤nsli,
+62690,zerofox,united states,,,,doll_0.053000000000000005 b,doll_0.08505 b,doll_0.073 b,"['it security', 'software', 'tech']",,
+32032,zynex,united states,,,,doll_0.064 b,doll_0.014000000000000002 b,doll_0.02441 b,['medical-devices '],,
+65227,zensar,india,,,,doll_0.062 b,doll_0.06 b,doll_0.06305 b,['professional services'],,
+60512,zymeworks,canada,,,,doll_0.062 b,doll_0.02734 b,doll_0.023 b,"['pharmaceuticals', 'biotech']",,
+44578,zeal network,germany,,,,doll_0.078 b,doll_0.09481 b,doll_0.009 b,"['consumer cyclical', 'lottery', 'gambling', 'gaming', 'internet or mobile app based business']",dr. helmut  becker,
+135580,zealand pharma,denmark,,,,doll_0.081 b,,doll_-0.137 b,"['pharmaceuticals', 'biotech']","dr. emmanuel  dulac pharm.d., pharmd, ph.d., mba",
+131617,zuora,united states,,,1393.0,doll_0.089 b,doll_0.038 b,doll_-0.099 b,"['software', 'tech']",not found,
+18276,zentalis pharmaceuticals,united states,,,,doll_0.142 b,,doll_0.023 b,"['pharmaceuticals', 'biotech']",,
+38048,zhejiang jinke tom culture industry,china,,,,doll_0.16699999999999998 b,doll_0.027000000000000003 b,0.0,"['communication services', 'gaming']",not found,
+37892,zug estates holding,switzerland,,,,doll_0.187 b,doll_0.074 b,doll_0.078 b,['real estate'],not found,
+59072,ziprecruiter,united states,,,,doll_0.194 b,doll_0.091 b,doll_0.07321 b,"['staffing & employment services', 'internet', 'tech']",,
+93408,zim integrated shipping services,israel,"9 andrei sakharov street, p.o. box 15067, haifa, 3190500",1945.0,3782.0,doll_0.22000000000000003 b,doll_1.0699999999999998 b,doll_0.46399999999999997 b,['shipping'],eliyahu glickman,
+46016,zain saudi arabia,saudi arabia,,,,doll_0.255 b,,,['telecommunication'],,
+36736,zurn water solutions,united states,,,,doll_0.398 b,doll_0.02 b,doll_0.098 b,['utility companies'],,
+58048,ziff davis,united states,"114 5th avenue, new york, 10011",,4900.0,doll_0.39 b,doll_0.13999999999999999 b,doll_0.496 b,"['technology', 'software and it', 'telecom', 'software products', 'telecom equipment', 'software and it infrastructure']",not found,
+19978,zain saudi arabia,saudi-arabia,,,,doll_0.256 b,,,['telecommunication '],,
+29505,zhejiang century huatong,china,,,,doll_0.429 b,doll_0.186 b,doll_0.338 b,"['consumer cyclical', 'plastics / plastic products', 'automobile', 'automobile parts']",not found,
+20806,zhongan insurance,china,,,,doll_0.508 b,doll_0.05 b,doll_0.08528 b,['insurance '],,
+50638,zurich airport,switzerland,,,,doll_0.51 b,,,"['airports', 'infrastructure']",,
+64801,zoomlion,china,,,,doll_0.734 b,doll_0.6559999999999999 b,doll_0.063 b,['machinery-manufacturing manufacturing '],,
+148704,zozo,japan,,,1158.0,doll_0.00876 b,doll_0.001213 b,doll_0.252 b,"['consumer cyclical', 'ecommerce', 'retail', 'internet or mobile app based business', 'technology']",not found,
+28644,zions bancorporation,united states,,,,doll_0.7110000000000001 b,doll_0.303 b,doll_0.10600000000000001 b,,,
+169890,zendesk,united states,,,5860.0,doll_0.962 b,doll_0.001338 b,doll_-0.223 b,"['technology', 'software and it', 'software products']",not found,
+47138,zalando,germany,"valeska-gert-strasse 5, berlin, 10243",2008.0,14194.0,doll_0.019100000000000002 b,doll_0.01141 b,doll_0.258 b,"['consumer cyclical', 'ecommerce', 'apparels and accessories', 'textile', 'readymade clothing', 'retail', 'internet or mobile app based business']",david schneider,
+27972,zhongsheng group,china,,,,doll_1.473 b,doll_2.747 b,doll_0.198 b,"['retail', 'carrental']",,
+168969,zebra technologies corporation,united states,"3 overlook point, lincolnshire, illinois, 60069",1969.0,9800.0,doll_2.1870000000000003 b,doll_0.5599999999999999 b,doll_0.837 b,"['technology', 'computers hardware', 'technology hardware and instruments', 'printers', 'communications equipment']",anders gustafsson,
+95104,zte,china,,1985.0,,doll_1.78 b,doll_1.764 b,doll_0.10500000000000001 b,['telecommunication'],zi yang xu,
+70337,zoetis inc.,united states,"10 sylvan way, parsippany, new jersey, 07054",1952.0,12100.0,doll_8.982 b,doll_0.78 b,,['pharmaceuticals and healthcare'],ms. kristin c. peck,
+157792,zijin mining group co ltd,china,"no. 1, zijin avenue, shanghang county, longyan, fujian, 364200",,43876.0,doll_4.393 b,doll_3.721 b,doll_0.002462 b,"['basic materials', 'mining', 'metals', 'gold mining', 'copper mining', 'precious metals']",shui qing lin,
+91621,z holdings corp,japan,"kioi tower, 1-3, kioi-cho, chiyoda-ku, tokyo, 102-8282",,22531.0,doll_3.4240000000000004 b,doll_1.4 b,,['technology and communications'],mr. kentaro  kawabe,
+71360,"zoom video communications, inc.",united states,"55 almaden boulevard, 6th floor, san jose, california, 95113",2011.0,6787.0,doll_3.322 b,doll_0.41 b,doll_0.13799999999999998 b,"['communication services', 'software and it', 'cloud services', 'network hardware and software']",eric yuan,san jose
+68736,"zscaler, inc.",united states,,2007.0,3153.0,doll_3.103 b,doll_0.673 b,,,mr. jagtar singh chaudhry,
+125731,zhangzhou pientzehuang pharmaceutical. ltd,china,"no. 1 hupo road, xiangcheng district, zhangzhou, fujian, 363000",,2526.0,doll_3.117 b,doll_0.12 b,doll_0.354 b,"['healthcare', 'pharmaceutical', 'healthcare products']",wei qi lin,
+91906,"zimmer biomet holdings, inc.",united states,"345 e main st, warsaw, indiana, 46580-2746",1927.0,19500.0,doll_2.694 b,doll_0.7824 b,doll_0.401 b,"['healthcare', 'medical equipment', 'healthcare products']",bryan c. hanson,
+96832,zto express (cayman) inc.,china,,2002.0,22536.0,doll_2.205 b,0,doll_0.747 b,"['industries', 'courier', 'logistics', 'transportation', 'freight transport']",mr. meisong  lai,
+136867,zoominfo technologies inc.,united states,,2007.0,2742.0,doll_2.123 b,doll_0.747 b,doll_0.116 b,"['technology', 'software and it', 'communication services']",henry schuck,
+73126,zhejiang huayou cobalt co. ltd,china,"no. 18 wuzhen east road, tongxiang economic development zone, jiaxing, zhejiang, 314500",,8079.0,doll_1.92 b,doll_0.55 b,doll_0.567 b,"['basic materials', 'mining', 'metals', 'cobalt mining', 'nickel', 'copper mining']",not found,
+73361,zimplats holdings limited,united kingdom,,,,doll_0.248 b,,,,"mr. alexander  mhembere a.c.i.s., a.c.m.a., m.b.a., acis, acma, mba",
+73914,zoetic international plc,united kingdom,,,,doll_0.1574 b,,,,not found,
+88747,zotefoams plc,united kingdom,,,,doll_0.154 b,,,,"mr. david b. stirling c.a., m.b.a., m.sc., b.sc., bsc ca, mba, msc",
+88834,zoo digital group plc,united kingdom,,,,doll_0.1406 b,,,,dr. stuart a. green,
+74109,zephyr energy plc,united kingdom,,,,doll_0.1013 b,,,,mr. john colin harrington,
+75237,züblin immobilien holding ag,,,,,doll_0.0882 b,,,,mr. roland  friederich,
+109312,zhejiang zheneng electric power,china,"no. 1, zhengtai road, zhengtai industrial park, beibaixiang town, yueqing, zhejiang, 325603",,10465.0,doll_4.696 b,doll_1.1 b,doll_-0.124 b,"['utilities', 'energy', 'electricity generation', 'power generation']",not found,
+75281,zhongjin gold corp ltd,,,,22759.0,doll_3.8340000000000005 b,,,,not found,
+76554,zai lab limited,,,,1951.0,doll_4.607 b,,,,dr. ying  du ph.d.,
+75777,zhejiang china commodities city group,china,,,,doll_0.00378 b,doll_0.878 b,doll_0.194 b,['real estate'],not found,
+129952,zhengzhou coal mining machinery group company,china,"no 167, ninth avenue, zhengzhou, henan, 450016",,17415.0,doll_0.00327 b,doll_0.45 b,doll_0.283 b,"['industries', 'mining', 'automobile', 'automobile parts']",not found,
+171009,zhejiang dingli machinery,china,,,,doll_0.00152 b,doll_0.719 b,doll_0.129 b,"['industries', 'heavy machinery', 'machinery manufacturing']",not found,
+75843,zhejiang xinan chemical industrial group,china,,,5766.0,doll_0.306 b,,0.0,"['basic materials', 'chemicals', 'agriculture related']",not found,
+152353,zhaojin mining industry company,china,"no. 118 wenquan road, zhaoyuan city, yantai, shandong , 265400",,,doll_0.00269 b,doll_0.11000000000000001 b,0.0,"['basic materials', 'mining', 'gold mining']",not found,
+160512,zhejiang hisun pharmaceutical,china,"xunqiao, linhai city, taizhou, zhejiang, 317024",,1359.0,doll_0.0020800000000000003 b,doll_0.291 b,doll_0.071 b,"['healthcare', 'pharmaceutical', 'healthcare products']",not found,
+160512,zhejiang hisun pharmaceutical,china,"xunqiao, linhai city, taizhou, zhejiang, 317024",,1359.0,doll_0.0020800000000000003 b,doll_0.291 b,doll_0.071 b,"['healthcare', 'pharmaceutical', 'healthcare products']",not found,
+142976,"zhejiang gongdong medical technology co.,ltd.",china,,,,doll_1.688 b,,0.0,"['healthcare', 'medical equipment']",not found,
+130976,zhejiang sanmei chemical industry,china,"no. 2288, zhapu binhai avenue, jiaxing, zhejiang, 314201",,,doll_0.00206 b,doll_0.13999999999999999 b,doll_0.263 b,"['basic materials', 'chemicals']",not found,
+160512,zhejiang hisun pharmaceutical,china,"xunqiao, linhai city, taizhou, zhejiang, 317024",,1359.0,doll_0.0020800000000000003 b,doll_0.291 b,doll_0.071 b,"['healthcare', 'pharmaceutical', 'healthcare products']",not found,
+76066,zhejiang medicine co. ltd,,,,5835.0,doll_1.471 b,,,,not found,
+173824,zhejiang hisun pharmaceutical,china,"xunqiao, linhai city, taizhou, zhejiang, 317024",,1359.0,doll_0.0020800000000000003 b,doll_0.291 b,doll_0.071 b,"['healthcare', 'pharmaceutical', 'healthcare products']",not found,
+160512,zhejiang hisun pharmaceutical,china,"xunqiao, linhai city, taizhou, zhejiang, 317024",,1359.0,doll_0.0020800000000000003 b,doll_0.291 b,doll_0.071 b,"['healthcare', 'pharmaceutical', 'healthcare products']",not found,
+76086,zhongyuan bank co. ltd,,,,13396.0,doll_1.643 b,,,,not found,
+76095,"zhejiang cfmoto power co.,ltd",,,,1912.0,doll_1.348 b,,,,not found,
+76098,zhejiang sanwei rubber item co. ltd,,,,2907.0,doll_1.351 b,,,,not found,
+76122,zhongmin energy co. ltd,,,,,doll_1.3820000000000001 b,,,,not found,
+130976,zhejiang sanmei chemical industry,china,"no. 2288, zhapu binhai avenue, jiaxing, zhejiang, 314201",,,doll_0.00206 b,doll_0.13999999999999999 b,doll_0.263 b,"['basic materials', 'chemicals']",not found,
+153217,zhejiang orient financial holdings group,china,"no. 12 xihu avenue, hangzhou, zhejiang, 310006",,,doll_1.228 b,doll_0.27 b,doll_0.095 b,"['financial services', 'asset management']",not found,
+141571,zhejiang kaishan compressor,china,,,,doll_0.00225 b,,0.0,"['industries', 'industry machinery']",not found,
+153223,zhejiang huatie emergency equipment science & technology,china,,,,doll_0.00117 b,,0.0,"['industries', 'rent / lease services', 'construction equipment']",not found,
+173636,zhejiang jiecang linear motion technology,china,,,,doll_0.00283 b,doll_0.384 b,doll_0.039 b,"['industries', 'industry machinery']",not found,
+153485,zhejiang daily digital culture group,china,,,,doll_0.00134 b,,0.0,"['communication services', 'internet or mobile app based business']",not found,
+76239,zhejiang narada power source co. ltd,,,,7469.0,doll_1.082 b,,,,not found,
+129345,zhengzhou yutong bus,china,"no. 6, yutong road, huizu district, guancheng, zhengzhou, henan, 450061",,,doll_0.392 b,doll_0.0032559999999999998 b,doll_0.077 b,"['consumer cyclical', 'bus manufacturing', 'commercial vehicles', 'automobile', 'construction equipment']",not found,
+76306,zhongji innolight co. ltd,,,,5815.0,doll_2.271 b,,,,not found,
+160512,zhejiang hisun pharmaceutical,china,"xunqiao, linhai city, taizhou, zhejiang, 317024",,1359.0,doll_0.0020800000000000003 b,doll_0.291 b,doll_0.071 b,"['healthcare', 'pharmaceutical', 'healthcare products']",not found,
+76314,"zhejiang hangke technology, inc. company",,,,1819.0,doll_2.288 b,,,,not found,
+107106,zhejiang expressway,china,"12f, block a, huanglong century plaza, no. 1, hangda road, hangzhou, zhejiang, 310020",,8957.0,doll_0.386 b,doll_0.25 b,doll_0.693 b,"['industries', 'infrastructure']",not found,
+160388,zhuzhou hongda electronics,china,,,1579.0,doll_0.00514 b,doll_0.291 b,doll_0.119 b,"['technology', 'electronics', 'capital goods']",not found,
+158883,zhuzhou crrc times electric,china,"times road, shifeng district, zhuzhou, hunan, 412001",,,doll_0.01199 b,doll_0.002373 b,doll_0.317 b,"['industries', 'railway']",not found,
+160512,zhejiang conba pharmaceutical,china,"xunqiao, linhai city, taizhou, zhejiang, 317024",,6655.0,doll_0.0020800000000000003 b,doll_0.291 b,doll_0.071 b,"['healthcare', 'pharmaceutical', 'healthcare products']",not found,
+171429,zhongan online p & c insurance,china,,,3033.0,doll_0.537 b,doll_0.003444 b,doll_0.183 b,"['financial services', 'insurance']",mr. jiang  xing,
+76522,zhejiang orient gene biotech co. ltd,,,,1591.0,doll_3.418 b,,,,not found,
+127905,zhejiang longsheng group,china,"no.1 longsheng avenue, daoxu street, shangyu district, shaoxing, zhejiang, 312368",,,doll_0.657 b,doll_0.26 b,doll_0.491 b,"['basic materials', 'chemicals']",not found,
+76549,zhejiang weiming environment protection,china,,,,doll_0.00557 b,doll_0.609 b,doll_0.223 b,"['industries', 'waste and trash management']",not found,
+127716,zhuzhou kibing group,china,,,,doll_3.776 b,doll_0.002287 b,doll_0.664 b,"['industries', 'solar power devices', 'glass products', 'construction materials', 'home improvement', 'building products and equipment']",not found,
+76600,zanlakol ltd,,,,,doll_0.0029 b,,,,not found,
+128001,zhejiang jiuzhou pharmaceutical co. ltd,china,,,2998.0,doll_0.631 b,doll_0.591 b,doll_0.092 b,"['healthcare', 'pharmaceutical', 'healthcare products']",not found,
+159619,zheshang securities,china,,,16272.0,doll_0.00793 b,doll_0.002387 b,doll_0.319 b,"['financial services', 'stock markets, trading, capital markets']",not found,
+76697,zwahlen & mayr sa,,,,,doll_0.013300000000000001 b,,,,mr. luigi  mion,
+76875,zhongtai securities co. ltd,,,,7758.0,doll_5.636 b,,,,not found,
+77377,zapf creation ag,,,,,doll_0.18009999999999998 b,,,,not found,
+77383,zaim credit systems plc,,,,,doll_184789,,,,mr. siro donato cicconi,
+77427,zvi sarfati & sons investments & constructions ltd,,,,,doll_0.49710000000000004 b,,,,mr. rafi  sarfati,
+77459,zur shamir holdings ltd,,,,,doll_0.826 b,,,,mr. moshe  schneidman,
+77461,z.m.h hammerman ltd,,,,,doll_0.8432999999999999 b,,,,mr. haim  feiglin,
+169892,zhejiang jingsheng mechanical & electrical,china,,,,doll_0.01482 b,doll_0.867 b,doll_0.249 b,"['technology', 'semiconductors']",not found,
+77569,zhejiang chint electrics co. ltd,,,,28127.0,doll_8.599 b,,,,mr. cunhui  nan,
+155777,zehnder group ag,switzerland,,,,doll_0.11699999999999999 b,doll_0.697 b,doll_0.059 b,"['industries', 'home appliances', 'home improvement', 'building products and equipment']",not found,
+154273,zhuguang holdings group company,hong kong,,,,doll_0.00217 b,doll_0.011076 b,doll_0.393 b,['real estate'],not found,
+106017,zhongyu gas holdings,hong kong,"unit nos 04-06, 28th floor, china merchant tower, shun tak centre, 168-200 connaught road central, hong kong",,4497.0,doll_0.7298 b,doll_0.15 b,doll_0.151 b,"['utilities', 'natural gas distribution', 'gas utilities']",mr. wing yuen  chan,
+78474,zhejiang yongan rongtong holdings co. ltd,,,,,doll_0.056799999999999996 b,,,,ms. lianfeng  he,
+78494,zhong hua international holdings ltd,,,,,doll_0.07590000000000001 b,,,,not found,
+78510,zioncom holdings ltd,,,,,doll_0.0475 b,,,,mr. ja chun  koo,
+78654,zz capital international ltd,,,,4436.0,doll_0.10600000000000001 b,,,,mr. yulin  jiang,
+78685,zhaobangji properties holdings ltd,,,,,doll_0.3 b,,,,mr. chusheng  xu,
+79224,"zenvia, inc.",,,,,0,,,,mr. cassio  bobsin machado,
+110081,zhongsheng group holdings,china,"no.20 hequ street, shahekou district, dalian, liaoning , 100007",,29293.0,doll_1.605 b,doll_2.71 b,doll_0.0013080000000000001 b,['retailing'],guo qiang li,
+79361,zte corp,china,"no. 55, keji south road, shenzhen, guangdong, 518057",,72584.0,doll_1.7600000000000002 b,doll_1.78 b,,['technology and communications'],mr. ziyang  xu,
+142114,zuger kantonalbank,switzerland,,,,doll_0.217 b,doll_0.228 b,doll_0.078 b,"['financial services', 'banking services']",mr. hanspeter  rhyner,
+79710,zignsec ab,,,,,doll_0.2948 b,,,,not found,
+79791,ziccum ab ,,,,,doll_0.09209999999999999 b,,,,ms. frida  hjelmberg,
+79926,zaplox ab,,,,,doll_0.07809999999999999 b,,,,mr. even  frydenberg,
+79956,zetadisplay ab,,,,,doll_0.714 b,,,,not found,
+79969,zinzino ab ,,,,,doll_0.12919999999999998 b,,,,not found,
+80087,"zambal spain socimi, sa",,,,,doll_0.7617999999999999 b,,,,mr. guy  de clercq,
+80179,zeder investments ltd,,,,,doll_0.0503 b,,,,mr. johannes hendrik le roux gr (sa),
+129376,zooplus ag,germany,"sonnenstrasse 15, muenchen, 80331",,,doll_0.0038900000000000002 b,doll_0.0018 b,doll_0.018 b,"['consumer cyclical', 'retail']",dr. cornelius  patt,
+80469,zespól elektrocieplowni wroclawskich kogeneracja sa,,,,,doll_0.0866 b,,,,not found,
+80872,zymeworks inc.,,,,,doll_0.30469999999999997 b,,,,mr. kenneth h. galbraith c.a.,
+80917,zen graphene solutions ltd,,,,,doll_0.2311 b,,,,mr. gregory  fenton c.f.a.,
+81124,zenabis global inc.,,,,,doll_0.1166 b,,,,not found,
+81633,zutec holding ab,,,,,doll_0.301 b,,,,not found,
+81996,zilltek technology corp,,,,,doll_1.714 b,,,,not found,
+82218,zenitron corp,taiwan,"no. 8  lane 250, sinhu 2nd road, neihu district, taipei, 114",,,doll_0.8310000000000001 b,doll_0.15 b,,['technology and communications'],mr. chun-hsien  chou,
+82220,zeng hsing industrial co. ltd,,,,3437.0,doll_0.836 b,,,,mr. chih-cheng  lin,
+82238,zig sheng industrial co. ltd,,,,,doll_0.8800000000000001 b,,,,not found,
+82244,zongtai real estate development co. ltd,,,,,doll_0.721 b,,,,not found,
+82295,zippy technology corp,,,,,doll_0.6519999999999999 b,,,,not found,
+82557,zhong yang technology,taiwan,,,,doll_0.36 b,doll_0.04503 b,,['industrial goods'],not found,
+82613,"zero one technology co.,ltd.",,,,,doll_0.561 b,,,,mr. mou chiang  you,
+82615,zinwell corp,,,,,doll_0.562 b,,,,not found,
+82931,"zozo, inc.",,,,1297.0,doll_98.51599999999999 b,,,,kotaro  sawada,
+83074,zensho holdings co. ltd,japan,"8f, jr shinagawa east bldg., 2-18-1, konan, minato-ku, tokyo, 108-0075",,15929.0,doll_44.574 b,doll_0.5900000000000001 b,,['leisure and arts'],mr. kentaro  ogawa,
+83109,"zenkoku hosho co.,ltd.",,,,,doll_34.037 b,,,,not found,
+83158,zeon corp,japan,"14f, shin marunouchi center bldg., 1-6-2, marunouchi, chiyoda-ku, tokyo, 100-8246",,3981.0,doll_30.395999999999997 b,doll_0.32 b,,['chemicals'],mr. kimiaki  tanaka,
+83491,zojirushi corp,,,,1304.0,doll_9.786 b,,,,mr. norio  ichikawa,
+83671,"zuken, inc.",,,,1445.0,doll_6.8469999999999995 b,,,,mr. jinya  katsube,
+83688,zeria pharmaceutical co. ltd,,,,1690.0,doll_8.679 b,,,,mr. sachiaki  ibe,
+140160,"zardoya otis, s.a.",spain,,1853.0,70000.0,doll_0.381 b,doll_0.889 b,doll_0.144 b,"['industries', 'industry machinery']",not found,
+84547,zhongmin baihui retail group ltd,,,,,doll_0.1266 b,,,,mr. kaitong  chen,
+84665,zhongxin fruit and juice ltd,,,,,doll_0.0296 b,,,,not found,
+84714,zacd group ltd,,,,,doll_0.1254 b,,,,mr. choon guan  yeo,
+84717,"zico holdings, inc.",,,,,doll_0.0222 b,,,,not found,
+84836,zicom group limited,,,,,doll_0.016 b,,,,"mr. yew sim  kok b.sc., bsc, eee (hons)",
+107728,z energy limited,new zealand,"3 queens wharf, wellington, 6011",,,doll_0.182 b,doll_0.35 b,,['energy and utilities'],not found,
+85032,zoono group limited,,,,,doll_0.045700000000000005 b,,,,mr. paul  hyslop,
+85776,zaklady azotowe pulawy sa,,,,,doll_0.3457 b,,,,not found,
+86013,zahrat al waha for trading company,,,,,doll_0.134 b,,,,mr. george abdul karim george moussa,
+86024,zamil industrial investment company,,,,,doll_0.159 b,,,,mr. abdulla  bin mohammed abdullah al zamil,
+132737,zignago vetro,italy,viale ita marzotto 8,,,doll_0.10500000000000001 b,doll_0.362 b,doll_0.06 b,"['consumer cyclical', 'packaging']",not found,fossalta di portogruaro
+151362,zip co limited,australia,,,,doll_0.819 b,,doll_-0.765 b,['financial services'],mr. larry  diamond,
+87606,zeotech limited,,,,,doll_0.08259999999999999 b,,,,not found,
+87747,zenith minerals limited,,,,,doll_0.1263 b,,,,mr. michael joseph clifford,
+87938,zona franca de iquique sa,,,,,doll_8.120000000000001 b,,,,not found,
+88190,zorlu enerji elektrik üretim a.s.,,,,2373.0,doll_0.368 b,,,,not found,
+89391,ziga innovation public company ltd,,,,,doll_0.356 b,,,,mr. suppakit  ngamchitcharoen,
+89715,zen corp group public company ltd,,,,,doll_0.36 b,,,,mr. boonyong  tansakul,
+90059,"zillow group, inc.",,,,8005.0,doll_1.315 b,,,,mr. richard n. barton,
+120128,"zendesk, inc.",united states,989 market st,,,doll_1.381 b,,,,mr. mikkel asger svane,san francisco
+126987,zions bancorporation national association,united states,,,9685.0,doll_1.06 b,doll_0.0029230000000000003 b,doll_1.088 b,"['financial services', 'banking services']",not found,
+122357,zynga inc.,united states,1200 park pl,,,doll_1.0630000000000002 b,,,,mr. frank d. gibeau,san mateo
+93286,zions bancorp,united states,,,,doll_0.923 b,doll_0.296 b,doll_0.11200000000000002 b,['banking'],harris h. simmons,
+93599,zoomlion heavy industry,china,,1992.0,,doll_0.5349999999999999 b,doll_1.04 b,doll_0.9749 b,['capital goods'],chun xin zhan,
+93618,zhongliang holdings ,china,,,,doll_0.968 b,doll_1.181 b,doll_0.419 b,['construction'],chun lei huang,
+152579,zhongyuan bank,china,,,,doll_0.00292 b,doll_0.5429999999999999 b,doll_0.437 b,"['financial services', 'banking services']",not found,
+155652,zheshang development group,china,,,,doll_0.974 b,doll_2.7800000000000002 b,doll_0.1166 b,"['industries', 'conglomerate']",duan qing zhang,
+137092,zhejiang chint electrics,china,,1997.0,25140.0,doll_1.688 b,doll_0.005656 b,doll_0.495 b,"['industries', 'electrical products']",not found,
+107106,zhejiang expressway,china,"12f, block a, huanglong century plaza, no. 1, hangda road, hangzhou, zhejiang, 310020",,8957.0,doll_0.386 b,doll_0.25 b,doll_0.693 b,"['industries', 'infrastructure']",not found,
+94195,zall smart commerce group,china,,,,doll_0.698 b,doll_1.6199999999999999 b,doll_-0.1792 b,['construction'],"zhi ping qi, zhi yan",
+100328,zego,uk,,2016.0,224000.0,,doll_0.01216 b,,['fintech'],,
+98337,zega invest,germany,,2017.0,4000.0,,doll_0.00379 b,,['property'],,
+102657,zeck fishing,germany,,2013.0,25000.0,,doll_0.006809999999999999 b,,['retail'],,
+98668,zara imballaggi fabriano,italy,,1984.0,6000.0,,doll_0.0023 b,,['industrial goods'],,
+97704,zia lucia,uk,,2016.0,43000.0,,doll_0.004849999999999999 b,,['restaurants'],,
+97714,zenâup,france,,2014.0,,,doll_0.00189 b,,['insurance'],,
+103221,zanatta media group,germany,,2007.0,9000.0,,doll_0.00838 b,,['advertising'],,
+103385,zimmerei nordmann,germany,,2009.0,11000.0,,doll_0.00207 b,,['construction'],,
+100096,zinox laser,italy,,2015.0,47000.0,,doll_0.00636 b,,['interiors'],,
+98187,zero,italy,,2014.0,37000.0,,doll_0.042 b,,['energy'],,
+102929,zen’up,france,,2014.0,,,doll_0.00189 b,,['insurance'],,
+100729,zeal digital,australia,,2015.0,,,doll_0.00209 b,,['advertising'],,
+100596,zairyo,singapore,,2014.0,,,doll_0.00211 b,,['ecommerce'],,
+100628,zonneplan,netherlands,,2012.0,,,doll_0.05442 b,,['energy'],,
+101051,zenmarket,japan,,2014.0,,,doll_0.06731999999999999 b,,['ecommerce'],,
+101103,zemoso,india,,2012.0,,,doll_0.0062 b,,['technology'],,
+101320,zuu,japan,,2013.0,,,doll_0.016980000000000002 b,,['fintech'],,
+102117,zeitwerk personal,germany,,2015.0,,,doll_0.00442 b,,['support services'],,
+102474,zelená pošta,slovakia,,2012.0,,,doll_0.00164 b,,['support services'],,
+102642,zia lucia holdings,uk,,2016.0,,,doll_0.00368 b,,['restaurants'],,
+102772,zoot group,czech republic,,2012.0,,,doll_0.0375 b,,['retail'],,
+103150,zukunftsenergie fichtelgebirge,germany,,2011.0,,,doll_0.0053 b,,['energy'],,
+104712,zac personalservice,germany,,2013.0,,,doll_0.0046 b,,['support services'],,
+103610,zimmerei peter stock,germany,,2011.0,,,doll_0.0027400000000000002 b,,['construction'],,
+104300,ziegler logistik,germany,,2010.0,,,doll_0.0273 b,,['transport'],,
+104657,zebra systems,czech republic,,1993.0,,,doll_0.00463 b,,['cyber security'],,
+104835,zoomici,france,,2000.0,,,doll_0.02573 b,,['retail'],,
+105246,zhejiang weixing new building materials co ltd,china,"linhai economic development zone, taizhou, zhejiang, 317000",,4419.0,doll_0.54 b,doll_0.9903 b,,['construction'],,
+160512,zhejiang conba pharmaceutical,china,"xunqiao, linhai city, taizhou, zhejiang, 317024",,6655.0,doll_0.0020800000000000003 b,doll_0.291 b,doll_0.071 b,"['healthcare', 'pharmaceutical', 'healthcare products']",not found,
+105419,zscaler inc,united states,"120 holger way, san jose, california, 95134",,4975.0,doll_1.6300000000000001 b,doll_0.11000000000000001 b,,['technology and communications'],,
+105589,zumiez inc,united states,"4001 204th st sw, lynnwood, washington, 98036",,2500.0,doll_0.4594 b,doll_0.12 b,,['retailing'],,
+105698,zimplats holdings ltd,united kingdom,"1st and 2nd floors, elizabeth house, les ruettes brayes, saint peter port, gy11ew",,3712.0,doll_0.21000000000000002 b,doll_0.12 b,,['metals and mining'],,
+105842,zendesk inc,united states,"989 market street, san francisco, california, 94103",,6540.0,0,doll_0.13 b,,['technology and communications'],,
+141570,zhejiang medicine,china,"no. 168 zhiyuanzhong avenue, binhai xincheng, shaoxing, zhejiang, 312366",,,doll_0.253 b,doll_0.13999999999999999 b,doll_0.152 b,"['healthcare', 'pharmaceutical']",not found,
+170343,zozo inc,japan,"15-16f, wbg marive west,2-6-1, nakase, mihama-ku, chiba-shi, chubu , 263-0023",,,doll_0.011380000000000001 b,doll_0.15 b,doll_0.252 b,"['consumer cyclical', 'retail', 'ecommerce']",not found,
+106144,zhongshan broad-ocean motor co ltd,china,"no. 1 guangfeng industrial avenue, west district, zhongshan, guangdong, 528411",,12704.0,doll_0.19 b,doll_0.16 b,,['industrial goods and machinery'],,
+106556,zenith bank plc,nigeria,"plot 84, ajose adeogun street, victoria island",,8152.0,doll_0.16999999999999998 b,doll_0.19 b,,['financial services'],,
+138913,zhefu holding group,china,"no. 630, xinhua road, jianghan district, wuhan, hubei, 430024",,,doll_0.00563 b,doll_0.002057 b,doll_0.336 b,"['industries', 'industry machinery']",not found,
+156161,zensun enterprises,hong kong,"24th floor, wyndham place, 40-44 wyndham street, central, hong kong",,,doll_0.00134 b,doll_0.001953 b,doll_0.058 b,['real estate'],not found,
+107083,zhejiang nhu co ltd,china,"18f, tower a, west lake international te, hangzhou, zhejiang, 310012",,1801.0,doll_0.8800000000000001 b,doll_0.25 b,,['alternative energy'],,
+151169,zhejiang semir garment,china,"no. 2689, lianhua south road, minhang district, shanghai, 201108",,3677.0,doll_0.0034100000000000003 b,doll_0.24 b,doll_0.216 b,"['consumer cyclical', 'apparels and accessories']",not found,
+158691,zhejiang sanhua intelligent controls,china,"xialiquan, qixing street, xinchang county, shaoxing, zhejiang, 312532",,14478.0,doll_1.402 b,doll_0.0025169999999999997 b,doll_0.265 b,"['industries', 'electronics', 'electrical products', 'refrigerators', 'industry machinery']",not found,
+127905,zhejiang longsheng group,china,"no.1 longsheng avenue, daoxu street, shangyu district, shaoxing, zhejiang, 312368",,,doll_0.657 b,doll_0.26 b,doll_0.491 b,"['basic materials', 'chemicals']",not found,
+107399,zions bancorporation na,united states,"one south main st, 17th fl, salt lake city, utah, 84133",,9685.0,doll_0.72 b,doll_0.3 b,,['financial services'],,
+108307,zain group,kuwait,"zain group head office bldg, airport road, shuwaikh, safat, po box 22244, 13083",,2659.0,doll_0.79 b,doll_0.5 b,,['technology and communications'],,
+108426,zhongyuan bank co ltd,china,"zhongke golden tower, no. 23 shangwu, waihuan road, zhengdong new district cb, zhengzhou, henan, 450000",,19953.0,doll_0.29 b,doll_0.54 b,,['financial services'],,
+108461,zhen ding technology holding ltd,united kingdom,"grand pavilion hibiscus way, 802 west bay road, p.o. box 31119, grand cayman, ky1-1205",,14919.0,doll_0.32999999999999996 b,doll_0.5599999999999999 b,,['technology and communications'],,
+174403,zhenro properties group,china,"1438 hongqiao road, changning district, shanghai, 200336",,,doll_0.00219 b,doll_0.005383 b,doll_0.118 b,['real estate'],not found,
+109312,zhejiang zheneng electric power,china,"no. 1, zhengtai road, zhengtai industrial park, beibaixiang town, yueqing, zhejiang, 325603",,10465.0,doll_4.696 b,doll_1.1 b,doll_-0.124 b,"['utilities', 'energy', 'electricity generation', 'power generation']",not found,
+109261,zoomlion heavy industry science and technology co ltd,china,"no.361 yinpen south road, changsha, hunan, 410013",,26036.0,doll_0.6900000000000001 b,doll_1.04 b,,['industrial goods and machinery'],,
+182145,zf friedrichshafen ag,germany,"lowentaler strasse 20, friedrichshafen, baden-wurttemberg, 88046",,,0,doll_4.529999999999999 b,,['industrial suppliers'],,friedrichshafen
+114183,zwibau finances limited,,,,,,,,,,
+115868,z ltd,,,,,,,,,,
+115871,z limited,,,,,,,,,,
+115879,z abz limited,,,,,,,,,,
+115881,z accountax ltd,,,,,,,,,,
+115885,zac z limited,,,,,,,,,,
+115887,z admin services ltd,,,,,,,,,,
+115888,z a developers ltd,,,,,,,,,,
+115890,z a h alsindi ltd,,,,,,,,,,
+115895,z ahmed logistic ltd,,,,,,,,,,
+115901,z akhtar holdings ltd,,,,,,,,,,
+115906,z a m holdings ltd,,,,,,,,,,
+115907,z. alam associates ltd,,,,,,,,,,
+115917,z & a motors ltd,,,,,,,,,,
+115921,z & b consultants limited,,,,,,,,,,
+115922,z & b ltd,,,,,,,,,,
+115926,z & c jewellery limited,,,,,,,,,,
+115927,z & c domestic services limited,,,,,,,,,,
+115928,z & co logistics limited,,,,,,,,,,
+115929,z & d goodrum ltd,,,,,,,,,,
+115931,z & daughters limited,,,,,,,,,,
+115933,z & d limited,,,,,,,,,,
+115935,z & co properties limited,,,,,,,,,,
+115936,z & e investments ltd,,,,,,,,,,
+115937,z &e halal meat ltd,,,,,,,,,,
+115938,z & e fashion limited,,,,,,,,,,
+115939,z & e legal consultancy limited,,,,,,,,,,
+115940,z & d rentals ltd,,,,,,,,,,
+115942,z & e property development company limited,,,,,,,,,,
+115947,z andersons limited,,,,,,,,,,
+115948,z & f group limited,,,,,,,,,,
+115949,z & f trading limited,,,,,,,,,,
+115951,z and f motors ltd,,,,,,,,,,
+115952,z & h holdings limited,,,,,,,,,,
+115953,z & g joinery limited,,,,,,,,,,
+115955,z & f interiors limited,,,,,,,,,,
+115956,z & g limited,,,,,,,,,,
+115957,z & h brothers limited,,,,,,,,,,
+115959,z + f uk properties limited,,,,,,,,,,
+115961,z & h consultancy services limited,,,,,,,,,,
+116034,z & r consulting limited,,,,,,,,,,
+115968,z & n properties limited,,,,,,,,,,
+115969,z & h logistics ltd,,,,,,,,,,
+115971,z & i transport ltd,,,,,,,,,,
+115972,z & i universal limited,,,,,,,,,,
+115976,z & j trading ltd,,,,,,,,,,
+115977,z & j leisure limited,,,,,,,,,,
+115979,z & j enterprises limited,,,,,,,,,,
+115981,z & k builder construction ltd,,,,,,,,,,
+115983,z & k butler ltd,,,,,,,,,,
+115984,z & k distributors limited,,,,,,,,,,
+115985,z & k import and export ltd,,,,,,,,,,
+115987,z & k kaspas ltd,,,,,,,,,,
+115990,z & k fleets ltd,,,,,,,,,,
+115991,z & k property investments ltd,,,,,,,,,,
+115994,z & l logistics ltd,,,,,,,,,,
+115995,z & k tyres ltd,,,,,,,,,,
+115997,z & k exeter ltd,,,,,,,,,,
+116000,z & m consultancy limited,,,,,,,,,,
+116005,z & m lifestyle limited,,,,,,,,,,
+116006,z & m management limited,,,,,,,,,,
+116007,z & m properties limited,,,,,,,,,,
+116008,z & n anaesthesia limited,,,,,,,,,,
+116009,z & n limited,,,,,,,,,,
+116011,z & m trade limited,,,,,,,,,,
+116012,z & m roofing limited,,,,,,,,,,
+116013,z & n kara limited,,,,,,,,,,
+116014,z & n healthcare limited,,,,,,,,,,
+116016,z & n investments trading limited,,,,,,,,,,
+116018,z & n pharma ltd,,,,,,,,,,
+116019,z & n t/a mr pats wakefield ltd,,,,,,,,,,
+116021,z & o limited,,,,,,,,,,
+116022,z and o fruits veg ltd,,,,,,,,,,
+116025,z & partners limited,,,,,,,,,,
+116026,z & p capital ltd,,,,,,,,,,
+116028,z & q enterprise limited,,,,,,,,,,
+116031,z & r holdings ltd,,,,,,,,,,
+116035,z & r car sales ltd,,,,,,,,,,
+116036,z & r logistics ltd,,,,,,,,,,
+116037,z & r motorcycles limited,,,,,,,,,,
+116038,z & r online ltd,,,,,,,,,,
+116039,z & r simply motors limited,,,,,,,,,,
+116040,z & r hyder investments limited,,,,,,,,,,
+116056,z & son limited,,,,,,,,,,
+116068,z & t limited,,,,,,,,,,
+116073,z & t ops uk limited,,,,,,,,,,
+116074,z & v ceren limited,,,,,,,,,,
+116079,z & w estates ltd,,,,,,,,,,
+116082,z & y limited,,,,,,,,,,
+116083,z & zalik limited,,,,,,,,,,
+116084,z & z accountants limited,,,,,,,,,,
+116085,z & z (burnley) limited,,,,,,,,,,
+116091,z & z aslam limited,,,,,,,,,,
+116092,z & z hotel investment management limited,,,,,,,,,,
+116093,z & z group property rental limited,,,,,,,,,,
+116096,z & z logistics ltd,,,,,,,,,,
+116099,z & z investment ltd,,,,,,,,,,
+116101,z & z properties limited,,,,,,,,,,
+116104,z and z sectech ltd,,,,,,,,,,
+116105,z & z properties investment ltd,,,,,,,,,,
+116106,z & z removals limited,,,,,,,,,,
+116108,z & z solutions limited,,,,,,,,,,
+116109,z& z solicitors limited,,,,,,,,,,
+116111,z & z security ltd,,,,,,,,,,
+116117,z a r a  c o l l e c t i o n ltd,,,,,,,,,,
+116124,z automotive group ltd,,,,,,,,,,
+116125,z autoz limited,,,,,,,,,,
+116126,z auto ltd,,,,,,,,,,
+116128,z audio digital ltd,,,,,,,,,,
+116129,z a transport ltd,,,,,,,,,,
+116132,z axis international inc limited,,,,,,,,,,
+116133,z aziz ltd,,,,,,,,,,
+116135,z .a. zaman locum ltd,,,,,,,,,,
+116136,z axis analytics ltd,,,,,,,,,,
+116137,z axis limited,,,,,,,,,,
+116139,z autoz repairs ltd,,,,,,,,,,
+116140,z avenue records ltd,,,,,,,,,,
+116141,z babakordi limited,,,,,,,,,,
+116142,z barber ltd,,,,,,,,,,
+116143,z b accountants limited,,,,,,,,,,
+116144,z b & co limited,,,,,,,,,,
+116145,z aziz properties limited,,,,,,,,,,
+116146,z beautyy ltd,,,,,,,,,,
+116148,z b d enterprises limited,,,,,,,,,,
+116149,z b builders limited,,,,,,,,,,
+116150,z b cars ltd,,,,,,,,,,
+116152,z. bhanji limited,,,,,,,,,,
+116153,z besty'z limited,,,,,,,,,,
+116154,z bistro ltd,,,,,,,,,,
+116155,z bert ltd,,,,,,,,,,
+116156,z barber club ltd,,,,,,,,,,
+116157,z b enterprise ltd,,,,,,,,,,
+116158,z belting limited,,,,,,,,,,
+116159,z b electrical services ltd,,,,,,,,,,
+116160,z beds limited,,,,,,,,,,
+116161,z bond nominees ltd,,,,,,,,,,
+116162,z box ltd,,,,,,,,,,
+116163,z b m a properties ltd,,,,,,,,,,
+116164,z booths ltd,,,,,,,,,,
+116166,z cap ltd.,,,,,,,,,,
+116167,z cad solutions limited,,,,,,,,,,
+116168,z cabs limited,,,,,,,,,,
+116169,z bryan tm limited,,,,,,,,,,
+116170,z b utilities ltd,,,,,,,,,,
+116172,z bridal studio limited,,,,,,,,,,
+116174,z branch limited,,,,,,,,,,
+116177,z capital holdings ltd,,,,,,,,,,
+116178,z british mainframe consulting ltd,,,,,,,,,,
+116179,z capital global partners limited,,,,,,,,,,
+116180,z capital asset ltd,,,,,,,,,,
+116181,z car hire ltd,,,,,,,,,,
+116183,z cars bury ltd,,,,,,,,,,
+116184,z cars bristol limited,,,,,,,,,,
+116185,z cars express limited,,,,,,,,,,
+116186,z cars (north east) limited,,,,,,,,,,
+116187,z cars south gloucestershire limited,,,,,,,,,,
+116188,z cars (exeter) ltd,,,,,,,,,,
+116189,z cars evolutions limited,,,,,,,,,,
+116190,z cars engineering limited,,,,,,,,,,
+116191,z c development limited,,,,,,,,,,
+116192,z cars london limited,,,,,,,,,,
+116194,z catering limited,,,,,,,,,,
+116195,z. carz ltd,,,,,,,,,,
+116196,z caterers limited,,,,,,,,,,
+116197,z cars (wrexham) ltd,,,,,,,,,,
+116198,z cars (st ives) ltd,,,,,,,,,,
+116199,z cars 2018 ltd,,,,,,,,,,
+116200,z cars taxis limited,,,,,,,,,,
+116201,z clad project limited,,,,,,,,,,
+116202,z civils limited,,,,,,,,,,
+116203,z cha holdco ltd,,,,,,,,,,
+116204,z charge ltd,,,,,,,,,,
+116205,z chaudhry services ltd,,,,,,,,,,
+116206,z construction ltd,,,,,,,,,,
+116207,z cons trans limited,,,,,,,,,,
+116208,z communications ltd,,,,,,,,,,
+116210,z commerce ltd,,,,,,,,,,
+116211,z chandos place ltd,,,,,,,,,,
+116212,z class apparel ltd,,,,,,,,,,
+116213,z class limited,,,,,,,,,,
+116214,z commodities limited,,,,,,,,,,
+116215,z contracts ltd,,,,,,,,,,
+116217,z consultants limited,,,,,,,,,,
+116218,z construction management ltd,,,,,,,,,,
+116219,z consult limited,,,,,,,,,,
+116220,z consultancy limited,,,,,,,,,,
+116222,z controls & automation ltd,,,,,,,,,,
+116223,z corp export limited,,,,,,,,,,
+116224,z corp ltd,,,,,,,,,,
+116226,z daniel limited,,,,,,,,,,
+116227,z d limited,,,,,,,,,,
+116228,z cyber limited,,,,,,,,,,
+116229,z c trade co. ltd,,,,,,,,,,
+116230,z c services ltd,,,,,,,,,,
+116231,z covent garden holdco limited,,,,,,,,,,
+116232,z cosmetic clinic ltd,,,,,,,,,,
+116233,z c samuels ltd,,,,,,,,,,
+116234,z dec ltd,,,,,,,,,,
+116235,z d company services ltd,,,,,,,,,,
+116236,z d communications ltd,,,,,,,,,,
+116237,z. d. drive limited,,,,,,,,,,
+116238,z d'avignon strategic consultancy ltd,,,,,,,,,,
+116239,z dar traders ltd,,,,,,,,,,
+116240,z dar ltd,,,,,,,,,,
+116241,z designs studio ltd,,,,,,,,,,
+116242,z des ltd,,,,,,,,,,
+116243,z design limited,,,,,,,,,,
+116244,z design consultancy limited,,,,,,,,,,
+116245,z. dudhia & company limited,,,,,,,,,,
+116246,z desai eyecare services limited,,,,,,,,,,
+116247,z dudhia holdings ltd,,,,,,,,,,
+116248,z d property management limited,,,,,,,,,,
+116249,z direct ltd,,,,,,,,,,
+116250,z d medicals limited,,,,,,,,,,
+116251,z d ellis limited,,,,,,,,,,
+116252,z. d. f. services ltd,,,,,,,,,,
+116253,z e europe limited,,,,,,,,,,
+116254,z devices limited,,,,,,,,,,
+116255,z design uk  limited,,,,,,,,,,
+116257,z educational consultancy ltd,,,,,,,,,,
+116259,z e cafe cinos limited,,,,,,,,,,
+116260,z dudov limited,,,,,,,,,,
+118956,zeor finanziaria spa,italy,"via di porta pinciana 4, roma, 00187, roma, italy",1999.0,,,,,"['finance, insurance, and real estate']",,
+119061,zurich investments life spa,italy,"via benigno crespi 23, milano, 20159, milano, italy",1952.0,,,,,"['finance, insurance, and real estate']",,
+119167,zucchetti group spa,italy,"via solferino 1, lodi, 26900, lodi, italy",1978.0,,,,,"['finance, insurance, and real estate']",,
+119395,zignago holding spa,italy,"viale ita marzotto 8, fossalta di portogruaro, 30025, venezia, italy",2002.0,,,,,"['finance, insurance, and real estate']",,
+119424,zambon company spa,italy,"via lillo del duca 10, bresso, 20091, milano, italy",1938.0,,,,,"['finance, insurance, and real estate']",,
+119470,zambon spa,italy,"via lillo del duca 10, bresso, 20091, milano, italy",1900.0,,,,,['manufacturing'],,
+119530,zanetti spa,italy,"via della madonna 1, lallio, 24040, bergamo, italy",1913.0,,,,,['wholesale trade'],,
+120088,"zeta associates, inc.",united states,10302 eaton place ste 500,,,,,,,,fairfax
+123200,zuckids srl,italy,via legnano 24,,,,,,,,rescaldina
+120623,zip co us inc.,united states,228 park ave s,,,,,,,,new york
+123458,zodia custody limited,united kingdom,thomas house 84 eccleston square,,,,,,,,london
+123464,zigzag global ltd,united kingdom,14th floor 33 cavendish square,,,,,,,,london
+120889,zurich italy bank spa,italy,via benigno crespi 23,,,,,,,,milano
+121454,zim italia srl,italy,via angelo scarsellini 119 torre b 119,,,,,,,,genova
+121548,"zara usa, inc.",united states,500 5th ave ste 400,,,,,,,,new york
+122664,zoffany limited,united kingdom,chalfont house oxford road,,,,,,,,uxbridge
+122678,zeneca holdings inc.,united states,1800 concord pike,,,,,,,,wilmington
+124996,zelis careers,,,2016.0,,,,,['information technology & services'],,
+124216,zenoti careers,,,2010.0,,,,,['computer software'],,
+124328,zuumers careers,,,2017.0,,,,,['consumer electronics'],,
+124433,zume pizza careers,,,2018.0,,,,,['food & beverages'],,
+124712,zaius careers,,,2012.0,,,,,['computer software'],,
+124892,zilliant careers,,,1999.0,,,,,['computer software'],,
+124914,zemax careers,,,1991.0,,,,,['computer software'],,
+124983,zoom careers,,,2011.0,,,,,['information technology & services'],,
+125055,zenlist careers,,,2017.0,,,,,['real estate'],,
+125664,z holdings corporation,japan,,,12874.0,doll_4.197 b,doll_0.011437 b,doll_0.564 b,"['consumer cyclical', 'internet or mobile app based business', 'software and it', 'ecommerce', 'media', 'advertising', 'retail']",kentaro kawabe,
+158661,zillow group,united states,,,8005.0,doll_0.02427 b,doll_0.008147 b,doll_-0.527 b,"['communication services', 'real estate', 'internet or mobile app based business', 'business services']",rich barton,
+158691,zhejiang sanhua intelligent controls,china,"xialiquan, qixing street, xinchang county, shaoxing, zhejiang, 312532",,14478.0,doll_1.402 b,doll_0.0025169999999999997 b,doll_0.265 b,"['industries', 'electronics', 'electrical products', 'refrigerators', 'industry machinery']",not found,
+158885,zhejiang nhu company,china,,,,doll_0.011980000000000001 b,doll_0.002153 b,doll_0.629 b,"['healthcare', 'chemicals', 'pharmaceutical', 'healthcare products']",not found,
+169892,zhejiang jingsheng mechanical & electrical,china,,,,doll_0.01482 b,doll_0.867 b,doll_0.249 b,"['technology', 'semiconductors']",not found,
+148259,zhejiang satellite petrochemical,china,,,3271.0,doll_1.15 b,doll_0.004482 b,doll_0.943 b,"['basic materials', 'chemicals', 'petrochemicals']",not found,
+126976,zangge holding company,china,,,,doll_1.101 b,doll_0.569 b,doll_0.224 b,"['basic materials', 'agriculture related']",not found,
+143303,zhejiang huangma technology,china,,,17251.0,doll_1.076 b,doll_0.004777999999999999 b,doll_0.025 b,"['technology', 'electronics', 'capital goods']",not found,
+137701,"zhongtai securities co., ltd.",china,,,,doll_0.01066 b,doll_0.173 b,doll_0.032 b,"['financial services', 'stock markets, trading, capital markets']",not found,
+170087,zayo group holdings,united states,,,,doll_1.807 b,,0.0,"['technology', 'telecom', 'utilities', 'telecom equipment', 'cloud services', 'data centers', 'optical fiber']",not found,
+148547,zoomlion heavy industry science and technology,china,,,,doll_0.9650000000000001 b,doll_0.010537000000000001 b,doll_0.989 b,"['industries', 'agriculture machinery', 'agriculture related', 'machinery manufacturing', 'construction equipment', 'heavy machinery', 'heavy vehicles']",not found,
+163585,zhejiang supor,china,,,12292.0,doll_0.00619 b,doll_0.002617 b,0.0,"['basic materials', 'chemicals']",not found,
+148935,zhejiang huafeng spandex co. ltd,china,,,,doll_0.774 b,doll_0.0022080000000000003 b,doll_0.342 b,"['basic materials', 'apparels and accessories', 'chemicals']",not found,
+76549,zhejiang weiming environment protection,china,,,,doll_0.00557 b,doll_0.609 b,doll_0.223 b,"['industries', 'waste and trash management']",not found,
+149217,zynga,united states,,,2245.0,doll_0.6719999999999999 b,doll_0.0028 b,doll_-0.104 b,"['communication services', 'technology', 'gaming']",not found,
+171009,zhejiang dingli machinery,china,,,,doll_0.00152 b,doll_0.719 b,doll_0.129 b,"['industries', 'heavy machinery', 'machinery manufacturing']",not found,
+127989,zhejiang yongtai technology,china,,,,doll_0.633 b,,doll_0.041 b,"['basic materials', 'chemicals']",,
+171045,zhongjin gold,china,,,,doll_0.0063 b,doll_0.008164 b,doll_0.247 b,"['basic materials', 'mining', 'gold mining', 'copper mining', 'platinum']",not found,
+160097,zhejiang weixing new building materials,china,,,,doll_0.00468 b,doll_0.001003 b,doll_0.192 b,"['industries', 'plastics / plastic products', 'construction materials', 'building products and equipment']",not found,
+138785,zhejiang hangke technology company,china,,,1400.0,doll_0.00604 b,doll_0.361 b,doll_0.034 b,"['industries', 'electrical products']",not found,
+139015,zotye automobile co. ltd,china,,,,doll_0.00551 b,doll_0.12 b,doll_-0.103 b,"['consumer cyclical', 'automobile', 'automobile parts']",not found,
+139105,zhongji innolight,china,,,,doll_0.00531 b,doll_0.0011200000000000001 b,doll_0.127 b,"['industries', 'industry machinery', 'technology']",not found,
+128485,zoox,united states,,,1274.0,doll_3.185 b,,0.0,"['artificial intelligence', 'technology', 'software and it']",not found,
+149890,"zhejiang orient gene biotech co., ltd.",china,,,1392.0,doll_0.515 b,doll_0.00148 b,doll_0.716 b,"['healthcare', 'biotechnology']",not found,
+150081,zibo qixiang tengda chemical co. ltd,china,,,2467.0,doll_0.00396 b,doll_0.005078 b,doll_0.348 b,"['basic materials', 'chemicals']",not found,
+129248,zhejiang cfmoto power,china,,,,doll_0.004 b,doll_0.0011439999999999998 b,doll_0.06 b,"['consumer cyclical', 'automobile', 'bikes', 'recreational vehicles']",not found,
+129505,zhe jiang hai liang co. ltd,china,,,8012.0,doll_0.373 b,doll_0.009231999999999999 b,doll_0.161 b,"['basic materials', 'copper mining']",not found,
+129696,zensho holdings,japan,,,14402.0,doll_0.0038399999999999997 b,doll_0.004804999999999999 b,doll_0.101 b,"['consumer cyclical', 'restaurants', 'food chains / distributor', 'food service']",not found,
+172791,zhejiang crystal-optech,china,,,6134.0,doll_0.00283 b,doll_0.554 b,doll_0.064 b,"['technology', 'electronics', 'capital goods']",not found,
+151115,zhen ding technology holding,taiwan,,,,doll_0.00347 b,doll_0.005123 b,doll_0.319 b,"['technology', 'electronics', 'semiconductors']",not found,
+151172,"zhejiang publishing & media co., ltd.",china,,,,doll_0.0034100000000000003 b,doll_0.001675 b,doll_0.194 b,"['communication services', 'publishing']",not found,
+140512,zhejiang shuanghuan driveline,china,,,,doll_0.00267 b,doll_0.792 b,doll_0.048 b,"['consumer cyclical', 'automobile', 'automobile parts']",not found,
+162115,"zentalis pharmaceuticals, inc.",united states,,,,doll_0.316 b,,doll_-0.158 b,"['healthcare', 'biopharmaceutical', 'biotechnology']",not found,
+75843,zhejiang xinan chemical industrial group,china,,,5766.0,doll_0.306 b,,0.0,"['basic materials', 'chemicals', 'agriculture related']",not found,
+162276,zenkoku hosho,japan,,,,doll_0.00302 b,doll_0.356 b,doll_0.203 b,['financial services'],not found,
+162307,zhongshan broad-ocean motor,china,,,,doll_0.0029 b,,0.0,"['consumer cyclical', 'automobile', 'automobile parts']",not found,
+162402,zhongtian financial group company,china,,,5950.0,doll_0.0029300000000000003 b,doll_0.714 b,doll_-0.934 b,['real estate'],not found,
+141220,zhihu inc.,china,,,,doll_0.00279 b,doll_0.431 b,doll_-0.214 b,"['internet or mobile app based business', 'technology']",not found,
+151911,"ziprecruiter, inc.",united states,,,,doll_0.27799999999999997 b,doll_0.741 b,doll_0.001 b,"['internet or mobile app based business', 'outsourcing and staffing', 'technology']",not found,
+141410,zhejiang jiuli hi-tech metals,china,,,,doll_0.265 b,,0.0,"['basic materials', 'iron and steel']",not found,
+162820,zeon corporation,japan,,,9122.0,doll_0.261 b,doll_0.0 b,doll_0.0 b,"['basic materials', 'chemicals', 'rubber products']",not found,
+141571,zhejiang kaishan compressor,china,,,,doll_0.00225 b,,0.0,"['industries', 'industry machinery']",not found,
+174085,zhejiang doyin pump industry,china,,,,doll_0.00204 b,,0.0,['pharmaceutical'],not found,
+163106,"zhonghong pulin medical products co., ltd.",china,,,,doll_0.23900000000000002 b,,0.0,"['healthcare', 'medical equipment']",not found,
+163139,zhongmin energy,china,,,,doll_0.23700000000000002 b,,0.0,"['utilities', 'electric utilities', 'renewable energy']",not found,
+152486,zhejiang sanwei rubber item,china,,,,doll_0.00235 b,,0.0,"['industries', 'industry machinery']",not found,
+152749,zhejiang jiemei electronic and technology,china,,,,doll_0.00196 b,,0.0,"['basic materials', 'chemicals']",not found,
+152802,zhe jiang taihua new material,china,,,,doll_0.217 b,,0.0,"['consumer cyclical', 'textile']",not found,
+163585,zhejiang windey,china,,,,doll_0.21200000000000002 b,,0.0,"['industries', 'industry machinery']",not found,
+153070,zhongshan public utilities group,china,,,,doll_0.002 b,doll_0.345 b,doll_0.213 b,"['utilities', 'water utilities']",not found,
+163750,zhejiang huace film & tv,china,,,,doll_0.20400000000000001 b,,0.0,"['communication services', 'entertainment']",not found,
+174788,zhejiang southeast space frame,china,,,,doll_0.20099999999999998 b,,0.0,"['industries', 'construction', 'metal fabrication products', 'iron and steel']",not found,
+153223,zhejiang huatie emergency equipment science & technology,china,,,,doll_0.00117 b,,0.0,"['industries', 'rent / lease services', 'construction equipment']",not found,
+132037,zhejiang wanfeng auto wheel,china,,,,doll_0.189 b,doll_0.00181 b,doll_0.048 b,"['consumer cyclical', 'automobile', 'automobile parts']",not found,
+132069,zhende medical,china,,,,doll_0.187 b,doll_0.741 b,doll_0.087 b,"['healthcare', 'medical equipment']",not found,
+153440,zhejiang dun'an artificial environment co. ltd,china,,,,doll_0.187 b,,0.0,"['industries', 'electronics', 'capital goods', 'industry machinery']",not found,
+153483,zhejiang meida industrial,china,,,,doll_0.185 b,,0.0,"['consumer cyclical', 'kitchen appliances', 'home furnishing']",not found,
+153538,zimplats holdings,channel islands,,,,doll_0.00182 b,,0.0,"['basic materials', 'mining', 'platinum', 'metals', 'precious metals']",not found,
+153632,zhejiang weixing industrial development,china,,,,doll_0.00099 b,,0.0,"['consumer cyclical', 'apparels and accessories']",not found,
+153735,zhejiang narada power source,china,,,,doll_0.174 b,doll_0.001724 b,doll_-0.199 b,"['industries', 'electrical products', 'batteries']",not found,
+175457,zhejiang guyuelongshan shaoxing wine,china,,,,doll_0.172 b,doll_0.229 b,doll_0.029 b,"['consumer defensive', 'alcoholic beverages', 'beverages']",not found,
+153864,zhejiang tiantie industry,china,,,,doll_0.0017900000000000001 b,,0.0,"['industries', 'railway']",not found,
+153956,zhuzhou times new material technology,china,,,,doll_0.00128 b,,0.0,"['basic materials', 'chemicals']",not found,
+143362,"zhejiang hailide new material co.,ltd",china,,,,doll_0.162 b,,0.0,"['basic materials', 'chemicals']",not found,
+154126,zhongfu information,china,,,,doll_0.159 b,,0.0,"['technology', 'software and it']",not found,
+175811,zhejiang yasha decoration,china,,,,doll_0.159 b,,0.0,"['consumer cyclical', 'home furnishing']",not found,
+154158,zeta global holdings corp.,united states,,,1434.0,doll_0.00158 b,doll_0.458 b,doll_-0.256 b,"['shell company', 'software and it']",not found,
+175840,zhou hei ya international holdings company,china,,,,doll_0.157 b,doll_0.418 b,doll_0.054 b,"['consumer defensive', 'fmcg', 'package foods', 'food products']",not found,
+164986,zbom home collection,china,,,,doll_0.00152 b,,0.0,"['consumer cyclical', 'furniture', 'home improvement', 'home furnishing']",not found,
+176070,zhejiang grandwall electric science&technology,china,,,,doll_0.00102 b,,0.0,"['industries', 'electrical products']",not found,
+143811,zhonghang electronic measuring instruments,china,,,,doll_0.00165 b,,0.0,"['technology', 'technology hardware and instruments']",not found,
+154857,"zhejiang lante optics co., ltd.",china,,,,doll_0.13999999999999999 b,,0.0,"['technology', 'semiconductors']",not found,
+165568,zanyu technology group,china,,,,doll_0.13899999999999998 b,,0.0,"['basic materials', 'chemicals']",not found,
+176613,"zhangjiagang guangda special material co., ltd.",china,,,,doll_0.0016799999999999999 b,,0.0,"['basic materials', 'iron and steel']",not found,
+154984,"zhejiang entive smart kitchen appliance co., ltd.",china,,,,doll_0.0009699999999999999 b,,0.0,"['consumer cyclical', 'home furnishing']",not found,
+155041,"zhuhai bojay electronics co.,ltd.",china,,,,doll_0.0013700000000000001 b,,0.0,"['industries', 'industry machinery']",not found,
+133696,zhejiang jingu company,china,,,,doll_0.00134 b,,0.0,"['consumer cyclical', 'automobile', 'automobile parts']",not found,
+155277,zhejiang huatong meat products,china,,,,doll_0.0012900000000000001 b,,0.0,"['consumer defensive', 'fmcg', 'package foods', 'food products']",not found,
+166020,zhejiang communications technology,china,,,,doll_0.0011200000000000001 b,,0.0,"['basic materials', 'chemicals']",not found,
+166049,z energy,new zealand,,,2451.0,doll_0.00126 b,doll_0.002464 b,doll_0.043 b,"['energy', 'oil and gas']",not found,
+144706,zhejiang rifa precision machinery,china,,,,doll_0.00126 b,,0.0,"['industries', 'office equipment']",not found,
+155392,zhejiang sunoren solar technology,china,,,,doll_0.00126 b,,0.0,"['technology', 'solar power devices']",not found,
+155407,"zhejiang yonghe refrigerant co., ltd.",china,,,,doll_0.00188 b,,0.0,"['basic materials', 'chemicals']",not found,
+134081,zhejiang asia-pacific mechanical & electronic,china,,,,doll_0.125 b,,0.0,"['consumer cyclical', 'automobile', 'automobile parts']",not found,
+166149,zhejiang tony electronic co. ltd,china,,,,doll_0.0010400000000000001 b,,0.0,"['industries', 'electrical products']",not found,
+155559,zhejiang garden bio-chemical high-tech,china,,,,doll_0.00117 b,,0.0,"['healthcare', 'pharmaceutical']",not found,
+134214,zhenjiang dongfang electric heating technology,china,,,,doll_0.122 b,,0.0,"['industries', 'industry machinery']",not found,
+177284,zhongnan red culture group,china,,,,doll_0.00092 b,,0.0,"['industries', 'industry machinery']",not found,
+155695,zad holding company,qatar,,,,doll_0.00111 b,doll_0.329 b,doll_0.052 b,"['consumer defensive', 'fmcg', 'package foods', 'food products']",not found,
+155754,zhuhai enpower electric,china,,,,doll_0.0011799999999999998 b,,0.0,"['consumer cyclical', 'automobile', 'automobile parts']",not found,
+166528,"zhejiang hugeleaf co.,ltd.",china,,,,doll_0.0012 b,,0.0,"['basic materials', 'agriculture related']",not found,
+134564,"zhejiang changhua auto parts co., ltd.",china,,,,doll_0.00114 b,,0.0,"['consumer cyclical', 'automobile parts']",not found,
+145253,"zhejiang mtcn technology co.,ltd",china,,,,doll_0.11299999999999999 b,,0.0,"['technology', 'semiconductors']",not found,
+155974,zhengzhou deheng hongsheng technology,china,,,,doll_0.0011200000000000001 b,,0.0,"['technology', 'semiconductors', 'heavy machinery']",not found,
+145409,zhejiang great southeastltd,china,,,,doll_0.0009699999999999999 b,,0.0,"['consumer cyclical', 'packaging']",not found,
+134814,zhuhai orbita aerospace science & technology,china,,,,doll_0.00108 b,,0.0,"['industries', 'aerospace and defense']",not found,
+156399,zhejiang shengyang science and technology,china,,,,doll_0.0010400000000000001 b,,0.0,"['technology', 'communications equipment']",not found,
+135043,"zylox-tonbridge medical technology co., ltd.",china,,,,doll_0.00103 b,,0.0,"['healthcare', 'medical equipment']",not found,
+167110,zhejiang zhongxin fluoride materials,china,,,,doll_0.00103 b,,0.0,"['basic materials', 'chemicals']",not found,
+156558,zhejiang zhongcheng packing material,china,,,,doll_0.0009699999999999999 b,,0.0,"['consumer cyclical', 'packaging']",,
+145904,"zhejiang chunhui intelligent control co., ltd.",china,,,,doll_0.00054 b,,0.0,"['industries', 'industry machinery']",,
+156699,zhejiang merit interactive network technology,china,,,,doll_0.992 b,,0.0,"['technology', 'software and it', 'telecom']",,
+146017,zhejiang longsheng group,china,,,,doll_0.657 b,,doll_0.491 b,"['basic materials', 'chemicals']",,
+156723,zhejiang qianjiang motorcycle,china,,,,doll_0.00102 b,,0.0,"['consumer cyclical', 'automobile', 'bikes', 'scooters', 'sports vehicles']",,
+156753,zhongman petroleum and natural gas group,china,,,,doll_0.979 b,,0.0,"['energy', 'oil and gas']",,
+135520,zinus,south korea,,,,doll_0.95 b,,doll_0.039 b,"['consumer cyclical', 'furniture', 'home furnishing']",,
+135545,zhuhai port,china,,,,doll_0.951 b,,0.0,"['industries', 'shipping']",,
+146237,zhongfu straits (pingtan) development company limited,china,,,,doll_0.954 b,,0.0,"['basic materials', 'wood products']",,
+135661,zhengzhou coal industry & electric power,china,,,,doll_0.926 b,,0.0,"['energy', 'coal mining', 'mining']",,
+146417,zogenix,united states,,,,doll_0.918 b,,doll_-0.209 b,"['healthcare', 'healthcare products', 'biotechnology', 'pharmaceutical']",,
+146426,zhongnongfa seed industry group,china,,,,doll_0.917 b,,0.0,"['consumer defensive', 'trading', 'agriculture products', 'farming / seeds / milling']",,
+146437,zhejiang huamei holding,china,,,,doll_0.00055 b,,0.0,"['communication services', 'publishing']",,
+153123,zhejiang xianju pharmaceutical,china,,,,doll_0.00159 b,,doll_0.089 b,"['healthcare', 'pharmaceutical', 'healthcare products']",,
+173033,zip co,australia,,,,doll_0.00323 b,doll_0.429 b,doll_-0.765 b,['financial services'],not found,
+183676,zinkia entertainment,,,2001.0,,,,,['broadcasting & entertainment'],,madrid
+178648,zootfly,,,2002.0,,,,,['software'],,ljubljana
+178683,zlatý bažant,,,1969.0,,,,,['brewers'],,hurbanovo
+178888,zmt sa,,,1917.0,,,,,['defense'],,tarnów
+183265,zeeman,,,1967.0,,,,,['apparel retailers'],,alphen aan den rijn
+183008,zagato,,,1919.0,,,,,['commercial vehicles & trucks'],,rho
+179536,zambon,,,1906.0,,,,,['pharmaceuticals'],,bresso
+179537,zamperla,,,1966.0,,,,,['recreational products'],,vicenza
+179538,zanussi,,,1916.0,,,,,['durable household products'],,pordenone
+179745,zen studios,,,2003.0,,,,,['software'],,budapest
+179746,zsolnay,,,1853.0,,,,,['durable household products'],,pécs
+179747,zwack,,,1790.0,,,,,['distillers & vintners'],,budapest
+180228,zeroturnaround,,,2007.0,,,,,['software'],,tartu
+181504,zentropa,,,1992.0,,,,,['broadcasting & entertainment'],,hvidovre
+180401,zetor,,,1946.0,,,,,['commercial vehicles & trucks'],,brno
+181243,zagreb film,,,1953.0,,,,,['broadcasting & entertainment'],,zagreb
+181244,zagreb stock exchange,,,1991.0,,,,,['financial services'],,zagreb
+180584,zagrebačka banka,,,1914.0,,,,,['banks'],,zagreb
+180585,zagrebačka pivovara,,,1892.0,,,,,['brewers'],,zagreb
+180586,zagrebački električni tramvaj,,,1891.0,,,,,['transportation services'],,zagreb
+180777,zetes,,,1984.0,,,,,['technology hardware'],,brussels
+180865,zumtobel lighting group,,,1950.0,,,,,['building materials & fixtures'],,dornbirn
+182146,ziehl-abegg se,,,1910.0,,,,,['electrical components & equipment'],,künzelsau
+182402,zante ferries,,,1991.0,,,,,['marine transportation'],,piraeus
+184590,zara (retailer),,,1975.0,,,,,,,moscow
+184594,zippo,,,1932.0,,,,,,,bradford
+184595,zyxel,,,1989.0,,,,,,,hsinchu science park
+2641,zuari cement,,,2000.0,,,,,['building material'],,
+9852,zone by the park chennai,,,2011.0,,,,,['hospitality'],,
+76528,zhejiang juhua co. ltd,,,,6778.0,doll_3.4799999999999995 b,,,,not found,
+76742,zenith steel pipes & industries ltd,,,,,doll_0.1928 b,,,,not found,
+76866,zoomlion heavy industry science and technology co. ltd,,,,23528.0,doll_5.33 b,,,,dr. chunxin  zhan,
+77774,zarclear holdings ltd,,,,,doll_103990,,,,not found,
+80300,zota health care ltd,,,,,doll_0.722 b,,,,not found,
+115869,z abbas hussain ltd,,,,,,,,,,
+115870,z a a (nw) limited,,,,,,,,,,
+115873,z a & shah ltd,,,,,,,,,,
+115877,z a catering limited,,,,,,,,,,
+115878,z a care limited,,,,,,,,,,
+115880,z a business ltd,,,,,,,,,,
+115882,z a builders limited,,,,,,,,,,
+115883,z a construction management services ltd,,,,,,,,,,
+115884,z a desserts limited,,,,,,,,,,
+115886,z a distribution ltd,,,,,,,,,,
+115889,z a distributors limited,,,,,,,,,,
+115891,z a glasgow ltd,,,,,,,,,,
+115892,z a fashions ltd,,,,,,,,,,
+115893,z a estates limited,,,,,,,,,,
+115894,z adventures europe limited,,,,,,,,,,
+115896,z a holdings limited,,,,,,,,,,
+115897,z ahmed medical services ltd,,,,,,,,,,
+115898,z a industries ltd,,,,,,,,,,
+115899,z a h c s limited,,,,,,,,,,
+115900,z a khan limited,,,,,,,,,,
+115902,z a i construction limited,,,,,,,,,,
+115903,z a k transport limited,,,,,,,,,,
+115904,z & a asset management limited,,,,,,,,,,
+115905,z a merry chippy limited,,,,,,,,,,
+115908,z & a fast food ltd,,,,,,,,,,
+115909,z & a estates ltd,,,,,,,,,,
+115910,z & a convenience limited,,,,,,,,,,
+115911,z and a consulting limited,,,,,,,,,,
+115912,z & a beaumont ltd,,,,,,,,,,
+115913,z & a auto car ltd,,,,,,,,,,
+115914,z & a investments limited,,,,,,,,,,
+115915,z & a healthcare ltd,,,,,,,,,,
+115916,z & a halal meat ltd,,,,,,,,,,
+115918,z & a solutions limited,,,,,,,,,,
+115919,z & a services ltd,,,,,,,,,,
+115920,z & a london ltd,,,,,,,,,,
+115923,z & c care ltd,,,,,,,,,,
+115924,z & bros ltd,,,,,,,,,,
+115925,z and co hair and beauty ltd,,,,,,,,,,
+115930,z and d care limited,,,,,,,,,,
+115932,z & co ncl ltd,,,,,,,,,,
+115934,z & c properties ltd,,,,,,,,,,
+115941,z & d trading ltd,,,,,,,,,,
+115943,z and e medicals ltd,,,,,,,,,,
+115944,z & e lettings ltd.,,,,,,,,,,
+115945,z and f enterprise limited,,,,,,,,,,
+115946,z & f developments ltd,,,,,,,,,,
+115950,z & f sons ltd,,,,,,,,,,
+115954,z & g consulting ltd,,,,,,,,,,
+115958,z & h ltd,,,,,,,,,,
+115960,z & f ware ltd,,,,,,,,,,
+115964,z &h consultants ltd,,,,,,,,,,
+115965,z & h supplies ltd,,,,,,,,,,
+115966,z & i ltd,,,,,,,,,,
+115967,z & h distribution ltd,,,,,,,,,,
+115970,z & i construction ltd,,,,,,,,,,
+115973,z & i solution ltd,,,,,,,,,,
+115974,z & i dreams limited,,,,,,,,,,
+115975,z and i pvt limited,,,,,,,,,,
+115978,z and j group ltd,,,,,,,,,,
+115980,z & j properties ltd,,,,,,,,,,
+115982,z & k corporate ltd,,,,,,,,,,
+115986,z & k hot food ltd,,,,,,,,,,
+115988,z & k gloucester ltd,,,,,,,,,,
+115989,z & k fast food ltd,,,,,,,,,,
+115992,z & k southwest ltd,,,,,,,,,,
+115993,z & k quality foods ltd,,,,,,,,,,
+115996,z & l holding ltd,,,,,,,,,,
+115998,z & m care limited,,,,,,,,,,
+115999,z & m consulting ltd,,,,,,,,,,
+116001,z & m global ltd,,,,,,,,,,
+116002,z & m it solutions ltd,,,,,,,,,,
+116003,z & m kitchen ltd,,,,,,,,,,
+116004,z & m k1 ltd,,,,,,,,,,
+116010,z & m trading ltd,,,,,,,,,,
+116015,z and n foods ltd,,,,,,,,,,
+116017,z & n products ltd,,,,,,,,,,
+116023,z & o trading ltd,,,,,,,,,,
+116024,z & p barbers ltd,,,,,,,,,,
+116027,z & p properties ltd,,,,,,,,,,
+116029,z & q ltd,,,,,,,,,,
+116030,z and precious removals ltd,,,,,,,,,,
+116032,z and p incorporated ltd,,,,,,,,,,
+116033,z & r food stores ltd,,,,,,,,,,
+116041,z & s associates limited,,,,,,,,,,
+116042,z & s (brighton) ltd,,,,,,,,,,
+116043,z & s blinds ltd,,,,,,,,,,
+116044,z & s (basket) ltd,,,,,,,,,,
+116045,z & s (broadwater) ltd,,,,,,,,,,
+116046,z & s carpentry ltd,,,,,,,,,,
+116047,z & s care ltd,,,,,,,,,,
+116048,z & s (hove) limited,,,,,,,,,,
+116049,z & s constructions ltd,,,,,,,,,,
+116050,z & s holdings ltd,,,,,,,,,,
+116051,z & s direct ltd,,,,,,,,,,
+116052,z & s enterprises limited,,,,,,,,,,
+116053,z & s logistics int ltd,,,,,,,,,,
+116054,z & s linked ltd,,,,,,,,,,
+116055,z & s mohsini limited,,,,,,,,,,
+116057,z & s (lewes road) ltd,,,,,,,,,,
+116058,z & s (poets) ltd,,,,,,,,,,
+116059,z & s plumbing and heating ltd,,,,,,,,,,
+116060,z & s developments ltd,,,,,,,,,,
+116061,z & s (portslade) ltd,,,,,,,,,,
+116062,z & s real estates ltd,,,,,,,,,,
+116063,z & s properties limited,,,,,,,,,,
+116064,z & s rail consulting ltd,,,,,,,,,,
+116065,z & s property company ltd,,,,,,,,,,
+116066,z & s transport limited,,,,,,,,,,
+116067,z & s professional services ltd,,,,,,,,,,
+116069,z and s trading ltd,,,,,,,,,,
+116070,z & s shine ltd,,,,,,,,,,
+116071,z & s stores ltd,,,,,,,,,,
+116072,z & s scotland ltd,,,,,,,,,,
+116075,z & u online ltd,,,,,,,,,,
+116076,z and t house moves limited,,,,,,,,,,
+116077,z & t hair treatments ltd,,,,,,,,,,
+116078,z and w ltd,,,,,,,,,,
+116080,z and v consulting limited,,,,,,,,,,
+116081,z & x consultancy ltd,,,,,,,,,,
+116086,z & z brothers it solutions ltd,,,,,,,,,,
+116087,z & z amin ltd,,,,,,,,,,
+116088,z & y accounting ltd,,,,,,,,,,
+116089,z & z aslam (perth) ltd,,,,,,,,,,
+116090,z and z associates limited,,,,,,,,,,
+116094,z and z design and build limited,,,,,,,,,,
+116095,z and z delights limited,,,,,,,,,,
+116097,z and z management ltd,,,,,,,,,,
+116098,z & z corporation ltd,,,,,,,,,,
+116100,z & z london ltd,,,,,,,,,,
+116102,z & z medical ltd,,,,,,,,,,
+116103,z & z products ltd,,,,,,,,,,
+116107,z a optics limited,,,,,,,,,,
+116110,z a pizza limited,,,,,,,,,,
+116112,z a signature ltd,,,,,,,,,,
+116113,z a service station ltd,,,,,,,,,,
+116114,z a scot ltd,,,,,,,,,,
+116115,z a rashid ltd,,,,,,,,,,
+116116,z a property solutions limited,,,,,,,,,,
+116118,z a properties management ltd,,,,,,,,,,
+116119,z a s investments ltd,,,,,,,,,,
+116120,z a product limited,,,,,,,,,,
+116121,z a t consultants ltd,,,,,,,,,,
+116122,z a traders ltd,,,,,,,,,,
+116123,z a store ltd,,,,,,,,,,
+116127,z. a trading ltd,,,,,,,,,,
+116130,z a training limited,,,,,,,,,,
+116131,z a utilities limited,,,,,,,,,,
+116134,z a trading group limited,,,,,,,,,,
+116138,z a w fishing ltd,,,,,,,,,,
+116147,z b consultants ltd,,,,,,,,,,
+116151,z barber shop ltd,,,,,,,,,,
+116165,z books and hounds ltd,,,,,,,,,,
+116171,z brothers garden services ltd,,,,,,,,,,
+116173,z cares social care consulting ltd,,,,,,,,,,
+116175,z cares ltd,,,,,,,,,,
+116176,z care professionals ltd,,,,,,,,,,
+116182,z cars & van ltd,,,,,,,,,,
+116193,z catering equipment ltd,,,,,,,,,,
+116209,z coach & tours ltd,,,,,,,,,,
+116216,z consulting ltd,,,,,,,,,,
+116221,"z corporation, limited",,,,,,,,,,
+116225,z (corps) international limited,,,,,,,,,,
+116256,z ebrahim professional accountant & co ltd,,,,,,,,,,
+116258,z edition ltd,,,,,,,,,,
+171038,zhejiang yongtai technology,china,,1999.0,,,doll_0.65 b,,"['basic materials', 'chemicals']",not found,
