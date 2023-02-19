@@ -1,778 +1,1438 @@
-ID,name,country,headquarters,address,founded,employees,market_cap,revenue,profit,industry,sector,categories,ceo;
-46,yes bank,,,,2004,,,,,banking,,,;
-327,yazaki,,,,1941,,,,,auto components,,,;
-409,yamaha motor,,,,2007,,,,,automobile,,,;
-494,yash technologies,,,,1996,,,,,it services & consulting,,,;
-852,yashoda hospitals,,,,1989,,,,,healthcare,,,;
-1310,yatra,,,,2006,,,,,travel & tourism,,,;
-1373,y-axis overseas careers,,,,1999,,,,,other,,,;
-1474,yokogawa,,,,1915,,,,,auto components,,,;
-1857,yokohama,,,,1917,,,,,auto components,,,;
-1863,yokohama,,,,1917,,,,,auto components,,,;
-2047,you broadband,,,,2001,,,,,telecom,,,;
-2131,yodlee,,,,1999,,,,,software product,,,;
-2132,yardi systems,,,,1984,,,,,software product,,,;
-2279,yusen logistics,,,,1955,,,,,logistics,,,;
-2369,yum!,,,,1997,,,,,hospitality,,,;
-2952,yashi consulting services,,,,2005,,,,,engineering & construction,,,;
-3069,yara fertilisers,,,,1905,,,,,agro chemicals,,,;
-3161,ykk,,,,1995,,,,,fashion & textile,,,;
-4061,yellow diamond,,,,2009,,,,,fmcg,,,;
-4317,yokohama off-highway tires,,,,2007,,,,,auto components,,,;
-4945,yfc projects,,,,1986,,,,,engineering & construction,,,;
-5092,yamaha motor india sales,,,,1985,,,,,automobile,,,;
-6288,yashashvi rasayan,,,,1990,,,,,metals & mining,,,;
-6392,yes,,,,0,,,,,banking,,,;
-6443,yuken india,,,,1976,,,,,industrial machinery,,,;
-6595,yeshshree press comps,,,,1997,,,,,auto components,,,;
-6668,yethi consulting,,,,2013,,,,,it services & consulting,,,;
-6734,youtube,,,,2005,,,,,internet,,,;
-6882,yupptv,,,,2006,,,,,broadcasting,,,;
-6919,yupptv,,,,2006,,,,,broadcasting,,,;
-7658,yellow banana food company,,,,1998,,,,,hospitality,,,;
-7698,yellow banana food company,,,,1998,,,,,hospitality,,,;
-7911,ych logistics,,,,1955,,,,,logistics,,,;
-7930,yuto printing and packaging,,,,0,,,,,packaging,,,;
-8453,ylg salon & spa,,,,2009,,,,,beauty & personal care,,,;
-8507,ylg salon & spa,,,,2009,,,,,beauty & personal care,,,;
-8762,yaantra,,,,2013,,,,,internet,,,;
-9127,yamaha music india,,,,2008,,,,,media & entertainment,,,;
-9226,yes securities,,,,0,,,,,investment banking / venture capital / private equity,,,;
-9382,yamaha motors solutions,,,,0,,,,,it services & consulting,,,;
-9464,yuva parivartan,,,,1998,,,,,non-profit,,,;
-9884,yashaswi academy for skills,,,,1984,,,,,education & training,,,;
-11361,yellowsparkleoãå(12956198),,,                        Harju maakond Tallinn Kesklinna linnaosa V. Reimani tn 3-34 10124                            ,,,,,,,,,;
-11362,yespaceinternationaloãå(14728656),,,                        Harju maakond Tallinn MustamÃÂ¤e linnaosa Laki tn 30 12915                            ,,,,,,,,,;
-11365,yespartneroãå(12274783),,,,,,,,,,,,;
-11366,yespatronoãå(11726199),,,,,,,,,,,,;
-11367,yksehituspartneroãå(14692616),,,                        Harju maakond Tallinn NÃÂµmme linnaosa RÃÂ¤nnaku pst 12 10917                            ,,,,,,,,,;
-11472,yipitdata,united states,,,2008,,,,,internet software & services,,,;
-11576,yunxuetang,china,,,2011,,,,,edtech,,,;
-11608,ynsect,france,,,2011,,,,,other,,,;
-11610,yanolja,south korea,,,2005,,,,,travel,,,;
-11752,younited,france,,,2009,,,,,fintech,,,;
-11832,yubi,india,,,2017,,,,,fintech,,,;
-11839,yugabyte,united states,,,2016,,,,,data management & analytics,,,;
-11860,yaoshibang,china,,,2015,,,,,health,,,;
-11887,yotpo,united states,,,2011,,,,,internet software & services,,,;
-11897,yidian zixun,china,,,2021,,,,,mobile & telecommunications,,,;
-11910,yipin shengxian,china,,,2017,,,,,e-commerce & direct-to-consumer,,,;
-11965,yijiupi,china,,,2014,,,,,consumer & retail,,,;
-12168,yitu technology,china,,,2012,,,,,artificial intelligence,,,;
-12319,yixia,china,,,2011,,,,,mobile & telecommunications,,,;
-12327,youxia motors,china,,,2014,,,,,auto & transportation,,,;
-12374,yuga labs,united states,,,2021,,,,,internet software & services,,,;
-12396,yello mobile,south korea,,,2012,,,,,mobile & telecommunications,,,;
-12529,yuanfudao,china,,,2012,,,,,edtech,,,;
-12536,yuanqi senlin,china,,,2016,,,,,consumer & retail,,,;
-12570,yuanfudao,china,,,,,,,,edtech,,,;
-12574,yuanqi senlin,china,,,,,,,,consumer & retail,,,;
-12745,yello mobile,south korea,,,,,,,,mobile & telecommunications,,,;
-12766,yuga labs,united states,,,,,,,,internet software & services,,,;
-12810,youxia motors,china,,,,,,,,auto & transportation,,,;
-12838,yixia,china,,,,,,,,mobile & telecommunications,,,;
-12973,yitu technology,china,,,,,,,,artificial intelligence,,,;
-13177,yijiupi,china,,,,,,,,consumer & retail,,,;
-13225,yipin shengxian,china,,,,,,,,e-commerce & direct-to-consumer,,,;
-13248,yidian zixun,china,,,,,,,,mobile & telecommunications,,,;
-13254,yotpo,united states,,,,,,,,internet software & services,,,;
-13279,yaoshibang,china,,,,,,,,health,,,;
-13302,yugabyte,united states,,,,,,,,data management & analytics,,,;
-13532,ynsect,france,,,,,,,,other,,,;
-13538,yanolja,south korea,,,,,,,,travel,,,;
-13573,yunxuetang,china,,,,,,,,edtech,,,;
-13682,yipitdata,united states,,,,,,,,internet software & services,,,;
-14244,yum! brands,united states,,,,,doll_36.52 b,,,,,['restaurant chains'],;
-14370,yili group,china,,,,,doll_27.11 b,,,,,['dairy companies'],;
-15447,yg entertainment,south korea,,,,,doll_0.76 b,,,,,['entertainment'],;
-15619,yiren digital,china,,,,,doll_0.26 b,,,,,['financial services'],;
-15825,youngevity international,united states,,,,,doll_1.19 m,,,,,['consumer goods'],;
-15938,yield10 bioscience,united states,,,,,doll_13.74 m,,,,,['biotech'],;
-16486,yellow corporation,united states,,,,,doll_0.14 b,,,,,['transportation'],;
-16659,y-mabs therapeutics,united states,,,,,doll_0.19 b,,,,,['pharmaceuticals'],;
-17518,yit,finland,,,,,doll_0.62 b,,,,,['construction'],;
-17539,york water,united states,,,,,doll_0.65 b,,,,,['utility companies'],;
-18343,ytl corporation berhad,malaysia,,,,,doll_1.44 b,,,,,,;
-18445,yanlord,singapore,,,,,doll_1.56 b,,,,,['real estate'],;
-19490,yeti holdings,united states,,,,,doll_3.70 b,,,,,,;
-19830,yuhan,south-korea,,,,,doll_3.01 b,,,,,pharmaceuticals biotech chemicals ,;
-20575,yeti holdings,united states,,,,,doll_3.78 b,,,,,none,;
-20666,yapä± kredi,turkey,,,,,doll_4.31 b,,,,,banks financial-services ,;
-20958,yamato holdings,japan,,,,,doll_5.67 b,,,,,transportation delivery-services ,;
-20968,yancoal,australia,,,,,doll_5.69 b,,,,,mining coal-mining energy ,;
-20985,yageo,taiwan,,,,,doll_5.74 b,,,,,electronics manufacturing ,;
-21093,yamana gold,canada,,,,,doll_5.81 b,,,,,mining gold-mining silver-mining ,;
-21224,yanbu national petrochemical,saudi-arabia,,,,,doll_6.35 b,,,,,chemicals ,;
-21240,yamaha,japan,,,,,doll_6.44 b,,,,,none,;
-21296,yang ming,taiwan,,,,,doll_7.15 b,,,,,transportation maritime-transportation container-shipping ,;
-21311,yes bank,india,,,,,doll_7.20 b,,,,,banks financial-services ,;
-21454,yamaha motor,japan,,,,,doll_8.22 b,,,,,motorcycle-manufacturers manufacturing ,;
-21527,yuanta financial holding,taiwan,,,,,doll_9.37 b,,,,,banks financial-services ,;
-21551,yaskawa,japan,,,,,doll_9.66 b,,,,,electronics ,;
-21616,yonyou,china,,,,,doll_12.50 b,,,,,software tech ,;
-21855,ypf(yacimientos petrolã­feros fiscales),none,,,,,doll_8.91 b,,,,,oil-gas energy ,;
-21861,yandex,netherlands,,,,,doll_8.95 b,,,,,tech internet ,;
-21938,yara international,norway,,,,,doll_11.72 b,,,,,chemicals ,;
-21994,yankuang energy (yanzhou coal mining),china,,,,,doll_22.57 b,,,,,mining coal-mining energy ,;
-22050,yum china,china,,,,,doll_24.25 b,,,,,food restaurant-chains ,;
-22279,yili group,china,,,,,doll_30.78 b,,,,,dairy ,;
-22542,yakult,japan,,,,,doll_10.72 b,,,,,beverages ,;
-22667,yum! brands,united states,,,,,doll_36.76 b,,,,,restaurant-chains ,;
-22718,yanghe,china,,,,,doll_41.00 b,,,,,alcoholic-beverages beverages ,;
-23326,yext,united states,,,,,doll_0.81 b,,,,,software tech ,;
-23401,yellow cake plc,none,,,,,doll_0.89 b,,,,,uranium energy ,;
-23423,yatsen holding,china,,,,,doll_0.90 b,,,,,retail cosmetics ,;
-23606,youdao,china,,,,,doll_0.99 b,,,,,internet tech ,;
-23750,ytl corporation berhad,malaysia,,,,,doll_1.44 b,,,,,none,;
-24006,yanlord,singapore,,,,,doll_1.50 b,,,,,real-estate ,;
-24050,yoozoo interactive,china,,,,,doll_1.54 b,,,,,video-games entertainment ,;
-24480,yelp,united states,,,,,doll_2.01 b,,,,,internet tech ,;
-24715,yield10 bioscience,united states,,,,,doll_15.72 m,,,,,biotech ,;
-24785,youngevity international,united states,,,,,doll_1.19 m,,,,,consumer-goods ,;
-25220,yuke's,japan,,,,,doll_78.93 m,,,,,video-games entertainment ,;
-25423,yunji,china,,,,,doll_0.12 b,,,,,e-commerce internet tech ,;
-25469,yellow corporation,united states,,,,,doll_0.14 b,,,,,transportation ,;
-25534,yatra,india,,,,,doll_0.15 b,,,,,internet travel ,;
-26096,yiren digital,china,,,,,doll_0.24 b,,,,,financial-services ,;
-26498,y-mabs therapeutics,united states,,,,,doll_0.20 b,,,,,pharmaceuticals ,;
-26573,yalla group,united-arab-emirates,,,,,doll_0.63 b,,,,,internet tech ,;
-26627,york water,united states,,,,,doll_0.66 b,,,,,utility-companies ,;
-26749,yit,finland,,,,,doll_0.61 b,,,,,construction ,;
-26820,yg entertainment,south-korea,,,,,doll_0.73 b,,,,,entertainment ,;
-27284,yanghe,china,,,,,doll_41.89 b,,,,,,;
-27355,yum! brands,united states,,,,,doll_36.68 b,,,,,,;
-27424,yili group,china,,,,,doll_31.89 b,,,,,,;
-27564,yum china,china,,,,,doll_25.20 b,,,,,,;
-27646,yankuang energy (yanzhou coal mining),china,,,,,doll_22.41 b,,,,,,;
-28156,yonyou,china,,,,,doll_12.23 b,,,,,,;
-28200,yara international,norway,,,,,doll_11.75 b,,,,,,;
-28303,yakult,japan,,,,,doll_10.56 b,,,,,,;
-28420,yuanta financial holding,taiwan,,,,,doll_9.37 b,,,,,,;
-28454,yaskawa,japan,,,,,doll_9.04 b,,,,,,;
-28466,yandex,netherlands,,,,,doll_8.95 b,,,,,,;
-28632,yamaha motor,japan,,,,,doll_7.74 b,,,,,,;
-28638,ypf (yacimientos petrolíferos fiscales),argentina,,,,,doll_7.73 b,,,,,,;
-28749,yes bank,india,,,,,doll_7.13 b,,,,,,;
-28769,yang ming,taiwan,,,,,doll_7.04 b,,,,,,;
-28905,yanbu national petrochemical,s. arabia,,,,,doll_6.36 b,,,,,,;
-28957,yamaha,japan,,,,,doll_6.15 b,,,,,,;
-29029,yamana gold,canada,,,,,doll_5.87 b,,,,,,;
-29054,yancoal,australia,,,,,doll_5.77 b,,,,,,;
-29075,yageo,taiwan,,,,,doll_5.68 b,,,,,,;
-29120,yamato holdings,japan,,,,,doll_5.55 b,,,,,,;
-29507,yapı kredi,turkey,,,,,doll_4.27 b,,,,,,;
-29654,yeti holdings,united states,,,,,doll_3.87 b,,,,,,;
-30000,yuhan,s. korea,,,,,doll_3.08 b,,,,,,;
-30611,yelp,united states,,,,,doll_2.02 b,,,,,,;
-30979,yoozoo interactive,china,,,,,doll_1.54 b,,,,,,;
-31020,yanlord,singapore,,,,,doll_1.50 b,,,,,,;
-31034,ytl corporation berhad,malaysia,,,,,doll_1.44 b,,,,,,;
-31469,youdao,china,,,,,doll_0.96 b,,,,,,;
-31502,yatsen holding,china,,,,,doll_0.94 b,,,,,,;
-31590,yellow cake plc,jersey,,,,,doll_0.90 b,,,,,,;
-31771,yext,united states,,,,,doll_0.81 b,,,,,,;
-31928,yg entertainment,s. korea,,,,,doll_0.71 b,,,,,,;
-32012,yalla group,uae,,,,,doll_0.66 b,,,,,,;
-32031,york water,united states,,,,,doll_0.64 b,,,,,,;
-32034,yit,finland,,,,,doll_0.64 b,,,,,,;
-32904,yiren digital,china,,,,,doll_0.24 b,,,,,,;
-33025,y-mabs therapeutics,united states,,,,,doll_0.20 b,,,,,,;
-33218,yatra,india,,,,,doll_0.15 b,,,,,,;
-33282,yellow corporation,united states,,,,,doll_0.14 b,,,,,,;
-33331,yunji,china,,,,,doll_0.12 b,,,,,,;
-33524,yuke's,japan,,,,,doll_77.76 m,,,,,,;
-33901,yield10 bioscience,united states,,,,,doll_15.27 m,,,,,,;
-34060,youngevity international,united states,,,,,doll_1.19 m,,,,,,;
-34527,yum! brands,united states,,,,,doll_36.7 b,,,,,,;
-34529,yanghe,china,,,,,doll_36.5 b,,,,,,;
-34655,yili group,china,,,,,doll_29.29 b,,,,,,;
-34765,yum china,china,,,,,doll_24.28 b,,,,,,;
-34882,yankuang energy (yanzhou coal mining),china,,,,,doll_20.22 b,,,,,,;
-35295,yonyou,china,,,,,doll_12.24 b,,,,,,;
-35384,yara international,norway,,,,,doll_11.36 b,,,,,,;
-35522,yakult,japan,,,,,doll_9.92 b,,,,,,;
-35610,yandex,netherlands,,,,,doll_8.95 b,,,,,,;
-35614,yuanta financial holding,taiwan,,,,,doll_8.93 b,,,,,,;
-35728,yaskawa,japan,,,,,doll_8.12 b,,,,,,;
-35805,yamaha motor,japan,,,,,doll_7.58 b,,,,,,;
-35844,yes bank,india,,,,,doll_7.34 b,,,,,,;
-35864,yang ming,taiwan,,,,,doll_7.24 b,,,,,,;
-35954,ypf (yacimientos petrolíferos fiscales),argentina,,,,,doll_6.68 b,,,,,,;
-36072,yamaha,japan,,,,,doll_6.15 b,,,,,,;
-36081,yanbu national petrochemical,s. arabia,,,,,doll_6.11 b,,,,,,;
-36194,yamana gold,canada,,,,,doll_5.69 b,,,,,,;
-36250,yancoal,australia,,,,,doll_5.5 b,,,,,,;
-36269,yamato holdings,japan,,,,,doll_5.43 b,,,,,,;
-36273,yageo,taiwan,,,,,doll_5.41 b,,,,,,;
-36439,yapı kredi,turkey,,,,,doll_4.84 b,,,,,,;
-36878,yeti holdings,united states,,,,,doll_3.61 b,,,,,,;
-37127,yuhan,s. korea,,,,,doll_3.02 b,,,,,,;
-37745,yelp,united states,,,,,doll_1.99 b,,,,,,;
-38134,yanlord,singapore,,,,,doll_1.49 b,,,,,,;
-38219,ytl corporation berhad,malaysia,,,,,doll_1.39 b,,,,,,;
-38249,yoozoo interactive,china,,,,,doll_1.37 b,,,,,,;
-38642,yatsen holding,china,,,,,doll_990.0 m,,,,,,;
-38695,youdao,china,,,,,doll_950.0 m,,,,,,;
-38813,yellow cake plc,jersey,,,,,doll_860.0 m,,,,,,;
-38977,yext,united states,,,,,doll_750.0 m,,,,,,;
-39052,yg entertainment,s. korea,,,,,doll_700.0 m,,,,,,;
-39118,yalla group,united arab emirates,,,,,doll_660.0 m,,,,,,;
-39161,york water,united states,,,,,doll_630.0 m,,,,,,;
-39237,yit,finland,,,,,doll_580.0 m,,,,,,;
-40140,y-mabs therapeutics,united states,,,,,doll_200.0 m,,,,,,;
-40230,yiren digital,china,,,,,doll_170.0 m,,,,,,;
-40321,yatra,india,,,,,doll_150.0 m,,,,,,;
-40336,yunji,china,,,,,doll_150.0 m,,,,,,;
-40440,yellow corporation,united states,,,,,doll_120.0 m,,,,,,;
-40651,yuke's,japan,,,,,doll_76.1 m,,,,,,;
-41096,yield10 bioscience,united states,,,,,doll_9.66 m,,,,,,;
-41205,youngevity international,united states,,,,,doll_1.13 m,,,,,,;
-41399,yili group,china,,,,,doll_28.66 b,,,,,['dairycompanies'],;
-41653,yaskawa,japan,,,,,doll_8.69 b,,,,,['electronics'],;
-41732,yamaha,japan,,,,,doll_6.73 b,,,,,[],;
-41829,yanbu national petrochemical,saudi arabia,,,,,doll_6.02 b,,,,,['chemicals'],;
-42312,yelp,united states,,,,,doll_1.99 b,,,,,[],;
-42537,yext,united states,,,,,doll_0.77 b,,,,,[],;
-42571,york water,united states,,,,,doll_0.65 b,,,,,['utilitycompanies'],;
-42760,y-mabs therapeutics,united states,,,,,doll_0.20 b,,,,,['pharmaceuticals'],;
-42932,yield10 bioscience,united states,,,,,doll_9.39 m,,,,,['biotech'],;
-42942,youngevity international,united states,,,,,doll_0.81 m,,,,,['consumergoods'],;
-43612,yellow corporation,united states,,,,,doll_0.14 b,,,,,['transportation'],;
-44500,yit,finland,,,,,doll_0.58 b,,,,,['construction'],;
-44517,yg entertainment,south korea,,,,,doll_0.60 b,,,,,['entertainment'],;
-45308,ytl corporation berhad,malaysia,,,,,doll_1.36 b,,,,,[],;
-45383,yanlord,singapore,,,,,doll_1.45 b,,,,,['realestate'],;
-46403,yeti holdings,united states,,,,,doll_3.76 b,,,,,[],;
-47270,yakult,japan,,,,,doll_9.98 b,,,,,['beverages'],;
-47332,yara international,norway,,,,,doll_10.87 b,,,,,['chemicals'],;
-47973,yum! brands,united states,,,,,doll_36.13 b,,,,,['restaurantchains'],;
-48783,yum! brands,united states,,,,,doll_36.96 b,,,,,,;
-48803,yanghe,china,,,,,doll_36.22 b,,,,,,;
-48933,yili group,china,,,,,doll_28.80 b,,,,,,;
-49041,yum china,china,,,,,doll_23.86 b,,,,,,;
-49078,yankuang energy (yanzhou coal mining),china,,,,,doll_22.42 b,,,,,,;
-49628,yonyou,china,,,,,doll_11.50 b,,,,,,;
-49668,yara international,norway,,,,,doll_11.04 b,,,,,,;
-49782,yakult,japan,,,,,doll_9.99 b,,,,,,;
-49814,yandex,netherlands,,,,,doll_9.70 b,,,,,,;
-49874,yuanta financial holding,taiwan,,,,,doll_9.13 b,,,,,,;
-49917,yaskawa,japan,,,,,doll_8.80 b,,,,,,;
-49978,yamaha motor,japan,,,,,doll_8.22 b,,,,,,;
-50038,yes bank,india,,,,,doll_7.83 b,,,,,,;
-50149,yang ming,taiwan,,,,,doll_7.13 b,,,,,,;
-50203,yamaha,japan,,,,,doll_6.83 b,,,,,,;
-50379,yamato holdings,japan,,,,,doll_6.08 b,,,,,,;
-50416,yanbu national petrochemical,s. arabia,,,,,doll_5.91 b,,,,,,;
-50466,ypf(yacimientos petrolíferos fiscales),gentina,,,,,doll_5.72 b,,,,,,;
-50546,yancoal,australia,,,,,doll_5.44 b,,,,,,;
-50557,yageo,taiwan,,,,,doll_5.40 b,,,,,,;
-50565,yamana gold,canada,,,,,doll_5.39 b,,,,,,;
-50572,yapı kredi,turkey,,,,,doll_5.36 b,,,,,,;
-51014,yeti holdings,united states,,,,,doll_3.94 b,,,,,,;
-51389,yuhan,s. korea,,,,,doll_3.05 b,,,,,,;
-52399,yanlord,singapore,,,,,doll_1.51 b,,,,,,;
-52532,ytl corporation berhad,malaysia,,,,,doll_1.36 b,,,,,,;
-52763,yoozoo interactive,china,,,,,doll_1.13 b,,,,,,;
-53166,yext,united states,,,,,doll_0.80 b,,,,,,;
-53173,yatsen holding,china,,,,,doll_0.80 b,,,,,,;
-53384,youdao,china,,,,,doll_0.66 b,,,,,,;
-53403,york water,united states,,,,,doll_0.65 b,,,,,,;
-53482,yg entertainment,s. korea,,,,,doll_0.61 b,,,,,,;
-53526,yalla group,ited arab emirates,,,,,doll_0.58 b,,,,,,;
-53528,yit,finland,,,,,doll_0.58 b,,,,,,;
-54341,y-mabs therapeutics,united states,,,,,doll_0.22 b,,,,,,;
-54504,yellow corporation,united states,,,,,doll_0.17 b,,,,,,;
-54543,yunji,china,,,,,doll_0.16 b,,,,,,;
-54632,yatra,india,,,,,doll_0.13 b,,,,,,;
-54847,yuke's,japan,,,,,doll_82.65 m,,,,,,;
-55312,yield10 bioscience,united states,,,,,doll_9.24 m,,,,,,;
-55750,yanghe,china,,,,,doll_41.18 b,,,,,,;
-55820,yum! brands,united states,,,,,doll_35.67 b,,,,,,;
-55900,yili group,china,,,,,doll_30.87 b,,,,,,;
-56031,yum china,china,,,,,doll_24.73 b,,,,,,;
-56083,yankuang energy (yanzhou coal mining),china,,,,,doll_22.97 b,,,,,,;
-56518,yonyou,china,,,,,doll_13.36 b,,,,,,;
-56672,yara international,norway,,,,,doll_11.40 b,,,,,,;
-56722,yakult,japan,,,,,doll_10.96 b,,,,,,;
-56861,yaskawa,japan,,,,,doll_9.52 b,,,,,,;
-56874,yuanta financial holding,taiwan,,,,,doll_9.37 b,,,,,,;
-56925,yandex,netherlands,,,,,doll_8.95 b,,,,,,;
-56970,ypf (yacimientos petrolíferos fiscales),,,,,,doll_8.62 b,,,,,,;
-57052,yamaha motor,japan,,,,,doll_8.02 b,,,,,,;
-57196,yang ming,taiwan,,,,,doll_7.15 b,,,,,,;
-57232,yes bank,india,,,,,doll_6.98 b,,,,,,;
-57354,yanbu national petrochemical,saudi arabia,,,,,doll_6.35 b,,,,,,;
-57356,yamaha,japan,,,,,doll_6.34 b,,,,,,;
-57421,yancoal,australia,,,,,doll_6.11 b,,,,,,;
-57482,yamana gold,canada,,,,,doll_5.90 b,,,,,,;
-57514,yageo,taiwan,,,,,doll_5.74 b,,,,,,;
-57546,yamato holdings,japan,,,,,doll_5.60 b,,,,,,;
-57856,yap? kredi,turkey,,,,,doll_4.57 b,,,,,,;
-58161,yeti holdings,united states,,,,,doll_3.70 b,,,,,,;
-58467,yuhan,south korea,,,,,doll_3.03 b,,,,,,;
-59039,yelp,united states,,,,,doll_2.07 b,,,,,,;
-59413,yanlord,singapore,,,,,doll_1.56 b,,,,,,;
-59473,yoozoo interactive,china,,,,,doll_1.49 b,,,,,,;
-59531,ytl corporation berhad,malaysia,,,,,doll_1.44 b,,,,,,;
-59973,youdao,china,,,,,doll_1.00 b,,,,,,;
-60050,yatsen holding,china,,,,,doll_0.95 b,,,,,,;
-60129,yellow cake plc,,,,,,doll_0.89 b,,,,,,;
-60279,yext,united states,,,,,doll_0.77 b,,,,,,;
-60304,yg entertainment,south korea,,,,,doll_0.76 b,,,,,,;
-60464,yalla group,united arab emirates,,,,,doll_0.65 b,,,,,,;
-60478,york water,united states,,,,,doll_0.65 b,,,,,,;
-60515,yit,finland,,,,,doll_0.62 b,,,,,,;
-61291,yiren digital,china,,,,,doll_0.26 b,,,,,,;
-61533,y-mabs therapeutics,united states,,,,,doll_0.19 b,,,,,,;
-62210,yext,,,,,1.4,doll_0.81 b,doll_0.39 b,-doll_78.69 m,,,,;
-62477,yeti holdings,,,,,823.0,doll_3.87 b,doll_1.59 b,doll_0.25 b,,,,;
-62851,youngevity international,,,,,415.0,doll_1.19 m,doll_0.10 b,-doll_46.25 m,,,,;
-63278,y-mabs therapeutics,,,,,148.0,doll_0.20 b,doll_43.41 m,-doll_0.13 b,,,,;
-63387,york water,,,,,110.0,doll_0.64 b,doll_58.68 m,doll_18.46 m,,,,;
-63711,yield10 bioscience,,,,,29.0,doll_15.27 m,doll_0.51 m,-doll_13.21 m,,,,;
-64320,yamana gold,,,,,,doll_5.87 b,doll_1.85 b,doll_0.41 b,,,,;
-64735,yum china,,,,,147.0,doll_25.20 b,doll_9.77 b,doll_1.24 b,,,,;
-64767,yankuang energy (yanzhou coal mining),,,,,61.864,doll_22.41 b,doll_29.84 b,doll_8.79 b,,,,;
-64768,yili group,,,,,61.598,doll_31.89 b,doll_18.01 b,doll_1.69 b,,,,;
-64813,yonyou,,,,,20.998,doll_12.23 b,doll_1.45 b,doll_48.61 m,,,,;
-64824,yanghe,,,,,17.956,doll_41.89 b,doll_4.52 b,doll_1.98 b,,,,;
-64862,youdao,,,,,6.096,doll_0.96 b,doll_0.69 b,-doll_0.15 b,,,,;
-64879,yiren digital,,,,,3.797,doll_0.24 b,doll_0.64 b,doll_0.20 b,,,,;
-64880,yatsen holding,,,,,3.497,doll_0.94 b,doll_0.64 b,-doll_0.21 b,,,,;
-64901,yoozoo interactive,,,,,1.726,doll_1.54 b,doll_0.32 b,-doll_14.41 m,,,,;
-64933,yunji,,,,,655.0,doll_0.12 b,doll_0.20 b,doll_24.69 m,,,,;
-65055,yg entertainment,,,,,,doll_0.71 b,,,,,,;
-65081,yuhan,,,,,,doll_3.08 b,doll_1.36 b,doll_88.43 m,,,,;
-65171,yes bank,,,,,25.592,doll_7.13 b,doll_1.30 b,doll_0.19 b,,,,;
-65532,yatra,,,,,961.0,doll_0.15 b,doll_38 m,-doll_4.07 m,,,,;
-65636,yuanta financial holding,,,,,14.856,doll_9.37 b,doll_3.35 b,doll_1.09 b,,,,;
-65691,yang ming,,,,,,doll_7.04 b,doll_14.29 b,doll_9.77 b,,,,;
-65701,yageo,,,,,,doll_5.68 b,doll_4.01 b,doll_1.05 b,,,,;
-66986,yum! brands,,,,,36.000,doll_36.48 b,doll_6.71 b,doll_1.64 b,,,,;
-67008,yellow corporation,,,,,32.000,doll_0.16 b,doll_5.35 b,doll_0.15 b,,,,;
-67806,yelp,,,,,4.400,doll_2.18 b,doll_1.11 b,doll_50.13 m,,,,;
-69586,yihai kerry arawana holdings co. ltd,china,,,,,doll_42.84 b,,,packaged foods,consumer staples,,;
-69891,yanzhou coal mining company ltd,china,,,,,doll_25.26 b,,,thermal coal,energy,,;
-70043,yandex n.v.,netherlands,,,,,,,,internet content & information,communication services,,;
-70586,yihai kerry arawana holdings co. ltd,china,,,,,doll_42.84 b,,,packaged foods,consumer staples,,;
-70891,yanzhou coal mining company ltd,china,,,,,doll_25.26 b,,,thermal coal,energy,,;
-71043,yandex n.v.,netherlands,,,,,doll_21.05 b,,,internet content & information,communication services,,;
-72586,yihai kerry arawana holdings co. ltd,china,,,,,doll_42.84 b,,,packaged foods,consumer staples,,;
-72891,yanzhou coal mining company ltd,china,,,,,doll_25.26 b,,,thermal coal,energy,,;
-73043,yandex n.v.,netherlands,,,,,doll_21.05 b,,,internet content & information,communication services,,;
-73399,yougov plc,united kingdom,,,,,doll_1.96 b,,,advertising agencies,communication services,,;
-73560,yellow cake plc,united kingdom,,,,,doll_905.8 m,,,uranium,energy,,;
-74546,yihai kerry arawana holdings co. ltd,china,,,,,doll_42.84 b,,,,consumer staples,,;
-74851,yanzhou coal mining company ltd,china,,,,,doll_25.26 b,,,,energy,,;
-75004,yandex n.v.,netherlands,,,,,,,,,communication services,,;
-92773,yankuang energy group,china,,,,,doll_14.32 b,doll_16.86 b,doll_2.63 b,,,,;
-93050,yang ming marine transport,taiwan,,,,,doll_15.1 b,doll_11.95 b,doll_5.92 b,,,,;
-93135,yuanta financial holding,taiwan,,,,,doll_11.06 b,doll_5.77 b,doll_1.25 b,,,,;
-93225,yum! brands,canada,,,,,doll_35.28 b,doll_6.58 b,doll_1.57 b,,,,;
-93246,yango group,china,,,,,doll_1.66 b,doll_12.63 b,doll_828.3 m,,,,;
-93388,yum china holdings,china,,,,,doll_17.41 b,doll_9.85 b,doll_990 m,,,,;
-93390,yamaha motor,japan,,,,,doll_7.4 b,doll_16.5 b,doll_1.42 b,,,,;
-93511,yara international,norway,,,,,doll_13.5 b,doll_16.65 b,doll_432.7 m,,,,;
-93602,yuexiu property,hong kong,,,,,doll_3.33 b,doll_8.9 b,doll_555.8 m,,,,;
-93841,ypf,argentina,,,,,doll_3.31 b,doll_13.02 b,doll_2.7 m,,,,;
-93879,yamaguchi financial,japan,,,,,doll_1.35 b,doll_1.55 b,doll_260.2 m,,,,;
-94058,yunnan copper co. ltd.,china,,,,,doll_2.94 b,doll_19.63 b,doll_100.7 m,,,,;
-94110,yunnan yuntianhua,china,,,,,doll_6.76 b,doll_10.03 b,doll_734.3 m,,,,;
-94119,yunnan energy new material,china,,,,,doll_25.09 b,doll_1.42 b,doll_498.8 m,,,,;
-94183,yamada denki,japan,,,,,doll_2.47 b,doll_15.13 b,doll_514.9 m,,,,;
-94202,yamato holdings,japan,,,,,doll_6.93 b,doll_16.13 b,doll_433.3 m,,,,;
-94773,yankuang energy group,china,,,,,doll_14.32 b,doll_16.86 b,,,,,;
-95050,yang ming marine transport,taiwan,,,,,doll_15.1 b,doll_11.95 b,,,,,;
-95135,yuanta financial holding,taiwan,,,,,doll_11.06 b,doll_5.77 b,,,,,;
-95225,yum! brands,canada,,,,,doll_35.28 b,doll_6.58 b,,,,,;
-96050,yang ming marine transport,taiwan,,,not found,not found,,doll_11.9 b,,transportation,,,chih chien hsieh;
-96841,ypf ,argentina,,,1977,not found,,doll_13 b,,oil & gas operations,,,sergio pablo antonio;
-97354,yso corp,france,,,,13,,doll_6.69 m,,,media,,;
-97510,yumi beauty,france,,,,5,,doll_2.68 m,,,chemicals & pharmaceuticals,,;
-97775,yocabeâ,italy,,,,12,,doll_3.29 m,,,ecommerce,,;
-97843,yourparkingspace limited,uk,,,,32,,doll_13.86 m,,,technology,,;
-98118,yes!devs,germany,,,,37,,doll_2.2 m,,,technology,,;
-98354,yso corp,france,,,,13.0,,doll_6.69 m,,,media,,;
-98510,yumi beauty,france,,,,5.0,,doll_2.68 m,,,chemicals & pharmaceuticals,,;
-98775,yocabe’,italy,,,,12.0,,doll_3.29 m,,,ecommerce,,;
-98843,yourparkingspace limited,uk,,,,32.0,,doll_13.86 m,,,technology,,;
-99118,yes!devs,germany,,,,37.0,,doll_2.2 m,,,technology,,;
-99354,yso corp,france,,,,13.0,,doll_6.69 m,,,media,,;
-99510,yumi beauty,france,,,,5.0,,doll_2.68 m,,,chemicals & pharmaceuticals,,;
-99775,yocabeâ,italy,,,,12.0,,doll_3.29 m,,,ecommerce,,;
-99843,yourparkingspace limited,uk,,,,32.0,,doll_13.86 m,,,technology,,;
-100118,yes!devs,germany,,,,37.0,,doll_2.2 m,,,technology,,;
-100308,yamap,japan,,,,65,,doll_7.20 m,,,technology,,;
-100724,yoyo wallet,united kingdom,,,,68,,doll_3.97 m,,,fintech,,;
-100734,you mawo,germany,,,,21,,doll_2.61 m,,,technology,,;
-100843,ywc,japan,,,,600,,doll_40.69 m,,,sales & marketing,,;
-101064,yso corp,france,,,,13,,doll_6.69 m,,,media,,;
-101111,youlovewords,france,,,,12,,doll_1.6 m,,,media,,;
-101219,yoyo wallet,uk,,,,66,,doll_6.24 m,,,fintech,,;
-101223,youlovewords,france,,,,17,,doll_2.74 m,,,media,,;
-101249,yuan,taiwan,,,,121,,doll_91.45 m,,,technology,,;
-101270,yanogumi,japan,,,,10,,doll_2.92 m,,,architecture,,;
-101296,yamato infilink,japan,,,,25,,doll_20.05 m,,,property,,;
-101362,yeap medical supplies,singapore,,,,82,,doll_49.92 m,,,health,,;
-101434,yukon sky,japan,,,,55,,doll_19.77 m,,,retail,,;
-101576,yourparkingspace,united kingdom,,,,21,,doll_7.30 m,,,technology,,;
-101703,yellow octopus,australia,,,,8,,doll_3.41 m,,,ecommerce,,;
-101790,yield microelectronic,taiwan,,,,60,,doll_4.32 m,,,technology,,;
-101963,yongmao holdings,singapore,,,,not found,,doll_136.35 m,,,industrial goods,,;
-101981,yeo plumber,malaysia,,,,26,,doll_3.42 m,,,construction,,;
-102091,your personal,italy,,,,10,,doll_1.6 m,,,transport,,;
-102189,yumi beauty,france,,,,5,,doll_2.68 m,,,chemicals & pharmaceuticals,,;
-102531,younited credit,france,,,,213,,doll_16.4 m,,,financial services,,;
-102917,younited credit,france,,,,328,,doll_25.30 m,,,financial services,,;
-103147,yocabe’,italy,,,,12,,doll_3.29 m,,,ecommerce,,;
-103335,yocabe,italy,,,,10,,doll_1.97 m,,,ecommerce,,;
-103341,yescapa,france,,,,31,,doll_2.76 m,,,travel & leisure,,;
-103380,yourparkingspace limited,uk,,,,32,,doll_13.86 m,,,technology,,;
-103562,yourparkingspace,uk,,,,40,,doll_10.71 m,,,technology,,;
-103933,yogurt factory,france,,,,48,,doll_2.8 m,,,agricultural commodities,,;
-104143,yogurt factory,france,,,,80,,doll_3.96 m,,,food & beverage,,;
-104304,yellow submarine,croatia,,,,77,,doll_4.5 m,,,restaurants,,;
-104338,yes!devs,germany,,,,37,,doll_2.2 m,,,technology,,;
-104524,young digitals,italy,,,,43,,doll_2.8 m,,,advertising,,;
-104852,youngcapital,netherlands,,,,1000,,doll_321.9 m,,,support services,,;
-105112,yogurt factory,france,,,,80,,doll_5.3 m,,,food & beverage,,;
-114143,your finances limited,,,,,,,,,,,,;
-114204,your finances simplified ltd,,,,,,,,,,,,;
-114209,y tree limited,,,,,,,,,,,,;
-119753,yara limited,united kingdom,,,,,,,,,,,;
-119855,yerblues ou,estonia,,,,,,,,,,,;
-120241,yes ticket srl,italy,,,,,,,,,,,;
-121415,yoox net-a-porter group spa,italy,,,,,,,,,,,;
-122083,yoroi srl,italy,,,,,,,,,,,;
-122154,yeti uk limited,united kingdom,,,,,,,,,,,;
-122350,yama spa,italy,,,,,,,,,,,;
-122381,yamaha motor manufacturing corporation of america,united states,,,,,,,,,,,;
-122649,yamazaki mazak u.k. limited,united kingdom,,,,,,,,,,,;
-122989,yes ticket srl,italy,,,,,,,,,,,;
-123002,yerblues ou,estonia,,,,,,,,,,,;
-124631,yieldstreet careers,,,,2015,,,,,financial services,,,;
-125045,yorke engineering careers,,,,1996,,,,,environmental services,,,;
-125074,yoodle careers,,,,2007,,,,,marketing & advertising,,,;
-127191,yahoo,united states,,,,,,,,internet or mobile app based business,,,;
-130969,yulon finance corporation,taiwan,,,,,,,170 million usd,financial services,,,;
-131666,yinyi,china,,,,,,,,real estate,,,;
-132268,y.h. dimri construction & development ltd,israel,,,,,,,72 million usd,real estate,,,;
-132934,ytl corporation berhad,malaysia,,,,,,,-82 million usd,utilities,,,;
-133429,yh global,china,,,,,,,,logistics,,,;
-133430,yaochufa,china,,,,,,,,,,,;
-133431,yanolja,south korea,,,,,,,,,,,;
-133441,yunniao,china,,,,,,,,logistics,,,;
-133442,yooli,china,,,,,,,,,,,;
-133443,ymatou,china,,,,,,,,,,,;
-133444,yijiupi,china,,,,,,,,,,,;
-134457,ytl power international berhad,malaysia,,,,,,,,utilities,,,;
-135041,yixin group,china,,,,,,,4 million usd,financial services,,,;
-135242,young & co's brewery,uk,,,,,,,40 million usd,restaurants,,,;
-135955,youtube,united states,,,,,0,,,,,,;
-136379,yum! brands,united states,,,,,doll_38.74 m,,,,,,david gibbs;
-136534,yunnan energy new material,china,,,,,doll_36.61 m,,,,,,;
-136862,yum china holdings,china,,,,,doll_25.91 m,,,,,,;
-136889,yunnan baiyao group,china,,,,,doll_17.52 m,,,,,,;
-136941,yandex,russia,,,,,doll_27.48 m,,,,,,arkady volozh;
-137012,yonyou network technology,china,,,,,doll_16.36 m,,,,,,;
-137270,yanzhou coal mining company,china,,,,,doll_14.61 m,,,,,,;
-137300,yang ming marine transport corporation,taiwan,,,,,doll_15.71 m,,,,,,cheng cheng mount;
-137410,yara international asa,norway,,,,,doll_12.24 m,,,,,,;
-137487,yaskawa electric corporation,japan,,,,,doll_13.16 m,,,,,,;
-137537,yealink network technology,china,,,,,doll_11.63 m,,,,,,;
-137583,yunnan botanee bio-technology group co.ltd,china,,,,,doll_12.96 m,,,,,,;
-137610,yuanta financial holding co. ltd,taiwan,,,,,doll_10.88 m,,,,,,;
-137753,yanbu national petrochemical company,saudi arabia,,,,,doll_10.27 m,,,,,,;
-137822,yunda holding,china,,,,,doll_7.38 m,,,,,,;
-137876,yahoo,united states,,,,,0,,,,,,;
-137938,yageo corporation,taiwan,,,,,doll_8.66 m,,,,,,;
-137946,yto express group,china,,,,,doll_4.74 m,,,,,,;
-137981,yamaha motor,japan,,,,,doll_8.93 m,,,,,,;
-138001,yuanfudao,china,,,,,doll_0.002069 t,,,,,,;
-138045,yamato holdings,japan,,,,,doll_9.63 m,,,,,,;
-138107,yamaha corporation,japan,,,,,doll_10.87 m,,,,,,;
-138138,yakult honsha,japan,,,,,doll_9.32 m,,,,,,;
-138183,yongxing special materials technology,china,,,,,doll_6.57 m,,,,,,;
-138604,yantai jereh oilfield services group,china,,,,,doll_5.83 m,,,,,,;
-138614,yeti holdings,united states,,,,,doll_8.69 m,,,,,,;
-138678,yifeng pharmacy chain,china,,,,,doll_6.04 m,,,,,,;
-138731,yunnan aluminium,china,,,,,doll_7.5 m,,,,,,;
-138786,yonghui superstores,china,,,,,doll_5.61 m,,,,,,;
-139050,yunnan yuntianhua,china,,,,,doll_6.42 m,,,,,,;
-139217,yunnan tin company,china,,,,,doll_6.01 m,,,,,,;
-139225,yangzhou yangjie electronic technology,china,,,,,doll_3.61 m,,,,,,;
-139283,youngor group,china,,,,,doll_4.54 m,,,,,,;
-139373,yadea group holdings,china,,,,,doll_4.91 m,,,,,,;
-139451,yokogawa electric corporation,japan,,,,,doll_4.26 m,,,,,,;
-139475,yes bank,india,,,,,doll_3.9 m,,,,,,;
-139480,yihai international holding,china,,,,,doll_6.35 m,,,,,,;
-139499,youngy,china,,,,,doll_6.78 m,,,,,,;
-139581,yangling metron new material inc.,china,,,,,doll_5.1 m,,,,,,;
-139583,yangquan coal industry (group),china,,,,,doll_4.8 m,,,,,,;
-139648,yuan long ping high-tech agriculture,china,,,,,doll_4.09 m,,,,,,;
-139721,yantai eddie precision machinery,china,,,,,doll_4.87 m,,,,,,;
-140019,yiguo,china,,,,,doll_0.003958 t,,,,,,;
-140173,yangzijiang shipbuilding (holdings),china,,,,,doll_4.67 m,,,,,,;
-140180,yamana gold,canada,,,,,doll_4.25 m,,,,,,;
-140191,yintai gold,china,,,,,doll_3.63 m,,,,,,;
-140340,yifan pharmaceutical,china,,,,,doll_2.81 m,,,,,,;
-140341,yixintang pharmaceutical group,china,,,,,doll_2.8 m,,,,,,;
-140354,yunnan copper,china,,,,,doll_3.95 m,,,,,,;
-140494,yantai changyu pioneer wine company,china,,,,,doll_3.07 m,,,,,,;
-140850,yingkou port liability,china,,,,,doll_2.55 m,,,,,,;
-141089,yamazaki baking,japan,,,,,doll_3.48 m,,,,,,;
-141105,yuexiu property company,hong kong,,,,,doll_2.95 m,,,,,,;
-141208,yamada denki,japan,,,,,doll_3.6 m,,,,,,;
-141292,yancoal australia ltd,australia,,,,,doll_2.26 m,,,,,,;
-141357,yue yuen industrial (holdings),hong kong,,,,,doll_3.38 m,,,,,,;
-141365,yulon nissan motor co. ltd,taiwan,,,,,doll_2.75 m,,,,,,;
-141402,yanan bicon pharmaceutical listed company,china,,,,,doll_2.9 m,,,,,,;
-141441,yokohama rubber company,japan,,,,,doll_2.79 m,,,,,,;
-141505,yelp,united states,,,,,doll_2.83 m,,,,,,;
-141515,yidu tech inc.,china,,,,,doll_4.24 m,,,,,,;
-141574,yangtze optical fibre and cable joint stock company,china,,,,,doll_2.14 m,,,,,,;
-141600,ypsomed holding ag,switzerland,,,,,doll_2.03 m,,,,,,;
-141653,yusys technologies,china,,,,,doll_1.83 m,,,,,,;
-141659,yulon finance corporation,taiwan,,,,,doll_2.24 m,,,,,,;
-141880,yaoko,japan,,,,,doll_2.54 m,,,,,,;
-141945,yapi ve kredi bankasi,turkey,,,,,doll_2.66 m,,,,,,;
-141953,yijiahe technology,china,,,,,doll_1.64 m,,,,,,;
-142042,yougov,uk,,,,,doll_2.19 m,,,,,,;
-142143,yoozoo games,china,,,,,doll_1.76 m,,,,,,;
-142153,yamato kogyo,japan,,,,,doll_2.52 m,,,,,,;
-142239,yango group co. ltd,china,,,,,doll_2.83 m,,,,,,;
-142311,yantai tayho advanced materials,china,,,,,doll_2.24 m,,,,,,;
-142342,yinyi,china,,,,,doll_1.53 m,,,,,,;
-142356,yfy,taiwan,,,,,doll_2.14 m,,,,,,;
-142363,yantai zhenghai magnetic material,china,,,,,doll_1.67 m,,,,,,;
-142377,yantai dongcheng pharmaceutical group,china,,,,,doll_1.89 m,,,,,,;
-142564,ygsoft,china,,,,,doll_1.37 m,,,,,,;
-142658,yantai shuangta food,china,,,,,doll_1.95 m,,,,,,;
-142814,you & mr jones,united states,,,,,doll_0.006619 t,,,,,,;
-142950,y.h. dimri construction & development ltd,israel,,,,,doll_1.25 m,,,,,,;
-143004,yingkou jinchen machinery,china,,,,,doll_2.69 m,,,,,,;
-143079,youngone corporation,south korea,,,,,doll_1.58 m,,,,,,;
-143280,yanker shop food,china,,,,,doll_1.13 m,,,,,,;
-143385,yieh phui enterprise,taiwan,,,,,doll_2.21 m,,,,,,;
-143397,yanlord land group,singapore,,,,,doll_1.73 m,,,,,,;
-143434,ypf sociedad anonima,argentina,,,,,doll_2.05 m,,,,,,;
-143443,youdao,china,,,,,doll_1.59 m,,,,,,;
-143487,yechiu metal recycling (china) ltd.,china,,,,,doll_1.95 m,,,,,,;
-143488,yanbu cement company,saudi arabia,,,,,doll_1.82 m,,,,,,;
-143500,yipinhong pharmaceutical,china,,,,,doll_1.48 m,,,,,,;
-143503,yulon motor company,taiwan,,,,,doll_1.36 m,,,,,,;
-143605,yinson holdings berhad,malaysia,,,,,doll_1.28 m,,,,,,;
-143614,ytl corporation berhad,malaysia,,,,,doll_1.76 m,,,,,,;
-143695,yamaguchi financial group,japan,,,,,doll_1.47 m,,,,,,;
-143781,yeahka limited,china,,,,,doll_2.18 m,,,,,,;
-143856,yibin tianyuan group,china,,,,,doll_1.52 m,,,,,,;
-143904,yuexiu real estate investment trust,hong kong,,,,,doll_1.76 m,,,,,,;
-144117,yanolja,south korea,,,,,doll_0.007693 t,,,,,,;
-144118,yaochufa,china,,,,,doll_0.007693 t,,,,,,;
-144119,yh global,china,,,,,doll_0.007693 t,,,,,,;
-144120,yijiupi,china,,,,,doll_0.007693 t,,,,,,;
-144121,ymatou,china,,,,,doll_0.007693 t,,,,,,;
-144122,yooli,china,,,,,doll_0.007693 t,,,,,,;
-144123,yunniao,china,,,,,doll_0.007693 t,,,,,,;
-144151,yamama saudi cement company,saudi arabia,,,,,doll_1.74 m,,,,,,;
-144153,yaguang technology group company,china,,,,,doll_1.68 m,,,,,,;
-144395,yapp automotive systems,china,,,,,doll_1.3 m,,,,,,;
-144439,yantai china pet foods,china,,,,,doll_1.31 m,,,,,,;
-144583,yakutsk fuel and energy company,russia,,,,,doll_1.12 m,,,,,,;
-144594,yantai zhenghai biotechnology,china,,,,,doll_0.88 m,,,,,,;
-144643,yunnan wenshan electric power,china,,,,,doll_0.5 m,,,,,,;
-144691,yindu kitchen equipment co. ltd,china,,,,,doll_1.41 m,,,,,,;
-144703,yoshinoya holdings,japan,,,,,doll_1.21 m,,,,,,;
-144800,yonggao,china,,,,,doll_0.95 m,,,,,,;
-144830,yotrio group,china,,,,,doll_1.19 m,,,,,,;
-144936,yabao pharmaceutical group co. ltd,china,,,,,doll_0.82 m,,,,,,;
-144941,yatsen holding ltd,china,,,,,doll_3.2 m,,,,,,;
-144952,yunnan lincang xinyuan germanium industry,china,,,,,doll_1.38 m,,,,,,;
-145083,yext,united states,,,,,doll_1.71 m,,,,,,;
-145131,ytl power international berhad,malaysia,,,,,doll_1.33 m,,,,,,;
-145328,yunnan tourism,china,,,,,doll_0.81 m,,,,,,;
-145360,yunnan energy investment,china,,,,,doll_1.02 m,,,,,,;
-145370,yunnan xiyi industry,china,,,,,doll_0.36 m,,,,,,;
-145440,yit oyj,finland,,,,,doll_1.26 m,,,,,,;
-145580,yieh united steel,taiwan,,,,,doll_1.42 m,,,,,,;
-145687,yujiahui,china,,,,,doll_1.13 m,,,,,,;
-145727,yixin group,china,,,,,doll_1.4 m,,,,,,;
-145827,yuexiu transport infrastructure,hong kong,,,,,doll_1.0 m,,,,,,;
-145897,yantai north andre juice company,china,,,,,doll_0.82 m,,,,,,;
-145926,young & co's brewery ,uk,,,,,doll_1.08 m,,,,,,;
-146239,yungtay engineering,taiwan,,,,,doll_0.87 m,,,,,,;
-146274,young poong corporation,south korea,,,,,doll_1.11 m,,,,,,;
-146635,youtube,united states,,,,,0.0,,0.0,,,,susan wojcicki;
-147059,yum! brands,united states,,,,,doll_39.68 b,,doll_1.57 b,,,,david gibbs;
-147214,yunnan energy new material,china,,,,,doll_31.59 b,,doll_395.0 m,,,,;
-147542,yum china holdings,china,,,,,doll_21.27 b,,doll_990.0 m,,,,;
-147569,yunnan baiyao group,china,,,,,doll_20.58 b,,doll_440.0 m,,,,;
-147621,yandex,russia,,,,,doll_19.59 b,,doll_-132.0 m,,,,arkady volozh;
-147692,yonyou network technology,china,,,,,doll_18.23 b,,doll_111.0 m,,,,;
-147950,yanzhou coal mining company,china,,,,,doll_14.62 b,,doll_2.39 b,,,,;
-147980,yang ming marine transport corporation,taiwan,,,,,doll_14.35 b,,doll_5.76 b,,,,chong-hua cheng;
-148090,yara international asa,norway,,,,,doll_13.13 b,,doll_449.0 m,,,,;
-148167,yaskawa electric corporation,japan,,,,,doll_12.45 b,,doll_304.0 m,,,,;
-148217,yealink network technology,china,,,,,doll_11.81 b,,doll_235.0 m,,,,;
-148263,yunnan botanee bio-technology group co.ltd,china,,,,,doll_11.47 b,,doll_135.0 m,,,,;
-148290,yuanta financial holding co. ltd,taiwan,,,,,doll_11.31 b,,doll_1.16 b,,,,;
-148433,yanbu national petrochemical company,saudi arabia,,,,,doll_10.3 b,,doll_408.0 m,,,,;
-148502,yunda holding,china,,,,,doll_9.89 b,,doll_215.0 m,,,,;
-148556,yahoo,united states,,,,,0.0,,0.0,,,,;
-148618,yageo corporation,taiwan,,,,,doll_9.17 b,,doll_785.0 m,,,,;
-148626,yto express group,china,,,,,doll_9.11 b,,doll_306.0 m,,,,;
-148661,yamaha motor,japan,,,,,doll_8.91 b,,doll_1.23 b,,,,;
-148681,yuanfudao,china,,,,,0.0,,0.0,,,,;
-148725,yamato holdings,japan,,,,,doll_8.63 b,,doll_408.0 m,,,,;
-148787,yamaha corporation,japan,,,,,doll_8.29 b,,doll_272.0 m,,,,;
-148818,yakult honsha,japan,,,,,doll_8.17 b,,doll_328.0 m,,,,;
-148863,yongxing special materials technology,china,,,,,doll_8.02 b,,doll_129.0 m,,,,;
-149284,yantai jereh oilfield services group,china,,,,,doll_6.54 b,,doll_249.0 m,,,,;
-149294,yeti holdings,united states,,,,,doll_6.51 b,,doll_212.0 m,,,,;
-149358,yifeng pharmacy chain,china,,,,,doll_6.34 b,,doll_129.0 m,,,,;
-149411,yunnan aluminium,china,,,,,doll_6.19 b,,doll_521.0 m,,,,;
-149466,yonghui superstores,china,,,,,doll_6.04 b,,doll_-574.0 m,,,,;
-149730,yunnan yuntianhua,china,,,,,doll_5.41 b,,doll_571.0 m,,,,;
-149897,yunnan tin company,china,,,,,doll_5.13 b,,doll_442.0 m,,,,;
-149905,yangzhou yangjie electronic technology,china,,,,,doll_5.13 b,,doll_112.0 m,,,,;
-149963,youngor group,china,,,,,doll_5.02 b,,doll_746.0 m,,,,;
-150053,yadea group holdings,china,,,,,doll_4.85 b,,doll_199.0 m,,,,;
-150131,yokogawa electric corporation,japan,,,,,doll_4.72 b,,doll_155.0 m,,,,;
-150155,yes bank,india,,,,,doll_4.68 b,,doll_133.0 m,,,,;
-150160,yihai international holding,china,,,,,doll_4.66 b,,doll_111.0 m,,,,;
-150179,youngy,china,,,,,doll_4.62 b,,doll_10.0 m,,,,;
-150261,yangling metron new material inc.,china,,,,,doll_4.49 b,,doll_112.0 m,,,,;
-150263,yangquan coal industry (group),china,,,,,doll_4.49 b,,doll_512.0 m,,,,;
-150328,yuan long ping high-tech agriculture,china,,,,,doll_4.4 b,,doll_9.0 m,,,,;
-150401,yantai eddie precision machinery,china,,,,,doll_4.27 b,,doll_68.0 m,,,,;
-150699,yiguo,china,,,,,0.0,,0.0,,,,;
-150853,yangzijiang shipbuilding (holdings),china,,,,,doll_3.75 b,,doll_538.0 m,,,,;
-150860,yamana gold,canada,,,,,doll_3.74 b,,doll_113.0 m,,,,;
-150871,yintai gold,china,,,,,doll_3.73 b,,doll_185.0 m,,,,;
-151020,yifan pharmaceutical,china,,,,,doll_3.59 b,,doll_40.0 m,,,,;
-151021,yixintang pharmaceutical group,china,,,,,doll_3.59 b,,doll_134.0 m,,,,;
-151034,yunnan copper,china,,,,,doll_3.57 b,,doll_94.0 m,,,,;
-151174,yantai changyu pioneer wine company,china,,,,,doll_3.41 b,,doll_73.0 m,,,,;
-151530,yingkou port liability,china,,,,,0.0,,0.0,,,,;
-151769,yamazaki baking,japan,,,,,doll_2.88 b,,doll_76.0 m,,,,;
-151785,yuexiu property company,hong kong,,,,,doll_2.88 b,,doll_522.0 m,,,,;
-151888,yamada denki,japan,,,,,doll_2.8 b,,doll_369.0 m,,,,;
-151972,yancoal australia ltd,australia,,,,,doll_2.75 b,,doll_585.0 m,,,,;
-152037,yue yuen industrial (holdings),hong kong,,,,,doll_2.69 b,,doll_115.0 m,,,,;
-152045,yulon nissan motor co. ltd,taiwan,,,,,doll_2.69 b,,doll_100.0 m,,,,;
-152082,yanan bicon pharmaceutical listed company,china,,,,,doll_2.66 b,,0.0,,,,;
-152121,yokohama rubber company,japan,,,,,doll_2.63 b,,doll_478.0 m,,,,;
-152185,yelp,united states,,,,,doll_2.58 b,,doll_39.0 m,,,,;
-152195,yidu tech inc.,china,,,,,doll_2.57 b,,0.0,,,,;
-152254,yangtze optical fibre and cable joint stock company,china,,,,,doll_2.53 b,,0.0,,,,;
-152280,ypsomed holding ag,switzerland,,,,,doll_2.5 b,,doll_24.0 m,,,,;
-152333,yusys technologies,china,,,,,doll_2.47 b,,doll_57.0 m,,,,;
-152339,yulon finance corporation,taiwan,,,,,doll_2.46 b,,doll_170.0 m,,,,;
-152560,yaoko,japan,,,,,doll_2.3 b,,doll_112.0 m,,,,;
-152625,yapi ve kredi bankasi,turkey,,,,,doll_2.26 b,,doll_577.0 m,,,,;
-152633,yijiahe technology,china,,,,,doll_2.26 b,,doll_70.0 m,,,,;
-152722,yougov,uk,,,,,doll_2.21 b,,doll_20.0 m,,,,stephan shakespeare;
-152823,yoozoo games,china,,,,,doll_2.16 b,,0.0,,,,;
-152833,yamato kogyo,japan,,,,,doll_2.15 b,,doll_291.0 m,,,,;
-152919,yango group co. ltd,china,,,,,doll_2.11 b,,doll_-1012.0 m,,,,;
-152991,yantai tayho advanced materials,china,,,,,doll_2.08 b,,0.0,,,,;
-153022,yinyi,china,,,,,doll_2.07 b,,0.0,,,,;
-153036,yfy,taiwan,,,,,doll_2.06 b,,doll_172.0 m,,,,;
-153043,yantai zhenghai magnetic material,china,,,,,doll_2.06 b,,0.0,,,,;
-153057,yantai dongcheng pharmaceutical group,china,,,,,doll_2.05 b,,doll_22.0 m,,,,;
-153244,ygsoft,china,,,,,doll_1.96 b,,0.0,,,,;
-153338,yantai shuangta food,china,,,,,doll_1.91 b,,doll_39.0 m,,,,;
-153494,you & mr jones,united states,,,,,0.0,,0.0,,,,;
-153630,y.h. dimri construction & development ltd,israel,,,,,doll_1.78 b,,doll_72.0 m,,,,;
-153684,yingkou jinchen machinery,china,,,,,doll_1.75 b,,0.0,,,,;
-153759,youngone corporation,south korea,,,,,doll_1.73 b,,doll_223.0 m,,,,;
-153960,yanker shop food,china,,,,,doll_1.66 b,,doll_22.0 m,,,,;
-154065,yieh phui enterprise,taiwan,,,,,doll_1.61 b,,doll_172.0 m,,,,;
-154077,yanlord land group,singapore,,,,,doll_1.61 b,,doll_417.0 m,,,,;
-154114,ypf sociedad anonima,argentina,,,,,doll_1.58 b,,doll_2.0 m,,,,;
-154123,youdao,china,,,,,doll_1.59 b,,doll_-145.0 m,,,,;
-154167,yechiu metal recycling (china) ltd.,china,,,,,doll_1.57 b,,0.0,,,,;
-154168,yanbu cement company,saudi arabia,,,,,doll_1.57 b,,doll_42.0 m,,,,;
-154180,yipinhong pharmaceutical,china,,,,,doll_1.57 b,,0.0,,,,;
-154183,yulon motor company,taiwan,,,,,doll_1.57 b,,doll_156.0 m,,,,;
-154285,yinson holdings berhad,malaysia,,,,,doll_1.52 b,,0.0,,,,;
-154294,ytl corporation berhad,malaysia,,,,,doll_1.52 b,,doll_-82.0 m,,,,;
-154375,yamaguchi financial group,japan,,,,,doll_1.49 b,,doll_-95.0 m,,,,;
-154461,yeahka limited,china,,,,,doll_1.46 b,,0.0,,,,;
-154536,yibin tianyuan group,china,,,,,doll_1.44 b,,0.0,,,,;
-154584,yuexiu real estate investment trust,hong kong,,,,,doll_1.42 b,,doll_82.0 m,,,,;
-154797,yanolja,south korea,,,,,0.0,,0.0,,,,;
-154798,yaochufa,china,,,,,0.0,,0.0,,,,;
-154799,yh global,china,,,,,0.0,,0.0,,,,;
-154800,yijiupi,china,,,,,0.0,,0.0,,,,;
-154801,ymatou,china,,,,,0.0,,0.0,,,,;
-154802,yooli,china,,,,,0.0,,0.0,,,,;
-154803,yunniao,china,,,,,0.0,,0.0,,,,;
-154831,yamama saudi cement company,saudi arabia,,,,,doll_1.4 b,,doll_43.0 m,,,,;
-154833,yaguang technology group company,china,,,,,doll_1.4 b,,doll_-174.0 m,,,,;
-155075,yapp automotive systems,china,,,,,doll_1.34 b,,0.0,,,,;
-155119,yantai china pet foods,china,,,,,doll_1.33 b,,0.0,,,,;
-155263,yakutsk fuel and energy company,russia,,,,,doll_1.29 b,,0.0,,,,;
-155274,yantai zhenghai biotechnology,china,,,,,doll_1.29 b,,0.0,,,,;
-155323,yunnan wenshan electric power,china,,,,,doll_1.28 b,,0.0,,,,;
-155371,yindu kitchen equipment co. ltd,china,,,,,doll_1.26 b,,0.0,,,,;
-155383,yoshinoya holdings,japan,,,,,doll_1.26 b,,doll_59.0 m,,,,;
-155480,yonggao,china,,,,,doll_1.24 b,,0.0,,,,;
-155510,yotrio group,china,,,,,doll_1.23 b,,0.0,,,,;
-155616,yabao pharmaceutical group co. ltd,china,,,,,doll_1.21 b,,0.0,,,,;
-155621,yatsen holding ltd,china,,,,,doll_1.2 b,,doll_-224.0 m,,,,;
-155632,yunnan lincang xinyuan germanium industry,china,,,,,doll_1.2 b,,0.0,,,,;
-155763,yext,united states,,,,,doll_1.17 b,,doll_-93.0 m,,,,;
-155811,ytl power international berhad,malaysia,,,,,doll_1.16 b,,0.0,,,,;
-156008,yunnan tourism,china,,,,,doll_1.12 b,,0.0,,,,;
-156040,yunnan energy investment,china,,,,,doll_1.11 b,,0.0,,,,;
-156050,yunnan xiyi industry,china,,,,,doll_1.11 b,,0.0,,,,;
-156120,yit oyj,finland,,,,,doll_1.08 b,,doll_4.0 m,,,,;
-156260,yieh united steel,taiwan,,,,,doll_1.06 b,,0.0,,,,;
-156367,yujiahui,china,,,,,doll_1.04 b,,0.0,,,,;
-156407,yixin group,china,,,,,doll_1.03 b,,doll_4.0 m,,,,;
-156507,yuexiu transport infrastructure,hong kong,,,,,doll_1.02 b,,doll_213.0 m,,,,;
-156577,yantai north andre juice company,china,,,,,doll_1.01 b,,0.0,,,,;
-156606,young & co's brewery,uk,,,,,doll_999.0 m,,doll_40.0 m,,,,;
-156919,yungtay engineering,taiwan,,,,,doll_954.0 m,,doll_47.0 m,,,,;
-156954,young poong corporation,south korea,,,,,doll_944.0 m,,doll_93.0 m,,,,;
-159237,yahoo,united states,,,,,0,,,['internet or mobile app based business'],,,;
-163012,yulon finance corporation,taiwan,,,,,doll_2.46 m,,170 million usd,['financial services'],,,;
-163694,yinyi,china,,,,,doll_2.07 m,,,['real estate'],,,;
-164302,y.h. dimri construction & development ltd,israel,,,,,doll_1.78 m,,72 million usd,['real estate'],,,;
-164966,ytl corporation berhad,malaysia,,,,,doll_1.52 m,,-82 million usd,['utilities'],,,;
-165469,yanolja,south korea,,,,,0,,,[],,,;
-165470,yaochufa,china,,,,,0,,,[],,,;
-165471,yh global,china,,,,,0,,,['logistics'],,,;
-165472,yijiupi,china,,,,,0,,,[],,,;
-165473,ymatou,china,,,,,0,,,[],,,;
-165474,yooli,china,,,,,0,,,[],,,;
-165475,yunniao,china,,,,,0,,,['logistics'],,,;
-166483,ytl power international berhad,malaysia,,,,,doll_1.16 m,,,['utilities'],,,;
-167078,yixin group,china,,,,,doll_1.03 m,,4 million usd,['financial services'],,,;
-170235,yahoo,united states,,,not found,,,not found,,['internet or mobile app based business'],,,not found;
-173461,yuexiu property company,hong kong,,,1992,,,doll_8.350 m,,['real estate'],,,not found;
-174018,yulon finance corporation,taiwan,,,1990,,,485 million usd,,['financial services'],,,not found;
-174694,yinyi,china,,,not found,,,not found,,['real estate'],,,not found;
-175170,you & mr jones,united states,,,2015,,,not found,,not found,,,not found;
-175307,y.h. dimri construction & development ltd,israel,,,1989,,,386 million usd,,['real estate'],,,not found;
-175969,ytl corporation berhad,malaysia,,,not found,,,doll_3.865 m,,['utilities'],,,not found;
-176463,yaochufa,china,,,2011,,,not found,,not found,,,not found;
-176464,yanolja,south korea,,,2005,,,not found,,not found,,,not found;
-176469,yh global,china,,,2012,,,not found,,['logistics'],,,not found;
-176472,yijiupi,china,,,2014,,,not found,,not found,,,not found;
-176476,yooli,china,,,2012,,,not found,,not found,,,not found;
-176478,yunniao,china,,,2014,,,not found,,['logistics'],,,not found;
-176480,ymatou,china,,,2009,,,not found,,not found,,,not found;
-177489,ytl power international berhad,malaysia,,,not found,,,not found,,['utilities'],,,not found;
-178074,yixin group,china,,,not found,,,508 million usd,,['financial services'],,,not found;
-179534,yoox net-a-porter group,,milan,,2015,,,,,consumer services,clothing & accessories,,;
-180088,yoplait,,boulogne-billancourt,,1965,,,,,consumer goods,food products,,;
-181646,yit,,helsinki,,1912,,,,,industrials,heavy construction,,;
-181809,yoplait,,boulogne-billancourt,,1965,,,,,consumer goods,food products,,;
-183007,yoox net-a-porter group,,milan,,2015,,,,,consumer services,clothing & accessories,,;
-184583,yakult,,haidian district,,2001,,,,,sports equipment,,,;
-184586,yandex,,moscow,,0,,,,,internet search engine mapping streaming services internet retail,,,;
-184587,yokohama rubber company,,moscow,,0,,,,,manufacturing,,,;
-184588,yamaha motor company,,moscow,,0,,,,,automotive,,,;
-184589,yum! brands,,moscow,,0,,,,,foodservice,,,;
+id,name,country,address,founded,employees,market_cap,revenue,profit,categories,ceo,city
+46,yes bank,,,2004.0,,,,,['banking'],,
+327,yazaki,,,1941.0,,,,,['auto components'],,
+409,yamaha motor,,,2007.0,,,,,['automobile'],,
+494,yash technologies,,,1996.0,,,,,['it services & consulting'],,
+852,yashoda hospitals,,,1989.0,,,,,['healthcare'],,
+1310,yatra,,,2006.0,,,,,['travel & tourism'],,
+1373,y-axis overseas careers,,,1999.0,,,,,['other'],,
+1474,yokogawa,,,1915.0,,,,,['auto components'],,
+1857,yokohama,,,1917.0,,,,,['auto components'],,
+1863,yokohama,,,1917.0,,,,,['auto components'],,
+2047,you broadband,,,2001.0,,,,,['telecom'],,
+2131,yodlee,,,1999.0,,,,,['software product'],,
+2132,yardi systems,,,1984.0,,,,,['software product'],,
+2279,yusen logistics,,,1955.0,,,,,['logistics'],,
+2369,yum!,,,1997.0,,,,,['hospitality'],,
+2952,yashi consulting services,,,2005.0,,,,,['engineering & construction'],,
+3069,yara fertilisers,,,1905.0,,,,,['agro chemicals'],,
+3161,ykk,,,1995.0,,,,,['fashion & textile'],,
+4061,yellow diamond,,,2009.0,,,,,['fmcg'],,
+4317,yokohama off-highway tires,,,2007.0,,,,,['auto components'],,
+4945,yfc projects,,,1986.0,,,,,['engineering & construction'],,
+5092,yamaha motor india sales,,,1985.0,,,,,['automobile'],,
+6288,yashashvi rasayan,,,1990.0,,,,,['metals & mining'],,
+6392,yes,,,,,,,,['banking'],,
+6443,yuken india,,,1976.0,,,,,['industrial machinery'],,
+6595,yeshshree press comps,,,1997.0,,,,,['auto components'],,
+6668,yethi consulting,,,2013.0,,,,,['it services & consulting'],,
+6734,youtube,,,2005.0,,,,,['internet'],,
+6882,yupptv,,,2006.0,,,,,['broadcasting'],,
+6919,yupptv,,,2006.0,,,,,['broadcasting'],,
+7658,yellow banana food company,,,1998.0,,,,,['hospitality'],,
+7698,yellow banana food company,,,1998.0,,,,,['hospitality'],,
+7911,ych logistics,,,1955.0,,,,,['logistics'],,
+7930,yuto printing and packaging,,,,,,,,['packaging'],,
+8453,ylg salon & spa,,,2009.0,,,,,['beauty & personal care'],,
+8507,ylg salon & spa,,,2009.0,,,,,['beauty & personal care'],,
+8762,yaantra,,,2013.0,,,,,['internet'],,
+9127,yamaha music india,,,2008.0,,,,,['media & entertainment'],,
+9226,yes securities,,,,,,,,['investment banking / venture capital / private equity'],,
+9382,yamaha motors solutions,,,,,,,,['it services & consulting'],,
+9464,yuva parivartan,,,1998.0,,,,,['non-profit'],,
+9884,yashaswi academy for skills,,,1984.0,,,,,['education & training'],,
+11361,yellowsparkleoãå(12956198),,,,,,,,,,
+11362,yespaceinternationaloãå(14728656),,,,,,,,,,
+11365,yespartneroãå(12274783),,,,,,,,,,
+11366,yespatronoãå(11726199),,,,,,,,,,
+11367,yksehituspartneroãå(14692616),,,,,,,,,,
+11472,yipitdata,united states,,2008.0,,,,,['internet software & services'],,new york
+11576,yunxuetang,china,,2011.0,,,,,['edtech'],,suzhou
+11608,ynsect,france,,2011.0,,,,,['other'],,evry
+11610,yanolja,south korea,,2005.0,,,,,['travel'],,seoul
+11631,yh global,china,,1997.0,,,,,"['supply chain, logistics, & delivery']",,shenzhen
+11750,yimidida,china,,2015.0,,,,,"['supply chain, logistics, & delivery']",,shanghai
+11752,younited,france,,2009.0,,,,,['fintech'],,paris
+11786,yiguo,china,,2005.0,,,,,"['supply chain, logistics, & delivery']",,shanghai
+11832,yubi,india,,2017.0,,,,,['fintech'],,chennai
+11839,yugabyte,united states,,2016.0,,,,,['data management & analytics'],,sunnyvale
+11860,yaoshibang,china,,2015.0,,,,,['health'],,guangzhou
+11887,yotpo,united states,,2011.0,,,,,['internet software & services'],,new york
+11897,yidian zixun,china,,2021.0,,,,,['mobile & telecommunications'],,beijing
+11910,yipin shengxian,china,,2017.0,,,,,['e-commerce & direct-to-consumer'],,hefei
+11952,yunquna,china,,2015.0,,,,,"['supply chain, logistics, & delivery']",,shanghai
+11965,yijiupi,china,,2014.0,,,,,['consumer & retail'],,beijing
+12168,yitu technology,china,,2012.0,,,,,['artificial intelligence'],,shanghai
+12319,yixia,china,,2011.0,,,,,['mobile & telecommunications'],,beijing
+12327,youxia motors,china,,2014.0,,,,,['auto & transportation'],,shanghai
+12374,yuga labs,united states,,2021.0,,,,,['internet software & services'],,miami
+12396,yello mobile,south korea,,2012.0,,,,,['mobile & telecommunications'],,seoul
+12529,yuanfudao,china,,2012.0,,,,,['edtech'],,beijing
+12536,yuanqi senlin,china,,2016.0,,,,,['consumer & retail'],,beijing
+12570,yuanfudao,china,,,,,,,['edtech'],,beijing
+12574,yuanqi senlin,china,,,,,,,['consumer & retail'],,beijing
+12745,yello mobile,south korea,,,,,,,['mobile & telecommunications'],,seoul
+12766,yuga labs,united states,,,,,,,['internet software & services'],,miami
+12810,youxia motors,china,,,,,,,['auto & transportation'],,shanghai
+12838,yixia,china,,,,,,,['mobile & telecommunications'],,beijing
+12973,yitu technology,china,,,,,,,['artificial intelligence'],,shanghai
+13177,yijiupi,china,,,,,,,['consumer & retail'],,beijing
+13189,yunquna,china,,,,,,,"['supply chain, logistics, & delivery']",,shanghai
+13225,yipin shengxian,china,,,,,,,['e-commerce & direct-to-consumer'],,hefei
+13248,yidian zixun,china,,,,,,,['mobile & telecommunications'],,beijing
+13254,yotpo,united states,,,,,,,['internet software & services'],,new york
+13279,yaoshibang,china,,,,,,,['health'],,guangzhou
+13302,yugabyte,united states,,,,,,,['data management & analytics'],,sunnyvale
+13347,yiguo,china,,,,,,,"['supply chain, logistics, & delivery']",,shanghai
+13391,yimidida,china,,,,,,,"['supply chain, logistics, & delivery']",,shanghai
+13509,yh global,china,,,,,,,"['supply chain, logistics, & delivery']",,shenzhen
+13532,ynsect,france,,,,,,,['other'],,evry
+13538,yanolja,south korea,,,,,,,['travel'],,seoul
+13573,yunxuetang,china,,,,,,,['edtech'],,suzhou
+13682,yipitdata,united states,,,,,,,['internet software & services'],,new york
+14244,yum! brands,united states,,,,doll_3.652 b,,,['restaurant chains'],,
+14257,yanghe,china,,,,doll_3.127 b,,,"['alcoholic beverages', 'beverages']",,
+14370,yili group,china,,,,doll_2.711 b,,,['dairy companies'],,
+14489,yankuang energy (yanzhou coal mining),china,,,,doll_2.3129999999999997 b,,,"['mining', 'coal mining', 'energy']",,
+14493,yum china,china,,,,doll_2.321 b,,,"['food', 'restaurant chains']",,
+15447,yg entertainment,south korea,,,,doll_0.076 b,,,['entertainment'],,
+15619,yiren digital,china,,,,doll_0.026000000000000002 b,,,['financial services'],,
+15695,yunji,china,,,,doll_0.012 b,,,"['e-commerce', 'internet', 'tech']",,
+15825,youngevity international,united states,,,,doll_0.0011899999999999999 b,,,['consumer goods'],,
+15938,yield10 bioscience,united states,,,,doll_0.01374 b,,,['biotech'],,
+16273,yuke's,japan,,,,doll_0.08133 b,,,"['video games', 'entertainment']",,
+16486,yellow corporation,united states,,,,doll_0.014000000000000002 b,,,['transportation'],,
+16495,yatra,india,,,,doll_0.014000000000000002 b,,,"['internet', 'travel']",,
+16659,y-mabs therapeutics,united states,,,,doll_0.019 b,,,['pharmaceuticals'],,
+17518,yit,finland,,,,doll_0.062 b,,,['construction'],,
+17539,york water,united states,,,,doll_0.065 b,,,['utility companies'],,
+17553,yalla group,united arab emirates,,,,doll_0.065 b,,,"['internet', 'tech']",,
+17706,yext,united states,,,,doll_0.077 b,,,"['software', 'tech']",,
+17840,yellow cake plc,,,,,doll_0.089 b,,,"['uranium', 'energy']",,
+17903,yatsen holding,china,,,,doll_0.095 b,,,"['retail', 'cosmetics and beauty']",,
+17965,youdao,china,,,,doll_0.1 b,,,"['internet', 'tech']",,
+18343,ytl corporation berhad,malaysia,,,,doll_0.144 b,,,,,
+18385,yoozoo interactive,china,,,,doll_0.149 b,,,"['video games', 'entertainment']",,
+18445,yanlord,singapore,,,,doll_0.156 b,,,['real estate'],,
+18755,yelp,united states,,,,doll_0.207 b,,,"['internet', 'tech']",,
+19231,yuhan,south korea,,,,doll_0.303 b,,,"['pharmaceuticals', 'biotech', 'chemicals']",,
+19490,yeti holdings,united states,,,,doll_0.37 b,,,,,
+19830,yuhan,south-korea,,,,doll_0.301 b,,,['pharmaceuticals biotech chemicals '],,
+20575,yeti holdings,united states,,,,doll_0.378 b,,,,,
+20666,yap± kredi,turkey,,,,doll_0.43099999999999994 b,,,['banks financial-services '],,
+20958,yamato holdings,japan,,,,doll_0.567 b,,,['transportation delivery-services '],,
+20968,yancoal,australia,,,,doll_0.5690000000000001 b,,,['mining coal-mining energy '],,
+20985,yageo,taiwan,,,,doll_0.5740000000000001 b,,,['electronics manufacturing '],,
+21093,yamana gold,canada,,,,doll_0.581 b,,,['mining gold-mining silver-mining '],,
+21224,yanbu national petrochemical,saudi-arabia,,,,doll_0.635 b,,,['chemicals '],,
+21240,yamaha,japan,,,,doll_0.644 b,,,,,
+21296,yang ming,taiwan,,,,doll_0.7150000000000001 b,,,['transportation maritime-transportation container-shipping '],,
+21311,yes bank,india,,,,doll_0.72 b,,,['banks financial-services '],,
+21454,yamaha motor,japan,,,,doll_0.8220000000000001 b,,,['motorcycle-manufacturers manufacturing '],,
+21527,yuanta financial holding,taiwan,,,,doll_0.9369999999999999 b,,,['banks financial-services '],,
+21551,yaskawa,japan,,,,doll_0.966 b,,,['electronics '],,
+21616,yonyou,china,,,,doll_1.25 b,,,['software tech '],,
+21855,ypf(yacimientos petrolã­feros fiscales),none,,,,doll_0.891 b,,,['oil-gas energy '],,
+21861,yandex,netherlands,,,,doll_0.8949999999999999 b,,,['tech internet '],,
+21938,yara international,norway,,,,doll_1.1720000000000002 b,,,['chemicals '],,
+21994,yankuang energy (yanzhou coal mining),china,,,,doll_2.257 b,,,['mining coal-mining energy '],,
+22050,yum china,china,,,,doll_2.425 b,,,['food restaurant-chains '],,
+22279,yili group,china,,,,doll_3.0780000000000003 b,,,['dairy '],,
+22542,yakult,japan,,,,doll_1.072 b,,,['beverages '],,
+22667,yum! brands,united states,,,,doll_3.6759999999999997 b,,,['restaurant-chains '],,
+22718,yanghe,china,,,,doll_4.1 b,,,['alcoholic-beverages beverages '],,
+23326,yext,united states,,,,doll_0.081 b,,,['software tech '],,
+23401,yellow cake plc,none,,,,doll_0.089 b,,,['uranium energy '],,
+23423,yatsen holding,china,,,,doll_0.09 b,,,['retail cosmetics '],,
+23606,youdao,china,,,,doll_0.099 b,,,['internet tech '],,
+23750,ytl corporation berhad,malaysia,,,,doll_0.144 b,,,,,
+24006,yanlord,singapore,,,,doll_0.15 b,,,['real-estate '],,
+24050,yoozoo interactive,china,,,,doll_0.154 b,,,['video-games entertainment '],,
+24480,yelp,united states,,,,doll_0.20099999999999998 b,,,['internet tech '],,
+24715,yield10 bioscience,united states,,,,doll_0.01572 b,,,['biotech '],,
+24785,youngevity international,united states,,,,doll_0.0011899999999999999 b,,,['consumer-goods '],,
+25220,yuke's,japan,,,,doll_0.07893 b,,,['video-games entertainment '],,
+25423,yunji,china,,,,doll_0.012 b,,,['e-commerce internet tech '],,
+25469,yellow corporation,united states,,,,doll_0.014000000000000002 b,,,['transportation '],,
+25534,yatra,india,,,,doll_0.015 b,,,['internet travel '],,
+26096,yiren digital,china,,,,doll_0.024 b,,,['financial-services '],,
+26498,y-mabs therapeutics,united states,,,,doll_0.02 b,,,['pharmaceuticals '],,
+26573,yalla group,united-arab-emirates,,,,doll_0.063 b,,,['internet tech '],,
+26627,york water,united states,,,,doll_0.066 b,,,['utility-companies '],,
+26749,yit,finland,,,,doll_0.061 b,,,['construction '],,
+26820,yg entertainment,south-korea,,,,doll_0.073 b,,,['entertainment '],,
+27284,yanghe,china,,,,doll_4.189 b,,,,,
+27355,yum! brands,united states,,,,doll_3.668 b,,,,,
+27424,yili group,china,,,,doll_3.189 b,,,,,
+27564,yum china,china,,,,doll_2.52 b,,,,,
+27646,yankuang energy (yanzhou coal mining),china,,,,doll_2.241 b,,,,,
+28156,yonyou,china,,,,doll_1.223 b,,,,,
+28200,yara international,norway,,,,doll_1.175 b,,,,,
+28303,yakult,japan,,,,doll_1.056 b,,,,,
+28420,yuanta financial holding,taiwan,,,,doll_0.9369999999999999 b,,,,,
+28454,yaskawa,japan,,,,doll_0.9039999999999999 b,,,,,
+28466,yandex,netherlands,,,,doll_0.8949999999999999 b,,,,,
+28632,yamaha motor,japan,,,,doll_0.774 b,,,,,
+28638,ypf (yacimientos petrolíferos fiscales),argentina,,,,doll_0.773 b,,,,,
+28749,yes bank,india,,,,doll_0.713 b,,,,,
+28769,yang ming,taiwan,,,,doll_0.704 b,,,,,
+28905,yanbu national petrochemical,s. arabia,,,,doll_0.636 b,,,,,
+28957,yamaha,japan,,,,doll_0.615 b,,,,,
+29029,yamana gold,canada,,,,doll_0.587 b,,,,,
+29054,yancoal,australia,,,,doll_0.577 b,,,,,
+29075,yageo,taiwan,,,,doll_0.568 b,,,,,
+29120,yamato holdings,japan,,,,doll_0.5549999999999999 b,,,,,
+29507,yapı kredi,turkey,,,,doll_0.42699999999999994 b,,,,,
+29654,yeti holdings,united states,,,,doll_0.387 b,,,,,
+30000,yuhan,s. korea,,,,doll_0.308 b,,,,,
+30611,yelp,united states,,,,doll_0.202 b,,,,,
+30979,yoozoo interactive,china,,,,doll_0.154 b,,,,,
+31020,yanlord,singapore,,,,doll_0.15 b,,,,,
+31034,ytl corporation berhad,malaysia,,,,doll_0.144 b,,,,,
+31469,youdao,china,,,,doll_0.096 b,,,,,
+31502,yatsen holding,china,,,,doll_0.094 b,,,,,
+31590,yellow cake plc,jersey,,,,doll_0.09 b,,,,,
+31771,yext,united states,,,,doll_0.081 b,,,,,
+31928,yg entertainment,s. korea,,,,doll_0.071 b,,,,,
+32012,yalla group,uae,,,,doll_0.066 b,,,,,
+32031,york water,united states,,,,doll_0.064 b,,,,,
+32034,yit,finland,,,,doll_0.064 b,,,,,
+32904,yiren digital,china,,,,doll_0.024 b,,,,,
+33025,y-mabs therapeutics,united states,,,,doll_0.02 b,,,,,
+33218,yatra,india,,,,doll_0.015 b,,,,,
+33282,yellow corporation,united states,,,,doll_0.014000000000000002 b,,,,,
+33331,yunji,china,,,,doll_0.012 b,,,,,
+33524,yuke's,japan,,,,doll_0.07776000000000001 b,,,,,
+33901,yield10 bioscience,united states,,,,doll_0.015269999999999999 b,,,,,
+34060,youngevity international,united states,,,,doll_0.0011899999999999999 b,,,,,
+34527,yum! brands,united states,,,,doll_3.6700000000000004 b,,,,,
+34529,yanghe,china,,,,doll_3.65 b,,,,,
+34655,yili group,china,,,,doll_2.929 b,,,,,
+34765,yum china,china,,,,doll_2.428 b,,,,,
+34882,yankuang energy (yanzhou coal mining),china,,,,doll_2.022 b,,,,,
+35295,yonyou,china,,,,doll_1.224 b,,,,,
+35384,yara international,norway,,,,doll_1.136 b,,,,,
+35522,yakult,japan,,,,doll_0.992 b,,,,,
+35610,yandex,netherlands,,,,doll_0.8949999999999999 b,,,,,
+35614,yuanta financial holding,taiwan,,,,doll_0.893 b,,,,,
+35728,yaskawa,japan,,,,doll_0.8119999999999999 b,,,,,
+35805,yamaha motor,japan,,,,doll_0.758 b,,,,,
+35844,yes bank,india,,,,doll_0.734 b,,,,,
+35864,yang ming,taiwan,,,,doll_0.724 b,,,,,
+35954,ypf (yacimientos petrolíferos fiscales),argentina,,,,doll_0.6679999999999999 b,,,,,
+36072,yamaha,japan,,,,doll_0.615 b,,,,,
+36081,yanbu national petrochemical,s. arabia,,,,doll_0.611 b,,,,,
+36194,yamana gold,canada,,,,doll_0.5690000000000001 b,,,,,
+36250,yancoal,australia,,,,doll_0.55 b,,,,,
+36269,yamato holdings,japan,,,,doll_0.5429999999999999 b,,,,,
+36273,yageo,taiwan,,,,doll_0.541 b,,,,,
+36439,yapı kredi,turkey,,,,doll_0.484 b,,,,,
+36878,yeti holdings,united states,,,,doll_0.361 b,,,,,
+37127,yuhan,s. korea,,,,doll_0.302 b,,,,,
+37745,yelp,united states,,,,doll_0.199 b,,,,,
+38134,yanlord,singapore,,,,doll_0.149 b,,,,,
+38219,ytl corporation berhad,malaysia,,,,doll_0.13899999999999998 b,,,,,
+38249,yoozoo interactive,china,,,,doll_0.137 b,,,,,
+38642,yatsen holding,china,,,,doll_0.99 b,,,,,
+38695,youdao,china,,,,doll_0.95 b,,,,,
+38813,yellow cake plc,jersey,,,,doll_0.86 b,,,,,
+38977,yext,united states,,,,doll_0.75 b,,,,,
+39052,yg entertainment,s. korea,,,,doll_0.7 b,,,,,
+39118,yalla group,united arab emirates,,,,doll_0.66 b,,,,,
+39161,york water,united states,,,,doll_0.63 b,,,,,
+39237,yit,finland,,,,doll_0.58 b,,,,,
+40140,y-mabs therapeutics,united states,,,,doll_0.2 b,,,,,
+40230,yiren digital,china,,,,doll_0.17 b,,,,,
+40321,yatra,india,,,,doll_0.15 b,,,,,
+40336,yunji,china,,,,doll_0.15 b,,,,,
+40440,yellow corporation,united states,,,,doll_0.12 b,,,,,
+40651,yuke's,japan,,,,doll_0.0761 b,,,,,
+41096,yield10 bioscience,united states,,,,doll_0.00966 b,,,,,
+41205,youngevity international,united states,,,,doll_0.00113 b,,,,,
+41399,yili group,china,,,,doll_2.866 b,,,['dairycompanies'],,
+41653,yaskawa,japan,,,,doll_0.869 b,,,['electronics'],,
+41732,yamaha,japan,,,,doll_0.673 b,,,,,
+41806,yamato holdings,japan,,,,doll_0.591 b,,,"['transportation', 'courier']",,
+41829,yanbu national petrochemical,saudi arabia,,,,doll_0.602 b,,,['chemicals'],,
+41890,yancoal,australia,,,,doll_0.514 b,,,"['mining', 'coalmining', 'energy']",,
+41911,yapı kredi,turkey,,,,doll_0.47800000000000004 b,,,"['banks', 'financialservices']",,
+42312,yelp,united states,,,,doll_0.199 b,,,,,
+42537,yext,united states,,,,doll_0.077 b,,,,,
+42571,york water,united states,,,,doll_0.065 b,,,['utilitycompanies'],,
+42760,y-mabs therapeutics,united states,,,,doll_0.02 b,,,['pharmaceuticals'],,
+42788,yatra,india,,,,doll_0.013000000000000001 b,,,"['internet', 'travel']",,
+42845,yuke's,japan,,,,doll_0.06909 b,,,"['videogames', 'entertainment']",,
+42932,yield10 bioscience,united states,,,,doll_0.00939 b,,,['biotech'],,
+42942,youngevity international,united states,,,,doll_0.0008100000000000001 b,,,['consumergoods'],,
+43612,yellow corporation,united states,,,,doll_0.014000000000000002 b,,,['transportation'],,
+43692,yunji,china,,,,doll_0.017 b,,,"['ecommerce', 'internet', 'tech']",,
+44427,yalla group,united arab emirates,,,,doll_0.054000000000000006 b,,,"['internet', 'tech']",,
+44500,yit,finland,,,,doll_0.057999999999999996 b,,,['construction'],,
+44517,yg entertainment,south korea,,,,doll_0.06 b,,,['entertainment'],,
+44564,youdao,china,,,,doll_0.063 b,,,"['internet', 'tech']",,
+44605,yatsen holding,china,,,,doll_0.067 b,,,"['retail', 'cosmeticsandbeauty']",,
+45189,yoozoo interactive,china,,,,doll_0.12 b,,,"['videogames', 'entertainment']",,
+45308,ytl corporation berhad,malaysia,,,,doll_0.136 b,,,,,
+45383,yanlord,singapore,,,,doll_0.145 b,,,['realestate'],,
+46188,yuhan,south korea,,,,doll_0.303 b,,,"['pharmaceuticals', 'biotech', 'chemicals']",,
+46403,yeti holdings,united states,,,,doll_0.376 b,,,,,
+46712,yageo,taiwan,,,,doll_0.523 b,,,"['electronics', 'manufacturing']",,
+46752,yes bank,india,,,,doll_0.5389999999999999 b,,,"['banks', 'financialservices']",,
+46754,yamana gold,canada,,,,doll_0.54 b,,,"['mining', 'goldmining', 'silvermining']",,
+46885,ypf(yacimientos petrolíferos fiscales),argentina,,,,doll_0.622 b,,,"['oilgas', 'energy']",,
+46968,yang ming,taiwan,,,,doll_0.6950000000000001 b,,,"['transportation', 'maritimetransportation', 'containershipping']",,
+47116,yamaha motor,japan,,,,doll_0.826 b,,,"['motorcyclemanufacturers', 'manufacturing']",,
+47190,yuanta financial holding,taiwan,,,,doll_0.909 b,,,"['banks', 'financialservices']",,
+47235,yandex,netherlands,,,,doll_0.97 b,,,"['tech', 'internet']",,
+47270,yakult,japan,,,,doll_0.998 b,,,['beverages'],,
+47332,yara international,norway,,,,doll_1.087 b,,,['chemicals'],,
+47334,yonyou,china,,,,doll_1.1 b,,,"['software', 'tech']",,
+47783,yankuang energy (yanzhou coal mining),china,,,,doll_2.279 b,,,"['mining', 'coalmining', 'energy']",,
+47796,yum china,china,,,,doll_2.326 b,,,"['food', 'restaurantchains']",,
+47953,yanghe,china,,,,doll_3.3 b,,,"['alcoholicbeverages', 'beverages']",,
+47973,yum! brands,united states,,,,doll_3.6130000000000004 b,,,['restaurantchains'],,
+48783,yum! brands,united states,,,,doll_3.696 b,,,,,
+48803,yanghe,china,,,,doll_3.622 b,,,,,
+48933,yili group,china,,,,doll_2.88 b,,,,,
+49041,yum china,china,,,,doll_2.386 b,,,,,
+49078,yankuang energy (yanzhou coal mining),china,,,,doll_2.242 b,,,,,
+49628,yonyou,china,,,,doll_1.15 b,,,,,
+49668,yara international,norway,,,,doll_1.1039999999999999 b,,,,,
+49782,yakult,japan,,,,doll_0.999 b,,,,,
+49814,yandex,netherlands,,,,doll_0.97 b,,,,,
+49874,yuanta financial holding,taiwan,,,,doll_0.913 b,,,,,
+49917,yaskawa,japan,,,,doll_0.8800000000000001 b,,,,,
+49978,yamaha motor,japan,,,,doll_0.8220000000000001 b,,,,,
+50038,yes bank,india,,,,doll_0.783 b,,,,,
+50149,yang ming,taiwan,,,,doll_0.713 b,,,,,
+50203,yamaha,japan,,,,doll_0.683 b,,,,,
+50379,yamato holdings,japan,,,,doll_0.608 b,,,,,
+50416,yanbu national petrochemical,s. arabia,,,,doll_0.591 b,,,,,
+50466,ypf(yacimientos petrolíferos fiscales),gentina,,,,doll_0.572 b,,,,,
+50546,yancoal,australia,,,,doll_0.544 b,,,,,
+50557,yageo,taiwan,,,,doll_0.54 b,,,,,
+50565,yamana gold,canada,,,,doll_0.5389999999999999 b,,,,,
+50572,yapı kredi,turkey,,,,doll_0.536 b,,,,,
+51014,yeti holdings,united states,,,,doll_0.394 b,,,,,
+51389,yuhan,s. korea,,,,doll_0.305 b,,,,,
+52050,yelp,united states,,,,doll_0.194 b,,,,,
+52399,yanlord,singapore,,,,doll_0.151 b,,,,,
+52532,ytl corporation berhad,malaysia,,,,doll_0.136 b,,,,,
+52763,yoozoo interactive,china,,,,doll_0.11299999999999999 b,,,,,
+53166,yext,united states,,,,doll_0.08 b,,,,,
+53173,yatsen holding,china,,,,doll_0.08 b,,,,,
+53384,youdao,china,,,,doll_0.066 b,,,,,
+53403,york water,united states,,,,doll_0.065 b,,,,,
+53482,yg entertainment,s. korea,,,,doll_0.061 b,,,,,
+53526,yalla group,ited arab emirates,,,,doll_0.057999999999999996 b,,,,,
+53528,yit,finland,,,,doll_0.057999999999999996 b,,,,,
+54341,y-mabs therapeutics,united states,,,,doll_0.022 b,,,,,
+54504,yellow corporation,united states,,,,doll_0.017 b,,,,,
+54543,yunji,china,,,,doll_0.016 b,,,,,
+54632,yatra,india,,,,doll_0.013000000000000001 b,,,,,
+54847,yuke's,japan,,,,doll_0.08265 b,,,,,
+55312,yield10 bioscience,united states,,,,doll_0.00924 b,,,,,
+55750,yanghe,china,,,,doll_4.118 b,,,,,
+55820,yum! brands,united states,,,,doll_3.567 b,,,,,
+55900,yili group,china,,,,doll_3.087 b,,,,,
+56031,yum china,china,,,,doll_2.473 b,,,,,
+56083,yankuang energy (yanzhou coal mining),china,,,,doll_2.2969999999999997 b,,,,,
+56518,yonyou,china,,,,doll_1.3359999999999999 b,,,,,
+56672,yara international,norway,,,,doll_1.1400000000000001 b,,,,,
+56722,yakult,japan,,,,doll_1.096 b,,,,,
+56861,yaskawa,japan,,,,doll_0.952 b,,,,,
+56874,yuanta financial holding,taiwan,,,,doll_0.9369999999999999 b,,,,,
+56925,yandex,netherlands,,,,doll_0.8949999999999999 b,,,,,
+56970,ypf (yacimientos petrolíferos fiscales),,,,,doll_0.8619999999999999 b,,,,,
+57052,yamaha motor,japan,,,,doll_0.8019999999999999 b,,,,,
+57196,yang ming,taiwan,,,,doll_0.7150000000000001 b,,,,,
+57232,yes bank,india,,,,doll_0.6980000000000001 b,,,,,
+57354,yanbu national petrochemical,saudi arabia,,,,doll_0.635 b,,,,,
+57356,yamaha,japan,,,,doll_0.634 b,,,,,
+57421,yancoal,australia,,,,doll_0.611 b,,,,,
+57482,yamana gold,canada,,,,doll_0.5900000000000001 b,,,,,
+57514,yageo,taiwan,,,,doll_0.5740000000000001 b,,,,,
+57546,yamato holdings,japan,,,,doll_0.5599999999999999 b,,,,,
+57856,yap kredi,turkey,,,,doll_0.457 b,,,,,
+58161,yeti holdings,united states,,,,doll_0.37 b,,,,,
+58467,yuhan,south korea,,,,doll_0.303 b,,,,,
+59039,yelp,united states,,,,doll_0.207 b,,,,,
+59413,yanlord,singapore,,,,doll_0.156 b,,,,,
+59473,yoozoo interactive,china,,,,doll_0.149 b,,,,,
+59531,ytl corporation berhad,malaysia,,,,doll_0.144 b,,,,,
+59973,youdao,china,,,,doll_0.1 b,,,,,
+60050,yatsen holding,china,,,,doll_0.095 b,,,,,
+60129,yellow cake plc,,,,,doll_0.089 b,,,,,
+60279,yext,united states,,,,doll_0.077 b,,,,,
+60304,yg entertainment,south korea,,,,doll_0.076 b,,,,,
+60464,yalla group,united arab emirates,,,,doll_0.065 b,,,,,
+60478,york water,united states,,,,doll_0.065 b,,,,,
+60515,yit,finland,,,,doll_0.062 b,,,,,
+61291,yiren digital,china,,,,doll_0.026000000000000002 b,,,,,
+61533,y-mabs therapeutics,united states,,,,doll_0.019 b,,,,,
+62210,yext,,,,1400.0,doll_0.081 b,doll_0.039 b,doll_0.07869 b,,,
+62477,yeti holdings,,,,823000.0,doll_0.387 b,doll_0.159 b,doll_0.025 b,,,
+62851,youngevity international,,,,415000.0,doll_0.0011899999999999999 b,doll_0.01 b,doll_0.04625 b,,,
+63278,y-mabs therapeutics,,,,148000.0,doll_0.02 b,doll_0.04341 b,doll_0.013000000000000001 b,,,
+63387,york water,,,,110000.0,doll_0.064 b,doll_0.05868 b,doll_0.01846 b,,,
+63711,yield10 bioscience,,,,29000.0,doll_0.015269999999999999 b,doll_0.00051 b,doll_0.013210000000000001 b,,,
+64320,yamana gold,,,,,doll_0.587 b,doll_0.185 b,doll_0.040999999999999995 b,,,
+64735,yum china,,,,147000.0,doll_2.52 b,doll_0.977 b,doll_0.124 b,,,
+64767,yankuang energy (yanzhou coal mining),,,,61864.0,doll_2.241 b,doll_2.984 b,doll_0.8789999999999999 b,,,
+64768,yili group,,,,61598.0,doll_3.189 b,doll_1.8010000000000002 b,doll_0.16899999999999998 b,,,
+64813,yonyou,,,,20998.0,doll_1.223 b,doll_0.145 b,doll_0.04861 b,,,
+64824,yanghe,,,,17956.0,doll_4.189 b,doll_0.45199999999999996 b,doll_0.198 b,,,
+64862,youdao,,,,6096.0,doll_0.096 b,doll_0.06899999999999999 b,doll_0.015 b,,,
+64879,yiren digital,,,,3797.0,doll_0.024 b,doll_0.064 b,doll_0.02 b,,,
+64880,yatsen holding,,,,3497.0,doll_0.094 b,doll_0.064 b,doll_0.020999999999999998 b,,,
+64901,yoozoo interactive,,,,1726.0,doll_0.154 b,doll_0.032 b,doll_0.014410000000000001 b,,,
+64933,yunji,,,,655000.0,doll_0.012 b,doll_0.02 b,doll_0.02469 b,,,
+65055,yg entertainment,,,,,doll_0.071 b,,,,,
+65081,yuhan,,,,,doll_0.308 b,doll_0.136 b,doll_0.08843000000000001 b,,,
+65171,yes bank,,,,25592.0,doll_0.713 b,doll_0.13 b,doll_0.019 b,,,
+65532,yatra,,,,961000.0,doll_0.015 b,doll_0.038 b,doll_0.004070000000000001 b,,,
+65636,yuanta financial holding,,,,14856.0,doll_0.9369999999999999 b,doll_0.335 b,doll_0.10900000000000001 b,,,
+65691,yang ming,,,,,doll_0.704 b,doll_1.4289999999999998 b,doll_0.977 b,,,
+65701,yageo,,,,,doll_0.568 b,doll_0.40099999999999997 b,doll_0.10500000000000001 b,,,
+66986,yum! brands,,,,36000.0,doll_3.6479999999999997 b,doll_0.671 b,doll_0.16399999999999998 b,,,
+67008,yellow corporation,,,,32000.0,doll_0.016 b,doll_0.5349999999999999 b,doll_0.015 b,,,
+67806,yelp,,,,4400.0,doll_0.21800000000000003 b,doll_0.11100000000000002 b,doll_0.05013 b,,,
+68608,yihai kerry arawana holdings co. ltd,,,,,doll_27.258999999999997 b,,,,,
+68698,"yum! brands, inc.",,,,36000.0,doll_3.5119999999999996 b,,,,mr. david w. gibbs,
+68894,yanzhou coal mining company ltd,,,,63869.0,doll_16.076 b,,,,,
+69055,yandex n.v.,,,,18004.0,doll_2.105 b,,,,mr. arkady  volozh,
+69167,"yum china holdings, inc.",,,,147000.0,doll_1.818 b,,,,ms. joey  wat,
+69586,yihai kerry arawana holdings co. ltd,china,,,,doll_4.284000000000001 b,,,,,
+69680,"yum! brands, inc.",united states,,,,doll_3.5119999999999996 b,,,,,
+69891,yanzhou coal mining company ltd,china,,,,doll_2.5260000000000002 b,,,,,
+70043,yandex n.v.,netherlands,,,,,,,,,
+70171,"yum china holdings, inc.",china,,,,doll_1.818 b,,,,,
+70586,yihai kerry arawana holdings co. ltd,china,,,,doll_4.284000000000001 b,,,,,
+70680,"yum! brands, inc.",united states,,,,doll_3.5119999999999996 b,,,,,
+70891,yanzhou coal mining company ltd,china,,,,doll_2.5260000000000002 b,,,,,
+71043,yandex n.v.,netherlands,,,,doll_2.105 b,,,,,
+71171,"yum china holdings, inc.",china,,,,doll_1.818 b,,,,,
+71498,"yum china holdings, inc.",china,,,147000.0,doll_1.818 b,doll_0.8414999999999999 b,,,ms. joey wat,
+71594,yandex n.v.,netherlands,,,18004.0,doll_2.105 b,doll_0.49400000000000005 b,,,mr. arkady volozh,
+71698,yanzhou coal mining company ltd,china,,,63869.0,doll_2.5260000000000002 b,0,,,,
+71845,"yum! brands, inc.",united states,,,36000.0,doll_3.5119999999999996 b,doll_0.5597000000000001 b,,,mr. david w. gibbs,
+71907,yihai kerry arawana holdings co. ltd,china,,,34389.0,doll_4.284000000000001 b,0,,,,
+72586,yihai kerry arawana holdings co. ltd,china,,,,doll_4.284000000000001 b,,,,,
+72680,"yum! brands, inc.",united states,,,,doll_3.5119999999999996 b,,,,,
+72891,yanzhou coal mining company ltd,china,,,,doll_2.5260000000000002 b,,,,,
+73043,yandex n.v.,netherlands,,,,doll_2.105 b,,,,,
+73171,"yum china holdings, inc.",china,,,,doll_1.818 b,,,,,
+73399,yougov plc,united kingdom,,,,doll_0.196 b,,,,,
+73560,yellow cake plc,united kingdom,,,,doll_0.9057999999999999 b,,,,,
+73567,"young & co.'s brewery, plc",united kingdom,,,,doll_0.8914 b,,,,,
+74546,yihai kerry arawana holdings co. ltd,china,,,,doll_4.284000000000001 b,,,,,
+74640,"yum! brands, inc.",united states,,,,doll_3.5119999999999996 b,,,,,
+74851,yanzhou coal mining company ltd,china,,,,doll_2.5260000000000002 b,,,,,
+75004,yandex n.v.,netherlands,,,,,,,,,
+75131,"yum china holdings, inc.",china,,,,doll_1.818 b,,,,,
+75390,y.h. dimri construction & development ltd,,,,,doll_424299,,,,mr. yigal  dimri,
+75431,ybox real estate ltd,,,,,doll_21857,,,,not found,
+75757,yangzijiang shipbuilding (holdings) ltd,,,,,doll_0.389 b,,,,mr. letian  ren,
+75762,"yangling metron new material, inc.",,,,2082.0,doll_2.753 b,,,,not found,
+75768,yadea group holdings ltd,,,,9174.0,doll_3.45 b,,,,ms. jinghong  qian,
+75778,yifeng pharmacy chain co. ltd,,,,28655.0,doll_2.871 b,,,,not found,
+75897,yantai eddie precision machinery co. ltd,,,,2345.0,doll_2.0260000000000002 b,,,,not found,
+76116,yusys technologies co. ltd,,,,,doll_1.234 b,,,,mr. weidong  hong,
+76166,yangtze optical fibre and cable joint stock ltd company,,,,2806.0,doll_1.392 b,,,,not found,
+76229,"yangmei chemical co.,ltd",,,,8103.0,doll_1.075 b,,,,not found,
+76293,yihai international holding ltd,,,,2499.0,doll_2.317 b,,,,mr. qiang  guo,
+76324,yunnan chihong zinc & germanium co. ltd,,,,9735.0,doll_2.638 b,,,,not found,
+76437,"youngor group co.,ltd",,,,20222.0,doll_3.157 b,,,,not found,
+76474,ya'acobi brothers group ,,,,,doll_0.0013 b,,,,mr. amir  yaakobi,
+76571,y.z. queenco ltd,,,,,doll_0.0022 b,,,,mr. yariv  lerner,
+76645,yangzhou yangjie electronic technology co. ltd,,,,2771.0,doll_3.901 b,,,,not found,
+76655,yonghui superstores co. ltd,,,,120748.0,doll_4.016 b,,,,not found,
+76684,yunnan yuntianhua co. ltd,,,,11845.0,doll_4.483 b,,,,not found,
+76871,"yto express group co.,ltd.",,,,13490.0,doll_5.505 b,,,,not found,
+77231,yoc ag,,,,,doll_0.0432 b,,,,mr. dirk-hilmar  kraus,
+77282,your family entertainment ag,,,,,doll_0.0273 b,,,,dr. stefan  piech,
+77316,ymos ag,,,,,doll_0.0047 b,,,,not found,
+77463,y.d. more investments ltd,,,,,doll_0.9198 b,,,,mr. yossi  levi,
+77512,yonyou network technology co. ltd,,,,20998.0,doll_7.331 b,,,,not found,
+77535,yunnan botanee bio-technology group co.ltd,,,,1905.0,doll_8.004000000000001 b,,,,not found,
+77554,yealink network technology co. ltd,,,,1393.0,doll_7.125 b,,,,not found,
+77776,york timber holdings ltd,,,,,doll_108720,,,,mr. gerald c. d. stoltz c.a.,
+77783,yeboyethu ,,,,,doll_264791,,,,not found,
+77860,yunfeng financial group ltd,,,,,doll_0.5589999999999999 b,,,,mr. david  cheung,
+77964,yeebo (international holdings) ltd,,,,,doll_0.256 b,,,,mr. kwok wai  li,
+78091,yto express ,,,,,doll_0.9757 b,,,,mr. jian  sun,
+78108,yongsheng advanced materials company ltd,,,,,doll_0.653 b,,,,not found,
+78109,yield go holdings ltd,,,,,doll_0.6624 b,,,,mr. chi hong  ho,
+78123,yee hop holdings ltd,,,,,doll_0.6989 b,,,,mr. chi tat  yan,
+78176,yadong group holdings ltd,,,,,doll_0.576 b,,,,not found,
+78231,yue kan holdings ltd,,,,,doll_0.288 b,,,,not found,
+78241,yan tat group holdings ltd,,,,,doll_0.29769999999999996 b,,,,mr. wing yin  chan,
+78368,yun lee marine group holdings ltd,,,,,doll_0.155 b,,,,mr. tsz kit  wen,
+78384,yik wo international holdings ltd,,,,,doll_0.168 b,,,,ms. liping  xu,
+78501,ying kee tea house group ltd,,,,,doll_0.0795 b,,,,mr. kun yuen  chan,
+78505,yu tak international holdings ltd,,,,,doll_0.0804 b,,,,ms. xia  li,
+78539,yuk wing group holdings ltd,,,,,doll_0.0606 b,,,,not found,
+78691,yashili international holdings ltd,,,,2858.0,doll_0.47400000000000003 b,,,,mr. zhiyuan  yan,
+78702,yuexiu transport infrastructure ltd,,,,2022.0,doll_0.877 b,,,,not found,
+78710,yue yuen industrial (holdings) ltd,,,,310400.0,doll_0.207 b,,,,not found,
+79298,yduqs participacoes sa,,,,16539.0,doll_0.6519999999999999 b,,,,mr. eduardo parente menezes,
+79396,"yum china holdings, inc.",,,,147000.0,doll_1.818 b,,,,ms. joey  wat,
+79841,ytrade group ab ,,,,,doll_0.055200000000000006 b,,,,mr. david  knape,
+80309,"yatra online, inc.",,,,1006.0,doll_0.1142 b,,,,mr. dhruv  shringi,
+80519,yamana gold inc.,,,,5091.0,doll_0.683 b,,,,"mr. daniel  racine ing., p.eng",
+80855,yellow pages limited,,,,,doll_0.35760000000000003 b,,,,mr. david alan eckert,
+80942,yangarra resources ltd.,,,,,doll_0.24109999999999998 b,,,,mr. james g. evaskevich,
+81687,yanzhou coal mining company ltd,,,,63869.0,doll_16.076 b,,,,not found,
+81774,yuanta financial holding co. ltd,,,,14442.0,doll_32.059 b,,,,not found,
+81782,yang ming marine transport corp,,,,,doll_40.814 b,,,,not found,
+81855,"yfy, inc.",,,,,doll_5.761 b,,,,not found,
+81908,yulon motor company ltd,,,,,doll_4.014 b,,,,not found,
+81933,yungtay engineering co. ltd,,,,5298.0,doll_2.6399999999999997 b,,,,not found,
+82047,yuanta futures co. ltd,,,,,doll_1.454 b,,,,not found,
+82056,"yc inox co.,ltd",,,,,doll_1.534 b,,,,mr. chin-yu  chang,
+82068,"yungshin construction & development co.,ltd.",,,,,doll_1.598 b,,,,not found,
+82142,yungshin global holding corp,,,,,doll_1.1199999999999999 b,,,,not found,
+82170,yem chio co. ltd,,,,,doll_0.93 b,,,,not found,
+82193,yankey engineering co. ltd,,,,,doll_0.96 b,,,,not found,
+82219,yeashin international development co. ltd,,,,,doll_0.843 b,,,,not found,
+82236,"young optics, inc.",,,,,doll_0.873 b,,,,not found,
+82368,yuen chang stainless steel co. ltd,,,,,doll_0.514 b,,,,not found,
+82420,yeh-chiang technology corp,,,,,doll_0.46900000000000003 b,,,,mr. tai-kuang  wang,
+82423,"yuan jen enterprises co.,ltd.",,,,,doll_0.471 b,,,,not found,
+82474,young fast optoelectronics co. ltd,,,,,doll_0.43099999999999994 b,,,,not found,
+82489,yuan high-tech development co. ltd,,,,,doll_0.376 b,,,,not found,
+82509,ya horng electronic co. ltd,,,,1399.0,doll_0.392 b,,,,not found,
+82524,yi jinn industrial co. ltd,,,,,doll_0.403 b,,,,not found,
+82651,youngtek electronics corp,,,,,doll_1.032 b,,,,not found,
+82654,yieh hsing enterprise co. ltd,,,,,doll_1.04 b,,,,not found,
+82665,"yung chi paint & varnish mfg.co.,ltd",,,,,doll_1.183 b,,,,not found,
+82713,yieh united steel corp,,,,,doll_3.315 b,,,,not found,
+82725,yieh phui enterprise co. ltd,,,,,doll_4.678 b,,,,not found,
+82730,yulon nissan motor co. ltd,,,,,doll_7.529999999999999 b,,,,mr. wen-rong  tsay,
+82731,yulon finance corp,,,,,doll_7.581999999999999 b,,,,not found,
+82941,"yakult honsha co.,ltd.",,,,28798.0,doll_1053.0 b,,,,mr. hiroshi  narita,
+82961,yaskawa electric corp,,,,12925.0,doll_1255.0 b,,,,not found,
+83003,"yamato holdings co., ltd.",,,,223191.0,doll_85.518 b,,,,not found,
+83031,yokogawa electric corp,,,,17715.0,doll_57.61 b,,,,mr. hitoshi  nara,
+83099,yamazaki baking co. ltd,,,,29243.0,doll_33.176 b,,,,mr. nobuhiro  iijima,
+83195,yamato kogyo co. ltd,,,,1378.0,doll_25.468 b,,,,mr. mikio  kobayashi,
+83207,"yaoko co.,ltd.",,,,3804.0,doll_26.326 b,,,,not found,
+83296,yoshinoya holdings co. ltd,,,,4043.0,doll_15.287 b,,,,not found,
+83499,yokogawa bridge holdings corp,,,,1891.0,doll_7.894 b,,,,not found,
+83529,yamazen corp,,,,3149.0,doll_8.551 b,,,,yuji  nagao,
+83556,yellow hat ltd,,,,3880.0,doll_7.223999999999999 b,,,,mr. yasuo  horie,
+83578,yodogawa steel works ltd,,,,2381.0,doll_7.5760000000000005 b,,,,mr. satoshi  nitta,
+83651,yamabiko corp,,,,3477.0,doll_6.275 b,,,,mr. hiroshi  kubo,
+83656,yuasa trading co. ltd,,,,2487.0,doll_6.331 b,,,,mr. hiroyuki  tamura,
+83694,yonex co. ltd,,,,1785.0,doll_8.690000000000001 b,,,,kusaki  hayashida,
+83737,"yamaguchi financial group, inc.",,,,4415.0,doll_17.339 b,,,,mr. keisuke  mukunashi,
+83776,"yamada holdings co.,ltd.",,,,24300.0,doll_31.854000000000003 b,,,,mr. noboru  yamada,
+83813,yamaha corp,,,,20021.0,doll_93.696 b,,,,not found,
+83817,yamaha motor co ltd,,,,52437.0,doll_96.338 b,,,,mr. yoshihiro  hidaka,
+83883,yandex n.v.,,,,18004.0,doll_2.105 b,,,,mr. arkady  volozh,
+83962,youngone corp,,,,,doll_2101.0 b,,,,mr. kyi-hak  sung,
+84224,yuexiu property company ltd,,,,16320.0,doll_12.048 b,,,,not found,
+84313,ytl corp berhad,,,,10622.0,doll_20.724 b,,,,not found,
+84373,yanlord land group ltd,,,,,doll_0.24 b,,,,mr. sheng jian  zhong,
+84451,yoma strategic holdings ltd,,,,3700.0,doll_0.3376 b,,,,mr. chi tung pun,
+84478,yeo hiap seng ltd,,,,1353.0,doll_0.5162 b,,,,mr. chee boon  koh,
+84559,yinda infocomm ltd,,,,,doll_0.1426 b,,,,mr. pierre olivier-marc-yves  prunier,
+84567,yhi international ltd,,,,,doll_0.14809999999999998 b,,,,not found,
+84652,yongnam holdings ltd,,,,,doll_0.027 b,,,,mr. soon yong  seow,
+84820,y ventures group ltd,,,,,doll_0.0101 b,,,,mr. yik jin  low,
+84887,ying li international real estate ltd,,,,,doll_0.1611 b,,,,not found,
+85871,yamama saudi cement company,,,,,doll_0.686 b,,,,not found,
+85872,yanbu cement company,,,,,doll_0.713 b,,,,mr. ali bin abdullah suleiman al-ayed,
+85901,yanbu national petrochemical company,,,,,doll_3.911 b,,,,not found,
+86674,yit oyj,,,,6803.0,doll_0.741 b,,,,"mr. antti  inkila m.sc., m.sc. (tech.)",
+86929,yancoal australia ltd,,,,3196.0,doll_0.588 b,,,,not found,
+87418,yojee limited,,,,,doll_0.1298 b,,,,mr. edward  clarke,
+87722,youfoodz holdings limited,,,,,doll_0.08270000000000001 b,,,,not found,
+87998,yihai kerry arawana holdings co. ltd,,,,34389.0,doll_27.258999999999997 b,,,,not found,
+88072,ypf sociedad anónima,,,,14000.0,doll_35.881 b,,,,mr. sergio pablo  antonio affronti,
+88188,yeni gimat gayrimenkul yatirim ortakligi a.s.,,,,,doll_0.361 b,,,,not found,
+88258,yukselen celik anonim sirketi,,,,,doll_0.9414 b,,,,mr. baris  gokturk,
+88311,yougov plc,,,,1350.0,doll_0.15 b,,,,mr. stephan  shakespeare,
+89047,"young & co.'s brewery, plc",,,,4185.0,doll_0.6798 b,,,,not found,
+89055,yellow cake plc,,,,,doll_0.6907000000000001 b,,,,"mr. andre leon liebenberg b.sc., m.b.a., mba",
+89107,yayla enerji üretim turizm ve insaat ticaret a.s.,,,,,doll_0.1451 b,,,,not found,
+89121,yesil gayrimenkul yatirim ortakligi a.s.,,,,,doll_0.1931 b,,,,not found,
+89148,yesil yapi endüstrisi a.s.,,,,,doll_0.2805 b,,,,not found,
+89178,yonga mobilya sanayi ve ticaret a.s.,,,,,doll_0.3545 b,,,,not found,
+89183,yesil yatirim holding anonim sirketi,,,,,doll_0.3655 b,,,,not found,
+89203,yaprak süt ve besi çiftlikleri sanayi ve ticaret a.s.,,,,,doll_0.4622 b,,,,not found,
+89259,yggdrazil group public company ltd,,,,,doll_0.891 b,,,,mr. tanat  juwiwat,
+89683,yuasa battery ,,,,,doll_0.16799999999999998 b,,,,mr. akira  kiyomizu,
+89756,yünsa yünlü sanayi ve ticaret a.s.,,,,,doll_0.5527000000000001 b,,,,mr. mustafa  surmegoz,
+89800,"yum! brands, inc.",,,,36000.0,doll_3.5119999999999996 b,,,,mr. david w. gibbs,
+90430,"yeti holdings, inc.",,,,,doll_0.507 b,,,,mr. matthew j. reintjes,
+90702,yatas yatak ve yorgan sanayi ve ticaret a.s.,,,,3137.0,doll_0.16399999999999998 b,,,,not found,
+90709,yibitas yozgat isçi birligi insaat malzemeleri ticaret ve sanayi a.s.,,,,,doll_0.18 b,,,,not found,
+91189,yapi ve kredi bankasi a.s.,,,,15452.0,doll_3.521 b,,,,mr. gokhan  erun,
+91531,yihai kerry arawana holdings co. ltd,china,,,34389.0,doll_4.284000000000001 b,,,,,
+91635,"yum! brands, inc.",united states,,1997.0,36000.0,doll_3.5119999999999996 b,,,, mr. david w. gibbs,
+91869,yanzhou coal mining company ltd,china,,,63869.0,doll_2.5260000000000002 b,,,,,
+92014,yandex n.v.,netherlands,,1997.0,18004.0,doll_2.105 b,,,, mr. arkady  volozh,
+92035,"yum china holdings, inc.",china,,2016.0,147000.0,doll_1.818 b,,,, ms. joey  wat,
+92773,yankuang energy group,china,,,,doll_1.432 b,doll_1.686 b,doll_0.263 b,,,
+93050,yang ming marine transport,taiwan,,,,doll_1.51 b,doll_1.1949999999999998 b,doll_0.592 b,,,
+93135,yuanta financial holding,taiwan,,,,doll_1.106 b,doll_0.577 b,doll_0.125 b,,,
+93225,yum! brands,canada,,,,doll_3.528 b,doll_0.658 b,doll_0.157 b,,,
+93246,yango group,china,,,,doll_0.16599999999999998 b,doll_1.2630000000000001 b,doll_0.8282999999999999 b,,,
+93388,yum china holdings,china,,,,doll_1.741 b,doll_0.985 b,doll_0.99 b,,,
+93390,yamaha motor,japan,,,,doll_0.74 b,doll_1.65 b,doll_0.142 b,,,
+93511,yara international,norway,,,,doll_1.35 b,doll_1.6649999999999998 b,doll_0.4327 b,,,
+93602,yuexiu property,hong kong,,,,doll_0.333 b,doll_0.89 b,doll_0.5558 b,,,
+93841,ypf,argentina,,,,doll_0.331 b,doll_1.302 b,doll_0.0027 b,,,
+93879,yamaguchi financial,japan,,,,doll_0.135 b,doll_0.155 b,doll_0.2602 b,,,
+94058,yunnan copper co. ltd.,china,,,,doll_0.294 b,doll_1.9629999999999999 b,doll_0.1007 b,,,
+94110,yunnan yuntianhua,china,,,,doll_0.6759999999999999 b,doll_1.003 b,doll_0.7343 b,,,
+94119,yunnan energy new material,china,,,,doll_2.509 b,doll_0.142 b,doll_0.4988 b,,,
+94183,yamada denki,japan,,,,doll_0.24700000000000003 b,doll_1.5130000000000001 b,doll_0.5149 b,,,
+94202,yamato holdings,japan,,,,doll_0.693 b,doll_1.613 b,doll_0.4333 b,,,
+94773,yankuang energy group,china,,,,doll_1.432 b,doll_1.686 b,,,,
+95050,yang ming marine transport,taiwan,,,,doll_1.51 b,doll_1.1949999999999998 b,,,,
+95135,yuanta financial holding,taiwan,,,,doll_1.106 b,doll_0.577 b,,,,
+95225,yum! brands,canada,,,,doll_3.528 b,doll_0.658 b,,,,
+95773,yankuang energy group,china,,1997.0,63869.0,,doll_1.69 b,,['materials'],yao meng xiao,
+96050,yang ming marine transport,taiwan,,,,,doll_1.19 b,,['transportation'],chih chien hsieh,
+96135,yuanta financial holding,taiwan,,2002.0,14442.0,,doll_0.58 b,,['diversified financials'],chien weng,
+96225,yum! brands,canada,,1997.0,36000.0,,doll_0.6599999999999999 b,,"['hotels, restaurants & leisure']",david w. gibbs,
+96246,yango group,china,,,21319.0,,doll_1.26 b,,['construction'],rong bin zhu,
+96388,yum china holdings,china,,1987.0,450000.0,,doll_0.99 b,,"['hotels, restaurants & leisure']",joey wat,
+96390,yamaha motor,japan,,1918.0,51249.0,,doll_1.65 b,,['consumer durables'],yoshihiro hidaka,
+96511,yara international,norway,,2003.0,16757.0,,doll_1.6600000000000001 b,,['chemicals'],svein tore holsether,
+96602,yuexiu property ,hong kong,,,16320.0,,doll_0.89 b,,['construction'],feng lin,
+96841,ypf ,argentina,,1977.0,,,doll_1.3 b,,['oil & gas operations'],sergio pablo antonio,
+96879,yamaguchi financial,japan,,1878.0,4415.0,,doll_0.16 b,,['banking'],keisuke mukunashi,
+97058,yunnan copper co. ltd.,china,,,9608.0,,doll_1.9600000000000002 b,,['materials'],chong wang,
+97110,yunnan yuntianhua,china,,,11379.0,,doll_1.0 b,,['chemicals'],zhou quan cui,
+97119,yunnan energy new material,china,,2001.0,8679.0,,doll_0.13999999999999999 b,,['consumer durables'],xiao hua li,
+97183,yamada denki,japan,,1983.0,24300.0,,doll_1.51 b,,['retailing'],tadao ichimiya,
+97202,yamato holdings,japan,,1919.0,223191.0,,doll_1.61 b,,['transportation'],makoto kigawa,
+97354,yso corp,france,,2013.0,,,doll_0.006690000000000001 b,,['media'],,
+97510,yumi beauty,france,,2013.0,,,doll_0.00268 b,,['chemicals & pharmaceuticals'],,
+97775,yocabeâ,italy,,2016.0,,,doll_0.00329 b,,['ecommerce'],,
+97843,yourparkingspace limited,uk,,2013.0,,,doll_0.013859999999999999 b,,['technology'],,
+98118,yes!devs,germany,,2016.0,,,doll_0.0022 b,,['technology'],,
+98354,yso corp,france,,2013.0,13000.0,,doll_0.006690000000000001 b,,['media'],,
+98510,yumi beauty,france,,2013.0,5000.0,,doll_0.00268 b,,['chemicals & pharmaceuticals'],,
+98775,yocabe’,italy,,2016.0,12000.0,,doll_0.00329 b,,['ecommerce'],,
+98843,yourparkingspace limited,uk,,2013.0,32000.0,,doll_0.013859999999999999 b,,['technology'],,
+99118,yes!devs,germany,,2016.0,37000.0,,doll_0.0022 b,,['technology'],,
+99354,yso corp,france,,2013.0,13000.0,,doll_0.006690000000000001 b,,['media'],,
+99510,yumi beauty,france,,2013.0,5000.0,,doll_0.00268 b,,['chemicals & pharmaceuticals'],,
+99775,yocabeâ,italy,,2016.0,12000.0,,doll_0.00329 b,,['ecommerce'],,
+99843,yourparkingspace limited,uk,,2013.0,32000.0,,doll_0.013859999999999999 b,,['technology'],,
+100118,yes!devs,germany,,2016.0,37000.0,,doll_0.0022 b,,['technology'],,
+100308,yamap,japan,,2013.0,,,doll_0.0072 b,,['technology'],,
+100724,yoyo wallet,united kingdom,,2013.0,,,doll_0.0039700000000000004 b,,['fintech'],,
+100734,you mawo,germany,,2015.0,,,doll_0.00261 b,,['technology'],,
+100843,ywc,japan,,2010.0,,,doll_0.04069 b,,['sales & marketing'],,
+101064,yso corp,france,,2013.0,,,doll_0.006690000000000001 b,,['media'],,
+101111,youlovewords,france,,2009.0,,,doll_0.0016 b,,['media'],,
+101219,yoyo wallet,uk,,2013.0,,,doll_0.00624 b,,['fintech'],,
+101223,youlovewords,france,,2014.0,,,doll_0.0027400000000000002 b,,['media'],,
+101249,yuan,taiwan,,1990.0,,,doll_0.09145 b,,['technology'],,
+101270,yanogumi,japan,,2013.0,,,doll_0.00292 b,,['architecture'],,
+101296,yamato infilink,japan,,2015.0,,,doll_0.020050000000000002 b,,['property'],,
+101362,yeap medical supplies,singapore,,2000.0,,,doll_0.04992 b,,['health'],,
+101434,yukon sky,japan,,2003.0,,,doll_0.01977 b,,['retail'],,
+101576,yourparkingspace,united kingdom,,2013.0,,,doll_0.0073 b,,['technology'],,
+101703,yellow octopus,australia,,2013.0,,,doll_0.0034100000000000003 b,,['ecommerce'],,
+101790,yield microelectronic,taiwan,,1990.0,,,doll_0.00432 b,,['technology'],,
+101963,yongmao holdings,singapore,,1992.0,,,doll_0.13635 b,,['industrial goods'],,
+101981,yeo plumber,malaysia,,2000.0,,,doll_0.00342 b,,['construction'],,
+102091,your personal,italy,,2011.0,,,doll_0.0016 b,,['transport'],,
+102189,yumi beauty,france,,2013.0,,,doll_0.00268 b,,['chemicals & pharmaceuticals'],,
+102531,younited credit,france,,2009.0,,,doll_0.016399999999999998 b,,['financial services'],,
+102917,younited credit,france,,2009.0,,,doll_0.0253 b,,['financial services'],,
+103147,yocabe’,italy,,2016.0,,,doll_0.00329 b,,['ecommerce'],,
+103335,yocabe,italy,,2016.0,,,doll_0.00197 b,,['ecommerce'],,
+103341,yescapa,france,,2012.0,,,doll_0.00276 b,,['travel & leisure'],,
+103380,yourparkingspace limited,uk,,2013.0,,,doll_0.013859999999999999 b,,['technology'],,
+103562,yourparkingspace,uk,,2013.0,,,doll_0.01071 b,,['technology'],,
+103933,yogurt factory,france,,2012.0,,,doll_0.0028 b,,['agricultural commodities'],,
+104143,yogurt factory,france,,2012.0,,,doll_0.00396 b,,['food & beverage'],,
+104304,yellow submarine,croatia,,2014.0,,,doll_0.0045 b,,['restaurants'],,
+104338,yes!devs,germany,,2016.0,,,doll_0.0022 b,,['technology'],,
+104524,young digitals,italy,,2010.0,,,doll_0.0028 b,,['advertising'],,
+104852,youngcapital,netherlands,,2000.0,,,doll_0.32189999999999996 b,,['support services'],,
+105112,yogurt factory,france,,2012.0,,,doll_0.0053 b,,['food & beverage'],,
+105315,yelp inc,united states,"10th floor, 350 mission street, san francisco, california, 94105",,4400.0,doll_0.2 b,doll_0.1 b,,['technology and communications'],,
+105526,yulon finance corp,taiwan,"15f, no.2, section 2, tun hua south road, da'an district, taipei, 106",,1159.0,doll_0.27999999999999997 b,doll_0.11000000000000001 b,,['financial services'],,
+105834,yamato kogyo co ltd,japan,"380, kibi, otsu-ku, himeji-shi, hyogo, 671-1192",,1395.0,doll_0.25 b,doll_0.13 b,,['metals and mining'],,
+105880,yantai jereh oilfield services group co ltd,china,"no. 5 jereh road, laishan district, yantai, shandong , 264003",,5389.0,doll_0.5 b,doll_0.13999999999999999 b,,['energy and utilities'],,
+105890,yoshinoya holdings co ltd,japan,"1-20-1, akabane-minami, chuo-ku, tokyo, 103-0015",,3004.0,doll_0.12 b,doll_0.13999999999999999 b,,['leisure and arts'],,
+105930,yamaguchi financial group inc,japan,"4-2-36, takezaki-cho, shimonoseki-shi, yamagata, 750-8603",,3935.0,doll_0.18 b,doll_0.13999999999999999 b,,['financial services'],,
+105947,yeti holdings inc,united states,"7601 southwest pkwy, austin, texas, 78735-8989",,,doll_0.36 b,doll_0.13999999999999999 b,,['consumer packaged goods'],,
+105994,yorkshire building society,united kingdom,"yorkshire house, yorkshire drive, bradford, west yorkshire, bd58lj",,2347.0,0,doll_0.13999999999999999 b,,['financial services'],,
+106039,yuhan corp,south korea,"74, noryangjin-ro, dongjak-gu, seoul, 06927",,1594.0,doll_0.32999999999999996 b,doll_0.15 b,,['pharmaceuticals and healthcare'],,
+106041,yangtze optical fibre and cable joint stock ltd co,china,"no. 9 guanggu avenue, east lake high-tech development zone, wuhan, hubei, 430073",,2806.0,doll_0.27 b,doll_0.15 b,,['industrial goods and machinery'],,
+106435,yamana gold inc,canada,"royal bank plaza, north tower, 200 bay street, suite 2200, toronto, ontario, m5j2j3",,5858.0,doll_0.5700000000000001 b,doll_0.18 b,,['metals and mining'],,
+107055,youngone corp,south korea,"159, mallijae-ro, jung-gu, seoul, 04500",,,doll_0.16 b,doll_0.24 b,,['consumer packaged goods'],,
+107118,yanchang petroleum international ltd,hong kong,"room 3403, 34th floor, lee garden one, 33 hysan avenue, causeway bay, hong kong",,,doll_0.1689 b,doll_0.25 b,,['energy and utilities'],,
+107163,yangzijiang shipbuilding (holdings) ltd,china,"no.1 lnyi rd,jngjng indstrl prk, jiangyin, jingjiang city, wuxi, jiangsu, 214532",,,doll_0.37 b,doll_0.26 b,,['transport and logistics'],,
+107287,yulon motor co ltd,taiwan,"no.39-1, bogong keng, sihu village, sanyi, 367",,12678.0,doll_0.22999999999999998 b,doll_0.27999999999999997 b,,['automotive'],,
+107454,yes bank ltd,india,"yes bank twer ifc-2 15th flr snpti bpt m, elphinstone, mumbai, 400055",,24346.0,doll_0.72 b,doll_0.3 b,,['financial services'],,
+107466,yfy inc,taiwan,"no.51, sec. 2 chung ching south rd., sinjhuang district, taipei, 100",,10467.0,doll_0.13999999999999999 b,doll_0.31 b,,['paper and packaging'],,
+107646,yunnan chihong zinc and germanium co ltd,china,"economic and technological developmnt zn, qujing, yunnan, 655011",,8538.0,doll_0.4 b,doll_0.33999999999999997 b,,['metals and mining'],,
+107650,yit corp,finland,"panuntie 11, pl 36, helsinki, 00620",,5264.0,doll_0.6179 b,doll_0.33999999999999997 b,,['construction'],,
+107693,yokogawa electric corp,japan,"2-9-32, naka-cho, musashino-shi, tokyo, 180-8750",,17258.0,doll_0.45 b,doll_0.35 b,,['industrial goods and machinery'],,
+107776,yamaha corp,japan,"10-1, nakazawa-cho, naka-ku, hamamatsu-shi, shizuoka, 430-8650",,19895.0,doll_0.71 b,doll_0.36 b,,['consumer packaged goods'],,
+107809,yakult honsha co ltd,japan,"2f, waters takeshiba, 1-10-30, kaigan, minato-ku, tokyo, 105-8660",,29273.0,doll_1.19 b,doll_0.37 b,,['consumer packaged goods'],,
+107859,yale new haven hospital inc,united states,"20 york street, new haven, connecticut, 06510-3202",,15442.0,0,doll_0.38 b,,['pharmaceuticals and healthcare'],,
+107876,yageo corp,taiwan,"3f, no. 233-1, pao chiao road, xindian district, new taipei, 231",,,doll_0.72 b,doll_0.38 b,,['industrial goods and machinery'],,
+108019,yuasa trading co ltd,japan,"16-19f, sumitomo fudosan kanda bldg, 7, kanda mitoshiro-cho, chiyoda-ku, tokyo, 101-8580",,2489.0,doll_0.638 b,doll_0.41 b,,['industrial goods and machinery'],,
+108039,yancoal australia ltd,australia,"darling park 2, l 18 201 sussex street, sydney, new south wales, 2000",,3196.0,doll_0.5700000000000001 b,doll_0.42000000000000004 b,,['metals and mining'],,
+108052,yuzhou group holdings co ltd,china,"yuzhou plaza, 299 jingang road, pudong new district, shanghai, 361003",,2544.0,doll_0.3768 b,doll_0.42000000000000004 b,,['construction'],,
+108078,yaskawa electric corp,japan,"2-1, kurosakishiroishi, yahatanishi-ku, kitakyushu-shi, fukuoka, 806-0004",,12897.0,doll_0.99 b,doll_0.43 b,,['technology and communications'],,
+108087,ytl power international bhd,malaysia,"33rd floor, menara ytl, 205 jalan bukit bintang, kuala lumpur, 55100",,2054.0,doll_0.13999999999999999 b,doll_0.43 b,,['power'],,
+108255,yandex nv,netherlands,"schiphol boulevard 165, 1118bg",,19934.0,doll_0.6799999999999999 b,doll_0.48 b,,['technology and communications'],,
+108335,yellow corp,united states,"10990 roe ave, overland park, kansas, 66211",,32000.0,doll_0.1395 b,doll_0.51 b,,['transport and logistics'],,
+108414,yanlord land group ltd,singapore,"9 temasek boulevard, rank_36-02 suntec city tower two, singapore, 038989",,8730.0,doll_0.15 b,doll_0.54 b,,['construction'],,
+108487,yunnan baiyao group co ltd,china,"222 er' huan xi road, kunming, yunnan, 650500",,8464.0,doll_1.52 b,doll_0.5599999999999999 b,,['pharmaceuticals and healthcare'],,
+108554,ytl corporation bhd,malaysia,"33rd floor, menara ytl, 205 jalan bukit bintang, kuala lumpur, 55100",,12209.0,doll_0.13999999999999999 b,doll_0.5900000000000001 b,,['construction'],,
+108559,yuanta financial holding co ltd,taiwan,"4f, 10f, 12f, 13f, no. 66, section 1, dun hua south road, songshan district, taipei, 105",,14704.0,doll_0.9400000000000001 b,doll_0.5900000000000001 b,,['financial services'],,
+108734,"yum! brands, inc.",united states,"1441 gardiner ln, louisville, kentucky, 40213",,36000.0,doll_3.63 b,doll_0.6599999999999999 b,,['leisure and arts'],,
+108871,yanmar holdings co ltd,japan,"1-32, chayamachi, kita-ku, osaka, 530-0013",,20727.0,0,doll_0.74 b,,['industrial goods and machinery'],,
+109030,yunnan tin co ltd,china,"no.121, jinhu east road, gejiu city, honghe, yunnan, 661000",,16258.0,doll_0.36 b,doll_0.8300000000000001 b,,['metals and mining'],,
+109058,yue yuen industrial (holdings) ltd,hong kong,"22nd floor,c-bons international, center,108 wai yip street, kwun tong, kowloon",,317200.0,doll_0.24 b,doll_0.85 b,,['consumer packaged goods'],,
+109110,yuexiu property co ltd,hong kong,"26th floor, yue xiu building, 160 lockhart road, wanchai, hong kong",,17980.0,doll_0.44000000000000006 b,doll_0.89 b,,['construction'],,
+109167,yamazaki baking co ltd,japan,"yamazaki iwamotocho bldg., 3-10-1, iwamoto-cho, chiyoda-ku, tokyo, 101-8585",,32527.0,doll_0.25 b,doll_0.9400000000000001 b,,['consumer packaged goods'],,
+109202,yunnan yuntianhua co ltd,china,"no. 1417, dianchi road, kunming, yunnan, 650228",,11379.0,doll_0.5900000000000001 b,doll_0.9800000000000001 b,,['chemicals'],,
+109206,yum china holdings inc,china,"6/f-16/f, yum china building, 20 tian yao qiao road, shanghai",,147000.0,doll_2.37 b,doll_0.99 b,,['leisure and arts'],,
+109229,yapi ve kredi bankasi as,turkey,"yapi ve kredi bankasi a.s., istanbul, 34330",,16295.0,doll_0.44000000000000006 b,doll_1.01 b,,['financial services'],,
+109394,yang ming marine transport corp,taiwan,"no.271, mingde 1st road, chidu district, keelung, 206",,4858.0,doll_0.72 b,doll_1.2 b,,['transport and logistics'],,
+109518,ypf sa,argentina,"macacha guemes 515, buenos aires, c1106bkk",,22032.0,doll_0.86 b,doll_1.34 b,,['energy and utilities'],,
+109591,yamada holdings co ltd,japan,"1-1, sakae-cho, takasaki-shi, 370-0841",,22951.0,doll_0.35 b,doll_1.44 b,,['retailing'],,
+109674,yamato holdings co ltd,japan,"2-16-10, ginza, chuo-ku, tokyo, 104-8125",,216873.0,doll_0.61 b,doll_1.6 b,,['transport and logistics'],,
+109684,yamaha motor co ltd,japan,"2500, shingai, iwata-shi, shizuoka, 438-8501",,51249.0,doll_0.86 b,doll_1.61 b,,['automotive'],,
+109722,yara international asa,norway,"drammensveien 131, oslo, 0277",,17800.0,doll_1.1800000000000002 b,doll_1.6600000000000001 b,,['chemicals'],,
+109736,yankuang energy group co ltd,china,"no. 949, fushan south road, zoucheng city, ji'nan, shandong , 273500",,61864.0,doll_2.2399999999999998 b,doll_1.6800000000000002 b,,['metals and mining'],,
+109884,yunnan copper company ltd,china,"china copper mansion, no. 1 huayun road, panlong district, kunming, yunnan, 650224",,9608.0,doll_0.38 b,doll_1.97 b,,['metals and mining'],,
+110227,yankuang group,china,"no. 298 fushan south road, zoucheng, shandong , 273500",,,0,doll_3.8899999999999997 b,,['metals and mining'],,
+114143,your finances limited,,,,,,,,,,
+114204,your finances simplified ltd,,,,,,,,,,
+114209,y tree limited,,,,,,,,,,
+119275,yoox net-a-porter group spa,italy,"via nerio nannetti 1, zola predosa, 40069, bologna, italy",2000.0,,,,,['retail trade'],,
+119484,yara italia spa,italy,"via benigno crespi 57, milano, 20159, milano, italy",1990.0,,,,,['wholesale trade'],,
+119494,yama spa,italy,"via meuccio ruini 74/l, reggio emilia, 42124, reggio emilia, italy",1980.0,,,,,"['finance, insurance, and real estate']",,
+119753,yara limited,united kingdom,"harvest house origin way, europarc",,,,,,,,grimsby
+119855,yerblues ou,estonia,kai tn 1,,,,,,,,tallinn
+120241,yes ticket srl,italy,via quintino sella 3,,,,,,,,milano
+120842,"y-tech services, inc.",united states,8600 advanced gtwy sw,,,,,,,,huntsville
+120848,"yellowstone landscape, inc.",united states,3235 n state st,,,,,,,,bunnell
+121415,yoox net-a-porter group spa,italy,via nerio nannetti 1,,,,,,,,zola predosa
+122083,yoroi srl,italy,piazza sallustio 9,,,,,,,,roma
+122154,yeti uk limited,united kingdom,"first floor the landing, redcliff street",,,,,,,,bristol
+122350,yama spa,italy,via meuccio ruini 74/l,,,,,,,,reggio nell'emilia
+122381,yamaha motor manufacturing corporation of america,united states,1000 hwy 34 e,,,,,,,,newnan
+122649,yamazaki mazak u.k. limited,united kingdom,badgeworth drive,,,,,,,,worcester
+122989,yes ticket srl,italy,via quintino sella 3,,,,,,,,milano
+123002,yerblues ou,estonia,kai tn 1,,,,,,,,tallinn
+124631,yieldstreet careers,,,2015.0,,,,,['financial services'],,
+125045,yorke engineering careers,,,1996.0,,,,,['environmental services'],,
+125074,yoodle careers,,,2007.0,,,,,['marketing & advertising'],,
+125272,youtube,united states,,,,,,,"['social media', 'internet or mobile app based business', 'technology', 'artificial intelligence']",susan wojcicki,
+125500,"yihai kerry arawana holdings co., ltd",china,,,,,,doll_0.649 b,"['consumer defensive', 'food products', 'agriculture products', 'package foods', 'food and beverage']",,
+125688,yum! brands,united states,,,36000.0,,,doll_0.001575 b,"['consumer cyclical', 'restaurants', 'retail', 'consumer services', 'entertainment']",david gibbs,
+125853,yunnan energy new material,china,,,,,,doll_0.395 b,"['consumer cyclical', 'packaging materials', 'packaging']",,
+126186,yum china holdings,china,,,400000.0,,,doll_0.99 b,"['consumer cyclical', 'restaurants', 'food service', 'retail', 'consumer services', 'entertainment']",,
+126199,yunnan baiyao group,china,,,8131.0,,,doll_0.44 b,"['healthcare', 'pharmaceutical', 'chemicals', 'healthcare products']",,
+126267,yandex,russia,,,11864.0,,,doll_-0.132 b,"['communication services', 'software and it', 'internet or mobile app based business', 'technology', 'software products']",arkady volozh,
+126335,yonyou network technology,china,,,17271.0,,,doll_0.111 b,"['technology', 'software and it', 'cloud services']",,
+126588,yanzhou coal mining company,china,,,63869.0,,,doll_0.002392 b,"['energy', 'mining', 'coal mining']",,
+126618,yang ming marine transport corporation,taiwan,,,5861.0,,,doll_0.005758 b,"['industries', 'shipping', 'marine transportation', 'logistics']",chong-hua cheng,
+126730,yara international asa,norway,,,16818.0,,,doll_0.449 b,"['basic materials', 'chemicals', 'fertilizers', 'agriculture related']",,
+126805,yaskawa electric corporation,japan,,,15179.0,,,doll_0.304 b,"['industries', 'robotics', 'electrical products', 'electronics', 'technology hardware and instruments', 'engineering products']",,
+126851,yealink network technology,china,,,,,,doll_0.235 b,"['technology', 'communications equipment', 'technology hardware and instruments', 'electronics', 'network hardware and software', 'networking products / solutions']",,
+126905,yunnan botanee bio-technology group co.ltd,china,,,,,,doll_0.135 b,"['healthcare', 'biotechnology', 'personal care products', 'fmcg']",,
+126928,yuanta financial holding co. ltd,taiwan,,,14276.0,,,doll_0.0011610000000000001 b,"['financial services', 'banking services', 'insurance', 'securities']",,
+127075,yanbu national petrochemical company,saudi arabia,,,,,,doll_0.408 b,"['basic materials', 'chemicals', 'petrochemicals']",,
+127146,yunda holding,china,,,8328.0,,,doll_0.215 b,"['industries', 'courier', 'logistics']",,
+127191,yahoo,united states,,,,,,,['internet or mobile app based business'],,
+127250,yageo corporation,taiwan,,,17000.0,,,doll_0.785 b,"['technology', 'electronics', 'capital goods']",,
+127262,yto express group,china,,,1070.0,,,doll_0.306 b,"['industries', 'courier', 'logistics']",,
+127307,yamaha motor,japan,,,55255.0,,,doll_0.001232 b,"['consumer cyclical', 'automobile', 'bikes', 'power generation', 'boats', 'marine systems', 'power management tools', 'tools and equipment']",,
+127327,yuanfudao,china,,,,,,,"['education', 'technology', 'internet or mobile app based business']",,
+127363,yamato holdings,japan,,,225000.0,,,doll_0.408 b,"['industries', 'courier', 'logistics', 'professional services', 'freight transport']",,
+127421,yamaha corporation,japan,,,20203.0,,,doll_0.272 b,"['consumer cyclical', 'electronics', 'music', 'musical instruments', 'leisure']",,
+127450,yakult honsha,japan,,,2876.0,,,doll_0.328 b,"['consumer defensive', 'food and beverage', 'food products', 'beverages', 'non-alcoholic beverages', 'pharmaceutical', 'cosmetics', 'personal care products', 'fmcg']",,
+127505,yongxing special materials technology,china,,,,,,doll_0.129 b,"['basic materials', 'iron and steel']",,
+127924,yantai jereh oilfield services group,china,,,4990.0,,,doll_0.249 b,"['energy', 'oil and gas', 'oil field services']",,
+127934,yeti holdings,united states,,,,,,doll_0.212 b,"['consumer cyclical', 'kitchen appliances', 'home appliances', 'leisure']",,
+127992,yifeng pharmacy chain,china,,,,,,doll_0.129 b,"['healthcare', 'pharmacy', 'retail']",,
+128057,yunnan aluminium,china,,,,,,doll_0.521 b,"['basic materials', 'aluminum']",,
+128102,yonghui superstores,china,,,110778.0,,,doll_-0.574 b,"['consumer cyclical', 'retail', 'super markets']",,
+128368,yunnan yuntianhua,china,,,,,,doll_0.571 b,"['basic materials', 'agriculture related']",,
+128531,yunnan tin company,china,,,15379.0,,,doll_0.442 b,"['basic materials', 'mining']",,
+128543,yangzhou yangjie electronic technology,china,,,2771.0,,,doll_0.112 b,"['technology', 'semiconductors']",,
+128605,youngor group,china,,,22022.0,,,doll_0.746 b,"['consumer cyclical', 'textile', 'apparels and accessories', 'real estate', 'construction']",,
+128695,yadea group holdings,china,,,4341.0,,,doll_0.199 b,"['consumer cyclical', 'electric vehicles', 'bikes', 'scooters', 'bicycle', 'automobile']",,
+128777,yokogawa electric corporation,japan,,,18107.0,,,doll_0.155 b,"['industries', 'industry machinery', 'electrical products', 'engineering products']",,
+128793,yes bank,india,,,23800.0,,,doll_0.133 b,"['financial services', 'banking services']",,
+128798,yihai international holding,china,,,2127.0,,,doll_0.111 b,"['consumer defensive', 'food products', 'fmcg', 'package foods']",,
+128809,youngy,china,,,,,,doll_0.01 b,"['basic materials', 'chemicals']",,
+128905,yangquan coal industry (group),china,,,,,,doll_0.512 b,"['energy', 'coal mining', 'mining']",,
+128907,yangling metron new material inc.,china,,,,,,doll_0.112 b,"['industries', 'industry machinery']",,
+128960,yuan long ping high-tech agriculture,china,,,,,,doll_0.009 b,"['consumer defensive', 'farming / seeds / milling', 'agriculture related']",,
+129047,yantai eddie precision machinery,china,,,1720.0,,,doll_0.068 b,"['industries', 'industry machinery']",,
+129233,"yunnan chihong zinc & germanium co., ltd.",china,,,9735.0,,,doll_0.086 b,"['basic materials', 'mining']",,
+129329,yiguo,china,,,,,,,"['internet or mobile app based business', 'ecommerce']",,
+129495,yangzijiang shipbuilding (holdings),china,,,6504.0,,,doll_0.538 b,"['industries', 'aerospace and defense']",,
+129498,yamana gold,canada,,,10086.0,,,doll_0.113 b,"['basic materials', 'mining', 'gold mining', 'metals', 'precious metals']",,
+129517,yintai gold,china,,,1566.0,,,doll_0.185 b,"['basic materials', 'gold mining', 'precious metals', 'mining', 'metals', 'silver mining', 'zinc', 'lead']",,
+129658,yifan pharmaceutical,china,,,4123.0,,,doll_0.04 b,"['healthcare', 'pharmaceutical', 'healthcare products']",,
+129667,yixintang pharmaceutical group,china,,,,,,doll_0.134 b,"['healthcare', 'pharmaceutical', 'healthcare products', 'pharmacy', 'retail']",,
+129673,yunnan copper,china,,,11187.0,,,doll_0.094 b,"['basic materials', 'copper mining', 'mining']",,
+129814,yantai changyu pioneer wine company,china,,,,,,doll_0.073 b,"['consumer defensive', 'alcoholic beverages', 'beverages']",,
+130168,yingkou port liability,china,,,,,,,"['industries', 'shipping']",,
+130399,yamazaki baking,japan,,,19832.0,,,doll_0.076 b,"['consumer defensive', 'food products', 'retail', 'fmcg', 'package foods']",,
+130423,yuexiu property company,hong kong,,,10100.0,,,doll_0.522 b,['real estate'],,
+130520,yamada denki,japan,,,19985.0,,,doll_0.369 b,"['consumer cyclical', 'retail', 'consumer electronics', 'electronics']",,
+130616,yancoal australia ltd,australia,,,,,,doll_0.585 b,"['energy', 'mining', 'coal mining']",,
+130671,yue yuen industrial (holdings),hong kong,,,319000.0,,,doll_0.115 b,"['consumer cyclical', 'footwear']",,
+130683,yulon nissan motor co. ltd,taiwan,,,1082.0,,,doll_0.1 b,"['consumer cyclical', 'automobile', 'automobile parts']",,
+130726,yanan bicon pharmaceutical listed company,china,,,,,,,"['basic materials', 'pharmaceutical', 'healthcare products', 'chemicals']",,
+130767,yokohama rubber company,japan,,,5543.0,,,doll_0.478 b,"['consumer cyclical', 'tyres', 'rubber products', 'automobile', 'automobile parts']",,
+130823,yelp,united states,,,4400.0,,,doll_0.039 b,"['communication services', 'consumer services', 'internet or mobile app based business', 'artificial intelligence']",,
+130833,yidu tech inc.,china,,,,,,,"['healthcare', 'healthcare technology and information']",,
+130894,yangtze optical fibre and cable joint stock company,china,,,,,,,"['technology', 'communications equipment']",,
+130918,ypsomed holding ag,switzerland,,,,,,doll_0.024 b,"['healthcare', 'medical equipment']",,
+130969,yulon finance corporation,taiwan,,,,,,doll_0.17 b,['financial services'],,
+130975,yusys technologies,china,,,,,,doll_0.057 b,"['technology', 'software and it']",,
+131198,yaoko,japan,,,15241.0,,,doll_0.112 b,"['consumer defensive', 'retail']",,
+131262,yapi ve kredi bankasi,turkey,,,16631.0,,,doll_0.577 b,"['financial services', 'banking services']",,
+131275,yijiahe technology,china,,,,,,doll_0.07 b,"['industries', 'industry machinery']",,
+131366,yougov,uk,,,1650.0,,,doll_0.02 b,"['communication services', 'advertising', 'analytics', 'internet or mobile app based business', 'market research']",stephan shakespeare,
+131435,"yueyang forest & paper co., ltd.",china,,,,,,,['paper and pulp'],,
+131465,yoozoo games,china,,,,,,,"['communication services', 'gaming']",,
+131475,yamato kogyo,japan,,,1791.0,,,doll_0.291 b,"['basic materials', 'iron and steel']",,
+131549,yango group co. ltd,china,,,,,,doll_-0.001012 b,"['real estate', 'construction']",,
+131636,yantai tayho advanced materials,china,,,,,,,"['basic materials', 'chemicals']",,
+131666,yinyi,china,,,,,,,['real estate'],,
+131672,yfy,taiwan,,,,,,doll_0.172 b,"['basic materials', 'paper and pulp']",,
+131685,yantai zhenghai magnetic material,china,,,,,,,"['technology', 'electronics', 'capital goods']",,
+131691,yantai dongcheng pharmaceutical group,china,,,,,,doll_0.022 b,"['basic materials', 'pharmaceutical', 'healthcare products', 'chemicals']",,
+131884,ygsoft,china,,,,,,,"['technology', 'software and it']",,
+131970,yantai shuangta food,china,,,,,,doll_0.039 b,"['consumer defensive', 'fmcg', 'package foods', 'food products']",,
+132134,you & mr jones,united states,,,3000.0,,,,,,
+132195,"yangmei chemical co.,ltd",china,,,,,,,"['basic materials', 'chemicals']",,
+132268,y.h. dimri construction & development ltd,israel,,,,,,doll_0.072 b,['real estate'],,
+132324,yingkou jinchen machinery,china,,,,,,,"['industries', 'solar power devices', 'machinery manufacturing', 'technology', 'automation', 'industry machinery']",,
+132389,youngone corporation,south korea,,,,,,doll_0.223 b,"['consumer cyclical', 'apparels and accessories', 'clothing']",,
+132598,yanker shop food,china,,,,,,doll_0.022 b,"['consumer defensive', 'fmcg', 'package foods', 'food products']",,
+132703,yieh phui enterprise,taiwan,,,,,,doll_0.172 b,"['basic materials', 'mining', 'iron and steel', 'metals']",,
+132711,yanlord land group,singapore,,,,,,doll_0.417 b,"['real estate', 'construction']",,
+132753,ypf sociedad anonima,argentina,,,21000.0,,,doll_0.002 b,"['energy', 'chemicals', 'oil and gas', 'petrochemicals', 'natural gas generation', 'petroleum']",,
+132765,youdao,china,,,,,,doll_-0.145 b,"['communication services', 'internet or mobile app based business']",,
+132800,yanbu cement company,saudi arabia,,,,,,doll_0.042 b,"['basic materials', 'cement', 'construction materials']",,
+132801,yechiu metal recycling (china) ltd.,china,,,,,,,"['basic materials', 'aluminum']",,
+132818,yipinhong pharmaceutical,china,,,,,,,"['healthcare', 'pharmaceutical', 'healthcare products']",,
+132825,yulon motor company,taiwan,,,,,,doll_0.156 b,"['consumer cyclical', 'automobile']",,
+132923,yinson holdings berhad,malaysia,,,,,,,"['energy', 'oil and gas']",,
+132934,ytl corporation berhad,malaysia,,,,,,doll_-0.082 b,['utilities'],,
+133013,yamaguchi financial group,japan,,,4522.0,,,doll_-0.095 b,"['financial services', 'banking services']",,
+133107,yeahka limited,china,,,,,,,"['technology', 'software and it infrastructure']",,
+133172,yibin tianyuan group,china,,,,,,,"['basic materials', 'chemicals']",,
+133224,yuexiu real estate investment trust,hong kong,,,,,,doll_0.082 b,"['real estate', 'property investments']",,
+133429,yh global,china,,,,,,,['logistics'],,
+133430,yaochufa,china,,,,,,,,,
+133431,yanolja,south korea,,,,,,,,,
+133441,yunniao,china,,,,,,,['logistics'],,
+133442,yooli,china,,,,,,,,,
+133443,ymatou,china,,,,,,,,,
+133444,yijiupi,china,,,,,,,,,
+133475,yaguang technology group company,china,,,,,,doll_-0.174 b,"['consumer cyclical', 'boats', 'leisure']",,
+133477,yamama saudi cement company,saudi arabia,,,,,,doll_0.043 b,"['basic materials', 'cement', 'construction materials']",,
+133713,yapp automotive systems,china,,,,,,,"['consumer cyclical', 'automobile', 'automobile parts']",,
+133749,yantai china pet foods,china,,,,,,,"['consumer defensive', 'fmcg', 'package foods', 'food products']",,
+133905,yakutsk fuel and energy company,russia,,,,,,,"['energy', 'oil and gas']",,
+133914,yantai zhenghai biotechnology,china,,,,,,,"['healthcare', 'biotechnology']",,
+133964,yunnan wenshan electric power,china,,,,,,,"['utilities', 'electric utilities']",,
+134017,yindu kitchen equipment co. ltd,china,,,,,,,"['industries', 'industry machinery']",,
+134025,yoshinoya holdings,japan,,,4581.0,,,doll_0.059 b,"['consumer cyclical', 'restaurants']",,
+134118,yonggao,china,,,,,,,"['industries', 'plastics / plastic products', 'building products and equipment', 'construction materials']",,
+134148,yotrio group,china,,,,,,,"['consumer cyclical', 'furniture', 'home furnishing']",,
+134252,yabao pharmaceutical group co. ltd,china,,,,,,,"['healthcare', 'pharmaceutical', 'healthcare products']",,
+134267,yatsen holding ltd,china,,,3355.0,,,doll_-0.224 b,"['fmcg', 'beauty and personal care', 'personal care products', 'retail', 'ecommerce']",,
+134276,yunnan lincang xinyuan germanium industry,china,,,,,,,"['basic materials', 'mining']",,
+134405,yext,united states,,,1200.0,,,doll_-0.093 b,"['technology', 'software and it', 'software products', 'software and it infrastructure']",,
+134457,ytl power international berhad,malaysia,,,,,,,['utilities'],,
+134640,yunnan tourism,china,,,,,,,"['consumer cyclical', 'tourism', 'real estate', 'hotels', 'travel and transport', 'leisure']",,
+134678,yunnan energy investment,china,,,,,,,"['basic materials', 'chemicals']",,
+134688,yunnan xiyi industry,china,,,,,,,"['consumer cyclical', 'automobile', 'automobile parts']",,
+134758,yit oyj,finland,,,,,,doll_0.004 b,"['industries', 'construction']",,
+134898,yieh united steel,taiwan,,,,,,,"['basic materials', 'iron and steel', 'metals']",,
+135001,yujiahui,china,,,,,,,"['consumer cyclical', 'retail', 'internet or mobile app based business', 'ecommerce']",,
+135041,yixin group,china,,,,,,doll_0.004 b,['financial services'],,
+135141,yuexiu transport infrastructure,hong kong,,,,,,doll_0.213 b,"['industries', 'infrastructure']",,
+135211,yantai north andre juice company,china,,,,,,,"['consumer defensive', 'non-alcoholic beverages', 'beverages']",,
+135242,young & co's brewery,uk,,,,,,doll_0.04 b,['restaurants'],,
+135396,"yinbang clad material co., ltd.",china,,,,,,,"['basic materials', 'aluminum']",,
+135549,yungtay engineering,taiwan,,,,,,doll_0.047 b,"['industries', 'engineering products', 'engineering services', 'industry machinery']",,
+135594,young poong corporation,south korea,,,,,,doll_0.093 b,"['basic materials', 'mining', 'metals', 'zinc', 'copper mining', 'silver mining']",,
+135744,"yunnan jianzhijia health-chain co., ltd.",china,,,,,,,"['healthcare', 'retail', 'pharmacy']",,
+135955,youtube,united states,,,,0,,,,,
+136187,"yihai kerry arawana holdings co., ltd",china,,,,doll_0.05589 b,,,,,
+136379,yum! brands,united states,,,,doll_0.038740000000000004 b,,,,david gibbs,
+136534,yunnan energy new material,china,,,,doll_0.03661 b,,,,,
+136862,yum china holdings,china,,,,doll_0.02591 b,,,,,
+136889,yunnan baiyao group,china,,,,doll_0.01752 b,,,,,
+136941,yandex,russia,,,,doll_0.02748 b,,,,arkady volozh,
+137012,yonyou network technology,china,,,,doll_0.01636 b,,,,,
+137270,yanzhou coal mining company,china,,,,doll_0.01461 b,,,,,
+137300,yang ming marine transport corporation,taiwan,,,,doll_0.015710000000000002 b,,,,cheng cheng mount,
+137410,yara international asa,norway,,,,doll_0.012240000000000001 b,,,,,
+137487,yaskawa electric corporation,japan,,,,doll_0.01316 b,,,,,
+137537,yealink network technology,china,,,,doll_0.011630000000000001 b,,,,,
+137583,yunnan botanee bio-technology group co.ltd,china,,,,doll_0.012960000000000001 b,,,,,
+137610,yuanta financial holding co. ltd,taiwan,,,,doll_0.01088 b,,,,,
+137753,yanbu national petrochemical company,saudi arabia,,,,doll_0.01027 b,,,,,
+137822,yunda holding,china,,,,doll_0.00738 b,,,,,
+137876,yahoo,united states,,,,0,,,,,
+137938,yageo corporation,taiwan,,,,doll_0.00866 b,,,,,
+137946,yto express group,china,,,,doll_0.00474 b,,,,,
+137981,yamaha motor,japan,,,,doll_0.00893 b,,,,,
+138001,yuanfudao,china,,,,doll_2.069 b,,,,,
+138045,yamato holdings,japan,,,,doll_0.009630000000000001 b,,,,,
+138107,yamaha corporation,japan,,,,doll_0.01087 b,,,,,
+138138,yakult honsha,japan,,,,doll_0.00932 b,,,,,
+138183,yongxing special materials technology,china,,,,doll_0.00657 b,,,,,
+138604,yantai jereh oilfield services group,china,,,,doll_0.00583 b,,,,,
+138614,yeti holdings,united states,,,,doll_0.00869 b,,,,,
+138678,yifeng pharmacy chain,china,,,,doll_0.00604 b,,,,,
+138731,yunnan aluminium,china,,,,doll_0.0075 b,,,,,
+138786,yonghui superstores,china,,,,doll_0.00561 b,,,,,
+139050,yunnan yuntianhua,china,,,,doll_0.00642 b,,,,,
+139217,yunnan tin company,china,,,,doll_0.00601 b,,,,,
+139225,yangzhou yangjie electronic technology,china,,,,doll_0.00361 b,,,,,
+139283,youngor group,china,,,,doll_0.00454 b,,,,,
+139373,yadea group holdings,china,,,,doll_0.00491 b,,,,,
+139451,yokogawa electric corporation,japan,,,,doll_0.00426 b,,,,,
+139475,yes bank,india,,,,doll_0.0039 b,,,,,
+139480,yihai international holding,china,,,,doll_0.00635 b,,,,,
+139499,youngy,china,,,,doll_0.0067800000000000004 b,,,,,
+139581,yangling metron new material inc.,china,,,,doll_0.0050999999999999995 b,,,,,
+139583,yangquan coal industry (group),china,,,,doll_0.0048 b,,,,,
+139648,yuan long ping high-tech agriculture,china,,,,doll_0.00409 b,,,,,
+139721,yantai eddie precision machinery,china,,,,doll_0.00487 b,,,,,
+139915,"yunnan chihong zinc & germanium co., ltd.",china,,,,doll_0.00442 b,,,,,
+140019,yiguo,china,,,,doll_3.9579999999999997 b,,,,,
+140173,yangzijiang shipbuilding (holdings),china,,,,doll_0.00467 b,,,,,
+140180,yamana gold,canada,,,,doll_0.00425 b,,,,,
+140191,yintai gold,china,,,,doll_0.00363 b,,,,,
+140340,yifan pharmaceutical,china,,,,doll_0.00281 b,,,,,
+140341,yixintang pharmaceutical group,china,,,,doll_0.0028 b,,,,,
+140354,yunnan copper,china,,,,doll_0.00395 b,,,,,
+140494,yantai changyu pioneer wine company,china,,,,doll_0.00307 b,,,,,
+140850,yingkou port liability,china,,,,doll_0.0025499999999999997 b,,,,,
+141089,yamazaki baking,japan,,,,doll_0.00348 b,,,,,
+141105,yuexiu property company,hong kong,,,,doll_0.0029500000000000004 b,,,,,
+141208,yamada denki,japan,,,,doll_0.0036 b,,,,,
+141292,yancoal australia ltd,australia,,,,doll_0.00226 b,,,,,
+141357,yue yuen industrial (holdings),hong kong,,,,doll_0.0033799999999999998 b,,,,,
+141365,yulon nissan motor co. ltd,taiwan,,,,doll_0.00275 b,,,,,
+141402,yanan bicon pharmaceutical listed company,china,,,,doll_0.0029 b,,,,,
+141441,yokohama rubber company,japan,,,,doll_0.00279 b,,,,,
+141505,yelp,united states,,,,doll_0.00283 b,,,,,
+141515,yidu tech inc.,china,,,,doll_0.00424 b,,,,,
+141574,yangtze optical fibre and cable joint stock company,china,,,,doll_0.00214 b,,,,,
+141600,ypsomed holding ag,switzerland,,,,doll_0.0020299999999999997 b,,,,,
+141653,yusys technologies,china,,,,doll_0.00183 b,,,,,
+141659,yulon finance corporation,taiwan,,,,doll_0.0022400000000000002 b,,,,,
+141880,yaoko,japan,,,,doll_0.00254 b,,,,,
+141945,yapi ve kredi bankasi,turkey,,,,doll_0.00266 b,,,,,
+141953,yijiahe technology,china,,,,doll_0.00164 b,,,,,
+142042,yougov,uk,,,,doll_0.00219 b,,,,,
+142113,"yueyang forest & paper co., ltd.",china,,,,doll_0.00221 b,,,,,
+142143,yoozoo games,china,,,,doll_0.00176 b,,,,,
+142153,yamato kogyo,japan,,,,doll_0.00252 b,,,,,
+142239,yango group co. ltd,china,,,,doll_0.00283 b,,,,,
+142311,yantai tayho advanced materials,china,,,,doll_0.0022400000000000002 b,,,,,
+142342,yinyi,china,,,,doll_0.0015300000000000001 b,,,,,
+142356,yfy,taiwan,,,,doll_0.00214 b,,,,,
+142363,yantai zhenghai magnetic material,china,,,,doll_0.0016699999999999998 b,,,,,
+142377,yantai dongcheng pharmaceutical group,china,,,,doll_0.00189 b,,,,,
+142564,ygsoft,china,,,,doll_0.0013700000000000001 b,,,,,
+142658,yantai shuangta food,china,,,,doll_0.00195 b,,,,,
+142814,you & mr jones,united states,,,,doll_6.619 b,,,,,
+142873,"yangmei chemical co.,ltd",china,,,,doll_0.0016200000000000001 b,,,,,
+142950,y.h. dimri construction & development ltd,israel,,,,doll_0.00125 b,,,,,
+143004,yingkou jinchen machinery,china,,,,doll_0.00269 b,,,,,
+143079,youngone corporation,south korea,,,,doll_0.00158 b,,,,,
+143280,yanker shop food,china,,,,doll_0.00113 b,,,,,
+143385,yieh phui enterprise,taiwan,,,,doll_0.00221 b,,,,,
+143397,yanlord land group,singapore,,,,doll_0.00173 b,,,,,
+143434,ypf sociedad anonima,argentina,,,,doll_0.0020499999999999997 b,,,,,
+143443,youdao,china,,,,doll_0.00159 b,,,,,
+143487,yechiu metal recycling (china) ltd.,china,,,,doll_0.00195 b,,,,,
+143488,yanbu cement company,saudi arabia,,,,doll_0.00182 b,,,,,
+143500,yipinhong pharmaceutical,china,,,,doll_0.00148 b,,,,,
+143503,yulon motor company,taiwan,,,,doll_0.00136 b,,,,,
+143605,yinson holdings berhad,malaysia,,,,doll_0.00128 b,,,,,
+143614,ytl corporation berhad,malaysia,,,,doll_0.00176 b,,,,,
+143695,yamaguchi financial group,japan,,,,doll_0.00147 b,,,,,
+143781,yeahka limited,china,,,,doll_0.00218 b,,,,,
+143856,yibin tianyuan group,china,,,,doll_0.00152 b,,,,,
+143904,yuexiu real estate investment trust,hong kong,,,,doll_0.00176 b,,,,,
+144117,yanolja,south korea,,,,doll_7.6930000000000005 b,,,,,
+144118,yaochufa,china,,,,doll_7.6930000000000005 b,,,,,
+144119,yh global,china,,,,doll_7.6930000000000005 b,,,,,
+144120,yijiupi,china,,,,doll_7.6930000000000005 b,,,,,
+144121,ymatou,china,,,,doll_7.6930000000000005 b,,,,,
+144122,yooli,china,,,,doll_7.6930000000000005 b,,,,,
+144123,yunniao,china,,,,doll_7.6930000000000005 b,,,,,
+144151,yamama saudi cement company,saudi arabia,,,,doll_0.00174 b,,,,,
+144153,yaguang technology group company,china,,,,doll_0.0016799999999999999 b,,,,,
+144395,yapp automotive systems,china,,,,doll_0.0013 b,,,,,
+144439,yantai china pet foods,china,,,,doll_0.00131 b,,,,,
+144583,yakutsk fuel and energy company,russia,,,,doll_0.0011200000000000001 b,,,,,
+144594,yantai zhenghai biotechnology,china,,,,doll_0.00088 b,,,,,
+144643,yunnan wenshan electric power,china,,,,doll_0.0005 b,,,,,
+144691,yindu kitchen equipment co. ltd,china,,,,doll_0.00141 b,,,,,
+144703,yoshinoya holdings,japan,,,,doll_0.00121 b,,,,,
+144800,yonggao,china,,,,doll_0.00095 b,,,,,
+144830,yotrio group,china,,,,doll_0.0011899999999999999 b,,,,,
+144936,yabao pharmaceutical group co. ltd,china,,,,doll_0.00082 b,,,,,
+144941,yatsen holding ltd,china,,,,doll_0.0032 b,,,,,
+144952,yunnan lincang xinyuan germanium industry,china,,,,doll_0.00138 b,,,,,
+145083,yext,united states,,,,doll_0.00171 b,,,,,
+145131,ytl power international berhad,malaysia,,,,doll_0.00133 b,,,,,
+145328,yunnan tourism,china,,,,doll_0.0008100000000000001 b,,,,,
+145360,yunnan energy investment,china,,,,doll_0.00102 b,,,,,
+145370,yunnan xiyi industry,china,,,,doll_0.00035999999999999997 b,,,,,
+145440,yit oyj,finland,,,,doll_0.00126 b,,,,,
+145580,yieh united steel,taiwan,,,,doll_0.0014199999999999998 b,,,,,
+145687,yujiahui,china,,,,doll_0.00113 b,,,,,
+145727,yixin group,china,,,,doll_0.0014 b,,,,,
+145827,yuexiu transport infrastructure,hong kong,,,,doll_0.001 b,,,,,
+145897,yantai north andre juice company,china,,,,doll_0.00082 b,,,,,
+145926,young & co's brewery ,uk,,,,doll_0.00108 b,,,,,
+146072,"yinbang clad material co., ltd.",china,,,,doll_0.0007099999999999999 b,,,,,
+146239,yungtay engineering,taiwan,,,,doll_0.00087 b,,,,,
+146274,young poong corporation,south korea,,,,doll_0.00111 b,,,,,
+146424,"yunnan jianzhijia health-chain co., ltd.",china,,,,doll_0.00079 b,,,,,
+146635,youtube,united states,,,,0.0,,0.0,,susan wojcicki,
+146867,"yihai kerry arawana holdings co., ltd",china,,,,doll_5.566 b,,doll_0.649 b,,,
+147059,yum! brands,united states,,,,doll_3.968 b,,doll_0.157 b,,david gibbs,
+147214,yunnan energy new material,china,,,,doll_3.159 b,,doll_0.395 b,,,
+147542,yum china holdings,china,,,,doll_2.127 b,,doll_0.99 b,,,
+147569,yunnan baiyao group,china,,,,doll_2.058 b,,doll_0.44 b,,,
+147621,yandex,russia,,,,doll_1.959 b,,doll_-0.132 b,,arkady volozh,
+147692,yonyou network technology,china,,,,doll_1.823 b,,doll_0.111 b,,,
+147950,yanzhou coal mining company,china,,,,doll_1.462 b,,doll_0.23900000000000002 b,,,
+147980,yang ming marine transport corporation,taiwan,,,,doll_1.435 b,,doll_0.576 b,,chong-hua cheng,
+148090,yara international asa,norway,,,,doll_1.3130000000000002 b,,doll_0.449 b,,,
+148167,yaskawa electric corporation,japan,,,,doll_1.2449999999999999 b,,doll_0.304 b,,,
+148217,yealink network technology,china,,,,doll_1.181 b,,doll_0.235 b,,,
+148263,yunnan botanee bio-technology group co.ltd,china,,,,doll_1.147 b,,doll_0.135 b,,,
+148290,yuanta financial holding co. ltd,taiwan,,,,doll_1.131 b,,doll_0.11599999999999999 b,,,
+148433,yanbu national petrochemical company,saudi arabia,,,,doll_1.03 b,,doll_0.408 b,,,
+148502,yunda holding,china,,,,doll_0.9890000000000001 b,,doll_0.215 b,,,
+148556,yahoo,united states,,,,0.0,,0.0,,,
+148618,yageo corporation,taiwan,,,,doll_0.917 b,,doll_0.785 b,,,
+148626,yto express group,china,,,,doll_0.9109999999999999 b,,doll_0.306 b,,,
+148661,yamaha motor,japan,,,,doll_0.891 b,,doll_0.123 b,,,
+148681,yuanfudao,china,,,,0.0,,0.0,,,
+148725,yamato holdings,japan,,,,doll_0.8630000000000001 b,,doll_0.408 b,,,
+148787,yamaha corporation,japan,,,,doll_0.829 b,,doll_0.272 b,,,
+148818,yakult honsha,japan,,,,doll_0.817 b,,doll_0.328 b,,,
+148863,yongxing special materials technology,china,,,,doll_0.8019999999999999 b,,doll_0.129 b,,,
+149284,yantai jereh oilfield services group,china,,,,doll_0.654 b,,doll_0.249 b,,,
+149294,yeti holdings,united states,,,,doll_0.651 b,,doll_0.212 b,,,
+149358,yifeng pharmacy chain,china,,,,doll_0.634 b,,doll_0.129 b,,,
+149411,yunnan aluminium,china,,,,doll_0.619 b,,doll_0.521 b,,,
+149466,yonghui superstores,china,,,,doll_0.604 b,,doll_-0.574 b,,,
+149730,yunnan yuntianhua,china,,,,doll_0.541 b,,doll_0.571 b,,,
+149897,yunnan tin company,china,,,,doll_0.513 b,,doll_0.442 b,,,
+149905,yangzhou yangjie electronic technology,china,,,,doll_0.513 b,,doll_0.112 b,,,
+149963,youngor group,china,,,,doll_0.502 b,,doll_0.746 b,,,
+150053,yadea group holdings,china,,,,doll_0.485 b,,doll_0.199 b,,,
+150131,yokogawa electric corporation,japan,,,,doll_0.472 b,,doll_0.155 b,,,
+150155,yes bank,india,,,,doll_0.46799999999999997 b,,doll_0.133 b,,,
+150160,yihai international holding,china,,,,doll_0.466 b,,doll_0.111 b,,,
+150179,youngy,china,,,,doll_0.462 b,,doll_0.01 b,,,
+150261,yangling metron new material inc.,china,,,,doll_0.449 b,,doll_0.112 b,,,
+150263,yangquan coal industry (group),china,,,,doll_0.449 b,,doll_0.512 b,,,
+150328,yuan long ping high-tech agriculture,china,,,,doll_0.44000000000000006 b,,doll_0.009 b,,,
+150401,yantai eddie precision machinery,china,,,,doll_0.42699999999999994 b,,doll_0.068 b,,,
+150595,"yunnan chihong zinc & germanium co., ltd.",china,,,,doll_0.40199999999999997 b,,doll_0.086 b,,,
+150699,yiguo,china,,,,0.0,,0.0,,,
+150853,yangzijiang shipbuilding (holdings),china,,,,doll_0.375 b,,doll_0.538 b,,,
+150860,yamana gold,canada,,,,doll_0.374 b,,doll_0.113 b,,,
+150871,yintai gold,china,,,,doll_0.373 b,,doll_0.185 b,,,
+151020,yifan pharmaceutical,china,,,,doll_0.359 b,,doll_0.04 b,,,
+151021,yixintang pharmaceutical group,china,,,,doll_0.359 b,,doll_0.134 b,,,
+151034,yunnan copper,china,,,,doll_0.357 b,,doll_0.094 b,,,
+151174,yantai changyu pioneer wine company,china,,,,doll_0.341 b,,doll_0.073 b,,,
+151530,yingkou port liability,china,,,,0.0,,0.0,,,
+151769,yamazaki baking,japan,,,,doll_0.288 b,,doll_0.076 b,,,
+151785,yuexiu property company,hong kong,,,,doll_0.288 b,,doll_0.522 b,,,
+151888,yamada denki,japan,,,,doll_0.27999999999999997 b,,doll_0.369 b,,,
+151972,yancoal australia ltd,australia,,,,doll_0.275 b,,doll_0.585 b,,,
+152037,yue yuen industrial (holdings),hong kong,,,,doll_0.269 b,,doll_0.115 b,,,
+152045,yulon nissan motor co. ltd,taiwan,,,,doll_0.269 b,,doll_0.1 b,,,
+152082,yanan bicon pharmaceutical listed company,china,,,,doll_0.266 b,,0.0,,,
+152121,yokohama rubber company,japan,,,,doll_0.263 b,,doll_0.478 b,,,
+152185,yelp,united states,,,,doll_0.258 b,,doll_0.039 b,,,
+152195,yidu tech inc.,china,,,,doll_0.257 b,,0.0,,,
+152254,yangtze optical fibre and cable joint stock company,china,,,,doll_0.253 b,,0.0,,,
+152280,ypsomed holding ag,switzerland,,,,doll_0.25 b,,doll_0.024 b,,,
+152333,yusys technologies,china,,,,doll_0.24700000000000003 b,,doll_0.057 b,,,
+152339,yulon finance corporation,taiwan,,,,doll_0.246 b,,doll_0.17 b,,,
+152560,yaoko,japan,,,,doll_0.22999999999999998 b,,doll_0.112 b,,,
+152625,yapi ve kredi bankasi,turkey,,,,doll_0.22599999999999998 b,,doll_0.577 b,,,
+152633,yijiahe technology,china,,,,doll_0.22599999999999998 b,,doll_0.07 b,,,
+152722,yougov,uk,,,,doll_0.221 b,,doll_0.02 b,,stephan shakespeare,
+152793,"yueyang forest & paper co., ltd.",china,,,,doll_0.217 b,,0.0,,,
+152823,yoozoo games,china,,,,doll_0.21600000000000003 b,,0.0,,,
+152833,yamato kogyo,japan,,,,doll_0.215 b,,doll_0.291 b,,,
+152919,yango group co. ltd,china,,,,doll_0.211 b,,doll_-1.012 b,,,
+152991,yantai tayho advanced materials,china,,,,doll_0.20800000000000002 b,,0.0,,,
+153022,yinyi,china,,,,doll_0.207 b,,0.0,,,
+153036,yfy,taiwan,,,,doll_0.20600000000000002 b,,doll_0.172 b,,,
+153043,yantai zhenghai magnetic material,china,,,,doll_0.20600000000000002 b,,0.0,,,
+153057,yantai dongcheng pharmaceutical group,china,,,,doll_0.205 b,,doll_0.022 b,,,
+153244,ygsoft,china,,,,doll_0.196 b,,0.0,,,
+153338,yantai shuangta food,china,,,,doll_0.191 b,,doll_0.039 b,,,
+153494,you & mr jones,united states,,,,0.0,,0.0,,,
+153553,"yangmei chemical co.,ltd",china,,,,doll_0.181 b,,0.0,,,
+153630,y.h. dimri construction & development ltd,israel,,,,doll_0.178 b,,doll_0.072 b,,,
+153684,yingkou jinchen machinery,china,,,,doll_0.175 b,,0.0,,,
+153759,youngone corporation,south korea,,,,doll_0.173 b,,doll_0.223 b,,,
+153960,yanker shop food,china,,,,doll_0.16599999999999998 b,,doll_0.022 b,,,
+154065,yieh phui enterprise,taiwan,,,,doll_0.161 b,,doll_0.172 b,,,
+154077,yanlord land group,singapore,,,,doll_0.161 b,,doll_0.417 b,,,
+154114,ypf sociedad anonima,argentina,,,,doll_0.158 b,,doll_0.002 b,,,
+154123,youdao,china,,,,doll_0.159 b,,doll_-0.145 b,,,
+154167,yechiu metal recycling (china) ltd.,china,,,,doll_0.157 b,,0.0,,,
+154168,yanbu cement company,saudi arabia,,,,doll_0.157 b,,doll_0.042 b,,,
+154180,yipinhong pharmaceutical,china,,,,doll_0.157 b,,0.0,,,
+154183,yulon motor company,taiwan,,,,doll_0.157 b,,doll_0.156 b,,,
+154285,yinson holdings berhad,malaysia,,,,doll_0.152 b,,0.0,,,
+154294,ytl corporation berhad,malaysia,,,,doll_0.152 b,,doll_-0.082 b,,,
+154375,yamaguchi financial group,japan,,,,doll_0.149 b,,doll_-0.095 b,,,
+154461,yeahka limited,china,,,,doll_0.146 b,,0.0,,,
+154536,yibin tianyuan group,china,,,,doll_0.144 b,,0.0,,,
+154584,yuexiu real estate investment trust,hong kong,,,,doll_0.142 b,,doll_0.082 b,,,
+154797,yanolja,south korea,,,,0.0,,0.0,,,
+154798,yaochufa,china,,,,0.0,,0.0,,,
+154799,yh global,china,,,,0.0,,0.0,,,
+154800,yijiupi,china,,,,0.0,,0.0,,,
+154801,ymatou,china,,,,0.0,,0.0,,,
+154802,yooli,china,,,,0.0,,0.0,,,
+154803,yunniao,china,,,,0.0,,0.0,,,
+154831,yamama saudi cement company,saudi arabia,,,,doll_0.13999999999999999 b,,doll_0.043 b,,,
+154833,yaguang technology group company,china,,,,doll_0.13999999999999999 b,,doll_-0.174 b,,,
+155075,yapp automotive systems,china,,,,doll_0.134 b,,0.0,,,
+155119,yantai china pet foods,china,,,,doll_0.133 b,,0.0,,,
+155263,yakutsk fuel and energy company,russia,,,,doll_0.129 b,,0.0,,,
+155274,yantai zhenghai biotechnology,china,,,,doll_0.129 b,,0.0,,,
+155323,yunnan wenshan electric power,china,,,,doll_0.128 b,,0.0,,,
+155371,yindu kitchen equipment co. ltd,china,,,,doll_0.126 b,,0.0,,,
+155383,yoshinoya holdings,japan,,,,doll_0.126 b,,doll_0.059 b,,,
+155480,yonggao,china,,,,doll_0.124 b,,0.0,,,
+155510,yotrio group,china,,,,doll_0.123 b,,0.0,,,
+155616,yabao pharmaceutical group co. ltd,china,,,,doll_0.121 b,,0.0,,,
+155621,yatsen holding ltd,china,,,,doll_0.12 b,,doll_-0.224 b,,,
+155632,yunnan lincang xinyuan germanium industry,china,,,,doll_0.12 b,,0.0,,,
+155763,yext,united states,,,,doll_0.11699999999999999 b,,doll_-0.093 b,,,
+155811,ytl power international berhad,malaysia,,,,doll_0.11599999999999999 b,,0.0,,,
+156008,yunnan tourism,china,,,,doll_0.11200000000000002 b,,0.0,,,
+156040,yunnan energy investment,china,,,,doll_0.11100000000000002 b,,0.0,,,
+156050,yunnan xiyi industry,china,,,,doll_0.11100000000000002 b,,0.0,,,
+156120,yit oyj,finland,,,,doll_0.10800000000000001 b,,doll_0.004 b,,,
+156260,yieh united steel,taiwan,,,,doll_0.10600000000000001 b,,0.0,,,
+156367,yujiahui,china,,,,doll_0.10400000000000001 b,,0.0,,,
+156407,yixin group,china,,,,doll_0.10300000000000001 b,,doll_0.004 b,,,
+156507,yuexiu transport infrastructure,hong kong,,,,doll_0.10200000000000001 b,,doll_0.213 b,,,
+156577,yantai north andre juice company,china,,,,doll_0.101 b,,0.0,,,
+156606,young & co's brewery,uk,,,,doll_0.999 b,,doll_0.04 b,,,
+156752,"yinbang clad material co., ltd.",china,,,,doll_0.98 b,,0.0,,,
+156919,yungtay engineering,taiwan,,,,doll_0.954 b,,doll_0.047 b,,,
+156954,young poong corporation,south korea,,,,doll_0.944 b,,doll_0.093 b,,,
+157104,"yunnan jianzhijia health-chain co., ltd.",china,,,,doll_0.916 b,,0.0,,,
+157317,youtube,united states,,,,0,,,"['social media', 'internet or mobile app based business', 'technology']",susan wojcicki,
+157549,"yihai kerry arawana holdings co., ltd",china,,,,doll_0.055659999999999994 b,,doll_0.649 b,"['consumer defensive', 'food products', 'agriculture products']",,
+157741,yum! brands,united states,,,36000.0,doll_0.03968 b,,doll_1.575 b,"['consumer cyclical', 'restaurants', 'retail']",david gibbs,
+157896,yunnan energy new material,china,,,,doll_0.03159 b,,doll_0.395 b,"['consumer cyclical', 'packaging materials', 'packaging']",,
+158224,yum china holdings,china,,,400000.0,doll_0.02127 b,,doll_0.99 b,"['consumer cyclical', 'restaurants', 'food service']",,
+158251,yunnan baiyao group,china,,,8131.0,doll_0.020579999999999998 b,,doll_0.44 b,"['healthcare', 'pharmaceutical', 'chemicals']",,
+158303,yandex,russia,,,11864.0,doll_0.01959 b,,doll_-0.132 b,"['communication services', 'software and it', 'internet or mobile app based business']",arkady volozh,
+158374,yonyou network technology,china,,,17271.0,doll_0.01823 b,,doll_0.111 b,"['technology', 'software and it', 'cloud services']",,
+158632,yanzhou coal mining company,china,,,63869.0,doll_0.01462 b,,doll_2.392 b,"['energy', 'mining', 'coal mining']",,
+158662,yang ming marine transport corporation,taiwan,,,5861.0,doll_0.01435 b,,doll_5.758 b,"['industries', 'shipping', 'marine transportation']",chong-hua cheng,
+158772,yara international asa,norway,,,16818.0,doll_0.013130000000000001 b,,doll_0.449 b,"['basic materials', 'chemicals', 'fertilizers']",,
+158849,yaskawa electric corporation,japan,,,15179.0,doll_0.01245 b,,doll_0.304 b,"['industries', 'robotics', 'electrical products']",,
+158899,yealink network technology,china,,,,doll_0.011810000000000001 b,,doll_0.235 b,"['technology', 'communications equipment', 'technology hardware and instruments']",,
+158945,yunnan botanee bio-technology group co.ltd,china,,,,doll_0.011470000000000001 b,,doll_0.135 b,"['healthcare', 'biotechnology', 'personal care products']",,
+158972,yuanta financial holding co. ltd,taiwan,,,14276.0,doll_0.01131 b,,doll_1.161 b,"['financial services', 'banking services', 'insurance']",,
+159115,yanbu national petrochemical company,saudi arabia,,,,doll_0.0103 b,,doll_0.408 b,"['basic materials', 'chemicals', 'petrochemicals']",,
+159184,yunda holding,china,,,8328.0,doll_0.009890000000000001 b,,doll_0.215 b,"['industries', 'courier', 'logistics']",,
+159237,yahoo,united states,,,,0,,,['internet or mobile app based business'],,
+159299,yageo corporation,taiwan,,,17000.0,doll_0.00917 b,,doll_0.785 b,"['technology', 'electronics', 'capital goods']",,
+159307,yto express group,china,,,1070.0,doll_0.00911 b,,doll_0.306 b,"['industries', 'courier', 'logistics']",,
+159341,yamaha motor,japan,,,55255.0,doll_0.00891 b,,doll_1.232 b,"['consumer cyclical', 'automobile', 'bikes']",,
+159361,yuanfudao,china,,,,0,,,"['education', 'technology', 'internet or mobile app based business']",,
+159405,yamato holdings,japan,,,225000.0,doll_0.00863 b,,doll_0.408 b,"['industries', 'courier', 'logistics']",,
+159467,yamaha corporation,japan,,,20203.0,doll_0.008289999999999999 b,,doll_0.272 b,"['consumer cyclical', 'electronics', 'music']",,
+159498,yakult honsha,japan,,,2876.0,doll_0.00817 b,,doll_0.328 b,"['consumer defensive', 'food and beverage', 'food products']",,
+159543,yongxing special materials technology,china,,,,doll_0.00802 b,,doll_0.129 b,"['basic materials', 'iron and steel']",,
+159962,yantai jereh oilfield services group,china,,,4990.0,doll_0.00654 b,,doll_0.249 b,"['energy', 'oil and gas', 'oil field services']",,
+159972,yeti holdings,united states,,,,doll_0.00651 b,,doll_0.212 b,"['consumer cyclical', 'kitchen appliances', 'home appliances']",,
+160036,yifeng pharmacy chain,china,,,,doll_0.00634 b,,doll_0.129 b,"['healthcare', 'pharmacy', 'retail']",,
+160089,yunnan aluminium,china,,,,doll_0.00619 b,,doll_0.521 b,"['basic materials', 'aluminum']",,
+160144,yonghui superstores,china,,,110778.0,doll_0.00604 b,,doll_-0.574 b,"['consumer cyclical', 'retail', 'super markets']",,
+160408,yunnan yuntianhua,china,,,,doll_0.00541 b,,doll_0.571 b,"['basic materials', 'agriculture related']",,
+160575,yunnan tin company,china,,,15379.0,doll_0.00513 b,,doll_0.442 b,"['basic materials', 'mining']",,
+160583,yangzhou yangjie electronic technology,china,,,2771.0,doll_0.00513 b,,doll_0.112 b,"['technology', 'semiconductors']",,
+160640,youngor group,china,,,22022.0,doll_0.005019999999999999 b,,doll_0.746 b,"['consumer cyclical', 'textile', 'apparels and accessories']",,
+160730,yadea group holdings,china,,,4341.0,doll_0.004849999999999999 b,,doll_0.199 b,"['consumer cyclical', 'electric vehicles', 'bikes']",,
+160808,yokogawa electric corporation,japan,,,18107.0,doll_0.004719999999999999 b,,doll_0.155 b,"['industries', 'industry machinery', 'electrical products']",,
+160832,yes bank,india,,,23800.0,doll_0.00468 b,,doll_0.133 b,"['financial services', 'banking services']",,
+160837,yihai international holding,china,,,2127.0,doll_0.00466 b,,doll_0.111 b,"['consumer defensive', 'food products', 'fmcg']",,
+160856,youngy,china,,,,doll_0.00462 b,,doll_0.01 b,"['basic materials', 'chemicals']",,
+160938,yangling metron new material inc.,china,,,,doll_0.00449 b,,doll_0.112 b,"['industries', 'industry machinery']",,
+160940,yangquan coal industry (group),china,,,,doll_0.00449 b,,doll_0.512 b,"['energy', 'coal mining', 'mining']",,
+161004,yuan long ping high-tech agriculture,china,,,,doll_0.0044 b,,doll_0.009 b,"['consumer defensive', 'farming / seeds / milling', 'agriculture related']",,
+161077,yantai eddie precision machinery,china,,,1720.0,doll_0.0042699999999999995 b,,doll_0.068 b,"['industries', 'industry machinery']",,
+161269,"yunnan chihong zinc & germanium co., ltd.",china,,,9735.0,doll_0.004019999999999999 b,,doll_0.086 b,"['basic materials', 'mining']",,
+161373,yiguo,china,,,,0,,,"['internet or mobile app based business', 'ecommerce']",,
+161527,yangzijiang shipbuilding (holdings),china,,,6504.0,doll_0.00375 b,,doll_0.538 b,"['industries', 'aerospace and defense']",,
+161534,yamana gold,canada,,,10086.0,doll_0.0037400000000000003 b,,doll_0.113 b,"['basic materials', 'mining', 'gold mining']",,
+161545,yintai gold,china,,,1566.0,doll_0.00373 b,,doll_0.185 b,"['basic materials', 'gold mining', 'precious metals']",,
+161694,yifan pharmaceutical,china,,,4123.0,doll_0.00359 b,,doll_0.04 b,"['healthcare', 'pharmaceutical', 'healthcare products']",,
+161695,yixintang pharmaceutical group,china,,,,doll_0.00359 b,,doll_0.134 b,"['healthcare', 'pharmaceutical', 'healthcare products']",,
+161708,yunnan copper,china,,,11187.0,doll_0.00357 b,,doll_0.094 b,"['basic materials', 'copper mining', 'mining']",,
+161848,yantai changyu pioneer wine company,china,,,,doll_0.0034100000000000003 b,,doll_0.073 b,"['consumer defensive', 'alcoholic beverages', 'beverages']",,
+162204,yingkou port liability,china,,,,0,,,"['industries', 'shipping']",,
+162443,yamazaki baking,japan,,,19832.0,doll_0.0028799999999999997 b,,doll_0.076 b,"['consumer defensive', 'food products', 'retail']",,
+162459,yuexiu property company,hong kong,,,10100.0,doll_0.0028799999999999997 b,,doll_0.522 b,['real estate'],,
+162562,yamada denki,japan,,,19985.0,doll_0.0028 b,,doll_0.369 b,"['consumer cyclical', 'retail', 'consumer electronics']",,
+162646,yancoal australia ltd,australia,,,,doll_0.00275 b,,doll_0.585 b,"['energy', 'mining', 'coal mining']",,
+162711,yue yuen industrial (holdings),hong kong,,,319000.0,doll_0.00269 b,,doll_0.115 b,"['consumer cyclical', 'footwear']",,
+162719,yulon nissan motor co. ltd,taiwan,,,1082.0,doll_0.00269 b,,doll_0.1 b,"['consumer cyclical', 'automobile', 'automobile parts']",,
+162756,yanan bicon pharmaceutical listed company,china,,,,doll_0.00266 b,,,"['basic materials', 'pharmaceutical', 'healthcare products']",,
+162795,yokohama rubber company,japan,,,5543.0,doll_0.00263 b,,doll_0.478 b,"['consumer cyclical', 'tyres', 'rubber products']",,
+162859,yelp,united states,,,4400.0,doll_0.0025800000000000003 b,,doll_0.039 b,"['communication services', 'consumer services', 'internet or mobile app based business']",,
+162869,yidu tech inc.,china,,,,doll_0.00257 b,,,"['healthcare', 'healthcare technology and information']",,
+162928,yangtze optical fibre and cable joint stock company,china,,,,doll_0.0025299999999999997 b,,,"['technology', 'communications equipment']",,
+162954,ypsomed holding ag,switzerland,,,,doll_0.0025 b,,doll_0.024 b,"['healthcare', 'medical equipment']",,
+163006,yusys technologies,china,,,,doll_0.0024700000000000004 b,,doll_0.057 b,"['technology', 'software and it']",,
+163012,yulon finance corporation,taiwan,,,,doll_0.00246 b,,doll_0.17 b,['financial services'],,
+163232,yaoko,japan,,,15241.0,doll_0.0023 b,,doll_0.112 b,"['consumer defensive', 'retail']",,
+163297,yapi ve kredi bankasi,turkey,,,16631.0,doll_0.00226 b,,doll_0.577 b,"['financial services', 'banking services']",,
+163305,yijiahe technology,china,,,,doll_0.00226 b,,doll_0.07 b,"['industries', 'industry machinery']",,
+163394,yougov,uk,,,1650.0,doll_0.00221 b,,doll_0.02 b,"['communication services', 'advertising', 'analytics']",stephan shakespeare,
+163465,"yueyang forest & paper co., ltd.",china,,,,doll_0.00217 b,,,['paper and pulp'],,
+163495,yoozoo games,china,,,,doll_0.00216 b,,,"['communication services', 'gaming']",,
+163505,yamato kogyo,japan,,,1791.0,doll_0.00215 b,,doll_0.291 b,"['basic materials', 'iron and steel']",,
+163591,yango group co. ltd,china,,,,doll_0.00211 b,,doll_-1.012 b,"['real estate', 'construction']",,
+163663,yantai tayho advanced materials,china,,,,doll_0.0020800000000000003 b,,,"['basic materials', 'chemicals']",,
+163694,yinyi,china,,,,doll_0.00207 b,,,['real estate'],,
+163708,yfy,taiwan,,,,doll_0.00206 b,,doll_0.172 b,"['basic materials', 'paper and pulp']",,
+163715,yantai zhenghai magnetic material,china,,,,doll_0.00206 b,,,"['technology', 'electronics', 'capital goods']",,
+163729,yantai dongcheng pharmaceutical group,china,,,,doll_0.0020499999999999997 b,,doll_0.022 b,"['basic materials', 'pharmaceutical', 'healthcare products']",,
+163916,ygsoft,china,,,,doll_0.00196 b,,,"['technology', 'software and it']",,
+164010,yantai shuangta food,china,,,,doll_0.00191 b,,doll_0.039 b,"['consumer defensive', 'fmcg', 'package foods']",,
+164166,you & mr jones,united states,,,3000.0,0,,,,,
+164225,"yangmei chemical co.,ltd",china,,,,doll_0.00181 b,,,"['basic materials', 'chemicals']",,
+164302,y.h. dimri construction & development ltd,israel,,,,doll_0.0017800000000000001 b,,doll_0.072 b,['real estate'],,
+164356,yingkou jinchen machinery,china,,,,doll_0.00175 b,,,"['industries', 'solar power devices', 'machinery manufacturing']",,
+164431,youngone corporation,south korea,,,,doll_0.00173 b,,doll_0.223 b,"['consumer cyclical', 'apparels and accessories', 'clothing']",,
+164632,yanker shop food,china,,,,doll_0.00166 b,,doll_0.022 b,"['consumer defensive', 'fmcg', 'package foods']",,
+164737,yieh phui enterprise,taiwan,,,,doll_0.00161 b,,doll_0.172 b,"['basic materials', 'mining', 'iron and steel']",,
+164749,yanlord land group,singapore,,,,doll_0.00161 b,,doll_0.417 b,"['real estate', 'construction']",,
+164786,ypf sociedad anonima,argentina,,,21000.0,doll_0.00158 b,,doll_0.002 b,"['energy', 'chemicals', 'oil and gas']",,
+164795,youdao,china,,,,doll_0.00159 b,,doll_-0.145 b,"['communication services', 'internet or mobile app based business']",,
+164839,yechiu metal recycling (china) ltd.,china,,,,doll_0.00157 b,,,"['basic materials', 'aluminum']",,
+164840,yanbu cement company,saudi arabia,,,,doll_0.00157 b,,doll_0.042 b,"['basic materials', 'cement', 'construction materials']",,
+164852,yipinhong pharmaceutical,china,,,,doll_0.00157 b,,,"['healthcare', 'pharmaceutical', 'healthcare products']",,
+164855,yulon motor company,taiwan,,,,doll_0.00157 b,,doll_0.156 b,"['consumer cyclical', 'automobile']",,
+164957,yinson holdings berhad,malaysia,,,,doll_0.00152 b,,,"['energy', 'oil and gas']",,
+164966,ytl corporation berhad,malaysia,,,,doll_0.00152 b,,doll_-0.082 b,['utilities'],,
+165047,yamaguchi financial group,japan,,,4522.0,doll_0.00149 b,,doll_-0.095 b,"['financial services', 'banking services']",,
+165133,yeahka limited,china,,,,doll_0.00146 b,,,"['technology', 'software and it infrastructure']",,
+165208,yibin tianyuan group,china,,,,doll_0.0014399999999999999 b,,,"['basic materials', 'chemicals']",,
+165256,yuexiu real estate investment trust,hong kong,,,,doll_0.0014199999999999998 b,,doll_0.082 b,"['real estate', 'property investments']",,
+165469,yanolja,south korea,,,,0,,,,,
+165470,yaochufa,china,,,,0,,,,,
+165471,yh global,china,,,,0,,,['logistics'],,
+165472,yijiupi,china,,,,0,,,,,
+165473,ymatou,china,,,,0,,,,,
+165474,yooli,china,,,,0,,,,,
+165475,yunniao,china,,,,0,,,['logistics'],,
+165503,yamama saudi cement company,saudi arabia,,,,doll_0.0014 b,,doll_0.043 b,"['basic materials', 'cement', 'construction materials']",,
+165505,yaguang technology group company,china,,,,doll_0.0014 b,,doll_-0.174 b,"['consumer cyclical', 'boats', 'leisure']",,
+165747,yapp automotive systems,china,,,,doll_0.00134 b,,,"['consumer cyclical', 'automobile', 'automobile parts']",,
+165791,yantai china pet foods,china,,,,doll_0.00133 b,,,"['consumer defensive', 'fmcg', 'package foods']",,
+165935,yakutsk fuel and energy company,russia,,,,doll_0.0012900000000000001 b,,,"['energy', 'oil and gas']",,
+165946,yantai zhenghai biotechnology,china,,,,doll_0.0012900000000000001 b,,,"['healthcare', 'biotechnology']",,
+165995,yunnan wenshan electric power,china,,,,doll_0.00128 b,,,"['utilities', 'electric utilities']",,
+166043,yindu kitchen equipment co. ltd,china,,,,doll_0.00126 b,,,"['industries', 'industry machinery']",,
+166055,yoshinoya holdings,japan,,,4581.0,doll_0.00126 b,,doll_0.059 b,"['consumer cyclical', 'restaurants']",,
+166152,yonggao,china,,,,doll_0.00124 b,,,"['industries', 'plastics / plastic products', 'building products and equipment']",,
+166182,yotrio group,china,,,,doll_0.00123 b,,,"['consumer cyclical', 'furniture', 'home furnishing']",,
+166288,yabao pharmaceutical group co. ltd,china,,,,doll_0.00121 b,,,"['healthcare', 'pharmaceutical', 'healthcare products']",,
+166293,yatsen holding ltd,china,,,3355.0,doll_0.0012 b,,doll_-0.224 b,"['fmcg', 'beauty and personal care', 'personal care products']",,
+166304,yunnan lincang xinyuan germanium industry,china,,,,doll_0.0012 b,,,"['basic materials', 'mining']",,
+166435,yext,united states,,,1200.0,doll_0.00117 b,,doll_-0.093 b,"['technology', 'software and it', 'software products']",,
+166483,ytl power international berhad,malaysia,,,,doll_0.00116 b,,,['utilities'],,
+166680,yunnan tourism,china,,,,doll_0.0011200000000000001 b,,,"['consumer cyclical', 'tourism', 'real estate']",,
+166712,yunnan energy investment,china,,,,doll_0.00111 b,,,"['basic materials', 'chemicals']",,
+166722,yunnan xiyi industry,china,,,,doll_0.00111 b,,,"['consumer cyclical', 'automobile', 'automobile parts']",,
+166792,yit oyj,finland,,,,doll_0.00108 b,,doll_0.004 b,"['industries', 'construction']",,
+166932,yieh united steel,taiwan,,,,doll_0.00106 b,,,"['basic materials', 'iron and steel', 'metals']",,
+167038,yujiahui,china,,,,doll_0.0010400000000000001 b,,,"['consumer cyclical', 'retail', 'internet or mobile app based business']",,
+167078,yixin group,china,,,,doll_0.00103 b,,doll_0.004 b,['financial services'],,
+167178,yuexiu transport infrastructure,hong kong,,,,doll_0.00102 b,,doll_0.213 b,"['industries', 'infrastructure']",,
+167440,yandex,russia,,,11864.0,,doll_0.003206 b,,,arkady volozh,
+167526,yara international asa,norway,,,16818.0,,doll_0.016617 b,,,,
+168318,youtube,united states,,2005.0,,,,,"['social media', 'internet or mobile app based business', 'technology', 'artificial intelligence']",susan wojcicki,
+168544,"yihai kerry arawana holdings co., ltd",china,,2005.0,,,doll_0.03554 b,,"['consumer defensive', 'food products', 'agriculture products', 'package foods', 'food and beverage']",khoon hong kuok,
+168736,yum! brands,united states,,1997.0,,,doll_0.006584 b,,"['consumer cyclical', 'restaurants', 'retail', 'consumer services', 'entertainment']",david gibbs,
+168893,yunnan energy new material,china,,2006.0,,,doll_0.0011619999999999998 b,,"['consumer cyclical', 'packaging materials', 'packaging']",not found,
+169228,yum china holdings,china,,2016.0,,,doll_0.009852999999999999 b,,"['consumer cyclical', 'restaurants', 'food service', 'retail', 'consumer services', 'entertainment']",not found,
+169246,yunnan baiyao group,china,,1902.0,,,doll_0.005714 b,,"['healthcare', 'pharmaceutical', 'chemicals', 'healthcare products']",not found,
+169310,yandex,russia,,2000.0,,,doll_0.003206 b,,"['communication services', 'software and it', 'internet or mobile app based business', 'technology', 'software products']",arkady volozh,
+169380,yonyou network technology,china,,1988.0,,,doll_0.001403 b,,"['technology', 'software and it', 'cloud services']",not found,
+169632,yanzhou coal mining company,china,,1997.0,,,doll_0.022118 b,,"['energy', 'mining', 'coal mining']",not found,
+169663,yang ming marine transport corporation,taiwan,,1972.0,,,doll_0.011626 b,,"['industries', 'shipping', 'marine transportation', 'logistics']",cheng cheng mount,
+169775,yara international asa,norway,,1905.0,,,doll_0.016617 b,,"['basic materials', 'chemicals', 'fertilizers', 'agriculture related']",not found,
+169843,yaskawa electric corporation,japan,,1915.0,,,doll_0.003792 b,,"['industries', 'robotics', 'electrical products', 'electronics', 'technology hardware and instruments', 'engineering products']",not found,
+169900,yealink network technology,china,,2001.0,,,doll_0.536 b,,"['technology', 'communications equipment', 'technology hardware and instruments', 'electronics', 'network hardware and software', 'networking products / solutions']",not found,
+169946,yunnan botanee bio-technology group co.ltd,china,,2010.0,,,doll_0.631 b,,"['healthcare', 'biotechnology', 'personal care products', 'fmcg']",not found,
+169972,yuanta financial holding co. ltd,taiwan,,1961.0,,,doll_0.003964 b,,"['financial services', 'banking services', 'insurance', 'securities']",not found,
+170121,yanbu national petrochemical company,saudi arabia,,2006.0,,,doll_0.001975 b,,"['basic materials', 'chemicals', 'petrochemicals']",not found,
+170188,yunda holding,china,,,,,doll_0.006072 b,,"['industries', 'courier', 'logistics']",not found,
+170235,yahoo,united states,,,,,,,['internet or mobile app based business'],not found,
+170300,yageo corporation,taiwan,,1977.0,,,doll_0.003653 b,,"['technology', 'electronics', 'capital goods']",not found,
+170307,yto express group,china,,1992.0,,,doll_0.006571 b,,"['industries', 'courier', 'logistics']",not found,
+170333,yamaha motor,japan,,1955.0,,,doll_0.014348000000000001 b,,"['consumer cyclical', 'automobile', 'bikes', 'power generation', 'boats', 'marine systems', 'power management tools', 'tools and equipment']",not found,
+170358,yuanfudao,china,,,,,,,"['education', 'technology', 'internet or mobile app based business']",not found,
+170409,yamato holdings,japan,,1919.0,,,doll_0.013087999999999999 b,,"['industries', 'courier', 'logistics', 'professional services', 'freight transport']",not found,
+170462,yamaha corporation,japan,,1887.0,,,doll_0.002979 b,,"['consumer cyclical', 'electronics', 'music', 'musical instruments', 'leisure']",not found,
+170497,yakult honsha,japan,,1935.0,,,doll_0.003029 b,,"['consumer defensive', 'food and beverage', 'food products', 'beverages', 'non-alcoholic beverages', 'pharmaceutical', 'cosmetics', 'personal care products', 'fmcg']",not found,
+170546,yongxing special materials technology,china,,2000.0,,,doll_0.001048 b,,"['basic materials', 'iron and steel']",not found,
+170970,yantai jereh oilfield services group,china,,1999.0,,,doll_0.001377 b,,"['energy', 'oil and gas', 'oil field services']",not found,
+170974,yeti holdings,united states,,2006.0,,,doll_0.00141 b,,"['consumer cyclical', 'kitchen appliances', 'home appliances', 'leisure']",not found,
+171040,yifeng pharmacy chain,china,,2008.0,,,doll_0.0022299999999999998 b,,"['healthcare', 'pharmacy', 'retail']",not found,
+171085,yunnan aluminium,china,,1970.0,,,doll_0.00654 b,,"['basic materials', 'aluminum']",not found,
+171144,yonghui superstores,china,,2001.0,,,doll_0.013250999999999999 b,,"['consumer cyclical', 'retail', 'super markets']",not found,
+171411,yunnan yuntianhua,china,,,,,doll_0.009928000000000001 b,,"['basic materials', 'agriculture related']",not found,
+171575,yunnan tin company,china,,,,,doll_0.008451 b,,"['basic materials', 'mining']",not found,
+171588,yangzhou yangjie electronic technology,china,,,,,doll_0.64 b,,"['technology', 'semiconductors']",not found,
+171641,youngor group,china,,,,,doll_0.00198 b,,"['consumer cyclical', 'textile', 'apparels and accessories', 'real estate', 'construction']",not found,
+171723,yadea group holdings,china,,,,,doll_0.0039239999999999995 b,,"['consumer cyclical', 'electric vehicles', 'bikes', 'scooters', 'bicycle', 'automobile']",not found,
+171811,yokogawa electric corporation,japan,,1915.0,,,doll_0.0028450000000000003 b,,"['industries', 'industry machinery', 'electrical products', 'engineering products']",not found,
+171835,yes bank,india,,2004.0,,,doll_0.00114 b,,"['financial services', 'banking services']",not found,
+171837,yihai international holding,china,,,,,doll_0.865 b,,"['consumer defensive', 'food products', 'fmcg', 'package foods']",not found,
+171858,youngy,china,,,,,doll_0.134 b,,"['basic materials', 'chemicals']",not found,
+171933,yangquan coal industry (group),china,,,,,doll_0.005516 b,,"['energy', 'coal mining', 'mining']",not found,
+171937,yangling metron new material inc.,china,,,,,doll_0.272 b,,"['industries', 'industry machinery']",not found,
+172011,yuan long ping high-tech agriculture,china,,,,,doll_0.51 b,,"['consumer defensive', 'farming / seeds / milling', 'agriculture related']",not found,
+172076,yantai eddie precision machinery,china,,,,,doll_0.39 b,,"['industries', 'industry machinery']",not found,
+172263,"yunnan chihong zinc & germanium co., ltd.",china,,,,,doll_0.003192 b,,"['basic materials', 'mining']",not found,
+172380,yiguo,china,,2005.0,,,,,"['internet or mobile app based business', 'ecommerce']",not found,
+172524,yangzijiang shipbuilding (holdings),china,,,,,doll_0.00244 b,,"['industries', 'aerospace and defense']",not found,
+172541,yamana gold,canada,,1994.0,,,doll_0.0013959999999999999 b,,"['basic materials', 'mining', 'gold mining', 'metals', 'precious metals']",not found,
+172549,yintai gold,china,,,,,doll_0.0013160000000000001 b,,"['basic materials', 'gold mining', 'precious metals', 'mining', 'metals', 'silver mining', 'zinc', 'lead']",not found,
+172694,yixintang pharmaceutical group,china,,,,,doll_0.0021230000000000003 b,,"['healthcare', 'pharmaceutical', 'healthcare products', 'pharmacy', 'retail']",not found,
+172701,yifan pharmaceutical,china,,,,,doll_0.642 b,,"['healthcare', 'pharmaceutical', 'healthcare products']",not found,
+172708,yunnan copper,china,,,,,doll_0.01849 b,,"['basic materials', 'copper mining', 'mining']",not found,
+172844,yantai changyu pioneer wine company,china,,,,,doll_0.575 b,,"['consumer defensive', 'alcoholic beverages', 'beverages']",not found,
+173207,yingkou port liability,china,,,,,,,"['industries', 'shipping']",not found,
+173448,yamazaki baking,japan,,1948.0,,,doll_0.007684 b,,"['consumer defensive', 'food products', 'retail', 'fmcg', 'package foods']",not found,
+173461,yuexiu property company,hong kong,,1992.0,,,doll_0.00835 b,,['real estate'],not found,
+173562,yamada denki,japan,,1973.0,,,doll_0.011817 b,,"['consumer cyclical', 'retail', 'consumer electronics', 'electronics']",not found,
+173647,yancoal australia ltd,australia,,2004.0,,,doll_0.004107 b,,"['energy', 'mining', 'coal mining']",not found,
+173709,yue yuen industrial (holdings),hong kong,,1988.0,,,doll_0.008532999999999999 b,,"['consumer cyclical', 'footwear']",not found,
+173712,yulon nissan motor co. ltd,taiwan,,2003.0,,,doll_0.815 b,,"['consumer cyclical', 'automobile', 'automobile parts']",not found,
+173753,yanan bicon pharmaceutical listed company,china,,,,,,,"['basic materials', 'pharmaceutical', 'healthcare products', 'chemicals']",not found,
+173794,yokohama rubber company,japan,,1917.0,,,doll_0.004894999999999999 b,,"['consumer cyclical', 'tyres', 'rubber products', 'automobile', 'automobile parts']",not found,
+173857,yelp,united states,,2004.0,,,doll_0.001031 b,,"['communication services', 'consumer services', 'internet or mobile app based business', 'artificial intelligence']",not found,
+173867,yidu tech inc.,china,,,,,,,"['healthcare', 'healthcare technology and information']",not found,
+173924,yangtze optical fibre and cable joint stock company,china,,,,,,,"['technology', 'communications equipment']",not found,
+173961,ypsomed holding ag,switzerland,,2003.0,,,doll_0.482 b,,"['healthcare', 'medical equipment']",not found,
+174002,yusys technologies,china,,,,,doll_0.542 b,,"['technology', 'software and it']",not found,
+174018,yulon finance corporation,taiwan,,1990.0,,,doll_0.485 b,,['financial services'],not found,
+174232,yaoko,japan,,1974.0,,,doll_0.003911 b,,"['consumer defensive', 'retail']",not found,
+174296,yapi ve kredi bankasi,turkey,,1944.0,,,doll_0.0019270000000000001 b,,"['financial services', 'banking services']",not found,
+174308,yijiahe technology,china,,,,,doll_0.187 b,,"['industries', 'industry machinery']",not found,
+174400,yougov,uk,,2000.0,,,doll_0.256 b,,"['communication services', 'advertising', 'analytics', 'internet or mobile app based business', 'market research']",stephan shakespeare,
+174464,"yueyang forest & paper co., ltd.",china,,,,,,,['paper and pulp'],not found,
+174496,yoozoo games,china,,,,,,,"['communication services', 'gaming']",not found,
+174503,yamato kogyo,japan,,,,,doll_0.001095 b,,"['basic materials', 'iron and steel']",not found,
+174583,yango group co. ltd,china,,,,,doll_0.006188 b,,"['real estate', 'construction']",not found,
+174668,yantai tayho advanced materials,china,,,,,,,"['basic materials', 'chemicals']",not found,
+174694,yinyi,china,,,,,,,['real estate'],not found,
+174704,yfy,taiwan,,1924.0,,,doll_0.002819 b,,"['basic materials', 'paper and pulp']",not found,
+174712,yantai zhenghai magnetic material,china,,,,,,,"['technology', 'electronics', 'capital goods']",not found,
+174728,yantai dongcheng pharmaceutical group,china,,,,,doll_0.569 b,,"['basic materials', 'pharmaceutical', 'healthcare products', 'chemicals']",not found,
+174916,ygsoft,china,,,,,,,"['technology', 'software and it']",not found,
+175008,yantai shuangta food,china,,,,,doll_0.315 b,,"['consumer defensive', 'fmcg', 'package foods', 'food products']",not found,
+175170,you & mr jones,united states,,2015.0,,,,,,not found,
+175229,"yangmei chemical co.,ltd",china,,,,,,,"['basic materials', 'chemicals']",not found,
+175307,y.h. dimri construction & development ltd,israel,,1989.0,,,doll_0.386 b,,['real estate'],not found,
+175358,yingkou jinchen machinery,china,,,,,,,"['industries', 'solar power devices', 'machinery manufacturing', 'technology', 'automation', 'industry machinery']",not found,
+175423,youngone corporation,south korea,,1974.0,,,doll_0.002089 b,,"['consumer cyclical', 'apparels and accessories', 'clothing']",not found,
+175632,yanker shop food,china,,,,,doll_0.332 b,,"['consumer defensive', 'fmcg', 'package foods', 'food products']",not found,
+175737,yieh phui enterprise,taiwan,,,,,doll_0.002975 b,,"['basic materials', 'mining', 'iron and steel', 'metals']",not found,
+175743,yanlord land group,singapore,,,,,doll_0.005469 b,,"['real estate', 'construction']",not found,
+175787,ypf sociedad anonima,argentina,,,,,doll_0.00903 b,,"['energy', 'chemicals', 'oil and gas', 'petrochemicals', 'natural gas generation', 'petroleum']",not found,
+175798,youdao,china,,,,,doll_0.584 b,,"['communication services', 'internet or mobile app based business']",not found,
+175835,yanbu cement company,saudi arabia,,,,,doll_0.249 b,,"['basic materials', 'cement', 'construction materials']",not found,
+175838,yechiu metal recycling (china) ltd.,china,,,,,,,"['basic materials', 'aluminum']",not found,
+175852,yipinhong pharmaceutical,china,,,,,,,"['healthcare', 'pharmaceutical', 'healthcare products']",not found,
+175856,yulon motor company,taiwan,,,,,doll_0.002577 b,,"['consumer cyclical', 'automobile']",not found,
+175957,yinson holdings berhad,malaysia,,,,,,,"['energy', 'oil and gas']",not found,
+175969,ytl corporation berhad,malaysia,,,,,doll_0.0038650000000000004 b,,['utilities'],not found,
+176051,yamaguchi financial group,japan,,,,,doll_0.963 b,,"['financial services', 'banking services']",not found,
+176138,yeahka limited,china,,,,,,,"['technology', 'software and it infrastructure']",not found,
+176204,yibin tianyuan group,china,,,,,,,"['basic materials', 'chemicals']",not found,
+176253,yuexiu real estate investment trust,hong kong,,,,,doll_0.229 b,,"['real estate', 'property investments']",not found,
+176463,yaochufa,china,,2011.0,,,,,,not found,
+176464,yanolja,south korea,,2005.0,,,,,,not found,
+176469,yh global,china,,2012.0,,,,,['logistics'],not found,
+176472,yijiupi,china,,2014.0,,,,,,not found,
+176476,yooli,china,,2012.0,,,,,,not found,
+176478,yunniao,china,,2014.0,,,,,['logistics'],not found,
+176480,ymatou,china,,2009.0,,,,,,not found,
+176507,yaguang technology group company,china,,,,,doll_0.231 b,,"['consumer cyclical', 'boats', 'leisure']",not found,
+176508,yamama saudi cement company,saudi arabia,,,,,doll_0.196 b,,"['basic materials', 'cement', 'construction materials']",not found,
+176746,yapp automotive systems,china,,,,,,,"['consumer cyclical', 'automobile', 'automobile parts']",not found,
+176785,yantai china pet foods,china,,,,,,,"['consumer defensive', 'fmcg', 'package foods', 'food products']",not found,
+176939,yakutsk fuel and energy company,russia,,,,,,,"['energy', 'oil and gas']",not found,
+176947,yantai zhenghai biotechnology,china,,,,,,,"['healthcare', 'biotechnology']",not found,
+176998,yunnan wenshan electric power,china,,,,,,,"['utilities', 'electric utilities']",not found,
+177050,yindu kitchen equipment co. ltd,china,,,,,,,"['industries', 'industry machinery']",not found,
+177059,yoshinoya holdings,japan,,,,,doll_0.001121 b,,"['consumer cyclical', 'restaurants']",not found,
+177152,yonggao,china,,,,,,,"['industries', 'plastics / plastic products', 'building products and equipment', 'construction materials']",not found,
+177182,yotrio group,china,,,,,,,"['consumer cyclical', 'furniture', 'home furnishing']",not found,
+177288,yabao pharmaceutical group co. ltd,china,,,,,,,"['healthcare', 'pharmaceutical', 'healthcare products']",not found,
+177292,yatsen holding ltd,china,,,,,doll_0.85 b,,"['fmcg', 'beauty and personal care', 'personal care products', 'retail', 'ecommerce']",not found,
+177303,yunnan lincang xinyuan germanium industry,china,,,,,,,"['basic materials', 'mining']",not found,
+177438,yext,united states,,2006.0,,,doll_0.39 b,,"['technology', 'software and it', 'software products', 'software and it infrastructure']",not found,
+177489,ytl power international berhad,malaysia,,,,,,,['utilities'],not found,
+177674,yunnan tourism,china,,,,,,,"['consumer cyclical', 'tourism', 'real estate', 'hotels', 'travel and transport', 'leisure']",not found,
+177712,yunnan energy investment,china,,,,,,,"['basic materials', 'chemicals']",not found,
+177722,yunnan xiyi industry,china,,,,,,,"['consumer cyclical', 'automobile', 'automobile parts']",not found,
+177792,yit oyj,finland,,,,,doll_0.002855 b,,"['industries', 'construction']",not found,
+177932,yieh united steel,taiwan,,,,,,,"['basic materials', 'iron and steel', 'metals']",not found,
+178033,yujiahui,china,,,,,,,"['consumer cyclical', 'retail', 'internet or mobile app based business', 'ecommerce']",not found,
+178074,yixin group,china,,,,,doll_0.508 b,,['financial services'],not found,
+178176,yuexiu transport infrastructure,hong kong,,1996.0,,,doll_0.539 b,,"['industries', 'infrastructure']",not found,
+179534,yoox net-a-porter group,,,2015.0,,,,,['clothing & accessories'],,milan
+180088,yoplait,,,1965.0,,,,,['food products'],,boulogne-billancourt
+181646,yit,,,1912.0,,,,,['heavy construction'],,helsinki
+181809,yoplait,,,1965.0,,,,,['food products'],,boulogne-billancourt
+183007,yoox net-a-porter group,,,2015.0,,,,,['clothing & accessories'],,milan
+184583,yakult,,,2001.0,,,,,,,haidian district
+184584,yili group,,,1993.0,,,,,,,"hohhot, inner mongolia"
+184585,yamaha corporation,,,,,,,,,,"hamamatsu, shizuoka"
+184586,yandex,,,,,,,,,,moscow
+184587,yokohama rubber company,,,,,,,,,,moscow
+184588,yamaha motor company,,,,,,,,,,moscow
+184589,yum! brands,,,,,,,,,,moscow

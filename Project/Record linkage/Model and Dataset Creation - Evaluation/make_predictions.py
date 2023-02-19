@@ -15,7 +15,7 @@ class Predictor:
         candidate = dm.data.process_unlabeled(
                     path = self.path_predict + '\\' + filename,
                     trained_model = self.model,
-                    ignore_columns = ('ltable_ID', 'rtable_ID'))
+                    ignore_columns = ('ltable_id', 'rtable_id'))
         
         predictions = self.model.run_prediction(candidate, output_attributes=list(candidate.get_raw_table().columns))
 

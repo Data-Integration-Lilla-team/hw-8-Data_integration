@@ -1,183 +1,236 @@
-ID,name,country,headquarters,address,founded,employees,market_cap,revenue,profit,industry,sector,categories,ceo;
-360,xpressbees,,,,2015,,,,,logistics,,,;
-450,xl dynamics,,,,2002,,,,,accounting & auditing,,,;
-459,xoriant,,,,1990,,,,,it services & consulting,,,;
-617,xpitax solutions,,,,2006,,,,,it services & consulting,,,;
-22689,xiaomi,china,,,,,doll_37.76 b,,,,,,;
-935,xebia,,,,2001,,,,,it services & consulting,,,;
-1210,xyz company,,,,0,,,,,financial services,,,;
-1414,xceedance,,,,2013,,,,,insurance,,,;
-20007,xerox,united states,,,,,,,,,,,;
-1660,xavient digital - powered by telus international,,,,2002,,,,,it services & consulting,,,;
-2042,xdbs,,,,2012,,,,,marketing & advertising,,,;
-2217,xl health,,,,1997,,,,,insurance,,,;
-2226,xchanging,,,,1998,,,,,it services & consulting,,,;
-4016,xplore-tech services,,,,2004,,,,,bpo,,,;
-4132,xrbia developers,,,,2012,,,,,real estate,,,;
-36672,xpo logistics,united states,,,,,,,,,,,;
-4405,xylem water solutions,,,,2011,,,,,waste management,,,;
-4752,xome,,,,2012,,,,,internet,,,;
-4851,xalta food and beverages,,,,2015,,,,,beverage,,,;
-5060,xseed education,,,,2008,,,,,edtech,,,;
-5152,xenonstack,,,,2012,,,,,it services & consulting,,,;
-5635,xylem resource management,,,,2007,,,,,recruitment,,,;
-7811,xpheno,,,,2016,,,,,recruitment,,,;
-7917,xoxoday,,,,,,,,,,,,;
-8163,xotik frujus,,,,2007,,,,,beverage,,,;
-8559,xl catlin,,,,1986,,,,,insurance,,,;
-8706,xl laboratories,,,,2001,,,,,pharma,,,;
-8788,xiaomi service center,,,,0,,,,,,,,;
-9466,xl india business services,,,,2003,,,,,financial services,,,;
-11360,xpresspathconsultingoãå(16113568),,,                        Harju maakond Tallinn Kesklinna linnaosa Sakala tn 7-2 10141                            ,,,,,,,,,;
-13641,xendit,indonesia,,,,,,,,fintech,,,;
-11538,xiaoe tech,china,,,,,,,,internet software & services,,,;
-11542,xiaoice,china,,,2020,,,,,e-commerce & direct-to-consumer,,,;
-13587,xforceplus,china,,,,,,,,internet software & services,,,;
-11669,xanadu,canada,,,,,,,,hardware,,,;
-11968,xiaozhu,china,,,,,,,,travel,,,;
-13160,ximalaya fm,china,,,,,,,,mobile & telecommunications,,,;
-13028,xtalpi,china,,,,,,,,artificial intelligence,,,;
-13008,xingyun group,china,,,,,,,,,,,;
-12237,xinchao media,china,,,,,,,,internet software & services,,,;
-12514,xingsheng selected,china,,,2009,,,,,e-commerce & direct-to-consumer,,,;
-149352,xiaohongshu,china,,,,,,,,,,,;
-13618,xiaobing,china,,,,,,,,fintech,,,;
-94688,xcel energy,united states,,,,,doll_39.76 b,,,,,,;
-27682,xylem,united states,,,,,doll_24.56 m,,,,,,;
-62562,xpel,united states,,,,,doll_1.97 b,,,,,,;
-23781,xponential fitness,united states,,,,,doll_1.26 b,,,,,,;
-23744,xometry,united states,,,,,doll_1.34 b,,,,,,;
-52225,xencor,united states,,,,,doll_1.72 b,,,,,,;
-47552,xl axiata,indonesia,,,,,doll_2.67 b,,,,,,;
-57763,x5 retail group,netherlands,,,,,doll_4.87 b,,,,,,;
-21423,xero,new-zealand,,,,,doll_7.86 b,,,,,tech software ,;
-64837,xpeng,china,,,,,doll_8.55 b,,,,,,;
-147872,xp inc.,brazil,,,,,,,,,,,;
-59520,xd inc.,china,,,,,doll_1.55 b,,,,,,;
-142273,xenia hotels & resorts,united states,,,,,doll_1.60 b,,,,,,;
-58913,xenon pharmaceuticals,canada,,,,,doll_2.26 b,,,,,,;
-33609,xebec adsorption,canada,,,,,doll_58.69 m,,,,,,;
-63491,x4 pharmaceuticals,united states,,,,,doll_0.14 b,,,,,,;
-33283,xbiotech,united states,,,,,doll_0.14 b,,,,,,;
-54657,xunlei,china,,,,,doll_0.14 b,,,,,,;
-33249,x-legend entertainment,taiwan,,,,,doll_0.14 b,,,,,,;
-40291,xl fleet ,united states,,,,,doll_0.16 b,,,,,,;
-33156,xeris pharmaceuticals,united states,,,,,doll_0.17 b,,,,,,;
-33185,xos,united states,,,,,doll_0.16 b,,,,,,;
-54336,xoma,united states,,,,,doll_0.25 b,,,,,,;
-32452,xperi,united states,,,,,doll_0.41 b,,,,,,;
-148005,xero,new zealand,,,,,,,,,,,;
-146849,xiaomi corp,china,,,,,doll_43.10 b,,,,technology,,;
-69915,xpeng inc.,china,,,,,doll_24.44 b,,,auto manufacturers,consumer discretionary,,;
-73785,xps pensions group plc,united kingdom,,,,,doll_352.9 m,,,personal services,consumer discretionary,,;
-73854,xaar plc,united kingdom,,,,,doll_271.7 m,,,electronic components,technology,,;
-74120,xpediator plc,united kingdom,,,,,doll_95.7 m,,,integrated freight & logistics,industrials,,;
-139776,xiamen c&d,china,,,,,doll_6.02 b,,,,,,;
-147555,xinjiang tianfu energy,china,,,,,,,,,,,;
-93600,xcmg construction machinery,china,,,,,doll_6.23 b,,,,,,;
-138426,x5 retail group,russia,,,,,doll_7.14 b,,,,,,;
-93649,xiamen international trade group,china,,,,,doll_2.54 b,doll_72.02 b,doll_478.4 m,,,,;
-140963,xiamen xiangyu,china,,,,,doll_2.93 b,,,,,,;
-93689,xp,brazil,,,,,,doll_2.31 b,doll_665.9 m,,,,thiago maffra;
-93863,xinyu iron & steel co. ltd,china,,,,,doll_2.83 b,,doll_652 m,,,,;
-137870,xinyi glass holdings,hong kong,,,,,doll_8.55 b,,doll_1.47 b,,,,;
-102498,xalient,uk,,,,88.0,,doll_26.2 m,,,technology,,;
-97737,xl energies,france,,,,11,,doll_8.36 m,,,energy,,;
-97769,xplort,uk,,,,5,,doll_2.25 m,,,interiors,,;
-104291,xylon,croatia,,,,81,,doll_4.49 m,,,technology,,;
-101058,xcel petroleum,malaysia,,,,15,,doll_26.24 m,,,energy,,;
-101280,xt insulation,italy,,,,8,,doll_6.6 m,,,industrial goods,,;
-101468,xref limited,australia,,,,60,,doll_8.64 m,,,technology,,;
-101601,xilnex,malaysia,,,,118,,doll_3.67 m,,,technology,,;
-101832,xtream codes,bulgaria,,,,not found,,doll_3.02 m,,,technology,,;
-102507,xcede recruitment,united kingdom,,,,63,,doll_29.02 m,,,support services,,;
-103434,xml travelgate,spain,,,,102,,doll_5.07 m,,,travel & leisure,,;
-104428,xceptor,united kingdom,,,,108,,doll_17.01 m,,,technology,,;
-104584,xceptor,uk,,,,108,,doll_22.77 m,,,fintech,,;
-104979,x4 group,united kingdom,,,,117,,doll_30.5 m,,,support services,,;
-105040,xucker,germany,,,,35,,doll_11.1 m,,,food & beverage,,;
-105177,xpose360,germany,,,,35,,doll_2.6 m,,,advertising,,;
-105192,xpand solutions,portugal,,,,195,,doll_10.0 m,,,technology,,;
-120359,xxvi holdings inc.,united states,,,,,,,,,,,;
-123467,xodus group limited,united kingdom,,,,,,,,,,,;
-124281,xilinx careers,,,,1984,,,,,semiconductors,,,;
-124535,xactly careers,,,,2005,,,,,computer software,,,;
-124569,xo group careers,,,,1996,,,,,broadcast & online media,,,;
-124659,xiaomi careers,,,,2010,,,,,internet,,,;
-124869,xant careers,,,,2004,,,,,computer software,,,;
-139782,xinhu zhongbao,china,,,,,,,,,,,;
-154796,xingsheng,china,,,,,,,,,,,;
-136262,xilinx,united states,,,,,doll_48.22 b,,,,,,victor peng;
-136374,xpeng motors,china,,,,,doll_36.37 m,,doll_-708.0 m,,,,he xiaopeng;
-150992,xinyi energy holdings,china,,,,,doll_13.72 b,,,,,,;
-137887,xinjiang goldwind science&technology,china,,,,,doll_9.52 b,,,,,,;
-138454,xiamen faratronic,china,,,,,doll_7.06 b,,,,,,;
-139357,xiamen tungsten,china,,,,,doll_4.87 b,,,,,,;
-139723,xianhe,china,,,,,doll_3.91 m,,,,,,;
-150430,xerox holdings corporation,united states,,,,,doll_4.02 m,,,,,,;
-150470,xiamen intretech,china,,,,,doll_4.17 b,,,,,,;
-139992,xj electric,china,,,,,doll_3.93 b,,,,,,;
-150742,xpo logistics europe sa,france,,,,,0.0,,,,,,;
-140074,xinjiang zhongtai chemical,china,,,,,doll_3.86 b,,,,,,;
-140122,xtep international holdings,china,,,,,doll_4.76 m,,,,,,;
-150992,xinyi energy holdings,china,,,,,doll_13.72 b,,,,,,;
-140366,xi'an international medical investment company,china,,,,,doll_3.56 b,,,,,,;
-140396,xiangtan electric manufacturing,china,,,,,doll_2.76 m,,,,,,;
-140461,xinyangfeng agricultural technology,china,,,,,doll_4.01 m,,,,,,;
-140474,xi'an triangle defense,china,,,,,doll_3.67 m,,,,,,;
-140533,xi'an shaangu power,china,,,,,doll_3.38 b,,,,,,;
-151634,xiamen kingdomway group company,china,,,,,doll_3.0 b,,,,,,;
-141127,xinyu iron & steel co. ltd,china,,,,,doll_4.07 m,,,,,,;
-141437,xinte energy,china,,,,,doll_3.4 m,,,,,,;
-141568,xiamen itg group,china,,,,,doll_2.56 m,,,,,,;
-141763,xi'an bright laser technologies,china,,,,,doll_2.63 m,,,,,,;
-152669,xilinmen furniture,china,,,,,doll_1.58 m,,,,,,;
-142149,xd,china,,,,,doll_2.82 m,,,,,,;
-142252,xiamen meiya pico information,china,,,,,doll_2.19 m,,,,,,;
-142323,xinhua winshare publishing and media,china,,,,,doll_2.08 b,,,,,,;
-142572,xperi holding corporation,united states,,,,,doll_2.24 m,,,,,,;
-142667,xinhuanet,china,,,,,doll_1.43 m,,,,,,;
-142710,xinjiang yilite industry,china,,,,,doll_1.82 m,,,,,,;
-143272,xinjiang xintai natural gas,china,,,,,doll_1.66 b,,,,,,;
-143925,xiamen jihong technology,china,,,,,doll_1.0 m,,doll_33.0 m,,,,;
-143939,xior student housing nv,belgium,,,,,doll_1.56 m,,,,,,;
-144278,x-fab silicon foundries se,belgium,,,,,doll_1.4 m,,doll_83.0 m,,,,;
-144316,xintec,taiwan,,,,,doll_1.36 b,,,,,,;
-144470,xp power,singapore,,,,,doll_1.5 m,,,,,,;
-144624,xinjiang communications construction group,china,,,,,doll_1.28 b,,,,,,;
-144790,xiamen solex high-tech industries,china,,,,,doll_1.24 b,,,,,,;
-145110,xi'an tianhe defense technology,china,,,,,doll_1.17 b,,,,,,;
-145127,xiamen hongxin electron-tech,china,,,,,doll_1.16 b,,,,,,;
-145203,xgd,china,,,,,doll_1.15 b,,,,,,;
-145249,xi'an chenxi aviation technology,china,,,,,doll_1.13 b,,,,,,;
-145311,xinjiang guannong fruit & antler,china,,,,,doll_1.12 m,,,,,,;
-145421,xishui strong year inner mongolia,china,,,,,doll_0.59 m,,,,,,;
-156241,xiangpiaopiao food,china,,,,,doll_1.07 b,,,,,,;
-145680,xinjiang machinery research institute,china,,,,,doll_1.04 b,,,,,,;
-156366,xiangtan electrochemical scientific,china,,,,,doll_1.03 b,,,,,,;
-145760,xiandai investment,china,,,,,doll_1.02 b,,,,,,;
-145917,xano industri ab (publ),sweden,,,,,doll_1.0 b,,,,,,;
-156636,xiamen xgma machinery company,china,,,,,doll_0.84 m,,,,,,;
-146118,xiamen changelight,china,,,,,doll_972.0 m,,,,,,;
-146245,xingyuan environment technology,china,,,,,doll_953.0 m,,,,,,;
-146431,xiamen goldenhome,china,,,,,doll_923.0 m,,,,,,;
-152117,xinte energy,china,,,,,doll_2.63 b,,0.0,,,,;
-183550,xlab d.o.o,,ljubljana,,2001,,,,,technology,software,,;
-181330,xhamster,,nicosia,,2007,,,,,technology,software,,;
-184582,xtep,,haidian district,,2001,,,,,sports equipment,,,;
-4588,xeam ventures,,,,2004,,,,,recruitment,,,;
-4603,xeam ventures,,,,2004,,,,,recruitment,,,;
-25208,xilio therapeutics,united states,,,,,doll_74.93 m,,,,,pharmaceuticals biotech ,;
-33543,xilio therapeutics,united states,,,,,doll_73.07 m,,,,,,;
-40656,xilio therapeutics,united states,,,,,doll_74.65 m,,,,,,;
-54927,xilio therapeutics,united states,,,,,doll_65.38 m,,,,,,;
-63520,xilio therapeutics,,,,,74.0,doll_73.07 m,,-doll_85.54 m,,,,;
-124244,x-team careers,,,,2004,,,,,internet,,,;
-124534,xerris careers,,,,2018,,,,,information technology & services,,,;
-124594,xealth careers,,,,2017,,,,,hospital & health care,,,;
-124850,xgility careers,,,,2011,,,,,information technology & services,,,;
-125027,x5 retail group careers,,,,2006,,,,,retail,,,;
-144447,xperi corporation,united states,,,,,doll_0.008003 t,,,,,,;
-155127,xperi corporation,united states,,,,,0.0,,doll_147.0 m,,,,;
-178497,x5 music group,,stockholm,,2003,,,,,consumer services,broadcasting & entertainment,,;
-183976,x5 music group,,stockholm,,2003,,,,,consumer services,broadcasting & entertainment,,;
+id,name,country,address,founded,employees,market_cap,revenue,profit,categories,ceo,city
+360,xpressbees,india,,,,,,,"['supply chain, logistics, & delivery']",,pune
+450,xl dynamics,,,2002.0,,,,,['accounting & auditing'],,
+459,xoriant,,,1990.0,,,,,['it services & consulting'],,
+617,xcelserv solutions,,,2011.0,,,,,['it services & consulting'],,
+14305,xiaomi,china,,2010.0,,doll_3.776 b,doll_5.090999999999999 b,doll_0.298 b,['consumer electronics & appliances'],jun lei,haidian district
+935,xebia,,,2001.0,,,,,['it services & consulting'],,
+1210,xyz company,,,,,,,,['financial services'],,
+1414,xceedance,,,2013.0,,,,,['insurance'],,
+19043,xerox,united states,,,,doll_0.264 b,doll_0.6940000000000001 b,doll_0.119 b,"['tech', 'techhardware', 'electronics']",,
+1660,xavient digital - powered by telus international,,,2002.0,,,,,['it services & consulting'],,
+2042,xdbs,,,2012.0,,,,,['marketing & advertising'],,
+2217,xl health,,,1997.0,,,,,['insurance'],,
+2226,xchanging,,,1998.0,,,,,['it services & consulting'],,
+4016,xplore-tech services,,,2004.0,,,,,['bpo'],,
+4132,xrbia developers,,,2012.0,,,,,['real estate'],,
+36672,xpo logistics,united states,,,42000.0,doll_0.429 b,doll_1.64 b,doll_0.336 b,['transportation'],bradley s. jacobs,
+4405,xylem water solutions,,,2011.0,,,,,['waste management'],,
+4603,xeam ventures,,,2004.0,,,,,['recruitment'],,
+4752,xome,,,2012.0,,,,,['internet'],,
+4851,xalta food and beverages,,,2015.0,,,,,['beverage'],,
+5060,xseed education,,,2008.0,,,,,['edtech'],,
+5152,xenonstack,,,2012.0,,,,,['it services & consulting'],,
+5635,xylem resource management,,,2007.0,,,,,['recruitment'],,
+105192,xpand solutions,portugal,,2003.0,,,doll_0.01 b,,['accounting & auditing'],,
+7811,xpheno,,,2016.0,,,,,['recruitment'],,
+7917,xoxoday,india,,2012.0,,,doll_0.03711 b,,['software product'],,
+8163,xotik frujus,,,2007.0,,,,,['beverage'],,
+8559,xl catlin,,,1986.0,,,,,['insurance'],,
+8706,xl laboratories,,,2001.0,,,,,['pharma'],,
+8788,xiaomi service center,,,,,,,,,,
+9466,xl india business services,,,2003.0,,,,,['financial services'],,
+11360,xpresspathconsultingoãå(16113568),,,,,,,,,,
+13641,xendit,indonesia,,,,,,,['fintech'],,jakarta
+11538,xiaoe tech,china,,,,,,,['internet software & services'],,shenzhen
+11542,xiaoice,china,,2020.0,,,,,['e-commerce & direct-to-consumer'],,beijing
+13587,xforceplus,china,,,,,,,['internet software & services'],,shanghai
+11669,xanadu,canada,,2016.0,,,,,['hardware'],,toronto
+11968,xiaozhu,china,,,,,,,['travel'],,beijing
+13160,ximalaya fm,china,,,,,,,['mobile & telecommunications'],,shanghai
+13028,xtalpi,china,,,,,,,['artificial intelligence'],,shenzhen
+13008,xingyun group,china,,,,,,,['e-commerce & direct-to-consumer'],,shenzhen
+12237,xinchao media,china,,,,,,,['internet software & services'],,chengdu
+12514,xingsheng selected,china,,,,,,,['e-commerce & direct-to-consumer'],,changsha
+149352,xiaohongshu,china,,2013.0,,doll_2.7070000000000003 b,,0.0,"['social media', 'ecommerce', 'internet or mobile app based business']",not found,shanghai
+13618,xiaobing,china,,,,,,,['fintech'],,beijing
+68623,xcel energy,united states,"414 nicollet mall, minneapolis, minnesota, 55401",1909.0,11321.0,doll_3.976 b,doll_1.34 b,doll_0.16 b,"['utilities', 'electric utilities', 'gas utilities', 'power generation', 'electricity generation', 'energy']",bob frenzel,
+27682,xylem,united states,,,17300.0,doll_1.985 b,doll_0.005195 b,doll_0.427 b,"['industries', 'utilities', 'water utilities', 'capital goods', 'industry machinery']",patrick decker,
+132129,xpel,united states,,,,doll_0.176 b,doll_0.259 b,doll_0.031 b,"['consumer cyclical', 'automobile', 'automobile parts']",not found,
+142273,xenia hotels & resorts,united states,,,,doll_0.16 b,doll_0.093 b,doll_-0.143 b,"['real estate', 'hotels', 'consumer services', 'resorts', 'property investments']",not found,
+23781,xponential fitness,united states,,,232000.0,doll_0.121 b,doll_0.022 b,doll_0.014410000000000001 b,,,
+33249,x-legend entertainment,taiwan,,,,doll_0.014000000000000002 b,doll_0.07604999999999999 b,doll_0.00271 b,"['video games', 'entertainment']",not found,
+63520,xilio therapeutics,united states,,,,doll_0.07307 b,,doll_0.08554 b,"['pharmaceuticals', 'biotech']",,
+16199,xebec adsorption,canada,,,,doll_0.05869 b,,,"['renewableenergy', 'energy']",mr. kurt  sorschak,
+43458,xbiotech,united states,,,,doll_0.014000000000000002 b,doll_0.00821 b,doll_0.033530000000000004 b,"['pharmaceuticals', 'biotech']",,
+63491,x4 pharmaceuticals,united states,,,,doll_0.014000000000000002 b,,doll_0.09495999999999999 b,"['pharmaceuticals', 'biotech']",,
+54657,xunlei,china,,,,doll_0.014000000000000002 b,doll_0.028999999999999998 b,doll_0.01266 b,"['software', 'tech']",,
+33156,xeris pharmaceuticals,united states,,,,doll_0.017 b,doll_0.09877 b,doll_0.013000000000000001 b,"['pharmaceuticals', 'biotech']",,
+33185,xos,united states,,,,doll_0.016 b,doll_0.031100000000000003 b,doll_0.015 b,"['electric vehicles', 'specialty vehicles']",,
+54336,xoma,united states,,,,doll_0.025 b,doll_0.040479999999999995 b,doll_0.0188 b,"['pharmaceuticals', 'biotech']",,
+32452,xperi,united states,,,,doll_0.040999999999999995 b,doll_0.036 b,doll_0.014000000000000002 b,"['semiconductors', 'tech']",,
+23744,xometry,united states,,,,doll_0.134 b,doll_0.034 b,doll_0.07282999999999999 b,,,
+59520,xp inc.,brazil,,2001.0,3000.0,doll_2.216 b,doll_0.041999999999999996 b,doll_0.771 b,"['financial services', 'wealth management', 'stock markets, trading, capital markets']",thiago maffra,
+52225,xencor,united states,,,,doll_0.172 b,doll_0.275 b,doll_0.082 b,"['healthcare', 'healthcare products', 'biotechnology', 'biopharmaceutical']",not found,
+58913,xenon pharmaceuticals,canada,,,,doll_0.22799999999999998 b,doll_0.032 b,doll_-0.028 b,"['healthcare', 'pharmaceutical', 'biotechnology', 'biopharmaceutical', 'healthcare products']",not found,
+47552,xl axiata,indonesia,,,,doll_0.267 b,doll_0.194 b,doll_0.011 b,['telecommunication'],,
+57763,x5 retail group,netherlands,,,,doll_0.487 b,,,['food retail '],,
+21423,xero,new-zealand,,,,doll_0.786 b,,,['tech software '],,
+64837,xpeng,china,,,,doll_0.8550000000000001 b,doll_0.458 b,doll_0.12 b,"['automakers', 'electricvehicles', 'manufacturing', 'autonomoriving']",,
+40291,xl fleet ,united states,,,,doll_0.016 b,doll_0.02416 b,doll_0.06334000000000001 b,['electricvehicles'],,
+35845,xero,new zealand,,2006.0,3642.0,doll_0.01675 b,doll_0.49995999999999996 b,doll_-0.005 b,"['technology', 'software and it', 'cloud services', 'software products']",steve vamos,
+107522,"xilinx, inc.",united states,"2100 logic drive, san jose, california, 95124",1984.0,4890.0,doll_5.218999999999999 b,doll_0.316 b,,['technology and communications'],mr. victor  peng,
+68612,xiaomi corp,china,,,33427.0,doll_4.3100000000000005 b,0,,,mr. jun  lei,
+71424,xpeng inc.,china,,2014.0,5084.0,doll_2.444 b,0,,,mr. xiaopeng  he,
+73785,xps pensions group plc,united kingdom,,,,doll_0.3529 b,,,,mr. ben  bramhall,
+88733,xaar plc,united kingdom,,,,doll_0.2717 b,,,,dr. robert john mills,
+74120,xpediator plc,united kingdom,,,,doll_0.073 b,,,,mr. wim  pauwels,
+75394,xtl biopharmaceuticals ltd.,,,,,doll_159917,,,,mr. shlomo spokone shalev,
+161666,xinyi glass holdings,china,"unit 2101-2108, 21st floor,  rykadan cap, 135 hoi bun road, kwun tong kowloon",1988.0,7072.0,doll_0.8699999999999999 b,doll_0.39 b,doll_0.628 b,"['industries', 'glass products', 'building products and equipment']",not found,
+161476,xtep international holdings,china,"xiamen xtep tower, no. 89 jiayi road, guanyinshan, fujian, 361008",,8500.0,doll_0.0047599999999999995 b,doll_0.001472 b,doll_0.133 b,"['consumer cyclical', 'retail']",not found,
+75811,xiamen tungsten co. ltd,,,,13819.0,doll_2.56 b,,,,not found,
+75820,"xinhu zhongbao co.,ltd.",,,,1554.0,doll_2.6149999999999998 b,,,,not found,
+129794,xi'an triangle defense,china,,,,doll_0.0034300000000000003 b,doll_0.171 b,doll_0.06 b,"['industries', 'aerospace and defense']",not found,
+75851,xiangcai co. ltd,,,,2379.0,doll_2.214 b,,,,not found,
+75910,xinte energy co. ltd,,,,5774.0,doll_2.199 b,,,,not found,
+173473,xinyu iron & steel co. ltd,china,"no.1 yejin road, xinyu, jiangxi, 338001",,16755.0,doll_0.004070000000000001 b,doll_0.015267 b,doll_0.632 b,"['basic materials', 'iron and steel', 'metals']",not found,
+75939,"xianhe co.,ltd.",,,,3517.0,doll_1.8800000000000001 b,,,,not found,
+151076,xiangtan electric manufacturing,china,,,,doll_1.637 b,doll_0.586 b,doll_0.011 b,"['industries', 'industry machinery']",not found,
+75988,xiamen itg group corp ltd,,,,4867.0,doll_1.518 b,,,,not found,
+76022,xinfengming group co. ltd,,,,10471.0,doll_1.6179999999999999 b,,,,not found,
+151213,xi'an shaangu power,china,"no.8 fenghui south road, high-tech zone, xi'an, shaanxi, 710075",,3154.0,doll_0.32999999999999996 b,doll_0.001508 b,doll_0.125 b,"['industries', 'industry machinery']",not found,
+76105,"xiamen meiya pico information co.,ltd.",,,,4175.0,doll_1.364 b,,,,not found,
+141763,xi'an bright laser technologies,china,,,,doll_0.00263 b,doll_0.08 b,doll_-0.008 b,"['industries', 'industry machinery']",not found,
+153390,xinjiang yilite industry,china,,,,doll_0.189 b,doll_0.282 b,doll_0.045 b,"['consumer defensive', 'alcoholic beverages', 'beverages']",not found,
+76265,"xilinmen furniture co.,ltd",,,,8277.0,doll_1.126 b,,,,not found,
+76266,xinhua winshare publishing and media co. ltd,,,,7633.0,doll_1.1949999999999998 b,,,,not found,
+76269,xiamen amoytop biotech co. ltd,,,,,doll_1.1949999999999998 b,,,,not found,
+76286,xiamen bank co. ltd,,,,2840.0,doll_1.737 b,,,,not found,
+76296,xiamen xiangyu co. ltd,,,,5799.0,doll_1.891 b,,,,not found,
+76478,xenia venture capital ltd,,,,,doll_0.0015 b,,,,not found,
+139776,xiamen c&d,china,"c&d international building, no.1699 huandao east road, xiamen, fujian, 361008",,26761.0,doll_0.602 b,doll_10.961 b,doll_0.887 b,"['industries', 'business services']",not found,
+76612,xilam animation sa,,,,,doll_0.1777 b,,,,mr. marc  du pontavice,
+76686,xiamen faratronic co. ltd,,,,3326.0,doll_4.497 b,,,,not found,
+127201,xinjiang goldwind science&technology,china,"no. 107, shanghai road, technological development zone, urumqi, xinjiang, 830026",,10781.0,doll_0.009519999999999999 b,doll_0.007913 b,doll_0.542 b,"['industries', 'power generation', 'power systems', 'industry machinery']",not found,
+76926,xlife sciences ag,,,,,doll_0.22590000000000002 b,,,,dr. christoph  antz,
+77975,xinyi automobile glass hong kong enterprises ltd,,,,,doll_0.267 b,,,,not found,
+78178,xinchen china power holdings ltd,,,,1130.0,doll_0.5824 b,,,,mr. yunxian  wang,
+79166,xted - trx edificios corporativos fundo invest imobiliario fii fund,,,,,doll_0.011699999999999999 b,,,,not found,
+79189,xp corporate macae fundo de investimento imobiliario - fii,,,,,doll_0.0507 b,,,,not found,
+79652,xspray pharma ab,,,,,doll_0.121 b,,,,not found,
+79749,xintela ab,,,,,doll_0.1777 b,,,,not found,
+79805,xmreality ab,,,,,doll_0.10959999999999999 b,,,,not found,
+79977,xbrane biopharma ab,,,,,doll_0.23399999999999999 b,,,,mr. siavash  bashiri,
+80644,xenon pharmaceuticals inc.,,,,,doll_0.124 b,,,,"mr. ian c. mortimer c.m.a., cpa, cma, cpa, m.b.a., mba",
+81304,xphyto therapeutics corp,,,,,doll_0.0644 b,,,,"mr. hugh a. d. rogers b.sc., ll.b",
+81886,"xintec, inc.",,,,1592.0,doll_3.496 b,,,,not found,
+82132,xxentria technology materials co. ltd,,,,,doll_1.097 b,,,,not found,
+83996,"xi s&d, inc.",,,,,doll_34.272000000000006 b,,,,not found,
+84435,xp power limited,,,,,doll_0.6804 b,,,,mr. gavin peter griggs,
+84735,xmh holdings ltd,,,,,doll_0.012 b,,,,not found,
+85058,xero limited,,,,4187.0,doll_1.533 b,,,,not found,
+85787,x-trade brokers dom maklerski sa,,,,,doll_0.48460000000000003 b,,,,mr. omar  arnaout,
+87489,xref limited,australia,,,,doll_0.12409999999999999 b,doll_0.00864 b,,['technology'],mr. lee-martin john seymour,
+87572,xrf scientific limited,,,,,doll_0.0927 b,,,,not found,
+133249,xior student housing nv,belgium,,,,doll_0.00156 b,doll_0.094 b,doll_0.081 b,"['real estate', 'property investments']",mr. christian  teunissen,
+154958,x-fab silicon foundries se,belgium,,,,doll_0.0013700000000000001 b,doll_0.657 b,doll_0.083 b,"['technology', 'semiconductors']",not found,
+108353,xylem inc.,united states,"301 water street se, washington, washingtond.c., 20003",,17300.0,doll_1.532 b,doll_0.52 b,,['clean technology'],mr. patrick k. decker,
+90240,"xpo logistics, inc.",,,,42000.0,doll_0.807 b,,,,mr. bradley s. jacobs,
+147713,"xinjiang daqo new energy co.,ltd.",china,,2011.0,,doll_1.6010000000000002 b,doll_0.27 b,doll_0.833 b,['utilities'],not found,
+93600,xcmg construction machinery,china,,,,doll_0.00843 b,doll_1.303 b,doll_0.817 b,"['industries', 'construction equipment', 'heavy machinery', 'machinery manufacturing', 'heavy vehicles']",chuan lu,
+170787,x5 retail group,russia,"koroviy val street, 5, building 1, moscow, 119049",,339716.0,doll_0.714 b,doll_2.9899999999999998 b,doll_0.702 b,"['consumer defensive', 'retail']",igor shekhterman,
+93649,xiamen international trade group,china,,,,doll_0.254 b,doll_7.2 b,doll_0.4784 b,['trading companies'],shao yong gao,
+140963,xiamen xiangyu,china,,,5799.0,doll_0.00298 b,doll_7.165000000000001 b,doll_0.314 b,"['industries', 'logistics']",qi dong deng,
+93689,xp,brazil,,,,doll_1.4289999999999998 b,doll_0.231 b,doll_0.6658999999999999 b,['it software & services'],thiago maffra,
+109697,xinyu iron & steel co. ltd,china,"no.1 yejin road, xinyu, jiangxi, 338001",,,doll_0.004070000000000001 b,doll_0.015267 b,doll_0.632 b,"['basic materials', 'iron and steel', 'metals']",cai tang guan,
+94162,xiamen xinde,china,,,,doll_0.501 b,doll_1.682 b,doll_-0.0238 b,['transportation'],ming cheng wang,
+102498,xalient,uk,,2015.0,88000.0,,doll_0.026199999999999998 b,,['technology'],,
+97737,xl energies,france,,2016.0,11000.0,,doll_0.00836 b,,['energy'],,
+97769,xplort,uk,,2015.0,5000.0,,doll_0.00225 b,,['interiors'],,
+104291,xylon,croatia,,1995.0,81000.0,,doll_0.00449 b,,['technology'],,
+101058,xcel petroleum,malaysia,,2007.0,,,doll_0.0314 b,,['retail'],,
+101280,xt insulation,italy,,2014.0,,,doll_0.0066 b,,['industrial goods'],,
+101601,xilnex,malaysia,,2007.0,,,doll_0.0023599999999999997 b,,['technology'],,
+101832,xtream codes,bulgaria,,2015.0,,,doll_0.00302 b,,['technology'],,
+102507,xcede recruitment,united kingdom,,2003.0,,,doll_0.02902 b,,['support services'],,
+103434,xml travelgate,spain,,2011.0,,,doll_0.00507 b,,['travel & leisure'],,
+104428,xceptor,united kingdom,,2003.0,,,doll_0.01701 b,,['technology'],,
+104584,xceptor,uk,,2003.0,,,doll_0.02277 b,,['fintech'],,
+104979,x4 group,united kingdom,,2008.0,,,doll_0.0305 b,,['support services'],,
+105040,xucker,germany,,2010.0,,,doll_0.0111 b,,['food & beverage'],,
+105177,xpose360,germany,,2009.0,,,doll_0.0026 b,,['advertising'],,
+105234,xiwang foodstuffs co ltd,china,"xiwang industrial park, zouping county, binzhou, shandong , 256209",,1892.0,doll_0.7874 b,doll_0.9852000000000001 b,,['consumer packaged goods'],,
+106120,xinyuan real estate co ltd,china,"27f, china central place, tower ii, 79 jianguo road, chaoyang district, beijing, 100025",,1701.0,doll_0.0248 b,doll_0.15 b,,['construction'],,
+106223,xinhua winshare publishing and media co ltd,china,"xinhua star tower a, 238 sanse road, jinjiang district, chengdu, sichuan, 610063",,7481.0,doll_0.15 b,doll_0.16 b,,['retailing'],,
+106250,xingda international holdings limited,china,"room 03-07, 30th floor, shanghai mart, 2299 yanan road west, 200062",,8000.0,doll_0.3382 b,doll_0.16999999999999998 b,,['automotive'],,
+107397,xiwang special steel co ltd,china,"xiwang industrial area, zouping, binzhou, shanghai",,3571.0,doll_0.0494 b,doll_0.3 b,,['metals and mining'],,
+107424,xiamen airlines co ltd,china,"22 dailiao road, xiamen, fujian, 361006",,,0,doll_0.3 b,,['transport and logistics'],,
+107699,xinte energy co ltd,china,"no. 2499, mianguangdong street, (industr, wulumuqi, xinjiang",,7104.0,doll_0.29 b,doll_0.35 b,,['alternative energy'],,
+107965,"xiamen international port co., ltd.",china,"22nd floor, no. 31 donggang north road, xiamen, fujian, 361013",,7212.0,0,doll_0.4 b,,['transport and logistics'],,
+150754,xinjiang zhongtai chemical,china,"no.39 yangcheng lake road, urumqi economic and tchnlgcl dvlpmnt zn, wulumuqi, xinjiang, 830054",,18933.0,doll_0.386 b,doll_0.97 b,doll_0.393 b,"['basic materials', 'chemicals']",not found,
+109480,xpo inc,united states,"five american lane, greenwich, connecticut, 06831",,43000.0,doll_0.43 b,doll_1.28 b,,['transport and logistics'],,
+109502,xcmg construction machinery co ltd,china,"industrial zone 1, no.26 tuolanshan road, economic and technological dev zone, xuzhou, jiangsu, 221004",,15483.0,doll_0.9800000000000001 b,doll_1.31 b,,['industrial goods and machinery'],,
+110067,xinjiang tianshan cement co ltd,china,"tianhe mansion, no.1256 hebei east road, wulumuqi, xinjiang, 830013",,70829.0,doll_1.1400000000000001 b,doll_2.6399999999999997 b,,['construction'],,
+120359,xxvi holdings inc.,united states,1600 amphitheatre pkwy,,,,,,,,mountain view
+123467,xodus group limited,united kingdom,xodus house 50 huntly street,,,,,,,,aberdeen
+121665,"xpo nat solutions, llc",united states,11215 n community house rd,,,,,,,,charlotte
+124244,x-team careers,,,2004.0,,,,,['internet'],,
+124869,xilinx careers,,,1984.0,,,,,['computer software'],,
+124869,xactly careers,,,2017.0,,,,,['computer software'],,
+124569,xo group careers,,,1996.0,,,,,['broadcast & online media'],,
+124850,xgility careers,,,2011.0,,,,,['information technology & services'],,
+125027,x5 retail group careers,,,2006.0,,,,,['retail'],,
+146849,xiaomi corporation,china,,,33427.0,doll_5.845000000000001 b,doll_0.051577 b,doll_0.003038 b,"['technology', 'electronics', 'mobiles & accessories', ""tv's"", 'laptops', 'tablets', 'consumer electronics']",lei jun,
+136262,xilinx,united states,,,4891.0,doll_0.04822 b,doll_0.00316 b,doll_0.793 b,"['technology', 'semiconductors', 'electronics', 'technology hardware and instruments', 'processors / chips']",victor peng,
+157736,xpeng motors,china,,,3676.0,doll_0.03637 b,doll_0.003054 b,doll_-0.708 b,"['automobile', 'electric vehicles', 'passenger vehicles']",he xiaopeng,
+147555,xinjiang tianshan cement,china,,,,doll_0.02096 b,doll_0.026704000000000002 b,doll_1.968 b,"['basic materials', 'cement', 'construction materials']",not found,
+159812,xiamen faratronic,china,,,,doll_0.706 b,doll_0.441 b,doll_0.13 b,"['technology', 'electronics', 'capital goods']",not found,
+171712,xiamen tungsten,china,,,13819.0,doll_0.487 b,doll_0.004634999999999999 b,doll_0.172 b,"['basic materials', 'mining']",not found,
+150403,xianhe,china,,,,doll_0.0042699999999999995 b,doll_0.875 b,doll_0.148 b,"['basic materials', 'paper and pulp']",not found,
+139750,xerox holdings corporation,united states,,,23300.0,doll_0.42300000000000004 b,doll_0.007038 b,doll_-0.455 b,"['technology', 'electronics', 'computers hardware', 'printers', 'software and it']",not found,
+139782,xinhu zhongbao,china,,,,doll_0.00391 b,doll_0.002458 b,doll_0.325 b,['real estate'],not found,
+150470,xiamen intretech,china,,,5737.0,doll_0.00417 b,doll_0.001027 b,doll_0.159 b,"['technology', 'electronics', 'automobile parts', 'consumer electronics']",not found,
+161346,xj electric,china,,,5547.0,doll_0.00292 b,doll_0.001745 b,doll_0.105 b,"['industries', 'electrical products', 'power equipment']",not found,
+172420,xpo logistics europe sa,france,,,,doll_0.0033399999999999997 b,doll_0.019177 b,doll_0.093 b,"['industries', 'logistics', 'transportation']",not found,
+140295,xinfengming group,china,,,10471.0,doll_0.00394 b,doll_0.006515 b,doll_0.328 b,"['basic materials', 'chemicals']",not found,
+151046,xi'an international medical investment company,china,,,6737.0,doll_0.0035600000000000002 b,doll_0.425 b,doll_-0.12 b,"['healthcare service', 'hospitals', 'pharmacy', 'retail']",not found,
+151141,xinyangfeng agricultural technology,china,,,,doll_0.00344 b,doll_0.001717 b,doll_0.176 b,"['basic materials', 'agriculture related']",not found,
+161920,"xinxing ductile iron pipes co., ltd.",china,,,15837.0,doll_0.00266 b,,0.0,"['basic materials', 'iron and steel']",not found,
+130274,xiamen kingdomway group company,china,,,2003.0,doll_0.0028599999999999997 b,doll_0.526 b,doll_0.115 b,"['healthcare', 'pharmaceutical']",not found,
+141061,"xiamen bank co., ltd.",china,,,2840.0,doll_0.0033399999999999997 b,,0.0,"['financial services', 'banking services']",not found,
+162791,xinte energy,china,,,,doll_0.00263 b,,0.0,"['technology', 'solar power devices']",not found,
+173859,"xometry, inc.",united states,,,,doll_0.00322 b,doll_0.218 b,doll_-0.061 b,"['engineering products', 'industry machinery', 'machinery manufacturing']",not found,
+130880,xiamen itg group,china,,,,doll_0.00256 b,doll_0.06763200000000001 b,doll_0.496 b,"['industries', 'trading', 'commodities trading', 'real estate']",not found,
+131299,xilinmen furniture,china,,,,doll_0.00158 b,,0.0,"['consumer cyclical', 'furniture', 'home furnishing']",not found,
+152809,xinjiang tianye,china,,,,doll_0.00216 b,,0.0,"['basic materials', 'chemicals']",not found,
+131459,xd,china,,,,doll_0.215 b,,0.0,"['communication services', 'gaming']",not found,
+152932,xiamen meiya pico information,china,,,,doll_0.211 b,doll_0.369 b,doll_0.045 b,"['industries', 'security systems and solutions', 'technology hardware and instruments', 'technology']",not found,
+153003,xinhua winshare publishing and media,china,,,,doll_0.20800000000000002 b,,0.0,"['communication services', 'publishing']",not found,
+153252,xperi holding corporation,united states,,,1900.0,doll_0.195 b,doll_0.877 b,doll_-0.055 b,"['technology', 'semiconductors']",not found,
+153347,xinhuanet,china,,,,doll_0.00191 b,,0.0,"['communication services', 'internet or mobile app based business']",not found,
+153417,"xiamen amoytop biotech co., ltd.",china,,,,doll_0.00188 b,,0.0,"['healthcare', 'biotechnology']",not found,
+175112,"xinxiang richful lube additive co., ltd",china,,,,doll_0.00196 b,,0.0,"['basic materials', 'chemicals']",not found,
+153731,"xinjiang joinworld co.,ltd.",china,,,,doll_0.174 b,,0.0,"['basic materials', 'aluminum']",not found,
+153952,xinjiang xintai natural gas,china,,,,doll_0.16599999999999998 b,,0.0,"['utilities', 'gas utilities']",not found,
+143491,"xinjiang ba yi iron & steel co.,ltd.",china,,,,doll_0.00177 b,,0.0,"['basic materials', 'iron and steel']",not found,
+133056,"xi'an sinofuse electric co., ltd.",china,,,,doll_0.148 b,,0.0,"['industries', 'electrical products']",not found,
+154605,xiamen jihong technology,china,,,,doll_0.001 b,doll_0.753 b,doll_0.033 b,"['consumer cyclical', 'packaging']",not found,
+154796,xingsheng,china,,,,doll_7.6930000000000005 b,,0.0,,not found,
+133632,xintec,taiwan,,,,doll_0.136 b,,0.0,"['technology', 'semiconductors']",not found,
+155104,"xinxiang chemical fiber co., ltd.",china,,,,doll_0.133 b,,0.0,"['basic materials', 'chemicals']",not found,
+133761,xperi corporation,united states,,,1900.0,doll_8.003 b,doll_0.892 b,doll_0.147 b,"['technology', 'electronics', 'semiconductors']",not found,
+155150,xp power,singapore,,,,doll_0.0015 b,doll_0.313 b,doll_0.029 b,"['industries', 'power equipment', 'electrical products']",not found,
+133828,"xinyaqiang silicon chemistry co.,ltd",china,,,,doll_0.13 b,,0.0,"['basic materials', 'chemicals']",not found,
+155304,xinjiang communications construction group,china,,,,doll_0.00128 b,,0.0,"['industries', 'infrastructure']",not found,
+155470,xiamen solex high-tech industries,china,,,,doll_0.00124 b,,0.0,"['industries', 'building products and equipment', 'construction materials']",not found,
+134337,"xianheng international science&technology co., ltd.",china,,,,doll_0.0012 b,,0.0,"['industries', 'tools and equipment']",not found,
+155790,xi'an tianhe defense technology,china,,,,doll_0.11699999999999999 b,,0.0,"['industries', 'aerospace and defense']",not found,
+177474,xiamen hongxin electron-tech,china,,,,doll_0.00116 b,,0.0,"['technology', 'electronics', 'capital goods']",not found,
+155883,xgd,china,,,,doll_0.00115 b,,0.0,"['industries', 'office equipment']",not found,
+145249,xi'an chenxi aviation technology,china,,,,doll_0.11299999999999999 b,,0.0,"['industries', 'aerospace and defense']",not found,
+177668,xinjiang guannong fruit & antler,china,,,,doll_0.0011200000000000001 b,,0.0,"['consumer defensive', 'fmcg', 'package foods', 'food products']",not found,
+156101,xishui strong year inner mongolia,china,,,,doll_0.11000000000000001 b,,0.0,"['basic materials', 'construction materials']",not found,
+166913,xiangpiaopiao food,china,,,,doll_0.0009 b,,0.0,"['consumer defensive', 'fmcg', 'package foods', 'food products']",not found,
+178023,xinjiang machinery research institute,china,,,,doll_0.0010400000000000001 b,,0.0,"['industries', 'heavy machinery']",not found,
+156366,xiangtan electrochemical scientific,china,,,,doll_0.00103 b,,0.0,"['basic materials', 'chemicals']",not found,
+156388,"xiamen leading optics co., ltd.",china,,,,doll_0.0010400000000000001 b,,0.0,"['technology', 'electronics']",not found,
+145760,xiandai investment,china,,,,doll_0.00102 b,,0.0,"['industries', 'infrastructure']",not found,
+145917,xano industri ab (publ),sweden,,,,doll_0.1 b,,0.0,"['industries', 'industry machinery']",,
+135272,xiamen xgma machinery company,china,,,,doll_0.998 b,,0.0,"['industries', 'heavy machinery']",,
+156798,xiamen changelight,china,,,,doll_0.00092 b,,0.0,"['technology', 'semiconductors']",,
+156925,xingyuan environment technology,china,,,,doll_0.953 b,,0.0,"['industries', 'industry machinery']",,
+146431,xiamen goldenhome,china,,,,doll_0.00073 b,,0.0,"['consumer cyclical', 'furniture', 'home furnishing']",,
+183976,x5 music group,,,2003.0,,,,,['broadcasting & entertainment'],,stockholm
+183550,xlab d.o.o,,,2001.0,,,,,['software'],,ljubljana
+181330,xhamster,,,2007.0,,,,,['software'],,nicosia
+184582,xtep,,,2001.0,,,,,,,haidian district

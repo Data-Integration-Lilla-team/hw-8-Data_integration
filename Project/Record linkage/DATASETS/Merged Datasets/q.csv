@@ -1,607 +1,682 @@
-ID,name,country,headquarters,address,founded,employees,market_cap,revenue,profit,industry,sector,categories,ceo;
-96,quess,india,,,,,doll_0.81 b,,,,,,;
-478,quest global,,,,1997,,,,,it services & consulting,,,;
-94432,qualcomm,united states,,,,,doll_149.68 b,,,,,,;
-1059,quest retail,,,,2005,,,,,retail,,,;
-1081,quatrro,,,,2005,,,,,it services & consulting,,,;
-1160,quikr,,,,2008,,,,,internet,,,;
-35778,qantas airways,australia,,,,,doll_8.30 b,,,,,,;
-1418,quality austria central asia,,,,2010,,,,,management consulting,,,;
-1707,qhtalbros,,,,1986,,,,,auto components,,,;
-1750,quick heal technologies,,,,1995,,,,,software product,,,;
-1834,qcon,,,,1975,,,,,engineering & construction,,,;
-1896,quantiphi analytics solutions,,,,2013,,,,,it services & consulting,,,;
-5832,quest global technologies,,,,2013,,,,,it services & consulting,,,;
-2322,quintessence business solutions & services,,,,2011,,,,,it services & consulting,,,;
-2552,quinnox,,,,2002,,,,,it services & consulting,,,;
-3173,qatar petroleum,,,,1974,,,,,oil & gas,,,;
-3202,qburst technologies,,,,2004,,,,,it services & consulting,,,;
-3257,qx global group,,,,2003,,,,,,,,;
-3435,qdegrees services,,,,2013,,,,,management consulting,,,;
-5628,qa infotech,,,,2003,,,,,it services & consulting,,,;
-3727,qualitest,,,,1997,,,,,it services & consulting,,,;
-3795,qspiders,,,,2003,,,,,education & training,,,;
-3854,qentelli,,,,2015,,,,,it services & consulting,,,;
-4034,qatargas,,,,1984,,,,,oil & gas,,,;
-136961,quest diagnostics,united states,,,,,doll_16.16 b,,,,,,;
-4955,qdvc,,,,2007,,,,,engineering & construction,,,;
-5106,quale infotech,,,,2017,,,,,it services & consulting,,,;
-5175,qualtech consultants,,,,2003,,,,,it services & consulting,,,;
-5233,quadlabs technologies,,,,2006,,,,,software product,,,;
-5320,quantzig,,,,0,,,,,,,,;
-5361,qr crypher,,,,2019,,,,,software product,,,;
-5989,qrg central hospital & research centre,,,,2007,,,,,healthcare,,,;
-6188,quality council of india,,,,1997,,,,,government,,,;
-150513,quectel wireless solutions,china,,,,,,,,,,,;
-6365,qdigi services,,,,0,,,,,recruitment,,,;
-6763,qd-sbg construction,,,,2010,,,,,engineering & construction,,,;
-6872,qwik supply chain,,,,0,,,,,,,,;
-6964,quatrro mortgage solutions,,,,2006,,,,,financial services,,,;
-7015,qatar steel,,,,1974,,,,,iron & steel,,,;
-7081,qutone ceramic,,,,2008,,,,,building material,,,;
-7132,quadrant resource llc,,,,0,,,,,it services & consulting,,,;
-7703,qbss,,,,0,,,,,it services & consulting,,,;
-8139,quality evaluation and systems team,,,,1985,,,,,management consulting,,,;
-8798,quality control department,,,,0,,,,,government,,,;
-9545,qwikcilver solutions,,,,,,,,,,,,;
-9095,qualitas global qa labs,,,,2014,,,,,it services & consulting,,,;
-9104,quaere e-technologies,,,,2007,,,,,it services & consulting,,,;
-9182,qatar petrochemical company,,,,1974,,,,,petrochemicals,,,;
-9438,qapitol qa,,,,2015,,,,,it services & consulting,,,;
-9527,qarmatek services,,,,2011,,,,,facility management services,,,;
-9545,qwikcilver solutions,,,,,,,,,,,,;
-9892,qcon-qatar engineering & construction,,,,0,,,,,engineering & construction,,,;
-10724,qualitypools&spasoãå(12528901),,,,,,,,,,,,;
-11584,quantum metric,united states,,,,,,,,data management & analytics,,,;
-154756,quizlet,united states,,,,,,,,,,,;
-11721,qingting fm,china,,,,,,,,internet software & services,,,;
-11785,qumulo,united states,,,,,,,,data management & analytics,,,;
-128832,quora,united states,,,,,,,,,,,;
-12169,qualia,united states,,,,,,,,fintech,,,;
-12437,qonto,france,,,,,,,,fintech,,,;
-154755,quintoandar,brazil,,,,,,,,,,,;
-137219,quanta services,united states,,,,,doll_17.2 b,,,,,,;
-57210,q holding,united arab emirates,,,,,doll_7.09 b,,,,,,;
-29825,quaker houghton,united states,,,,,doll_3.13 b,,,,,,;
-30816,quilter,uk,,,,,doll_1.71 b,,,,,,;
-32610,quotient technology,united states,,,,,doll_0.34 b,,,,,,;
-40035,quad,united states,,,,,doll_0.18 b,,,,,,;
-40163,quipt home medical,united states,,,,,doll_0.21 b,,,,,,;
-44033,qiwi,cyprus,,,,,doll_0.30 b,,,,,,;
-53249,qnb finansbank,turkey,,,,,doll_0.61 b,,,,,,;
-17730,qurate retail group,united states,,,,,doll_0.79 b,,,,,,;
-67876,quanex building products,united states,,,,,doll_0.82 b,,,,,,;
-58821,qinetiq,uk,,,,,doll_2.42 b,,,,,,;
-35778,qantas airways,australia,,,,,doll_8.30 b,,,,,,;
-19926,qinetiq,united-kingdom,,,,,doll_2.47 b,,,,,defense-contractors ,;
-58306,quantumscape,united states,,,,,doll_3.61 b,,,,,,;
-139353,qualys,united states,,,,,doll_4.00 b,,,,,,;
-38842,qcr holdings,united states,,,,,doll_3.61 b,,,,,,;
-20887,quiã±enco,chile,,,,,doll_5.36 b,,,,,none,;
-139008,quebecor,canada,,,,,doll_6.06 m,,,,,,;
-50501,quidelortho,united states,,,,,doll_5.82 b,,,,,,;
-28934,qualtrics,united states,,,,,doll_6.63 b,,,,,,;
-21282,q holding,united-arab-emirates,,,,,doll_7.11 b,,,,,investment ,;
-94947,quanta computer,taiwan,,,,,doll_9.43 b,,,,,,;
-56487,qbe insurance,australia,,,,,doll_13.04 b,,,,,,;
-21922,qiagen,netherlands,,,,,doll_11.52 b,,,,,,;
-22504,qorvo,united states,,,,,doll_10.25 b,,,,,,;
-157028,quinstreet,united states,,,,,doll_0.84 b,,,,,,;
-23716,qt group,finland,,,,,,,,,,,;
-24174,quilter,united-kingdom,,,,,doll_1.69 b,,,,,financial-services ,;
-30786,q2,united states,,,,,doll_1.76 b,,,,,,;
-24786,quanergy systems,united states,,,,,doll_1.19 m,,,,,,;
-41201,quotient,switzerland,,,,,doll_1.34 m,,,,,,;
-60736,qingci games,china,,,,,doll_0.49 b,,,,,,;
-33509,quicklogic,united states,,,,,doll_82.21 m,,,,,,;
-33379,quick heal,india,,,,,doll_0.11 b,,,,,,;
-54694,quantum,united states,,,,,doll_0.16 b,,,,,,;
-61157,quantum-si,united states,,,,,doll_0.30 b,,,,,,;
-32775,qudian,china,,,,,doll_0.27 b,,,,,,;
-26691,quanterix,united states,,,,,doll_0.48 b,,,,,,;
-28759,q holding,uae,,,,,doll_7.09 b,,,,,,;
-29156,quiñenco,chile,,,,,doll_5.48 b,,,,,,;
-67575,quidel,,,,,6.900,doll_5.98 b,doll_3.03 b,doll_1.07 b,,,,;
-120971,qualcomm incorporated,united states,,,,,doll_172.25 b,,,semiconductors,technology,,;
-74056,quilter,united kingdom,,,,,doll_3.16 b,,,,,,;
-73376,qinetiq group plc,united kingdom,,,,,doll_2.27 b,,,aerospace & defense,industrials,,;
-73896,quartix holdings plc,united kingdom,,,,,doll_232.6 m,,,scientific & technical instruments,technology,,;
-92483,qatar national bank,qatar,,,,,doll_59.09 b,doll_14.2 b,,,,,;
-150912,quinenco,chile,,,,,doll_4.84 b,,,,,,;
-139936,qatar international islamic bank (q.p.s.c),qatar,,,,,doll_16.4 b,,,,,,;
-147317,qinghai salt lake industry,china,,,,,doll_27.2 b,,doll_652.0 m,,,,;
-94030,qingdao rural commercial bank corporation,china,,,,,doll_3.42 b,,doll_494.6 m,,,,;
-94050,qilu bank,china,,,,,doll_4.18 b,doll_2.14 b,doll_364.9 m,,,,;
-97321,qmee,uk,,,,23,,doll_12.57 m,,,technology,,;
-101314,qred,sweden,,,,68.0,,doll_30.41 m,,,fintech,,;
-97542,quantexa,uk,,,,275,,doll_33.9 m,,,fintech,,;
-98223,queraltã³,spain,,,,67.0,,doll_21.9 m,,,ecommerce,,;
-104697,queraltó,spain,,,,67.0,,doll_21.9 m,,,ecommerce,,;
-100416,qred företagslån*,sweden,,,,26,,doll_13.65 m,,,fintech,,;
-101201,quantion,spain,,,,66,,doll_4.4 m,,,technology,,;
-101429,qburst,india,,,,1517,,doll_394.51 m,,,technology,,;
-101526,q agency,croatia,,,,17,,doll_3.12 m,,,technology,,;
-102016,qxy resources,singapore,,,,109,,doll_39.66 m,,,construction,,;
-102296,qaiware,bulgaria,,,,42,,doll_2.56 m,,,fintech,,;
-104016,quickcom,italy,,,,31,,doll_1.9 m,,,telecoms,,;
-102898,qs group unipersonale,italy,,,,24,,doll_3.4 m,,,support services,,;
-103151,quimera energy,united kingdom,,,,33,,doll_1.67 m,,,energy,,;
-103830,q,croatia,,,,23,,doll_4.8 m,,,technology,,;
-103867,qpony,poland,,,,30,,doll_3.1 m,,,advertising,,;
-104450,quence,italy,,,,28,,doll_2.49 m,,,technology,,;
-114220,qb finances ltd,,,,,,,,,,,,;
-114213,quantum trading finances ltd,,,,,,,,,,,,;
-117813,quark consultants limited,,,,,,,,,,,,;
-118191,q & e key solutions ltd,,,,,,,,,,,,;
-118194,q & co distribution ltd,,,,,,,,,,,,;
-118232,q & p motors ltd,,,,,,,,,,,,;
-118238,q & q holdings ltd.,,,,,,,,,,,,;
-118256,q & s property management ltd,,,,,,,,,,,,;
-118270,q. anne’s drive ltd,,,,,,,,,,,,;
-118369,q despatch holdings limited,,,,,,,,,,,,;
-118443,q. e. d. chemical solutions limited,,,,,,,,,,,,;
-118445,q. d. services limited,,,,,,,,,,,,;
-118464,q electrical services ltd,,,,,,,,,,,,;
-118465,q electrical industrial services limited,,,,,,,,,,,,;
-118477,q. court (winchester) management limited,,,,,,,,,,,,;
-119561,qioptiq photonics limited,united kingdom,,,,,,,,,,,;
-119809,qbe uk limited,united kingdom,,,,,,,,,,,;
-123025,qarson holding ou,estonia,,,,,,,,,,,;
-120543,quilter international holdings limited,united kingdom,,,,,,,,,,,;
-121571,qc terme e benessere srl,italy,,,,,,,,,,,;
-121577,qc terme roma srl,italy,,,,,,,,,,,;
-122064,qbe underwriting limited,united kingdom,,,,,,,,,,,;
-122217,qualis u.k. limited,united kingdom,,,,,,,,,,,;
-122280,quilter life & pensions limited,united kingdom,,,,,,,,,,,;
-122295,quad bidco limited,united kingdom,,,,,,,,,,,;
-124890,qntfy careers,,,,2015,,,,,research,,,;
-125030,qlik careers,,,,1993,,,,,computer software,,,;
-150693,qi an xin,china,,,,,,,-81 million usd,,,,;
-136637,qinghai salt lake industry,china,,,,,doll_32.56 m,,,,,,;
-137103,qualtrics international inc.,united states,,,,,doll_23.3 m,,,,,,zig serafin;
-137941,qi an xin technology group inc.,china,,,,,doll_9.13 b,,,,,,;
-139005,qingdao port international,china,,,,,doll_5.53 b,,,,,,;
-139220,qatar electricity & water company,qatar,,,,,doll_4.97 m,,,,,,;
-139222,qatar gas transport company (nakilat) (qpsc),qatar,,,,,doll_4.61 m,,,,,,;
-139327,qatar fuel company q.p.s.c.(woqod),qatar,,,,,doll_4.92 b,,,,,,;
-139803,qingdao haier biomedical,china,,,,,doll_4.15 b,,,,,,;
-139866,quaker chemical corporation,united states,,,,,doll_4.07 b,,,,,,;
-150587,qingdao tgood electric,china,,,,,doll_4.81 m,,,,,,;
-168056,q-linea ab (publ),sweden,,,,,,,,,,,;
-140952,quakesafe technologies,china,,,,,doll_3.4 m,,,,,,;
-151708,qianhe condiment and food,china,,,,,doll_2.08 m,,,,,,;
-151766,qatar aluminium manufacturing company q.p.s.c.,qatar,,,,,doll_2.9 b,,,,,,;
-152153,qingdao hanhe cable,china,,,,,doll_2.61 b,,,,,,;
-141645,qingdao baheal medical inc.,china,,,,,doll_1.95 m,,,,,,;
-152393,qatar navigation,qatar,,,,,doll_2.3 m,,,,,,;
-152530,qatar insurance company q.s.p.c,qatar,,,,,doll_2.18 m,,,,,,;
-141949,qinhuangdao port,china,,,,,doll_2.07 m,,,,,,;
-152796,qisda corporation,taiwan,,,,,doll_2.17 b,,,,,,;
-142191,qualitas controladora,mexico,,,,,doll_2.14 b,,,,,,;
-142281,qinetiq group,uk,,,,,doll_2.09 b,,,,,,;
-142750,qassim cement company,saudi arabia,,,,,doll_1.87 b,,,,,,;
-142840,qingdao east steel tower stock co.ltd,china,,,,,doll_1.86 m,,,,,,;
-143245,qingdao tianneng heavy industries,china,,,,,doll_1.1 m,,,,,,;
-143363,quess corp,india,,,,,doll_1.62 b,,,,,,;
-143373,qingdao hiron commercial cold chain,china,,,,,doll_1.62 b,,,,,,;
-143551,qinghai huzhu barley wine,china,,,,,doll_1.37 m,,,,,,;
-143756,ql resources berhad,malaysia,,,,,doll_1.47 b,,,,,,;
-144242,qinchuan machine tool & tool group share,china,,,,,doll_1.38 b,,,,,,;
-144254,queclink wireless solutions,china,,,,,doll_1.12 m,,,,,,;
-155993,qiming information technology,china,,,,,doll_1.12 b,,,,,,;
-155322,qu mei home furnishings group,china,,,,,doll_1.28 b,,,,,,;
-144728,quanterix corporation,united states,,,,,doll_1.86 m,,,,,,;
-155467,qingdao eastsoft communication technology,china,,,,,doll_1.24 b,,,,,,;
-144856,qingdao zhongzi zhongcheng group,china,,,,,doll_1.22 b,,,,,,;
-145314,quick intelligent equipment,china,,,,,doll_1.07 m,,,,,,;
-145653,quantum hi-tech (china) biological,china,,,,,doll_1.05 b,,,,,,;
-146135,qinghai spring medicinal resources technology,china,,,,,doll_0.69 m,,,,,,;
-146174,qatar national cement company (q.p.s.c.),qatar,,,,,doll_958.0 m,,,,,,;
-151642,quakesafe technologies,china,,,,,doll_2.99 b,,0.0,,,,;
-152325,qingdao baheal medical inc.,china,,,,,doll_2.48 b,,0.0,,,,;
-153925,qingdao tianneng heavy industries,china,,,,,doll_1.67 b,,0.0,,,,;
-178781,quidgest,,lisbon,,1988,,,,,technology,software,,;
-178875,qumak,,warsaw,,1985,,,,,technology,software,,;
-183226,q-park,,maastricht,,1998,,,,,consumer services,parking,,;
-180052,quantic dream,,paris,,1997,,,,,technology,software,,;
-180208,quattromed,,tartu,,1999,,,,,health care,biotechnology,,;
-184408,qnb group,,london,,0,,,,,banking and financial services,,,;
-864,qualitykiosk technologies,,,,2000,,,,,it services & consulting,,,;
-1837,quislex legal services,,,,2004,,,,,legal,,,;
-5164,qube cinema technologies,,,,2004,,,,,media & entertainment,,,;
-5838,q way technologies,,,,2010,,,,,bpo/kpo,,,;
-24868,quince therapeutics,united states,,,,,doll_29.12 m,,,,,pharmaceuticals biotech ,;
-24970,quoin pharmaceuticals,united states,,,,,doll_8.29 m,,,,,pharmaceuticals biotech ,;
-33780,quince therapeutics,united states,,,,,doll_27.82 m,,,,,,;
-33978,quoin pharmaceuticals,united states,,,,,doll_8.04 m,,,,,,;
-40924,quince therapeutics,united states,,,,,doll_25.3 m,,,,,,;
-41132,quoin pharmaceuticals,united states,,,,,doll_7.02 m,,,,,,;
-55156,quince therapeutics,united states,,,,,doll_24.46 m,,,,,,;
-63601,quince therapeutics,,,,,55.0,doll_27.82 m,,-doll_68.46 m,,,,;
-63868,quoin pharmaceuticals,,,,,4.0,doll_8.04 m,,-doll_17.91 m,,,,;
-113054,q ltd,,,,,,,,,,,,;
-113065,q abode ltd,,,,,,,,,,,,;
-113074,q accountants ltd,,,,,,,,,,,,;
-114114,quality finances limited,,,,,,,,,,,,;
-117812,qtl limited,,,,,,,,,,,,;
-118120,q ltd,,,,,,,,,,,,;
-118121,q a bell ltd,,,,,,,,,,,,;
-118122,q abbas limited,,,,,,,,,,,,;
-118123,q limited,,,,,,,,,,,,;
-118127,q un limited,,,,,,,,,,,,;
-118129,q accountancy limited,,,,,,,,,,,,;
-118130,q accounting network limited,,,,,,,,,,,,;
-118131,q a b properties limited,,,,,,,,,,,,;
-118132,q a care services ltd,,,,,,,,,,,,;
-118133,q abode ltd,,,,,,,,,,,,;
-118134,q accountants ltd,,,,,,,,,,,,;
-118136,q accounts ltd,,,,,,,,,,,,;
-118137,q advisors ltd,,,,,,,,,,,,;
-118138,q a c m limited,,,,,,,,,,,,;
-118139,q a coatings limited,,,,,,,,,,,,;
-118140,q a contractors limited,,,,,,,,,,,,;
-118141,q a equipment limited,,,,,,,,,,,,;
-118142,q administration limited,,,,,,,,,,,,;
-118143,q acoustics limited,,,,,,,,,,,,;
-118144,q ahmed halal meat ltd,,,,,,,,,,,,;
-118145,q ahmed ccontractor ltd,,,,,,,,,,,,;
-118146,q aesthetics limited,,,,,,,,,,,,;
-118147,q & a consulting limited,,,,,,,,,,,,;
-118148,q & a consultants ltd,,,,,,,,,,,,;
-118149,q africa capital ltd,,,,,,,,,,,,;
-118150,q & a co. ltd,,,,,,,,,,,,;
-118151,q analysts ltd.,,,,,,,,,,,,;
-118152,q alumyar limited,,,,,,,,,,,,;
-118153,q a jackson-stops limited,,,,,,,,,,,,;
-118154,q alert systems ltd,,,,,,,,,,,,;
-118155,q and a courier limited,,,,,,,,,,,,;
-118156,q & a financial planning limited,,,,,,,,,,,,;
-118157,q and a food traders ltd,,,,,,,,,,,,;
-118158,q & a medical limited,,,,,,,,,,,,;
-118159,q & a mechanical limited,,,,,,,,,,,,;
-118160,q & a legal services limited,,,,,,,,,,,,;
-118161,q & a estates ltd,,,,,,,,,,,,;
-118162,q & a law (uk) ltd,,,,,,,,,,,,;
-118163,q & a incorporation ltd,,,,,,,,,,,,;
-118164,q & a motoring limited,,,,,,,,,,,,;
-118165,q & a production limited,,,,,,,,,,,,;
-118166,q & a pharma limited,,,,,,,,,,,,;
-118167,q & a people matter limited,,,,,,,,,,,,;
-118168,q & a roofing ltd,,,,,,,,,,,,;
-118169,q and a property ventures ltd,,,,,,,,,,,,;
-118170,q & a safety plus ltd,,,,,,,,,,,,;
-118171,q & a site services limited,,,,,,,,,,,,;
-118172,q & a security ltd,,,,,,,,,,,,;
-118173,q and asa limited,,,,,,,,,,,,;
-118174,q and a properties limited,,,,,,,,,,,,;
-118175,q & a solutions limited,,,,,,,,,,,,;
-118176,q & a traders ltd,,,,,,,,,,,,;
-118177,q & b comforts limited,,,,,,,,,,,,;
-118178,q & a structures limited,,,,,,,,,,,,;
-118179,q and a trade ltd,,,,,,,,,,,,;
-118180,q & c limited,,,,,,,,,,,,;
-118181,q & b traders ltd,,,,,,,,,,,,;
-118182,q & b store ltd,,,,,,,,,,,,;
-118183,q & b (london) limited,,,,,,,,,,,,;
-118184,q & c mechanical services limited,,,,,,,,,,,,;
-118185,q & c groundworks ltd,,,,,,,,,,,,;
-118186,q & c carpentry and joinery ltd,,,,,,,,,,,,;
-118187,q and c advisors ltd,,,,,,,,,,,,;
-118188,q & d ltd,,,,,,,,,,,,;
-118189,q & co oxford limited,,,,,,,,,,,,;
-118190,q & d services limited,,,,,,,,,,,,;
-118192,q and e aviation services limited,,,,,,,,,,,,;
-118193,q & d multimedia limited,,,,,,,,,,,,;
-118195,q & h enterprises ltd,,,,,,,,,,,,;
-118196,q & f care solutions ltd,,,,,,,,,,,,;
-118197,q and h construction (barry) limited,,,,,,,,,,,,;
-118198,q & h london limited,,,,,,,,,,,,;
-118199,q & h limited,,,,,,,,,,,,;
-118200,q and h nails limited,,,,,,,,,,,,;
-118201,q. & h. investment co. limited,,,,,,,,,,,,;
-118202,q & h financial services limited,,,,,,,,,,,,;
-118203,q & h property ltd,,,,,,,,,,,,;
-118204,q & i limited,,,,,,,,,,,,;
-118205,q and h properties (barry) limited,,,,,,,,,,,,;
-118206,q & h properties ltd,,,,,,,,,,,,;
-118207,q and h trading limited,,,,,,,,,,,,;
-118208,q & k construction ltd,,,,,,,,,,,,;
-118209,q & k services ltd,,,,,,,,,,,,;
-118210,q and k's consultancy ltd,,,,,,,,,,,,;
-118211,q and k of hakuna matata ltd,,,,,,,,,,,,;
-118212,q & k homecare limited,,,,,,,,,,,,;
-118213,q & k handbags limited,,,,,,,,,,,,;
-118214,q & j construction ltd,,,,,,,,,,,,;
-118215,q accounting services limited,,,,,,,,,,,,;
-118216,q a homes limited,,,,,,,,,,,,;
-118217,q and k's financial consultant ltd,,,,,,,,,,,,;
-118218,q & l building solutions limited,,,,,,,,,,,,;
-118219,q & k trading limited,,,,,,,,,,,,;
-118220,q & l management ltd,,,,,,,,,,,,;
-118221,q and m glasgow ltd,,,,,,,,,,,,;
-118222,q & l skip hire ltd,,,,,,,,,,,,;
-118223,q & m limited,,,,,,,,,,,,;
-118224,q & m trust limited,,,,,,,,,,,,;
-118225,q & l (uk) company limited,,,,,,,,,,,,;
-118226,q & more ltd,,,,,,,,,,,,;
-118227,q & q buildings ltd,,,,,,,,,,,,;
-118228,q and m property ltd,,,,,,,,,,,,;
-118229,q and q limited,,,,,,,,,,,,;
-118230,q &  n ltd,,,,,,,,,,,,;
-118231,q and p trade ltd,,,,,,,,,,,,;
-118233,q & n nail spa ltd,,,,,,,,,,,,;
-118234,q & q control services uk limited,,,,,,,,,,,,;
-118235,q & q consultant ltd,,,,,,,,,,,,;
-118236,q & q construction ltd,,,,,,,,,,,,;
-118237,q & q estate ltd,,,,,,,,,,,,;
-118239,q & q recruitment limited,,,,,,,,,,,,;
-118240,q & q interiors ltd,,,,,,,,,,,,;
-118241,q and quaint limited,,,,,,,,,,,,;
-118242,q & q solutions ltd,,,,,,,,,,,,;
-118243,q & q management limited,,,,,,,,,,,,;
-118244,q & s co. limited,,,,,,,,,,,,;
-118245,q & r organisation limited,,,,,,,,,,,,;
-118246,q & r (launceston) ltd,,,,,,,,,,,,;
-118247,q & s fine joinery ltd,,,,,,,,,,,,;
-118248,q & s distilling co ltd,,,,,,,,,,,,;
-118249,q & s diners limited,,,,,,,,,,,,;
-118250,q & s property limited,,,,,,,,,,,,;
-118251,q & s properties ltd,,,,,,,,,,,,;
-118252,q and s pharma solutions limited,,,,,,,,,,,,;
-118253,q and r limited,,,,,,,,,,,,;
-118254,q & s property maintenance services ltd,,,,,,,,,,,,;
-118255,q and s pharma limited,,,,,,,,,,,,;
-118257,q & t gifts ltd,,,,,,,,,,,,;
-118258,q & s 2012 ltd,,,,,,,,,,,,;
-118259,q & s smart security limited,,,,,,,,,,,,;
-118260,q & t grocery ltd,,,,,,,,,,,,;
-118261,q and z consulting ltd,,,,,,,,,,,,;
-118262,q & y international ltd,,,,,,,,,,,,;
-118263,q & u ltd,,,,,,,,,,,,;
-118264,q & t trading limited,,,,,,,,,,,,;
-118265,q. anne house limited,,,,,,,,,,,,;
-118266,q & t properties ltd,,,,,,,,,,,,;
-118267,q animation & vfx production ltd,,,,,,,,,,,,;
-118268,q anne developments limited,,,,,,,,,,,,;
-118269,q anne bidco limited,,,,,,,,,,,,;
-118271,q anne topco limited,,,,,,,,,,,,;
-118272,q anne midco 2 limited,,,,,,,,,,,,;
-118273,q anne midco 1 limited,,,,,,,,,,,,;
-118274,q & z itelligence limited,,,,,,,,,,,,;
-118275,q apartments (uk) limited,,,,,,,,,,,,;
-118276,q apartments management company limited,,,,,,,,,,,,;
-118277,q architectural design consultants limited,,,,,,,,,,,,;
-118278,q arnold ltd,,,,,,,,,,,,;
-118279,q a resolutions limited,,,,,,,,,,,,;
-118280,q a south-west limited,,,,,,,,,,,,;
-118281,q a solutions int ltd,,,,,,,,,,,,;
-118282,q art construction ltd,,,,,,,,,,,,;
-118283,q a s international limited,,,,,,,,,,,,;
-118284,q associates services limited,,,,,,,,,,,,;
-118285,q associates limited,,,,,,,,,,,,;
-118286,q assets limited,,,,,,,,,,,,;
-118287,q asset management limited,,,,,,,,,,,,;
-118288,q a t c (europe) limited,,,,,,,,,,,,;
-118289,q autos ltd,,,,,,,,,,,,;
-118290,q audio limited,,,,,,,,,,,,;
-118291,q assure build limited,,,,,,,,,,,,;
-118292,q assured ltd,,,,,,,,,,,,;
-118293,q aviation ltd,,,,,,,,,,,,;
-118294,q ball ltd,,,,,,,,,,,,;
-118295,q b ltd,,,,,,,,,,,,;
-118296,q a vision limited,,,,,,,,,,,,;
-118297,q ball lease company limited,,,,,,,,,,,,;
-118298,q bar cro ltd,,,,,,,,,,,,;
-118299,q bar br3 ltd,,,,,,,,,,,,;
-118300,q barber ltd,,,,,,,,,,,,;
-118301,q ball sports bar ltd,,,,,,,,,,,,;
-118302,q ball snooker & sports bar limited,,,,,,,,,,,,;
-118303,q basement ltd,,,,,,,,,,,,;
-118304,q b a s limited,,,,,,,,,,,,;
-118305,q bars holdings limited,,,,,,,,,,,,;
-118306,q bar services limited,,,,,,,,,,,,;
-118307,q beauty boutique limited,,,,,,,,,,,,;
-118308,q beauty academy ltd,,,,,,,,,,,,;
-118309,q beauty ltd,,,,,,,,,,,,;
-118310,q beauty ltd,,,,,,,,,,,,;
-118311,q bay holdings limited,,,,,,,,,,,,;
-118312,q bars & restaurants limited,,,,,,,,,,,,;
-118313,q b e contracts ltd,,,,,,,,,,,,;
-118314,q bees services ltd,,,,,,,,,,,,;
-118315,q bee ltd,,,,,,,,,,,,;
-118316,q best games limited,,,,,,,,,,,,;
-118317,q bee commercial cleaning ltd,,,,,,,,,,,,;
-118318,q b homes limited,,,,,,,,,,,,;
-118319,q b f quality bagged forages limited,,,,,,,,,,,,;
-118320,q best order limited,,,,,,,,,,,,;
-118321,q biotechnologies ltd,,,,,,,,,,,,;
-118322,q best times limited,,,,,,,,,,,,;
-118323,q biohealth ltd,,,,,,,,,,,,;
-118324,q books limited,,,,,,,,,,,,;
-118325,q box digital ltd,,,,,,,,,,,,;
-118326,q b properties ltd.,,,,,,,,,,,,;
-118327,q box media ltd,,,,,,,,,,,,;
-118328,q books and accounts limited,,,,,,,,,,,,;
-118329,q b management solutions ltd,,,,,,,,,,,,;
-118330,q bishopbriggs limited,,,,,,,,,,,,;
-118331,q branch automotive ltd,,,,,,,,,,,,;
-118332,q brands limited,,,,,,,,,,,,;
-118333,q brickwork limited,,,,,,,,,,,,;
-118334,q branch solutions ltd,,,,,,,,,,,,;
-118335,q branch investments limited,,,,,,,,,,,,;
-118336,q build & design limited,,,,,,,,,,,,;
-118337,q brothers ltd,,,,,,,,,,,,;
-118338,q bridge music ltd,,,,,,,,,,,,;
-118339,q bridge entertainment ltd,,,,,,,,,,,,;
-118340,q bridge b ltd,,,,,,,,,,,,;
-118341,q building control ltd,,,,,,,,,,,,;
-118342,q build pvt ltd,,,,,,,,,,,,;
-118343,q build property limited,,,,,,,,,,,,;
-118344,q burger company ltd,,,,,,,,,,,,;
-118345,q build wakefield ltd,,,,,,,,,,,,;
-118346,q - build maintenance (uk) limited,,,,,,,,,,,,;
-118347,q build inspection consultancy services ltd,,,,,,,,,,,,;
-118348,q builders (uk) limited,,,,,,,,,,,,;
-118349,q build consultancy services ltd,,,,,,,,,,,,;
-118350,q cabs ltd,,,,,,,,,,,,;
-118351,q business consulting limited,,,,,,,,,,,,;
-118352,q business services limited,,,,,,,,,,,,;
-118353,q business hub ltd,,,,,,,,,,,,;
-118354,q cafe cro limited,,,,,,,,,,,,;
-118355,q cafe ltd,,,,,,,,,,,,;
-118356,q café trading limited,,,,,,,,,,,,;
-118357,q capital international partners ltd,,,,,,,,,,,,;
-118358,q care assist ltd,,,,,,,,,,,,;
-118359,q care and support ltd,,,,,,,,,,,,;
-118360,q c electrical limited,,,,,,,,,,,,;
-118361,q catering supplies limited,,,,,,,,,,,,;
-118362,q catering limited,,,,,,,,,,,,;
-118363,q car valeting ltd,,,,,,,,,,,,;
-118364,q cars online limited,,,,,,,,,,,,;
-118365,q cars airport transfers limited,,,,,,,,,,,,;
-118366,q care limited,,,,,,,,,,,,;
-118367,q capital (london) limited,,,,,,,,,,,,;
-118368,q cafe lounge ltd,,,,,,,,,,,,;
-118370,q c enterprises limited,,,,,,,,,,,,;
-118371,q c engineering limited,,,,,,,,,,,,;
-118372,q chicken take away limited,,,,,,,,,,,,;
-118373,q circuits limited,,,,,,,,,,,,;
-118374,q cleaners ltd,,,,,,,,,,,,;
-118375,q claydene farm limited,,,,,,,,,,,,;
-118376,q clarke tm ltd,,,,,,,,,,,,;
-118377,q claims management ltd,,,,,,,,,,,,;
-118378,q claims limited,,,,,,,,,,,,;
-118379,q city ltd,,,,,,,,,,,,;
-118380,q chishti solicitors limited,,,,,,,,,,,,;
-118381,q chishti properties limited,,,,,,,,,,,,;
-118382,q chick ltd,,,,,,,,,,,,;
-118383,q chi limited,,,,,,,,,,,,;
-118384,q commercial access ltd,,,,,,,,,,,,;
-118385,q commercial ltd.,,,,,,,,,,,,;
-118386,q commerce limited,,,,,,,,,,,,;
-118387,q college property limited,,,,,,,,,,,,;
-118388,q college ltd,,,,,,,,,,,,;
-118389,q collaborative cic,,,,,,,,,,,,;
-118390,q coffee ltd,,,,,,,,,,,,;
-118391,q. c. management rtm ltd,,,,,,,,,,,,;
-118392,q club st georges rd ltd,,,,,,,,,,,,;
-118393,q cost consulting limited,,,,,,,,,,,,;
-118394,q corporation ltd,,,,,,,,,,,,;
-118395,q core ltd,,,,,,,,,,,,;
-118396,q contracts ltd,,,,,,,,,,,,;
-118397,q contractors ltd,,,,,,,,,,,,;
-118398,q contracting ltd,,,,,,,,,,,,;
-118399,q content store limited,,,,,,,,,,,,;
-118400,q consulting solutions limited,,,,,,,,,,,,;
-118401,q consulting group ltd,,,,,,,,,,,,;
-118402,q deco ltd,,,,,,,,,,,,;
-118403,q deck safety systems limited,,,,,,,,,,,,;
-118404,q day nurseries limited,,,,,,,,,,,,;
-118405,q davies limited,,,,,,,,,,,,;
-118406,q data services ltd,,,,,,,,,,,,;
-118407,q darnley ltd,,,,,,,,,,,,;
-118408,q cutz ltd,,,,,,,,,,,,;
-118409,q cube limited,,,,,,,,,,,,;
-118410,q & s rentals ltd,,,,,,,,,,,,;
-118411,q & s developments ltd,,,,,,,,,,,,;
-118412,q -aura ltd,,,,,,,,,,,,;
-118413,q biotech limited,,,,,,,,,,,,;
-118414,q delivery services limited,,,,,,,,,,,,;
-118415,q development & construction limited,,,,,,,,,,,,;
-118416,q dessert limited,,,,,,,,,,,,;
-118417,q despatch (west) limited,,,,,,,,,,,,;
-118418,q developers international ltd,,,,,,,,,,,,;
-118420,q design house ltd,,,,,,,,,,,,;
-118421,q design group ltd,,,,,,,,,,,,;
-118422,q design developments ltd,,,,,,,,,,,,;
-118423,q design homes ltd,,,,,,,,,,,,;
-118424,q design consultants limited,,,,,,,,,,,,;
-118425,q design & marketing ltd,,,,,,,,,,,,;
-118426,q design & build ltd,,,,,,,,,,,,;
-118427,q design limited,,,,,,,,,,,,;
-118428,q department imports & exports limited,,,,,,,,,,,,;
-118429,q dental surgeries limited,,,,,,,,,,,,;
-118430,q dental care limited,,,,,,,,,,,,;
-118431,q delta ltd,,,,,,,,,,,,;
-118432,q dent ltd,,,,,,,,,,,,;
-118433,q c signs & graphics limited,,,,,,,,,,,,;
-118434,q developments ltd,,,,,,,,,,,,;
-118435,q development & investments ltd,,,,,,,,,,,,;
-118436,q division ltd,,,,,,,,,,,,;
-118437,q direct ltd,,,,,,,,,,,,;
-118438,q drive solutions ltd,,,,,,,,,,,,;
-118439,q dressage ltd,,,,,,,,,,,,;
-118440,q drains ltd,,,,,,,,,,,,;
-118441,q e d public relations limited,,,,,,,,,,,,;
-118442,q e compliance solutions limited,,,,,,,,,,,,;
-118444,q dumpling bar limited,,,,,,,,,,,,;
-118446,q. d. p. services limited,,,,,,,,,,,,;
-118447,q' dos (liverpool) limited,,,,,,,,,,,,;
-118448,q d film services limited,,,,,,,,,,,,;
-118449,q developments 2 limited,,,,,,,,,,,,;
-118450,q c shopfitters limited,,,,,,,,,,,,;
-118451,q energy limited,,,,,,,,,,,,;
-118452,q empire ltd,,,,,,,,,,,,;
-118453,q environmental limited,,,,,,,,,,,,;
-118454,q e paving (south wales & west) limited,,,,,,,,,,,,;
-118455,q entertainment ltd,,,,,,,,,,,,;
-118456,q entertainment arts & sport limited,,,,,,,,,,,,;
-118457,q enterprises uk limited,,,,,,,,,,,,;
-118458,q energy (europe) uk holdings limited,,,,,,,,,,,,;
-118459,q elite ltd,,,,,,,,,,,,;
-118460,q element ltd,,,,,,,,,,,,;
-118461,q electronics limited,,,,,,,,,,,,;
-118462,q electrikal ltd,,,,,,,,,,,,;
-118463,q electricals services ltd,,,,,,,,,,,,;
-118467,q e international limited,,,,,,,,,,,,;
-118468,q 888 limited,,,,,,,,,,,,;
-118469,q e gate residents company limited,,,,,,,,,,,,;
-118470,q cristina ltd,,,,,,,,,,,,;
-118471,q build limited,,,,,,,,,,,,;
-118472,q bio systems limited,,,,,,,,,,,,;
-118473,q care & special care limited,,,,,,,,,,,,;
-118474,q c pubs limited,,,,,,,,,,,,;
-118475,q crane hire limited,,,,,,,,,,,,;
-118476,q crane & plant hire limited,,,,,,,,,,,,;
-118478,q e decorating ltd,,,,,,,,,,,,;
-118479,q creative design limited,,,,,,,,,,,,;
-118480,q e d scaffolding limited,,,,,,,,,,,,;
-118481,q court (uk) limited,,,,,,,,,,,,;
-118482,q c polymer limited,,,,,,,,,,,,;
-118483,q dental practices limited,,,,,,,,,,,,;
-118484,q court freehold cambridge ltd,,,,,,,,,,,,;
-118485,q consulting (bristol) limited,,,,,,,,,,,,;
-118486,q consultants ltd,,,,,,,,,,,,;
-118487,q consulting ltd,,,,,,,,,,,,;
-118488,q construction limited,,,,,,,,,,,,;
-118489,q connect training solutions limited,,,,,,,,,,,,;
-118490,q digital limited,,,,,,,,,,,,;
-118491,q congratulations ltd,,,,,,,,,,,,;
-118492,q communications limited,,,,,,,,,,,,;
-118493,q commissioning & water treatment limited,,,,,,,,,,,,;
-118494,q club (glasgow) limited,,,,,,,,,,,,;
-118495,q club lounge ltd,,,,,,,,,,,,;
-118496,q club (chinatown) ltd,,,,,,,,,,,,;
-118497,q commercial finance (uk) limited,,,,,,,,,,,,;
-118498,q clothing company limited,,,,,,,,,,,,;
-118499,q clinic experts in aesthetics ltd,,,,,,,,,,,,;
-118500,q clinic ltd,,,,,,,,,,,,;
-118501,q club birmingham limited,,,,,,,,,,,,;
-118502,q clean services ltd,,,,,,,,,,,,;
-118503,q cleaning ltd,,,,,,,,,,,,;
-118505,q chambers limited,,,,,,,,,,,,;
-118506,q central limited,,,,,,,,,,,,;
-118507,q cells asset management limited,,,,,,,,,,,,;
-122687,quidelortho corporation,united states,,,,,,,,,,,;
-124312,quip careers,,,,2012,,,,,computer software,,,;
-124345,qontigo careers,,,,1997,,,,,financial services,,,;
-124602,quotewizard careers,,,,2006,,,,,insurance,,,;
-124678,quid careers,,,,2010,,,,,computer software,,,;
-124693,quizlet careers,,,,2015,,,,,e-learning,,,;
-124820,qopper careers,,,,2017,,,,,internet,,,;
-124930,qualitest careers,,,,1997,,,,,information technology & services,,,;
-139199,quidel corporation,united states,,,,,doll_5.41 m,,,,,,;
-140479,qingdao rural commercial bank corporation,china,,,,,doll_3.3 m,,,,,,;
-143844,q technology (group) company,china,,,,,doll_2.06 m,,,,,,;
-149879,quidel corporation,united states,,,,,doll_5.17 b,,doll_704.0 m,,,,;
-154524,q technology (group) company,china,,,,,doll_1.44 b,,doll_126.0 m,,,,;
+id,name,country,address,founded,employees,market_cap,revenue,profit,categories,ceo,city
+96,quess,india,,,,doll_0.06899999999999999 b,doll_0.202 b,doll_0.0451 b,['professional services'],,
+478,quest global,,,1997.0,,,,,['it services & consulting'],,
+864,qualitykiosk technologies,,,2000.0,,,,,['it services & consulting'],,
+66950,qualcomm,united states,,1985.0,45000.0,doll_17.225 b,doll_3.604 b,doll_1.548 b,['semiconductors'],mr. cristiano renno amon,"mascot, new south wales"
+1059,quest retail,,,2005.0,,,,,['retail'],,
+1081,quatrro,,,2005.0,,,,,['it services & consulting'],,
+1160,quikr,,,2008.0,,,,,['internet'],,
+1350,qatar airways,,,1993.0,,,,,['aviation'],,
+1418,quality austria central asia,,,2010.0,,,,,['management consulting'],,
+1707,qhtalbros,,,1986.0,,,,,['auto components'],,
+1750,quick heal technologies,,,1995.0,,,,,['software product'],,
+1834,qcon,,,1975.0,,,,,['engineering & construction'],,
+1837,quislex legal services,,,2004.0,,,,,['legal'],,
+1896,quantiphi analytics solutions,,,2013.0,,,,,['it services & consulting'],,
+1983,quest global engineering,,,,,,,,,,
+2322,quintessence business solutions & services,,,2011.0,,,,,['it services & consulting'],,
+2552,quinnox,,,2002.0,,,,,['it services & consulting'],,
+3173,qatar petroleum,,,1974.0,,,,,['oil & gas'],,
+3202,qburst technologies,,,2004.0,,,,,['it services & consulting'],,
+3257,qx global group,,,2003.0,,,,,,,
+3435,qdegrees services,,,2013.0,,,,,['management consulting'],,
+3494,qa infotech,,,2003.0,,,,,['it services & consulting'],,
+3727,qualitest,,,1997.0,,,,,['it services & consulting'],,
+3795,qspiders,,,2003.0,,,,,['education & training'],,
+3854,qentelli,,,2015.0,,,,,['it services & consulting'],,
+4034,qatargas,,,1984.0,,,,,['oil & gas'],,
+136961,quest diagnostics,united states,"500 plaza drive, secaucus, new jersey, 07094",1967.0,40000.0,doll_1.616 b,doll_1.068 b,doll_0.187 b,"['healthcare', 'health care diagnostics', 'healthcare products', 'healthcare service']",steve rusckowski,
+4955,qdvc,,,2007.0,,,,,['engineering & construction'],,
+5106,quale infotech,,,2017.0,,,,,['it services & consulting'],,
+5164,qube cinema technologies,,,2004.0,,,,,['media & entertainment'],,
+5175,qualtech consultants,,,2003.0,,,,,['it services & consulting'],,
+5233,quadlabs technologies,,,2006.0,,,,,['software product'],,
+5320,quantzig,,,,,,,,,,
+5361,qr crypher,,,2019.0,,,,,['software product'],,
+5628,qualsquad infotech,,,2015.0,,,,,['it services & consulting'],,
+5832,quest global technologies,,,2013.0,,,,,['it services & consulting'],,
+5989,qrg central hospital & research centre,,,2007.0,,,,,['healthcare'],,
+129155,queclink wireless solutions,china,,,,doll_0.00412 b,doll_0.001639 b,doll_0.052 b,"['technology', 'communications equipment']",not found,
+6365,qdigi services,,,,,,,,['recruitment'],,
+6763,qd-sbg construction,,,2010.0,,,,,['engineering & construction'],,
+6872,qwik supply chain,,,,,,,,,,
+6964,quatrro mortgage solutions,,,2006.0,,,,,['financial services'],,
+7015,qatar steel,,,1974.0,,,,,['iron & steel'],,
+7081,qutone ceramic,,,2008.0,,,,,['building material'],,
+7132,quadrant resource llc,,,,,,,,['it services & consulting'],,
+7703,qbss,,,,,,,,['it services & consulting'],,
+8139,quality evaluation and systems team,,,1985.0,,,,,['management consulting'],,
+8798,quality control department,,,,,,,,['government'],,
+8861,qwikcilver solutions,,,2007.0,,,,,['it services & consulting'],,
+9095,qualitas global qa labs,,,2014.0,,,,,['it services & consulting'],,
+9104,quaere e-technologies,,,2007.0,,,,,['it services & consulting'],,
+9182,qatar petrochemical company,,,1974.0,,,,,['petrochemicals'],,
+9438,qapitol qa,,,2015.0,,,,,['it services & consulting'],,
+9527,qarmatek services,,,2011.0,,,,,['facility management services'],,
+9545,qinecsa solutions,,,,,,,,,,
+9892,qcon-qatar engineering & construction,,,,,,,,['engineering & construction'],,
+10724,qualitypools&spasoãå(12528901),,,,,,,,,,
+11584,quantum metric,united states,,,,,,,['data management & analytics'],,colorado springs
+154756,quizlet,united states,,2005.0,,doll_7.6930000000000005 b,,0.0,['edtech'],not found,san francisco
+11721,qingting fm,china,,,,,,,['internet software & services'],,shanghai
+11785,qumulo,united states,,,,,,,['data management & analytics'],,seattle
+128832,quora,united states,,2009.0,,doll_5.482 b,doll_0.202 b,0.0,['internet or mobile app based business'],not found,mountain view
+12169,qualia,united states,,,,,,,['fintech'],,san francisco
+12437,qonto,france,,2016.0,,,,,['fintech'],,paris
+154755,quintoandar,brazil,,,,doll_7.6930000000000005 b,,0.0,['e-commerce & direct-to-consumer'],not found,campinas
+126529,quanta services,united states,"suite 2600, 2800 post oak blvd, houston, texas, 77056-6175",1997.0,43700.0,doll_0.01421 b,doll_1.3 b,doll_0.485 b,"['industries', 'infrastructure', 'capital goods', 'engineering products', 'construction']",earl c. austin jr.,
+57210,q holding,united arab emirates,,,,doll_0.709 b,,,['investment'],,
+14976,qualtrics,united states,,,,doll_0.663 b,doll_0.13799999999999998 b,doll_0.11100000000000002 b,"['software', 'tech']",,
+50501,quidelortho,united states,,,,doll_0.5820000000000001 b,,,"['healthcare', 'diagnostics and testing', 'manufacturing']",,
+139353,qualys,united states,,,1823.0,doll_0.414 b,doll_0.046 b,doll_0.07 b,"['technology', 'software and it', 'software products', 'software and it infrastructure', 'security systems and solutions']",not found,
+106500,qube holdings,australia,"l 27 45 clarence st, sydney, new south wales, 2000",,6500.0,doll_0.361 b,doll_0.19 b,doll_0.088 b,"['industries', 'logistics']",not found,
+58306,quantumscape,united states,,,,doll_0.361 b,doll_0.0 b,doll_-0.045 b,"['electric vehicles', 'batteries', 'automobile parts', 'electric vehicle charging station']",not found,
+29825,quaker houghton,united states,,,,doll_0.339 b,doll_0.19 b,doll_0.012 b,['chemicals'],,
+30786,q2,united states,,,,doll_0.176 b,doll_0.05500000000000001 b,doll_0.086 b,['financial-services tech '],,
+30816,quilter,uk,,,4325.0,doll_0.17099999999999999 b,doll_0.006218 b,doll_0.204 b,"['financial services', 'asset management']",not found,
+60192,qcr holdings,united states,,,,doll_0.08399999999999999 b,doll_0.028000000000000004 b,doll_0.098 b,"['banks', 'financialservices']",,
+32610,quotient technology,united states,,,,doll_0.034 b,doll_0.036 b,doll_0.07269 b,['advertising'],,
+40035,quad,united states,,,,doll_0.018 b,doll_0.318 b,doll_0.052899999999999996 b,['advertising'],,
+42978,quanergy systems,united states,,,,doll_0.0011899999999999999 b,doll_0.00638 b,doll_0.016 b,"['lidar', 'tech', 'tech hardware']",,
+34057,quotient,switzerland,,,,doll_0.00134 b,,,['biotech diagnostics '],,
+24970,quoin pharmaceuticals,united states,,,,doll_0.008039999999999999 b,,doll_0.01791 b,"['pharmaceuticals', 'biotech']",,
+60736,qingci games,china,,,,doll_0.049 b,doll_0.017 b,doll_0.06298 b,"['video games', 'entertainment']",not found,
+24868,quince therapeutics,united states,,,,doll_0.02782 b,,doll_0.06846 b,"['pharmaceuticals', 'biotech']",,
+33509,quicklogic,united states,,,,doll_0.08220999999999999 b,doll_0.0158 b,doll_0.00432 b,"['semiconductors', 'tech']",,
+33379,quick heal,india,,,,doll_0.011 b,doll_0.0445 b,doll_0.01104 b,"['software', 'itsecurity', 'tech']",,
+16580,quantum,united states,,,,doll_0.016 b,doll_0.038 b,doll_0.02949 b,"['tech', 'internet']",,
+40163,quipt home medical,united states,,,,doll_0.020999999999999998 b,,,['healthcare'],,
+32775,qudian,china,,,,doll_0.027000000000000003 b,doll_0.012 b,doll_0.01214 b,['internet tech financial-services '],,
+44033,qiwi,cyprus,,,,doll_0.03 b,,,['financialservices'],,
+61157,quantum-si,united states,,,,doll_0.03 b,,doll_0.013000000000000001 b,['biotech scientific-and-technical-instruments '],,
+26691,quanterix,united states,,,,doll_0.048 b,doll_0.01 b,doll_0.08018 b,['diagnostics biotech '],,
+53249,qnb finansbank,turkey,"qnb finansbank, istanbul, 34394",,11111.0,doll_0.061 b,doll_0.772 b,doll_0.219 b,"['financial services', 'banking services']",not found,
+17730,qurate retail group,united states,"12300 liberty boulevard, englewood, colorado, 80112",,26659.0,doll_0.079 b,doll_1.4 b,doll_0.34 b,"['consumer cyclical', 'consumer services', 'retail', 'internet or mobile app based business', 'ecommerce']",not found,
+67876,quanex building products,united states,,,3860.0,doll_0.08199999999999999 b,doll_0.122 b,doll_0.01 b,,,
+17762,quinstreet,united states,,,,doll_0.08399999999999999 b,doll_0.05600000000000001 b,doll_-0.005 b,"['advertising', 'internet', 'tech']",,
+45216,qt group,finland,,,,doll_0.132 b,,,"['software', 'tech']",,
+58821,qinetiq,uk,,,,doll_0.242 b,,,['defense contractors'],,
+47073,qantas airways,australia,"10 bourke rd, mascot, new south wales, 2020",,30179.0,doll_0.8300000000000001 b,doll_0.6799999999999999 b,doll_-0.595 b,"['industries', 'airlines', 'aviation', 'transportation']",not found,
+19926,qinetiq,united-kingdom,,,,doll_0.24700000000000003 b,,,['defense-contractors '],,
+20887,quiã±enco,chile,,,,doll_0.536 b,,,,,
+128320,quebecor,canada,,,10454.0,doll_0.5389999999999999 b,doll_0.35 b,doll_0.458 b,"['communication services', 'telecom', 'media', 'advertising', 'internet or mobile app based business', 'internet providers']",not found,
+21282,q holding,united-arab-emirates,,,,doll_0.7110000000000001 b,,,['investment '],,
+169792,quanta computer,taiwan,"no. 211, wenhwa 2nd road, taoyuan, 333",1988.0,54279.0,doll_0.954 b,doll_4.044 b,doll_0.148 b,"['technology', 'computers hardware']",not found,
+56487,qbe insurance,australia,,,,doll_1.33 b,,,['insurance '],,
+83873,qiagen,netherlands,"hulsterweg 82, venlo, 5912pl",,5610.0,doll_1.133 b,doll_0.002251 b,doll_0.512 b,"['healthcare', 'pharmaceutical', 'biotechnology', 'technology', 'healthcare products', 'health care diagnostics']",mr. thierry  bernard,
+169443,qorvo,united states,,,8400.0,doll_0.01705 b,doll_0.004645 b,doll_0.11200000000000002 b,"['technology', 'electronics', 'semiconductors', 'communications equipment']",robert a bruggeworth,
+24174,quilter,united-kingdom,,,,doll_0.16899999999999998 b,,,['financial-services '],,
+28759,q holding,uae,,,,doll_0.709 b,,,,,
+29156,quiñenco,chile,,,,doll_0.558 b,,,,not found,
+67575,quidel,,,,6900.0,doll_0.5980000000000001 b,doll_0.303 b,doll_0.10700000000000001 b,,,
+89984,"quanta services, inc.",united states,,1997.0,43700.0,doll_1.825 b,doll_0.9465999999999999 b,,,mr. earl c. austin jr.,
+120971,qualcomm incorporated,united states,5775 morehouse dr,,,doll_17.225 b,,,, mr. cristiano renno amon,san diego
+73340,quilter plc,united kingdom,"senator house, , 85 queen victoria street, london, ec4v4ab",,,doll_0.316 b,doll_0.13 b,,['financial services'],mr. paul william feeney,
+73376,qinetiq group,uk,"cody technology park, old ively road, farnborough, gu140lx",,6000.0,doll_0.00279 b,doll_0.001555 b,doll_0.106 b,"['industries', 'aerospace and defense', 'product testing services', 'technology']",not found,
+73896,quartix holdings plc,united kingdom,,,,doll_0.1774 b,,,,mr. richard  lilwall,
+74056,quixant plc,united kingdom,,,,doll_0.123 b,,,,mr. jonathan francis jayal,
+75313,qualitau ltd,,,,,doll_0.0018 b,,,,not found,
+75325,quantum genomics sa,,,,,doll_0.0839 b,,,,dr. jean-philippe  milon,
+75356,quik super online ltd,,,,,doll_0.001 b,,,,not found,
+75727,qwamplify sa,,,,,doll_0.038299999999999994 b,,,,mr. cedric  reny,
+129125,qingdao haier biomedical,china,,,1433.0,doll_0.00415 b,doll_0.309 b,doll_0.123 b,"['healthcare', 'consumer durables', 'consumer goods', 'medical equipment']",not found,
+139907,qingdao tgood electric,china,"no. 336 songling road, laoshan district, qingdao, shandong , 266104",,6562.0,doll_0.403 b,doll_0.15 b,doll_0.027 b,"['industries', 'electric vehicles', 'electrical products']",not found,
+76037,qianhe condiment and food co. ltd,,,,2271.0,doll_1.4140000000000001 b,,,,not found,
+76059,qinhuangdao port co. ltd,,,,11235.0,doll_1.464 b,,,,not found,
+76204,quakesafe technologies co. ltd,,,,,doll_1.17 b,,,,not found,
+154307,"qingdao gaoce technology co., ltd",china,,,,doll_0.00152 b,,0.0,"['industries', 'industry machinery']",not found,
+128323,qingdao port international,china,,,8981.0,doll_0.00553 b,doll_0.002527 b,doll_0.622 b,"['industries', 'shipping', 'marine transportation']",not found,
+127267,qi an xin technology group inc.,china,,,,doll_4.0009999999999994 b,doll_0.845 b,doll_-0.081 b,"['technology', 'software and it infrastructure']",not found,
+76891,quotient limited,,,,,doll_0.114 b,,,,mr. manuel o. mendez,
+77082,quirin privatbank ag,,,,,doll_0.1885 b,,,,mr. karl matthaus schmidt,
+77086,q.beyond ag,,,,1000.0,doll_0.207 b,,,,mr. jã¼rgen  hermann,
+77487,quadient sa,,,,5127.0,doll_0.5687000000000001 b,,,,mr. geoffrey  godet,
+77673,"quadpack industries, sa",,,,,doll_0.108 b,,,,mr. timothy john eaves,
+77701,quantum foods holdings ltd,,,,,doll_0.0105 b,,,,"mr. hendrik albertus lourens b.com., b.com (hons), m.com, b.proc",
+78053,queen's road capital investment ltd,,,,,doll_0.1554 b,,,,mr. warren philip  gilman,
+78113,q p group holdings ltd,,,,2602.0,doll_0.6758 b,,,,mr. wan wai cheng,
+78144,quantum thinking ltd,,,,,doll_0.4747 b,,,,not found,
+78973,qualicorp consultoria e corretora de seguros sa,,,,2308.0,doll_0.449 b,,,,mr. bruno  blatt,
+79613,q-linea ab,,,,,doll_0.21800000000000003 b,,,,dr. jonas  jarvius ph.d.,
+79709,qlife holding ab,,,,,doll_0.3075 b,,,,mr. thomas  warthoe,
+79723,qliro ab,,,,,doll_0.3793 b,,,,not found,
+79774,quartiers properties ab,,,,,doll_0.2275 b,,,,not found,
+79830,quiapeg pharmaceuticals holding ab,,,,,doll_0.0409 b,,,,mr. marcus  bosson,
+79881,qleanair ab,,,,,0,,,,ms. christina  lindstedt m.b.a.,
+107774,quebecor inc,canada,"612 rue saint-jacques, montreal, quebec, h3c4m8",,10100.0,doll_0.54 b,doll_0.36 b,,['technology and communications'],mr. pierre karl peladeau,
+80924,"quisitive technology solutions, inc.",,,,,doll_0.258 b,,,,mr. michael robert reinhart,
+80966,quarterhill inc.,,,,,doll_0.2693 b,,,,mr. michael b. vladescu,
+81109,"quality online education group, inc.",,,,,doll_0.0881 b,,,,not found,
+81125,questerre energy corporation,,,,,doll_0.1183 b,,,,mr. michael rupert binnion c.a.,
+81186,"quorum information technologies, inc.",,,,,doll_0.0775 b,,,,"mr. maury r. marks b.mgt., ca",
+81204,"qyou media, inc.",,,,,doll_0.060899999999999996 b,,,,mr. curt  marvis,
+81739,qrf comm. va,,,,,doll_0.0881 b,,,,mr. william  vanmoerkerke,
+81867,qisda corp,taiwan,"157 shan-ying road, gueishan, taoyuan, 333",,,doll_6.686 b,doll_0.8099999999999999 b,,['technology and communications'],mr. chi-hong  chen,
+82150,quang viet enterprise co. ltd,,,,,doll_1.144 b,,,,not found,
+82526,qualipoly chemical corp,,,,,doll_0.403 b,,,,not found,
+82631,qst international corp,,,,,doll_0.709 b,,,,not found,
+83612,qol holdings co. ltd,,,,5517.0,doll_6.266 b,,,,not found,
+84115,"quálitas controladora, s.a.b. de c.v.",,,,5310.0,doll_4.726 b,,,,mr. jose antonio  correa etchegaray,
+84475,qaf ltd,,,,10000.0,doll_0.5031 b,,,,not found,
+84699,qt vascular ltd,,,,,doll_0.0192 b,,,,mr. gim chua  tan,
+84721,qian hu corp ltd,,,,,doll_0.022699999999999998 b,,,,not found,
+142750,qassim cement company,saudi arabia,,,,doll_0.187 b,doll_0.193 b,doll_0.079 b,"['basic materials', 'cement', 'construction materials']",not found,
+172800,qt group oyj,finland,,,,doll_0.00346 b,doll_0.133 b,doll_0.024 b,"['technology', 'software and it']",mr. juha pekka varelius m.sc. (econ.),
+86794,qpr software oyj,,,,,doll_0.0156 b,,,,not found,
+169793,qbe insurance group,australia,"level 18, 388 george street, sydney, new south wales, 2000",1886.0,11651.0,doll_1.3039999999999998 b,doll_1.395 b,doll_0.75 b,"['financial services', 'insurance']","mr. andrew  horton a.c.a., b.a.",
+87159,qualitas real estate income fund,,,,,doll_0.5932999999999999 b,,,,not found,
+87275,queensland pacific metals limited,,,,,doll_0.2864 b,,,,dr. stephen  grocott,
+87397,qantm intellectual property limited,,,,,doll_0.1589 b,,,,"mr. craig russell dower faicd, faim, macs",
+87726,quantum health group limited,,,,,doll_0.097 b,,,,not found,
+87781,qv equities limited,,,,,doll_0.24 b,,,,not found,
+89254,quality houses property fund,,,,,doll_0.845 b,,,,not found,
+89556,qualitech public company ltd,,,,,doll_0.8354 b,,,,not found,
+89640,quality hospitality leasehold property fund,,,,,doll_0.4249 b,,,,not found,
+89694,quality houses hotel and residence freehold and leasehold property fund,,,,,doll_0.175 b,,,,not found,
+89702,qtc energy public company ltd,,,,,doll_0.227 b,,,,not found,
+90076,"qorvo, inc.",,,,8400.0,doll_1.401 b,,,,mr. robert a. bruggeworth,
+158465,qualtrics international inc.,united states,,,4808.0,doll_1.459 b,doll_0.001075 b,doll_-1.059 b,"['software and it', 'software products', 'technology']",zig serafin,
+90278,quantumscape corporation,,,,,doll_0.74 b,,,,mr. jagdeep  singh,
+124176,"qolsys, inc.",united states,1900 the alameda ste 400,,,doll_0.549 b,,,,mr. sumedh s. thakar,san jose
+90550,quest diagnostics incorporated,,,,40000.0,doll_1.703 b,,,,mr. stephen h. rusckowski,
+90810,quality houses public company ltd,,,,,doll_2.487 b,,,,mr. chalerm  kiettitanabumroong,
+91035,qnb finans finansal kiralama as,,,,,doll_0.8160000000000001 b,,,,not found,
+125538,qatar national bank,qatar,"al cornish st, p.o. box 1000, doha",1964.0,28000.0,doll_5.909000000000001 b,doll_1.42 b,doll_0.003354 b,"['financial services', 'banking services', 'asset management', 'securities', 'credit cards', 'insurance']",abdulla mubarak al-khalifa,
+96064,quinenco,chile,,1957.0,20284.0,doll_0.484 b,doll_0.8460000000000001 b,doll_2.103 b,"['industries', 'conglomerate', 'financial services', 'beverages', 'alcoholic beverages', 'non-alcoholic beverages', 'beer', 'wine', 'retail', 'convenience stores', 'logistics']",josé francisco pérez mackenna,
+106952,qatar islamic bank,qatar,"grand hamad ave, p.o. box 559, doha",,,doll_1.64 b,doll_0.182 b,doll_0.101 b,['banking'],bassel gamaludin mohamed ali,
+96827,quilter,united kingdom,,,,doll_0.272 b,doll_0.645 b,doll_0.088 b,['diversified financials'],paul w. feeney,
+169001,qinghai salt lake industry,china,,,,doll_0.0272 b,doll_0.21400000000000002 b,doll_0.652 b,"['basic materials', 'fertilizers', 'chemicals', 'agriculture related']",zheng changshan,
+97030,qingdao rural commercial bank corporation,china,,,5198.0,doll_0.34199999999999997 b,doll_0.294 b,doll_0.446 b,"['financial services', 'banking services']",zong bo liu,
+94050,qilu bank,china,,,,doll_0.418 b,doll_0.21400000000000002 b,doll_0.3649 b,['banking'],not found,
+97321,qmee,uk,,2010.0,23000.0,,doll_0.01257 b,,['technology'],,
+101314,qred,sweden,,2015.0,68000.0,,doll_0.03041 b,,['fintech'],,
+97542,quantexa,uk,,2016.0,275000.0,,doll_0.0339 b,,['fintech'],,
+98223,queraltã³,spain,,1898.0,67000.0,,doll_0.0219 b,,['ecommerce'],,
+104697,queraltó,spain,,1898.0,,,doll_0.0219 b,,['ecommerce'],,
+100416,qred företagslån*,sweden,,2015.0,,,doll_0.01365 b,,['fintech'],,
+101201,quantion,spain,,2014.0,,,doll_0.0044 b,,['technology'],,
+101636,qburst,india,,2004.0,1872.0,,doll_0.39450999999999997 b,,['technology'],,
+101526,q agency,croatia,,2013.0,,,doll_0.00312 b,,['technology'],,
+102016,qxy resources,singapore,,2004.0,,,doll_0.028300000000000002 b,,['construction'],,
+102296,qaiware,bulgaria,,2011.0,,,doll_0.00256 b,,['fintech'],,
+104016,quickcom,italy,,2013.0,,,doll_0.0019 b,,['telecoms'],,
+102898,qs group unipersonale,italy,,2014.0,,,doll_0.0034 b,,['support services'],,
+103151,quimera energy,united kingdom,,2015.0,,,doll_0.0016699999999999998 b,,['energy'],,
+103236,quicklink solutions,italy,,2008.0,,,doll_0.0018700000000000001 b,,['technology'],,
+103830,q,croatia,,2013.0,,,doll_0.0048 b,,['technology'],,
+103867,qpony,poland,,2012.0,,,doll_0.0031 b,,['advertising'],,
+104450,quence,italy,,2013.0,,,doll_0.00249 b,,['technology'],,
+105250,qatar gas transport co ltd,qatar,"al shoumoukh towers, c ring road, al-sadd, p.o. box 22271, doha",,,doll_0.58 b,doll_0.9914 b,,['energy and utilities'],,
+105485,quest holdings sa,greece,"2a, argyroupoleos str., kallithea, athina, 17676",,2383.0,doll_0.6156 b,doll_0.11000000000000001 b,,['technology and communications'],,
+105676,quanex building products corporation,united states,"suite 1500, 1800 west loop south, houston, texas, 77027",,3860.0,doll_0.8107000000000001 b,doll_0.12 b,,['construction'],,
+154436,ql resources berhad,malaysia,"bukit jelutong, no. 16a jalan astaka u8/83, shah alam, 40150",,,doll_0.00165 b,doll_0.13 b,0.0,"['consumer defensive', 'farming / seeds / milling']",not found,
+106310,quidel corp,united states,"9975 summers ridge road, san diego, california, 92121",,1600.0,0,doll_0.16999999999999998 b,,['medical equipment'],,
+161221,quaker chemical corporation,united states,"901 hector street, one quaker park, conshohocken, pennsylvania, 19428",,4700.0,doll_0.004070000000000001 b,doll_0.18 b,doll_0.12 b,"['basic materials', 'chemicals']",not found,
+131168,qatar insurance company q.s.p.c,qatar,"tamin street,  west bay, p.o.box 666, doha",,,doll_0.00232 b,doll_0.27 b,doll_0.128 b,"['financial services', 'insurance']",not found,
+107395,quad/graphics inc,united states,"n61, w23044 harrys way, sussex, wisconsin, 53089",,15100.0,doll_0.2329 b,doll_0.3 b,,['media'],,
+108199,qorvo inc,united states,"7628 thorndike road, greensboro, north carolina, 27409",,8900.0,doll_1.02 b,doll_0.45999999999999996 b,,['technology and communications'],,
+108412,qatar fuel (woqod),qatar,"woqod tower - west bay, p.o. box 7777, doha",,,doll_0.49000000000000005 b,doll_0.54 b,,['energy and utilities'],,
+108985,qatar airways group qcsc,qatar,"po box 22550, qatar airways tower 1, airport road, doha",,36000.0,0,doll_0.8099999999999999 b,,['transport and logistics'],,
+110268,qualcomm inc,united states,"5775 morehouse dr, san diego, california, 92121",,45000.0,doll_13.680000000000001 b,doll_4.42 b,,['technology and communications'],,
+118120,q ltd,,,,,,,,,,
+113074,q accountants ltd,,,,,,,,,,
+114181,qb finances ltd,,,,,,,,,,
+114213,quantum trading finances ltd,,,,,,,,,,
+114220,quick finances ltd,,,,,,,,,,
+117812,qtl limited,,,,,,,,,,
+117813,quark consultants limited,,,,,,,,,,
+118123,q limited,,,,,,,,,,
+118127,q un limited,,,,,,,,,,
+118129,q accountancy limited,,,,,,,,,,
+118130,q accounting network limited,,,,,,,,,,
+113065,q abode ltd,,,,,,,,,,
+118142,q administration limited,,,,,,,,,,
+118143,q acoustics limited,,,,,,,,,,
+118145,q ahmed ccontractor ltd,,,,,,,,,,
+118146,q aesthetics limited,,,,,,,,,,
+118151,q analysts ltd.,,,,,,,,,,
+118154,q alert systems ltd,,,,,,,,,,
+118177,q & b comforts limited,,,,,,,,,,
+118180,q & c limited,,,,,,,,,,
+118183,q & b (london) limited,,,,,,,,,,
+118184,q & c mechanical services limited,,,,,,,,,,
+118189,q & co oxford limited,,,,,,,,,,
+118190,q & d services limited,,,,,,,,,,
+118193,q & d multimedia limited,,,,,,,,,,
+118198,q & h london limited,,,,,,,,,,
+118199,q & h limited,,,,,,,,,,
+118201,q. & h. investment co. limited,,,,,,,,,,
+118202,q & h financial services limited,,,,,,,,,,
+118204,q & i limited,,,,,,,,,,
+118212,q & k homecare limited,,,,,,,,,,
+118213,q & k handbags limited,,,,,,,,,,
+118215,q accounting services limited,,,,,,,,,,
+118218,q & l building solutions limited,,,,,,,,,,
+118219,q & k trading limited,,,,,,,,,,
+118223,q & m limited,,,,,,,,,,
+118232,q & p motors ltd,,,,,,,,,,
+118239,q & q recruitment limited,,,,,,,,,,
+118243,q & q management limited,,,,,,,,,,
+118245,q & r organisation limited,,,,,,,,,,
+118264,q & t trading limited,,,,,,,,,,
+118265,q. anne house limited,,,,,,,,,,
+118268,q anne developments limited,,,,,,,,,,
+118269,q anne bidco limited,,,,,,,,,,
+118270,q. anne’s drive ltd,,,,,,,,,,
+118272,q anne midco 2 limited,,,,,,,,,,
+118273,q anne midco 1 limited,,,,,,,,,,
+118274,q & z itelligence limited,,,,,,,,,,
+118275,q apartments (uk) limited,,,,,,,,,,
+118276,q apartments management company limited,,,,,,,,,,
+118277,q architectural design consultants limited,,,,,,,,,,
+118278,q arnold ltd,,,,,,,,,,
+118287,q asset management limited,,,,,,,,,,
+118289,q autos ltd,,,,,,,,,,
+118290,q audio limited,,,,,,,,,,
+118291,q assure build limited,,,,,,,,,,
+118293,q aviation ltd,,,,,,,,,,
+118294,q ball ltd,,,,,,,,,,
+118295,q b ltd,,,,,,,,,,
+118298,q bar cro ltd,,,,,,,,,,
+118299,q bar br3 ltd,,,,,,,,,,
+118300,q barber ltd,,,,,,,,,,
+118301,q ball sports bar ltd,,,,,,,,,,
+118302,q ball snooker & sports bar limited,,,,,,,,,,
+118303,q basement ltd,,,,,,,,,,
+118305,q bars holdings limited,,,,,,,,,,
+118306,q bar services limited,,,,,,,,,,
+118312,q bars & restaurants limited,,,,,,,,,,
+118313,q b e contracts ltd,,,,,,,,,,
+118315,q bee ltd,,,,,,,,,,
+118318,q b homes limited,,,,,,,,,,
+118319,q b f quality bagged forages limited,,,,,,,,,,
+118321,q biotechnologies ltd,,,,,,,,,,
+118323,q biohealth ltd,,,,,,,,,,
+118325,q box digital ltd,,,,,,,,,,
+118326,q b properties ltd.,,,,,,,,,,
+118327,q box media ltd,,,,,,,,,,
+118329,q b management solutions ltd,,,,,,,,,,
+118330,q bishopbriggs limited,,,,,,,,,,
+118331,q branch automotive ltd,,,,,,,,,,
+118333,q brickwork limited,,,,,,,,,,
+118335,q branch investments limited,,,,,,,,,,
+118336,q build & design limited,,,,,,,,,,
+118340,q bridge b ltd,,,,,,,,,,
+118343,q build property limited,,,,,,,,,,
+118344,q burger company ltd,,,,,,,,,,
+118346,q - build maintenance (uk) limited,,,,,,,,,,
+118348,q builders (uk) limited,,,,,,,,,,
+118350,q cabs ltd,,,,,,,,,,
+118354,q cafe cro limited,,,,,,,,,,
+118356,q café trading limited,,,,,,,,,,
+118360,q c electrical limited,,,,,,,,,,
+118361,q catering supplies limited,,,,,,,,,,
+118362,q catering limited,,,,,,,,,,
+118364,q cars online limited,,,,,,,,,,
+118365,q cars airport transfers limited,,,,,,,,,,
+118369,q c electrical holdings limited,,,,,,,,,,
+118370,q c enterprises limited,,,,,,,,,,
+118371,q c engineering limited,,,,,,,,,,
+118373,q circuits limited,,,,,,,,,,
+118380,q chishti solicitors limited,,,,,,,,,,
+118381,q chishti properties limited,,,,,,,,,,
+118382,q chick ltd,,,,,,,,,,
+118383,q chi limited,,,,,,,,,,
+118386,q commerce limited,,,,,,,,,,
+118387,q college property limited,,,,,,,,,,
+118388,q college ltd,,,,,,,,,,
+118389,q collaborative cic,,,,,,,,,,
+118390,q coffee ltd,,,,,,,,,,
+118391,q. c. management rtm ltd,,,,,,,,,,
+118392,q club st georges rd ltd,,,,,,,,,,
+118393,q cost consulting limited,,,,,,,,,,
+118399,q content store limited,,,,,,,,,,
+118402,q deco ltd,,,,,,,,,,
+118403,q deck safety systems limited,,,,,,,,,,
+118405,q davies limited,,,,,,,,,,
+118407,q darnley ltd,,,,,,,,,,
+118408,q cutz ltd,,,,,,,,,,
+118409,q cube limited,,,,,,,,,,
+118413,q biotech limited,,,,,,,,,,
+118415,q development & construction limited,,,,,,,,,,
+118416,q dessert limited,,,,,,,,,,
+118419,q despatch holdings limited,,,,,,,,,,
+118424,q design consultants limited,,,,,,,,,,
+118427,q design limited,,,,,,,,,,
+118428,q department imports & exports limited,,,,,,,,,,
+118429,q dental surgeries limited,,,,,,,,,,
+118432,q dent ltd,,,,,,,,,,
+118433,q c signs & graphics limited,,,,,,,,,,
+118435,q development & investments ltd,,,,,,,,,,
+118436,q division ltd,,,,,,,,,,
+118438,q drive solutions ltd,,,,,,,,,,
+118439,q dressage ltd,,,,,,,,,,
+118440,q drains ltd,,,,,,,,,,
+118441,q e d public relations limited,,,,,,,,,,
+118442,q e compliance solutions limited,,,,,,,,,,
+118443,q. e. d. chemical solutions limited,,,,,,,,,,
+118444,q dumpling bar limited,,,,,,,,,,
+118445,q. d. services limited,,,,,,,,,,
+118448,q d film services limited,,,,,,,,,,
+118450,q c shopfitters limited,,,,,,,,,,
+118451,q energy limited,,,,,,,,,,
+118453,q environmental limited,,,,,,,,,,
+118456,q entertainment arts & sport limited,,,,,,,,,,
+118458,q energy (europe) uk holdings limited,,,,,,,,,,
+118459,q elite ltd,,,,,,,,,,
+118460,q element ltd,,,,,,,,,,
+118461,q electronics limited,,,,,,,,,,
+118464,q electrical services ltd,,,,,,,,,,
+118465,q electrical industrial services limited,,,,,,,,,,
+118466,q electrical ltd,,,,,,,,,,
+118467,q e international limited,,,,,,,,,,
+118469,q e gate residents company limited,,,,,,,,,,
+118470,q cristina ltd,,,,,,,,,,
+118471,q build limited,,,,,,,,,,
+118472,q bio systems limited,,,,,,,,,,
+118474,q c pubs limited,,,,,,,,,,
+118475,q crane hire limited,,,,,,,,,,
+118476,q crane & plant hire limited,,,,,,,,,,
+118477,q. court (winchester) management limited,,,,,,,,,,
+118478,q e decorating ltd,,,,,,,,,,
+118479,q creative design limited,,,,,,,,,,
+118480,q e d scaffolding limited,,,,,,,,,,
+118482,q c polymer limited,,,,,,,,,,
+118483,q dental practices limited,,,,,,,,,,
+118488,q construction limited,,,,,,,,,,
+118489,q connect training solutions limited,,,,,,,,,,
+118490,q digital limited,,,,,,,,,,
+118491,q congratulations ltd,,,,,,,,,,
+118492,q communications limited,,,,,,,,,,
+118493,q commissioning & water treatment limited,,,,,,,,,,
+118497,q commercial finance (uk) limited,,,,,,,,,,
+118501,q club birmingham limited,,,,,,,,,,
+118505,q chambers limited,,,,,,,,,,
+118507,q cells asset management limited,,,,,,,,,,
+119561,qioptiq photonics limited,united kingdom,"mitchell point ensign way, hamble",,,,,,,,southampton
+119809,qbe uk limited,united kingdom,plantation place 30 fenchurch street,,,,,,,,london
+123025,qarson holding ou,estonia,lootsa tn 2b,,,,,,,,tallinn
+120543,quilter international holdings limited,united kingdom,king edward bay house king edward road onchan,,,,,,,,isle of man
+120974,"qualcomm international, inc.",united states,5775 morehouse dr,,,,,,,,san diego
+121571,qc terme e benessere srl,italy,via bagni nuovi 7,,,,,,,,valdidentro
+121574,qc terme srl,italy,via giuseppe ripamonti 89,,,,,,,,milano
+121577,qc terme roma srl,italy,via giuseppe ripamonti 89,,,,,,,,milano
+122064,qbe underwriting limited,united kingdom,plantation place 30 fenchurch street,,,,,,,,london
+122217,qualis u.k. limited,united kingdom,exchequer court 33 st. mary axe,,,,,,,,london
+122274,quilter life & pensions limited,united kingdom,quilter house portland terrace,,,,,,,,southampton
+122283,quilter cheviot limited,united kingdom,70 victoria street,,,,,,,,london
+122280,quilter business services limited,united kingdom,senator house 85 queen victoria street,,,,,,,,london
+122295,quad bidco limited,united kingdom,the inspire hornbeam square west,,,,,,,,harrogate
+122687,quidelortho corporation,united states,9975 summers ridge rd,,,,,,,,san diego
+124312,quip careers,,,2012.0,,,,,['computer software'],,
+124345,qontigo careers,,,1997.0,,,,,['financial services'],,
+124602,quotewizard careers,,,2006.0,,,,,['insurance'],,
+124678,quid careers,,,2010.0,,,,,['computer software'],,
+124693,quizlet careers,,,2015.0,,,,,['e-learning'],,
+124820,qopper careers,,,2017.0,,,,,['internet'],,
+124890,qntfy careers,,,2015.0,,,,,['research'],,
+124930,qualitest careers,,,1997.0,,,,,['information technology & services'],,
+125030,qlik careers,,,1993.0,,,,,['computer software'],,
+126812,qatar islamic bank (q.p.s.c.),qatar,,,1179.0,doll_0.01233 b,doll_0.0016200000000000001 b,doll_0.922 b,"['financial services', 'banking services']",not found,
+171561,quidel corporation,united states,,,1250.0,doll_0.00541 b,doll_0.0016979999999999999 b,doll_0.704 b,"['healthcare', 'biotechnology', 'technology', 'healthcare products', 'health care diagnostics']",not found,
+160578,qatar electricity & water company,qatar,,,,doll_0.00497 b,doll_0.68 b,doll_0.403 b,"['utilities', 'electric utilities', 'energy']",not found,
+128546,qatar gas transport company (nakilat) (qpsc),qatar,,,,doll_0.513 b,doll_0.986 b,doll_0.372 b,"['industries', 'shipping', 'freight transport']",not found,
+128646,qatar fuel company q.p.s.c.(woqod),qatar,,,,doll_0.00492 b,doll_0.005365 b,doll_0.268 b,"['energy', 'retail', 'oil and gas']",not found,
+129025,q2 holdings,united states,,,2028.0,doll_0.00497 b,doll_0.498 b,doll_-0.112 b,"['technology', 'software and it', 'software products']",not found,
+139936,qatar international islamic bank (q.p.s.c),qatar,,,,doll_0.004 b,doll_0.493 b,doll_0.246 b,"['financial services', 'banking services']",not found,
+150693,qi an xin,china,,,,doll_3.9579999999999997 b,doll_0.854 b,doll_-0.081 b,,not found,
+161824,"qingdao sentury tire co., ltd.",china,,,,doll_0.00277 b,doll_0.761 b,doll_0.111 b,"['consumer cyclical', 'automobile parts']",not found,
+151179,q-linea ab (publ),sweden,,,,doll_0.33999999999999997 b,doll_0.001 b,doll_-0.024 b,"['healthcare', 'medical equipment']",not found,
+173317,quakesafe technologies,china,,,,doll_0.00299 b,,0.0,"['industries', 'metal fabrication products']",not found,
+130340,qianhe condiment and food,china,,,,doll_0.29500000000000004 b,doll_0.28 b,doll_0.032 b,"['consumer defensive', 'fmcg', 'package foods', 'food products']",not found,
+130402,qatar aluminium manufacturing company q.p.s.c.,qatar,,,,doll_0.0029 b,,0.0,"['basic materials', 'aluminum']",not found,
+141473,qingdao hanhe cable,china,,,,doll_0.00261 b,doll_0.001307 b,doll_0.113 b,"['industries', 'cables and wires', 'electrical products']",not found,
+152325,qingdao baheal medical inc.,china,,,,doll_0.00248 b,,0.0,"['healthcare', 'pharmaceutical']",not found,
+152393,qatar navigation,qatar,,,,doll_0.00242 b,doll_0.663 b,doll_0.199 b,"['industries', 'shipping']",not found,
+163301,qinhuangdao port,china,,,,doll_0.00207 b,doll_0.96 b,doll_0.151 b,"['industries', 'shipping']",not found,
+174468,qisda corporation,taiwan,,,,doll_0.217 b,doll_0.007467 b,doll_0.274 b,"['technology', 'computers hardware']",not found,
+174551,qualitas controladora,mexico,,,,doll_0.21400000000000002 b,doll_0.0020009999999999997 b,doll_0.189 b,"['financial services', 'insurance']",not found,
+142211,"quantumctek co., ltd.",china,,,,doll_0.213 b,,0.0,"['technology', 'communications equipment']",not found,
+164192,qingdao east steel tower stock co.ltd,china,,,,doll_0.183 b,,0.0,"['basic materials', 'iron and steel', 'metals']",not found,
+153925,qingdao tianneng heavy industries,china,,,,doll_0.0016699999999999998 b,,0.0,"['industries', 'industry machinery']",not found,
+143363,quess corp,india,,,384132.0,doll_0.00175 b,doll_0.001714 b,doll_0.031 b,"['industries', 'outsourcing and staffing']",not found,
+154053,qingdao hiron commercial cold chain,china,,,,doll_0.162 b,,0.0,"['industries', 'electrical products', 'industrial electrical electronics', 'office equipment']",not found,
+132868,qinghai huzhu barley wine,china,,,,doll_0.155 b,,0.0,"['consumer defensive', 'alcoholic beverages', 'beverages']",not found,
+143844,q technology (group) company,china,,,,doll_0.144 b,doll_0.00261 b,doll_0.126 b,"['technology', 'electronics', 'capital goods']",not found,
+154922,qinchuan machine tool & tool group share,china,,,,doll_0.00138 b,,0.0,"['industries', 'machinery manufacturing', 'heavy machinery', 'tools and equipment', 'industry machinery']",not found,
+155055,qiming information technology,china,,,,doll_0.00066 b,,0.0,"['technology', 'software and it']",not found,
+144642,qu mei home furnishings group,china,,,,doll_0.128 b,,0.0,"['consumer cyclical', 'furniture', 'home furnishing']",not found,
+166080,quanterix corporation,united states,,,,doll_0.125 b,doll_0.105 b,doll_-0.057 b,"['healthcare', 'biotechnology', 'medical equipment', 'technology', 'capital goods']",not found,
+155467,qingdao eastsoft communication technology,china,,,,doll_0.00134 b,,0.0,"['technology', 'technology hardware and instruments']",not found,
+166208,qingdao zhongzi zhongcheng group,china,,,,doll_0.122 b,,0.0,"['industries', 'power equipment', 'electrical products']",not found,
+145314,quick intelligent equipment,china,,,,doll_0.0011200000000000001 b,,0.0,"['industries', 'industry machinery']",not found,
+145313,qingdao gon technology,china,,,,doll_0.0011200000000000001 b,,0.0,"['basic materials', 'chemicals']",not found,
+156333,quantum hi-tech (china) biological,china,,,,doll_0.10500000000000001 b,,0.0,"['healthcare', 'biotechnology']",not found,
+167104,"qiaoyin city management co.,ltd.",china,,,,doll_0.00101 b,,0.0,['waste and trash management'],not found,
+156815,qinghai spring medicinal resources technology,china,,,,doll_0.967 b,,0.0,"['energy', 'coal mining', 'mining']",,
+135494,qatar national cement company (q.p.s.c.),qatar,,,,doll_0.958 b,,doll_0.062 b,"['basic materials', 'cement', 'construction materials']",,
+178781,quidgest,,,1988.0,,,,,['software'],,lisbon
+178875,qumak,,,1985.0,,,,,['software'],,warsaw
+183226,q-park,,,1998.0,,,,,['parking'],,maastricht
+180052,quantic dream,,,1997.0,,,,,['software'],,paris
+180208,quattromed,,,1999.0,,,,,['biotechnology'],,tartu
+184408,qnb group,,,,,,,,,,london
+184409,qantas,,,,,,,,,,"mascot, new south wales"
+184411,qatarenergy,,,1974.0,,,,,,,"mascot, new south wales"
+5838,q way technologies,,,2010.0,,,,,['bpo/kpo'],,
+6188,quality council of india,,,1997.0,,,,,['government'],,
+75469,quicklizard ltd,,,,,0,,,,pini  mandel,
+78187,quali-smart holdings ltd,,,,,doll_0.37589999999999996 b,,,,not found,
+82621,quintain steel co. ltd,,,,,doll_0.623 b,,,,not found,
+114114,quality finances limited,,,,,,,,,,
+118121,q a bell ltd,,,,,,,,,,
+118122,q abbas limited,,,,,,,,,,
+118131,q a b properties limited,,,,,,,,,,
+118132,q a care services ltd,,,,,,,,,,
+118136,q accounts ltd,,,,,,,,,,
+118137,q advisors ltd,,,,,,,,,,
+118138,q a c m limited,,,,,,,,,,
+118139,q a coatings limited,,,,,,,,,,
+118140,q a contractors limited,,,,,,,,,,
+118141,q a equipment limited,,,,,,,,,,
+118144,q ahmed halal meat ltd,,,,,,,,,,
+118147,q & a consulting limited,,,,,,,,,,
+118148,q & a consultants ltd,,,,,,,,,,
+118149,q africa capital ltd,,,,,,,,,,
+118150,q & a co. ltd,,,,,,,,,,
+118152,q alumyar limited,,,,,,,,,,
+118153,q a jackson-stops limited,,,,,,,,,,
+118155,q and a courier limited,,,,,,,,,,
+118156,q & a financial planning limited,,,,,,,,,,
+118157,q and a food traders ltd,,,,,,,,,,
+118158,q & a medical limited,,,,,,,,,,
+118159,q & a mechanical limited,,,,,,,,,,
+118160,q & a legal services limited,,,,,,,,,,
+118161,q & a estates ltd,,,,,,,,,,
+118162,q & a law (uk) ltd,,,,,,,,,,
+118163,q & a incorporation ltd,,,,,,,,,,
+118164,q & a motoring limited,,,,,,,,,,
+118165,q & a production limited,,,,,,,,,,
+118166,q & a pharma limited,,,,,,,,,,
+118167,q & a people matter limited,,,,,,,,,,
+118168,q & a roofing ltd,,,,,,,,,,
+118169,q and a property ventures ltd,,,,,,,,,,
+118170,q & a safety plus ltd,,,,,,,,,,
+118171,q & a site services limited,,,,,,,,,,
+118172,q & a security ltd,,,,,,,,,,
+118173,q and asa limited,,,,,,,,,,
+118174,q and a properties limited,,,,,,,,,,
+118175,q & a solutions limited,,,,,,,,,,
+118176,q & a traders ltd,,,,,,,,,,
+118178,q & a structures limited,,,,,,,,,,
+118179,q and a trade ltd,,,,,,,,,,
+118181,q & b traders ltd,,,,,,,,,,
+118182,q & b store ltd,,,,,,,,,,
+118185,q & c groundworks ltd,,,,,,,,,,
+118186,q & c carpentry and joinery ltd,,,,,,,,,,
+118187,q and c advisors ltd,,,,,,,,,,
+118188,q & d ltd,,,,,,,,,,
+118191,q & e key solutions ltd,,,,,,,,,,
+118192,q and e aviation services limited,,,,,,,,,,
+118194,q & co distribution ltd,,,,,,,,,,
+118195,q & h enterprises ltd,,,,,,,,,,
+118196,q & f care solutions ltd,,,,,,,,,,
+118197,q and h construction (barry) limited,,,,,,,,,,
+118200,q and h nails limited,,,,,,,,,,
+118203,q & h property ltd,,,,,,,,,,
+118205,q and h properties (barry) limited,,,,,,,,,,
+118206,q & h properties ltd,,,,,,,,,,
+118207,q and h trading limited,,,,,,,,,,
+118208,q & k construction ltd,,,,,,,,,,
+118209,q & k services ltd,,,,,,,,,,
+118210,q and k's consultancy ltd,,,,,,,,,,
+118211,q and k of hakuna matata ltd,,,,,,,,,,
+118214,q & j construction ltd,,,,,,,,,,
+118216,q a homes limited,,,,,,,,,,
+118217,q and k's financial consultant ltd,,,,,,,,,,
+118220,q & l management ltd,,,,,,,,,,
+118221,q and m glasgow ltd,,,,,,,,,,
+118222,q & l skip hire ltd,,,,,,,,,,
+118224,q & m trust limited,,,,,,,,,,
+118225,q & l (uk) company limited,,,,,,,,,,
+118226,q & more ltd,,,,,,,,,,
+118227,q & q buildings ltd,,,,,,,,,,
+118228,q and m property ltd,,,,,,,,,,
+118229,q and q limited,,,,,,,,,,
+118230,q &  n ltd,,,,,,,,,,
+118231,q and p trade ltd,,,,,,,,,,
+118233,q & n nail spa ltd,,,,,,,,,,
+118234,q & q control services uk limited,,,,,,,,,,
+118235,q & q consultant ltd,,,,,,,,,,
+118236,q & q construction ltd,,,,,,,,,,
+118237,q & q estate ltd,,,,,,,,,,
+118238,q & q holdings ltd.,,,,,,,,,,
+118240,q & q interiors ltd,,,,,,,,,,
+118241,q and quaint limited,,,,,,,,,,
+118242,q & q solutions ltd,,,,,,,,,,
+118244,q & s co. limited,,,,,,,,,,
+118246,q & r (launceston) ltd,,,,,,,,,,
+118247,q & s fine joinery ltd,,,,,,,,,,
+118248,q & s distilling co ltd,,,,,,,,,,
+118249,q & s diners limited,,,,,,,,,,
+118250,q & s property limited,,,,,,,,,,
+118251,q & s properties ltd,,,,,,,,,,
+118252,q and s pharma solutions limited,,,,,,,,,,
+118253,q and r limited,,,,,,,,,,
+118254,q & s property maintenance services ltd,,,,,,,,,,
+118255,q and s pharma limited,,,,,,,,,,
+118256,q & s property management ltd,,,,,,,,,,
+118257,q & t gifts ltd,,,,,,,,,,
+118258,q & s 2012 ltd,,,,,,,,,,
+118259,q & s smart security limited,,,,,,,,,,
+118260,q & t grocery ltd,,,,,,,,,,
+118261,q and z consulting ltd,,,,,,,,,,
+118262,q & y international ltd,,,,,,,,,,
+118263,q & u ltd,,,,,,,,,,
+118266,q & t properties ltd,,,,,,,,,,
+118267,q animation & vfx production ltd,,,,,,,,,,
+118279,q a resolutions limited,,,,,,,,,,
+118280,q a south-west limited,,,,,,,,,,
+118281,q a solutions int ltd,,,,,,,,,,
+118282,q art construction ltd,,,,,,,,,,
+118283,q a s international limited,,,,,,,,,,
+118284,q associates services limited,,,,,,,,,,
+118285,q associates limited,,,,,,,,,,
+118286,q assets limited,,,,,,,,,,
+118288,q a t c (europe) limited,,,,,,,,,,
+118292,q assured ltd,,,,,,,,,,
+118296,q a vision limited,,,,,,,,,,
+118297,q ball lease company limited,,,,,,,,,,
+118304,q b a s limited,,,,,,,,,,
+118307,q beauty boutique limited,,,,,,,,,,
+118308,q beauty academy ltd,,,,,,,,,,
+118309,q beauty ltd,,,,,,,,,,
+118310,q beauty ltd,,,,,,,,,,
+118311,q bay holdings limited,,,,,,,,,,
+118314,q bees services ltd,,,,,,,,,,
+118316,q best games limited,,,,,,,,,,
+118317,q bee commercial cleaning ltd,,,,,,,,,,
+118320,q best order limited,,,,,,,,,,
+118322,q best times limited,,,,,,,,,,
+118324,q books limited,,,,,,,,,,
+118328,q books and accounts limited,,,,,,,,,,
+118332,q brands limited,,,,,,,,,,
+118334,q branch solutions ltd,,,,,,,,,,
+118337,q brothers ltd,,,,,,,,,,
+118338,q bridge music ltd,,,,,,,,,,
+118339,q bridge entertainment ltd,,,,,,,,,,
+118341,q building control ltd,,,,,,,,,,
+118342,q build pvt ltd,,,,,,,,,,
+118345,q build wakefield ltd,,,,,,,,,,
+118347,q build inspection consultancy services ltd,,,,,,,,,,
+118349,q build consultancy services ltd,,,,,,,,,,
+118351,q business consulting limited,,,,,,,,,,
+118352,q business services limited,,,,,,,,,,
+118353,q business hub ltd,,,,,,,,,,
+118355,q cafe ltd,,,,,,,,,,
+118357,q capital international partners ltd,,,,,,,,,,
+118358,q care assist ltd,,,,,,,,,,
+118359,q care and support ltd,,,,,,,,,,
+118363,q car valeting ltd,,,,,,,,,,
+118366,q care limited,,,,,,,,,,
+118367,q capital (london) limited,,,,,,,,,,
+118368,q cafe lounge ltd,,,,,,,,,,
+118372,q chicken take away limited,,,,,,,,,,
+118374,q cleaners ltd,,,,,,,,,,
+118375,q claydene farm limited,,,,,,,,,,
+118376,q clarke tm ltd,,,,,,,,,,
+118377,q claims management ltd,,,,,,,,,,
+118378,q claims limited,,,,,,,,,,
+118379,q city ltd,,,,,,,,,,
+118384,q commercial access ltd,,,,,,,,,,
+118385,q commercial ltd.,,,,,,,,,,
+118394,q corporation ltd,,,,,,,,,,
+118395,q core ltd,,,,,,,,,,
+118396,q contracts ltd,,,,,,,,,,
+118397,q contractors ltd,,,,,,,,,,
+118398,q contracting ltd,,,,,,,,,,
+118400,q consulting solutions limited,,,,,,,,,,
+118401,q consulting group ltd,,,,,,,,,,
+118404,q day nurseries limited,,,,,,,,,,
+118406,q data services ltd,,,,,,,,,,
+118410,q & s rentals ltd,,,,,,,,,,
+118411,q & s developments ltd,,,,,,,,,,
+118412,q -aura ltd,,,,,,,,,,
+118414,q delivery services limited,,,,,,,,,,
+118417,q despatch (west) limited,,,,,,,,,,
+118418,q developers international ltd,,,,,,,,,,
+118420,q design house ltd,,,,,,,,,,
+118421,q design group ltd,,,,,,,,,,
+118422,q design developments ltd,,,,,,,,,,
+118423,q design homes ltd,,,,,,,,,,
+118425,q design & marketing ltd,,,,,,,,,,
+118426,q design & build ltd,,,,,,,,,,
+118430,q dental care limited,,,,,,,,,,
+118431,q delta ltd,,,,,,,,,,
+118434,q developments ltd,,,,,,,,,,
+118437,q direct ltd,,,,,,,,,,
+118446,q. d. p. services limited,,,,,,,,,,
+118447,q' dos (liverpool) limited,,,,,,,,,,
+118449,q developments 2 limited,,,,,,,,,,
+118452,q empire ltd,,,,,,,,,,
+118454,q e paving (south wales & west) limited,,,,,,,,,,
+118455,q entertainment ltd,,,,,,,,,,
+118457,q enterprises uk limited,,,,,,,,,,
+118462,q electrikal ltd,,,,,,,,,,
+118463,q electricals services ltd,,,,,,,,,,
+118468,q 888 limited,,,,,,,,,,
+118473,q care & special care limited,,,,,,,,,,
+118481,q court (uk) limited,,,,,,,,,,
+118484,q court freehold cambridge ltd,,,,,,,,,,
+118485,q consulting (bristol) limited,,,,,,,,,,
+118486,q consultants ltd,,,,,,,,,,
+118487,q consulting ltd,,,,,,,,,,
+118494,q club (glasgow) limited,,,,,,,,,,
+118495,q club lounge ltd,,,,,,,,,,
+118496,q club (chinatown) ltd,,,,,,,,,,
+118498,q clothing company limited,,,,,,,,,,
+118499,q clinic experts in aesthetics ltd,,,,,,,,,,
+118500,q clinic ltd,,,,,,,,,,
+118502,q clean services ltd,,,,,,,,,,
+118503,q cleaning ltd,,,,,,,,,,
+118506,q central limited,,,,,,,,,,

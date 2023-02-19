@@ -1,683 +1,887 @@
-ID,name,country,headquarters,address,founded,employees,market_cap,revenue,profit,industry,sector,categories,ceo;
-48,jana small finance bank,,,,2006,,,,,banking,,,;
-34081,jpmorgan chase,united states,,,,,doll_410.84 b,,,,,,;
-6661,jsw steel,india,,,,,,,,,,,;
-100,jll,,,,1997,,,,,real estate,,,;
-103,justdial,,,,1996,,,,,internet,,,;
-4883,john energy,,,,2001,,,,,it services & consulting,,,;
-37315,jk cement,india,,,,,doll_2.75 b,,,,,,;
-269,jmc projects,,,,1982,,,,,engineering & construction,,,;
-370,jk tyres,,,,1951,,,,,auto components,,,;
-62215,johnson outdoors,united states,,,,,,,,,,,;
-382,jcb,,,,1945,,,,,industrial machinery,,,;
-422,jet airways,,,,1993,,,,,aviation,,,;
-144902,jubilant foodworks,india,,,,,,,,,,,;
-66817,johnson & johnson,united states,,,,,doll_475.93 b,,,,,,;
-554,j. kumar infraprojects,,,,1980,,,,,engineering & construction,,,;
-8938,jindal itf,,,,2007,,,,,engineering & construction,,,;
-643,jw marriott,,,,1927,,,,,hospitality,,,;
-4320,jubilant pharmova,india,,,,,,,,,,,;
-791,jaquar,,,,1960,,,,,furniture & furnishing,,,;
-801,jaypee cement,,,,2009,,,,,building material,,,;
-22400,jacobs engineering,united states,,,,,,,,,,,;
-1011,jtekt,,,,2006,,,,,auto components,,,;
-61345,jain irrigation systems,india,,,,,doll_0.25 b,,,,,,;
-1156,jiomart,,,,0,,,,,,,,;
-1329,jabil circuit india,,,,1966,,,,,electronics manufacturing,,,;
-1346,jk paper,,,,1962,,,,,pulp & paper,,,;
-1366,jaro education,,,,2009,,,,,edtech,,,;
-1505,jk tech,,,,1994,,,,,it services & consulting,,,;
-1553,j k fenner,,,,1987,,,,,engineering & construction,,,;
-1610,jcet group,china,,,,,,,,,,,;
-1652,jiva ayurvedic pharmacy,,,,1992,,,,,healthcare,,,;
-1694,jtekt sona automotive india,,,,2007,,,,,auto components,,,;
-146334,jm financial,india,,,,,,,,,,,;
-1912,jbs enterprises,,,,1987,,,,,electronics manufacturing,,,;
-1917,jio platforms,,,,0,,,,,it services & consulting,,,;
-2068,jamna auto industries,,,,1954,,,,,auto components,,,;
-2166,jyoti cnc automation,,,,1989,,,,,industrial machinery,,,;
-2314,jumio,,,,2010,,,,,it services & consulting,,,;
-2359,jetking infotrain,,,,1947,,,,,edtech,,,;
-2404,johnson controls hitachi air conditioning,,,,0,,,,,consumer electronics & appliances,,,;
-2455,jeeves consumer services,,,,2007,,,,,consumer electronics & appliances,,,;
-2515,jupiter hospital,,,,2007,,,,,healthcare,,,;
-2615,joyalukkas,,,,1987,,,,,retail,,,;
-2667,jubilant agri and consumer products,,,,2010,,,,,chemicals,,,;
-2678,jay chemical industries,,,,1967,,,,,chemicals,,,;
-2689,jsw energy,india,,,,,doll_5.41 b,,,,,,;
-137635,juniper networks,united states,,,,,doll_11.66 m,,,,,,;
-2704,jockey,,,,1876,,,,,fashion & textile,,,;
-2864,joulestowatts business solutions,,,,2015,,,,,it services & consulting,,,;
-5369,jsw paints,,,,2016,,,,,chemicals,,,;
-3573,jain university,,,,2009,,,,,education & training,,,;
-43875,jagran prakashan,india,,,,,doll_0.24 b,,,,,,;
-3593,jaipur rugs,,,,1978,,,,,import & export,,,;
-3905,jay ushin,,,,1959,,,,,auto components,,,;
-3923,jaguar land rover,,,,2008,,,,,automobile,,,;
-4002,jsg group,,,,2010,,,,,auto components,,,;
-4024,jaguar security services,,,,1990,,,,,law enforcement & security,,,;
-4069,jade global,,,,2003,,,,,it services & consulting,,,;
-4148,jgc corporation,,,,1928,,,,,engineering & construction,,,;
-4192,jk agri genetics,,,,1989,,,,,biotechnology,,,;
-4233,jitm skills,,,,2013,,,,,education & training,,,;
-4227,jct,,,,1946,,,,,fashion & textile,,,;
-4352,jmr infotech,,,,2007,,,,,it services & consulting,,,;
-4387,jbf industries,,,,1982,,,,,fashion & textile,,,;
-4396,jaiprakash power ventures,,,,1994,,,,,power,,,;
-4417,jaslok hospital and research centre,,,,1973,,,,,healthcare,,,;
-181291,joannou & paraskevaides,,guernsey,,1961,,,,,industrials,heavy construction,,;
-4568,jp infra,,,,2006,,,,,real estate,,,;
-4692,jabong,,,,2011,,,,,internet,,,;
-4763,j. c. penney,,,,1902,,,,,retail,,,;
-4866,jeena & company,,,,1900,,,,,logistics,,,;
-4894,jay jay mills,,,,1971,,,,,fashion & textile,,,;
-4941,jbm auto components,,,,1983,,,,,auto components,,,;
-5094,jyote motors,,,,1996,,,,,automobile,,,;
-5162,jasper industries,,,,1955,,,,,other,,,;
-5282,jayem automotives,,,,1991,,,,,auto components,,,;
-5317,joyson safety systems,,,,1997,,,,,auto components,,,;
-5397,jms mining services,,,,2002,,,,,metals & mining,,,;
-5412,jasmin infotech,,,,1998,,,,,hardware & networking,,,;
-5416,jamia hamdard university,,,,1989,,,,,education & training,,,;
-5565,j g hosiery,,,,0,,,,,fashion & textile,,,;
-5585,jaipur national university,,,,2007,,,,,education & training,,,;
-5607,japfa comfeed,,,,1995,,,,,agriculture,,,;
-5668,john deere financial,,,,1837,,,,,nbfc,,,;
-5777,jehangir hospital,,,,1946,,,,,healthcare,,,;
-5916,john crane sealing systems india,,,,2012,,,,,industrial machinery,,,;
-5919,j pan tubular components,,,,2007,,,,,industrial machinery,,,;
-6057,jsw severfield structures,,,,2009,,,,,engineering & construction,,,;
-6122,jamboree education,,,,1993,,,,,edtech,,,;
-6154,john cockerill,,,,1986,,,,,architecture & interior design,,,;
-6219,j&f,,,,2017,,,,,engineering & construction,,,;
-6381,jamia millia islamia,,,,1920,,,,,education & training,,,;
-6390,jwil,,,,0,,,,,facility management services,,,;
-6445,jharkhand state livelihood promotion society,,,,2009,,,,,government,,,;
-6454,jasper colin research,,,,2008,,,,,analytics & kpo,,,;
-6627,jpm industries,,,,1959,,,,,industrial machinery,,,;
-6796,jumbo electronics,,,,1974,,,,,retail,,,;
-6813,jawed habib hair & beauty,,,,2006,,,,,retail,,,;
-6906,john distilleries,,,,1996,,,,,beverage,,,;
-7043,j&k bank,,,,1938,,,,,banking,,,;
-44514,jbm auto,india,,,,,doll_0.78 b,,,,,,;
-7095,jaypee brothers medical publishers,,,,1969,,,,,printing & publishing,,,;
-7106,jobby engineers,,,,1970,,,,,engineering & construction,,,;
-22400,jacobs engineering,united states,,,,,,,,,,,;
-7227,jal international,,,,1985,,,,,oil & gas,,,;
-7358,jm frictech,,,,2008,,,,,industrial machinery,,,;
-7365,jaycee punching solution,,,,2007,,,,,electronics manufacturing,,,;
-7415,jai kisan,,,,2017,,,,,internet,,,;
-7491,jivo wellness,,,,2008,,,,,fmcg,,,;
-7560,jconnect infotech,,,,2008,,,,,recruitment,,,;
-7805,jaac techno services,,,,2009,,,,,industrial machinery,,,;
-7880,jpal,,,,2003,,,,,analytics & kpo,,,;
-7992,jain farm fresh foods,,,,1963,,,,,fmcg,,,;
-8161,junglee games,,,,2012,,,,,it services & consulting,,,;
-8177,jrg automotive india,,,,2007,,,,,auto components,,,;
-8338,jsl stainless,,,,1970,,,,,iron & steel,,,;
-8359,juma al majid group,,,,1950,,,,,engineering & construction,,,;
-39844,jaypee group,india,,,,,doll_0.29 b,,,,,,;
-8768,jumbo finvest india,,,,1998,,,,,nbfc,,,;
-8799,jungleworks,,,,2017,,,,,software product,,,;
-8816,joister infomedia,,,,2002,,,,,internet,,,;
-8835,jaguar overseas,,,,1991,,,,,engineering & construction,,,;
-8870,jayabheri automotives,,,,1987,,,,,engineering & construction,,,;
-8916,jsw ispat special products,,,,0,,,,,iron & steel,,,;
-8986,jasubhai engineering pvt.ltd,,,,1967,,,,,engineering & construction,,,;
-9179,johari digital healthcare,,,,0,,,,,healthcare,,,;
-9247,jk organisation,,,,1888,,,,,auto components,,,;
-9379,juniper green energy,,,,2018,,,,,power,,,;
-9518,jhajharia nirman,,,,2008,,,,,engineering & construction,,,;
-9533,java r & d,,,,2008,,,,,it services & consulting,,,;
-9534,jocata financial advisory and technology,,,,2010,,,,,financial services,,,;
-9557,jss medical research,,,,1985,,,,,clinical research,,,;
-9683,jaipur golden transport,,,,1948,,,,,logistics,,,;
-9723,jp associates,,,,0,,,,,real estate,,,;
-9740,jipmer,,,,1964,,,,,education & training,,,;
-148480,jabil,united states,,,,,doll_10.58 b,,,,,,;
-9843,jabra connect,,,,2001,,,,,consumer electronics & appliances,,,;
-9865,just buy live enterprise,,,,2015,,,,,retail,,,;
-10377,jakardennoãå(12426810),,,,,,,,,,,,;
-10378,janekpiispanen(11791571),,,                        Harju maakond Keila linn Allika tn 2-37 76607                            ,,,,,,,,,;
-10379,janiviksparepartsoãå(14957397),,,                        Ida-Viru maakond Kohtla-JÃÂ¤rve linn JÃÂ¤rve linnaosa Sakala tn 3-13 30326                            ,,,,,,,,,;
-10380,jan-kasparkaasik,,,                        Harju maakond Tallinn Kesklinna linnaosa F. R. Faehlmanni tn 8-11 10125                            ,,,,,,,,,;
-10381,jdspacetechoãå(16610462),,,                        Tartu maakond Tartu linn Tartu linn Sangla tn 25-2 50407                            ,,,,,,,,,;
-10382,jespaoãå(12559758),,,                        Tartu maakond Tartu linn Tartu linn Raatuse tn 47 50603                            ,,,,,,,,,;
-10384,jetairspaceoãå(14797522),,,                        Harju maakond Tallinn Kesklinna linnaosa TornimÃÂ¤e tn 7-132 10145                            ,,,,,,,,,;
-10385,jivaspaoãå(14148290),,,                        LÃÂ¤ÃÂ¤ne maakond Haapsalu linn Haapsalu linn Jalaka tn 1a-13 90509                            ,,,,,,,,,;
-10387,jllt-servicesoãå(12186346),,,,,,,,,,,,;
-10388,joikoãå(11692691),,,                        Harju maakond Saku vald TÃÂ¤nassilma kÃÂ¼la TÃÂ¤nassilma tee 27 76406                            ,,,,,,,,,;
-10389,jr-rakennuspalveluosaãâ¼hing(11072014),,,,,,,,,,,,;
-10390,juhtimispartneroãå(11447299),,,                        Harju maakond Tallinn PÃÂµhja-Tallinna linnaosa Helme tn 7b-48 10614                            ,,,,,,,,,;
-11400,jupiterone,united states,,,2018,,,,,cybersecurity,,,;
-13608,joytunes,israel,,,,,,,,edtech,,,;
-11650,jimubox,china,,,,,,,,fintech,,,;
-144032,jiuxian,china,,,,,,,,,,,;
-144034,juanpi,china,,,,,,,,,,,;
-11817,jmgo,china,,,,,,,,hardware,,,;
-13282,jaguar microsystems,china,,,,,,,,hardware,,,;
-11907,justworks,united states,,,,,,,,internet software & services,,,;
-13176,jolly information technology,china,,,,,,,,e-commerce & direct-to-consumer,,,;
-13168,jasper,united states,,,,,,,,artificial intelligence,,,;
-13120,jusfoun big data,china,,,,,,,,data management & analytics,,,;
-183810,jeeves,,,,1992,,,,,fintech,,,;
-102062,jobandtalent,spain,,,,,,doll_352.88 m,,,technology,,;
-12232,jetti resources,united states,,,,,,,,other,,,;
-12240,jumpcloud,united states,,,,,,,,data management & analytics,,,;
-12584,juul labs,united states,,,,,,,,,,,;
-94596,japan tobacco,japan,,,,,doll_30.53 b,,,,,,;
-46849,japan post holdings,japan,,,,,doll_31.41 b,,,,,,;
-56195,j. b. hunt,united states,,,,,doll_18.93 b,,,,,,;
-67588,j.m. smucker company,united states,,,,,doll_15.88 b,,,,,,;
-35745,jones lang lasalle,united states,,,,,,,,,,,;
-29111,jabal omar development,saudi arabia,,,,,doll_5.40 b,,,,,,;
-20162,john bean technologies,united states,,,,,doll_3.14 b,,,,,,;
-15322,janus international group,united states,,,,,doll_1.49 b,,,,,,;
-155873,jindal stainless (hisar),india,,,,,doll_1.36 b,,,,,,;
-54531,jakks pacific,united states,,,,,doll_0.20 b,,,,,,;
-33501,jay bharat maruti,india,,,,,doll_84.01 m,,,,,,;
-154504,jianzhi education technology group,china,,,,,doll_0.13 b,,,,,,;
-33216,joann,united states,,,,,doll_0.14 b,,,,,,;
-62321,j.jill,united states,,,,,doll_0.25 b,,,,,,;
-42660,jci hitachi india,india,,,,,doll_0.37 b,,,,,,;
-39585,jindal poly films,india,,,,,doll_0.40 b,,,,,,;
-17188,jtekt india,india,,,,,doll_0.42 b,,,,,,;
-32160,jfe holdings,japan,,,,,,,,,,,;
-156160,james river group,bermuda,,,,,doll_0.78 b,,,,,,;
-64707,juventus turin,italy,,,,,doll_0.95 b,,,,,,;
-67072,jeld-wen,united states,,,,,doll_0.94 b,,,,,,;
-31557,jindal worldwide,india,,,,,doll_1.03 b,,,,,,;
-31397,jamieson wellness,canada,,,,,doll_1.11 b,,,,,,;
-45281,jasa marga,indonesia,,,,,doll_1.51 b,,,,,,;
-30948,jindal stainless,india,,,,,doll_1.65 b,,,,,,;
-42368,jyp entertainment,south korea,,,,,doll_1.70 b,,,,,,;
-131202,jeudan,denmark,,,,,,,,,,,;
-37574,jumbo s.a.,greece,,,,,doll_2.34 b,,,,,,;
-37317,joyy,china,,,,,doll_2.76 b,,,,,,;
-19113,j&j snack foods,united states,,,,,doll_2.77 b,,,,,,;
-37096,jungheinrich,germany,,,,,doll_3.68 b,,,,,,;
-93290,jde peet's,netherlands,,,,,doll_14.94 b,,,,,,;
-19757,jet2,united-kingdom,,,,,doll_2.84 b,,,,,airlines travel transportation ,;
-37549,jinko solar,china,,,,,doll_2.95 b,,,,,,;
-19933,jamf,united states,,,,,doll_2.39 b,,,,,,;
-20100,jetblue airways,united states,,,,,doll_2.78 b,,,,,,;
-30248,joby aviation,united states,,,,,doll_2.61 b,,,,,,;
-92932,jackson financial,united states,,,,,doll_2.98 b,,,,,,;
-150947,japan airport terminal,japan,,,,,doll_3.65 b,,,,,,;
-138944,jcdecaux,france,,,,,,,,,,,;
-20255,jarir,saudi-arabia,,,,,doll_4.81 b,,,,,retail ,;
-150788,jb hi-fi,australia,,,,,doll_3.83 b,,,,,,;
-20692,janus henderson,united-kingdom,,,,,doll_4.45 b,,,,,asset-management investment ,;
-150851,jyske bank,denmark,,,,,doll_3.98 b,,,,,,;
-50726,jollibee,philippines,,,,,doll_4.80 b,,,,,,;
-20906,jabal omar development,saudi-arabia,,,,,doll_5.45 b,,,,,real-estate ,;
-21148,japan real estate investment,japan,,,,,doll_5.89 b,,,,,,;
-178945,just eat takeaway,netherlands,,,,,,,,,,,;
-57120,jindal steel & power,india,,,,,doll_7.54 b,,,,,,;
-137604,japan exchange group,japan,,,,,doll_7.68 b,,,,,,;
-56867,jbs,brazil,,,,,doll_17.48 b,,,,,,;
-137122,james hardie industries,ireland,,,,,doll_9.19 b,,,,,,;
-138112,jazz pharmaceuticals,ireland,,,,,doll_8.26 b,,,,,,;
-35265,julius bär,switzerland,,,,,,,,,,,;
-49502,jack henry & associates,united states,,,,,doll_13.04 b,,,,,,;
-183397,jerónimo martins,portugal,,,,,,,,,,,;
-149473,jardine cycle & carriage,singapore,,,,,doll_8.37 b,,,,,,;
-94208,jefferies financial group,united states,,,,,doll_7.68 b,,,,,,;
-154211,japan airlines,japan,,,,,,,,,,,;
-48452,jingdong mall,china,,,,,doll_113.48 b,,,,,,;
-66306,jd sports fashion,,,,,73.519,doll_10.23 b,doll_11.47 b,doll_0.87 b,,,,;
-184263,jardine matheson,hong kong,,,,,doll_15.89 b,,,,,,;
-146913,jiangsu hengrui medicine,china,,,,,doll_36.90 b,,,,,,;
-23008,jd health,china,,,,,doll_27.44 b,,,,,,;
-53184,jin air,s. korea,,,,,doll_0.71 b,,,,,,;
-23615,jupiter fund management,united-kingdom,,,,,doll_0.98 b,,,,,asset-management investment ,;
-142594,john wood group,,,,,33.1,doll_1.32 b,doll_6.40 b,-doll_80.6 m,,,,;
-142720,jack in the box,united states,,,,,doll_1.57 b,,,,,,;
-52388,jastrzebska spólka weglowa,poland,,,,,doll_1.52 b,,,,,,;
-59235,jenoptik,germany,,,,,,,,,,,;
-62368,jfrog,united states,,,,,doll_2.23 b,,,,,,;
-58786,john wiley & sons,united states,,,,,doll_2.44 b,,,,,,;
-58985,jbg smith,united states,,,,,doll_2.23 b,,,,,,;
-33951,jeffs' brands,israel,,,,,doll_10.9 m,,,,,,;
-24705,jaguar health,united states,,,,,doll_14.36 m,,,,,,;
-41162,janone,united states,,,,,doll_5.13 m,,,,,,;
-55140,journey medical,united states,,,,,doll_29.13 m,,,,,,;
-63304,jounce therapeutics,united states,,,,,doll_63.58 m,,,,,,;
-64488,jumia,germany,,,,,doll_0.40 b,,,,,,;
-29319,jarir,s. arabia,,,,,doll_5.05 b,,,,,,;
-29472,janus henderson,uk,,,,,doll_7.47 m,,,,,,;
-30152,jet2,uk,,,,,doll_2.79 b,,,,,,;
-31745,jupiter fund management,uk,,,,,doll_1.97 b,,,,,,;
-63455,journey medical,,,,,90.0,doll_44.94 m,doll_75.22 m,-doll_26.88 m,,,,;
-70534,johnson controls international plc,ireland,,,,,doll_48.15 b,,,,industrials,,;
-70112,jbs sa,brazil,,,,,doll_19.53 b,,,packaged foods,consumer staples,,;
-73259,j sainsbury plc,united kingdom,,,,,doll_7.17 b,,,,consumer staples,,;
-73272,janus henderson group plc,united kingdom,,,,,doll_6.10 b,,,asset management,financials,,;
-73333,jtc plc,united kingdom,,,,,doll_1.49 b,,,travel services,financials,,;
-88450,jpmorgan emerging markets investment trust,uk,,,,,,,,,,,;
-73812,james latham plc,united kingdom,,,,,doll_321.3 m,,,building products & equipment,industrials,,;
-73459,jupiter fund management plc,united kingdom,,,,,doll_1.50 b,,,asset management,financials,,;
-73488,jd wetherspoon plc,united kingdom,,,,,doll_1.31 b,,,restaurants,consumer discretionary,,;
-73506,just group plc,united kingdom,,,,,doll_1.18 b,,,insurancespecialty,financials,,;
-73858,jpmorgan global growth & income,united kingdom,,,,,,,,,,,;
-73630,john menzies plc,united kingdom,,,,,doll_682.5 m,,,airports & air services,industrials,,;
-73678,judges scientific plc,united kingdom,,,,,doll_545.0 m,,,scientific & technical instruments,technology,,;
-73703,jpmorgan elect plc managed growth,united kingdom,,,,,doll_492.6 m,,,asset management,financials,,;
-73732,jubilee metals group plc,united kingdom,,,,,doll_445.2 m,,,other industrial metals & mining,basic materials,,;
-73861,jpmorgan global core real assets limited,,,,,,doll_265.1 m,,,,,,not found;
-73911,jersey electricity plc,united kingdom,,,,,0,,,utilitiesregulated electric,utilities,,;
-73913,james fisher and sons plc,united kingdom,,,,,doll_220.3 m,,,specialty business services,industrials,,;
-73931,jupiter us smaller companies plc,united kingdom,,,,,0,,,asset management,financials,,;
-73995,james cropper plc,united kingdom,,,,,doll_154.7 m,,,paper & paper products,basic materials,,;
-79072,js real estate multigestao - fii fund,,not found,,,not found,doll_1.54 b,,,,,,not found;
-146664,jd.com,china,,,,,doll_68.56 b,,,,,,;
-95072,jinke property group,china,,,,,doll_3.73 b,,,,,,;
-148580,jiangsu expressway company,china,,,,,doll_5.72 b,,,,,,;
-93166,jiangsu zhongnan construction group,china,,,,,doll_2.46 b,,,,,,;
-95178,julius baer group,switzerland,,,,,doll_10.34 b,,,,,,;
-93181,joint stock commercial bank for foreign trade of vietnam,united states,,,,,doll_16.94 b,doll_3.91 b,,,,,;
-147552,j.b. hunt transport services,united states,,,,,doll_18.66 m,,,,,,;
-93360,jabil circuit,united states,,,,,doll_8.11 b,doll_30.74 b,doll_807.5 m,,,,;
-93433,jiangsu yanghe brewery joint-stock,china,,,,,doll_8.27 m,,,,,,;
-93740,jm smucker,united states,,,,,doll_15.43 b,doll_7.88 b,doll_574.8 m,,,,;
-96861,japan securities,japan,,,,272,,doll_274 m,,,,,;
-152808,jiangxi bank,china,,,,,doll_2.16 b,,,,,,;
-93994,juroku  financial group,japan,,,,,doll_626 m,doll_1.04 b,doll_138.8 m,,,,;
-94034,jointown pharmaceutical group,china,,,,,doll_3.67 b,,,,,,;
-99250,journi print,austria,,,,29.0,,doll_6.85 m,,,ecommerce,,;
-98304,jl&p,france,,,,15.0,,doll_2.21 m,,,energy,,;
-102464,jmb,poland,,,,381,,doll_70.18 m,,,energy,,;
-102974,joannes distribution sas,france,,,,8.0,,doll_7.06 m,,,retail,,;
-103712,join business management consulting,italy,,,,77,,doll_10.19 m,,,management consulting,,;
-98967,james and james fulfilment,uk,,,,158.0,,doll_30.89 m,,,ecommerce,,;
-97992,jens rabe academy,germany,,,,20.0,,doll_3.66 m,,,education,,;
-99037,jointly il welfare condiviso,italy,,,,34.0,,doll_2.4 m,,,support services,,;
-100399,jayride group,australia,,,,112,,doll_2.84 m,,,travel & leisure,,;
-100529,jungle creations,united kingdom,,,,135,,doll_11.7 m,,,media,,;
-100473,jco jewelry,singapore,,,,21,,doll_6.13 m,,,ecommerce,,;
-100478,jeju angel car,south korea,,,,25,,doll_4.49 m,,,travel & leisure,,;
-100637,j-pm systems,germany,,,,72,,doll_29.26 m,,,industrial goods,,;
-100803,jati group,indonesia,,,,32,,doll_22.48 m,,,transport,,;
-100868,jooren,japan,,,,31,,doll_1.45 m,,,technology,,;
-100949,japan flange direct,japan,,,,1,,doll_2.47 m,,,industrial goods,,;
-101173,jetsetgo,india,,,,57,,doll_20.62 m,,,travel & leisure,,;
-101206,jia,japan,,,,178,,doll_153.02 m,,,financial services,,;
-101760,jac recruitment,japan,,,,1433,,doll_222.17 m,,,support services,,;
-101811,jayshree grain,india,,,,200,,doll_20.02 m,,,food & beverage,,;
-101857,jbr capital,united kingdom,,,,45,,doll_18.66 m,,,financial services,,;
-101865,jam,netherlands,,,,9,,doll_2.8 m,,,support services,,;
-101908,jentech,taiwan,,,,1922,,doll_177.47 m,,,technology,,;
-101927,j sol medical,japan,,,,21,,doll_4.64 m,,,health,,;
-102129,jpspl - jp structures,india,,,,100,,doll_44.78 m,,,construction,,;
-102497,jsc medium group,lithuania,,,,18,,doll_3.00 m,,,transport,,;
-103137,jutta product,finland,,,,4,,doll_1.84 m,,,fashion,,;
-103343,jr service,germany,,,,59,,doll_2.22 m,,,support services,,;
-103372,juan francisco alcazar,spain,,,,10,,doll_2.89 m,,,industrial goods,,;
-103553,j. toldos reciclajes manchegos,spain,,,,20,,doll_2.32 m,,,waste management & recycling,,;
-103762,justpark parking,united kingdom,,,,63,,doll_5.98 m,,,technology,,;
-103783,jsc intermodal container service,lithuania,,,,23,,doll_5.90 m,,,transport,,;
-103847,jb carconcept,germany,,,,19,,doll_4.15 m,,,automobiles,,;
-103918,jura direkt,germany,,,,25,,doll_3.05 m,,,technology,,;
-104017,j-labs,poland,,,,284,,doll_12.42 m,,,technology,,;
-104123,japcook,france,,,,12,,doll_11.02 m,,,agricultural commodities,,;
-104154,just eat**,united kingdom,,,,3290,,doll_880.81 m,,,ecommerce,,;
-104707,james and james fulfilment,united kingdom,,,,100,,doll_10.5 m,,,ecommerce,,;
-104824,jones knowles ritchie,united kingdom,,,,258,,doll_45.91 m,,,sales & marketing,,;
-104893,jobvertising crossmedia,germany,,,,24,,doll_14.7 m,,,support services,,;
-105025,join business,italy,,,,25,,doll_3.1 m,,,management consulting,,;
-111505,jay & s construction ltd,,,flat28 westcentral 1astokeroad slough england sl25pe,,,,,,,,,;
-114081,john j finances ltd,,,,,,,,,,,,;
-114082,jlf finances ltd,,,,,,,,,,,,;
-123232,johnson controls italia srl,italy,,,,,,,,,,,;
-119622,johnson electric asti srl,italy,,,,,,,,,,,;
-119769,j.p. morgan trust company (jersey) limited,united kingdom,,,,,,,,,,,;
-119797,johnson electric international (uk) limited,united kingdom,,,,,,,,,,,;
-119877,j.h. fenner & co. limited,united kingdom,,,,,,,,,,,;
-120041,jurassic fibre limited,united kingdom,,,,,,,,,,,;
-123201,johnson & johnson ab eesti filiaal,estonia,,,,,,,,,,,;
-120100,jimlar corporation,united states,,,,,,,,,,,;
-122836,j.c. bamford excavators limited,united kingdom,,,,,,,,,,,;
-122840,javelin global commodities (uk) ltd,united kingdom,,,,,,,,,,,;
-122872,j resources gold (uk) limited,united kingdom,,,,,,,,,,,;
-120351,jost (great britain) limited,united kingdom,,,,,,,,,,,;
-123267,j.c.b. service,united kingdom,,,,,,,,,,,;
-120513,jcb finance ltd,united kingdom,,,,,,,,,,,;
-120855,jpf api laminates uk limited,united kingdom,,,,,,,,,,,;
-121417,john mills limited,united kingdom,,,,,,,,,,,;
-122891,john brown us llc,united states,,,,,,,,,,,;
-123011,justin vineyards & winery llc,united states,,,,,,,,,,,;
-121213,jardine motors group uk limited,united kingdom,,,,,,,,,,,;
-124084,johnson matthey davy technologies limited,united kingdom,,,,,,,,,,,;
-121396,john k.king & sons limited,united kingdom,,,,,,,,,,,;
-122232,jrl plant and logistics limited,united kingdom,,,,,,,,,,,;
-122288,john wood group us holdings inc,united states,,,,,,,,,,,;
-122397,j.p. morgan energy trading holdings ltd,united kingdom,,,,,,,,,,,;
-122410,juliet holding spa,italy,,,,,,,,,,,;
-122435,j.p. morgan investment management inc.,united states,,,,,,,,,,,;
-122515,jacobacci & partners spa,italy,,,,,,,,,,,;
-122530,jil sander,,,,,,,,,,,,;
-122657,jackson national life insurance company,united states,,,,,,,,,,,;
-124259,js products careers,,,,1986,,,,,wholesale,,,;
-124897,jade global careers,,,,2003,,,,,information technology & services,,,;
-125149,jda software careers,,,,1985,,,,,computer software,,,;
-162595,jmt network services public company,thailand,,,,,,,,,,,;
-152384,jiangsu financial leasing,china,,,,,,,,,,,;
-153988,jaws mustang acquisition corp,united states,,,,,,,,,,,;
-176384,juma,china,,,,,,,,,,,;
-144033,jollychic,china,,,,,,,,,,,;
-135226,japan asset marketing,japan,,,,,,,doll_49.0 m,,,,;
-146531,j p morgan chase & co,united states,,,,,doll_4.78 b,,,,,,william b. harrison jr.;
-146866,johnson controls international,united states,,,,,doll_53.4 m,,doll_1.64 b,,,,george oliver;
-136324,jardine strategic holdings,hong kong,,,,,doll_37.91 m,,,,,,david hsu;
-136676,jd digits,china,,,,,0,,,,,,;
-136776,jd health international inc,china,,,,,doll_31.39 m,,,,,,qiang dong liu;
-147538,jm family enterprises,united states,,,,,,,,,,,brent burns;
-136864,ja solar technology,china,,,,,doll_17.35 m,,,,,,;
-147646,jd logistics,china,,,,,doll_19.1 b,,,,,,;
-137035,jiangsu hengli hydraulic,china,,,,,doll_19.42 m,,doll_392.0 m,,,,;
-137190,jiangsu eastern shenghong,china,,,,,doll_22.41 m,,,,,,;
-137191,j. m. smucker company,united states,,,,,doll_13.4 m,,,,,,mark smucker;
-141163,jiugui liquor,china,,,,,doll_2.84 b,,,,,,;
-138029,j sainsbury,uk,,,,,doll_8.72 b,,doll_797.0 m,,,,;
-138978,jiangsu leike defense technology,china,,,,,doll_8.22 b,,,,,,;
-141244,justsystems corporation,japan,,,,,doll_7.41 m,,,,,,;
-138314,jason furniture (hangzhou),china,,,,,doll_7.57 b,,,,,,;
-149194,jafron biomedical,china,,,,,doll_6.81 b,,,,,,;
-138585,jiangsu expressway company,china,,,,,doll_6.57 b,,,,,,;
-153536,jiangsu chengxing phosph-chemicals,china,,,,,doll_1.07 b,,,,,,;
-138721,jarir marketing company,saudi arabia,,,,,doll_6.87 m,,,,,,;
-138807,juewei food,china,,,,,doll_5.81 m,,,,,,;
-138865,js global lifestyle company,hong kong,,,,,doll_8.25 m,,,,,,;
-139016,joinn laboratories (china),china,,,,,doll_7.49 m,,,,,,;
-139025,jiangsu yuyue medical equipment & supply,china,,,,,doll_4.89 m,,,,,,;
-139082,juneyao airlines co. ltd,china,,,,,doll_4.24 m,,,,,,;
-139360,jiangxi special electric motor,china,,,,,doll_6.45 m,,,,,,;
-139388,jiangsu cnano technology,china,,,,,doll_5.45 m,,,,,,;
-139390,jetblue airways corporation,united states,,,,,doll_4.8 b,,,,,,;
-139408,jonjee hi-tech industrial & commercial holding,china,,,,,,,,,,,;
-139555,jollibee foods corporation,philippines,,,,,doll_4.44 m,,,,,,;
-139596,jl mag rare-earth,china,,,,,doll_4.46 b,,,,,,;
-150369,jiangsu shuangxing color plastic new materials,china,,,,,doll_4.32 b,,,,,,;
-150466,jamf holding corp.,united states,,,,,doll_4.17 b,,,,,,;
-146475,jiangxi changjiu biochemical industry,china,,,,,doll_4.87 m,,,,,,;
-150601,joincare pharmaceutical group industry,china,,,,,doll_4.02 b,,doll_193.0 m,,,,;
-139942,jbg smith properties,united states,,,,,doll_3.99 b,,,,,,;
-150849,jiangsu shagang,china,,,,,doll_3.92 b,,,,,,;
-140277,j.k. cement,india,,,,,doll_3.64 b,,,,,,;
-168032,jet2 plc,uk,,,,,,,,,,,;
-140330,jilin electric power,china,,,,,doll_3.6 b,,,,,,;
-140378,jiangsu linyang energy,china,,,,,doll_3.13 m,,,,,,;
-151121,jinduicheng molybdenum,china,,,,,doll_4.38 m,,,,,,;
-140466,jeol,japan,,,,,doll_3.35 m,,,,,,;
-144673,jiangsu shemar electric,china,,,,,doll_1.27 b,,,,,,;
-140624,jilin aodong pharmaceutical group,china,,,,,doll_2.84 m,,,,,,;
-140625,jiangsu phoenix publishing & media corporation,china,,,,,doll_3.28 b,,,,,,;
-140743,jtekt corporation,japan,,,,,doll_3.12 m,,,,,,;
-140845,jm ab (publ),sweden,,,,,,,,,,,;
-140863,jiangsu pacific quartz co. ltd,china,,,,,doll_2.25 m,,,,,,;
-140874,jizhong energy resources,china,,,,,doll_3.07 b,,,,,,;
-151596,jinyu bio-technology,china,,,,,doll_2.66 m,,,,,,;
-140989,jiangsu nata opto-electronic material,china,,,,,doll_2.97 b,,,,,,;
-141009,jingjin environmental protection,china,,,,,doll_2.96 b,,,,,,;
-143885,jiangsu changshu rural commercial bank,china,,,,,doll_1.33 m,,,,,,;
-151732,joyoung,china,,,,,doll_2.93 b,,,,,,;
-141073,jmdc,japan,,,,,doll_2.9 b,,,,,,;
-141122,jolywood (suzhou) sunwatt,china,,,,,doll_2.87 b,,,,,,;
-141125,jasmine telecom systems public company,thailand,,,,,doll_2.87 b,,,,,,;
-141244,justsystems corporation,japan,,,,,doll_3.86 m,,doll_89.0 m,,,,;
-141248,jiangsu guomao reducer,china,,,,,doll_2.77 b,,,,,,;
-141278,jiangyin hengrun heavy industries co. ltd,china,,,,,doll_0.77 m,,,,,,;
-141301,japan logistics fund,japan,,,,,doll_2.81 m,,,,,,;
-141427,jiangsu xinquan automotive trim,china,,,,,doll_2.65 b,,,,,,;
-141438,jiangsu hoperun software,china,,,,,doll_2.63 b,,,,,,;
-141458,jiangsu broadcasting cable information network corporation,china,,,,,doll_2.27 m,,,,,,;
-141460,jiangsu provincial agricultural reclamation and development,china,,,,,doll_2.13 m,,,,,,;
-141461,jiumaojiu international holdings limited,china,,,,,doll_5.03 m,,,,,,;
-155139,jiangsu gian technology,china,,,,,doll_2.61 b,,,,,,;
-141487,japan steel works,japan,,,,,doll_1.79 m,,,,,,;
-141489,jinxin fertility group,china,,,,,doll_4.25 m,,,,,,;
-152282,jade bird fire,china,,,,,doll_2.51 b,,,,,,;
-141621,jiangsu hengshun vinegar-industry,china,,,,,doll_2.49 b,,,,,,;
-142761,jiangsu nhwa pharmaceutical co. ltd,china,,,,,doll_2.01 m,,,,,,;
-141627,jiangsu new energy development,china,,,,,doll_1.52 m,,,,,,;
-141663,jiangsu yulong steel pipe,china,,,,,doll_2.46 b,,,,,,;
-141734,jay mart public company,thailand,,,,,doll_2.41 b,,,,,,;
-141816,j. front retailing,japan,,,,,doll_2.34 b,,,,,,;
-141859,jubilant life sciences,india,,,,,0.0,,,,,,;
-141903,jeld-wen holding,united states,,,,,doll_2.54 m,,,,,,;
-141925,jgc holdings corporation,japan,,,,,doll_2.16 m,,doll_-259.0 m,,,,;
-141938,jiangsu lihua animal husbandry,china,,,,,doll_1.54 m,,,,,,;
-141972,jcr pharmaceuticals,japan,,,,,doll_3.25 m,,,,,,;
-142019,jianxi lianchuang opto-electronic science & technology,china,,,,,doll_2.19 m,,,,,,;
-142063,jinkosolar holding,china,,,,,doll_2.2 b,,,,,,;
-142147,jinlei technology,china,,,,,doll_1.28 m,,,,,,;
-156316,jinneng science&technology co. ltd,china,,,,,doll_2.44 m,,,,,,;
-142293,jihua group corporation limited,china,,,,,doll_1.92 m,,,,,,;
-178944,jumbo,,,,,,,,,consumer goods,,,;
-142422,jiangling motors corporation,china,,,,,doll_2.27 m,,,,,,;
-142466,jiangsu sanfangxiang industry co. ltd,china,,,,,doll_1.78 m,,,,,,;
-143193,jiangsu zhangjiagang rural commercial bank,china,,,,,doll_1.6 m,,,,,,;
-142657,jchx mining management,china,,,,,doll_1.96 m,,,,,,;
-142676,johnson electric holdings,hong kong,,,,,doll_2.15 m,,,,,,;
-142726,jinchuan group international resources,hong kong,,,,,doll_2.08 m,,,,,,;
-153629,jtc,uk,,,,,doll_1.78 b,,,,,,;
-142974,jentech precision industrial,taiwan,,,,,doll_1.77 b,,,,,,;
-143088,jinyuan ep,china,,,,,doll_0.8 m,,,,,,;
-143123,j. b. chemicals & pharmaceuticals,india,,,,,doll_1.84 m,,,,,,;
-153806,james halstead,uk,,,,,doll_1.71 b,,,,,,;
-143127,jih sun financial holding,taiwan,,,,,doll_1.71 b,,,,,,;
-143167,jack sewing machine,china,,,,,doll_1.7 b,,,,,,;
-175536,jiayuan international group,hong kong,,,,,,,,,,,;
-143199,jilin yatai (group),china,,,,,doll_1.69 b,,,,,,;
-143206,j d wetherspoon,uk,,,,,doll_2.01 m,,,,,,;
-143305,japan material,japan,,,,,doll_1.18 m,,,,,,;
-143351,jiangsu ankura smart transmission engineering technology co.ltd,china,,,,,doll_1.33 m,,,,,,;
-154050,jiangxi wannianqing cement,china,,,,,doll_1.62 b,,,,,,;
-143465,jtower,japan,,,,,doll_1.75 m,,,,,,;
-154157,japan aviation electronics industry,japan,,,,,doll_1.35 m,,,,,,;
-154338,japan elevator serviceholdings,japan,,,,,doll_2.36 m,,,,,,;
-143661,jiangsu jiuding new material,china,,,,,doll_1.97 m,,,,,,;
-143709,jiuzhitang,china,,,,,doll_1.49 b,,,,,,;
-143745,jiangsu shentong valve,china,,,,,doll_1.48 b,,,,,,;
-144127,jiangxi fushine pharmaceutical,china,,,,,doll_1.42 m,,,,,,;
-144157,jafco,japan,,,,,doll_1.63 m,,,,,,;
-154838,jins holdings,japan,,,,,doll_1.56 m,,,,,,;
-144330,jilin sino-microelectronics,china,,,,,doll_1.36 b,,,,,,;
-144333,jointo energy investment hebei,china,,,,,doll_1.22 m,,,,,,;
-144444,jiangsu jiangyin rural commercial bank,china,,,,,doll_1.25 m,,,,,,;
-144520,joy kie corporation limited.,china,,,,,doll_1.11 m,,,,,,;
-144521,jiangsu hongdou industrial co. ltd,china,,,,,doll_1.1 m,,,,,,;
-155203,jin tong ling technology group,china,,,,,doll_1.07 m,,,,,,;
-144590,japan petroleum exploration,japan,,,,,doll_1.29 b,,,,,,;
-144627,jiangxi hongcheng waterworks,china,,,,,doll_1.28 b,,,,,,;
-144631,jiangxi huangshanghuang group food,china,,,,,doll_1.1 m,,,,,,;
-144639,jiangyin haida rubber and plastic,china,,,,,doll_0.92 m,,,,,,;
-155346,jiangxi ganyue expressway,china,,,,,doll_1.27 b,,,,,,;
-144801,jiangsu kanion pharmaceutical,china,,,,,doll_0.89 m,,,,,,;
-144805,jiangsu rainbow heavy industries,china,,,,,doll_0.8 m,,,,,,;
-144860,j.s. corrugating machinery co. ltd,china,,,,,doll_1.22 b,,,,,,;
-145031,jiangxi huawu brake,china,,,,,doll_1.19 b,,,,,,;
-145048,just group plc,uk,,,,,doll_1.35 m,,,,,,;
-145151,jiang su suyan jingshen,china,,,,,doll_1.16 b,,,,,,;
-145167,jiangsu canlon building materials,china,,,,,doll_1.41 m,,,,,,;
-145240,jiangsu high hope international group corporation,china,,,,,doll_0.92 m,,,,,,;
-145242,jishi media,china,,,,,doll_1.14 b,,,,,,;
-155931,joeone,china,,,,,doll_1.13 b,,,,,,;
-145305,jiangsu changhai composite materials co. ltd,china,,,,,doll_1.21 m,,,,,,;
-145312,jiangsu leili motor co. ltd,china,,,,,doll_1.09 m,,,,,,;
-145362,jiangsu pacific precision forging,china,,,,,doll_1.11 b,,,,,,;
-145364,jiajia food group,china,,,,,doll_1.11 b,,,,,,;
-145367,jiayou international logistics,china,,,,,doll_0.68 m,,,,,,;
-145632,juventus football club,italy,,,,,doll_1.05 b,,,,,,;
-145706,john b. sanfilippo & son,united states,,,,,doll_1.04 b,,,,,,;
-145782,jumia technologies ag,germany,,,,,doll_1.01 b,,,,,,;
-145990,jk lakshmi cement,india,,,,,doll_1.16 m,,,,,,;
-146014,jiangxi guotai group,china,,,,,doll_0.84 m,,,,,,;
-146078,jiangsu zitian media technology co. ltd,china,,,,,doll_0.63 m,,,,,,;
-146112,jingwei textile machinery company,china,,,,,doll_965.0 m,,,,,,;
-146316,jiawei renewable energy,china,,,,,doll_940.0 m,,,,,,;
-146374,jiangsu olive sensors high-tech,china,,,,,doll_0.67 m,,,,,,;
-146418,john hancock financial opportunities fund,united states,,,,,doll_0.83 m,,,,,,;
-146480,john hancock tax-advantaged dividend income fund,united states,,,,,doll_0.87 m,,,,,,;
-147456,jd health international inc,china,,,,,doll_23.23 b,,doll_-169.0 m,,,,;
-149762,juneyao airlines co. ltd,china,,,,,doll_5.35 b,,doll_-72.0 m,,,,;
-151543,jiangsu pacific quartz co. ltd,china,,,,,doll_3.08 b,,0.0,,,,;
-152141,jiumaojiu international holdings limited,china,,,,,doll_2.61 b,,0.0,,,,;
-152307,jiangsu new energy development,china,,,,,doll_2.49 b,,0.0,,,,;
-152973,jihua group corporation limited,china,,,,,doll_2.08 b,,0.0,,,,;
-153146,jiangsu sanfangxiang industry co. ltd,china,,,,,doll_2.0 b,,0.0,,,,;
-153441,jianmin pharmaceutical group,china,,,,,doll_1.87 b,,0.0,,,,;
-154565,jiangsu suzhou rural commercial bank co. ltd,china,,,,,doll_1.43 b,,0.0,,,,;
-154595,jilin jiutai rural commercial bank corporation,china,,,,,doll_1.42 b,,0.0,,,,;
-154807,jiangxi fushine pharmaceutical,china,,,,,doll_1.41 b,,0.0,,,,;
-155200,joy kie corporation limited.,china,,,,,doll_1.31 b,,0.0,,,,;
-155201,jiangsu hongdou industrial co. ltd,china,,,,,doll_1.31 b,,0.0,,,,;
-155319,jiangyin haida rubber and plastic,china,,,,,doll_1.28 b,,0.0,,,,;
-155481,jiangsu kanion pharmaceutical,china,,,,,doll_1.24 b,,0.0,,,,;
-155485,jiangsu rainbow heavy industries,china,,,,,doll_1.24 b,,0.0,,,,;
-155539,jiangsu baichuan high-tech new materials co. ltd,china,,,,,doll_1.22 b,,0.0,,,,;
-155847,jiangsu canlon building materials,china,,,,,doll_1.15 b,,0.0,,,,;
-155862,jiangshan oupai door industry co. ltd,china,,,,,doll_1.15 b,,0.0,,,,;
-155920,jiangsu high hope international group corporation,china,,,,,doll_1.14 b,,0.0,,,,;
-155985,jiangsu changhai composite materials co. ltd,china,,,,,doll_1.12 b,,0.0,,,,;
-155992,jiangsu leili motor co. ltd,china,,,,,doll_1.12 b,,0.0,,,,;
-156758,jiangsu zitian media technology co. ltd,china,,,,,doll_982.0 m,,0.0,,,,;
-183809,j.lindeberg,,stockholm,,1997,,,,,consumer goods,clothing & accessories,,;
-183811,jernhusen,,stockholm,,2001,,,,,industrials,railroads,,;
-178336,jofa,,malung,,1926,,,,,consumer goods,recreational products,,;
-178337,jonsereds fabrikers ab,,jonsered,,1832,,,,,industrials,industrial machinery,,;
-178568,joma,,portillo de toledo,,1965,,,,,consumer goods,clothing & accessories,,;
-178656,j&t finance group,,bratislava,,1993,,,,,financials,investment services,,;
-178657,jtre,,bratislava,,1996,,,,,real estate,real estate management & development,,;
-178658,jj electronic,,čadca,,1993,,,,,industrials,electrical components & equipment,,;
-183456,jolidon,,cluj-napoca,,1993,,,,,consumer goods,clothing & accessories,,;
-178840,jabłkowski brothers,,warsaw,,1884,,,,,consumer services,retail,,;
-178841,jsw,,jastrzębie-zdrój,,1993,,,,,basic materials,coal,,;
-179115,just5,,riga,,2008,,,,,telecommunications,telecommunications equipment,,;
-181448,jet time,,copenhagen,,2006,,,,,consumer services,airlines,,;
-180289,jysk,,aarhus,,1979,,,,,consumer services,specialty retailers,,;
-181352,jablotron,,jablonec nad nisou,,1990,,,,,consumer goods,consumer electronics,,;
-181353,jan becher,,karlovy vary,,1807,,,,,consumer goods,distillers & vintners,,;
-181354,jihostroj,,velešín,,1919,,,,,industrials,aerospace,,;
-180368,josef lidl,,brno,,1892,,,,,consumer goods,recreational products,,;
-180538,jadran film,,zagreb,,1946,,,,,consumer services,broadcasting & entertainment,,;
-181200,jadranski naftovod,,zagreb,,1974,,,,,oil & gas,pipelines,,;
-181201,jadrolinija,,rijeka,,1947,,,,,industrials,marine transportation,,;
-181202,jamnica,,zagreb,,1828,,,,,consumer goods,soft drinks,,;
-181203,jugoton,,zagreb,,1947,,,,,consumer services,broadcasting & entertainment,,;
-180720,jan de nul,,aalst,,1938,,,,,industrials,building materials and fixtures,,;
-180721,janssen pharmaceutica,,beerse,,1953,,,,,health care,pharmaceuticals,,;
-181016,jonckheere,,roeselare,,1881,,,,,industrials,commercial vehicles and trucks,,;
-180818,julius meinl,,vienna,,1862,,,,,consumer goods,beverages,,;
-181970,j. a. henckels,,solingen,,1731,,,,,consumer goods,durable household products,,;
-181971,j. schmalz,,glatten,,1910,,,,,industrials,industrial machinery,,;
-181972,jack wolfskin,,idstein,,1981,,,,,consumer goods,recreational products,,;
-181973,jako,,mulfingen,,1948,,,,,consumer goods,clothing & accessories,,;
-181976,junghans,,schramberg,,1861,,,,,consumer goods,clothing & accessories,,;
-181977,junkers,,dessau,,1895,,,,,industrials,aerospace,,;
-184139,joshua darden,,boulevard haussmann,,0,,,,,font design branding,,,;
-184265,johnnie walker,,robinsons equitable tower,,1990,,,,,various,,,;
-184267,jollibee foods corporation,,ortigas center,,0,,,,,restaurants,,,;
-184269,jvckenwood,,383 madison avenue,,0,,,,,electronics,,,;
-184270,jxd,,383 madison avenue,,0,,,,,consumer electronics,,,;
-137,jbm group,,,,1983,,,,,auto components,,,;
-226,jindal steel and power,,,,1952,,,,,iron & steel,,,;
-453,jindal stainless,,,,1970,,,,,iron & steel,,,;
-805,jk lakshmi cement,,,,1982,,,,,building material,,,;
-917,jakson group,,,,1947,,,,,power,,,;
-1068,j b chemicals and pharmaceuticals,,,,1976,,,,,pharma,,,;
-1112,jaya hind industries,,,,1947,,,,,auto components,,,;
-1248,jyothy laboratories,,,,1983,,,,,fmcg,,,;
-1411,jai balaji group,,,,1999,,,,,iron & steel,,,;
-1648,jayaswal neco industries,,,,1972,,,,,iron & steel,,,;
-1980,jindal poly films,,,,1974,,,,,packaging,,,;
-2121,jawahar navodaya vidyalaya,,,,1985,,,,,education & training,,,;
-2220,jns instruments,,,,2001,,,,,industrial machinery,,,;
-2630,jindal aluminium,,,,1968,,,,,metals & mining,,,;
-3188,javi systems,,,,2007,,,,,it services & consulting,,,;
-3656,jindal industries,,,,1952,,,,,import & export,,,;
-3768,jindal power,,,,2007,,,,,metals & mining,,,;
-3773,jayashree polymers,,,,1984,,,,,auto components,,,;
-3806,jnet technologies,,,,2007,,,,,it services & consulting,,,;
-4135,jagatjit industries,,,,1944,,,,,beverage,,,;
-4143,jagatjit industries,,,,1944,,,,,beverage,,,;
-5130,janatics india,,,,1977,,,,,auto components,,,;
-5203,jagsonpal pharmaceuticals,,,,1964,,,,,pharma,,,;
-5426,j.k. helene curtis,,,,1964,,,,,fashion & textile,,,;
-5429,j.k. helene curtis,,,,1964,,,,,fashion & textile,,,;
-5696,jindal group of companies,,,,1952,,,,,iron & steel,,,;
-5974,jindal india thermal power,,,,2006,,,,,power,,,;
-6199,j mitra and co,,,,1969,,,,,medical equipment,,,;
-6483,jewelex india,,,,1966,,,,,,,,;
-6514,jewelex india,,,,1966,,,,,,,,;
-6782,jayanita exports,,,,1978,,,,,furniture & furnishing,,,;
-7406,jumbotail technologies,,,,2015,,,,,retail,,,;
-7570,jindal water infrastructure,,,,2006,,,,,waste management,,,;
-7956,jl morison india,,,,1934,,,,,fmcg,,,;
-8085,jawaharlal nehru medical college,,,,1965,,,,,education & training,,,;
-8145,jud cement,,,,2005,,,,,building material,,,;
-8327,jsm corporation,,,,2004,,,,,hospitality,,,;
-8381,jawad business group,,,,1960,,,,,retail,,,;
-8440,jaya shree textiles,,,,1949,,,,,fashion & textile,,,;
-8470,jaya shree textiles,,,,1949,,,,,fashion & textile,,,;
-8474,jekson vision,,,,2001,,,,,software product,,,;
-8475,jindal stainless steelway,,,,2004,,,,,iron & steel,,,;
-8511,jaya hind montupet (p) ltd. pune,,,,2013,,,,,auto components,,,;
-8553,jesons industries,,,,1972,,,,,chemicals,,,;
-9281,jbj technologies,,,,1994,,,,,industrial machinery,,,;
-9342,jbj technologies,,,,1994,,,,,industrial machinery,,,;
-9532,jaatvedas construction company,,,,2000,,,,,engineering & construction,,,;
-23562,janux therapeutics,united states,,,,,doll_0.95 b,,,,,pharmaceuticals biotech ,;
-31665,janux therapeutics,united states,,,,,doll_0.85 b,,,,,,;
-39351,janux therapeutics,united states,,,,,doll_520.0 m,,,,,,;
-53567,janux therapeutics,united states,,,,,doll_0.56 b,,,,,,;
-60115,janux therapeutics,united states,,,,,doll_0.90 b,,,,,,;
-63629,janux therapeutics,,,,,49.0,doll_0.85 b,doll_7.38 m,-doll_60.41 m,,,,;
-65445,jindal stainless,,,,,1.761,doll_1.57 b,doll_2.98 b,doll_0.29 b,,,,;
-79234,jpp capital fundo invest imobiliario fii,,not found,,,not found,0,,,,,,not found;
-88418,jlen environmental assets group limited,,not found,,,not found,doll_691.5 m,,,,,,not found;
-110991,j.a. crescent dental care limited,,,3thecrescent dunston gateshead tyne&wear ne119sj,,,,,,,,,;
-111506,joe ledley football academy limited,,,room9 derbyconferencecentre londonroad derby england de248ux,,,,,,,,,;
-113072,jm smith properties ltd,,,,,,,,,,,,;
-113091,j.a. crescent dental care limited,,,,,,,,,,,,;
-114077,jabac finances limited,,,,,,,,,,,,;
-114159,j webster finances limited,,,,,,,,,,,,;
-114164,jupiter finances ltd,,,,,,,,,,,,;
-114222,j.a commercial finance ltd,,,,,,,,,,,,;
-114241,j a s finances (ne) limited,,,,,,,,,,,,;
-114770,jc new age entertainment ltd,,,,,,,,,,,,;
-114777,just joe garner ltd,,,,,,,,,,,,;
-115875,jp construction 1 limited,,,,,,,,,,,,;
-116274,jm smith properties ltd,,,,,,,,,,,,;
-117051,j.a. crescent dental care limited,,,,,,,,,,,,;
-117804,j & b property renovation ltd,,,,,,,,,,,,;
-118522,joe ledley football academy limited,,,,,,,,,,,,;
-124238,joor careers,,,,2010,,,,,internet,,,;
-124285,joveo careers,,,,2017,,,,,computer software,,,;
-124451,joist careers,,,,2011,,,,,information technology & services,,,;
-124485,jovia careers,,,,1938,,,,,banking,,,;
-125056,justworks careers,,,,2012,,,,,human resources,,,;
-141333,jfrog ltd,united states,,,,,doll_3.69 m,,,,,,;
-143318,jushri technologies,china,,,,,doll_1.8 m,,,,,,;
-143375,jiajiayue group,china,,,,,doll_1.37 m,,,,,,;
-143835,jiangzhong pharmaceutical co. ltd,china,,,,,doll_1.15 m,,,,,,;
-143883,jilin jiutai rural commercial bank corporation limited,china,,,,,doll_1.42 m,,,,,,;
-143915,jilin jiutai rural commercial bank corporation,china,,,,,doll_1.43 m,,,,,,;
-144300,jsti group,china,,,,,doll_1.09 m,,,,,,;
-144859,jiangsu baichuan high-tech new materials co. ltd,china,,,,,doll_1.53 m,,,,,,;
-144985,jiangxi geto new materials corporation limited,china,,,,,doll_0.9 m,,,,,,;
-145069,jcu corporation,japan,,,,,doll_0.97 m,,,,,,;
-145182,jiangshan oupai door industry co. ltd,china,,,,,doll_1.17 m,,,,,,;
-145200,jiangsu etern company,china,,,,,doll_0.76 m,,,,,,;
-145733,jinshang bank,china,,,,,doll_1.18 m,,,,,,;
-152013,jfrog ltd,united states,,,,,doll_2.71 b,,doll_-64.0 m,,,,;
-153998,jushri technologies,china,,,,,doll_1.64 b,,0.0,,,,;
-154055,jiajiayue group,china,,,,,doll_1.62 b,,doll_-43.0 m,,,,;
-154515,jiangzhong pharmaceutical co. ltd,china,,,,,doll_1.45 b,,0.0,,,,;
-154563,jilin jiutai rural commercial bank corporation limited,china,,,,,doll_1.43 b,,0.0,,,,;
-154980,jsti group,china,,,,,doll_1.36 b,,0.0,,,,;
-155665,jiangxi geto new materials corporation limited,china,,,,,doll_1.2 b,,0.0,,,,;
-155749,jcu corporation,japan,,,,,doll_1.18 b,,doll_46.0 m,,,,;
-155880,jiangsu etern company,china,,,,,doll_1.15 b,,0.0,,,,;
-180290,jyske bank,,silkeborg,,1967,,,,,financials,banks,,;
-181451,jyske bank,,silkeborg,,1967,,,,,financials,banks,,;
+id,name,country,address,founded,employees,market_cap,revenue,profit,categories,ceo,city
+48,jana small finance bank,,,2006.0,,,,,['banking'],,
+72,jp morgan chase,,,2000.0,,,,,['investment banking / venture capital / private equity'],,
+158209,jsw steel,india,,1982.0,13128.0,doll_2.287 b,doll_1.7100000000000002 b,doll_0.0025870000000000003 b,"['basic materials', 'iron and steel', 'metals', 'mining', 'manufacturing', 'metal products manufacturing']",prashant jain,
+100,jll,,,1997.0,,,,,['real estate'],,
+103,justdial,,,1996.0,,,,,['internet'],,
+137,jp group,,,2010.0,,,,,['engineering & construction'],,
+71209,john deere,united states,,1837.0,75550.0,doll_13.031 b,doll_3.9539999999999997 b,,['it services & consulting'],mr. john c. may ii,
+57120,jindal steel & power,india,"jindal centre, 12 bhikaiji cama place, new delhi, 110066",1979.0,6153.0,doll_0.74 b,doll_0.006394 b,doll_0.72 b,"['basic materials', 'iron and steel', 'metals', 'mining', 'infrastructure']",vidya ratan sharma,
+37315,jk cement,india,"kamla tower, kanpur, 208001",,3941.0,doll_0.27 b,doll_0.11000000000000001 b,doll_0.086 b,"['basic materials', 'cement', 'construction materials']",not found,
+269,jmc projects,,,1982.0,,,,,['engineering & construction'],,
+370,jk tyres,,,1951.0,,,,,['auto components'],,
+14057,johnson controls,ireland,,1885.0,,doll_4.726 b,,,['electrical components & equipment'],,cork
+382,jcb,,,1945.0,,,,,['industrial machinery'],,
+422,jet airways,,,1993.0,,,,,['aviation'],,
+50912,jubilant foodworks,india,,1995.0,31514.0,doll_0.403 b,doll_0.54945 b,doll_0.053 b,"['consumer cyclical', 'restaurants']",not found,
+133952,jindal stainless,india,"jindal centre, 12, bhikaiji cama place, new delhi, 110066",,1761.0,doll_0.157 b,doll_0.002657 b,doll_0.235 b,"['basic materials', 'iron and steel']",not found,
+66817,johnson & johnson,united states,"one johnson & johnson plaza, new brunswick, new jersey, 08933",1886.0,141700.0,doll_47.593 b,doll_9.488 b,doll_20.87 b,"['healthcare', 'medical equipment', 'pharmaceutical', 'fmcg', 'biotechnology', 'technology', 'healthcare products']",joaquin duato,"new brunswick, new jersey"
+554,j. kumar infraprojects,,,1980.0,,,,,['engineering & construction'],,
+8938,jindal itf,,,2007.0,,,,,['engineering & construction'],,
+643,jw marriott,,,1927.0,,,,,['hospitality'],,
+694,johnson lifts,,,1981.0,,,,,['industrial machinery'],,
+15467,jubilant pharmova,india,,,,doll_0.06899999999999999 b,doll_0.075 b,doll_0.036590000000000004 b,"['pharmaceuticals', 'biotech']",,
+791,jaquar,,,1960.0,,,,,['furniture & furnishing'],,
+801,jsw cement,,,2009.0,,,,,['building material'],,
+135308,jk lakshmi cement,india,,,,doll_0.986 b,,doll_0.058 b,['building material'],,
+917,jakson group,,,1947.0,,,,,['power'],,
+22400,jacobs engineering,united states,,1947.0,55000.0,doll_0.01776 b,doll_1.407 b,doll_0.477 b,"['industries', 'engineering products', 'engineering services']",steven j. demetriou,
+1011,jtekt,,,2006.0,,,,,['auto components'],,
+61345,jain irrigation systems,india,,,,doll_0.025 b,doll_0.093 b,doll_0.08615 b,['industrial machinery'],,
+1068,j b chemicals and pharmaceuticals,,,1976.0,,,,,['pharma'],,
+1112,jaya hind industries,,,1947.0,,,,,['auto components'],,
+1156,jiomart,,,,,,,,,,
+1248,jyothy laboratories,,,1983.0,,,,,['fmcg'],,
+1329,jabil circuit india,,,1966.0,,,,,['electronics manufacturing'],,
+1346,jk paper,,,1962.0,,,,,['pulp & paper'],,
+1366,jaro education,,,2009.0,,,,,['edtech'],,
+1389,jubilant generics,,,2013.0,,,,,['pharma'],,
+1411,jai balaji group,,,1999.0,,,,,['iron & steel'],,
+1505,jk tech,,,1994.0,,,,,['it services & consulting'],,
+1553,j k fenner,,,1987.0,,,,,['engineering & construction'],,
+127392,jcet group,china,,,,doll_0.8460000000000001 b,doll_0.004788000000000001 b,doll_0.464 b,"['technology', 'semiconductors']",not found,
+1648,jayaswal neco industries,,,1972.0,,,,,['iron & steel'],,
+1652,jiva ayurvedic pharmacy,,,1992.0,,,,,['healthcare'],,
+1685,jaypee cement,,,1996.0,,,,,['building material'],,
+1694,jtekt sona automotive india,,,2007.0,,,,,['auto components'],,
+157014,jm financial,india,,,,doll_0.933 b,,doll_0.097 b,['financial services'],,
+1912,jbs enterprises,,,1987.0,,,,,['electronics manufacturing'],,
+1917,jio platforms,,,,,,,,['it services & consulting'],,
+39585,jindal poly films,india,,,,doll_0.04 b,doll_0.078 b,doll_0.02 b,['packaging'],,
+2068,jamna auto industries,,,1954.0,,,,,['auto components'],,
+2121,jawahar navodaya vidyalaya,,,1985.0,,,,,['education & training'],,
+2166,jyoti cnc automation,,,1989.0,,,,,['industrial machinery'],,
+2220,jns instruments,,,2001.0,,,,,['industrial machinery'],,
+2314,jumio,,,2010.0,,,,,['it services & consulting'],,
+2359,jetking infotrain,,,1947.0,,,,,['edtech'],,
+2404,johnson controls hitachi air conditioning,,,,,,,,['consumer electronics & appliances'],,
+171401,johnson matthey,uk,5th floor 25 farringdon street,1817.0,15352.0,doll_0.49400000000000005 b,doll_0.018875 b,doll_-0.119 b,['chemicals'],not found,london
+2455,jeeves consumer services,,,2007.0,,,,,['consumer electronics & appliances'],,
+2615,joyalukkas,,,1987.0,,,,,['retail'],,
+2630,jindal aluminium,,,1968.0,,,,,['metals & mining'],,
+2667,jubilant agri and consumer products,,,2010.0,,,,,['chemicals'],,
+2678,jay chemical industries,,,1967.0,,,,,['chemicals'],,
+2689,jsw energy,india,"jsw centre, bandra kurla complex, bandra (east), mumbai, 400051",1994.0,4742.0,doll_0.541 b,doll_0.11000000000000001 b,doll_0.216 b,"['utilities', 'electricity generation', 'power generation']",not found,
+108225,juniper networks,united states,"1133 innovation way, sunnyvale, california, 94089",1996.0,10191.0,doll_1.036 b,doll_0.515 b,doll_0.252 b,"['technology', 'software and it', 'network hardware and software', 'electronics', 'computers hardware', 'networking products / solutions', 'software products', 'communications equipment']",mr. rami  rahim,
+2704,jockey,,,1876.0,,,,,['fashion & textile'],,
+2864,joulestowatts business solutions,,,2015.0,,,,,['it services & consulting'],,
+3083,jsw paints,,,2016.0,,,,,['chemicals'],,
+3188,javi systems,,,2007.0,,,,,['it services & consulting'],,
+3573,jain university,,,2009.0,,,,,['education & training'],,
+43875,jagran prakashan,india,,,,doll_0.024 b,doll_0.023 b,doll_0.04775 b,['printing & publishing'],,
+3593,jaipur rugs,,,1978.0,,,,,['import & export'],,
+3656,jindal industries,,,1952.0,,,,,['import & export'],,
+3768,jindal power,,,2007.0,,,,,['metals & mining'],,
+3770,jubilant biosys,,,2000.0,,,,,['pharma'],,
+3773,jayashree polymers,,,1984.0,,,,,['auto components'],,
+3806,jnet technologies,,,2007.0,,,,,['it services & consulting'],,
+3905,jay ushin,,,1959.0,,,,,['auto components'],,
+3923,jaguar land rover,,,2008.0,,,,,['automobile'],,
+4024,jaguar security services,,,1990.0,,,,,['law enforcement & security'],,
+4043,jaypee hotels,,,1980.0,,,,,['hospitality'],,
+4069,jade global,,,2003.0,,,,,['it services & consulting'],,
+4135,jagatjit industries,,,1944.0,,,,,['beverage'],,
+4148,jgc corporation,,,1928.0,,,,,['engineering & construction'],,
+4192,jk agri genetics,,,1989.0,,,,,['biotechnology'],,
+4233,jitm skills,,,2013.0,,,,,['education & training'],,
+4227,jct,,,1946.0,,,,,['fashion & textile'],,
+4320,jubilant industries,,,2007.0,,,,,['chemicals / agri inputs'],,
+4352,jmr infotech,,,2007.0,,,,,['it services & consulting'],,
+4387,jbf industries,,,1982.0,,,,,['fashion & textile'],,
+4396,jaiprakash power ventures,,,1994.0,,,,,['power'],,
+4417,jaslok hospital and research centre,,,1973.0,,,,,['healthcare'],,
+4535,jubilant ingrevia,,,2020.0,,,,,['chemicals'],,
+181291,joannou & paraskevaides,,,1961.0,,,,,['heavy construction'],,guernsey
+4568,jp infra,,,2006.0,,,,,['real estate'],,
+4692,jabong,,,2011.0,,,,,['internet'],,
+4763,j. c. penney,,,1902.0,,,,,['retail'],,
+4866,jeena & company,,,1900.0,,,,,['logistics'],,
+4883,john energy,,,1987.0,,,,,['oil & gas'],,
+4894,jay jay mills,,,1971.0,,,,,['fashion & textile'],,
+4941,jbm auto components,,,1983.0,,,,,['auto components'],,
+4974,jubilant chemsys,,,2004.0,,,,,['pharma'],,
+5094,jyote motors,,,1996.0,,,,,['automobile'],,
+5130,janatics india,,,1977.0,,,,,['auto components'],,
+5162,jasper industries,,,1955.0,,,,,['other'],,
+5203,jagsonpal pharmaceuticals,,,1964.0,,,,,['pharma'],,
+5282,jayem automotives,,,1991.0,,,,,['auto components'],,
+5317,joyson safety systems,,,1997.0,,,,,['auto components'],,
+5369,jotun paints,,,1926.0,,,,,['petrochemicals'],,
+5397,jms mining services,,,2002.0,,,,,['metals & mining'],,
+5412,jasmin infotech,,,1998.0,,,,,['hardware & networking'],,
+5416,jamia hamdard university,,,1989.0,,,,,['education & training'],,
+5426,j.k. helene curtis,,,1964.0,,,,,['fashion & textile'],,
+5565,j g hosiery,,,,,,,,['fashion & textile'],,
+5585,jaipur national university,,,2007.0,,,,,['education & training'],,
+5607,japfa comfeed,,,1995.0,,,,,['agriculture'],,
+5668,john deere financial,,,1837.0,,,,,['nbfc'],,
+5777,jehangir hospital,,,1946.0,,,,,['healthcare'],,
+5916,john crane sealing systems india,,,2012.0,,,,,['industrial machinery'],,
+5919,j pan tubular components,,,2007.0,,,,,['industrial machinery'],,
+5974,jindal india thermal power,,,2006.0,,,,,['power'],,
+6057,jsw severfield structures,,,2009.0,,,,,['engineering & construction'],,
+6122,jamboree education,,,1993.0,,,,,['edtech'],,
+6154,john cockerill,,,1986.0,,,,,['architecture & interior design'],,
+6199,j mitra and co,,,1969.0,,,,,['medical equipment'],,
+6219,j&f,,,2017.0,,,,,['engineering & construction'],,
+6381,jamia millia islamia,,,1920.0,,,,,['education & training'],,
+6390,jwil,,,,,,,,['facility management services'],,
+6445,jharkhand state livelihood promotion society,,,2009.0,,,,,['government'],,
+6454,jasper colin research,,,2008.0,,,,,['analytics & kpo'],,
+6514,jewelex india,,,1966.0,,,,,,,
+6627,jpm industries,,,1959.0,,,,,['industrial machinery'],,
+6661,jsw ispat steel,,,1984.0,,,,,['iron & steel'],,
+6782,jayanita exports,,,1978.0,,,,,['furniture & furnishing'],,
+6796,jumbo electronics,,,1974.0,,,,,['retail'],,
+6813,jawed habib hair & beauty,,,2006.0,,,,,['retail'],,
+6906,john distilleries,,,1996.0,,,,,['beverage'],,
+7043,jyske bank,denmark,"vestergade 8-16, silkeborg, 8600",1967.0,3593.0,doll_0.376 b,doll_0.001288 b,doll_0.42 b,['banking'],anders christian dam,silkeborg
+44514,jbm auto,india,,,,doll_0.078 b,doll_0.045 b,doll_0.02718 b,['auto components'],,
+7095,jaypee brothers medical publishers,,,1969.0,,,,,['printing & publishing'],,
+7106,jobby engineers,,,1970.0,,,,,['engineering & construction'],,
+7211,jash engineering ltd,,,,,doll_0.621 b,,,['engineering & construction'],not found,
+7227,jal international,,,1985.0,,,,,['oil & gas'],,
+7358,jm frictech,,,2008.0,,,,,['industrial machinery'],,
+7365,jaycee punching solution,,,2007.0,,,,,['electronics manufacturing'],,
+7406,jumbotail technologies,,,2015.0,,,,,['retail'],,
+7415,jai kisan,,,2017.0,,,,,['internet'],,
+7491,jamieson wellness,canada,,2008.0,,doll_0.11100000000000002 b,doll_0.347 b,doll_0.04 b,['fmcg'],mr. michael  pilato,
+7560,jconnect infotech,,,2008.0,,,,,['recruitment'],,
+7570,jindal water infrastructure,,,2006.0,,,,,['waste management'],,
+7805,jaac techno services,,,2009.0,,,,,['industrial machinery'],,
+7880,jpal,,,2003.0,,,,,['analytics & kpo'],,
+7956,jl morison india,,,1934.0,,,,,['fmcg'],,
+7992,jain farm fresh foods,,,1963.0,,,,,['fmcg'],,
+8085,jawaharlal nehru medical college,,,1965.0,,,,,['education & training'],,
+8161,junglee games,,,2012.0,,,,,['it services & consulting'],,
+8145,jud cement,,,2005.0,,,,,['building material'],,
+8177,jrg automotive india,,,2007.0,,,,,['auto components'],,
+155749,jcu corporation,japan,,,9050.0,doll_0.776 b,doll_0.002488 b,doll_0.272 b,"['basic materials', 'chemicals']",not found,
+8338,jsl stainless,,,1970.0,,,,,['iron & steel'],,
+8359,juma al majid group,,,1950.0,,,,,['engineering & construction'],,
+8381,jawad business group,,,1960.0,,,,,['retail'],,
+8440,jaya shree textiles,,,1949.0,,,,,['fashion & textile'],,
+8474,jekson vision,,,2001.0,,,,,['software product'],,
+8475,jindal stainless steelway,,,2004.0,,,,,['iron & steel'],,
+8511,jaya hind montupet (p) ltd. pune,,,2013.0,,,,,['auto components'],,
+8553,jesons industries,,,1972.0,,,,,['chemicals'],,
+8768,jumbo finvest india,,,1998.0,,,,,['nbfc'],,
+8799,jungleworks,,,2017.0,,,,,['software product'],,
+8816,joister infomedia,,,2002.0,,,,,['internet'],,
+8835,jaguar overseas,,,1991.0,,,,,['engineering & construction'],,
+8870,jayabheri automotives,,,1987.0,,,,,['engineering & construction'],,
+8916,jsw ispat special products,,,,,,,,['iron & steel'],,
+8986,jasubhai engineering pvt.ltd,,,1967.0,,,,,['engineering & construction'],,
+9179,johari digital healthcare,,,,,,,,['healthcare'],,
+9247,jk organisation,,,1888.0,,,,,['auto components'],,
+9281,jbj technologies,,,1994.0,,,,,['industrial machinery'],,
+9379,juniper green energy,,,2018.0,,,,,['power'],,
+9518,jhajharia nirman,,,2008.0,,,,,['engineering & construction'],,
+9532,jaatvedas construction company,,,2000.0,,,,,['engineering & construction'],,
+9533,java r & d,,,2008.0,,,,,['it services & consulting'],,
+9534,jocata financial advisory and technology,,,2010.0,,,,,['financial services'],,
+9557,jss medical research,,,1985.0,,,,,['clinical research'],,
+9723,jp associates,,,,,,,,['real estate'],,
+9740,jipmer,,,1964.0,,,,,['education & training'],,
+148480,jabil,united states,,,238000.0,doll_1.058 b,doll_3.347 b,doll_0.696 b,"['technology', 'electronics', 'electrical products', 'capital goods']",not found,
+9843,jabra connect,,,2001.0,,,,,['consumer electronics & appliances'],,
+9865,just buy live enterprise,,,2015.0,,,,,['retail'],,
+10377,jakardennoãå(12426810),,,,,,,,,,
+10378,janekpiispanen(11791571),,,,,,,,,,
+10379,janiviksparepartsoãå(14957397),,,,,,,,,,
+10380,jan-kasparkaasik,,,,,,,,,,
+10381,jdspacetechoãå(16610462),,,,,,,,,,
+10382,jespaoãå(12559758),,,,,,,,,,
+10384,jetairspaceoãå(14797522),,,,,,,,,,
+10385,jivaspaoãå(14148290),,,,,,,,,,
+10387,jllt-servicesoãå(12186346),,,,,,,,,,
+10388,joikoãå(11692691),,,,,,,,,,
+10389,jr-rakennuspalveluosaãâ¼hing(11072014),,,,,,,,,,
+10390,juhtimispartneroãå(11447299),,,,,,,,,,
+11400,jupiterone,united states,,,,,,,['cybersecurity'],,morrisville
+13608,joytunes,israel,,,,,,,['edtech'],,tel aviv
+11650,jimubox,china,,,,,,,['fintech'],,beijing
+144032,jiuxian,china,,,,0.0,,0.0,['e-commerce & direct-to-consumer'],not found,beijing
+144034,juanpi,china,,2012.0,,0.0,,0.0,['e-commerce & direct-to-consumer'],not found,wuhan
+11771,jokr,united states,,,,,,,"['supply chain, logistics, & delivery']",,new york
+11817,jmgo,china,,,,,,,['hardware'],,shenzhen
+13282,jaguar microsystems,china,,,,,,,['hardware'],,shenzhen
+11907,justworks,united states,,,,,,,['internet software & services'],,new york
+11921,juma peisong,china,,,,,,,"['supply chain, logistics, & delivery']",,chengdu
+13176,jolly information technology,china,,,,,,,['e-commerce & direct-to-consumer'],,hangzhou
+13168,jasper,united states,,,,,,,['artificial intelligence'],,austin
+13120,jusfoun big data,china,,,,,,,['data management & analytics'],,beijing
+183810,jeeves,united states,,1992.0,,,,,['software'],,stockholm
+102062,jobandtalent,spain,,2008.0,801000.0,,doll_0.35287999999999997 b,,['technology'],,madrid
+12232,jetti resources,united states,,,,,,,['other'],,boulder
+12240,jumpcloud,united states,,,,,,,['data management & analytics'],,louisville
+126594,juul labs,united states,,2015.0,1509.0,doll_1.383 b,doll_0.0015 b,0.0,"['cigarettes', 'electronics']",not found,san francisco
+12568,j&t express,indonesia,,,,,,,"['supply chain, logistics, & delivery']",,jakarta
+34081,jpmorgan chase,united states,"383 madison avenue, new york, 10017",2000.0,,doll_41.083999999999996 b,doll_12.454 b,doll_4.558 b,"['banks', 'financial services', 'dow jones']", mr. james  dimon,383 madison avenue
+48452,jingdong mall,china,,,,doll_11.348 b,doll_15.518 b,doll_0.087 b,"['e-commerce', 'internet', 'retail', 'tech']",,
+184263,jardine matheson,hong kong,,,,doll_1.589 b,doll_3.586 b,doll_0.188 b,"['conglomerate', 'investment']",john raymond witt,jardine house
+94596,japan tobacco,japan,"4-1-1, toranomon, minato-ku, tokyo, 105-6927",,55381.0,doll_3.159 b,doll_2.116 b,doll_0.308 b,['tobacco'],eddy pirard,
+168592,jiangsu hengrui medicine,china,"no.7 kunlunshan road, lianyungang eco & tech development zone, jiangsu, 222000",,28903.0,doll_3.69 b,0,doll_0.659 b,"['pharmaceuticals', 'biotech']",sun piaoyang,
+23008,jd health,china,,,,doll_2.744 b,doll_0.481 b,doll_0.015 b,"['drugstore', 'internet', 'e-commerce', 'healthcare', 'tech']",,
+46849,japan post holdings,japan,"2-3-1, ote-machi, chiyoda-ku, tokyo, 100-8793",2006.0,243612.0,doll_3.141 b,0,doll_1.153 b,"['financial services', 'insurance']",hiroya masuda,
+22338,japan post bank,japan,,,245472.0,doll_2.7760000000000002 b,doll_0.012895 b,doll_0.266 b,"['financial services', 'banking services']",masatsugu nagato,
+56195,j. b. hunt,united states,,,,doll_1.893 b,doll_1.466 b,doll_0.137 b,,,
+35265,julius br,switzerland,"bahnhofstrasse 36, zuerich, 8001",1952.0,,doll_1.35 b,doll_0.47000000000000003 b,,['furnishings'],,höchst
+67588,j.m. smucker company,united states,,,7100.0,doll_1.588 b,doll_0.007998 b,doll_0.629 b,"['consumer defensive', 'retail', 'fmcg', 'food products', 'consumer non durables', 'package foods']",mark smucker,
+96259,jones lang lasalle,united states,30 warwick street,,98200.0,doll_0.8380000000000001 b,doll_1.9489999999999998 b,doll_0.961 b,"['real estate', 'financial services']",mr. christian  ulbrich,london
+14945,japan exchange group,japan,"2-1, nihombashi kabuto-cho, chuo-ku, tokyo, 103-8224",,1197.0,doll_0.768 b,doll_0.12 b,doll_0.365 b,"['financial services', 'securities', 'stock markets, trading, capital markets', 'trading']",mr. akira  kiyota,
+29111,jabal omar development,saudi arabia,,,,doll_0.54 b,doll_0.083 b,doll_0.252 b,"['real estate', 'construction', 'property investments', 'hotels', 'commercial properties']",not found,
+92932,jackson financial,united states,,,2800.0,doll_0.298 b,doll_0.885 b,doll_0.89 b,"['financial services', 'asset management', 'insurance']",laura l. prieskorn,
+20162,john bean technologies,united states,"suite 4400, 70 w madison, chicago, illinois, 60602",,6600.0,doll_0.314 b,doll_0.20600000000000002 b,doll_0.118 b,"['industries', 'technology', 'machinery manufacturing', 'manufacturing', 'industry machinery']",not found,
+30248,joby aviation,united states,,,,doll_0.246 b,,doll_0.02 b,"['aircraftmanufacturers', 'aerospace', 'manufacturing']",,
+52387,janus international group,united states,,,,doll_0.146 b,doll_0.75 b,doll_0.043 b,"['industries', 'building products and equipment']",not found,
+155873,jindal stainless (hisar),india,,,,doll_0.134 b,doll_0.20099999999999998 b,doll_0.243 b,"['basic materials', 'mining', 'iron and steel', 'metals']",not found,
+54531,jakks pacific,united states,,,,doll_0.02 b,doll_0.08499999999999999 b,doll_0.07417 b,['toys'],,
+24705,jaguar health,united states,,,,doll_0.01436 b,doll_0.01077 b,doll_0.054490000000000004 b,"['pharmaceuticals', 'biotech']",,
+15810,janone,united states,,,,doll_0.00513 b,doll_0.03908 b,doll_0.01422 b,"['pharmaceuticals', 'biotech']",,
+24677,jump networks,india,,,,doll_0.01166 b,,,"['tech', 'telecommunication']",,
+33951,jeffs' brands,israel,,,,doll_0.0109 b,,,"['ecommerce', 'internet', 'retail']",,
+55140,journey medical,united states,,,,doll_0.04494 b,doll_0.07522 b,doll_0.026879999999999998 b,"['pharmaceuticals', 'biotech']",,
+63304,jounce therapeutics,united states,,,,doll_0.06358 b,,doll_0.014000000000000002 b,"['pharmaceuticals', 'biotech']",,
+33501,jay bharat maruti,india,,,,doll_0.08401 b,doll_0.028000000000000004 b,doll_0.007549999999999999 b,['automotivesuppliers'],,
+64964,jianzhi education technology group,china,,,,doll_0.012 b,doll_0.06625 b,doll_0.0129 b,['education'],,
+33216,joann,united states,,,,doll_0.014000000000000002 b,doll_0.22999999999999998 b,doll_0.0357 b,['retail'],,
+62321,j.jill,united states,,,,doll_0.025 b,doll_0.061 b,doll_0.07845 b,['clothing'],,
+39844,jaypee group,india,,,,doll_0.028999999999999998 b,doll_0.06899999999999999 b,doll_0.05991 b,,,
+42660,jci hitachi india,india,,,,doll_0.037 b,doll_0.033 b,doll_0.0023599999999999997 b,,,
+64488,jumia,germany,,,,doll_0.039 b,doll_0.020999999999999998 b,doll_0.026000000000000002 b,"['internet', 'ecommerce', 'tech', 'retail']",,
+17188,jtekt india,india,,,,doll_0.041999999999999996 b,doll_0.024 b,doll_0.01393 b,['automotive suppliers'],not found,
+32160,jsw holdings,india,,,,doll_0.057999999999999996 b,,,['financialservices'],,
+146337,johnson outdoors,united states,,,,doll_0.06899999999999999 b,doll_0.074 b,doll_0.083 b,['manufacturing'],,
+53512,jin air,s. korea,,,,doll_0.075 b,doll_0.034 b,doll_0.012 b,"['airlines', 'travel', 'transportation']",,
+38915,james river group,bermuda,,,,doll_0.078 b,,,['insurance'],,
+44471,janux therapeutics,united states,,,,doll_0.05600000000000001 b,doll_0.00738 b,doll_0.06041 b,"['pharmaceuticals', 'biotech']",,
+64707,juventus turin,italy,,,456000.0,doll_0.093 b,doll_0.043 b,doll_0.01302 b,['football'],,
+67072,jeld-wen,united states,,,,doll_0.094 b,doll_0.508 b,doll_0.09165000000000001 b,,,
+31745,jupiter fund management,uk,,,,doll_0.099 b,doll_0.727 b,doll_0.175 b,"['financial services', 'asset management']","mr. andrew james formica ba (econ), fia, fiaa, ma (econ), mba",
+31557,jindal worldwide,india,,,,doll_0.10300000000000001 b,doll_0.032 b,doll_0.02944 b,['personal & household goods'],,
+53184,jeju air,s. korea,,,,doll_0.093 b,doll_0.037 b,doll_0.025 b,"['airlines', 'travel', 'transportation']",,
+142594,john wood group,uk,"15 justice mill lane, aberdeen, ab116eq",,33100.0,doll_0.132 b,doll_0.64 b,doll_0.08059999999999999 b,"['energy', 'oil and gas']",not found,
+45281,jasa marga,indonesia,,,,doll_0.151 b,doll_0.11000000000000001 b,doll_0.040999999999999995 b,,,
+142720,jack in the box,united states,"9357 spectrum center blvd, san diego, california, 92123-1516",,5200.0,doll_0.15 b,doll_0.146 b,doll_0.165 b,"['consumer cyclical', 'restaurants', 'consumer services']",not found,
+52388,jastrzebska spólka weglowa,poland,"aleja jana pawla ii 4, jastrzebie zdroj, 44-330",,,doll_0.159 b,doll_0.27999999999999997 b,,['metals and mining'],mr. artur  wojtkow,
+42368,jyp entertainment,south korea,,,,doll_0.16999999999999998 b,doll_0.13394999999999999 b,,['entertainment'],,
+18592,jenoptik,germany,,1991.0,4316.0,doll_0.179 b,doll_0.75 b,doll_0.081 b,"['technology', 'electronics', 'capital goods']",not found,jena
+52032,jeudan,denmark,,,,doll_0.209 b,,,['real estate'],,
+18793,jbg smith,united states,,,,doll_0.223 b,doll_0.061 b,doll_0.05811 b,"['real estate', 'investment', 'reits']",,
+62368,jfrog,united states,,,,doll_0.23399999999999999 b,doll_0.026000000000000002 b,doll_0.0876 b,"['tech', 'software']",,
+51873,jumbo s.a.,greece,,,,doll_0.23399999999999999 b,,,['retail'],,athens
+19933,jamf,united states,,,,doll_0.23900000000000002 b,doll_0.045 b,doll_0.015 b,"['software', 'tech']",,
+58786,john wiley & sons,united states,"111 river st, hoboken, new jersey, 07030-5773",,7400.0,doll_0.244 b,doll_0.0020819999999999996 b,doll_0.148 b,"['communication services', 'publishing', 'education']",not found,
+37317,joyy,china,,,,doll_0.27599999999999997 b,doll_0.381 b,doll_-0.013 b,"['communication services', 'technology', 'internet or mobile app based business', 'social media']",not found,
+130244,j&j snack foods,united states,"6000 central hwy, pennsauken, new jersey, 08109-4607",,4300.0,doll_0.277 b,doll_0.13 b,doll_0.055 b,"['consumer defensive', 'food and beverage', 'food products', 'consumer non durables', 'fmcg', 'package foods']",not found,
+171746,jetblue airways,united states,"27-01 queens plaza north, long island city, new york, 11101",,19466.0,doll_0.277 b,doll_0.006037 b,doll_-0.182 b,"['industries', 'aviation', 'transportation', 'freight transport', 'airlines']",not found,
+51715,jinko solar,china,,,,doll_0.284 b,doll_1.045 b,doll_0.019 b,['renewable-energy electricity energy manufacturing '],,
+51656,jet2,uk,,,,doll_0.29300000000000004 b,,,"['airlines', 'travel', 'transportation']",,
+46273,jb hi-fi,australia,,,12900.0,doll_0.366 b,doll_0.006391 b,doll_0.377 b,"['consumer cyclical', 'retail', 'consumer durables']",not found,
+171584,jungheinrich,germany,"friedrich-ebert-damm 129, hamburg, 22047",,18019.0,doll_0.356 b,doll_0.0042380000000000004 b,doll_0.266 b,"['industries', 'industry machinery', 'commercial vehicles', 'trucks']",not found,
+96290,jde peet's,netherlands,,,,doll_1.4849999999999999 b,doll_0.828 b,doll_0.9042 b,['food & drink'],fabien jacques simon,
+19757,jet2,united-kingdom,,,,doll_0.284 b,,,['airlines travel transportation '],,
+150947,japan airport terminal,japan,,,,doll_0.475 b,doll_0.416 b,doll_-0.184 b,"['industries', 'airports operating']",not found,
+138944,jcdecaux,france,"17 rue soyer, bp 11, neuilly-sur-seine cedex, 92523",1964.0,10234.0,doll_0.397 b,doll_0.002521 b,doll_-0.014 b,"['communication services', 'advertising', 'business services']",mr. jean-franã§ois  decaux,neuilly-sur-seine
+20255,jarir,saudi-arabia,,,,doll_0.481 b,,,['retail '],,
+20692,janus henderson,united-kingdom,,,,doll_0.445 b,,,['asset-management investment '],,
+50726,jollibee,philippines,,,,doll_0.48600000000000004 b,,,"['restaurantchains', 'food']",,
+46849,japan post insurance,japan,"2-3-1, ote-machi, chiyoda-ku, tokyo, 100-8793",,243612.0,doll_3.141 b,0,doll_1.153 b,"['financial services', 'insurance']",mr. hiroya  masuda,
+159616,japan real estate investment,japan,,2001.0,,doll_0.589 b,doll_0.524 b,doll_0.117 b,"['real estate', 'investments', 'property investments']",not found,
+178945,just eat takeaway,netherlands,"oosterdoksstraat 80, amsterdam, 1011dk",2000.0,5423.0,doll_0.591 b,doll_0.004953 b,doll_-1.136 b,['consumer digital services'],mr. jitse  groen,amsterdam
+148867,jfe holdings,japan,"28f, hibiya international bldg., 2-2-3, uchisaiwai-cho, chiyoda-ku, tokyo, 100-0011",2002.0,64009.0,doll_0.725 b,doll_3.646 b,doll_2.102 b,"['basic materials', 'iron and steel', 'metals', 'consumer goods']",mr. koji  kakigi,
+56867,jbs,brazil,,1953.0,250000.0,doll_1.748 b,doll_6.499 b,doll_0.44000000000000006 b,"['consumer defensive', 'meat / poultry / fish / chicken', 'food products', 'meat / poultry / fish / chicken', 'fmcg', 'package foods']",gilberto tomazoni,
+137122,james hardie industries,ireland,"2nd floor europa house, harcourt centre harcourt street, dublin, 2",,4861.0,doll_0.93 b,doll_0.003613 b,doll_0.459 b,"['basic materials', 'construction materials', 'capital goods']",jack truong,
+138112,jazz pharmaceuticals,ireland,"fifth fl, waterloo exchange, waterloo road, dublin, 4",,1620.0,doll_0.9890000000000001 b,doll_0.003094 b,doll_-0.329 b,"['healthcare', 'pharmaceutical', 'healthcare products', 'biotechnology']",mr. bruce c. cozadd,
+106617,jack henry & associates,united states,"663 hwy 60, po box 807, monett, missouri, 65708-0807",,6714.0,doll_1.3039999999999998 b,doll_0.001942 b,doll_0.362 b,"['technology', 'digital payment solution services', 'financial services', 'software and it']",mr. david b. foss,
+21689,jerã³nimo martins,none,,,,doll_1.3820000000000001 b,,,['retail '],,
+149473,jardine cycle & carriage,singapore,,,250000.0,doll_0.82 b,doll_0.017688 b,doll_0.66 b,"['consumer cyclical', 'investments', 'automobile']",not found,
+170176,jefferies financial group,united states,"520 madison ave, new york, 10022-4213",,5556.0,doll_0.8699999999999999 b,doll_0.8640000000000001 b,doll_0.16699999999999998 b,"['financial services', 'banking services', 'asset management', 'securities', 'conglomerate']",mr. richard brian handler,
+148838,japan airlines,japan,,,35653.0,doll_0.877 b,doll_0.005148 b,doll_-1.296 b,"['industries', 'airlines', 'aviation', 'transportation']",not found,
+169600,jd sports fashion,uk,"hollins brook way, bury, bl98rr",,73519.0,doll_1.0230000000000001 b,doll_1.147 b,doll_0.087 b,['retailing'],peter cowgill,
+158627,jerónimo martins,portugal,"rua actor antonio silva, no 7, lisboa, 1649-033",1792.0,123458.0,doll_1.3699999999999999 b,doll_0.02302 b,doll_0.51 b,['retail'],pedro manuel de castro soares dos santos,lisbon
+29319,jarir,s. arabia,,,,doll_0.505 b,,,['retail'],,
+29472,janus henderson group,uk,"201 bishopsgate, london, ec2m3ae",,2000.0,doll_0.8130000000000001 b,doll_0.002767 b,doll_0.622 b,"['financial services', 'investments', 'asset management']",mr. richard maccoy weil,
+68210,jpmorgan,united states,,,271025.0,doll_41.083999999999996 b,doll_12.165000000000001 b,,,mr. james  dimon,
+157346,jd.com,china,,1998.0,310000.0,doll_70.863 b,doll_14.763 b,doll_-0.559 b,"['consumer cyclical', 'ecommerce', 'internet or mobile app based business', 'retail', 'consumer services']",liu qiangdong,
+168549,johnson controls international plc,ireland,"one albert quay, albert quay, cork, t12x8n6",1885.0,101000.0,doll_4.8149999999999995 b,doll_2.419 b,doll_0.16399999999999998 b,"['industries', 'building automation', 'electronics', 'consumer services', 'automation', 'construction']",george oliver,
+72741,"japan post bank co.,ltd.",japan,"2-3-1, ote-machi, chiyoda-ku, tokyo, 100-8793",,12451.0,doll_3.193 b,doll_1.77 b,,['financial services'],not found,
+92032,"j.b. hunt transport services, inc.",united states,"615 jb hunt corporate dr, po box 130, lowell, arkansas, 72745",1961.0,33045.0,doll_2.148 b,doll_1.3 b,doll_0.76 b,"['industries', 'transportation', 'freight transport', 'logistics']",mr. john n. roberts iii,
+70112,jbs sa,brazil,"av. marginal direita do tiete, 500, bloco 3 - 3 andar, vila jaguara, sao paulo, 05.118-100",,250000.0,doll_1.953 b,doll_6.5 b,,['consumer packaged goods'],mr. gilberto  tomazoni,
+147456,"jd health international, inc.",china,,,2576.0,doll_1.8690000000000002 b,doll_0.0048200000000000005 b,doll_-0.169 b,"['technology', 'healthcare service', 'internet or mobile app based business', 'hospitals']",qiang dong liu,
+74295,"jd.com, inc.",china,,,,doll_9.046 b,,,, mr. qiangdong  liu,
+148709,j sainsbury,uk,"33 holborn, london, ec1n2ht",1869.0,111900.0,doll_0.5660000000000001 b,doll_0.035211 b,doll_0.797 b,"['consumer defensive', 'retail', 'super markets', 'hypermarkets']",mr. simon john roberts,
+167712,janus henderson group,uk,"201 bishopsgate, london, ec2m3ae",,2000.0,doll_0.8130000000000001 b,doll_0.002767 b,doll_0.622 b,"['financial services', 'investments', 'asset management']",mr. richard maccoy weil,
+168032,jet2 plc,uk,"low fare finder house, white house lane, leeds, ls197tu",,,doll_0.0035299999999999997 b,doll_0.00145 b,doll_-0.371 b,"['industries', 'airlines', 'aviation', 'travel and transport']",mr. stephen paul heapy,
+88450,jpmorgan emerging markets investment trust,uk,,,,doll_0.0014399999999999999 b,doll_0.39 b,doll_0.386 b,['asset management'],not found,
+89156,james halstead,uk,,,,doll_0.00176 b,doll_0.313 b,doll_0.046 b,"['industries', 'construction materials', 'building products and equipment']",not found,
+88337,jtc plc,united kingdom,,,,doll_0.11299999999999999 b,,,,mr. nigel anthony le quesne,
+73488,jd wetherspoon plc,united kingdom,"wetherspoon house, reeds crescent, watford, wd244ql",,,doll_0.9994 b,doll_0.24 b,,['leisure and arts'],mr. john  hutson,
+166400,just group plc,uk,"enterprise house, bancroft road, reigate, rh27rp",,1076.0,doll_0.118 b,doll_0.35 b,doll_-0.041 b,"['financial services', 'insurance']",not found,
+73805,jpmorgan us smaller co. inv tst plc,united kingdom,,,,doll_0.3329 b,,,,not found,
+73858,jpmorgan global growth & income,united kingdom,,,,doll_0.7104 b,,doll_0.183 b,['asset management'],not found,
+88522,john menzies plc,united kingdom,,,27000.0,doll_0.6825 b,,,,mr. philipp  joeinig,
+88520,johnson service group plc,united kingdom,,,,doll_0.6807000000000001 b,,,,mr. peter john egan m.b.a.,
+73678,judges scientific plc,united kingdom,,,,doll_0.4156 b,,,,mr. david elie cicurel,
+163809,jpmorgan american investment trust,uk,,,,doll_0.00199 b,doll_0.39 b,doll_0.386 b,['asset management'],not found,
+89022,jpmorgan elect plc managed growth,united kingdom,,,,doll_0.37560000000000004 b,,,,not found,
+88592,jubilee metals group plc,united kingdom,,,,doll_0.4452 b,,,,mr. leon  coetzer,
+73861,jpmorgan global core real assets limited,united kingdom,,,,doll_0.2651 b,,,,not found,
+88769,jersey electricity plc,united kingdom,,,,doll_0.1586 b,,,,"mr. christopher john ambler b.a., ba, cdipaf, ceng, m.b.a., mba, meng, mimeche",
+73913,james fisher and sons plc,united kingdom,,,,doll_0.168 b,,,,mr. eoghan  o'lionaird,
+73931,jupiter us smaller companies plc,united kingdom,,,,doll_0.1462 b,,,,not found,
+73995,james cropper plc,united kingdom,,,,doll_0.15469999999999998 b,,,,"mr. philip i. wild b.e., beng",
+75209,jacquet metal service sa,france,"7 rue michel jacquet, cs 40087, saint-priest cedex, 69802",,3081.0,doll_0.4472 b,doll_0.22999999999999998 b,,['metals and mining'],mr. ãric  jacquet,
+75601,jsa technology sa,,,,,0,,,,not found,
+149762,juneyao airlines co. ltd,china,,,,doll_0.00424 b,doll_0.001712 b,doll_-0.072 b,"['industries', 'airlines', 'aviation']",not found,
+75774,"jinneng holding shanxi coal industry co.,ltd.",,,,5341.0,doll_2.853 b,,,,not found,
+107073,joincare pharmaceutical group industry,china,"joincare pharmaceutical group plaza, no.17 langshan road, north section, high-tech zone, nanshan district, shenzhen, guangdong, 518057",,13000.0,doll_0.32999999999999996 b,doll_0.002314 b,doll_0.193 b,"['healthcare', 'pharmaceutical', 'healthcare products']",not found,
+107073,jointown pharmaceutical group,china,"joincare pharmaceutical group plaza, no.17 langshan road, north section, high-tech zone, nanshan district, shenzhen, guangdong, 518057",,25796.0,doll_0.00455 b,doll_1.8800000000000001 b,doll_0.356 b,"['healthcare', 'pharmaceutical', 'healthcare products']",not found,
+75812,juewei food co. ltd,,,,4380.0,doll_2.584 b,,,,not found,
+75837,jinduicheng molybdenum co. ltd,,,,5216.0,doll_2.147 b,,,,not found,
+133764,jiangsu jiangyin rural commercial bank,china,"no. 58 new century avenue, changshu city, suzhou, jiangsu, 215500",,6864.0,doll_0.00133 b,doll_0.641 b,doll_0.318 b,"['financial services', 'banking services']",not found,
+75849,jl mag rare-earth co. ltd,,,,3038.0,doll_2.1879999999999997 b,,,,not found,
+75872,jiangsu jiejie microelectronics,china,,,1279.0,doll_0.00329 b,doll_0.258 b,doll_0.072 b,"['technology', 'electronics', 'semiconductors']",not found,
+75875,jiangsu provincial agricultural reclamation and development,china,,,,doll_0.262 b,doll_0.0015480000000000001 b,doll_0.107 b,"['consumer defensive', 'agriculture products', 'agriculture related', 'farming / seeds / milling']",not found,
+129189,jiangxi hongdu aviation industry,china,,,2301.0,doll_0.004059999999999999 b,doll_0.0010500000000000002 b,doll_0.022 b,"['industries', 'aerospace and defense', 'aircraft parts']",not found,
+130185,jiangsu pacific quartz co. ltd,china,,,1115.0,doll_0.308 b,,0.0,"['basic materials', 'chemicals']",not found,
+75896,joyy inc,singapore,"30 pasir panjang road rank_15-31a, singapore, 117440",,7449.0,doll_0.26 b,doll_0.26 b,,['technology and communications'],mr. xueling  li,
+130787,jiumaojiu international holdings limited,china,,,,doll_2.279 b,,0.0,"['consumer cyclical', 'restaurants']",mr. yihong  guan,
+75943,jingjin environmental protection,china,,,,doll_0.0024 b,,0.0,"['technology', 'technology hardware and instruments']",not found,
+152138,jiangsu broadcasting cable information network corporation,china,,,,doll_0.00227 b,doll_0.001085 b,doll_0.046 b,"['communication services', 'broadcasting']",not found,
+75969,"jinko power technology co.,ltd.",china,,,,doll_1.6960000000000002 b,doll_0.54 b,doll_0.053 b,"['utilities', 'renewable energy']",not found,
+75971,jiangsu nata opto-electronic material co. ltd,,,,,doll_1.688 b,,,,not found,
+75986,jinke smart services group co. ltd,,,,9029.0,doll_1.857 b,,,,not found,
+153536,jiangsu huachang chemical,china,,,,doll_0.00623 b,doll_0.001859 b,doll_0.192 b,"['basic materials', 'chemicals', 'agriculture related']",not found,
+76000,jiangsu hoperun software,china,,,,doll_0.00263 b,,0.0,"['technology', 'software and it']",not found,
+76001,jiangsu yulong steel pipe,china,,,,doll_0.00199 b,,0.0,"['basic materials', 'iron and steel', 'metals']",not found,
+161732,jiangsu linyang energy,china,,,3303.0,doll_0.00313 b,doll_0.771 b,doll_0.135 b,"['industries', 'electrical products', 'lighting products']",mr. yonghua  lu,
+76036,jiangsu lihua animal husbandry,china,"no.500, hexi village, luxi village, committee, niutang town, wujin district, changzhou, jiangsu, 213168",,,doll_0.00227 b,doll_0.16999999999999998 b,doll_-0.057 b,"['consumer defensive', 'animal feed', 'meat / poultry / fish / chicken', 'farming / seeds / milling']",not found,
+141248,jiangsu guomao reducer,china,,,,doll_0.00299 b,doll_0.428 b,doll_0.067 b,"['industries', 'industry machinery']",not found,
+76044,jinzhou jixiang molybdenum co. ltd,,,,,doll_1.432 b,,,,not found,
+76048,"jinhui liquor co.,ltd.",,,,2438.0,doll_1.435 b,,,,not found,
+152384,jiangsu financial leasing,china,,,,doll_0.24300000000000002 b,doll_0.573 b,doll_0.302 b,['financial services'],not found,
+162980,jiangsu new energy development,china,,,,doll_0.00152 b,,0.0,"['utilities', 'electric utilities', 'renewable energy']",not found,
+76119,jihua group corp ltd,,,,20714.0,doll_1.247 b,,,,not found,
+76120,jiangsu lopal tech.co,china,,,,doll_0.261 b,,0.0,"['energy', 'oil and gas']",not found,
+142657,jchx mining management,china,,,,doll_0.00196 b,,0.0,"['basic materials', 'mining']",not found,
+152169,jinxin fertility group,china,,,,doll_1.501 b,doll_0.267 b,doll_0.049 b,"['healthcare', 'healthcare service', 'hospitals']",mr. yang  dong,
+140926,jinyu bio-technology,china,,,,doll_1.284 b,doll_0.258 b,doll_0.056 b,"['healthcare', 'biotechnology']",not found,
+152107,jiangsu xinquan automotive trim,china,,,,doll_0.265 b,,0.0,"['consumer cyclical', 'automobile', 'automobile parts']",not found,
+76205,"jiangxi lianchuang opto-electronic science&technology co.,ltd",,,,6216.0,doll_1.171 b,,,,not found,
+76214,jenkem technology co. ltd,,,,,doll_1.189 b,,,,not found,
+142466,jiangsu sanfangxiang industry co. ltd,china,,,,doll_0.002 b,,0.0,"['consumer cyclical', 'textile']",not found,
+76225,"jiangsu zongyi co.,ltd",,,,,doll_1.072 b,,,,not found,
+76297,jolywood ,,,,2815.0,doll_1.895 b,,,,ms. yuzheng  zhang,
+76313,jonjee hi-tech industrial & commercial holding co. ltd,,,,5120.0,doll_2.291 b,,,,not found,
+160419,"jiangsu goodwe power supply technology co., ltd",china,,,,doll_0.5389999999999999 b,doll_0.39 b,doll_0.041 b,"['technology', 'electronics']",not found,
+155139,jiangsu yoke technology,china,"zhongtian village, hekou town, rudong county, nantong, jiangsu, 226009",,23853.0,doll_0.503 b,doll_0.55 b,doll_0.025 b,"['industries', 'electrical products', 'cables and wires']",not found,
+76544,"jafron biomedical co.,ltd.",,,,2280.0,doll_3.6479999999999997 b,,,,not found,
+153536,jiangsu huachang chemical,china,,,,doll_0.00623 b,doll_0.001859 b,doll_0.192 b,"['basic materials', 'chemicals', 'agriculture related']",not found,
+76627,jacques bogart sa,,,,1860.0,doll_0.18530000000000002 b,,,,mr. david  konckier,
+76648,jason furniture ,,,,16250.0,doll_3.957 b,,,,not found,
+170945,jiangsu expressway company,china,,,,doll_0.657 b,doll_0.002165 b,doll_0.656 b,"['industries', 'infrastructure', 'construction']",not found,
+76680,jcet group co. ltd,,,,23359.0,doll_4.458 b,,,,mr. zheng  li,
+155139,jiangsu yoke technology,china,"zhongtian village, hekou town, rudong county, nantong, jiangsu, 226009",,23853.0,doll_0.503 b,doll_0.55 b,doll_0.025 b,"['industries', 'electrical products', 'cables and wires']",not found,
+76863,jiangsu king's luck brewery joint-stock co. ltd,,,,3621.0,doll_5.292 b,,,,not found,
+148580,jiangxi copper company,china,,,24831.0,doll_0.9460000000000001 b,doll_0.069316 b,doll_0.906 b,"['basic materials', 'copper mining', 'mining', 'metals']",not found,
+135106,jumia technologies ag,germany,,,4067.0,doll_0.00101 b,doll_0.177 b,doll_-0.226 b,"['consumer cyclical', 'retail', 'internet or mobile app based business', 'ecommerce']",mr. jeremy  hodara,
+77113,jost werke ag,,,,3000.0,doll_0.5435 b,,,,mr. joachim  dã¼rr,
+147715,jiangsu hengli hydraulic,china,"no.99 longqian road, wujin high-tech zone, changzhou, jiangsu, 213164",,,doll_1.35 b,doll_0.13999999999999999 b,doll_0.392 b,"['industries', 'industry machinery', 'engineering products']",not found,
+77589,jungfraubahn holding ag,,,,,doll_0.8122999999999999 b,,,,mr. urs  kessler,
+77730,jasco electronics holdings ltd,,,,,doll_875339,,,,mr. warren a. prinsloo,
+153356,johnson electric holdings,hong kong,"6/f, 12 science park east avenue, hong kong science park, shatin, nt",,35000.0,doll_0.13 b,doll_0.0034460000000000003 b,doll_0.146 b,"['industries', 'automobile', 'automobile parts']",not found,
+175073,jinchuan group international resources,hong kong,,,,doll_0.188 b,,0.0,"['metals', 'mining', 'copper mining', 'nickel', 'cobalt mining']",not found,
+153861,jiayuan international group,hong kong,,,6163.0,doll_0.16899999999999998 b,doll_0.002757 b,doll_0.352 b,['real estate'],not found,
+77934,joy city property ltd,,,,4342.0,doll_0.44800000000000006 b,,,,not found,
+77996,ju teng international holdings ltd,,,,38000.0,doll_0.16399999999999998 b,,,,mr. li-yu  cheng,
+78004,jiangnan group ltd,,,,3616.0,doll_0.16799999999999998 b,,,,mr. hui  chu,
+78040,jacobson pharma corp ltd,,,,1723.0,doll_0.126 b,,,,mr. kwong yip  sum,
+78115,jinhui holdings company ltd,,,,,doll_0.6788 b,,,,not found,
+78139,jbm ,,,,,doll_0.77 b,,,,mr. yat wai  wong,
+78389,jia group holdings ltd,,,,,doll_0.1147 b,,,,ms. pui yain  wong,
+78546,jimu group ltd,,,,,doll_0.0633 b,,,,mr. zexiong  huang,
+78623,jiu rong holdings ltd,,,,,doll_0.4405 b,,,,not found,
+78661,jinhui shipping and transportation ltd,,,,,doll_0.161 b,,,,not found,
+78683,jinhai international group holdings ltd,,,,,doll_0.292 b,,,,mr. zhenfei  wang,
+78726,jullundur motor agency ,,,,,doll_0.147 b,,,,not found,
+78735,jocil ltd,,,,,doll_0.17099999999999999 b,,,,not found,
+78818,joint-stock company ryazanenergosbyt,,,,,doll_0.305 b,,,,not found,
+78823,joint-stock company krasnyj octyabr,,,,,doll_0.346 b,,,,not found,
+78850,"joint stock company ""world trade center moscow""",,,,,doll_0.805 b,,,,not found,
+78977,jhsf participacoes sa,,,,3578.0,doll_0.45999999999999996 b,,,,mr. thiago alonso de oliveira,
+79012,jereissati participacoes sa,,,,,doll_0.23500000000000001 b,,,,not found,
+79017,jsl sa,,,,25500.0,doll_0.223 b,,,,ramon peres martinez garcia de alcaraz,
+79033,jalles machado s/a,,,,3582.0,doll_0.279 b,,,,mr. otavio lage de siqueira filho,
+79072,js real estate multigestao - fii fund,,,,,doll_0.154 b,,,,not found,
+79084,josapar joaquim oliveira s.a. participações,,,,,doll_0.30960000000000004 b,,,,mr. luciano adures de oliveira,
+79142,joao fortes engenharia sa,,,,,doll_0.133 b,,,,not found,
+79210,jhsf rio bravo fazenda boa vista capital protegido fundo de investimento imobiliario - fii,,,,,0,,,,not found,
+79234,jpp capital fundo invest imobiliario fii,,,,,0,,,,not found,
+106450,jm ab,sweden,"gustav iii:s boulevard 64, solna, 16974",,2453.0,doll_0.13999999999999999 b,doll_0.18 b,,['construction'],mr. johan  skoglund,
+79493,john mattson fastighetsforetagen ab,,,,,doll_0.563 b,,,,not found,
+79655,jetpak top holding ab,,,,,doll_0.123 b,,,,not found,
+79765,jondetech sensors ab,,,,,doll_0.2029 b,,,,not found,
+79776,jlt mobile computers ab,,,,,doll_0.2284 b,,,,not found,
+80221,jse ltd,,,,,doll_0.932 b,,,,"dr. leila  fourie ph.d., mcom; ph.d.",
+149545,js global lifestyle company,hong kong,,,4657.0,doll_3.096 b,doll_0.00515 b,doll_0.42 b,"['consumer defensive', 'home appliances', 'electrical products', 'fmcg']",not found,
+80272,jai balaji industries ltd,,,,3071.0,doll_0.495 b,,,,not found,
+80803,josemaria resources inc.,,,,,doll_0.685 b,,,,mr. adam i. lundin,
+80882,just energy group inc.,canada,"suite 200, 6345 dixie road, mississauga, ontario, l5t2e6",,,doll_0.32239999999999996 b,doll_0.22000000000000003 b,,['power'],not found,
+80895,jaguar mining inc.,,,,1160.0,doll_0.30269999999999997 b,,,,"mr. vernon casey baker mining eng., mba",
+80909,journey energy inc.,,,,,doll_0.31660000000000005 b,,,,mr. alexander g. verge,
+81222,japan gold corp,,,,,doll_0.06659999999999999 b,,,,mr. john graham proust c.dir.,
+81277,just kitchen holdings corp,,,,,doll_0.0605 b,,,,mr. hsin-how  chen,
+81344,"jericho energy ventures, inc.",,,,,doll_0.1247 b,,,,mr. brian  williamson,
+81502,jobindex a/s,,,,,doll_0.16599999999999998 b,,,,mr. kaare agerholm danielsen,
+81513,jutlander bank a/s,,,,,doll_0.29700000000000004 b,,,,not found,
+132294,jentech precision industrial,taiwan,,,,doll_0.00177 b,doll_0.291 b,doll_0.04 b,"['technology', 'electronics', 'capital goods']",not found,
+82019,jsl construction & development co. ltd,,,,,doll_1.862 b,,,,not found,
+82188,jmicron technology corp,,,,,doll_0.9810000000000001 b,,,,not found,
+82197,jih lin technology co. ltd,,,,,doll_1.0070000000000001 b,,,,not found,
+82344,"jia wei lifestyle, inc.",,,,1059.0,doll_0.5900000000000001 b,,,,not found,
+82458,jmc electronics co. ltd,,,,,doll_0.425 b,,,,not found,
+82478,jiin yeeh ding enterprises corp,,,,,doll_0.43499999999999994 b,,,,not found,
+82723,"jihsun financial holding co.,ltd.",,,,3313.0,doll_4.678 b,,,,not found,
+147941,julius bar gruppe ag,switzerland,,,6606.0,doll_1.141 b,doll_0.0 b,doll_0.001149 b,"['financial services', 'banking services', 'asset management']",philipp rickenbacher,
+82943,japan airlines co. ltd,,,,36060.0,doll_1054.0 b,,,,not found,
+82985,jsr corp,japan,"c/o patterson belknap c/o herman raspe, 1133 avenue of the americas, minato-ku, tokyo, 105-8640",,9696.0,doll_76.75 b,doll_0.3 b,,['chemicals'],mr. eric r.  johnson,
+83095,jeol ltd,japan,"3-1-2, musashino, akishima-shi, tokyo, 196-8558",,3291.0,doll_33.0 b,doll_0.12 b,,['industrial goods and machinery'],mr. gon-emon  kurihara,
+109473,jtekt corp,japan,"1-1, asahi-cho, kariya-shi, aichi, 448-8652",,48332.0,doll_0.25 b,doll_1.27 b,,['automotive'],not found,
+83143,jcr pharmaceuticals co. ltd,,,,,doll_28.731 b,,,,mr. shin  ashida,
+130627,japan logistics fund,japan,,,,doll_0.00281 b,doll_0.133 b,doll_0.059 b,"['real estate', 'logistics', 'investments', 'property investments']",not found,
+83203,"j. front retailing co., ltd.",,,,6528.0,doll_26.192 b,,,,not found,
+83270,japan aviation electronics industry,japan,"12f, shibuya solasta, 1-21-1, dogenzaka, shibuya-ku, tokyo, 150-0043",,7995.0,doll_0.158 b,doll_0.2 b,doll_0.105 b,"['technology', 'electronics', 'capital goods']",not found,
+154211,japan excellent,japan,,,,doll_0.155 b,doll_0.155 b,doll_0.057 b,"['real estate', 'property investments', 'commercial properties']",not found,
+155270,japan petroleum exploration,japan,"3f, sapia tower, 1-7-12, marunouchi, chiyoda-ku, tokyo, 100-0005",,,doll_14.968 b,doll_0.001818 b,doll_-0.226 b,"['energy', 'oil and gas']",mr. masahiro  fujita,
+83336,"jins holdings, inc.",,,,3641.0,doll_13.109 b,,,,mr. hitoshi  tanaka,
+83338,japan asset marketing co. ltd,,,,,doll_12.407 b,,,,not found,
+83368,"jtower, inc.",,,,,doll_14.255 b,,,,not found,
+83428,joyful honda co. ltd,,,,2309.0,doll_10.693000000000001 b,,,,taketoshi  hosoya,
+83431,jaccs co. ltd,,,,6285.0,doll_10.725 b,,,,mr. yasuyoshi  itagaki,
+83450,jcu corp,,,,,doll_11.115 b,,,,not found,
+83512,japan lifeline co. ltd,,,,1167.0,doll_8.031 b,,,,mr. keisuke  suzuki,
+83580,jac recruitment co. ltd,,,,1440.0,doll_7.598999999999999 b,,,,ms. hiromi  tazaki,
+83689,japan securities finance co. ltd,,,,,doll_8.689 b,,,,not found,
+154338,japan elevator serviceholdings,japan,,,1234.0,doll_0.0023599999999999997 b,doll_0.223 b,doll_0.021 b,"['industries', 'professional services', 'business services']",not found,
+83735,japan material co. ltd,,,,,doll_17.304 b,,,,mr. hisao  tanaka,
+83762,jafco co ltd,,,,,doll_21.811 b,,,,mr. shinichi  fuki,
+83778,"jmdc, inc.",,,,,doll_38.032 b,,,,mr. yosuke  matsushima,
+83784,justsystems corp,,,,,doll_38.569 b,,,,mr. kyotaro  sekinada,
+107872,jgc holdings corporation,japan,"6f, new ohtemachi bldg., 2-2-1, ote-machi, yokohama-shi, kanagawa, 220-6001",,,doll_38.655 b,doll_0.003126 b,doll_-0.259 b,"['industries', 'construction']",mr. masayuki  sato,
+83878,jde peet's n.v.,netherlands,,,19000.0,doll_1.8579999999999999 b,doll_0.007715 b,doll_0.843 b,"['consumer defensive', 'package foods', 'coffee', 'tea', 'tea and coffee']",fabien simon,
+83960,jb financial group co. ltd,,,,,doll_1721.0 b,,,,mr. ki-hong  kim,
+84000,"jeil pharmaceutical co.,ltd",,,,,doll_40.778 b,,,,not found,
+84024,jin air co. ltd,,,,,doll_84.261 b,,,,not found,
+84074,jw lifescience corp,,,,,doll_22.685 b,,,,sungnam  cha,
+84081,js corp,,,,,doll_31.008999999999997 b,,,,not found,
+84276,jbb builders international ltd,,,,,doll_0.3005 b,,,,not found,
+84285,jb foods ltd,,,,,doll_0.15159999999999998 b,,,,mr. how keong tey,
+84400,jardine cycle & carriage ltd,singapore,"239 alexandra road, singapore, 159930",,240000.0,doll_0.9890000000000001 b,doll_1.77 b,,['automotive'],not found,
+84417,jadestone energy inc.,,,,,doll_0.4325 b,,,,mr. alexander paul blakeley,
+84419,jadestone energy plc,,,,,doll_0.5253 b,,,,mr. alexander paul blakeley,
+84447,japfa ltd,,,,40000.0,doll_0.141 b,,,,mr. yong nang  tan,
+84490,jlogo holdings ltd,,,,,doll_0.9685 b,,,,ms. yeun ching  low,
+84495,jiutian chemical group ltd,,,,,doll_0.1792 b,,,,mr. hongguang  wei,
+84497,jumbo group ltd,,,,,doll_0.19269999999999998 b,,,,mr. kiam meng  ang,
+84544,jep holdings ltd,,,,,doll_0.1199 b,,,,mr. andy  luong,
+84586,japan foods holding ltd,,,,,doll_0.075 b,,,,mr. takahashi  kenichi,
+84753,jasper investments ltd,,,,,doll_0.013099999999999999 b,,,,mr. wing chong  lai,
+84758,jubilee industries holdings ltd,,,,1858.0,doll_0.013699999999999999 b,,,,mr. yeok kian  tea,
+84763,jadason enterprises ltd,,,,,doll_0.0144 b,,,,mr. chi wai  fung,
+84831,jason marine group ltd,,,,,doll_0.0119 b,,,,mr. chew tuck  foo,
+138721,jarir marketing company,saudi arabia,,,,doll_0.00625 b,doll_0.0024230000000000002 b,doll_0.264 b,"['consumer cyclical', 'retail']",mr. abdul karim bin abdul rahman al-agil,
+85961,jazan energy and development co.,,,,,doll_0.9726 b,,,,not found,
+131202,jeudan a/s,denmark,,,,doll_1.5710000000000002 b,doll_0.244 b,doll_0.316 b,['real estate'],not found,
+145632,juventus football club,italy,,,,doll_0.10500000000000001 b,doll_0.478 b,doll_-0.209 b,"['consumer cyclical', 'entertainment', 'leisure', 'sports related']",not found,
+86393,jonix s.p.a.,,,,,doll_0.0281 b,,,,antonio  cecchi,
+86934,jb hi-fi limited,australia,"podium level, 60 city road, southbank, victoria, 3006",,13200.0,doll_0.642 b,doll_0.6900000000000001 b,,['retailing'],mr. terry david smart,
+87027,johns lyng group limited,,,,1200.0,doll_0.195 b,,,,"mr. scott andrew didier a.m., am",
+87071,jervois global limited,,,,,doll_0.123 b,,,,mr. bryce andrew crocker,
+87080,jumbo interactive limited,,,,,doll_0.127 b,,,,mr. mike  veverka beng (hons),
+87316,janison education group limited,,,,,doll_0.23 b,,,,mr. david  caspari,
+87723,joyce corporation ltd,,,,,doll_0.093 b,,,,mr. daniel  madden aca,
+87770,jindalee resources limited,,,,,doll_0.2015 b,,,,not found,
+87775,japara healthcare limited,,,,6000.0,doll_0.1978 b,,,,not found,
+87815,jupiter mines limited,,,,,doll_0.5093 b,,,,mr. william  winter,
+88418,jlen environmental assets group limited,,,,,doll_0.6915 b,,,,not found,
+88818,jarvis securities plc,,,,,doll_0.1017 b,,,,mr. andrew james grant,
+88900,j. smart & co. (contractors) plc,,,,,doll_0.0687 b,,,,not found,
+89275,j.s.p. property public company ltd,,,,,doll_0.5309999999999999 b,,,,dr. kessara  thanyalakpark,
+89298,j.r.w. utility public company ltd,,,,,doll_0.597 b,,,,mr. jarun  wiwatjesadawut,
+89323,jubilee enterprise public company ltd,,,,,doll_0.403 b,,,,ms. unyarat  pornprakit,
+89324,jas asset public company ltd,,,,,doll_0.40700000000000003 b,,,,mr. suphot sirikulpas wanna,
+89325,jkn global media public company ltd,,,,,doll_0.41600000000000004 b,,,,ms. jakkaphong  jakrajutatip,
+89490,jutha maritime public company ltd,,,,,doll_0.156 b,,,,not found,
+89506,jck international public company ltd,,,,,doll_0.16499999999999998 b,,,,not found,
+89526,jack chia industries ,,,,,doll_0.11699999999999999 b,,,,not found,
+89592,jck hospitality public company ltd,,,,,doll_0.48710000000000003 b,,,,mr. chotiwit  taechaubol,
+89596,jakpaisan estate public company ltd,,,,,doll_0.5247999999999999 b,,,,mr. weeraphan  jakpaisan,
+110168,jabil inc,united states,"10800 roosevelt boulevard north, st petersburg, florida, 33716",,250000.0,doll_1.04 b,doll_3.35 b,,['technology and communications'],mr. mark t. mondello,
+90472,"j2 global, inc.",,,,4000.0,doll_0.536 b,,,,not found,
+90791,jwd infologistics public company ltd,,,,,doll_1.8370000000000002 b,,,,mr. charvanin  bunditkitsada,
+90959,jasmine international pcl,,,,,doll_3.7060000000000004 b,,,,mr. subhoj  sunyabhisithkul,
+174083,jay mart public company,thailand,,,,doll_0.0024100000000000002 b,doll_0.326 b,doll_0.068 b,"['consumer cyclical', 'retail']",not found,
+91015,jantsa jant sanayi ve ticaret a.s.,,,,1147.0,doll_0.5660000000000001 b,,,,not found,
+162595,jmt network services public company,thailand,,,,doll_8.353 b,doll_0.1 b,doll_0.039 b,['financial services'],mr. sutthirak  traichira-aporn,
+141125,jasmine telecom systems public company,thailand,,,,doll_0.28700000000000003 b,,0.0,"['communication services', 'telecom']",not found,
+95072,jinke property group,china,,,25000.0,doll_0.373 b,doll_1.558 b,doll_0.524 b,['real estate'],not found,
+96142,jiangxi copper,china,,,,doll_0.572 b,doll_6.845999999999999 b,doll_0.8946000000000001 b,['materials'],gao qing zheng,
+162786,jiangsu zhongnan construction group,china,"no.899 shanghai road, haimen city, 200335",,42974.0,doll_0.246 b,doll_1.4 b,doll_-0.492 b,"['railway', 'railway vehicles and railway components', 'infrastructure', 'utilities']",yu han chen,
+95178,julius baer group,switzerland,,,,doll_1.034 b,doll_0.495 b,doll_0.118 b,['banking'],philipp rickenbacher,
+93181,joint stock commercial bank for foreign trade of vietnam,vietnam,"198 tran quang khai, phuong ly thai to, quan hoan kiem, hanoi",,,doll_1.6940000000000002 b,doll_0.391 b,doll_0.955 b,['banking'],dung quang pham,
+93360,jabil circuit,united states,,,,doll_0.8109999999999999 b,doll_3.074 b,doll_0.8075 b,['technology hardware & equipment'],mark t. mondello,
+93433,jiangsu king's luck brewery joint-stock,china,"no. 118, jiudu avenue, yanghe, suqian, jiangsu, 223800",2002.0,15026.0,doll_0.03889 b,doll_0.39 b,doll_0.295 b,"['consumer defensive', 'beverages', 'alcoholic beverages']",lian dong zhang,
+96740,jm smucker,united states,,,,doll_1.543 b,doll_0.79 b,doll_0.5748 b,"['food, drink & tobacco']",mark t. smucker,
+96861,japan securities,japan,,,,doll_0.655 b,doll_0.274 b,doll_0.0432 b,['business services & supplies'],minoru masubuchi,
+152808,jiangxi bank,china,,,,doll_0.123 b,doll_0.35 b,doll_0.264 b,"['financial services', 'banking services']",not found,
+96994,juroku  financial group,japan,,,,doll_0.626 b,doll_0.10400000000000001 b,doll_0.1388 b,['banking'],yukio murase,
+145733,jinshang bank,china,,,,doll_0.00103 b,doll_0.192 b,doll_0.26130000000000003 b,"['financial services', 'banking services']",not found,
+94208,jb financial group,south korea,,1993.0,,doll_0.135 b,doll_0.2 b,doll_0.379 b,"['financial services', 'banking services']",ki-hong kim,bratislava
+99250,journi print,austria,,2014.0,29000.0,,doll_0.006849999999999999 b,,['ecommerce'],,
+98304,jl&p,france,,2017.0,15000.0,,doll_0.00221 b,,['energy'],,
+102464,jmb,poland,,2000.0,381000.0,,doll_0.07018 b,,['energy'],,
+102974,joannes distribution sas,france,,2011.0,8000.0,,doll_0.0070599999999999994 b,,['retail'],,
+103712,join business management consulting,italy,,2013.0,77000.0,,doll_0.01019 b,,['management consulting'],,
+98967,james and james fulfilment,uk,,2010.0,158000.0,,doll_0.03089 b,,['ecommerce'],,
+97992,jens rabe academy,germany,,2009.0,20000.0,,doll_0.00366 b,,['education'],,
+99037,jointly il welfare condiviso,italy,,2014.0,34000.0,,doll_0.0024 b,,['support services'],,
+100399,jayride group,australia,,2012.0,,,doll_0.0028399999999999996 b,,['travel & leisure'],,
+100529,jungle creations,united kingdom,,2014.0,,,doll_0.011699999999999999 b,,['media'],,
+100473,jco jewelry,singapore,,2016.0,,,doll_0.00613 b,,['ecommerce'],,
+100478,jeju angel car,south korea,,2013.0,,,doll_0.00449 b,,['travel & leisure'],,
+100637,j-pm systems,germany,,2015.0,,,doll_0.02926 b,,['industrial goods'],,
+100803,jati group,indonesia,,2010.0,,,doll_0.02248 b,,['transport'],,
+100868,jooren,japan,,2011.0,,,doll_0.00145 b,,['technology'],,
+100949,japan flange direct,japan,,2014.0,,,doll_0.0024700000000000004 b,,['industrial goods'],,
+101179,japan project solutions,japan,,2013.0,,,doll_0.00483 b,,['management consulting'],,
+101173,jetsetgo,india,,2014.0,,,doll_0.02062 b,,['travel & leisure'],,
+101206,jia,japan,,2006.0,,,doll_0.15302000000000002 b,,['financial services'],,
+101760,jac recruitment,japan,,1975.0,,,doll_0.22216999999999998 b,,['support services'],,
+101811,jayshree grain,india,,2014.0,,,doll_0.02002 b,,['food & beverage'],,
+101857,jbr capital,united kingdom,,2015.0,,,doll_0.01866 b,,['financial services'],,
+101865,jam,netherlands,,2012.0,,,doll_0.0028 b,,['support services'],,
+101908,jentech,taiwan,,1987.0,,,doll_0.17747 b,,['technology'],,
+101927,j sol medical,japan,,2016.0,,,doll_0.00464 b,,['health'],,
+102129,jpspl - jp structures,india,,2009.0,,,doll_0.04478 b,,['construction'],,
+102497,jsc medium group,lithuania,,2008.0,,,doll_0.003 b,,['transport'],,
+103137,jutta product,finland,,2009.0,,,doll_0.00184 b,,['fashion'],,
+103343,jr service,germany,,2014.0,,,doll_0.00222 b,,['support services'],,
+103372,juan francisco alcazar,spain,,2015.0,,,doll_0.00289 b,,['industrial goods'],,
+103553,j. toldos reciclajes manchegos,spain,,2013.0,,,doll_0.00232 b,,['waste management & recycling'],,
+103762,justpark parking,united kingdom,,2006.0,,,doll_0.00598 b,,['technology'],,
+103783,jsc intermodal container service,lithuania,,2009.0,,,doll_0.005900000000000001 b,,['transport'],,
+103847,jb carconcept,germany,,2016.0,,,doll_0.00415 b,,['automobiles'],,
+103918,jura direkt,germany,,2012.0,,,doll_0.0030499999999999998 b,,['technology'],,
+104017,j-labs,poland,,2010.0,,,doll_0.01242 b,,['technology'],,
+104123,japcook,france,,2014.0,,,doll_0.01102 b,,['agricultural commodities'],,
+104154,just eat**,united kingdom,,2001.0,,,doll_0.88081 b,,['ecommerce'],,
+104707,james and james fulfilment,united kingdom,,2010.0,,,doll_0.0105 b,,['ecommerce'],,
+104824,jones knowles ritchie,united kingdom,,1996.0,,,doll_0.04591 b,,['sales & marketing'],,
+104893,jobvertising crossmedia,germany,,2011.0,,,doll_0.0147 b,,['support services'],,
+105025,join business,italy,,2013.0,,,doll_0.0031 b,,['management consulting'],,
+105383,jiangsu yuyue medical equipment & supply co ltd,china,"no. 1 baisheng road, development zone, danyang city, zhenjiang, jiangsu, 212300",,6440.0,doll_0.45999999999999996 b,doll_0.11000000000000001 b,,['medical equipment'],,
+105442,joyful honda co ltd,japan,"1-16-2, fujisaki, tsuchiura-shi, ibaraki , 300-0813",,1943.0,doll_0.1 b,doll_0.11000000000000001 b,,['retailing'],,
+105691,jinduicheng molybdenum co ltd,china,"tower a, jinmu general building, no.88 jinye 1st road, high-tech industrial development zone, xi'an, shaanxi, 710077",,5159.0,doll_0.54 b,doll_0.12 b,,['metals and mining'],,
+105738,just eat limited,united kingdom,"fleet place house, 2 fleet place, london, england, ec4m7rf",,3500.0,0,doll_0.13 b,,['leisure and arts'],,
+106021,jaccs co ltd,japan,"ebisu neonato, 4-1-18, ebisu, shibuya-ku, tokyo, 150-8932",,6145.0,doll_0.11000000000000001 b,doll_0.15 b,,['financial services'],,
+106096,jordan phosphate mines co plc,jordan,"al-shmaisani, p.o.box 30, amman, 11118",,3767.0,doll_0.5 b,doll_0.15 b,,['metals and mining'],,
+162976,jiangsu nhwa pharmaceutical co. ltd,china,"287 xiangke road, pudong new district, shanghai, 201210",,,doll_0.00107 b,doll_0.573 b,doll_0.116 b,"['healthcare', 'biotechnology']",not found,
+106224,jk tyre & industries ltd,india,"gulab bhawan, 6a, bahadur shah zafar marg, new delhi, 110002",,5904.0,doll_0.5492999999999999 b,doll_0.16 b,,['automotive'],,
+106236,joyoung co ltd,china,"no.999 meili road, huaiyin district, ji'nan, shandong , 250018",,2915.0,doll_0.22000000000000003 b,doll_0.16 b,,['consumer packaged goods'],,
+106347,jiangxi ganfeng lithium co ltd,china,"longteng road, economic development zone, xinyu, jiangxi, 338000",,7870.0,doll_2.3600000000000003 b,doll_0.16999999999999998 b,,['metals and mining'],,
+106369,jordan petroleum refinery co ltd,jordan,"first circle, jabal amman, p.o.box 1079, 11118",,1883.0,doll_0.8877999999999999 b,doll_0.16999999999999998 b,,['energy and utilities'],,
+133764,jiangsu jiangyin rural commercial bank,china,"no. 58 new century avenue, changshu city, suzhou, jiangsu, 215500",,6864.0,doll_0.0029300000000000003 b,doll_0.641 b,doll_0.318 b,"['financial services', 'banking services']",not found,
+107052,jarir marketing co,saudi arabia,"olaya - main olaya street, p.o.box 3196, riyadh, 11471",,2161.0,doll_0.48 b,doll_0.24 b,,['retailing'],,
+107097,jvckenwood corp,japan,"honsha bldg., 3-12, moriya-cho, kanagawa-ku, yokohama-shi, 221-0022",,16585.0,doll_0.4582 b,doll_0.25 b,,['business and consumer services'],,
+107187,japan display inc,japan,"7-1, nishi-shinbashi 3-chome, minato-ku, tokyo, 105-0003",,6600.0,doll_0.435 b,doll_0.26 b,,['technology and communications'],,
+107283,jcb co ltd,japan,"aoyama rise square, 5-1-22 minami aoyama, minato-ku, tokyo city, 107-8686",,4375.0,0,doll_0.27999999999999997 b,,['financial services'],,
+107365,jsc halyk bank,kazakhstan,"medeuskiy rayon, pr. al'-farabi, 40, almaty, 050059",,16528.0,doll_0.3 b,doll_0.29 b,,['financial services'],,
+107389,j front retailing co ltd,japan,"nihonbashi 1-chome mitsui building, 1-4-1, nihonbashi, chuo-ku, tokyo, 104-0028",,5589.0,doll_0.24 b,doll_0.3 b,,['retailing'],,
+107458,jilin yatai group co ltd,china,"no. 1801 jilin road, changchun, 130031",,18589.0,doll_0.11000000000000001 b,doll_0.3 b,,['construction'],,
+139555,jollibee foods corporation,philippines,"10/f jollibee plaza building, emerald ave., ortigas center, pasig, rizal, 1605",,11808.0,doll_0.00455 b,doll_0.31 b,doll_0.105 b,"['consumer cyclical', 'retail', 'food chains / distributor', 'restaurants']",not found,ortigas center
+107570,jangho group co ltd,china,"no. 5 niuhui north fifth street, shunyi district, beijing, 101300",,9803.0,doll_0.13999999999999999 b,doll_0.32 b,,['construction'],,
+107949,japan pulp and paper co ltd,japan,"forefront tower, 3-12-1, kachidoki, chuo-ku, tokyo, 104-8656",,4097.0,doll_0.5586 b,doll_0.4 b,,['paper and packaging'],,
+184264,jg summit holdings,philippines,"43rd floor robinsons equitable tower, ortigas center, adb avenue corner, p. poveda street, pasig, 1600",,,doll_0.78 b,doll_0.47000000000000003 b,,['consumer packaged goods'],,robinsons equitable tower
+108211,jackson national life insurance co,united states,"1 corporate way, lansing, michigan, 48951",,,0,doll_0.47000000000000003 b,,['financial services'],,
+152583,jeld-wen holding,united states,"2645 silver crescent dr, charlotte, north carolina, 28273-3566",,24700.0,doll_0.9581000000000001 b,doll_0.48 b,doll_0.168 b,"['industries', 'forest products', 'wood products', 'furniture', 'home & furniture', 'building products and equipment']",not found,
+151554,jizhong energy resources,china,"no.191 zhongxing west avenue, xingtai, hebei, 054000",,38063.0,doll_0.0025800000000000003 b,doll_0.49000000000000005 b,doll_0.399 b,"['energy', 'coal mining', 'mining']",not found,
+131746,jiangling motors corporation,china,"no. 509, yingbin north avenue, nanchang, jiangxi, 330001",,,doll_0.13999999999999999 b,doll_0.005125 b,doll_0.084 b,"['consumer cyclical', 'automobile', 'cars']",not found,
+108436,joint stock commercial bank for investment and development of vietnam,vietnam,"thap bidv, 35 hang voi, quan hoan kiem, hanoi",,27881.0,doll_0.97 b,doll_0.55 b,,['financial services'],,
+108609,japan airlines co ltd,japan,"19f, nre tennozu bldg., 2-4-11, higashi-shinagawa, shinagawa-ku, tokyo, 140-8637",,35423.0,doll_0.89 b,doll_0.61 b,,['transport and logistics'],,
+108674,jinkosolar holding co ltd,china,"shangrao economic development zone, 1 jingke road, jiangxi, 334100",,31030.0,doll_0.29 b,doll_0.63 b,,['alternative energy'],,
+108690,ja solar technology co ltd,china,"no. 3, tianshan north road, economic and tchnlgicl dev zn, beijing, 100160",,29638.0,doll_2.29 b,doll_0.64 b,,['power'],,
+108915,j.p. morgan private bank,united states,"383 madison avenue, new york city, 10179-0001",,,0,doll_0.77 b,,['financial services'],,
+109303,jsfc sistema,russia,"ul.mokhovaya, dom 13, stroenie 1, moscow, 125009",,138892.0,doll_0.16999999999999998 b,doll_1.09 b,,['technology and communications'],,
+109625,john lewis partnership plc,united kingdom,"171 victoria street, london, england, sw1e5nn",,78600.0,0,doll_1.49 b,,['retailing'],,
+109627,jacobs solutions inc,united states,"1999 bryan street, suite 1200, dallas, texas, 75201",,55000.0,doll_1.54 b,doll_1.49 b,,['technology and communications'],,
+109886,jsw steel ltd,india,"jindal mansion, 5 a, g. deshmukh marg, mumbai, 400026",,12398.0,doll_2.2600000000000002 b,doll_1.98 b,,['metals and mining'],,
+110198,jardine matheson holdings ltd,hong kong,"48th floor, jardine house, g., p.o. box 70, hong kong, hm12",,400000.0,doll_1.49 b,doll_3.59 b,,['conglomerate'],,
+110403,jiangxi copper co ltd,china,"no. 7666, changdong avenue, hi-tech zone, nanchang, jiangxi, 330096",,26166.0,doll_0.82 b,doll_6.859999999999999 b,,['metals and mining'],,
+110520,jd.com inc,china,"20th floor, building a, no. 18 kechuang 11 street, yizhuang economic and technological development zone, beijing, 101111",,385357.0,doll_9.51 b,doll_14.75 b,,['retailing'],,
+111506,joe ledley football academy limited,,room9 derbyconferencecentre londonroad derby england de248ux,,,,,,,,
+113072,jm smith properties ltd,,,,,,,,,,
+114077,jabac finances limited,,,,,,,,,,
+114081,john j finances ltd,,,,,,,,,,
+114082,jlf finances ltd,,,,,,,,,,
+114159,j webster finances limited,,,,,,,,,,
+115875,jp construction 1 limited,,,,,,,,,,
+117803,jkl holdings ltd,,,,,,,,,,
+119359,jaguar land rover italia spa,italy,"viale alessandro marchetti 105, roma, 00148, roma, italy",2000.0,,,,,['retail trade'],,
+119361,j.a.s. jet air service spa,italy,"viuzzo di porto 4/b, scandicci, 50018, firenze, italy",1974.0,,,,,"['transportation, communications, electric, gas, and sanitary services']",,
+123232,johnson controls italia srl,italy,via milanese 124,,,,,,,,cinisello balsamo
+119622,johnson electric asti srl,italy,corso alessandria 395,,,,,,,,asti
+119765,"jpmorgan chase bank, national association",united kingdom,25 bank street canary wharf,,,,,,,,london
+119769,j.p. morgan trust company (jersey) limited,united kingdom,grenville street st. helier,,,,,,,,jersey
+119797,johnson electric international (uk) limited,united kingdom,metropolitan house longrigg,,,,,,,,newcastle-upon-tyne
+119877,j.h. fenner & co. limited,united kingdom,marfleet lane,,,,,,,,hull
+120041,jurassic fibre limited,united kingdom,milford house pynes hil,,,,,,,,exeter
+123201,johnson & johnson ab eesti filiaal,estonia,lootsa tn 2a,,,,,,,,tallinn
+120065,"j. & p. coats, limited",united kingdom,the square stockley park,,,,,,,,uxbridge
+120100,jimlar corporation,united states,40 wall st fl 37,,,,,,,,new york
+122836,j.c. bamford excavators limited,united kingdom,lakeside works rocester,,,,,,,,uttoxeter
+122840,javelin global commodities (uk) ltd,united kingdom,7 howick place,,,,,,,,london
+120224,"jasper engine exchange, inc.",united states,815 wernsing rd,,,,,,,,jasper
+122872,j resources gold (uk) limited,united kingdom,30 haymarket,,,,,,,,london
+120351,jost (great britain) limited,united kingdom,edbro house nelson street,,,,,,,,bolton
+123267,j.c.b. service,united kingdom,lakeside works rocester,,,,,,,,uttoxeter
+120513,jcb finance ltd,united kingdom,"the mill high street, rocester",,,,,,,,uttoxeter
+120855,jpf api laminates uk limited,united kingdom,second avenue poynton,,,,,,,,stockport
+121041,john mills limited,united kingdom,610 chiswick high road,,,,,,,,london
+122891,john brown us llc,united states,one south station ste 3,,,,,,,,boston
+123973,"justerini & brooks,limited",united kingdom,61 st. james's street,,,,,,,,london
+123011,justin vineyards & winery llc,united states,11680 chimney rock rd,,,,,,,,paso robles
+121213,jardine motors group uk limited,united kingdom,auto way ipswich road severalls industrial park,,,,,,,,colchester
+124084,johnson matthey davy technologies limited,united kingdom,10 eastbourne terrace,,,,,,,,london
+121396,john k.king & sons limited,united kingdom,po box 250,,,,,,,,peterborough
+121417,john menzies limited,united kingdom,2 lochside avenue,,,,,,,,edinburgh
+121699,john crane uk limited,united kingdom,buckingham house 361-366 buckingham avenue,,,,,,,,slough
+123744,"j. m. smucker company, the",united states,1 strawberry ln,,,,,,,,orrville
+122232,jrl plant and logistics limited,united kingdom,4 elstree way,,,,,,,,borehamwood
+122288,john wood group us holdings inc,united states,17325 park row ste 500,,,,,,,,houston
+122397,j.p. morgan energy trading holdings ltd,united kingdom,20 moorgate,,,,,,,,london
+122410,juliet holding spa,italy,via dell'unione europea 6 a-6 b,,,,,,,,san donato milanese
+122435,j.p. morgan investment management inc.,united states,277 park ave,,,,,,,,new york
+122515,jacobacci & partners spa,italy,corso emilia 8,,,,,,,,torino
+122530,jil sander spa,italy,foro buonaparte 71,,,,,,['clothing & accessories'],,hamburg
+122549,"jayco, inc.",united states,903 south main st,,,,,,,,middlebury
+122657,jackson national life insurance company,united states,1 corporate way,,,,,,,,lansing
+124238,joor careers,,,2010.0,,,,,['internet'],,
+124259,js products careers,,,1986.0,,,,,['wholesale'],,
+124285,joveo careers,,,2017.0,,,,,['computer software'],,
+124451,joist careers,,,2011.0,,,,,['information technology & services'],,
+124485,jovia careers,,,1938.0,,,,,['banking'],,
+124897,jade global careers,,,2003.0,,,,,['information technology & services'],,
+125056,justworks careers,,,2012.0,,,,,['human resources'],,
+125149,jda software careers,,,1985.0,,,,,['computer software'],,
+146531,j p morgan chase & co,united states,,,271025.0,doll_0.49400000000000005 b,doll_0.12164 b,doll_0.0465 b,"['financial services', 'banking services', 'credit cards', 'asset management']",jamie dimon,
+168674,jardine matheson holdings,bermuda,,,403000.0,doll_4.451 b,doll_0.035862000000000005 b,doll_1.881 b,"['industries', 'conglomerate', 'automobile', 'real estate', 'financial services', 'insurance', 'hotels', 'shipping', 'travel and transport', 'restaurants', 'retail', 'infrastructure']",benjamin william keswick,
+136324,jardine strategic holdings,hong kong,,,464000.0,doll_0.03791 b,doll_0.038545 b,0.0,"['industries', 'conglomerate', 'automobile', 'real estate', 'financial services', 'insurance', 'hotels', 'shipping', 'travel and transport', 'restaurants', 'retail', 'infrastructure']",david hsu,
+136676,jd digits,china,,,,0,doll_0.13988 b,doll_-0.523 b,"['financial services', 'internet or mobile app based business', 'technology']",richard qiangdong liu,
+169221,jm family enterprises,united states,,,4500.0,0,doll_0.016300000000000002 b,0.0,,brent burns,
+136864,ja solar technology,china,,,25183.0,doll_0.02122 b,doll_0.00601 b,doll_0.297 b,"['technology', 'solar power devices']",not found,
+136966,jd logistics,china,,,,doll_0.026690000000000002 b,doll_0.015235 b,doll_-2.305 b,"['freight transport', 'logistics', 'transportation', 'courier']",not found,
+137190,jiangsu eastern shenghong,china,,,,doll_0.02241 b,doll_0.007527 b,doll_0.661 b,"['consumer cyclical', 'textile', 'chemicals', 'electricity generation', 'power generation']",not found,
+170148,jiugui liquor,china,,,1680.0,doll_0.01047 b,doll_0.497 b,doll_0.13 b,"['consumer defensive', 'alcoholic beverages', 'beverages']",not found,
+148934,jsr corporation,japan,,,9050.0,doll_0.0077599999999999995 b,doll_0.002488 b,doll_0.272 b,"['basic materials', 'rubber products', 'chemicals', 'plastics / plastic products', 'semiconductors']",not found,
+148994,jason furniture (hangzhou),china,,,,doll_0.757 b,doll_0.002669 b,doll_0.242 b,"['consumer cyclical', 'furniture', 'home & furniture', 'home furnishing']",not found,
+159872,jafron biomedical,china,,,1895.0,doll_0.6809999999999999 b,doll_0.42 b,doll_0.188 b,"['healthcare', 'medical equipment']",not found,
+170945,jiangsu expressway company,china,,,,doll_0.657 b,doll_0.002165 b,doll_0.656 b,"['industries', 'infrastructure', 'construction']",not found,
+160165,juewei food,china,,,,doll_0.005809999999999999 b,doll_0.953 b,doll_0.143 b,"['consumer defensive', 'food products', 'meat / poultry / fish / chicken', 'fmcg', 'package foods']",not found,
+149696,joinn laboratories (china),china,,,,doll_0.0055 b,doll_0.238 b,doll_0.087 b,"['healthcare', 'health care diagnostics']",not found,
+171383,jiangsu yuyue medical equipment & supply,china,,,5525.0,doll_0.004889999999999999 b,doll_0.001003 b,doll_0.216 b,"['healthcare', 'medical equipment']",not found,
+139360,jiangxi special electric motor,china,,,2729.0,doll_0.48600000000000004 b,doll_0.434 b,doll_0.056 b,"['industries', 'electrical products', 'batteries']",not found,
+150088,jonjee hi-tech industrial & commercial holding,china,,,5120.0,doll_0.479 b,doll_0.744 b,doll_0.108 b,['real estate'],not found,
+150276,jl mag rare-earth,china,,,3038.0,doll_0.00391 b,doll_0.594 b,doll_0.066 b,"['industries', 'metal fabrication products']",not found,
+150346,"jinan shengquan group share holding co., ltd.",china,,,,doll_0.43600000000000005 b,doll_0.001297 b,doll_0.101 b,"['basic materials', 'chemicals']",not found,
+150369,jiangsu shuangxing color plastic new materials,china,,,,doll_0.00432 b,doll_0.872 b,doll_0.204 b,"['consumer cyclical', 'packaging']",not found,
+150466,jamf holding corp.,united states,,,2212.0,doll_0.00417 b,doll_0.366 b,doll_-0.075 b,"['technology', 'software and it']",not found,
+139942,jbg smith properties,united states,,,1050.0,doll_0.0039900000000000005 b,doll_0.634 b,doll_-0.082 b,"['real estate', 'consumer services', 'property investments', 'commercial properties']",not found,
+161344,jiangsu guoxin,china,,,4800.0,doll_0.00392 b,doll_0.004079 b,doll_-0.05 b,"['industries', 'electric utilities', 'renewable energy']",not found,
+150849,jiangsu aucksun,china,,,2641.0,doll_0.376 b,,0.0,"['consumer cyclical', 'packaging']",not found,
+151010,jilin electric power,china,,,,doll_0.00257 b,doll_0.0019370000000000001 b,doll_0.066 b,"['utilities', 'electric utilities']",not found,
+161795,jinduicheng molybdenum,china,,,5216.0,doll_0.00346 b,doll_0.00116 b,doll_0.072 b,"['basic materials', 'molybdenum', 'mining']",not found,
+151146,jeol,japan,,,3029.0,doll_0.00335 b,doll_0.00101 b,doll_0.09 b,"['technology', 'technology hardware and instruments']",not found,
+172866,jiangsu guotai international group,china,,,,doll_0.00313 b,doll_0.005791 b,doll_0.182 b,"['industries', 'imports / exports services', 'conglomerate']",not found,
+151305,jiangsu phoenix publishing & media corporation,china,,,7228.0,doll_1.932 b,doll_0.001821 b,doll_0.357 b,"['communication services', 'publishing']",not found,
+153441,jianmin pharmaceutical group,china,,,,doll_0.0028399999999999996 b,doll_0.335 b,doll_0.259 b,"['healthcare', 'pharmaceutical', 'healthcare products']",not found,
+140743,jtekt corporation,japan,,,49933.0,doll_0.317 b,doll_0.010423 b,doll_0.151 b,"['consumer cyclical', 'automobile parts', 'engineering products', 'automobile']",not found,
+151525,jm ab (publ),sweden,,,,doll_0.309 b,doll_0.001659 b,doll_0.191 b,"['consumer cyclical', 'construction', 'real estate']",not found,
+151593,jiangsu akcome science and technology,china,,,1610.0,doll_0.304 b,doll_0.368 b,doll_-0.059 b,"['technology', 'semiconductors']",not found,
+173351,jiangsu nata opto-electronic material,china,,,,doll_0.00297 b,doll_0.143 b,doll_0.02 b,"['technology', 'semiconductors']",not found,
+173409,joyoung,china,,,,doll_0.0029300000000000003 b,doll_0.001534 b,doll_0.108 b,"['consumer cyclical', 'kitchen appliances', 'home furnishing']",not found,
+162427,jmdc,japan,,,,doll_0.00391 b,doll_0.159 b,doll_0.024 b,"['healthcare', 'healthcare technology and information']",not found,
+141122,jolywood (suzhou) sunwatt,china,,,,doll_0.28700000000000003 b,,0.0,"['technology', 'solar power devices']",not found,
+151843,jinhui liquor,china,,,,doll_0.00272 b,doll_0.26 b,doll_0.047 b,"['consumer defensive', 'alcoholic beverages', 'beverages']",not found,
+130564,justsystems corporation,japan,,,,doll_0.277 b,doll_0.304 b,doll_0.089 b,"['technology', 'software and it infrastructure']",not found,
+141254,jiangsu dingsheng new material joint-stock,china,,,,doll_0.00277 b,,0.0,"['basic materials', 'aluminum']",not found,
+130590,jiangyin hengrun heavy industries co. ltd,china,,,,doll_0.0007700000000000001 b,,0.0,"['industries', 'metal fabrication products']",not found,
+152002,"jenkem technology co., ltd.",china,,,,doll_0.00273 b,,0.0,"['basic materials', 'chemicals']",not found,
+152013,jfrog ltd,united states,,,,doll_0.00369 b,doll_0.206 b,doll_-0.064 b,"['technology', 'software and it']",not found,
+130752,"jinke smart services group co., ltd.",china,,,,doll_0.00263 b,,0.0,['real estate'],not found,
+75875,jiangsu provincial agricultural reclamation and development,china,,,,doll_0.262 b,doll_0.0015480000000000001 b,doll_0.107 b,"['consumer defensive', 'agriculture products', 'agriculture related', 'farming / seeds / milling']",not found,
+152167,japan steel works,japan,,,5334.0,doll_0.26 b,doll_0.00156 b,doll_0.102 b,"['industries', 'industry machinery']",not found,
+141602,jade bird fire,china,,,,doll_0.00152 b,,0.0,"['industries', 'security systems and solutions', 'electronics']",not found,
+130947,jiangsu hengshun vinegar-industry,china,,,,doll_0.00249 b,doll_0.275 b,doll_0.017 b,"['consumer defensive', 'fmcg', 'package foods', 'food products']",not found,
+163169,j. front retailing,japan,,,6579.0,doll_0.23399999999999999 b,doll_0.002419 b,doll_0.032 b,"['consumer cyclical', 'retail']",not found,
+131170,jubilant life sciences,india,,,2554.0,0.0,,0.0,"['healthcare', 'healthcare products', 'pharmaceutical']",not found,
+131296,jcr pharmaceuticals,japan,,,,doll_0.00325 b,doll_0.373 b,doll_0.106 b,"['healthcare', 'pharmaceutical', 'healthcare products']",not found,
+131329,jianxi lianchuang opto-electronic science & technology,china,,,,doll_0.00219 b,,0.0,"['technology', 'electronics', 'capital goods']",not found,
+131361,jiangsu huahong technology stock,china,,,,doll_0.00177 b,,0.0,"['industries', 'industry machinery']",not found,
+152739,japan rental housing investments,japan,,,,doll_0.22000000000000003 b,,0.0,"['real estate', 'property investments']",not found,
+152743,jinkosolar holding,china,,,,doll_0.22000000000000003 b,doll_0.005941 b,doll_0.105 b,"['technology', 'electronics', 'semiconductors', 'solar power devices']",not found,
+142147,jinlei technology,china,,,,doll_0.21600000000000003 b,,0.0,"['industries', 'industry machinery']",not found,
+142242,jiangsu shagang,china,,,,doll_0.211 b,doll_0.00269 b,doll_0.162 b,"['basic materials', 'iron and steel']",not found,
+163619,jinneng science&technology co. ltd,china,,,,doll_0.21000000000000002 b,doll_0.0017430000000000002 b,doll_0.136 b,"['basic materials', 'chemicals']",not found,
+152973,jihua group corporation limited,china,,,,doll_0.20800000000000002 b,,0.0,"['basic materials', 'chemicals']",not found,
+178944,jumbo,greece,,1921.0,,doll_0.00211 b,,0.0,"['consumer cyclical', 'retail', 'ecommerce', 'internet or mobile app based business', 'super markets']",not found,veghel
+153195,"jiangsu toland alloy co.,ltd",china,,,,doll_0.00175 b,,0.0,"['basic materials', 'iron and steel']",not found,
+175296,jtc,uk,,,,doll_0.00141 b,doll_0.159 b,doll_0.015 b,"['financial services', 'asset management']",not found,
+153768,jinyuan ep,china,,,,doll_0.173 b,,0.0,"['industries', 'construction']",not found,
+153807,jih sun financial holding,taiwan,,,,doll_0.17099999999999999 b,,0.0,"['financial services', 'stock markets, trading, capital markets']",not found,
+153803,j. b. chemicals & pharmaceuticals,india,,,4291.0,doll_0.17099999999999999 b,doll_0.303 b,doll_0.048 b,"['healthcare', 'pharmaceutical', 'healthcare products']",not found,
+153828,"jilin chemical fibre stock co.,ltd",china,,,,doll_0.17099999999999999 b,,0.0,"['basic materials', 'chemicals']",not found,
+153834,johns lyng group,australia,,,,doll_0.17099999999999999 b,doll_0.62 b,doll_0.017 b,"['industries', 'construction']",not found,
+132481,jack sewing machine,china,,,,doll_0.0017 b,doll_0.881 b,doll_0.068 b,"['industries', 'industry machinery']",not found,
+164551,jilin yatai (group),china,,,,doll_0.16899999999999998 b,,0.0,"['industries', 'construction materials', 'real estate', 'pharmaceutical', 'trading', 'conglomerate']",not found,
+175553,j d wetherspoon,uk,,,,doll_0.16799999999999998 b,doll_0.909 b,doll_-0.213 b,"['consumer cyclical', 'restaurants']",not found,
+153988,jaws mustang acquisition corporation,united states,,,,doll_0.00126 b,doll_0.0 b,doll_-0.008 b,['shell company'],not found,
+153985,japan material,japan,,,,doll_0.16499999999999998 b,doll_0.277 b,doll_0.049 b,"['technology', 'semiconductors']",not found,
+153998,jushri technologies,china,,,,doll_0.0018 b,,0.0,"['technology', 'communications equipment']",not found,
+132677,jiangsu ankura smart transmission engineering technology co.ltd,china,,,,doll_0.00163 b,,0.0,"['industries', 'engineering products', 'engineering services', 'electrical products']",not found,
+154050,jiangxi wannianqing cement,china,,,,doll_0.00151 b,,0.0,"['basic materials', 'cement', 'construction materials']",not found,
+154055,jiajiayue group,china,,,,doll_0.162 b,doll_0.0025369999999999998 b,doll_-0.043 b,"['consumer cyclical', 'retail', 'beauty and personal care', 'personal care products', 'cosmetics']",not found,
+154145,jtower,japan,,,,doll_0.00175 b,doll_0.031 b,doll_0.005 b,"['communication services', 'telecom']",not found,
+143494,"jiangsu sidike new materials science & technology co., ltd.",china,,,,doll_0.0016799999999999999 b,,0.0,"['basic materials', 'chemicals']",not found,
+132898,jiangsu zongyi,china,,,,doll_0.0015400000000000001 b,,0.0,"['technology', 'semiconductors']",not found,
+143654,"jiangsu asia-pacific light alloy technology co., ltd.",china,,,,doll_0.0015 b,,0.0,"['basic materials', 'aluminum']",not found,
+154341,jiangsu jiuding new material,china,,,,doll_0.0015 b,,0.0,"['consumer cyclical', 'textile']",not found,
+165061,jiuzhitang,china,,,,doll_0.00117 b,,0.0,"['healthcare', 'pharmaceutical']",not found,
+143745,jiangsu shentong valve,china,,,,doll_0.00094 b,,0.0,"['industries', 'industry machinery', 'tools and equipment', 'metal products manufacturing']",not found,
+165176,jiangsu leike defense technology,china,,,,doll_0.145 b,,0.0,"['industries', 'military equipment', 'defense products', 'communications equipment', 'satellites', 'technology hardware and instruments']",not found,
+133153,jiangzhong pharmaceutical co. ltd,china,,,,doll_0.145 b,,0.0,"['healthcare', 'pharmaceutical', 'healthcare products']",not found,
+75841,jiangsu suzhou rural commercial bank co. ltd,china,,,,doll_0.143 b,,0.0,"['financial services', 'banking services']",not found,
+154563,jilin jiutai rural commercial bank corporation limited,china,,,,doll_0.0014299999999999998 b,,0.0,"['financial services', 'banking services']",not found,
+143905,"jiaozuo wanfang aluminum manufacturing co., ltd",china,,,,doll_0.142 b,,0.0,"['basic materials', 'aluminum']",not found,
+176384,juma,china,,,,0.0,,0.0,['logistics'],not found,
+144033,jollychic,china,,,,0.0,,0.0,,not found,
+144801,jiangsu kanion pharmaceutical,china,,,,doll_0.0008900000000000001 b,,0.0,"['healthcare', 'pharmaceutical', 'healthcare products']",not found,
+165510,jins holdings,japan,,,4958.0,doll_0.00156 b,doll_0.466 b,doll_0.024 b,"['healthcare', 'medical equipment']",not found,
+165509,jafco,japan,,,,doll_0.13999999999999999 b,doll_0.202 b,doll_0.11 b,"['financial services', 'asset management']",not found,
+154980,jsti group,china,,,,doll_0.00136 b,,0.0,"['industries', 'construction']",not found,
+155010,jilin sino-microelectronics,china,,,,doll_0.00136 b,,0.0,"['technology', 'electronics', 'semiconductors']",not found,
+155013,jointo energy investment hebei,china,,,,doll_0.00136 b,,0.0,"['utilities', 'electric utilities']",not found,
+155200,joy kie corporation limited.,china,,,,doll_0.00131 b,,0.0,"['consumer cyclical', 'leisure']",not found,
+155203,jin tong ling technology group,china,,,,doll_0.00131 b,,0.0,"['industries', 'industry machinery']",not found,
+155201,jiangsu hongdou industrial co. ltd,china,,,,doll_0.00131 b,,0.0,"['consumer cyclical', 'apparels and accessories']",not found,
+155307,jiangxi hongcheng waterworks,china,,,,doll_0.128 b,,0.0,"['utilities', 'water utilities']",not found,
+165991,jiangyin haida rubber and plastic,china,,,,doll_0.128 b,,0.0,"['consumer cyclical', 'automobile', 'automobile parts']",not found,
+133957,jiangxi huangshanghuang group food,china,,,,doll_0.128 b,,0.0,"['consumer defensive', 'fmcg', 'package foods', 'food products']",not found,
+166018,jiangxi ganyue expressway,china,,,,doll_0.0012 b,,0.0,"['industries', 'infrastructure']",not found,
+144673,jiangsu shemar electric,china,,,,doll_0.00094 b,,0.0,"['industries', 'electrical products']",not found,
+155369,"jiangsu chuanzhi podcast education technology co., ltd.",china,,,,doll_0.0015 b,,0.0,"['basic materials', 'chemicals']",not found,
+177153,jiangsu rainbow heavy industries,china,,,,doll_0.124 b,,0.0,"['industries', 'industry machinery']",not found,
+134145,jangho group,china,,,,doll_0.123 b,,0.0,"['industries', 'construction']",not found,
+166211,jiangsu baichuan high-tech new materials co. ltd,china,,,,doll_0.122 b,,0.0,"['basic materials', 'chemicals']",not found,
+166210,jubilant pharmova limited,india,,,,doll_0.00146 b,doll_0.758 b,doll_0.052 b,"['healthcare', 'pharmaceutical']",not found,
+134178,j.s. corrugating machinery co. ltd,china,,,,doll_0.122 b,,0.0,"['industries', 'machinery manufacturing', 'packaging machines', 'industry machinery']",not found,
+155565,"jiang xi chenguang new materials co.,ltd.",china,,,,doll_0.122 b,,0.0,"['basic materials', 'chemicals']",not found,
+166210,jubilant pharmova limited,india,,,,doll_0.00146 b,doll_0.758 b,doll_0.052 b,"['healthcare', 'pharmaceutical']",not found,
+155623,"jacobio pharmaceuticals group co., ltd.",china,,,,doll_0.12 b,,0.0,"['healthcare', 'biotechnology']",not found,
+166338,"jiangxi black cat carbon black inc.,ltd",china,,,,doll_0.0009 b,,0.0,"['basic materials', 'chemicals']",not found,
+166337,jiangxi geto new materials corporation limited,china,,,,doll_0.0009 b,,0.0,"['industries', 'building products and equipment']",not found,
+145031,jiangxi huawu brake,china,,,,doll_0.00074 b,,0.0,"['consumer cyclical', 'automobile', 'automobile parts']",not found,
+177505,jiang su suyan jingshen,china,,,,doll_0.00101 b,,0.0,"['basic materials', 'chemicals']",not found,
+155847,jiangsu canlon building materials,china,,,,doll_0.00141 b,,0.0,"['industries', 'construction materials', 'building products and equipment']",not found,
+166534,jiangshan oupai door industry co. ltd,china,,,,doll_0.00117 b,,0.0,"['consumer cyclical', 'furniture', 'home furnishing']",not found,
+155880,jiangsu etern company,china,,,,doll_0.00115 b,,0.0,"['technology', 'communications equipment']",not found,
+166592,jiangsu high hope international group corporation,china,,,,doll_0.00114 b,,0.0,"['industries', 'logistics', 'imports / exports services', 'trading', 'investments', 'conglomerate']",not found,
+166594,jishi media,china,,,,doll_0.00114 b,,0.0,"['communication services', 'entertainment']",not found,
+145251,joeone,china,,,,doll_0.11299999999999999 b,,0.0,"['consumer cyclical', 'apparels and accessories']",not found,
+166657,jiangsu changhai composite materials co. ltd,china,,,,doll_0.0011200000000000001 b,,0.0,"['basic materials', 'chemicals']",not found,
+177661,"jilin liyuan precision manufacturing co., ltd.",china,,,,doll_0.0011200000000000001 b,,0.0,"['basic materials', 'aluminum']",not found,
+145312,jiangsu leili motor co. ltd,china,,,,doll_0.0011200000000000001 b,,0.0,"['industries', 'electrical products']",not found,
+156047,jiayou international logistics,china,,,,doll_0.11100000000000002 b,,0.0,"['industries', 'logistics']",not found,
+156044,jiajia food group,china,,,,doll_0.11100000000000002 b,,0.0,"['consumer defensive', 'fmcg', 'package foods', 'food products']",not found,
+156042,jiangsu pacific precision forging,china,,,,doll_0.11100000000000002 b,,0.0,"['consumer cyclical', 'automobile', 'automobile parts']",not found,
+156160,james river group holdings,bermuda,,,,doll_0.10800000000000001 b,doll_0.772 b,doll_-0.172 b,"['financial services', 'insurance']",not found,
+145570,jiangsu chengxing phosph-chemicals,china,,,,doll_0.00055 b,,0.0,"['basic materials', 'chemicals']",not found,
+145636,jiangxi xinyu guoke technology co. ltd,china,,,,doll_0.10500000000000001 b,,0.0,"['industries', 'aerospace and defense']",not found,
+156386,john b. sanfilippo & son,united states,,,1300.0,doll_0.0010400000000000001 b,doll_0.955 b,doll_0.061 b,"['consumer defensive', 'food and beverage', 'food products', 'consumer non durables', 'fmcg', 'package foods']",not found,
+156420,"jiangsu gdk biotechnology co., ltd.",china,,,,doll_0.0011200000000000001 b,,0.0,"['healthcare', 'biotechnology']",not found,
+135226,japan asset marketing,japan,,,,doll_0.0007099999999999999 b,,doll_0.049 b,['real estate'],,
+146014,jiangxi guotai group,china,,,,doll_0.987 b,,0.0,"['basic materials', 'chemicals']",,
+135352,"jutze intelligent technology co., ltd.",china,,,,doll_0.0011899999999999999 b,,0.0,"['technology', 'electronics']",,
+146078,jiangsu zitian media technology co. ltd,china,,,,doll_0.00063 b,,0.0,"['industries', 'industry machinery']",,
+146112,jingwei textile machinery company,china,,,,doll_0.965 b,,0.0,"['industries', 'industry machinery']",,
+135608,"jilin forest industry co., ltd.",china,,,,doll_0.0009699999999999999 b,,0.0,"['basic materials', 'wood products']",,
+135632,jiawei renewable energy,china,,,,doll_0.00078 b,,0.0,"['industries', 'batteries', 'electrical products']",,
+157054,jiangsu olive sensors high-tech,china,,,,doll_0.00067 b,,0.0,"['consumer cyclical', 'automobile', 'automobile parts']",,
+157098,john hancock financial opportunities fund,united states,,,,doll_0.00083 b,,doll_0.254 b,"['financial services', 'asset management']",,
+135793,jiangxi changjiu biochemical industry,china,,,,doll_0.906 b,,0.0,"['basic materials', 'chemicals', 'agriculture related']",,
+146480,john hancock tax-advantaged dividend income fund,united states,,,,doll_0.907 b,,doll_0.181 b,"['financial services', 'asset management']",,
+183809,j.lindeberg,,,1997.0,,,,,['clothing & accessories'],,stockholm
+183811,jernhusen,,,2001.0,,,,,['railroads'],,stockholm
+178336,jofa,,,1926.0,,,,,['recreational products'],,malung
+178337,jonsereds fabrikers ab,,,1832.0,,,,,['industrial machinery'],,jonsered
+178568,joma,,,1965.0,,,,,['clothing & accessories'],,portillo de toledo
+178657,jtre,,,1996.0,,,,,['real estate management & development'],,bratislava
+178658,jj electronic,,,1993.0,,,,,['electrical components & equipment'],,čadca
+183456,jolidon,,,1993.0,,,,,['clothing & accessories'],,cluj-napoca
+178840,jabłkowski brothers,,,1884.0,,,,,['retail'],,warsaw
+178841,jsw,,,1993.0,,,,,['coal'],,jastrzębie-zdrój
+179115,just5,,,2008.0,,,,,['telecommunications equipment'],,riga
+181448,jet time,,,2006.0,,,,,['airlines'],,copenhagen
+180288,jorgensen engineering,,,1933.0,,,,,['business support services'],,odense
+180289,jysk,,,1979.0,,,,,['specialty retailers'],,aarhus
+181352,jablotron,,,1990.0,,,,,['consumer electronics'],,jablonec nad nisou
+181353,jan becher,,,1807.0,,,,,['distillers & vintners'],,karlovy vary
+181354,jihostroj,,,1919.0,,,,,['aerospace'],,velešín
+180368,josef lidl,,,1892.0,,,,,['recreational products'],,brno
+180538,jadran film,,,1946.0,,,,,['broadcasting & entertainment'],,zagreb
+181200,jadranski naftovod,,,,,,,,['pipelines'],,zagreb
+181202,jamnica,,,1828.0,,,,,['soft drinks'],,zagreb
+181203,jugoton,,,1947.0,,,,,['broadcasting & entertainment'],,zagreb
+180720,jan de nul,,,1938.0,,,,,['building materials and fixtures'],,aalst
+180721,janssen pharmaceutica,,,1953.0,,,,,['pharmaceuticals'],,beerse
+181016,jonckheere,,,1881.0,,,,,['commercial vehicles and trucks'],,roeselare
+180818,julius meinl,,,1862.0,,,,,['beverages'],,vienna
+181970,j. a. henckels,,,1731.0,,,,,['durable household products'],,solingen
+181971,j. schmalz,,,1910.0,,,,,['industrial machinery'],,glatten
+181972,jack wolfskin,,,1981.0,,,,,['recreational products'],,idstein
+181973,jako,,,1948.0,,,,,['clothing & accessories'],,mulfingen
+181976,junghans,,,1861.0,,,,,['clothing & accessories'],,schramberg
+181977,junkers,,,1895.0,,,,,['aerospace'],,dessau
+184139,joshua darden,,,,,,,,,,boulevard haussmann
+184260,jelly belly,,,1869.0,,,,,,,"fairfield, california"
+184261,jim beam,,,1869.0,,,,,,,"fairfield, california"
+184265,johnnie walker,,,1990.0,,,,,,,robinsons equitable tower
+184269,jvckenwood,,,,,,,,,,383 madison avenue
+184270,jxd,,,,,,,,,,383 madison avenue
+2515,jupiter hospital,,,2007.0,,,,,['healthcare'],,
+5696,jindal group of companies,,,1952.0,,,,,['iron & steel'],,
+9683,jaipur golden transport,,,1948.0,,,,,['logistics'],,
+76004,"jiangsu dingsheng new material joint-stock co.,ltd",,,,4982.0,doll_1.5710000000000002 b,,,,not found,
+76171,"jinkosolar holding co., ltd.",,,,24361.0,doll_0.23500000000000001 b,,,,mr. xiande  li,
+76220,"jiangsu hengshun vinegar-industry co.,ltd",,,,2651.0,doll_1.065 b,,,,not found,
+76268,"jiangsu zijin rural commercial bank co.,ltd",,,,2265.0,doll_1.131 b,,,,not found,
+82074,johnson health tech. co. ltd,,,,,doll_1.625 b,,,,not found,
+82371,jess-link products co. ltd,,,,,doll_0.516 b,,,,not found,
+82466,jarllytec co.  ltd,,,,1367.0,doll_0.42800000000000005 b,,,,not found,
+84974,just life group ltd,,,,,doll_0.075 b,,,,mr. anthony edwin falkenstein bcom,
+110991,j.a. crescent dental care limited,,3thecrescent dunston gateshead tyne&wear ne119sj,,,,,,,,
+111505,jay & s construction ltd,,flat28 westcentral 1astokeroad slough england sl25pe,,,,,,,,
+113091,j.a. crescent dental care limited,,,,,,,,,,
+114164,jupiter finances ltd,,,,,,,,,,
+114222,j.a commercial finance ltd,,,,,,,,,,
+114241,j a s finances (ne) limited,,,,,,,,,,
+114770,jc new age entertainment ltd,,,,,,,,,,
+114777,just joe garner ltd,,,,,,,,,,
+117051,j.a. crescent dental care limited,,,,,,,,,,
+117804,j & b property renovation ltd,,,,,,,,,,
+119892,"jordan company, l.p., the",united states,399 park ave fl 30,,,,,,,,new york
+120170,"j2 cloud services, llc",united states,700 s flower st fl 15,,,,,,,,los angeles
+124455,johnson & johnson careers,,,1887.0,,,,,['hospital & health care'],,
+180540,jadrolinija,,,1947.0,,,,,['marine transportation'],,rijeka
+181201,jadrolinija,,,1947.0,,,,,['marine transportation'],,rijeka
