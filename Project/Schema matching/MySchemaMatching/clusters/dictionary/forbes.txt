@@ -1,0 +1,20 @@
+{
+    "name": [
+        "08-slytherin-name",
+        "05-MalPatSaj-name",
+        "07-silvestri-name"
+    ],
+    "market_value_apr_2022": [
+        "07-silvestri-market_value_apr_2022",
+        "05-MalPatSaj-market_value"
+    ],
+    "country": [
+        "05-MalPatSaj-country",
+        "08-slytherin-country",
+        "07-silvestri-country"
+    ],
+    "sales": [
+        "05-MalPatSaj-sales",
+        "07-silvestri-revenue_2022"
+    ]
+}

@@ -1,0 +1,85 @@
+{
+    "name": [
+        "status",
+        "trade_name",
+        "name",
+        "industry"
+    ],
+    "country": [
+        "headquarters_continent",
+        "nation",
+        "country",
+        "state",
+        "headquarters"
+    ],
+    "address": [
+        "address"
+    ],
+    "founded": [
+        "foundation_year",
+        "est_of_ownership",
+        "founded",
+        "founding_year"
+    ],
+    "employees": [
+        "revenue_2017_eu",
+        "employees_number",
+        "employees_number_2017",
+        "employees",
+        "rank",
+        "employees_number_2020"
+    ],
+    "market_cap": [
+        "pricecap",
+        "profit",
+        "sales",
+        "market_value",
+        "market_cap",
+        "share_price",
+        "earnings",
+        "revenue",
+        "annual_net_income_usd"
+    ],
+    "revenue": [
+        "pricecap",
+        "profit",
+        "sales",
+        "market_value",
+        "market_cap",
+        "share_price",
+        "earnings",
+        "revenue",
+        "annual_net_income_usd"
+    ],
+    "profit": [
+        "pricecap",
+        "profit",
+        "sales",
+        "market_value",
+        "market_cap",
+        "share_price",
+        "earnings",
+        "revenue",
+        "annual_net_income_usd"
+    ],
+    "categories": [
+        "notes",
+        "categories",
+        "industry",
+        "sector"
+    ],
+    "ceo": [
+        "ceo",
+        "official_name",
+        "headquarter"
+    ],
+    "city": [
+        "headquarters_country",
+        "headquarters_continent",
+        "headquarters_region_city",
+        "city",
+        "ownership",
+        "headquarters",
+        "locations"
+    ]
+}

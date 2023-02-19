@@ -1,0 +1,30 @@
+{
+    "industry": [
+        "04-iGMM-industry",
+        "01-DDD-industry"
+    ],
+    "company": [
+        "04-iGMM-company",
+        "01-DDD-name"
+    ],
+    "selectinvestors": [
+        "04-iGMM-selectinvestors",
+        "01-DDD-investors"
+    ],
+    "valuation": [
+        "04-iGMM-valuation",
+        "01-DDD-valuation"
+    ],
+    "datejoined": [
+        "01-DDD-datejoined",
+        "04-iGMM-datejoined"
+    ],
+    "city": [
+        "04-iGMM-city",
+        "01-DDD-city"
+    ],
+    "country": [
+        "04-iGMM-country",
+        "01-DDD-country"
+    ]
+}

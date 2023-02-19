@@ -1,0 +1,79 @@
+{
+    "country": [
+        "06-MarScoToc-country",
+        "02-GioPonSpiz-country",
+        "04-iGMM-country",
+        "01-DDD-country",
+        "05-MalPatSaj-country",
+        "00-avengers-country",
+        "03-gren-country"
+    ],
+    "rank": [
+        "04-iGMM-rank",
+        "00-avengers-rank",
+        "01-DDD-rank"
+    ],
+    "change1y": [
+        "01-DDD-change1y",
+        "00-avengers-change_1_year",
+        "04-iGMM-change_1year"
+    ],
+    "code": [
+        "04-iGMM-code",
+        "02-GioPonSpiz-codice",
+        "05-MalPatSaj-symbol",
+        "09-wissel-company_code"
+    ],
+    "pricecap": [
+        "02-GioPonSpiz-pricecap",
+        "06-MarScoToc-master_cap",
+        "05-MalPatSaj-marketcap",
+        "04-iGMM-marketcap",
+        "09-wissel-marketcap",
+        "01-DDD-marketcap",
+        "09-wissel-revenue"
+    ],
+    "name": [
+        "03-gren-name",
+        "00-avengers-name",
+        "01-DDD-name",
+        "04-iGMM-name",
+        "06-MarScoToc-name",
+        "09-wissel-name",
+        "02-GioPonSpiz-name",
+        "05-MalPatSaj-name"
+    ],
+    "change_1day": [
+        "04-iGMM-change_1day",
+        "01-DDD-change1d",
+        "00-avengers-change_1_day"
+    ],
+    "price": [
+        "05-MalPatSaj-price",
+        "09-wissel-share_price",
+        "04-iGMM-shareprice",
+        "00-avengers-share_price",
+        "01-DDD-share_price",
+        "06-MarScoToc-share_price",
+        "02-GioPonSpiz-price"
+    ],
+    "marketcap": [
+        "09-wissel-marketcap",
+        "01-DDD-marketcap",
+        "09-wissel-revenue",
+        "02-GioPonSpiz-pricecap",
+        "06-MarScoToc-master_cap",
+        "03-gren-market_capitalization_usd",
+        "05-MalPatSaj-marketcap",
+        "04-iGMM-marketcap"
+    ],
+    "market_capitalization_usd": [
+        "03-gren-market_capitalization_usd",
+        "02-GioPonSpiz-pricecap",
+        "06-MarScoToc-master_cap",
+        "05-MalPatSaj-marketcap",
+        "09-wissel-marketcap",
+        "01-DDD-marketcap",
+        "04-iGMM-marketcap"
+    ]
+}

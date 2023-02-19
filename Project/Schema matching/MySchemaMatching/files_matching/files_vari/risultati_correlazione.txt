@@ -1,0 +1,81 @@
+Campo: name
+Computato: {'address_name', 'name', 'trade_name', 'official_name'}
+Reale: {'name'}
+Extra: {'address_name', 'official_name', 'trade_name'}
+Mancanti: set()
+Comuni: {'name'}
+Score: 0.25
+==================
+Campo: country
+Computato: {'country', 'headquarters_country'}
+Reale: {'nation', 'country', 'headquarters'}
+Extra: {'headquarters_country'}
+Mancanti: {'nation', 'headquarters'}
+Comuni: {'country'}
+Score: 0.25
+==================
+Campo: address
+Computato: {'address_name', 'address', 'office_address', 'registered_office_address'}
+Reale: {'address_name', 'address'}
+Extra: {'office_address', 'registered_office_address'}
+Mancanti: set()
+Comuni: {'address_name', 'address'}
+Score: 0.5
+==================
+Campo: founded
+Computato: {'founded', 'founders'}
+Reale: {'founding_year', 'founded', 'est_of_ownership', 'foundation_year'}
+Extra: {'founders'}
+Mancanti: {'founding_year', 'est_of_ownership', 'foundation_year'}
+Comuni: {'founded'}
+Score: 0.2
+==================
+Campo: employees
+Computato: {'employees_number', 'employees_number_2017', 'employees_2022', 'employees_number_2020', 'employees', 'number_of_employees'}
+Reale: {'employees_number', 'employees_2022', 'employees_number_2020', 'employees', 'number_of_employees'}
+Extra: {'employees_number_2017'}
+Mancanti: set()
+Comuni: {'employees_number', 'employees_2022', 'employees_number_2020', 'employees', 'number_of_employees'}
+Score: 0.8333333333333334
+==================
+Campo: market_cap
+Computato: {'market_cap'}
+Reale: {'pricecap', 'market_value', 'market_cap', 'market_capitalization_2022'}
+Extra: set()
+Mancanti: {'market_value', 'market_capitalization_2022', 'pricecap'}
+Comuni: {'market_cap'}
+Score: 0.25
+==================
+Campo: revenue
+Computato: {'revenue_2017_eu', 'revenue_2020_eu', 'annual_revenue_usd', 'revenue'}
+Reale: {'revenue_2020_eu', 'annual_revenue_usd', 'sales', 'revenue'}
+Extra: {'revenue_2017_eu'}
+Mancanti: {'sales'}
+Comuni: {'revenue_2020_eu', 'annual_revenue_usd', 'revenue'}
+Score: 0.6
+==================
+Campo: profit
+Computato: {'profit'}
+Reale: {'annual_net_income_usd', 'earnings', 'profit'}
+Extra: set()
+Mancanti: {'annual_net_income_usd', 'earnings'}
+Comuni: {'profit'}
+Score: 0.3333333333333333
+==================
+Campo: categories
+Computato: {'categories'}
+Reale: {'categories', 'industry', 'sector'}
+Extra: set()
+Mancanti: {'industry', 'sector'}
+Comuni: {'categories'}
+Score: 0.3333333333333333
+==================
+Campo: ceo
+Computato: {'ceo'}
+Reale: {'ceo'}
+Extra: set()
+Mancanti: set()
+Comuni: {'ceo'}
+Score: 1.0
+==================
+SCORE TOTATE: 0.45500000000000007

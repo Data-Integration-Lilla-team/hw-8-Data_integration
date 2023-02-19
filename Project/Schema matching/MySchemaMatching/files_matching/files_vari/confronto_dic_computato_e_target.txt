@@ -1,0 +1,156 @@
+
+Elemento: name
+Sinonimi computati:['trade_name', 'industry', 'name', 'status']
+Sinonimi reali:['name']
+Intersezione:{'name'}
+Computato - TGT:{'trade_name', 'industry', 'status'}
+TGT- Computato:set()
+Precision: 0.14285714285714285
+Recall: 1.0
+F1:0.25
+Jaccard score:0.25
+Confronti reali1
+Confronti totali4
+Confronti reali3
+========================
+Elemento: country
+Sinonimi computati:['country', 'nation', 'headquarters_continent', 'headquarters_country', 'state', 'headquarters']
+Sinonimi reali:['country', 'headquarters', 'nation']
+Intersezione:{'country', 'nation', 'headquarters'}
+Computato - TGT:{'headquarters_continent', 'headquarters_country', 'state'}
+TGT- Computato:set()
+Precision: 0.3333333333333333
+Recall: 1.0
+F1:0.5
+Jaccard score:0.5
+Confronti reali3
+Confronti totali6
+Confronti reali3
+========================
+Elemento: address
+Sinonimi computati:['address_name', 'address', 'office_address']
+Sinonimi reali:['address', 'address_name', 'office_address']
+Intersezione:{'address', 'address_name', 'office_address'}
+Computato - TGT:set()
+TGT- Computato:set()
+Precision: 1.0
+Recall: 1.0
+F1:1.0
+Jaccard score:1.0
+Confronti reali3
+Confronti totali3
+Confronti reali0
+========================
+Elemento: founded
+Sinonimi computati:['founded', 'foundation_year', 'founding_year', 'founders', 'est_of_ownership']
+Sinonimi reali:['founded', 'est_of_ownership', 'foundation_year', 'founding_year']
+Intersezione:{'founded', 'foundation_year', 'est_of_ownership', 'founding_year'}
+Computato - TGT:{'founders'}
+TGT- Computato:set()
+Precision: 0.6666666666666666
+Recall: 1.0
+F1:0.8
+Jaccard score:0.8
+Confronti reali4
+Confronti totali5
+Confronti reali1
+========================
+Elemento: employees
+Sinonimi computati:['employees', 'employees_2022', 'employees_number_2020', 'employees_number_2017', 'rank', 'revenue_2017_eu', 'employees_number', 'number_of_employees']
+Sinonimi reali:['employees', 'employees_number', 'employees_2022', 'employees_number_2020', 'number_of_employees']
+Intersezione:{'employees', 'employees_2022', 'employees_number_2020', 'employees_number', 'number_of_employees'}
+Computato - TGT:{'rank', 'employees_number_2017', 'revenue_2017_eu'}
+TGT- Computato:set()
+Precision: 0.45454545454545453
+Recall: 1.0
+F1:0.625
+Jaccard score:0.625
+Confronti reali5
+Confronti totali8
+Confronti reali3
+========================
+Elemento: market_cap
+Sinonimi computati:['share_price', 'profit', 'pricecap', 'market_capitalization_2022', 'market_cap', 'annual_net_income_usd', 'revenue', 'sales', 'earnings', 'market_value']
+Sinonimi reali:['market_cap', 'pricecap', 'market_value', 'market_capitalization_2022']
+Intersezione:{'market_cap', 'market_value', 'pricecap', 'market_capitalization_2022'}
+Computato - TGT:{'share_price', 'profit', 'revenue', 'sales', 'annual_net_income_usd', 'earnings'}
+TGT- Computato:set()
+Precision: 0.25
+Recall: 1.0
+F1:0.4
+Jaccard score:0.4
+Confronti reali4
+Confronti totali10
+Confronti reali6
+========================
+Elemento: revenue
+Sinonimi computati:['revenue_2020_eu', 'share_price', 'profit', 'pricecap', 'market_cap', 'annual_net_income_usd', 'revenue_2017_eu', 'revenue', 'sales', 'earnings', 'market_value', 'annual_revenue_usd']
+Sinonimi reali:['revenue', 'sales', 'revenue_2020_eu', 'annual_revenue_usd']
+Intersezione:{'annual_revenue_usd', 'revenue_2020_eu', 'revenue', 'sales'}
+Computato - TGT:{'share_price', 'profit', 'pricecap', 'market_cap', 'revenue_2017_eu', 'annual_net_income_usd', 'market_value', 'earnings'}
+TGT- Computato:set()
+Precision: 0.2
+Recall: 1.0
+F1:0.33333333333333337
+Jaccard score:0.3333333333333333
+Confronti reali4
+Confronti totali12
+Confronti reali8
+========================
+Elemento: profit
+Sinonimi computati:['share_price', 'profit', 'pricecap', 'market_cap', 'annual_net_income_usd', 'revenue', 'sales', 'earnings', 'market_value']
+Sinonimi reali:['profit', 'earnings', 'annual_net_income_usd']
+Intersezione:{'earnings', 'profit', 'annual_net_income_usd'}
+Computato - TGT:{'share_price', 'pricecap', 'market_cap', 'revenue', 'sales', 'market_value'}
+TGT- Computato:set()
+Precision: 0.2
+Recall: 1.0
+F1:0.33333333333333337
+Jaccard score:0.3333333333333333
+Confronti reali3
+Confronti totali9
+Confronti reali6
+========================
+Elemento: categories
+Sinonimi computati:['notes', 'sector', 'industry', 'categories']
+Sinonimi reali:['industry', 'categories', 'sector']
+Intersezione:{'industry', 'categories', 'sector'}
+Computato - TGT:{'notes'}
+TGT- Computato:set()
+Precision: 0.6
+Recall: 1.0
+F1:0.7499999999999999
+Jaccard score:0.75
+Confronti reali3
+Confronti totali4
+Confronti reali1
+========================
+Elemento: ceo
+Sinonimi computati:['headquarter', 'official_name', 'ceo']
+Sinonimi reali:['ceo']
+Intersezione:{'ceo'}
+Computato - TGT:{'headquarter', 'official_name'}
+TGT- Computato:set()
+Precision: 0.2
+Recall: 1.0
+F1:0.33333333333333337
+Jaccard score:0.3333333333333333
+Confronti reali1
+Confronti totali3
+Confronti reali2
+========================
+Elemento: city
+Sinonimi computati:['headquarters_region_city', 'locations', 'headquarters', 'headquarters_continent', 'headquarters_country', 'city', 'ownership']
+Sinonimi reali:['city', 'locations', 'headquarters']
+Intersezione:{'locations', 'city', 'headquarters'}
+Computato - TGT:{'headquarters_continent', 'headquarters_region_city', 'headquarters_country', 'ownership'}
+TGT- Computato:set()
+Precision: 0.2727272727272727
+Recall: 1.0
+F1:0.42857142857142855
+Jaccard score:0.42857142857142855
+Confronti reali3
+Confronti totali7
+Confronti reali4
+========================
+AVG valori extra: 3.3636363636363638

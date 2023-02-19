@@ -1,0 +1,5001 @@
+,sales,assets,market_value,profit
+0,doll_276.09 b,doll_958.78 b,doll_741.48 b,doll_89.8 b
+1,doll_208.13 b,"doll_5,518.51 b",doll_214.43 b,doll_54.03 b
+2,doll_400.38 b,doll_576.04 b,"doll_2,292.08 b",doll_105.36 b
+3,doll_124.54 b,"doll_3,954.69 b",doll_374.45 b,doll_42.12 b
+4,doll_202.07 b,"doll_4,746.95 b",doll_181.32 b,doll_46.89 b
+5,doll_469.82 b,doll_420.55 b,"doll_1,468.4 b",doll_33.36 b
+6,doll_378.7 b,doll_381.19 b,"doll_2,640.32 b",doll_100.56 b
+7,doll_181.42 b,"doll_4,561.05 b",doll_133.38 b,doll_37.38 b
+8,doll_96.83 b,"doll_3,238.22 b",doll_303.1 b,doll_31 b
+9,doll_281.75 b,doll_552.46 b,doll_237.73 b,doll_28.15 b
+10,doll_257.49 b,doll_359.27 b,"doll_1,581.72 b",doll_76.03 b
+11,doll_184.9 b,doll_340.39 b,"doll_2,054.37 b",doll_71.19 b
+12,doll_152.43 b,"doll_4,192.84 b",doll_117.83 b,doll_33.57 b
+13,doll_244.16 b,doll_358.88 b,doll_367.26 b,doll_34.27 b
+14,doll_280.51 b,doll_338.92 b,doll_359.73 b,doll_23.04 b
+15,doll_261.76 b,doll_404.38 b,doll_211.1 b,doll_20.27 b
+16,doll_181.37 b,"doll_1,587.11 b",doll_121.69 b,doll_15.74 b
+17,doll_84.12 b,"doll_1,939.71 b",doll_176.77 b,doll_20.58 b
+18,doll_134.35 b,doll_366.6 b,doll_218.02 b,doll_21.52 b
+19,doll_163.03 b,doll_551.62 b,doll_141.79 b,doll_17.33 b
+20,doll_380.31 b,doll_392.6 b,doll_142.3 b,doll_14.29 b
+21,doll_297.55 b,doll_221.24 b,doll_490.15 b,doll_17.45 b
+22,doll_572.75 b,doll_244.86 b,doll_431.64 b,doll_13.67 b
+23,doll_71.07 b,"doll_1,451.2 b",doll_167.32 b,doll_18.58 b
+24,doll_295.73 b,doll_638.26 b,doll_82.4 b,doll_17.54 b
+25,doll_156.29 b,doll_239.53 b,doll_316.23 b,doll_15.63 b
+26,doll_79.94 b,"doll_2,394.11 b",doll_101.48 b,doll_18.23 b
+27,doll_86.86 b,doll_252.99 b,doll_414.28 b,doll_34.94 b
+28,doll_185.12 b,doll_293.46 b,doll_127.32 b,doll_16.14 b
+29,doll_77.61 b,"doll_1,975.08 b",doll_125.53 b,doll_11.33 b
+30,doll_131.49 b,doll_283.37 b,doll_147.05 b,doll_17.97 b
+31,doll_116.39 b,doll_275.9 b,doll_205.72 b,doll_14.16 b
+32,doll_129.76 b,doll_276.25 b,doll_237.78 b,doll_10.17 b
+33,doll_117.93 b,doll_165.99 b,doll_499.86 b,doll_39.37 b
+34,doll_138.62 b,"doll_1,324.62 b",doll_96.42 b,doll_7.81 b
+35,doll_60.22 b,"doll_1,222.23 b",doll_150.95 b,doll_14.58 b
+36,doll_62.81 b,"doll_1,589 b",doll_109.32 b,doll_18.74 b
+37,doll_59.33 b,"doll_2,957.94 b",doll_135.3 b,doll_12.58 b
+38,doll_127.42 b,"doll_2,995.89 b",doll_68.76 b,doll_9.85 b
+39,doll_94.88 b,doll_182.02 b,doll_477.38 b,doll_19.83 b
+40,doll_178.94 b,doll_295.48 b,doll_74.62 b,doll_27.19 b
+41,doll_291.98 b,doll_240.5 b,doll_133.53 b,doll_7.91 b
+42,doll_81.49 b,doll_181.48 b,doll_271.83 b,doll_21.98 b
+43,doll_96.86 b,doll_418.94 b,doll_71.69 b,doll_20.87 b
+44,doll_384.82 b,doll_292.05 b,doll_80.81 b,doll_11.04 b
+45,doll_45.24 b,"doll_1,377.94 b",doll_147.92 b,doll_13 b
+46,doll_95.25 b,doll_152.71 b,doll_360.01 b,doll_18.49 b
+47,doll_145.19 b,doll_839.85 b,doll_65.75 b,doll_8.39 b
+48,doll_117.3 b,doll_360.47 b,doll_63.56 b,doll_25.44 b
+49,doll_158.01 b,doll_287.27 b,doll_98.38 b,doll_7.55 b
+50,doll_79.02 b,doll_168.41 b,doll_190.29 b,doll_19.87 b
+51,doll_38.51 b,"doll_1,398.48 b",doll_132.99 b,doll_11.78 b
+52,doll_110.39 b,doll_204.46 b,doll_103.98 b,doll_10.15 b
+53,doll_86.85 b,doll_192.59 b,doll_228.63 b,doll_7.81 b
+54,doll_60.53 b,"doll_1,350.32 b",doll_68.59 b,doll_12.82 b
+55,doll_89.9 b,doll_260.48 b,doll_108.84 b,doll_7.99 b
+56,doll_78.22 b,"doll_1,814.78 b",doll_58.21 b,doll_9.6 b
+57,doll_48.28 b,"doll_3,176.37 b",doll_75.75 b,doll_11.29 b
+58,doll_61.47 b,doll_139.35 b,doll_494.6 b,doll_23.63 b
+59,doll_136.34 b,doll_257.04 b,doll_60.8 b,doll_17.94 b
+60,doll_75.9 b,doll_142.5 b,doll_346.8 b,doll_14.23 b
+61,doll_76 b,"doll_1,830.4 b",doll_52.82 b,doll_12.98 b
+62,doll_79.62 b,doll_120.22 b,doll_386.53 b,doll_14.6 b
+63,doll_131.48 b,doll_277.28 b,doll_55.98 b,doll_14.64 b
+64,doll_83.89 b,doll_174.68 b,doll_83.98 b,doll_19.77 b
+65,doll_128.59 b,doll_340.56 b,doll_91.72 b,doll_4.93 b
+66,doll_56.2 b,doll_146.53 b,doll_273.76 b,doll_11.46 b
+67,doll_51.63 b,doll_135.88 b,doll_200.73 b,doll_24.14 b
+68,doll_127 b,doll_244.72 b,doll_57.89 b,doll_10.02 b
+69,doll_88.37 b,doll_147.12 b,doll_117.87 b,doll_8.57 b
+70,doll_130.5 b,doll_769.88 b,doll_43.02 b,doll_7.87 b
+71,doll_68.69 b,doll_101.32 b,doll_308.14 b,doll_15.24 b
+72,doll_45.16 b,doll_334.88 b,doll_120.19 b,doll_7.43 b
+73,doll_71.08 b,doll_759.71 b,doll_57.39 b,doll_6.55 b
+74,doll_65.55 b,doll_105.72 b,doll_178.07 b,doll_16.92 b
+75,doll_151.16 b,doll_71.88 b,doll_310.13 b,doll_16.43 b
+76,doll_46.29 b,doll_196 b,doll_136.72 b,doll_7.86 b
+77,doll_76.46 b,doll_164.22 b,doll_102.23 b,doll_6.55 b
+78,doll_176.61 b,doll_195.33 b,doll_44.26 b,doll_16.78 b
+79,doll_69.58 b,doll_410.15 b,doll_69.22 b,doll_5.21 b
+80,doll_111.4 b,doll_219.41 b,doll_48.79 b,doll_11.98 b
+81,doll_63.46 b,doll_102.9 b,doll_117.78 b,doll_21.06 b
+82,doll_78.82 b,doll_391 b,doll_80.94 b,doll_3.97 b
+83,doll_174.27 b,doll_151.02 b,doll_81.2 b,doll_5.37 b
+84,doll_70.93 b,doll_937.58 b,doll_43.6 b,doll_7.61 b
+85,doll_79.47 b,doll_92.38 b,doll_238.13 b,doll_7.62 b
+86,doll_50.37 b,doll_105.69 b,doll_213.83 b,doll_13.05 b
+87,doll_144.35 b,doll_100.49 b,doll_121.25 b,doll_6.24 b
+88,doll_30.35 b,doll_979.3 b,doll_80.58 b,doll_7.96 b
+89,doll_52.06 b,doll_521.83 b,doll_48.73 b,doll_9.39 b
+90,doll_203.41 b,doll_127.51 b,doll_79.9 b,doll_5 b
+91,doll_51.55 b,doll_94.26 b,doll_213.36 b,doll_11.82 b
+92,doll_54.33 b,doll_219.37 b,doll_118.52 b,doll_4.66 b
+93,doll_72.98 b,doll_203.31 b,doll_215.33 b,doll_3.08 b
+94,doll_40.95 b,doll_181.75 b,doll_87.31 b,doll_8.54 b
+95,doll_91.21 b,"doll_1,370.59 b",doll_31.96 b,doll_9.03 b
+96,doll_58.48 b,"doll_1,200.75 b",doll_41.34 b,doll_7.36 b
+97,doll_67.25 b,doll_133.28 b,doll_124.33 b,doll_5.52 b
+98,doll_44.63 b,doll_136.74 b,doll_136.86 b,doll_7.36 b
+99,doll_97.2 b,doll_69.41 b,doll_163.03 b,doll_12.89 b
+100,doll_35.32 b,doll_186.05 b,doll_97.49 b,doll_9.34 b
+101,doll_35.22 b,"doll_1,117.18 b",doll_56.17 b,doll_7.45 b
+102,doll_130.16 b,doll_193.22 b,doll_44.99 b,doll_7.24 b
+103,doll_146.94 b,doll_178.13 b,doll_50.87 b,doll_5.9 b
+104,doll_205.79 b,doll_374.72 b,doll_36.91 b,doll_5.87 b
+105,doll_54.42 b,doll_696.51 b,doll_58.39 b,doll_4.32 b
+106,doll_21.85 b,doll_835.97 b,doll_130.34 b,doll_8.39 b
+107,doll_54.77 b,"doll_1,247.94 b",doll_36.6 b,doll_8.47 b
+108,doll_64.36 b,doll_161.4 b,doll_149.76 b,doll_3.86 b
+109,doll_99.41 b,doll_235.33 b,doll_65.84 b,doll_3.77 b
+110,doll_90.5 b,doll_156.99 b,doll_52.28 b,doll_7.24 b
+111,doll_32.12 b,doll_432.38 b,doll_54.88 b,doll_12.29 b
+112,doll_46.38 b,doll_109.31 b,doll_160.98 b,doll_6.99 b
+113,doll_38.73 b,doll_94.35 b,doll_282.86 b,doll_9.77 b
+114,doll_41.83 b,doll_108.64 b,doll_203.34 b,doll_7.56 b
+115,doll_57.37 b,doll_548.83 b,doll_33.98 b,doll_16.97 b
+116,doll_26.53 b,doll_804.51 b,doll_72.74 b,doll_6.92 b
+117,doll_54.4 b,doll_89.61 b,doll_82.03 b,doll_22.47 b
+118,doll_99.83 b,doll_410.49 b,doll_35.09 b,doll_6.04 b
+119,doll_39.21 b,doll_95.12 b,doll_219.71 b,doll_7.72 b
+120,doll_73.61 b,"doll_2,358.5 b",doll_31.42 b,doll_6.49 b
+121,doll_61.64 b,doll_129.16 b,doll_88.6 b,doll_4.98 b
+122,doll_210.22 b,doll_63.08 b,doll_253.39 b,doll_5.51 b
+123,doll_214.6 b,doll_141.28 b,doll_49.04 b,doll_4.99 b
+124,doll_62 b,doll_85.4 b,doll_116.16 b,doll_7.15 b
+125,doll_51.68 b,doll_143.39 b,doll_97.92 b,doll_4.65 b
+126,doll_35.5 b,"doll_2,176.62 b",doll_42.33 b,doll_6.4 b
+127,doll_46.06 b,doll_90.66 b,doll_124.43 b,doll_8.08 b
+128,doll_46.92 b,doll_107.14 b,doll_112.09 b,doll_6.03 b
+129,doll_47.84 b,"doll_1,215.67 b",doll_41.42 b,doll_4.95 b
+130,doll_47.17 b,doll_691.18 b,doll_39.76 b,doll_5.67 b
+131,doll_23.12 b,doll_586.52 b,doll_75.48 b,doll_7.21 b
+132,doll_92.9 b,doll_102.41 b,doll_51.78 b,doll_6.53 b
+133,doll_37.77 b,doll_123.42 b,doll_62.6 b,doll_10.91 b
+134,doll_44.51 b,doll_75.2 b,doll_210.98 b,doll_7.7 b
+135,doll_46.23 b,doll_161.2 b,doll_70.26 b,doll_4.63 b
+136,doll_52.02 b,doll_95.81 b,doll_62.81 b,doll_8 b
+137,doll_35.96 b,doll_372.3 b,doll_52.89 b,doll_4.96 b
+138,doll_50.98 b,doll_82.79 b,doll_115.91 b,doll_6.49 b
+139,doll_108.31 b,doll_119.73 b,doll_40.83 b,doll_7.01 b
+140,doll_107.99 b,doll_102.18 b,doll_45.95 b,doll_6.52 b
+141,doll_18.98 b,doll_681 b,doll_127.6 b,doll_5.77 b
+142,doll_23.19 b,doll_544.34 b,doll_67.64 b,doll_6.44 b
+143,doll_37.55 b,doll_133.69 b,doll_90.92 b,doll_4.94 b
+144,doll_91.9 b,doll_116.57 b,doll_45.78 b,doll_5.87 b
+145,doll_49.17 b,doll_94.14 b,doll_74.12 b,doll_5.98 b
+146,doll_102.7 b,doll_196.8 b,doll_37.61 b,doll_4.32 b
+147,doll_56.99 b,"doll_1,261.96 b",doll_25.26 b,doll_8.63 b
+148,doll_25.48 b,doll_81.93 b,doll_436.49 b,doll_12.84 b
+149,doll_106 b,doll_53.81 b,doll_111.76 b,doll_6.95 b
+150,doll_41.98 b,doll_753.83 b,doll_35.28 b,doll_5.04 b
+151,doll_53.82 b,doll_62.13 b,"doll_1,038.73 b",doll_5.52 b
+152,doll_44.45 b,doll_79.61 b,doll_123.81 b,doll_5.64 b
+153,doll_22.51 b,doll_280.16 b,doll_98.28 b,doll_5.11 b
+154,doll_30.17 b,"doll_1,874.94 b",doll_31.55 b,doll_8.77 b
+155,doll_84.88 b,doll_358.97 b,doll_35.48 b,doll_3.47 b
+156,doll_103.58 b,"doll_2,614.33 b",doll_26.56 b,doll_3.93 b
+157,doll_135.95 b,doll_92.68 b,doll_39.34 b,doll_6.29 b
+158,doll_30.28 b,doll_83.39 b,doll_189.4 b,doll_6.46 b
+159,doll_102.13 b,doll_664.52 b,doll_31.36 b,doll_3.37 b
+160,doll_61.95 b,doll_72.27 b,doll_51.41 b,doll_18.04 b
+161,doll_96.25 b,doll_46.33 b,doll_130.37 b,doll_8.41 b
+162,doll_91.55 b,doll_84.11 b,doll_53.19 b,doll_5.13 b
+163,doll_96.62 b,doll_75.14 b,doll_55.04 b,doll_5.97 b
+164,doll_19.93 b,doll_541.25 b,doll_71.9 b,doll_5.25 b
+165,doll_28.5 b,doll_73.22 b,doll_239.64 b,doll_7.83 b
+166,doll_125.11 b,doll_92.49 b,doll_32.17 b,doll_10.49 b
+167,doll_31.79 b,doll_91.8 b,doll_144.62 b,doll_4.91 b
+168,doll_33.18 b,doll_80.93 b,doll_124.02 b,doll_5.64 b
+169,doll_37.55 b,doll_81.08 b,doll_61.31 b,doll_8.39 b
+170,doll_68.4 b,doll_256.25 b,doll_31.5 b,doll_4.33 b
+171,doll_65.75 b,doll_51.51 b,doll_118.82 b,doll_6.21 b
+172,doll_20.3 b,doll_152.65 b,doll_100.8 b,doll_6.14 b
+173,doll_20.46 b,doll_677.03 b,doll_61.42 b,doll_4.1 b
+174,doll_25.1 b,doll_174.18 b,doll_87.98 b,doll_3.91 b
+175,doll_106.84 b,doll_92.73 b,doll_35.64 b,doll_5.56 b
+176,doll_59.08 b,doll_113.75 b,doll_56.87 b,doll_3.07 b
+177,doll_50.57 b,doll_234.91 b,doll_35.19 b,doll_3.85 b
+178,doll_48.37 b,doll_82.45 b,doll_67.84 b,doll_4.11 b
+179,doll_91.44 b,doll_151.17 b,doll_28.52 b,doll_5.54 b
+180,doll_41.52 b,doll_65.98 b,doll_59.44 b,doll_8.54 b
+181,doll_28.33 b,doll_296.89 b,doll_43.16 b,doll_4.07 b
+182,doll_21.49 b,"doll_1,081.81 b",doll_39.03 b,doll_5.65 b
+183,doll_56.7 b,doll_44.32 b,doll_196.86 b,doll_6.39 b
+184,doll_34.39 b,doll_64.47 b,doll_130.67 b,doll_5.54 b
+185,doll_26.76 b,"doll_1,957.58 b",doll_31.38 b,doll_5.42 b
+186,doll_30.79 b,doll_81.61 b,doll_157.26 b,doll_3.83 b
+187,doll_76.65 b,doll_90.51 b,doll_28.98 b,doll_14.99 b
+188,doll_18.66 b,doll_677.51 b,doll_51.21 b,doll_5.33 b
+189,doll_42.94 b,doll_219.65 b,doll_32.81 b,doll_4.25 b
+190,doll_31.17 b,doll_63.7 b,doll_77.51 b,doll_9.02 b
+191,doll_18.38 b,doll_707.08 b,doll_56.23 b,doll_4.63 b
+192,doll_33.23 b,doll_378.81 b,doll_30.63 b,doll_5.18 b
+193,doll_68.15 b,doll_121.1 b,doll_35.23 b,doll_4.02 b
+194,doll_59.72 b,doll_52.21 b,doll_63.62 b,doll_6.81 b
+195,doll_58.35 b,doll_63.34 b,doll_50.35 b,doll_6.85 b
+196,doll_46.42 b,doll_124.2 b,doll_29.44 b,doll_9.4 b
+197,doll_71.42 b,doll_304.19 b,doll_27.92 b,doll_3.5 b
+198,doll_15.76 b,doll_669.03 b,doll_77.24 b,doll_4.78 b
+199,doll_34.46 b,doll_418.7 b,doll_28.9 b,doll_4.99 b
+200,doll_36.04 b,doll_42.82 b,doll_149.68 b,doll_9.99 b
+201,doll_38.16 b,doll_48.91 b,doll_195.52 b,doll_5.43 b
+202,doll_50.59 b,doll_90.66 b,doll_36.45 b,doll_5.69 b
+203,doll_121.42 b,doll_133.97 b,doll_28.87 b,doll_3.71 b
+204,doll_21.89 b,doll_226.39 b,doll_67.9 b,doll_3.01 b
+205,doll_42.38 b,doll_926.05 b,doll_20.11 b,doll_6.72 b
+206,doll_27.37 b,doll_67.95 b,doll_78.17 b,doll_6.22 b
+207,doll_68.07 b,doll_300.52 b,doll_22.69 b,doll_4.16 b
+208,doll_26.91 b,doll_44.19 b,doll_489.83 b,doll_9.75 b
+209,doll_25.99 b,doll_61.16 b,doll_133.63 b,doll_5.89 b
+210,doll_22.66 b,doll_64.05 b,doll_147.23 b,doll_6.81 b
+211,doll_66.73 b,doll_571.45 b,doll_19.9 b,doll_4.47 b
+212,doll_46.89 b,doll_38.58 b,doll_203.13 b,doll_6.12 b
+213,doll_31.55 b,doll_110.27 b,doll_45.32 b,doll_3.99 b
+214,doll_31.51 b,doll_41.73 b,doll_159.18 b,doll_9 b
+215,doll_25.56 b,doll_75.8 b,doll_100.22 b,doll_4.17 b
+216,doll_33.61 b,doll_149.03 b,doll_32.45 b,doll_5.03 b
+217,doll_22.89 b,doll_402.17 b,doll_39.71 b,doll_3.62 b
+218,doll_50.6 b,doll_58.24 b,doll_60.55 b,doll_4.4 b
+219,doll_35.31 b,doll_108.59 b,doll_41.54 b,doll_3.92 b
+220,doll_28.32 b,doll_48.81 b,doll_265.45 b,doll_5.58 b
+221,doll_28.72 b,doll_67.09 b,doll_89.98 b,doll_4.3 b
+222,doll_23.22 b,doll_53.85 b,doll_185.03 b,doll_7.55 b
+223,doll_74.08 b,doll_198.87 b,doll_98.13 b,doll_1.17 b
+224,doll_35.57 b,"doll_1,665.37 b",doll_19.37 b,doll_5.97 b
+225,doll_34.16 b,doll_62.03 b,doll_85.36 b,doll_3.79 b
+226,doll_35.35 b,doll_47.07 b,doll_84.9 b,doll_5.92 b
+227,doll_22.11 b,doll_164.55 b,doll_41.15 b,doll_4.33 b
+228,doll_66.28 b,doll_75.51 b,doll_28.62 b,doll_6 b
+229,doll_23.23 b,doll_127.53 b,doll_80.48 b,doll_2.41 b
+230,doll_36.7 b,"doll_1,505.64 b",doll_24.54 b,doll_2.66 b
+231,doll_70.55 b,doll_92.14 b,doll_31.34 b,doll_3.38 b
+232,doll_36.13 b,doll_155.65 b,doll_27.91 b,doll_4.31 b
+233,doll_23.97 b,doll_60.69 b,doll_74.27 b,doll_6.11 b
+234,doll_29.82 b,doll_270.5 b,doll_30.71 b,doll_3.22 b
+235,doll_35.67 b,doll_42.58 b,doll_69.84 b,doll_7 b
+236,doll_85.26 b,doll_56.14 b,doll_51.85 b,doll_2.71 b
+237,doll_119.78 b,doll_85.37 b,doll_48.64 b,doll_1.72 b
+238,doll_50.08 b,"doll_1,090.92 b",doll_16.74 b,doll_4.8 b
+239,doll_62.51 b,doll_779.43 b,doll_19.63 b,doll_2.79 b
+240,doll_30.4 b,doll_45.33 b,doll_95.68 b,doll_5.01 b
+241,doll_48.07 b,doll_68.91 b,doll_63.37 b,doll_2.18 b
+242,doll_34.8 b,doll_137.39 b,doll_30.05 b,doll_3.7 b
+243,doll_12.4 b,doll_509.07 b,doll_63.03 b,doll_4.98 b
+244,doll_51.77 b,doll_64.91 b,doll_25.8 b,doll_13.85 b
+245,doll_108.41 b,doll_222.7 b,doll_19.1 b,doll_3.03 b
+246,doll_17.86 b,"doll_1,059.17 b",doll_30.22 b,doll_4.41 b
+247,doll_39.27 b,doll_133.01 b,doll_47.68 b,doll_1.71 b
+248,doll_84.09 b,doll_44.75 b,doll_56.34 b,doll_2.93 b
+249,doll_38.47 b,doll_50.07 b,doll_66.42 b,doll_3.26 b
+250,doll_57.93 b,doll_507.06 b,doll_20.47 b,doll_2.37 b
+251,doll_14.2 b,doll_304.38 b,doll_59.09 b,doll_3.44 b
+252,doll_52.1 b,doll_144.17 b,doll_70.06 b,doll_1.18 b
+253,doll_19.02 b,doll_264.29 b,doll_30.6 b,doll_4.67 b
+254,doll_81.13 b,doll_305.7 b,doll_15.65 b,doll_4.15 b
+255,doll_23.74 b,doll_144.94 b,doll_145.27 b,doll_1.46 b
+256,doll_33.86 b,doll_560.38 b,doll_19.29 b,doll_3.79 b
+257,doll_166.46 b,doll_213.64 b,doll_15.36 b,doll_3.95 b
+258,doll_64.98 b,doll_38.91 b,doll_38.75 b,doll_6.52 b
+259,doll_13.56 b,doll_648.83 b,doll_40.26 b,doll_4.5 b
+260,doll_78.47 b,doll_75.88 b,doll_39.19 b,doll_1.89 b
+261,doll_31.21 b,doll_66.29 b,doll_46.27 b,doll_3.29 b
+262,doll_26.49 b,doll_99.18 b,doll_169.72 b,doll_1.44 b
+263,doll_27.58 b,doll_53.2 b,doll_81.85 b,doll_3.04 b
+264,doll_49.49 b,doll_61.51 b,doll_45.14 b,doll_2.51 b
+265,doll_16.09 b,doll_473.81 b,doll_35.68 b,doll_3.6 b
+266,doll_18.88 b,doll_37.67 b,doll_343.27 b,doll_8.69 b
+267,doll_29.54 b,doll_362.53 b,doll_20.7 b,doll_3.4 b
+268,doll_125.98 b,doll_79.76 b,doll_49.2 b,doll_1.35 b
+269,doll_18.48 b,doll_118.61 b,doll_52.3 b,doll_2.91 b
+270,doll_24.31 b,doll_48.83 b,doll_60.97 b,doll_5.11 b
+271,doll_23.27 b,doll_52.13 b,doll_82.53 b,doll_3.61 b
+272,doll_14.64 b,doll_773.34 b,doll_26.82 b,doll_6.18 b
+273,doll_28.93 b,doll_42.27 b,doll_61.35 b,doll_4.65 b
+274,doll_43.36 b,doll_57.79 b,doll_34.7 b,doll_3.82 b
+275,doll_25.96 b,doll_78.47 b,doll_53.05 b,doll_2.31 b
+276,doll_20.77 b,doll_119.92 b,doll_54.88 b,doll_2.07 b
+277,doll_257.01 b,doll_63.71 b,doll_47.66 b,doll_1.41 b
+278,doll_29.27 b,doll_545.24 b,doll_18.17 b,doll_3.57 b
+279,doll_20.65 b,doll_33.64 b,doll_247.8 b,doll_6.09 b
+280,doll_27.63 b,doll_49.95 b,doll_57.39 b,doll_3.14 b
+281,doll_12.81 b,doll_77.86 b,doll_63.51 b,doll_8.03 b
+282,doll_61.01 b,doll_56.24 b,doll_25.82 b,doll_4.16 b
+283,doll_52.2 b,doll_58.66 b,doll_31.17 b,doll_2.98 b
+284,doll_22.38 b,doll_29.74 b,doll_252.91 b,doll_7.59 b
+285,doll_66.66 b,doll_76.95 b,doll_18.03 b,doll_5.77 b
+286,doll_19 b,doll_44.91 b,doll_116.05 b,doll_4.19 b
+287,doll_89.36 b,doll_51.98 b,doll_30.57 b,doll_2.66 b
+288,doll_90.1 b,doll_209.72 b,doll_14.37 b,doll_3.32 b
+289,doll_13.96 b,doll_99.59 b,doll_68.82 b,doll_3.29 b
+290,doll_137.89 b,doll_51.83 b,doll_41.23 b,doll_1.64 b
+291,doll_55.52 b,doll_62.17 b,doll_23.35 b,doll_4.06 b
+292,doll_14.6 b,doll_40.04 b,doll_343.32 b,doll_8.13 b
+293,doll_50.91 b,doll_45.96 b,doll_37.03 b,doll_2.98 b
+294,doll_13.71 b,doll_316.26 b,doll_37.67 b,doll_3.03 b
+295,doll_23.43 b,doll_60.01 b,doll_36.07 b,doll_4.45 b
+296,doll_46.15 b,doll_36.74 b,doll_34.94 b,doll_5.6 b
+297,doll_20.14 b,doll_48.27 b,doll_148.42 b,doll_2.47 b
+298,doll_27.79 b,"doll_1,042.44 b",doll_21.62 b,doll_1.78 b
+299,doll_221.1 b,doll_57.58 b,doll_33.25 b,doll_1.61 b
+300,doll_23.43 b,doll_67.58 b,doll_79.45 b,doll_1.73 b
+301,doll_32.57 b,doll_32.45 b,doll_68.15 b,doll_3.81 b
+302,doll_30.36 b,doll_28.83 b,doll_89.63 b,doll_4.39 b
+303,doll_39.96 b,doll_28.63 b,doll_43.29 b,doll_7.95 b
+304,doll_10.15 b,doll_193.5 b,doll_65.71 b,doll_4.06 b
+305,doll_48.55 b,doll_28.46 b,doll_73.7 b,doll_3.28 b
+306,doll_14.81 b,doll_387.04 b,doll_29.5 b,doll_3.03 b
+307,doll_84.17 b,doll_66.22 b,doll_25.89 b,doll_2.06 b
+308,doll_33.78 b,doll_70.56 b,doll_23.25 b,doll_4.01 b
+309,doll_15.47 b,doll_43.34 b,doll_132.17 b,doll_5.33 b
+310,doll_16.62 b,doll_90.95 b,doll_50.58 b,doll_2.49 b
+311,doll_11.21 b,doll_251.79 b,doll_55.44 b,doll_2.96 b
+312,doll_72.32 b,doll_63.99 b,doll_19.7 b,doll_3.51 b
+313,doll_46 b,doll_175.09 b,doll_24.7 b,doll_1.43 b
+314,doll_19.78 b,doll_38.24 b,doll_67.97 b,doll_4.66 b
+315,doll_51.78 b,doll_525.34 b,doll_16.12 b,doll_1.78 b
+316,doll_15.7 b,doll_59.1 b,doll_93.89 b,doll_2.74 b
+317,doll_111.7 b,doll_55.59 b,doll_40.23 b,doll_1.31 b
+318,doll_49.52 b,doll_36.82 b,doll_33.74 b,doll_3.7 b
+319,doll_58.8 b,doll_63.97 b,doll_20.8 b,doll_2.95 b
+320,doll_48.22 b,doll_77.8 b,doll_20.28 b,doll_2.69 b
+321,doll_29.35 b,doll_65.72 b,doll_30.19 b,doll_2.49 b
+322,doll_21.11 b,doll_39.52 b,doll_100.66 b,doll_2.46 b
+323,doll_24.15 b,doll_25.43 b,doll_99.65 b,doll_6.55 b
+324,doll_47 b,doll_62.32 b,doll_22.61 b,doll_2.77 b
+325,doll_37.21 b,doll_36.82 b,doll_41.33 b,doll_3.01 b
+326,doll_8.63 b,doll_243.49 b,doll_86.46 b,doll_3.38 b
+327,doll_19.81 b,doll_42.58 b,doll_69.46 b,doll_2.84 b
+328,doll_20.86 b,doll_35.33 b,doll_70.75 b,doll_3.75 b
+329,doll_18.49 b,doll_127.39 b,doll_29.83 b,doll_2.31 b
+330,doll_28.65 b,doll_51.65 b,doll_37.97 b,doll_2.24 b
+331,doll_57.54 b,doll_74.59 b,doll_14.92 b,doll_5.45 b
+332,doll_37.26 b,doll_43.02 b,doll_30.55 b,doll_3.2 b
+333,doll_12.8 b,doll_110.61 b,doll_31.69 b,doll_5.42 b
+334,doll_58.66 b,doll_28.83 b,doll_46.65 b,doll_2.77 b
+335,doll_26.38 b,doll_549.24 b,doll_13.28 b,doll_3.59 b
+336,doll_22.38 b,doll_285.02 b,doll_15.72 b,doll_3.8 b
+337,doll_100.33 b,"doll_4,229.9 b",doll_880 m,doll_22.18 b
+338,doll_44.26 b,doll_81.83 b,doll_20.43 b,doll_2.15 b
+339,doll_20.33 b,doll_33.69 b,doll_85.88 b,doll_3.23 b
+340,doll_13.89 b,doll_175.98 b,doll_30.97 b,doll_2.76 b
+341,doll_19.93 b,doll_53.36 b,doll_72.63 b,doll_1.77 b
+342,doll_65.97 b,doll_64.06 b,doll_20.98 b,doll_2.1 b
+343,doll_41.89 b,doll_216.84 b,doll_16.51 b,doll_1.81 b
+344,doll_22.73 b,doll_122.37 b,doll_21.71 b,doll_2.38 b
+345,doll_11.74 b,doll_200.63 b,doll_32.19 b,doll_3.56 b
+346,doll_8.25 b,doll_272.35 b,doll_69.08 b,doll_3.31 b
+347,doll_18.7 b,doll_52.85 b,doll_51.83 b,doll_2.27 b
+348,doll_23.67 b,doll_41.97 b,doll_58.86 b,doll_2.09 b
+349,doll_18.34 b,doll_24.68 b,doll_159.94 b,doll_7.74 b
+350,doll_12.77 b,doll_117.74 b,doll_50.14 b,doll_2.17 b
+351,doll_18.88 b,doll_827.82 b,doll_19.69 b,doll_1.96 b
+352,doll_31 b,doll_44.67 b,doll_31.77 b,doll_2.57 b
+353,doll_19.38 b,doll_473.06 b,doll_15.09 b,doll_3.55 b
+354,doll_28.59 b,doll_58.62 b,doll_20.13 b,doll_4.54 b
+355,doll_17.9 b,doll_399.65 b,doll_17.05 b,doll_2.88 b
+356,doll_16.65 b,doll_45.71 b,doll_34.51 b,doll_6.47 b
+357,doll_27.88 b,doll_44.27 b,doll_27.82 b,doll_3.71 b
+358,doll_72.2 b,doll_51.73 b,doll_16.53 b,doll_3.72 b
+359,doll_34.22 b,doll_29.06 b,doll_56.92 b,doll_2.4 b
+360,doll_26.04 b,doll_93.39 b,doll_52.89 b,doll_1.01 b
+361,doll_65.84 b,doll_58.72 b,doll_20.86 b,doll_1.89 b
+362,doll_62.24 b,"doll_3,025.59 b",doll_488 m,doll_12.11 b
+363,doll_27.86 b,doll_57.87 b,doll_20.48 b,doll_3.72 b
+364,doll_21.16 b,doll_50.14 b,doll_30.53 b,doll_3.08 b
+365,doll_37.48 b,doll_323.79 b,doll_13.6 b,doll_1.87 b
+366,doll_8.89 b,doll_340.71 b,doll_37.99 b,doll_3.03 b
+367,doll_50.83 b,doll_92.74 b,doll_15.05 b,doll_2.23 b
+368,doll_114 b,doll_58.54 b,doll_42.19 b,doll_924 m
+369,doll_13.12 b,doll_40.45 b,doll_75.34 b,doll_3.93 b
+370,doll_24.8 b,doll_601.79 b,doll_14.7 b,doll_1.98 b
+371,doll_20.93 b,doll_25.18 b,doll_47.37 b,doll_8.89 b
+372,doll_157.66 b,doll_212.29 b,doll_8.69 b,doll_3.83 b
+373,doll_18.4 b,doll_24.87 b,doll_56.56 b,doll_12.2 b
+374,doll_38.84 b,doll_23.86 b,doll_34.61 b,doll_6.01 b
+375,doll_26.05 b,doll_36.17 b,doll_26.78 b,doll_5.17 b
+376,doll_16.13 b,doll_25.98 b,doll_193.1 b,doll_4.83 b
+377,doll_22.39 b,doll_70.83 b,doll_23.65 b,doll_2.37 b
+378,doll_11.54 b,doll_322.35 b,doll_26.04 b,doll_2.78 b
+379,doll_6.74 b,doll_166.12 b,doll_119.85 b,doll_3.93 b
+380,doll_70.28 b,doll_156.4 b,doll_16.34 b,doll_1.31 b
+381,doll_17.2 b,doll_32.64 b,doll_57.46 b,doll_3.95 b
+382,doll_16.23 b,doll_76.25 b,doll_63.16 b,doll_1.33 b
+383,doll_16.07 b,doll_25.43 b,doll_74.68 b,doll_8.08 b
+384,doll_90.31 b,doll_79.99 b,doll_11.38 b,doll_3.45 b
+385,doll_25.73 b,doll_18.68 b,doll_172.79 b,doll_5.14 b
+386,doll_35.67 b,doll_119.93 b,doll_13.91 b,doll_2.19 b
+387,doll_42.02 b,doll_64.55 b,doll_16.24 b,doll_2.47 b
+388,doll_23.54 b,doll_264.11 b,doll_19.73 b,doll_1.36 b
+389,doll_15.94 b,doll_410.39 b,doll_14.76 b,doll_3.45 b
+390,doll_9.36 b,doll_69.89 b,doll_119.49 b,doll_2.57 b
+391,doll_17.87 b,doll_38.77 b,doll_57.38 b,doll_2.11 b
+392,doll_10.26 b,doll_103.68 b,doll_34.81 b,doll_3.64 b
+393,doll_22.43 b,doll_29.86 b,doll_38.63 b,doll_3.82 b
+394,doll_15.9 b,doll_66.86 b,doll_27.29 b,doll_3.03 b
+395,doll_23.41 b,doll_134.34 b,doll_19.42 b,doll_1.61 b
+396,doll_35.16 b,doll_34.12 b,doll_33.26 b,doll_2.03 b
+397,doll_19.63 b,doll_34.03 b,doll_58.35 b,doll_2.14 b
+398,doll_85.9 b,doll_139.12 b,doll_11.99 b,doll_1.72 b
+399,doll_24.19 b,doll_42.22 b,doll_44.22 b,doll_1.57 b
+400,doll_64.99 b,doll_37.18 b,doll_17.48 b,doll_3.8 b
+401,doll_16.91 b,doll_31.8 b,doll_60.71 b,doll_3.02 b
+402,doll_35.86 b,doll_91.49 b,doll_15.89 b,doll_1.88 b
+403,doll_11.55 b,doll_38.84 b,doll_86.33 b,doll_3.9 b
+404,doll_17.11 b,doll_34.63 b,doll_93.79 b,doll_1.99 b
+405,doll_26.24 b,doll_45.54 b,doll_29.66 b,doll_1.92 b
+406,doll_40.34 b,doll_41.12 b,doll_22.76 b,doll_2.13 b
+407,doll_79.17 b,doll_136.86 b,doll_16.36 b,doll_1.1 b
+408,doll_31.07 b,doll_34.62 b,doll_20.42 b,doll_5.01 b
+409,doll_25.93 b,doll_56.66 b,doll_23.41 b,doll_1.97 b
+410,doll_26.85 b,doll_36.75 b,doll_30.15 b,doll_2.42 b
+411,doll_14.52 b,doll_34.9 b,doll_83.82 b,doll_2.54 b
+412,doll_28.84 b,doll_69.55 b,doll_23.74 b,doll_1.43 b
+413,doll_14.93 b,doll_256.03 b,doll_19.63 b,doll_1.94 b
+414,doll_15.4 b,doll_32.77 b,doll_38.07 b,doll_5.87 b
+415,doll_84.53 b,doll_215.77 b,doll_9.36 b,doll_2.17 b
+416,doll_28.99 b,doll_203.56 b,doll_28.86 b,doll_852.2 m
+417,doll_26.88 b,doll_30.45 b,doll_46.78 b,doll_1.88 b
+418,doll_26.33 b,doll_509.34 b,doll_11.76 b,doll_1.95 b
+419,doll_19.31 b,doll_59.63 b,doll_32.49 b,doll_1.58 b
+420,doll_26.95 b,doll_34.76 b,doll_28.6 b,doll_2.55 b
+421,doll_31.98 b,doll_41.26 b,doll_24.66 b,doll_1.95 b
+422,doll_28.42 b,doll_32.63 b,doll_22.75 b,doll_3.89 b
+423,doll_12.17 b,doll_296.8 b,doll_18.84 b,doll_2.61 b
+424,doll_20.28 b,doll_35.45 b,doll_26.39 b,doll_3.92 b
+425,doll_12.68 b,doll_50.6 b,doll_52.47 b,doll_2.15 b
+426,doll_8.52 b,doll_51.5 b,doll_83.05 b,doll_4.08 b
+427,doll_7.79 b,doll_331.04 b,doll_34.31 b,doll_2.84 b
+428,doll_18.55 b,doll_26.96 b,doll_55.6 b,doll_2.75 b
+429,doll_22.66 b,doll_39.22 b,doll_20.62 b,doll_3.88 b
+430,doll_62.29 b,doll_138.55 b,doll_104.45 b,doll_-4.2 b
+431,doll_18.63 b,doll_31.14 b,doll_43.66 b,doll_2.3 b
+432,doll_11.41 b,doll_152.12 b,doll_31.32 b,doll_1.71 b
+433,doll_9 b,doll_288.48 b,doll_24.82 b,doll_2.67 b
+434,doll_17.77 b,doll_22.08 b,doll_94.7 b,doll_3.25 b
+435,doll_33.43 b,doll_49.42 b,doll_20.19 b,doll_1.72 b
+436,doll_23.57 b,doll_74.56 b,doll_13.28 b,doll_3.39 b
+437,doll_25.1 b,doll_25.17 b,doll_41.08 b,doll_2.5 b
+438,doll_28.13 b,doll_38.16 b,doll_22.85 b,doll_2.18 b
+439,doll_11.14 b,doll_38.89 b,doll_67.06 b,doll_3 b
+440,doll_14.26 b,doll_304.66 b,doll_18.25 b,doll_1.71 b
+441,doll_13.06 b,doll_72.05 b,doll_53.11 b,doll_1.32 b
+442,doll_132.85 b,doll_170.19 b,doll_15.64 b,doll_872.3 m
+443,doll_14.77 b,doll_32.32 b,doll_37.88 b,doll_3.87 b
+444,doll_28.89 b,doll_25 b,doll_25.28 b,doll_4.53 b
+445,doll_17.81 b,doll_34.71 b,doll_47.86 b,doll_1.85 b
+446,doll_7.01 b,doll_70.81 b,doll_40.31 b,doll_13.97 b
+447,doll_15.9 b,doll_170.79 b,doll_18.06 b,doll_1.74 b
+448,doll_10.48 b,doll_82.51 b,doll_55.95 b,doll_1.56 b
+449,doll_17.81 b,doll_23.43 b,doll_37.75 b,doll_6.53 b
+450,doll_26.17 b,doll_43.5 b,doll_29.75 b,doll_1.43 b
+451,doll_17.93 b,doll_29.61 b,doll_65.39 b,doll_1.82 b
+452,doll_23.72 b,doll_37.8 b,doll_28.33 b,doll_1.93 b
+453,doll_17.66 b,doll_23.89 b,doll_46.45 b,doll_3.99 b
+454,doll_24.8 b,doll_20.94 b,doll_62.03 b,doll_2.39 b
+455,doll_30.17 b,doll_33 b,doll_21.93 b,doll_2.41 b
+456,doll_13.37 b,doll_60.67 b,doll_40.44 b,doll_1.6 b
+457,doll_15.65 b,doll_42.34 b,doll_41.92 b,doll_1.76 b
+458,doll_11.37 b,doll_95.27 b,doll_19.23 b,doll_4.13 b
+459,doll_69.53 b,doll_50.05 b,doll_13.04 b,doll_2.05 b
+460,doll_23.32 b,doll_64.33 b,doll_18.92 b,doll_1.73 b
+461,doll_38.68 b,doll_105.36 b,doll_204.56 b,doll_94.7 m
+462,doll_38.49 b,doll_186.56 b,doll_3.18 b,doll_5.5 b
+463,doll_70.4 b,doll_367.96 b,doll_2.78 b,doll_2.45 b
+464,doll_29.54 b,doll_39.73 b,doll_25.7 b,doll_1.47 b
+465,doll_8.6 b,doll_188.95 b,doll_26.14 b,doll_2.49 b
+466,doll_38.86 b,doll_47.86 b,doll_15.82 b,doll_1.89 b
+467,doll_147.63 b,doll_77.9 b,doll_68.56 b,doll_-560.4 m
+468,doll_16.61 b,doll_69.14 b,doll_43.42 b,doll_1.03 b
+469,doll_42.58 b,doll_72.57 b,doll_10.55 b,doll_2.51 b
+470,doll_8.27 b,doll_211.12 b,doll_26.35 b,doll_2.56 b
+471,doll_10.18 b,doll_124.82 b,doll_24.98 b,doll_2.18 b
+472,doll_87.81 b,doll_54.21 b,doll_15.77 b,doll_1.27 b
+473,doll_32.83 b,doll_27.06 b,doll_29.14 b,doll_1.93 b
+474,doll_7.55 b,doll_364.95 b,doll_24.72 b,doll_2.96 b
+475,doll_19.26 b,doll_83.54 b,doll_10.48 b,doll_6.13 b
+476,doll_34.44 b,doll_176.36 b,doll_8.91 b,doll_2.31 b
+477,doll_11.94 b,doll_46.89 b,doll_42.24 b,doll_2.02 b
+478,doll_28.97 b,doll_24.68 b,doll_38.65 b,doll_1.78 b
+479,doll_51.73 b,doll_218.26 b,doll_11.01 b,doll_1.2 b
+480,doll_53.63 b,doll_178.59 b,doll_46.36 b,doll_-291 m
+481,doll_15.24 b,doll_21.77 b,doll_58.01 b,doll_4.29 b
+482,doll_13.75 b,doll_422.67 b,doll_11.47 b,doll_3.01 b
+483,doll_36.42 b,doll_43.31 b,doll_15.65 b,doll_2.05 b
+484,doll_17 b,doll_55 b,doll_20.32 b,doll_2.17 b
+485,doll_9.17 b,doll_213.19 b,doll_24.74 b,doll_1.95 b
+486,doll_4.69 b,doll_196.96 b,doll_80.12 b,doll_2.62 b
+487,doll_12.44 b,doll_49.06 b,doll_42.24 b,doll_1.62 b
+488,doll_11.58 b,doll_38.74 b,doll_54.16 b,doll_2.04 b
+489,doll_9.53 b,doll_121.09 b,doll_26.88 b,doll_1.96 b
+490,doll_27.38 b,doll_36.04 b,doll_27.29 b,doll_1.4 b
+491,doll_23.54 b,doll_29.3 b,doll_29.79 b,doll_1.85 b
+492,doll_13.67 b,doll_63.12 b,doll_34.18 b,doll_1.35 b
+493,doll_18.26 b,doll_71.09 b,doll_20.04 b,doll_1.4 b
+494,doll_17.52 b,doll_22.09 b,doll_26.68 b,doll_8.56 b
+495,doll_24.51 b,doll_34.97 b,doll_22.06 b,doll_1.78 b
+496,doll_22.28 b,doll_26.6 b,doll_24.76 b,doll_2.71 b
+497,doll_70.56 b,doll_45.65 b,doll_11.89 b,doll_1.88 b
+498,doll_19.27 b,doll_22.93 b,doll_51.27 b,doll_1.89 b
+499,doll_9.27 b,"doll_1,066.1 b",doll_52.66 b,doll_838.9 m
+500,doll_6.55 b,doll_120.91 b,doll_32.71 b,doll_3.12 b
+501,doll_45.13 b,doll_465.18 b,doll_21.03 b,doll_572.1 m
+502,doll_19.95 b,doll_20.67 b,doll_64.22 b,doll_1.86 b
+503,doll_22.57 b,doll_32.36 b,doll_22.93 b,doll_1.93 b
+504,doll_11.41 b,doll_26.3 b,doll_125.37 b,doll_2.17 b
+505,doll_16.72 b,doll_16.59 b,doll_64.61 b,doll_4.54 b
+506,doll_11.43 b,doll_350.46 b,doll_13.97 b,doll_2.1 b
+507,doll_19.18 b,doll_371.28 b,doll_11.2 b,doll_1.41 b
+508,doll_20.61 b,doll_26.17 b,doll_35.55 b,doll_1.66 b
+509,doll_17.88 b,doll_48.47 b,doll_16.2 b,doll_2.41 b
+510,doll_35.86 b,doll_50.42 b,doll_11.14 b,doll_2.28 b
+511,doll_39.91 b,doll_42.46 b,doll_14.14 b,doll_1.72 b
+512,doll_21.3 b,doll_278.1 b,doll_3.15 b,doll_4.22 b
+513,doll_16.28 b,doll_23.07 b,doll_38.94 b,doll_2.83 b
+514,doll_20.53 b,doll_40.82 b,doll_31.13 b,doll_1.12 b
+515,doll_10.84 b,doll_184.3 b,doll_13.79 b,doll_2.92 b
+516,doll_13.59 b,doll_24.11 b,doll_52.53 b,doll_2.62 b
+517,doll_6.1 b,doll_87.69 b,doll_67.62 b,doll_2.26 b
+518,doll_32.85 b,doll_31.35 b,doll_21.5 b,doll_1.46 b
+519,doll_14.63 b,doll_48.08 b,doll_24.88 b,doll_1.65 b
+520,doll_10.99 b,doll_41.34 b,doll_49.11 b,doll_1.62 b
+521,doll_24.02 b,doll_23.71 b,doll_28.3 b,doll_2.13 b
+522,doll_10.57 b,doll_49.76 b,doll_42.73 b,doll_1.52 b
+523,doll_21.46 b,doll_27.33 b,doll_35.59 b,doll_1.37 b
+524,doll_4.83 b,doll_59.78 b,doll_126.34 b,doll_3.72 b
+525,doll_19.14 b,doll_37.35 b,doll_28.56 b,doll_1.29 b
+526,doll_44.43 b,doll_50.77 b,doll_13.13 b,doll_1.33 b
+527,doll_10.61 b,doll_90.85 b,doll_21.04 b,doll_1.73 b
+528,doll_8.32 b,doll_71.41 b,doll_25.13 b,doll_2.73 b
+529,doll_50.26 b,doll_126.59 b,doll_31.81 b,doll_275.4 m
+530,doll_35.88 b,doll_16.08 b,doll_34.84 b,doll_2.22 b
+531,doll_59.15 b,doll_23.82 b,doll_16.83 b,doll_2.08 b
+532,doll_25.44 b,doll_287.06 b,doll_9.59 b,doll_1.28 b
+533,doll_12.85 b,doll_28.68 b,doll_45.55 b,doll_1.82 b
+534,doll_71.89 b,doll_28.12 b,doll_15.57 b,doll_1.62 b
+535,doll_34.8 b,doll_67.03 b,doll_10.5 b,doll_1.6 b
+536,doll_27.75 b,doll_22.07 b,doll_27.96 b,doll_1.84 b
+537,doll_30.13 b,doll_30.76 b,doll_18.19 b,doll_1.69 b
+538,doll_30.09 b,doll_46.47 b,doll_14.64 b,doll_1.43 b
+539,doll_16.33 b,doll_15.56 b,doll_87.21 b,doll_2.97 b
+540,doll_26.52 b,doll_189.35 b,doll_36.7 b,doll_-1.98 b
+541,doll_16.86 b,doll_47.38 b,doll_14.32 b,doll_2.63 b
+542,doll_6.38 b,doll_54.11 b,doll_69.42 b,doll_2.27 b
+543,doll_14.67 b,doll_76.16 b,doll_15.94 b,doll_1.58 b
+544,doll_17.09 b,doll_14.97 b,doll_67.25 b,doll_3.6 b
+545,doll_66.12 b,doll_44.99 b,doll_17.87 b,doll_900.9 m
+546,doll_10.59 b,doll_23.44 b,doll_94.67 b,doll_2.36 b
+547,doll_36.25 b,doll_29.09 b,doll_18.14 b,doll_1.51 b
+548,doll_8.44 b,doll_51.22 b,doll_81.25 b,doll_1.28 b
+549,doll_19.99 b,doll_32.77 b,doll_21.19 b,doll_1.6 b
+550,doll_10.94 b,doll_27.13 b,doll_53.86 b,doll_2.12 b
+551,doll_12.25 b,doll_39.91 b,doll_59.06 b,doll_1.05 b
+552,doll_15.22 b,doll_21.41 b,doll_40.01 b,doll_2.45 b
+553,doll_12.19 b,doll_31.92 b,doll_68.81 b,doll_1.25 b
+554,doll_13.43 b,doll_37.99 b,doll_36.05 b,doll_1.32 b
+555,doll_26.32 b,doll_21.72 b,doll_37.7 b,doll_1.33 b
+556,doll_7.45 b,doll_181.22 b,doll_19.06 b,doll_2.45 b
+557,doll_9.58 b,doll_34.97 b,doll_26.88 b,doll_4.22 b
+558,doll_15.99 b,doll_358.9 b,doll_9 b,doll_1.96 b
+559,doll_25.35 b,doll_18.34 b,doll_40.57 b,doll_1.65 b
+560,doll_32.56 b,doll_34.68 b,doll_15.39 b,doll_1.54 b
+561,doll_51.76 b,doll_17.5 b,doll_20.56 b,doll_2.45 b
+562,doll_6.08 b,doll_220.35 b,doll_31.82 b,doll_1.81 b
+563,doll_16.43 b,doll_12.42 b,doll_142.8 b,doll_3.16 b
+564,doll_12.84 b,doll_39.36 b,doll_19.89 b,doll_2.47 b
+565,doll_11.27 b,doll_26.18 b,doll_44.12 b,doll_2.33 b
+566,doll_19.79 b,doll_18.67 b,doll_46.67 b,doll_1.75 b
+567,doll_6.75 b,doll_303.81 b,doll_18.56 b,doll_2.43 b
+568,doll_18.51 b,doll_17.85 b,doll_43.62 b,doll_2.14 b
+569,doll_14.07 b,doll_30.15 b,doll_28.58 b,doll_1.91 b
+570,doll_13.7 b,doll_27.29 b,doll_39.15 b,doll_1.62 b
+571,doll_6.88 b,doll_192.1 b,doll_20.76 b,doll_2.13 b
+572,doll_13.69 b,doll_21.02 b,doll_38.57 b,doll_2.78 b
+573,doll_20.35 b,doll_39.49 b,doll_17.94 b,doll_1.4 b
+574,doll_17.1 b,doll_23.01 b,doll_22.87 b,doll_2.93 b
+575,doll_19.69 b,doll_57.99 b,doll_11.16 b,doll_2.03 b
+576,doll_6.63 b,doll_162.94 b,doll_20.03 b,doll_2.52 b
+577,doll_6.34 b,doll_369.65 b,doll_19.52 b,doll_2.27 b
+578,doll_10.43 b,doll_68.46 b,doll_21.49 b,doll_1.53 b
+579,doll_32.78 b,doll_46.55 b,doll_84.46 b,doll_469.6 m
+580,doll_14.46 b,doll_16.08 b,doll_63.42 b,doll_2.69 b
+581,doll_14.57 b,doll_28.43 b,doll_43.53 b,doll_1.21 b
+582,doll_8.8 b,doll_25.06 b,doll_61.39 b,doll_2.7 b
+583,doll_10.54 b,doll_46.92 b,doll_12.59 b,doll_13.43 b
+584,doll_17.42 b,doll_15.04 b,doll_68.17 b,doll_2.17 b
+585,doll_10.33 b,doll_31.56 b,doll_24.88 b,doll_3.52 b
+586,doll_14.74 b,doll_24.17 b,doll_23.75 b,doll_2.91 b
+587,doll_11.31 b,doll_37.95 b,doll_12.95 b,doll_29.19 b
+588,doll_12.78 b,doll_33.52 b,doll_36.77 b,doll_1.28 b
+589,doll_25.02 b,doll_126.52 b,doll_8.48 b,doll_1.57 b
+590,doll_31.4 b,doll_43.47 b,doll_12.04 b,doll_1.43 b
+591,doll_15.63 b,doll_58.13 b,doll_11.58 b,doll_2.42 b
+592,doll_15.29 b,doll_22.39 b,doll_35.6 b,doll_1.82 b
+593,doll_16.38 b,doll_25.3 b,doll_20.21 b,doll_2.63 b
+594,doll_11.47 b,doll_376.18 b,doll_9.51 b,doll_2.2 b
+595,doll_60.74 b,doll_21.43 b,doll_45.06 b,doll_785.5 m
+596,doll_15.82 b,doll_31.16 b,doll_34.21 b,doll_1.09 b
+597,doll_30.07 b,doll_829.54 b,doll_18.68 b,doll_-1.8 b
+598,doll_11.79 b,doll_44.07 b,doll_29.24 b,doll_1.27 b
+599,doll_5.89 b,doll_149.86 b,doll_31.03 b,doll_1.77 b
+600,doll_11.89 b,doll_32.23 b,doll_62.63 b,doll_1.04 b
+601,doll_14.9 b,doll_74.75 b,doll_27.27 b,doll_781 m
+602,doll_23.37 b,doll_69.03 b,doll_5.07 b,doll_3.86 b
+603,doll_10.67 b,doll_553.78 b,doll_11.81 b,doll_1.43 b
+604,doll_11.71 b,doll_59.45 b,doll_25.1 b,doll_1.12 b
+605,doll_12.23 b,doll_27.22 b,doll_30.25 b,doll_2 b
+606,doll_38 b,doll_98.41 b,doll_25.8 b,doll_429.3 m
+607,doll_12.99 b,doll_16.46 b,doll_59.33 b,doll_2.64 b
+608,doll_19.46 b,doll_23.65 b,doll_12.82 b,doll_7.09 b
+609,doll_16.83 b,doll_28.18 b,doll_21.35 b,doll_1.69 b
+610,doll_17.27 b,doll_23.62 b,doll_30.94 b,doll_1.5 b
+611,doll_13.86 b,doll_25.55 b,doll_58.74 b,doll_1.1 b
+612,doll_12.18 b,doll_34.43 b,doll_49.91 b,doll_1.02 b
+613,doll_32.05 b,doll_32.93 b,doll_36.66 b,doll_661.9 m
+614,doll_35.1 b,doll_73.75 b,doll_28.01 b,doll_516 m
+615,doll_43.2 b,doll_25.18 b,doll_11.16 b,doll_2.59 b
+616,doll_16.13 b,doll_22.07 b,doll_33.94 b,doll_1.55 b
+617,doll_77.3 b,doll_85.27 b,doll_5.15 b,doll_1.3 b
+618,doll_6.57 b,doll_183.89 b,doll_22.08 b,doll_1.53 b
+619,doll_22.13 b,doll_39.31 b,doll_10.91 b,doll_2.08 b
+620,doll_16.77 b,doll_24.87 b,doll_19.81 b,doll_2.22 b
+621,doll_9.86 b,doll_48.49 b,doll_31.72 b,doll_1.22 b
+622,doll_17.59 b,doll_21.14 b,doll_21.93 b,doll_2.39 b
+623,doll_10.62 b,doll_15.75 b,doll_138.97 b,doll_2.89 b
+624,doll_21.78 b,doll_25.24 b,doll_17.89 b,doll_1.76 b
+625,doll_38.84 b,doll_76.85 b,doll_6.79 b,doll_1.7 b
+626,doll_17.07 b,doll_22.16 b,doll_40.47 b,doll_1.21 b
+627,doll_27.79 b,doll_37.76 b,doll_111.43 b,doll_-3.65 b
+628,doll_7.92 b,doll_41.57 b,doll_44.83 b,doll_1.46 b
+629,doll_10.75 b,doll_37.5 b,doll_19.97 b,doll_2.29 b
+630,doll_15.79 b,doll_38.17 b,doll_27.77 b,doll_978 m
+631,doll_5.26 b,doll_253.75 b,doll_32.23 b,doll_1.43 b
+632,doll_16.12 b,doll_20.39 b,doll_25.02 b,doll_2.38 b
+633,doll_13.43 b,doll_50.21 b,doll_20.28 b,doll_1.14 b
+634,doll_11.32 b,doll_44.79 b,doll_17.11 b,doll_2.03 b
+635,doll_16.24 b,doll_33.08 b,doll_23.43 b,doll_1.15 b
+636,doll_8.48 b,doll_18.3 b,doll_98.98 b,doll_3.49 b
+637,doll_21.82 b,doll_96.97 b,doll_2.14 b,doll_2.06 b
+638,doll_54.54 b,doll_38.99 b,doll_7.97 b,doll_2.21 b
+639,doll_22.2 b,doll_16.58 b,doll_29.96 b,doll_1.77 b
+640,doll_6.6 b,doll_39.07 b,doll_84.07 b,doll_1.46 b
+641,doll_11.41 b,doll_44.62 b,doll_26.27 b,doll_1.19 b
+642,doll_27.22 b,doll_52.18 b,doll_21.52 b,doll_656.7 m
+643,doll_24.33 b,doll_27.45 b,doll_15.11 b,doll_1.6 b
+644,doll_8.7 b,doll_218.42 b,doll_13.96 b,doll_1.44 b
+645,doll_54.62 b,doll_129.34 b,doll_7.28 b,doll_1.05 b
+646,doll_7.75 b,doll_24.23 b,doll_108.6 b,doll_2 b
+647,doll_9.63 b,doll_31.02 b,doll_21.93 b,doll_2.95 b
+648,doll_12.14 b,doll_55.32 b,doll_19.04 b,doll_1.22 b
+649,doll_22.35 b,doll_19.77 b,doll_15.18 b,doll_3.75 b
+650,doll_32.9 b,doll_41.06 b,doll_7.03 b,doll_3.6 b
+651,doll_12.47 b,doll_63.56 b,doll_13.58 b,doll_1.59 b
+652,doll_21.31 b,doll_24.32 b,doll_14.5 b,doll_2.29 b
+653,doll_36.46 b,doll_45.34 b,doll_7.25 b,doll_2.47 b
+654,doll_15.46 b,doll_39.72 b,doll_26.51 b,doll_905 m
+655,doll_17.76 b,doll_29.56 b,doll_12.76 b,doll_2.49 b
+656,doll_11.06 b,doll_21.25 b,doll_44.83 b,doll_1.87 b
+657,doll_18.94 b,doll_26.02 b,doll_15.48 b,doll_1.99 b
+658,doll_10.96 b,doll_23.64 b,doll_90.52 b,doll_1.17 b
+659,doll_78.17 b,doll_101 b,doll_16.11 b,doll_58.3 m
+660,doll_5.53 b,doll_187.12 b,doll_28.21 b,doll_1.54 b
+661,doll_9.67 b,doll_56.55 b,doll_13.52 b,doll_2.6 b
+662,doll_12.92 b,doll_15.1 b,doll_61.42 b,doll_2.11 b
+663,doll_13.88 b,doll_82.93 b,doll_61.05 b,doll_417 m
+664,doll_34.61 b,doll_47.4 b,doll_8.74 b,doll_1.48 b
+665,doll_17.86 b,doll_57.99 b,doll_19.63 b,doll_776 m
+666,doll_16.22 b,doll_31.04 b,doll_19.16 b,doll_1.33 b
+667,doll_109.61 b,doll_94.53 b,doll_6.02 b,doll_945.5 m
+668,doll_15.6 b,doll_14.08 b,doll_42.88 b,doll_2.41 b
+669,doll_40.91 b,doll_174.92 b,doll_4.36 b,doll_966.7 m
+670,doll_36.98 b,doll_43.43 b,doll_34.25 b,doll_468.2 m
+671,doll_17.91 b,doll_14.19 b,doll_36.31 b,doll_2.09 b
+672,doll_151 m,doll_47.83 b,doll_27.21 b,doll_5.4 b
+673,doll_23.85 b,doll_19.63 b,doll_22.04 b,doll_1.41 b
+674,doll_9.96 b,doll_18.77 b,doll_59.18 b,doll_2.02 b
+675,doll_20.64 b,doll_111.75 b,doll_24.11 b,doll_-88 m
+676,doll_11.3 b,doll_24.95 b,doll_41.81 b,doll_1.29 b
+677,doll_18.92 b,doll_14.62 b,doll_36.35 b,doll_1.72 b
+678,doll_8.32 b,doll_39.87 b,doll_32.8 b,doll_1.3 b
+679,doll_171.29 b,doll_43.68 b,doll_17.06 b,doll_555 m
+680,doll_31.9 b,doll_26.67 b,doll_14.61 b,doll_1.15 b
+681,doll_12.76 b,doll_125.01 b,doll_10.52 b,doll_1.25 b
+682,doll_3.23 b,doll_86.76 b,doll_31.76 b,doll_1.61 b
+683,doll_6.35 b,doll_22.15 b,doll_49.81 b,doll_5.71 b
+684,doll_14.11 b,doll_46.08 b,doll_10.13 b,doll_2.36 b
+685,doll_22.74 b,doll_14.1 b,doll_29.61 b,doll_1.86 b
+686,doll_13.87 b,doll_24.69 b,doll_43.56 b,doll_966 m
+687,doll_2.69 b,doll_51.22 b,doll_54.13 b,doll_1.61 b
+688,doll_17.23 b,doll_21.89 b,doll_31.37 b,doll_1.08 b
+689,doll_75.97 b,doll_106.8 b,doll_2.81 b,doll_889.8 m
+690,doll_12.73 b,doll_21.21 b,doll_50.16 b,doll_1.13 b
+691,doll_80.8 b,doll_52.63 b,doll_6.77 b,doll_1.2 b
+692,doll_23.87 b,doll_18.25 b,doll_31.7 b,doll_1.03 b
+693,doll_26.4 b,doll_85.06 b,doll_2.86 b,doll_1.33 b
+694,doll_8.52 b,doll_45.28 b,doll_37.87 b,doll_965.5 m
+695,doll_49.75 b,doll_82.98 b,doll_4.17 b,doll_1.01 b
+696,doll_17.89 b,doll_47.44 b,doll_52.26 b,doll_50.8 m
+697,doll_8.3 b,doll_15.03 b,doll_131.75 b,doll_3.02 b
+698,doll_6.42 b,doll_176.86 b,doll_19.88 b,doll_1.22 b
+699,doll_8.88 b,doll_37.49 b,doll_17.86 b,doll_2.14 b
+700,doll_8.85 b,doll_375.48 b,doll_3.93 b,doll_3.44 b
+701,doll_5.82 b,doll_210.92 b,doll_15.87 b,doll_1.87 b
+702,doll_14.14 b,doll_18.06 b,doll_34.77 b,doll_1.42 b
+703,doll_33.7 b,doll_60.36 b,doll_21.2 b,doll_477.9 m
+704,doll_13.33 b,doll_12.39 b,doll_46.92 b,doll_2.16 b
+705,doll_10.35 b,doll_23.88 b,doll_30.86 b,doll_1.56 b
+706,doll_13.87 b,doll_37.35 b,doll_15.81 b,doll_1.21 b
+707,doll_46.14 b,doll_170.24 b,doll_1.7 b,doll_786.8 m
+708,doll_12.36 b,doll_22.04 b,doll_24.17 b,doll_1.63 b
+709,doll_14.98 b,doll_48.72 b,doll_56.8 b,doll_406.6 m
+710,doll_11.83 b,doll_29.96 b,doll_16.04 b,doll_1.88 b
+711,doll_17.45 b,doll_38.77 b,doll_60.27 b,doll_-496 m
+712,doll_12.78 b,doll_15.54 b,doll_34.46 b,doll_2.01 b
+713,doll_14.32 b,doll_71.52 b,doll_9.58 b,doll_1.34 b
+714,doll_14.42 b,doll_125.48 b,doll_9.71 b,doll_999.1 m
+715,doll_40.44 b,doll_25.94 b,doll_11.13 b,doll_1.2 b
+716,doll_43.37 b,doll_37.27 b,doll_18.04 b,doll_596.6 m
+717,doll_10.2 b,doll_17.65 b,doll_31.02 b,doll_2.61 b
+718,doll_52.9 b,doll_177.59 b,doll_11.11 b,doll_-4.64 b
+719,doll_13.59 b,doll_22.88 b,doll_21.51 b,doll_1.44 b
+720,doll_34.06 b,doll_44.43 b,doll_11.58 b,doll_795.1 m
+721,doll_20.43 b,doll_13.06 b,doll_16.98 b,doll_3.89 b
+722,doll_6.43 b,doll_19.06 b,doll_100.89 b,doll_2.58 b
+723,doll_11.76 b,doll_16.05 b,doll_51.73 b,doll_1.5 b
+724,doll_18.2 b,doll_36.5 b,doll_56.35 b,doll_-44 m
+725,doll_14.03 b,doll_22.3 b,doll_16.3 b,doll_2.06 b
+726,doll_35.4 b,doll_34.91 b,doll_8.21 b,doll_1.51 b
+727,doll_4.77 b,doll_36.37 b,doll_42.6 b,doll_2.05 b
+728,doll_39.04 b,doll_42.32 b,doll_22.12 b,doll_-2.44 b
+729,doll_7.46 b,doll_662.22 b,doll_10.54 b,doll_1.4 b
+730,doll_5.12 b,doll_33.78 b,doll_41.33 b,doll_2.25 b
+731,doll_9.44 b,doll_334.87 b,doll_6.97 b,doll_2.11 b
+732,doll_10.8 b,doll_30.76 b,doll_24.76 b,doll_1.09 b
+733,doll_3.82 b,doll_110.92 b,doll_25.78 b,doll_1.22 b
+734,doll_11.84 b,doll_34.99 b,doll_32.06 b,doll_776.7 m
+735,doll_7.84 b,doll_21.27 b,doll_28.64 b,doll_3.15 b
+736,doll_8.35 b,doll_38.48 b,doll_20.04 b,doll_1.49 b
+737,doll_7.14 b,doll_27.52 b,doll_44.95 b,doll_1.39 b
+738,doll_10.29 b,doll_245.44 b,doll_6.47 b,doll_1.87 b
+739,doll_21.79 b,doll_28.14 b,doll_11.72 b,doll_1.28 b
+740,doll_27.72 b,doll_30.64 b,doll_10.9 b,doll_1.09 b
+741,doll_28.98 b,doll_69.04 b,doll_16.81 b,doll_-1.98 b
+742,doll_9.68 b,doll_44.09 b,doll_17.88 b,doll_1.18 b
+743,doll_10.88 b,doll_18.21 b,doll_28.7 b,doll_1.98 b
+744,doll_10.02 b,doll_19.45 b,doll_31.88 b,doll_1.73 b
+745,doll_34.07 b,doll_26.24 b,doll_7.55 b,doll_2.63 b
+746,doll_6.7 b,doll_113.57 b,doll_11.51 b,doll_2.02 b
+747,doll_16.89 b,doll_19.79 b,doll_19.14 b,doll_1.4 b
+748,doll_9.79 b,doll_19.65 b,doll_23.28 b,doll_2.55 b
+749,doll_26.9 b,doll_23.18 b,doll_9.18 b,doll_2.19 b
+750,doll_4.51 b,doll_111.08 b,doll_21.18 b,doll_1.36 b
+751,doll_25.27 b,doll_48.59 b,doll_9.67 b,doll_930.5 m
+752,doll_6.04 b,doll_126.57 b,doll_12.74 b,doll_2.06 b
+753,doll_14.18 b,doll_18.18 b,doll_23.53 b,doll_1.49 b
+754,doll_16.52 b,doll_12.94 b,doll_37.83 b,doll_1.38 b
+755,doll_17.61 b,doll_38.05 b,doll_14.8 b,doll_877 m
+756,doll_14.27 b,doll_26.15 b,doll_16.35 b,doll_1.29 b
+757,doll_23.39 b,doll_24.31 b,doll_11.78 b,doll_1.39 b
+758,doll_17.64 b,doll_43.11 b,doll_34.52 b,doll_-2.34 b
+759,doll_11.61 b,doll_17.86 b,doll_26.55 b,doll_1.76 b
+760,doll_16.56 b,doll_25.78 b,doll_12.8 b,doll_1.47 b
+761,doll_17.67 b,doll_78.23 b,doll_20.31 b,doll_-3.34 b
+762,doll_4.23 b,doll_119.87 b,doll_19.45 b,doll_1.38 b
+763,doll_10.26 b,doll_217.18 b,doll_4.43 b,doll_1.7 b
+764,doll_20.52 b,doll_27.52 b,doll_13.08 b,doll_1.04 b
+765,doll_7.8 b,doll_116.88 b,doll_9.56 b,doll_1.99 b
+766,doll_17.5 b,doll_50.17 b,doll_6.23 b,doll_1.76 b
+767,doll_25.39 b,doll_75.22 b,doll_3.9 b,doll_985.4 m
+768,doll_3.07 b,doll_70.58 b,doll_20.39 b,doll_1.7 b
+769,doll_11.84 b,doll_21.73 b,doll_32.16 b,doll_1.02 b
+770,doll_7.54 b,doll_46.72 b,doll_24.04 b,doll_1.03 b
+771,doll_14.63 b,doll_26 b,doll_10.82 b,doll_2.09 b
+772,doll_8.68 b,doll_25.73 b,doll_12.8 b,doll_5.05 b
+773,doll_2.71 b,doll_68.31 b,doll_56.14 b,doll_848.1 m
+774,doll_20.59 b,doll_34.99 b,doll_31.15 b,doll_306 m
+775,doll_8.05 b,doll_33.34 b,doll_37.32 b,doll_906.8 m
+776,doll_11.87 b,doll_35.62 b,doll_12.67 b,doll_1.36 b
+777,doll_10.88 b,doll_14.68 b,doll_41.49 b,doll_1.59 b
+778,doll_34.77 b,doll_67.4 b,doll_13.1 b,doll_-2.38 b
+779,doll_8.16 b,doll_11.68 b,doll_48.87 b,doll_2.99 b
+780,doll_11.84 b,doll_20.46 b,doll_29.26 b,doll_1.09 b
+781,doll_13.64 b,doll_24.5 b,doll_17.87 b,doll_1.14 b
+782,doll_10.56 b,doll_248.5 b,doll_3.01 b,doll_1.34 b
+783,doll_8.14 b,doll_124.31 b,doll_10.82 b,doll_1.18 b
+784,doll_5.64 b,doll_205.24 b,doll_12.88 b,doll_1.52 b
+785,doll_7.01 b,doll_26.47 b,doll_22.85 b,doll_2.02 b
+786,doll_6.07 b,doll_37.46 b,doll_33.32 b,doll_1.23 b
+787,doll_17.39 b,doll_20.03 b,doll_10.46 b,doll_2.69 b
+788,doll_10.15 b,doll_106.71 b,doll_4.1 b,doll_1.86 b
+789,doll_7.78 b,doll_13.9 b,doll_85.74 b,doll_2.04 b
+790,doll_5.92 b,doll_18.32 b,doll_48.01 b,doll_3.22 b
+791,doll_22.69 b,doll_38.41 b,doll_9.86 b,doll_918.4 m
+792,doll_24.41 b,doll_36.73 b,doll_7.08 b,doll_1.44 b
+793,doll_7.6 b,doll_13.43 b,doll_68.84 b,doll_2.34 b
+794,doll_19.65 b,doll_48.09 b,doll_20.39 b,doll_-205 m
+795,doll_16.77 b,doll_67.9 b,doll_4.19 b,doll_1.18 b
+796,doll_9.05 b,doll_218.46 b,doll_3.98 b,doll_1.51 b
+797,doll_21.98 b,doll_20.29 b,doll_10.16 b,doll_1.78 b
+798,doll_32.51 b,doll_51.25 b,doll_14.43 b,doll_-541.3 m
+799,doll_19.3 b,doll_29.08 b,doll_13.27 b,doll_868.4 m
+800,doll_18.34 b,doll_78.89 b,doll_7.36 b,doll_980 m
+801,doll_20.45 b,doll_17.82 b,doll_8.75 b,doll_4.17 b
+802,doll_11.6 b,doll_20.44 b,doll_18.74 b,doll_1.52 b
+803,doll_13.1 b,doll_21.63 b,doll_16.21 b,doll_1.37 b
+804,doll_40.91 b,doll_41.69 b,doll_14.96 b,doll_266 m
+805,doll_10.29 b,doll_26.8 b,doll_16.49 b,doll_1.35 b
+806,doll_20.27 b,doll_158.47 b,doll_7.85 b,doll_687.7 m
+807,doll_23.48 b,doll_65.7 b,doll_6.24 b,doll_904.5 m
+808,doll_11.19 b,doll_11.57 b,doll_39.09 b,doll_1.49 b
+809,doll_8.42 b,doll_49.53 b,doll_12.58 b,doll_1.29 b
+810,doll_11.78 b,doll_18.46 b,doll_16.34 b,doll_2.01 b
+811,doll_4.83 b,doll_30.5 b,doll_30.79 b,doll_1.83 b
+812,doll_9.72 b,doll_20.85 b,doll_22.72 b,doll_1.39 b
+813,doll_6.8 b,doll_22.9 b,doll_23.08 b,doll_2.18 b
+814,doll_14.3 b,doll_12.28 b,doll_31.04 b,doll_1.25 b
+815,doll_8.68 b,doll_198.67 b,doll_4.46 b,doll_1.48 b
+816,doll_13.93 b,doll_19.71 b,doll_27.77 b,doll_878 m
+817,doll_12.01 b,doll_21.64 b,doll_15.68 b,doll_1.49 b
+818,doll_11.95 b,doll_13.89 b,doll_15.1 b,doll_5.92 b
+819,doll_33.53 b,doll_440.48 b,doll_7.93 b,doll_-1.18 b
+820,doll_10.07 b,doll_13.69 b,doll_38.44 b,doll_1.64 b
+821,doll_5.61 b,doll_34.56 b,doll_20.57 b,doll_2.19 b
+822,doll_9.04 b,doll_102.81 b,doll_8.83 b,doll_1.2 b
+823,doll_16.18 b,doll_12.16 b,doll_12.07 b,doll_5.03 b
+824,doll_29.99 b,doll_31.92 b,doll_8.61 b,doll_964.5 m
+825,doll_24.42 b,doll_210.82 b,doll_9.31 b,doll_394.3 m
+826,doll_12.35 b,doll_36.94 b,doll_14.77 b,doll_877.5 m
+827,doll_751 m,doll_24.09 b,doll_21.23 b,doll_5.58 b
+828,doll_2.62 b,doll_150.66 b,doll_19.32 b,doll_921.2 m
+829,doll_27.15 b,doll_13.41 b,doll_16.05 b,doll_1.29 b
+830,doll_15.59 b,doll_169.34 b,doll_4.88 b,doll_811 m
+831,doll_7.4 b,doll_28.75 b,doll_20.82 b,doll_1.35 b
+832,doll_8.46 b,doll_72.47 b,doll_4.84 b,doll_2.49 b
+833,doll_18.69 b,doll_26.67 b,doll_12.57 b,doll_884.1 m
+834,doll_2.13 b,doll_29.03 b,doll_41.33 b,doll_1.33 b
+835,doll_13.95 b,doll_43.37 b,doll_13.04 b,doll_746.1 m
+836,doll_12.7 b,doll_43.83 b,doll_11.85 b,doll_883.4 m
+837,doll_6.14 b,doll_28.34 b,doll_36.14 b,doll_1.14 b
+838,doll_16.26 b,doll_24.42 b,doll_12.01 b,doll_1.12 b
+839,doll_12.89 b,doll_392.65 b,doll_12.09 b,doll_-394.8 m
+840,doll_15.58 b,doll_61.03 b,doll_3.73 b,doll_1.09 b
+841,doll_47.93 b,doll_109.05 b,doll_5.79 b,doll_548.1 m
+842,doll_20.82 b,doll_13.2 b,doll_22.9 b,doll_988.6 m
+843,doll_8.97 b,doll_10.41 b,doll_46.07 b,doll_1.48 b
+844,doll_7.91 b,doll_10.04 b,doll_42.06 b,doll_2 b
+845,doll_18.29 b,doll_25.2 b,doll_8.57 b,doll_1.56 b
+846,doll_12.28 b,doll_22.92 b,doll_19.98 b,doll_929.7 m
+847,doll_24.5 b,doll_20.05 b,doll_39.01 b,doll_488.4 m
+848,doll_9.46 b,doll_28.49 b,doll_18.02 b,doll_1.02 b
+849,doll_6.22 b,doll_14.68 b,doll_59.77 b,doll_2.21 b
+850,doll_19.7 b,doll_16.27 b,doll_18.97 b,doll_926.9 m
+851,doll_4.75 b,doll_46.43 b,doll_37.02 b,doll_880 m
+852,doll_41.84 b,doll_30.18 b,doll_9.13 b,doll_754.4 m
+853,doll_26.01 b,doll_72.67 b,doll_8.41 b,doll_613.5 m
+854,doll_3.42 b,doll_17.38 b,doll_70.56 b,doll_1.88 b
+855,doll_10.37 b,doll_8.68 b,doll_53.27 b,doll_1.08 b
+856,doll_10.12 b,doll_11.95 b,doll_49.37 b,doll_1.15 b
+857,doll_2.48 b,doll_121.85 b,doll_14.95 b,doll_1.07 b
+858,doll_7.67 b,doll_12.51 b,doll_30.58 b,doll_3 b
+859,doll_11.66 b,doll_39.66 b,doll_31.74 b,doll_268 m
+860,doll_6.21 b,doll_97.97 b,doll_20.11 b,doll_739.9 m
+861,doll_6.09 b,doll_23.71 b,doll_47.95 b,doll_1.1 b
+862,doll_5.18 b,doll_26.8 b,doll_21.72 b,doll_2.28 b
+863,doll_9.42 b,doll_18.79 b,doll_43.87 b,doll_859.8 m
+864,doll_15.31 b,doll_146.16 b,doll_11.45 b,doll_-1.22 b
+865,doll_8.72 b,doll_25 b,doll_13.25 b,doll_1.86 b
+866,doll_8.37 b,doll_176.57 b,doll_7.83 b,doll_1.16 b
+867,doll_10.81 b,doll_22.2 b,doll_8.9 b,doll_4.67 b
+868,doll_2.38 b,doll_72.55 b,doll_24.3 b,doll_854.4 m
+869,doll_6.39 b,doll_35.73 b,doll_25 b,doll_990 m
+870,doll_7.54 b,doll_18.54 b,doll_34.87 b,doll_1.28 b
+871,doll_11.07 b,doll_14.36 b,doll_29.86 b,doll_1.27 b
+872,doll_17.64 b,doll_26.64 b,doll_9.76 b,doll_1.05 b
+873,doll_11.72 b,doll_84.86 b,doll_6.61 b,doll_1.06 b
+874,doll_11.37 b,doll_22.5 b,doll_17.33 b,doll_1.04 b
+875,doll_14.84 b,doll_537.95 b,doll_9.18 b,doll_509.4 m
+876,doll_8.64 b,doll_41.54 b,doll_32.15 b,doll_566.7 m
+877,doll_19.95 b,doll_31.16 b,doll_4.73 b,doll_1.28 b
+878,doll_26.09 b,doll_32.1 b,doll_5.38 b,doll_1.04 b
+879,doll_21.74 b,doll_31.26 b,doll_6.89 b,doll_1.18 b
+880,doll_12.2 b,doll_44.87 b,doll_1.7 b,doll_1.53 b
+881,doll_8.73 b,doll_49 b,doll_37.09 b,doll_-648 m
+882,doll_14.12 b,doll_25.84 b,doll_4.47 b,doll_2.66 b
+883,doll_12.25 b,doll_95.42 b,doll_3.2 b,doll_946.6 m
+884,doll_16.68 b,doll_7.61 b,doll_16.64 b,doll_1.42 b
+885,doll_15.98 b,doll_17.1 b,doll_8.59 b,doll_3.8 b
+886,doll_10.9 b,doll_54.13 b,doll_23.39 b,doll_451.5 m
+887,doll_21.7 b,doll_23.6 b,doll_9.3 b,doll_1.08 b
+888,doll_9.05 b,doll_20.9 b,doll_20.81 b,doll_1.16 b
+889,doll_10.05 b,doll_13.89 b,doll_46.2 b,doll_1.05 b
+890,doll_16.89 b,doll_90.33 b,doll_4.08 b,doll_740.6 m
+891,doll_5.58 b,doll_152.48 b,doll_5.49 b,doll_3.55 b
+892,doll_13.2 b,doll_13.01 b,doll_26.31 b,doll_1.1 b
+893,doll_8.01 b,doll_28.31 b,doll_19.21 b,doll_1.02 b
+894,doll_5.66 b,doll_149.28 b,doll_12.22 b,doll_1.04 b
+895,doll_12.43 b,doll_11.05 b,doll_25.87 b,doll_1.2 b
+896,doll_21.77 b,doll_26.28 b,doll_3.08 b,doll_1.35 b
+897,doll_5.85 b,doll_84.08 b,doll_9.87 b,doll_1.68 b
+898,doll_5.7 b,doll_93.71 b,doll_9.86 b,doll_1.68 b
+899,doll_731 m,doll_76.76 b,doll_9.53 b,doll_2.39 b
+900,doll_29.38 b,doll_15.2 b,doll_18.25 b,doll_746.1 m
+901,doll_8.25 b,doll_81.51 b,doll_24.77 b,doll_-931.9 m
+902,doll_10.51 b,doll_61.73 b,doll_2.79 b,doll_1.35 b
+903,doll_5.77 b,doll_109.26 b,doll_11.06 b,doll_1.25 b
+904,doll_24.9 b,doll_25.87 b,doll_3.49 b,doll_1.21 b
+905,doll_12.05 b,doll_15.04 b,doll_10.81 b,doll_4.58 b
+906,doll_11.97 b,doll_9.38 b,doll_18.04 b,doll_1.84 b
+907,doll_12 b,doll_30.13 b,doll_11.24 b,doll_1.03 b
+908,doll_3.76 b,doll_56.27 b,doll_15.04 b,doll_1.37 b
+909,doll_9.31 b,doll_22.6 b,doll_16.03 b,doll_1.28 b
+910,doll_68.46 b,doll_25.27 b,doll_5.72 b,doll_894.6 m
+911,doll_14.05 b,doll_86.11 b,doll_6.49 b,doll_824 m
+912,doll_10.71 b,doll_17.89 b,doll_13.03 b,doll_2 b
+913,doll_19.16 b,doll_18.22 b,doll_9.22 b,doll_1.59 b
+914,doll_18.99 b,doll_22.78 b,doll_16.58 b,doll_654 m
+915,doll_9.6 b,doll_64.27 b,doll_22 b,doll_471.8 m
+916,doll_3.61 b,doll_101.95 b,doll_10.03 b,doll_1.62 b
+917,doll_26.77 b,doll_21.57 b,doll_11.4 b,doll_792.4 m
+918,doll_11.04 b,doll_292.26 b,doll_11.77 b,doll_-439 m
+919,doll_18.8 b,doll_18.03 b,doll_8.65 b,doll_1.91 b
+920,doll_23.38 b,doll_294.55 b,doll_6.99 b,doll_114.2 m
+921,doll_4.61 b,doll_13.34 b,doll_57.93 b,doll_2.91 b
+922,doll_43.4 b,doll_55.51 b,doll_4.22 b,doll_584.4 m
+923,doll_14.59 b,doll_19.33 b,doll_19.43 b,doll_795.1 m
+924,doll_13.02 b,doll_6.59 b,doll_25.52 b,doll_1.04 b
+925,doll_12.68 b,doll_164.71 b,doll_5.53 b,doll_730.6 m
+926,doll_17.86 b,doll_54.84 b,doll_12.43 b,doll_-1.27 b
+927,doll_3.93 b,doll_27.01 b,doll_29.84 b,doll_1.26 b
+928,doll_7.63 b,doll_16.79 b,doll_20.33 b,doll_2 b
+929,doll_11.62 b,doll_13.54 b,doll_21.23 b,doll_1.4 b
+930,doll_5.91 b,doll_13.68 b,doll_90.64 b,doll_1.64 b
+931,doll_3.9 b,doll_30.55 b,doll_18.32 b,doll_1.77 b
+932,doll_18.42 b,doll_22.42 b,doll_28.23 b,doll_197.4 m
+933,doll_25.15 b,doll_29.47 b,doll_11.61 b,doll_593.2 m
+934,doll_14 b,doll_54.31 b,doll_2.46 b,doll_946.2 m
+935,doll_10.59 b,doll_19.32 b,doll_17.76 b,doll_1.09 b
+936,doll_19.89 b,doll_10.71 b,doll_10.86 b,doll_1.73 b
+937,doll_5.51 b,doll_36.08 b,doll_16.03 b,doll_1.67 b
+938,doll_4.45 b,doll_103.73 b,doll_10.9 b,doll_1.26 b
+939,doll_14.44 b,doll_15.69 b,doll_14.99 b,doll_1.2 b
+940,doll_27.29 b,doll_19.41 b,doll_8.86 b,doll_1.07 b
+941,doll_13.59 b,doll_17.14 b,doll_17.53 b,doll_949 m
+942,doll_24.03 b,doll_36.74 b,doll_2.81 b,doll_830.2 m
+943,doll_8.64 b,doll_60.04 b,doll_7.68 b,doll_1.41 b
+944,doll_11.63 b,doll_8.75 b,doll_11.5 b,doll_4.07 b
+945,doll_2.11 b,doll_30.22 b,doll_31.95 b,doll_983.3 m
+946,doll_4.95 b,doll_127.65 b,doll_10.34 b,doll_1.18 b
+947,doll_14.42 b,doll_64.88 b,doll_9.09 b,doll_640.5 m
+948,doll_7.86 b,doll_33.17 b,doll_14.07 b,doll_1.03 b
+949,doll_3.91 b,doll_62.07 b,doll_16.94 b,doll_955 m
+950,doll_8.17 b,doll_12.19 b,doll_37.7 b,doll_1.25 b
+951,doll_5.77 b,doll_164.28 b,doll_9.28 b,doll_1.18 b
+952,doll_19.57 b,doll_16.62 b,doll_6.76 b,doll_2.59 b
+953,doll_12.06 b,doll_167.76 b,doll_7.54 b,doll_686.7 m
+954,doll_23.98 b,doll_15.81 b,doll_9.91 b,doll_1.2 b
+955,doll_12.96 b,doll_7.69 b,doll_23.18 b,doll_1 b
+956,doll_9.88 b,doll_72.31 b,doll_10.27 b,doll_698.8 m
+957,doll_19.64 b,doll_20.04 b,doll_7.08 b,doll_1.73 b
+958,doll_15.62 b,doll_18.01 b,doll_28.85 b,doll_590 m
+959,doll_4.23 b,doll_158.53 b,doll_7.04 b,doll_2.11 b
+960,doll_17.67 b,doll_26.24 b,doll_3.37 b,doll_1.27 b
+961,doll_14.52 b,doll_13.25 b,doll_10.16 b,doll_2.87 b
+962,doll_2.43 b,doll_21.17 b,doll_34.27 b,doll_1.33 b
+963,doll_1.82 b,doll_52.86 b,doll_16.4 b,doll_1.01 b
+964,doll_11.97 b,doll_12.83 b,doll_29.2 b,doll_926.1 m
+965,doll_6.81 b,doll_94.3 b,doll_5.46 b,doll_1.46 b
+966,doll_16.65 b,doll_89.59 b,doll_7.59 b,doll_617 m
+967,doll_10.68 b,doll_13.44 b,doll_16.16 b,doll_1.87 b
+968,doll_13.52 b,doll_22.8 b,doll_10.12 b,doll_1.12 b
+969,doll_6.95 b,doll_24.9 b,doll_21.29 b,doll_990.6 m
+970,doll_2.19 b,doll_57.48 b,doll_17.6 b,doll_919.8 m
+971,doll_6.4 b,doll_14.77 b,doll_33.91 b,doll_1.67 b
+972,doll_15.54 b,doll_24.7 b,doll_15.28 b,doll_643.6 m
+973,doll_10.28 b,doll_27.62 b,doll_11.66 b,doll_1.01 b
+974,doll_25.29 b,doll_18.85 b,doll_6.91 b,doll_1.43 b
+975,doll_6.08 b,doll_71.22 b,doll_10.89 b,doll_1.09 b
+976,doll_7.62 b,doll_8.17 b,doll_41.75 b,doll_1.2 b
+977,doll_25.3 b,doll_24.21 b,doll_5.48 b,doll_1.03 b
+978,doll_31.47 b,doll_78.57 b,doll_7.46 b,doll_-1.99 b
+979,doll_5.74 b,doll_23.25 b,doll_27.23 b,doll_1.25 b
+980,doll_10.1 b,doll_99.32 b,doll_6.44 b,doll_863.7 m
+981,doll_12.91 b,doll_14.8 b,doll_19.19 b,doll_997.8 m
+982,doll_11.52 b,doll_49.67 b,doll_1.85 b,doll_1.04 b
+983,doll_34.48 b,doll_19.54 b,doll_7.57 b,doll_1.11 b
+984,doll_14.88 b,doll_75.32 b,doll_8.54 b,doll_589.1 m
+985,doll_19.45 b,doll_26.65 b,doll_7.98 b,doll_957 m
+986,doll_10.27 b,doll_90.15 b,doll_4.78 b,doll_879.7 m
+987,doll_17.65 b,doll_27.9 b,doll_17.53 b,doll_374.4 m
+988,doll_15.76 b,doll_21.08 b,doll_14.82 b,doll_731.9 m
+989,doll_20.28 b,doll_36.69 b,doll_5.96 b,doll_805.9 m
+990,doll_3.16 b,doll_75.98 b,doll_12.38 b,doll_1.04 b
+991,doll_7.59 b,doll_21.36 b,doll_14.66 b,doll_1.6 b
+992,doll_1.47 b,doll_27.99 b,doll_18.28 b,doll_1.49 b
+993,doll_6.58 b,doll_5.97 b,doll_35.28 b,doll_1.57 b
+994,doll_8.29 b,doll_25.27 b,doll_19.43 b,doll_833.4 m
+995,doll_4.52 b,doll_74.57 b,doll_12.59 b,doll_1 b
+996,doll_3.15 b,doll_88.66 b,doll_12.21 b,doll_962 m
+997,doll_9.88 b,doll_32.31 b,doll_10.34 b,doll_986.5 m
+998,doll_27.77 b,doll_12.22 b,doll_19.08 b,doll_659 m
+999,doll_11.28 b,doll_148.94 b,doll_3.62 b,doll_673.2 m
+1000,doll_19.72 b,doll_25.73 b,doll_7.77 b,doll_975.7 m
+1001,doll_17.66 b,doll_13.93 b,doll_59.55 b,doll_166.3 m
+1002,doll_6.97 b,doll_33.42 b,doll_13.42 b,doll_1.05 b
+1003,doll_13.66 b,doll_15.39 b,doll_21.62 b,doll_778.6 m
+1004,doll_14.99 b,doll_53.62 b,doll_3.39 b,doll_759.3 m
+1005,doll_3.05 b,doll_116.78 b,doll_15.06 b,doll_736 m
+1006,doll_5.8 b,doll_85.02 b,doll_8.49 b,doll_1.5 b
+1007,doll_8.14 b,doll_26.31 b,doll_20.01 b,doll_781 m
+1008,doll_10.9 b,doll_26.63 b,doll_31.24 b,doll_-2.18 b
+1009,doll_5.23 b,doll_8.5 b,doll_73.55 b,doll_1.5 b
+1010,doll_2.67 b,doll_160.26 b,doll_13.41 b,doll_735.1 m
+1011,doll_8.82 b,doll_25.86 b,doll_46.99 b,doll_-40.4 m
+1012,doll_14.01 b,doll_64.64 b,doll_4.04 b,doll_724.5 m
+1013,doll_6.52 b,doll_14.79 b,doll_31.36 b,doll_1.43 b
+1014,doll_12.63 b,doll_57.93 b,doll_1.66 b,doll_828.3 m
+1015,doll_8.27 b,doll_15.95 b,doll_24.35 b,doll_1.07 b
+1016,doll_33.36 b,doll_25.64 b,doll_6.02 b,doll_787.8 m
+1017,doll_15.45 b,doll_23.15 b,doll_8.47 b,doll_1.13 b
+1018,doll_23.76 b,doll_34.62 b,doll_2.8 b,doll_717.5 m
+1019,doll_25.84 b,doll_16.55 b,doll_6.29 b,doll_1.43 b
+1020,doll_1.27 b,doll_13.93 b,doll_32.02 b,doll_2.46 b
+1021,doll_13.28 b,doll_73.19 b,doll_6.13 b,doll_679.6 m
+1022,doll_12.01 b,doll_59.53 b,doll_6.75 b,doll_824.2 m
+1023,doll_7.65 b,doll_9.83 b,doll_31.9 b,doll_1.2 b
+1024,doll_5.82 b,doll_19 b,doll_21.35 b,doll_1.66 b
+1025,doll_11.06 b,doll_97.85 b,doll_8.19 b,doll_643.6 m
+1026,doll_45.24 b,doll_24.46 b,doll_6.56 b,doll_735.6 m
+1027,doll_19.49 b,doll_15.51 b,doll_11.12 b,doll_961.6 m
+1028,doll_6.21 b,doll_24.89 b,doll_12.28 b,doll_2 b
+1029,doll_5.82 b,doll_229.39 b,doll_7.59 b,doll_1.16 b
+1030,doll_19.87 b,doll_49.46 b,doll_9.3 b,doll_-2.59 b
+1031,doll_7.01 b,doll_32.69 b,doll_9.38 b,doll_1.63 b
+1032,doll_5.77 b,doll_20.82 b,doll_27.43 b,doll_1.17 b
+1033,doll_12.29 b,doll_13.14 b,doll_21.51 b,doll_905.6 m
+1034,doll_2.95 b,doll_89.17 b,doll_10.61 b,doll_1 b
+1035,doll_4.34 b,doll_126.03 b,doll_9.75 b,doll_987 m
+1036,doll_2.92 b,doll_17.78 b,doll_15.99 b,doll_4.25 b
+1037,doll_4.24 b,doll_11.62 b,doll_33.56 b,doll_2.24 b
+1038,doll_5.36 b,doll_19.16 b,doll_32.23 b,doll_1.22 b
+1039,doll_7.65 b,doll_14.78 b,doll_26.45 b,doll_1.18 b
+1040,doll_12.1 b,doll_178.94 b,doll_5.1 b,doll_571.2 m
+1041,doll_11.27 b,doll_13.2 b,doll_21.84 b,doll_959.3 m
+1042,doll_8.29 b,doll_28 b,doll_38.47 b,doll_375.8 m
+1043,doll_42.15 b,doll_28.72 b,doll_9.61 b,doll_436.4 m
+1044,doll_7.47 b,doll_17.28 b,doll_18.92 b,doll_1.29 b
+1045,doll_13.93 b,doll_13.35 b,doll_10.12 b,doll_1.93 b
+1046,doll_8.16 b,doll_9.31 b,doll_13.01 b,doll_3.7 b
+1047,doll_6.64 b,doll_27.92 b,doll_67.84 b,doll_500.2 m
+1048,doll_14.09 b,doll_9.54 b,doll_11.93 b,doll_1.41 b
+1049,doll_14.65 b,doll_22.57 b,doll_6.58 b,doll_1.41 b
+1050,doll_2.76 b,doll_123.28 b,doll_5.39 b,doll_1.56 b
+1051,doll_15.85 b,doll_47.67 b,doll_10.63 b,doll_423.1 m
+1052,doll_23.1 b,doll_7.03 b,doll_13.14 b,doll_844.2 m
+1053,doll_5.65 b,doll_19.46 b,doll_35.6 b,doll_1.03 b
+1054,doll_2.96 b,doll_93.2 b,doll_9.23 b,doll_1.12 b
+1055,doll_4.69 b,doll_115.52 b,doll_9.08 b,doll_1.07 b
+1056,doll_331 m,doll_16.62 b,doll_16.82 b,doll_3.83 b
+1057,doll_1.91 b,doll_46.21 b,doll_21.53 b,doll_722.2 m
+1058,doll_8.28 b,doll_25 b,doll_15.03 b,doll_904.2 m
+1059,doll_21.95 b,doll_16.9 b,doll_2.11 b,doll_1.36 b
+1060,doll_10.88 b,doll_44.93 b,doll_2.55 b,doll_952.4 m
+1061,doll_16.95 b,doll_18.58 b,doll_13.09 b,doll_711.7 m
+1062,doll_11.59 b,doll_22.36 b,doll_14.96 b,doll_731.7 m
+1063,doll_12.98 b,doll_25.6 b,doll_20.41 b,doll_237.8 m
+1064,doll_6.83 b,doll_16.16 b,doll_22.35 b,doll_1.25 b
+1065,doll_10.24 b,doll_19.91 b,doll_13.81 b,doll_952.8 m
+1066,doll_11.44 b,doll_17.41 b,doll_15.61 b,doll_889.6 m
+1067,doll_8.54 b,doll_11.97 b,doll_15.42 b,doll_1.89 b
+1068,doll_2.33 b,doll_19.9 b,doll_35.58 b,doll_1 b
+1069,doll_29.12 b,doll_12.76 b,doll_10.41 b,doll_907.8 m
+1070,doll_11.64 b,doll_9.59 b,doll_10.27 b,doll_2.23 b
+1071,doll_2.94 b,doll_135.16 b,doll_12.38 b,doll_706.7 m
+1072,doll_6.44 b,doll_16.05 b,doll_36.73 b,doll_963.6 m
+1073,doll_25.46 b,doll_18.18 b,doll_7.78 b,doll_1.01 b
+1074,doll_11.4 b,doll_44.35 b,doll_14.14 b,doll_398 m
+1075,doll_6.45 b,doll_10.33 b,doll_36.41 b,doll_1.21 b
+1076,doll_11.74 b,doll_24.2 b,doll_8.59 b,doll_1.16 b
+1077,doll_14.5 b,doll_38.88 b,doll_1.62 b,doll_787.2 m
+1078,doll_20.56 b,doll_23.05 b,doll_6.46 b,doll_924 m
+1079,doll_9.73 b,doll_11.64 b,doll_19.36 b,doll_1.11 b
+1080,doll_6.06 b,doll_71.04 b,doll_7.39 b,doll_1.5 b
+1081,doll_42.22 b,doll_40.95 b,doll_4.88 b,doll_160.7 m
+1082,doll_4.07 b,doll_6.04 b,doll_56.3 b,doll_1.31 b
+1083,doll_5.86 b,doll_8.36 b,doll_36.8 b,doll_1.42 b
+1084,doll_9.07 b,doll_12.9 b,doll_25.56 b,doll_955.7 m
+1085,doll_3.48 b,doll_72.95 b,doll_29.56 b,doll_483.8 m
+1086,doll_17.18 b,doll_16.5 b,doll_12.33 b,doll_788.3 m
+1087,doll_13.09 b,doll_12.61 b,doll_14.07 b,doll_1.09 b
+1088,doll_24.12 b,doll_52.96 b,doll_7.71 b,doll_-205.7 m
+1089,doll_25.19 b,doll_12.08 b,doll_8.53 b,doll_1.25 b
+1090,doll_11.68 b,doll_55.96 b,doll_8.52 b,doll_640 m
+1091,doll_1.69 b,doll_131.4 b,doll_2.69 b,doll_1.32 b
+1092,doll_28.08 b,doll_26.09 b,doll_4.53 b,doll_691.9 m
+1093,doll_18.18 b,doll_78.68 b,doll_6.56 b,doll_-10.19 b
+1094,doll_4.98 b,doll_87.89 b,doll_5.85 b,doll_1.57 b
+1095,doll_5.33 b,doll_155.42 b,doll_9.49 b,doll_860.6 m
+1096,doll_15.76 b,doll_50.71 b,doll_9.46 b,doll_-1.88 b
+1097,doll_5.75 b,doll_16.17 b,doll_56.73 b,doll_914.5 m
+1098,doll_23.2 b,doll_59.02 b,doll_7.53 b,doll_349 m
+1099,doll_4.5 b,doll_10.28 b,doll_47.42 b,doll_1.36 b
+1100,doll_7.83 b,doll_83.2 b,doll_1.95 b,doll_904 m
+1101,doll_5.54 b,doll_7.86 b,doll_45.34 b,doll_1.38 b
+1102,doll_5.72 b,doll_29.7 b,doll_16.82 b,doll_993 m
+1103,doll_10.54 b,doll_14.05 b,doll_13.01 b,doll_1.42 b
+1104,doll_4.28 b,doll_69.48 b,doll_11.32 b,doll_904.2 m
+1105,doll_26.69 b,doll_9.36 b,doll_6.53 b,doll_1.5 b
+1106,doll_10.86 b,doll_48.93 b,doll_446 m,doll_838.2 m
+1107,doll_7.32 b,doll_11.01 b,doll_11.08 b,doll_6.33 b
+1108,doll_13.04 b,doll_7.03 b,doll_17.76 b,doll_857.5 m
+1109,doll_3.68 b,doll_101.32 b,doll_8.46 b,doll_1.09 b
+1110,doll_4.89 b,doll_61.35 b,doll_11.7 b,doll_915.7 m
+1111,doll_2.08 b,doll_43.14 b,doll_43.97 b,doll_350.3 m
+1112,doll_10.35 b,doll_28.58 b,doll_4.33 b,doll_1.28 b
+1113,doll_3.67 b,doll_20.27 b,doll_23.49 b,doll_1.16 b
+1114,doll_5.43 b,doll_101.37 b,doll_8.34 b,doll_1.09 b
+1115,doll_4.6 b,doll_5.16 b,doll_60.71 b,doll_1.11 b
+1116,doll_36.13 b,doll_38.39 b,doll_171 m,doll_-582.7 m
+1117,doll_15.73 b,doll_81.75 b,doll_4.45 b,doll_504.5 m
+1118,doll_10.97 b,doll_68.62 b,doll_3.77 b,doll_668.5 m
+1119,doll_9.39 b,doll_19.83 b,doll_11.1 b,doll_1.12 b
+1120,doll_7.29 b,doll_10.74 b,doll_30.27 b,doll_1 b
+1121,doll_10.49 b,doll_10.43 b,doll_9.23 b,doll_2.93 b
+1122,doll_13.77 b,doll_76.84 b,doll_7.14 b,doll_543.8 m
+1123,doll_11.55 b,doll_10.18 b,doll_16.65 b,doll_950 m
+1124,doll_7.31 b,doll_12.53 b,doll_36.93 b,doll_898 m
+1125,doll_4.96 b,doll_7.93 b,doll_23.38 b,doll_2.26 b
+1126,doll_6.26 b,doll_4.94 b,doll_46.52 b,doll_975.3 m
+1127,doll_11.05 b,doll_6.03 b,doll_12.74 b,doll_1.33 b
+1128,doll_30.74 b,doll_17.43 b,doll_8.11 b,doll_807.5 m
+1129,doll_12.53 b,doll_16.9 b,doll_5.52 b,doll_2.06 b
+1130,doll_3.2 b,doll_5.3 b,doll_31.4 b,doll_1.6 b
+1131,doll_2.92 b,doll_6.78 b,doll_45.69 b,doll_1.21 b
+1132,doll_17.23 b,doll_53.88 b,doll_5.24 b,doll_539 m
+1133,doll_8.09 b,doll_10.5 b,doll_20.61 b,doll_1.12 b
+1134,doll_1.91 b,doll_62.24 b,doll_11.02 b,doll_905.6 m
+1135,doll_40.82 b,doll_34.62 b,doll_7.17 b,doll_389.9 m
+1136,doll_9.55 b,doll_49.39 b,doll_751 m,doll_847.8 m
+1137,doll_11.24 b,doll_246.09 b,doll_3.89 b,doll_58.7 m
+1138,doll_13.27 b,doll_15.35 b,doll_6.04 b,doll_2.2 b
+1139,doll_8.63 b,doll_5.34 b,doll_21.23 b,doll_985.8 m
+1140,doll_3.06 b,doll_69.01 b,doll_3.51 b,doll_1.54 b
+1141,doll_1.51 b,doll_15.44 b,doll_18.42 b,doll_2.26 b
+1142,doll_27.27 b,doll_28.38 b,doll_2.48 b,doll_597.1 m
+1143,doll_2.99 b,doll_47.53 b,doll_32.98 b,doll_-415.3 m
+1144,doll_11.14 b,doll_32.96 b,doll_15.01 b,doll_-413 m
+1145,doll_13.49 b,doll_9.85 b,doll_1.52 b,doll_3.04 b
+1146,doll_16.71 b,doll_32.27 b,doll_6.26 b,doll_692.6 m
+1147,doll_8.59 b,doll_8.89 b,doll_11.04 b,doll_2.42 b
+1148,doll_15.82 b,doll_19.24 b,doll_5.41 b,doll_1.18 b
+1149,doll_3.84 b,doll_5.23 b,doll_58.05 b,doll_1.03 b
+1150,doll_15.43 b,doll_38.84 b,doll_9.84 b,doll_218.7 m
+1151,doll_22.33 b,doll_22.07 b,doll_11.33 b,doll_518.1 m
+1152,doll_10.09 b,doll_34.05 b,doll_5.13 b,doll_990.3 m
+1153,doll_4.82 b,doll_67.7 b,doll_12.13 b,doll_762.4 m
+1154,doll_11.62 b,doll_17.87 b,doll_10.73 b,doll_978.5 m
+1155,doll_16.75 b,doll_65.19 b,doll_3.74 b,doll_450.4 m
+1156,doll_9.85 b,doll_13.22 b,doll_17.41 b,doll_990 m
+1157,doll_25.55 b,doll_14.16 b,doll_7.44 b,doll_1.19 b
+1158,doll_16.5 b,doll_15.92 b,doll_7.4 b,doll_1.42 b
+1159,doll_18.12 b,doll_16.57 b,doll_6.77 b,doll_1.16 b
+1160,doll_13.77 b,doll_87.86 b,doll_4.54 b,doll_363.2 m
+1161,doll_9.31 b,doll_10.21 b,doll_16.72 b,doll_1.04 b
+1162,doll_7.72 b,doll_20.52 b,doll_32.97 b,doll_559 m
+1163,doll_30.11 b,doll_35.29 b,doll_2.39 b,doll_240.1 m
+1164,doll_15.1 b,doll_25.16 b,doll_7.27 b,doll_857 m
+1165,doll_18.41 b,doll_8.64 b,doll_24.7 b,doll_-1.54 b
+1166,doll_1.83 b,doll_27.92 b,doll_15.2 b,doll_1 b
+1167,doll_1.04 b,doll_25.43 b,doll_9.99 b,doll_2.16 b
+1168,doll_4.73 b,doll_34.91 b,doll_43.1 b,doll_336.1 m
+1169,doll_18.21 b,doll_19.62 b,doll_5.64 b,doll_941.5 m
+1170,doll_12.98 b,doll_15.87 b,doll_5.48 b,doll_1.79 b
+1171,doll_9.48 b,doll_38.03 b,doll_14.26 b,doll_-1.02 b
+1172,doll_8.85 b,doll_82.05 b,doll_9.96 b,doll_204.4 m
+1173,doll_12.38 b,doll_15.83 b,doll_14.69 b,doll_746 m
+1174,doll_14.65 b,doll_26.65 b,doll_6.69 b,doll_800.1 m
+1175,doll_5.13 b,doll_16.03 b,doll_36.39 b,doll_947.7 m
+1176,doll_10.73 b,doll_9.84 b,doll_6.53 b,doll_4.64 b
+1177,doll_20.54 b,doll_25.21 b,doll_8.52 b,doll_581.2 m
+1178,doll_6.3 b,doll_4.47 b,doll_32.78 b,doll_984 m
+1179,doll_4.74 b,doll_4.71 b,doll_25.21 b,doll_1.58 b
+1180,doll_9.55 b,doll_16.25 b,doll_15.21 b,doll_854.8 m
+1181,doll_21.02 b,doll_15.3 b,doll_4.35 b,doll_1.07 b
+1182,doll_39.15 b,doll_29.45 b,doll_1.92 b,doll_-1.41 b
+1183,doll_4.1 b,doll_7.55 b,doll_29.96 b,doll_1.38 b
+1184,doll_11.86 b,doll_9.77 b,doll_6.07 b,doll_3.12 b
+1185,doll_8.74 b,doll_5.83 b,doll_14.39 b,doll_1.24 b
+1186,doll_5.59 b,doll_28.52 b,doll_16.36 b,doll_879.7 m
+1187,doll_5.13 b,doll_12.89 b,doll_74.92 b,doll_866.2 m
+1188,doll_16.58 b,doll_21.47 b,doll_11.79 b,doll_544.2 m
+1189,doll_5.66 b,doll_121.72 b,doll_4.83 b,doll_941.9 m
+1190,doll_16.77 b,doll_17.85 b,doll_4.85 b,doll_1.04 b
+1191,doll_30.47 b,doll_31.88 b,doll_3.19 b,doll_484.9 m
+1192,doll_12.58 b,doll_14.52 b,doll_32.25 b,doll_-12.05 b
+1193,doll_18.91 b,doll_44.93 b,doll_1.73 b,doll_454 m
+1194,doll_28.6 b,doll_32.44 b,doll_4.71 b,doll_-1.9 b
+1195,doll_2.65 b,doll_95.48 b,doll_4 b,doll_1.02 b
+1196,doll_17.44 b,doll_16.41 b,doll_17.39 b,doll_71.2 m
+1197,doll_7.71 b,doll_11.23 b,doll_23.96 b,doll_901.9 m
+1198,doll_28.43 b,doll_10.45 b,doll_9.69 b,doll_731.6 m
+1199,doll_8.6 b,doll_21.55 b,doll_28.29 b,doll_12 m
+1200,doll_2.54 b,doll_125.09 b,doll_10.67 b,doll_616 m
+1201,doll_3.06 b,doll_8.71 b,doll_32.79 b,doll_1.15 b
+1202,doll_8.69 b,doll_12.96 b,doll_19.39 b,doll_901.9 m
+1203,doll_9.02 b,doll_13 b,doll_23.47 b,doll_754.1 m
+1204,doll_13.74 b,doll_13.26 b,doll_14.76 b,doll_753 m
+1205,doll_10.48 b,doll_15.52 b,doll_13.72 b,doll_857 m
+1206,doll_13.28 b,doll_30.45 b,doll_11.18 b,doll_-1.27 b
+1207,doll_19.52 b,doll_40.14 b,doll_2.83 b,doll_-171.3 m
+1208,doll_6.44 b,doll_83.53 b,doll_5.7 b,doll_842.8 m
+1209,doll_11.99 b,doll_21.65 b,doll_3.94 b,doll_1.08 b
+1210,doll_4.88 b,doll_19.24 b,doll_34.61 b,doll_747 m
+1211,doll_5.94 b,doll_10.39 b,doll_32.22 b,doll_985.4 m
+1212,doll_3.5 b,doll_91.39 b,doll_3.98 b,doll_1.01 b
+1213,doll_1.8 b,doll_4.43 b,doll_35.06 b,doll_1.07 b
+1214,doll_10.98 b,doll_12.03 b,doll_9.52 b,doll_1.53 b
+1215,doll_13.21 b,doll_23.22 b,doll_14.12 b,doll_444.5 m
+1216,doll_6.89 b,doll_21.56 b,doll_21.31 b,doll_645.5 m
+1217,doll_6.74 b,doll_9.63 b,doll_22.49 b,doll_1.01 b
+1218,doll_3.08 b,doll_23.81 b,doll_16.92 b,doll_948.2 m
+1219,doll_3.51 b,doll_53.28 b,doll_21.45 b,doll_-9.42 b
+1220,doll_1.51 b,doll_17.6 b,doll_22.21 b,doll_1.01 b
+1221,doll_7.55 b,doll_7.64 b,doll_41.49 b,doll_653 m
+1222,doll_13.82 b,doll_20.32 b,doll_5.57 b,doll_982 m
+1223,doll_19.89 b,doll_31.74 b,doll_8.21 b,doll_-1.56 b
+1224,doll_10.91 b,doll_26.64 b,doll_3.72 b,doll_920.1 m
+1225,doll_5.05 b,doll_7.8 b,doll_39.04 b,doll_982 m
+1226,doll_9.34 b,doll_20.38 b,doll_7.33 b,doll_1.53 b
+1227,doll_24.69 b,doll_11.79 b,doll_13.7 b,doll_547.1 m
+1228,doll_7.84 b,doll_23.46 b,doll_26.31 b,doll_401.6 m
+1229,doll_12.82 b,doll_15.99 b,doll_12.42 b,doll_723 m
+1230,doll_4.82 b,doll_31.12 b,doll_19.97 b,doll_656.3 m
+1231,doll_15.19 b,doll_35.15 b,doll_8.76 b,doll_65.7 m
+1232,doll_16.22 b,doll_45.89 b,doll_3.06 b,doll_115.7 m
+1233,doll_17.48 b,doll_21.4 b,doll_3.73 b,doll_764 m
+1234,doll_6.54 b,doll_14.45 b,doll_18.55 b,doll_1.11 b
+1235,doll_12.37 b,doll_10.76 b,doll_7.74 b,doll_1.88 b
+1236,doll_5.55 b,doll_11.52 b,doll_19.05 b,doll_1.77 b
+1237,doll_4.53 b,doll_15.22 b,doll_50.69 b,doll_761 m
+1238,doll_4.5 b,doll_8.9 b,doll_43.63 b,doll_908.9 m
+1239,doll_15.84 b,doll_46.46 b,doll_3.02 b,doll_-1.67 b
+1240,doll_17.34 b,doll_41.25 b,doll_745 m,doll_44 m
+1241,doll_11.25 b,doll_13.99 b,doll_8.62 b,doll_1.55 b
+1242,doll_9.23 b,doll_16.98 b,doll_19.29 b,doll_615 m
+1243,doll_18.01 b,doll_23.19 b,doll_1.76 b,doll_669.1 m
+1244,doll_1.12 b,doll_224.16 b,doll_385 m,doll_754 m
+1245,doll_4.72 b,doll_92.4 b,doll_3.56 b,doll_923.1 m
+1246,doll_24.86 b,doll_30.13 b,doll_3.35 b,doll_-115.5 m
+1247,doll_17.84 b,doll_13.71 b,doll_4.45 b,doll_1.2 b
+1248,doll_7.94 b,doll_10.61 b,doll_18.47 b,doll_925 m
+1249,doll_3.43 b,doll_22.37 b,doll_12.1 b,doll_1.32 b
+1250,doll_12.41 b,doll_63.68 b,doll_1.4 b,doll_-1.38 b
+1251,doll_10.53 b,doll_19.88 b,doll_6.41 b,doll_1.22 b
+1252,doll_2.62 b,doll_4.07 b,doll_48.91 b,doll_844.6 m
+1253,doll_5.49 b,doll_9.29 b,doll_18.58 b,doll_1.72 b
+1254,doll_2.27 b,doll_60.58 b,doll_8.35 b,doll_946.8 m
+1255,doll_87.29 b,doll_20.38 b,doll_3.94 b,doll_393.5 m
+1256,doll_14.61 b,doll_10.78 b,doll_13.23 b,doll_677.9 m
+1257,doll_30.14 b,doll_18.86 b,doll_1.36 b,doll_619 m
+1258,doll_5.26 b,doll_4.82 b,doll_30.9 b,doll_1.03 b
+1259,doll_3.86 b,doll_107.66 b,doll_7.54 b,doll_858.5 m
+1260,doll_5.42 b,doll_130.65 b,doll_7.45 b,doll_816.8 m
+1261,doll_5.97 b,doll_61.91 b,doll_3.22 b,doll_946.4 m
+1262,doll_13.83 b,doll_16.12 b,doll_4.41 b,doll_1.14 b
+1263,doll_11.54 b,doll_45.27 b,doll_2.39 b,doll_580 m
+1264,doll_22.78 b,doll_17.09 b,doll_5.29 b,doll_755 m
+1265,doll_6.23 b,doll_14.48 b,doll_14.33 b,doll_1.52 b
+1266,doll_19.43 b,doll_15.05 b,doll_7.38 b,doll_938 m
+1267,doll_15.96 b,doll_20.41 b,doll_12.15 b,doll_435 m
+1268,doll_12.99 b,doll_17.26 b,doll_8.57 b,doll_899.4 m
+1269,doll_12.62 b,doll_58.03 b,doll_6.52 b,doll_444.1 m
+1270,doll_19.87 b,doll_20.33 b,doll_10.38 b,doll_-1.01 b
+1271,doll_13.12 b,doll_21.5 b,doll_6.87 b,doll_865.5 m
+1272,doll_3.16 b,doll_5.14 b,doll_27.59 b,doll_1.09 b
+1273,doll_12.29 b,doll_9.04 b,doll_7.96 b,doll_1.52 b
+1274,doll_4.35 b,doll_6.03 b,doll_32.32 b,doll_964.4 m
+1275,doll_12.64 b,doll_13.09 b,doll_9.9 b,doll_989.5 m
+1276,doll_3.45 b,doll_27.9 b,doll_11.28 b,doll_1.03 b
+1277,doll_3.81 b,doll_93.12 b,doll_6.72 b,doll_867 m
+1278,doll_8.56 b,doll_18.44 b,doll_14.16 b,doll_715.6 m
+1279,doll_16.65 b,doll_17.27 b,doll_13.5 b,doll_432.7 m
+1280,doll_7.02 b,doll_286.51 b,doll_4.7 b,doll_524.9 m
+1281,doll_34.98 b,doll_23.78 b,doll_4.75 b,doll_467.9 m
+1282,doll_3.55 b,doll_8.65 b,doll_49.71 b,doll_790.7 m
+1283,doll_2.76 b,doll_75.1 b,doll_6.08 b,doll_934.9 m
+1284,doll_5.76 b,doll_24.05 b,doll_16.79 b,doll_769.7 m
+1285,doll_13.62 b,doll_8.05 b,doll_11.02 b,doll_829.7 m
+1286,doll_18.13 b,doll_21.79 b,doll_3.62 b,doll_658.1 m
+1287,doll_12.09 b,doll_9.58 b,doll_15.78 b,doll_662.8 m
+1288,doll_6.41 b,doll_17.14 b,doll_6.71 b,doll_4.96 b
+1289,doll_692 m,doll_21.48 b,doll_8.48 b,doll_2.83 b
+1290,doll_16.37 b,doll_16.95 b,doll_3.84 b,doll_893.6 m
+1291,doll_11.35 b,doll_65.16 b,doll_2 b,doll_418.5 m
+1292,doll_15.08 b,doll_12.99 b,doll_2.31 b,doll_1.28 b
+1293,doll_6.14 b,doll_76.51 b,doll_6.96 b,doll_781 m
+1294,doll_3.95 b,doll_44.41 b,doll_4.56 b,doll_1.26 b
+1295,doll_5.55 b,doll_11.9 b,doll_29.4 b,doll_990.1 m
+1296,doll_4.29 b,doll_21.59 b,doll_9.54 b,doll_1.87 b
+1297,doll_16.76 b,doll_15.36 b,doll_8.54 b,doll_799.6 m
+1298,doll_15.51 b,doll_39.2 b,doll_3.87 b,doll_246 m
+1299,doll_5.39 b,doll_228 b,doll_5 b,doll_672.6 m
+1300,doll_10.44 b,doll_72.07 b,doll_1.88 b,doll_-2.62 b
+1301,doll_7.09 b,doll_6.57 b,doll_54.81 b,doll_555.2 m
+1302,doll_16.92 b,doll_34.89 b,doll_2.85 b,doll_-3.89 b
+1303,doll_14.07 b,doll_14.8 b,doll_18.38 b,doll_281.1 m
+1304,doll_11.55 b,doll_36.86 b,doll_8.96 b,doll_204.9 m
+1305,doll_5.78 b,doll_33.22 b,doll_21.99 b,doll_129 m
+1306,doll_3.33 b,doll_145.42 b,doll_6.09 b,doll_726.9 m
+1307,doll_2.08 b,doll_28.09 b,doll_31.17 b,doll_-80.3 m
+1308,doll_3.81 b,doll_12.79 b,doll_16.46 b,doll_1.62 b
+1309,doll_1.65 b,doll_51.27 b,doll_12.8 b,doll_580.3 m
+1310,doll_4.46 b,doll_22.11 b,doll_49.55 b,doll_-421 m
+1311,doll_5.11 b,doll_8.62 b,doll_18.61 b,doll_1.39 b
+1312,doll_2.95 b,doll_5.73 b,doll_36.22 b,doll_840.9 m
+1313,doll_1.64 b,doll_30.41 b,doll_24.53 b,doll_520 m
+1314,doll_6.56 b,doll_13.93 b,doll_36.02 b,doll_640 m
+1315,doll_8.3 b,doll_22.72 b,doll_18.66 b,doll_-571.9 m
+1316,doll_7.14 b,doll_261.3 b,doll_4.1 b,doll_-108 m
+1317,doll_9.95 b,doll_39.13 b,doll_9.52 b,doll_-3.48 b
+1318,doll_8 b,doll_8.94 b,doll_13.29 b,doll_1.01 b
+1319,doll_6.54 b,doll_12.57 b,doll_20.1 b,doll_917 m
+1320,doll_4.43 b,doll_107.71 b,doll_5.89 b,doll_758.3 m
+1321,doll_26.95 b,doll_24.01 b,doll_7.49 b,doll_-7.64 b
+1322,doll_13.13 b,doll_43.42 b,doll_2.12 b,doll_362.8 m
+1323,doll_8.88 b,doll_14.25 b,doll_6.22 b,doll_2.27 b
+1324,doll_7.99 b,doll_13.3 b,doll_14.12 b,doll_973 m
+1325,doll_11.17 b,doll_12.37 b,doll_6.82 b,doll_1.71 b
+1326,doll_8.41 b,doll_9.45 b,doll_21.55 b,doll_658.4 m
+1327,doll_8.3 b,doll_11.99 b,doll_14.16 b,doll_921 m
+1328,doll_118 m,doll_13.74 b,doll_11.34 b,doll_3.07 b
+1329,doll_14.14 b,doll_9.75 b,doll_13.28 b,doll_609 m
+1330,doll_22.96 b,doll_22.59 b,doll_5.33 b,doll_535.2 m
+1331,doll_25.18 b,doll_16.44 b,doll_5.49 b,doll_652.7 m
+1332,doll_15.5 b,doll_34.89 b,doll_3.27 b,doll_-602.1 m
+1333,doll_6.36 b,doll_10.69 b,doll_22.89 b,doll_844.4 m
+1334,doll_5.6 b,doll_16.99 b,doll_17.96 b,doll_946 m
+1335,doll_7.41 b,doll_18.33 b,doll_6.48 b,doll_1.86 b
+1336,doll_17.47 b,doll_27.3 b,doll_7.93 b,doll_345.5 m
+1337,doll_7.24 b,doll_182.26 b,doll_3.53 b,doll_490.2 m
+1338,doll_1.13 b,doll_39.29 b,doll_615 m,doll_1.19 b
+1339,doll_5.01 b,doll_7.73 b,doll_26.44 b,doll_951 m
+1340,doll_4.16 b,doll_32.97 b,doll_10.6 b,doll_841.5 m
+1341,doll_47.63 b,doll_19.23 b,doll_1.39 b,doll_134.2 m
+1342,doll_20.38 b,doll_8.03 b,doll_5.21 b,doll_875.6 m
+1343,doll_4.98 b,doll_7.85 b,doll_21.3 b,doll_1.08 b
+1344,doll_44.24 b,doll_19.41 b,doll_3.4 b,doll_452.3 m
+1345,doll_17.89 b,doll_20.07 b,doll_7.04 b,doll_636 m
+1346,doll_8.7 b,doll_45.23 b,doll_3.3 b,doll_608.2 m
+1347,doll_6.36 b,doll_12.94 b,doll_27.42 b,doll_748.4 m
+1348,doll_6.17 b,doll_86.96 b,doll_2.63 b,doll_655 m
+1349,doll_3.21 b,doll_2.44 b,doll_39.89 b,doll_744.8 m
+1350,doll_11.94 b,doll_13.59 b,doll_11.01 b,doll_802.2 m
+1351,doll_2.68 b,doll_4.53 b,doll_16.01 b,doll_1.47 b
+1352,doll_7.66 b,doll_93.67 b,doll_1.97 b,doll_524.2 m
+1353,doll_6.15 b,doll_14.84 b,doll_35.26 b,doll_617.5 m
+1354,doll_8 b,doll_15.01 b,doll_13.86 b,doll_836.7 m
+1355,doll_6.58 b,doll_13.98 b,doll_16.27 b,doll_972.3 m
+1356,doll_8.42 b,doll_31.19 b,doll_1.99 b,doll_782.8 m
+1357,doll_11.32 b,doll_49.19 b,doll_3.88 b,doll_477.5 m
+1358,doll_1.25 b,doll_539.07 b,doll_8.62 b,doll_473.6 m
+1359,doll_6.27 b,doll_12.17 b,doll_22.93 b,doll_822.4 m
+1360,doll_1.15 b,doll_23.46 b,doll_7.78 b,doll_2.03 b
+1361,doll_5.1 b,doll_9.3 b,doll_28.97 b,doll_871.6 m
+1362,doll_3.74 b,doll_6.23 b,doll_32.09 b,doll_807 m
+1363,doll_10.19 b,doll_27.73 b,doll_10.77 b,doll_449.9 m
+1364,doll_10.29 b,doll_12.13 b,doll_13.89 b,doll_712.6 m
+1365,doll_14.62 b,doll_16.22 b,doll_7.77 b,doll_809.5 m
+1366,doll_2.6 b,doll_90.81 b,doll_7.55 b,doll_727.2 m
+1367,doll_10.4 b,doll_19.14 b,doll_5.35 b,doll_974.9 m
+1368,doll_13.03 b,doll_17.26 b,doll_6.23 b,doll_870.6 m
+1369,doll_6.2 b,doll_38.45 b,doll_1.34 b,doll_927.8 m
+1370,doll_8.9 b,doll_49.27 b,doll_3.33 b,doll_555.8 m
+1371,doll_7.08 b,doll_9.06 b,doll_12.68 b,doll_1.1 b
+1372,doll_6.19 b,doll_9.5 b,doll_16.91 b,doll_1.01 b
+1373,doll_5.64 b,doll_10.44 b,doll_26.81 b,doll_860.5 m
+1374,doll_19.04 b,doll_16.96 b,doll_10.12 b,doll_4.7 m
+1375,doll_2.5 b,doll_8.57 b,doll_20.32 b,doll_1.05 b
+1376,doll_1.53 b,doll_32.26 b,doll_20.82 b,doll_-5.26 b
+1377,doll_1.61 b,doll_10.47 b,doll_28.54 b,doll_856.9 m
+1378,doll_6.91 b,doll_157.96 b,doll_6.73 b,doll_61.2 m
+1379,doll_29.93 b,doll_16.21 b,doll_144 m,doll_579.5 m
+1380,doll_2.99 b,doll_4.39 b,doll_41.22 b,doll_696 m
+1381,doll_7.66 b,doll_85.49 b,doll_2.22 b,doll_517.7 m
+1382,doll_11.14 b,doll_9.18 b,doll_10.05 b,doll_897 m
+1383,doll_15.67 b,doll_10.61 b,doll_5.87 b,doll_978.3 m
+1384,doll_7.2 b,doll_20.71 b,doll_14.11 b,doll_638 m
+1385,doll_6.3 b,doll_37.31 b,doll_11.24 b,doll_578.6 m
+1386,doll_11.81 b,doll_41.92 b,doll_968 m,doll_419 m
+1387,doll_8.1 b,doll_85.06 b,doll_1.84 b,doll_414.3 m
+1388,doll_2.04 b,doll_5.51 b,doll_37.06 b,doll_726 m
+1389,doll_4.49 b,doll_155.06 b,doll_2.46 b,doll_620.7 m
+1390,doll_16.98 b,doll_20.83 b,doll_5.09 b,doll_600.6 m
+1391,doll_4.23 b,doll_107.92 b,doll_2.1 b,doll_663.3 m
+1392,doll_13.11 b,doll_17.84 b,doll_4.8 b,doll_820.3 m
+1393,doll_11.42 b,doll_8.15 b,doll_20.85 b,doll_-38.6 m
+1394,doll_3.16 b,doll_2.48 b,doll_31.59 b,doll_778.1 m
+1395,doll_17 b,doll_11.78 b,doll_12.46 b,doll_529.9 m
+1396,doll_10.06 b,doll_15.19 b,doll_20.41 b,doll_-2.08 b
+1397,doll_9.22 b,doll_16.45 b,doll_6.54 b,doll_1.24 b
+1398,doll_1.56 b,doll_165.88 b,doll_9.15 b,doll_488.6 m
+1399,doll_1.14 b,doll_47.8 b,doll_14.68 b,doll_458.5 m
+1400,doll_7.07 b,doll_10.1 b,doll_49.4 b,doll_83.3 m
+1401,doll_7.73 b,doll_8.02 b,doll_15.1 b,doll_834.7 m
+1402,doll_15.65 b,doll_18.33 b,doll_2.09 b,doll_681.4 m
+1403,doll_2.06 b,doll_34.92 b,doll_14.69 b,doll_564.9 m
+1404,doll_14.29 b,doll_17.34 b,doll_7.78 b,doll_724 m
+1405,doll_17.55 b,doll_14.34 b,doll_3.16 b,doll_821.4 m
+1406,doll_5.07 b,doll_15 b,doll_19.25 b,doll_932.3 m
+1407,doll_3.49 b,doll_80.61 b,doll_2.5 b,doll_717 m
+1408,doll_7.84 b,doll_12.17 b,doll_8.85 b,doll_1.54 b
+1409,doll_13.36 b,doll_7.92 b,doll_10.53 b,doll_675.9 m
+1410,doll_2.09 b,doll_55.27 b,doll_2.88 b,doll_843 m
+1411,doll_12.98 b,doll_12.86 b,doll_17.2 b,doll_486 m
+1412,doll_10.05 b,doll_49.32 b,doll_2.31 b,doll_107.3 m
+1413,doll_5.49 b,doll_52.7 b,doll_3.67 b,doll_854.9 m
+1414,doll_18.46 b,doll_24.65 b,doll_3.75 b,doll_-93.1 m
+1415,doll_2.55 b,doll_58.03 b,doll_3.83 b,doll_822.3 m
+1416,doll_988 m,doll_17.19 b,doll_20.82 b,doll_732 m
+1417,doll_72.02 b,doll_15.34 b,doll_2.54 b,doll_478.4 m
+1418,doll_5.99 b,doll_13.71 b,doll_98.91 b,doll_-352 m
+1419,doll_26.26 b,doll_20.1 b,doll_2.79 b,doll_281.3 m
+1420,doll_10.41 b,doll_45.31 b,doll_6.3 b,doll_-1.89 b
+1421,doll_24.77 b,doll_13.49 b,doll_6.83 b,doll_691.6 m
+1422,doll_1.97 b,doll_68.15 b,doll_6.06 b,doll_749 m
+1423,doll_7.82 b,doll_18.45 b,doll_16.52 b,doll_555.6 m
+1424,doll_6.49 b,doll_11.72 b,doll_5.3 b,doll_4.27 b
+1425,doll_23.34 b,doll_12.92 b,doll_8.72 b,doll_590 m
+1426,doll_14.04 b,doll_6.58 b,doll_15.44 b,doll_169.8 m
+1427,doll_4.97 b,doll_6.13 b,doll_18 b,doll_1.06 b
+1428,doll_4.71 b,doll_64.44 b,doll_9.59 b,doll_572 m
+1429,doll_2.58 b,doll_25.78 b,doll_12.02 b,doll_774.9 m
+1430,doll_12.4 b,doll_8.48 b,doll_12.05 b,doll_623.9 m
+1431,doll_4.62 b,doll_5.37 b,doll_26.07 b,doll_822.2 m
+1432,doll_11.55 b,doll_14.56 b,doll_11.91 b,doll_625.1 m
+1433,doll_3.72 b,doll_3.33 b,doll_29.21 b,doll_769 m
+1434,doll_8.87 b,doll_16.13 b,doll_4.51 b,doll_1.24 b
+1435,doll_13.15 b,doll_22.27 b,doll_6.91 b,doll_619.5 m
+1436,doll_14.88 b,doll_7.67 b,doll_4.25 b,doll_922.4 m
+1437,doll_8.25 b,doll_4.63 b,doll_9.68 b,doll_1.13 b
+1438,doll_71.65 b,doll_15.04 b,doll_2.93 b,doll_335 m
+1439,doll_55 m,doll_22.29 b,doll_30.27 b,doll_-4.69 b
+1440,doll_12.17 b,doll_19.17 b,doll_8.19 b,doll_671.8 m
+1441,doll_10.33 b,doll_44.13 b,doll_1.52 b,doll_423.6 m
+1442,doll_8.91 b,doll_8.52 b,doll_8.46 b,doll_1.3 b
+1443,doll_1.36 b,doll_18.46 b,doll_15.72 b,doll_838.1 m
+1444,doll_3.92 b,doll_94.82 b,doll_2.04 b,doll_640.9 m
+1445,doll_3.34 b,doll_5.92 b,doll_48.93 b,doll_606.8 m
+1446,doll_5.19 b,doll_8 b,doll_24.95 b,doll_827.5 m
+1447,doll_30.86 b,doll_17.97 b,doll_2.83 b,doll_374.8 m
+1448,doll_5.89 b,doll_10.8 b,doll_94.28 b,doll_230 m
+1449,doll_3.95 b,doll_5.94 b,doll_28.41 b,doll_772 m
+1450,doll_11.2 b,doll_14.22 b,doll_7.88 b,doll_1.03 b
+1451,doll_5.05 b,doll_17.33 b,doll_17.52 b,doll_800 m
+1452,doll_7.86 b,doll_11.09 b,doll_32.7 b,doll_95.5 m
+1453,doll_11 b,doll_12.19 b,doll_13.34 b,doll_616.1 m
+1454,doll_8.95 b,doll_32.35 b,doll_9.42 b,doll_-1.14 b
+1455,doll_1.3 b,doll_6.21 b,doll_30.37 b,doll_733.8 m
+1456,doll_7.12 b,doll_8.58 b,doll_20.27 b,doll_662.1 m
+1457,doll_2.31 b,doll_25.02 b,doll_14.29 b,doll_665.9 m
+1458,doll_1.11 b,doll_10.45 b,doll_22.92 b,doll_851.5 m
+1459,doll_20.4 b,doll_21.42 b,doll_4.49 b,doll_206.8 m
+1460,doll_3.42 b,doll_71.69 b,doll_5.46 b,doll_693.3 m
+1461,doll_1.56 b,doll_41.91 b,doll_11.43 b,doll_567.5 m
+1462,doll_8.71 b,doll_16.8 b,doll_7.68 b,doll_1.07 b
+1463,doll_3.7 b,doll_3.81 b,doll_17.65 b,doll_1.02 b
+1464,doll_8.41 b,doll_7.97 b,doll_13.79 b,doll_740.1 m
+1465,doll_7.01 b,doll_7.69 b,doll_19.87 b,doll_670.5 m
+1466,doll_1.25 b,doll_32.19 b,doll_7.42 b,doll_1.09 b
+1467,doll_1.96 b,doll_58.31 b,doll_10.05 b,doll_547.5 m
+1468,doll_3.81 b,doll_7.38 b,doll_16.05 b,doll_1.1 b
+1469,doll_14.52 b,doll_13.39 b,doll_2.6 b,doll_904.1 m
+1470,doll_16.01 b,doll_25.23 b,doll_5.92 b,doll_388.2 m
+1471,doll_5.09 b,doll_51.26 b,doll_9.72 b,doll_585.7 m
+1472,doll_3.25 b,doll_51.24 b,doll_4.1 b,doll_796 m
+1473,doll_3.37 b,doll_41.99 b,doll_6.4 b,doll_899 m
+1474,doll_3 b,doll_7.81 b,doll_33.43 b,doll_666.2 m
+1475,doll_3.83 b,doll_24.72 b,doll_23.37 b,doll_49 m
+1476,doll_3.03 b,doll_11.66 b,doll_19.27 b,doll_938.9 m
+1477,doll_7.64 b,doll_9.52 b,doll_8.04 b,doll_1.74 b
+1478,doll_4.73 b,doll_7.42 b,doll_24.14 b,doll_793.6 m
+1479,doll_2.34 b,doll_29.22 b,doll_4.67 b,doll_1.16 b
+1480,doll_3.51 b,doll_20.55 b,doll_16.08 b,doll_696.6 m
+1481,doll_3.55 b,doll_79.32 b,doll_5.07 b,doll_649.4 m
+1482,doll_13.6 b,doll_28.12 b,doll_2.23 b,doll_-255.2 m
+1483,doll_8.46 b,doll_25.04 b,doll_11.6 b,doll_83.7 m
+1484,doll_2.11 b,doll_56.42 b,doll_6.45 b,doll_744.4 m
+1485,doll_12.62 b,doll_13.68 b,doll_4.74 b,doll_976.3 m
+1486,doll_7.71 b,doll_14.01 b,doll_13.02 b,doll_791.3 m
+1487,doll_5.07 b,doll_11.39 b,doll_25.02 b,doll_764.4 m
+1488,doll_7.68 b,doll_7.26 b,doll_17.53 b,doll_654.9 m
+1489,doll_4.1 b,doll_14.45 b,doll_18.29 b,doll_900.2 m
+1490,doll_2.07 b,doll_25.66 b,doll_3.88 b,doll_1.33 b
+1491,doll_5.16 b,doll_29.77 b,doll_10.26 b,doll_730.8 m
+1492,doll_6.16 b,doll_133.31 b,doll_2.05 b,doll_197.6 m
+1493,doll_3.07 b,doll_116.4 b,doll_4.04 b,doll_573.7 m
+1494,doll_15.82 b,doll_8.62 b,doll_2.62 b,doll_804.6 m
+1495,doll_18.16 b,doll_9.77 b,doll_4.25 b,doll_728.6 m
+1496,doll_9.58 b,doll_22.29 b,doll_11.12 b,doll_392.5 m
+1497,doll_5.81 b,doll_15.44 b,doll_42.82 b,doll_410 m
+1498,doll_14.45 b,doll_16.79 b,doll_3.29 b,doll_668.2 m
+1499,doll_14.84 b,doll_16.57 b,doll_9.09 b,doll_537 m
+1500,doll_1.4 b,doll_19.86 b,doll_30.79 b,doll_-165 m
+1501,doll_13.31 b,doll_10.72 b,doll_3.21 b,doll_904 m
+1502,doll_2.98 b,doll_62.45 b,doll_10.45 b,doll_-1.15 b
+1503,doll_5.62 b,doll_6.21 b,doll_20.06 b,doll_837 m
+1504,doll_1.33 b,doll_1.98 b,doll_22.59 b,doll_784.8 m
+1505,doll_929 m,doll_30.32 b,doll_16.75 b,doll_178.2 m
+1506,doll_19.02 b,doll_10.24 b,doll_5.99 b,doll_683.7 m
+1507,doll_13.42 b,doll_20.48 b,doll_5.33 b,doll_595.7 m
+1508,doll_7.88 b,doll_15.97 b,doll_15.43 b,doll_574.8 m
+1509,doll_2.99 b,doll_4.97 b,doll_16.95 b,doll_948.6 m
+1510,doll_3.79 b,doll_4.14 b,doll_20.48 b,doll_826.6 m
+1511,doll_5.43 b,doll_120.54 b,doll_2.07 b,doll_552.3 m
+1512,doll_39.73 b,doll_12.22 b,doll_8.13 b,doll_36.9 m
+1513,doll_5.66 b,doll_10.68 b,doll_19.09 b,doll_840.9 m
+1514,doll_5.41 b,doll_14.74 b,doll_22.14 b,doll_707.9 m
+1515,doll_2.89 b,doll_22.36 b,doll_21.77 b,doll_505.1 m
+1516,doll_8.02 b,doll_11.62 b,doll_6.99 b,doll_1.59 b
+1517,doll_2.86 b,doll_9.61 b,doll_8.5 b,doll_3.24 b
+1518,doll_2.53 b,doll_251.69 b,doll_3.63 b,doll_483 m
+1519,doll_2.88 b,doll_32.54 b,doll_8.8 b,doll_774.4 m
+1520,doll_5.6 b,doll_16.59 b,doll_10.73 b,doll_1.11 b
+1521,doll_901 m,doll_23.24 b,doll_8.82 b,doll_1 b
+1522,doll_9.13 b,doll_10.53 b,doll_9.39 b,doll_893.2 m
+1523,doll_2.93 b,doll_27.81 b,doll_2.97 b,doll_1.08 b
+1524,doll_6.26 b,doll_98.51 b,doll_2.66 b,doll_390.6 m
+1525,doll_2.57 b,doll_69.5 b,doll_5.72 b,doll_631.7 m
+1526,doll_2.18 b,doll_47.08 b,doll_8.34 b,doll_660.1 m
+1527,doll_2.82 b,doll_120.14 b,doll_3.24 b,doll_540.4 m
+1528,doll_4.23 b,doll_20.06 b,doll_27.81 b,doll_-961 m
+1529,doll_29.49 b,doll_12.52 b,doll_8.52 b,doll_164 m
+1530,doll_2.83 b,doll_13.4 b,doll_19.51 b,doll_839.5 m
+1531,doll_7.28 b,doll_8.54 b,doll_12.05 b,doll_867.5 m
+1532,doll_3.45 b,doll_6.15 b,doll_23.16 b,doll_738.4 m
+1533,doll_6.42 b,doll_23.98 b,doll_9.04 b,doll_761 m
+1534,doll_11.93 b,doll_13.86 b,doll_14.75 b,doll_-551 m
+1535,doll_17.36 b,doll_13.14 b,doll_6.73 b,doll_705.9 m
+1536,doll_3.67 b,doll_19.25 b,doll_15.83 b,doll_674 m
+1537,doll_2.11 b,doll_86.12 b,doll_7.17 b,doll_580.4 m
+1538,doll_1.71 b,doll_9.63 b,doll_18.37 b,doll_874.2 m
+1539,doll_9.42 b,doll_10.24 b,doll_19.14 b,doll_386.3 m
+1540,doll_12.85 b,doll_26.26 b,doll_3.42 b,doll_222.9 m
+1541,doll_5.39 b,doll_15.15 b,doll_18.74 b,doll_757.4 m
+1542,doll_2.04 b,doll_207.85 b,doll_2.03 b,doll_413.6 m
+1543,doll_2.66 b,doll_203.71 b,doll_4.54 b,doll_360.8 m
+1544,doll_4.37 b,doll_4.3 b,doll_27.68 b,doll_664.5 m
+1545,doll_1.2 b,doll_6.3 b,doll_21.71 b,doll_755.3 m
+1546,doll_1.56 b,doll_44.79 b,doll_5.89 b,doll_759.1 m
+1547,doll_29.85 b,doll_15.44 b,doll_3.35 b,doll_331.4 m
+1548,doll_4.71 b,doll_5.62 b,doll_11.72 b,doll_1.35 b
+1549,doll_7.42 b,doll_55.71 b,doll_2.34 b,doll_495.4 m
+1550,doll_9.71 b,doll_10.05 b,doll_5.69 b,doll_1.11 b
+1551,doll_1.71 b,doll_26.67 b,doll_11.02 b,doll_666.4 m
+1552,doll_20.64 b,doll_14.24 b,doll_5.39 b,doll_591.9 m
+1553,doll_13.75 b,doll_15.51 b,doll_5.47 b,doll_691.2 m
+1554,doll_7.39 b,doll_6.83 b,doll_3.45 b,doll_1.72 b
+1555,doll_6.58 b,doll_15.03 b,doll_27.13 b,doll_-254 m
+1556,doll_2.43 b,doll_2.76 b,doll_62.18 b,doll_-530.8 m
+1557,doll_8.55 b,doll_28.13 b,doll_9.13 b,doll_-1.8 b
+1558,doll_1.94 b,doll_160.78 b,doll_4.46 b,doll_495.9 m
+1559,doll_4.41 b,doll_67.2 b,doll_6.15 b,doll_612.4 m
+1560,doll_6.84 b,doll_21.61 b,doll_14.96 b,doll_-1.16 b
+1561,doll_2.83 b,doll_3.31 b,doll_25.98 b,doll_661.8 m
+1562,doll_6.42 b,doll_25.68 b,doll_3.65 b,doll_875.4 m
+1563,doll_6.53 b,doll_7.82 b,doll_8.53 b,doll_1.5 b
+1564,doll_10.19 b,doll_15.12 b,doll_4.12 b,doll_910.5 m
+1565,doll_2.1 b,doll_11.36 b,doll_24.12 b,doll_678.8 m
+1566,doll_3.64 b,doll_79.06 b,doll_4.74 b,doll_574.2 m
+1567,doll_3.01 b,doll_39.96 b,doll_4.84 b,doll_772.2 m
+1568,doll_477 m,doll_13.54 b,doll_9.56 b,doll_1.83 b
+1569,doll_419 m,doll_3.93 b,doll_59.06 b,doll_14 m
+1570,doll_5.25 b,doll_16.47 b,doll_20.75 b,doll_606.9 m
+1571,doll_10 b,doll_32.77 b,doll_1.05 b,doll_308.4 m
+1572,doll_3.86 b,doll_156.78 b,doll_892 m,doll_365.8 m
+1573,doll_7.93 b,doll_8.47 b,doll_12.12 b,doll_734.4 m
+1574,doll_41.81 b,doll_1.62 b,doll_1.21 b,doll_-1.57 b
+1575,doll_2.04 b,doll_9.48 b,doll_57.49 b,doll_-242.2 m
+1576,doll_10.05 b,doll_16.52 b,doll_12.29 b,doll_496 m
+1577,doll_10.06 b,doll_13.61 b,doll_8.79 b,doll_822.8 m
+1578,doll_9.04 b,doll_36.53 b,doll_1.54 b,doll_16.2 m
+1579,doll_2.29 b,doll_17.52 b,doll_18.48 b,doll_619.8 m
+1580,doll_7.39 b,doll_13.9 b,doll_18.32 b,doll_572.6 m
+1581,doll_4.97 b,doll_22.08 b,doll_6 b,doll_1.31 b
+1582,doll_5.55 b,doll_13.92 b,doll_22.74 b,doll_670.9 m
+1583,doll_1.61 b,doll_150.22 b,doll_877 m,doll_218.6 m
+1584,doll_2 b,doll_38.11 b,doll_2 b,doll_789.2 m
+1585,doll_4.86 b,doll_10.4 b,doll_56.29 b,doll_-461.5 m
+1586,doll_10.3 b,doll_30.79 b,doll_2.44 b,doll_-317.3 m
+1587,doll_16.64 b,doll_19.95 b,doll_7.2 b,doll_-610 m
+1588,doll_30.77 b,doll_14.48 b,doll_3.27 b,doll_47.3 m
+1589,doll_2.66 b,doll_9.02 b,doll_16.32 b,doll_880.9 m
+1590,doll_1.22 b,doll_6.65 b,doll_54.68 b,doll_-679.9 m
+1591,doll_8.5 b,doll_10.02 b,doll_8.46 b,doll_995 m
+1592,doll_8.48 b,doll_38.77 b,doll_2.74 b,doll_320.6 m
+1593,doll_7.49 b,doll_14.51 b,doll_4.17 b,doll_1.34 b
+1594,doll_5.11 b,doll_49.25 b,doll_3.08 b,doll_665 m
+1595,doll_6.45 b,doll_68.72 b,doll_2.72 b,doll_88 m
+1596,doll_18.41 b,doll_13.17 b,doll_8.47 b,doll_551 m
+1597,doll_13.54 b,doll_22.96 b,doll_5.5 b,doll_-811.5 m
+1598,doll_8.45 b,doll_8.36 b,doll_10.21 b,doll_779.3 m
+1599,doll_1.85 b,doll_18.54 b,doll_26.2 b,doll_271.1 m
+1600,doll_4.72 b,doll_9.85 b,doll_20.05 b,doll_738.8 m
+1601,doll_11.49 b,doll_9.46 b,doll_10.57 b,doll_589.4 m
+1602,doll_5.15 b,doll_10.5 b,doll_51.74 b,doll_29.4 m
+1603,doll_2.01 b,doll_127.33 b,doll_3.8 b,doll_431.7 m
+1604,doll_2.17 b,doll_5.94 b,doll_17.59 b,doll_815.6 m
+1605,doll_5.37 b,doll_77.3 b,doll_8.48 b,doll_463.2 m
+1606,doll_4.55 b,doll_7.63 b,doll_12.11 b,doll_1.12 b
+1607,doll_2.19 b,doll_8.3 b,doll_13.11 b,doll_1.01 b
+1608,doll_4.79 b,doll_34.31 b,doll_6.88 b,doll_824.9 m
+1609,doll_13.02 b,doll_23.27 b,doll_3.31 b,doll_2.7 m
+1610,doll_1.19 b,doll_31.04 b,doll_13.63 b,doll_475.6 m
+1611,doll_1.26 b,doll_4.44 b,doll_20.52 b,doll_715.6 m
+1612,doll_13.05 b,doll_6.51 b,doll_7.44 b,doll_775.7 m
+1613,doll_4.9 b,doll_25.26 b,doll_12.51 b,doll_584.9 m
+1614,doll_377 m,doll_6.94 b,doll_11.84 b,doll_1.14 b
+1615,doll_3.15 b,doll_38.67 b,doll_6.76 b,doll_743.1 m
+1616,doll_1.28 b,doll_120.9 b,doll_1.6 b,doll_284.6 m
+1617,doll_12.61 b,doll_11.41 b,doll_3.21 b,doll_793.4 m
+1618,doll_1.63 b,doll_120.65 b,doll_1.36 b,doll_132.1 m
+1619,doll_3.1 b,doll_30.1 b,doll_13.89 b,doll_-88 m
+1620,doll_4.68 b,doll_5.45 b,doll_17.54 b,doll_795.4 m
+1621,doll_4.41 b,doll_8.95 b,doll_48.34 b,doll_-560.7 m
+1622,doll_3.8 b,doll_10.36 b,doll_6.54 b,doll_3.53 b
+1623,doll_5.5 b,doll_112.95 b,doll_1.55 b,doll_494.1 m
+1624,doll_3.91 b,doll_72.08 b,doll_5.66 b,doll_559.9 m
+1625,doll_1.25 b,doll_118.56 b,doll_917 m,doll_188.9 m
+1626,doll_3.23 b,doll_31.71 b,doll_4.48 b,doll_847.1 m
+1627,doll_2.75 b,doll_6.87 b,doll_14.85 b,doll_910 m
+1628,doll_1.45 b,doll_3.62 b,doll_47.45 b,doll_-234.8 m
+1629,doll_274 m,doll_116.82 b,doll_655 m,doll_43.2 m
+1630,doll_7.96 b,doll_39.91 b,doll_1.73 b,doll_329.1 m
+1631,doll_16.23 b,doll_9.14 b,doll_2.83 b,doll_652 m
+1632,doll_2.74 b,doll_114.42 b,doll_6 b,doll_274 m
+1633,doll_3.84 b,doll_8.7 b,doll_9.58 b,doll_1.54 b
+1634,doll_7.07 b,doll_6.36 b,doll_12.57 b,doll_737.5 m
+1635,doll_12.28 b,doll_16.55 b,doll_5.63 b,doll_641.9 m
+1636,doll_1.13 b,doll_112.65 b,doll_744 m,doll_103.2 m
+1637,doll_2.74 b,doll_18.57 b,doll_24.06 b,doll_-71 m
+1638,doll_7.66 b,doll_9.01 b,doll_10.1 b,doll_846.7 m
+1639,doll_31.3 b,doll_5.94 b,doll_1.72 b,doll_73.6 m
+1640,doll_429 m,doll_14.18 b,doll_6.3 b,doll_2.82 b
+1641,doll_1.93 b,doll_66.71 b,doll_5.14 b,doll_567.1 m
+1642,doll_1.16 b,doll_109.08 b,doll_3.12 b,doll_195.7 m
+1643,doll_2.4 b,doll_45.52 b,doll_3.02 b,doll_657.3 m
+1644,doll_2.64 b,doll_91.69 b,doll_3.83 b,doll_512.9 m
+1645,doll_3.51 b,doll_53.63 b,doll_1.84 b,doll_608.3 m
+1646,doll_2.01 b,doll_50.25 b,doll_6.01 b,doll_622.4 m
+1647,doll_1.55 b,doll_107.32 b,doll_1.35 b,doll_260.2 m
+1648,doll_20.78 b,doll_15.7 b,doll_2.97 b,doll_489.2 m
+1649,doll_1.71 b,doll_6.13 b,doll_16.45 b,doll_811.8 m
+1650,doll_6.47 b,doll_8.23 b,doll_3.1 b,doll_1.75 b
+1651,doll_3.22 b,doll_106.19 b,doll_2.7 b,doll_119.5 m
+1652,doll_1.75 b,doll_59.64 b,doll_4.7 b,doll_587.8 m
+1653,doll_738 m,doll_19.62 b,doll_6.95 b,doll_1.38 b
+1654,doll_7.34 b,doll_9.3 b,doll_9.26 b,doll_953.7 m
+1655,doll_30 b,doll_2.7 b,doll_2.5 b,doll_157.3 m
+1656,doll_2.04 b,doll_64.05 b,doll_4.52 b,doll_567.2 m
+1657,doll_19.24 b,doll_11.66 b,doll_2.27 b,doll_575.2 m
+1658,doll_3.73 b,doll_5.03 b,doll_20.03 b,doll_694.1 m
+1659,doll_2.45 b,doll_4.86 b,doll_42.91 b,doll_154.7 m
+1660,doll_792 m,doll_16.34 b,doll_8 b,doll_1.53 b
+1661,doll_4.43 b,doll_101.25 b,doll_967 m,doll_41.5 m
+1662,doll_7.3 b,doll_13.32 b,doll_5.11 b,doll_1.39 b
+1663,doll_4.4 b,doll_8.61 b,doll_40.7 b,doll_497 m
+1664,doll_5.34 b,doll_28.6 b,doll_13.46 b,doll_-48.2 m
+1665,doll_24.53 b,doll_14.6 b,doll_1.24 b,doll_225.8 m
+1666,doll_1.22 b,doll_100.28 b,doll_1.56 b,doll_231.3 m
+1667,doll_5.08 b,doll_14.06 b,doll_39.17 b,doll_-221.4 m
+1668,doll_2.08 b,doll_98.94 b,doll_3.84 b,doll_476.8 m
+1669,doll_18.69 b,doll_16.36 b,doll_4.45 b,doll_476 m
+1670,doll_5.76 b,doll_7.43 b,doll_27.55 b,doll_555.6 m
+1671,doll_1.3 b,doll_96.17 b,doll_1.21 b,doll_167.9 m
+1672,doll_2.76 b,doll_6.53 b,doll_11.14 b,doll_1.14 b
+1673,doll_4.43 b,doll_90.22 b,doll_1.63 b,doll_500.2 m
+1674,doll_1.52 b,doll_22.92 b,doll_6.59 b,doll_1.05 b
+1675,doll_27.87 b,doll_10.4 b,doll_3.22 b,doll_411.6 m
+1676,doll_5.81 b,doll_6.08 b,doll_15.15 b,doll_773.1 m
+1677,doll_27.79 b,doll_5.54 b,doll_974 m,doll_116.6 m
+1678,doll_2.42 b,doll_62.17 b,doll_6.62 b,doll_563.1 m
+1679,doll_3.73 b,doll_32.68 b,doll_11.96 b,doll_-1.22 b
+1680,doll_27.77 b,doll_7.8 b,doll_2.62 b,doll_233.6 m
+1681,doll_8.19 b,doll_35.43 b,doll_2.46 b,doll_372 m
+1682,doll_6.36 b,doll_5.34 b,doll_10.6 b,doll_931.3 m
+1683,doll_5.17 b,doll_8.01 b,doll_18.75 b,doll_708.5 m
+1684,doll_17.84 b,doll_13.85 b,doll_3.8 b,doll_577.4 m
+1685,doll_3.77 b,doll_2.84 b,doll_39.69 b,doll_410.1 m
+1686,doll_1.3 b,doll_92.21 b,doll_6.7 b,doll_315.2 m
+1687,doll_8.45 b,doll_9.39 b,doll_7.33 b,doll_1.04 b
+1688,doll_12.6 b,doll_21.88 b,doll_1.31 b,doll_-113.7 m
+1689,doll_2.31 b,doll_9.8 b,doll_39.57 b,doll_237.6 m
+1690,doll_1.03 b,doll_2.38 b,doll_39.38 b,doll_-20.7 m
+1691,doll_12.1 b,doll_16.3 b,doll_5.1 b,doll_622 m
+1692,doll_6.47 b,doll_10.68 b,doll_8.18 b,doll_1.35 b
+1693,doll_27.25 b,doll_12.69 b,doll_3.21 b,doll_231 m
+1694,doll_14.95 b,doll_18.83 b,doll_1.72 b,doll_61.5 m
+1695,doll_9.04 b,doll_12.61 b,doll_11.28 b,doll_605.3 m
+1696,doll_1.72 b,doll_77.33 b,doll_7.59 b,doll_510.4 m
+1697,doll_3.33 b,doll_90.74 b,doll_1.99 b,doll_-3.56 b
+1698,doll_1.2 b,doll_90.37 b,doll_893 m,doll_123.5 m
+1699,doll_3.44 b,doll_4.74 b,doll_33.26 b,doll_522 m
+1700,doll_16.67 b,doll_5.67 b,doll_9.09 b,doll_426.7 m
+1701,doll_9.15 b,doll_12.4 b,doll_5.12 b,doll_952.3 m
+1702,doll_967 m,doll_90.27 b,doll_921 m,doll_177.2 m
+1703,doll_12.17 b,doll_19.39 b,doll_6.87 b,doll_543.1 m
+1704,doll_1.49 b,doll_6.11 b,doll_38.15 b,doll_164.1 m
+1705,doll_12.24 b,doll_8.13 b,doll_11.31 b,doll_277.2 m
+1706,doll_2.88 b,doll_88.53 b,doll_4.28 b,doll_387.7 m
+1707,doll_5.65 b,doll_3.88 b,doll_16.68 b,doll_726.9 m
+1708,doll_1.05 b,doll_88.26 b,doll_1.38 b,doll_172.2 m
+1709,doll_1.82 b,doll_2.82 b,doll_22.54 b,doll_612.4 m
+1710,doll_26.14 b,doll_8.57 b,doll_1.21 b,doll_-60.1 m
+1711,doll_13.3 b,doll_14.47 b,doll_9.82 b,doll_33 m
+1712,doll_3.25 b,doll_34.12 b,doll_7 b,doll_735.4 m
+1713,doll_2.35 b,doll_4.15 b,doll_12.45 b,doll_956.3 m
+1714,doll_9.75 b,doll_12.47 b,doll_13.94 b,doll_286.6 m
+1715,doll_1.39 b,doll_50.88 b,doll_8.86 b,doll_440.4 m
+1716,doll_6.27 b,doll_14.4 b,doll_23.79 b,doll_-670.7 m
+1717,doll_4.71 b,doll_27.11 b,doll_13.13 b,doll_446.7 m
+1718,doll_2.52 b,doll_4.1 b,doll_13.76 b,doll_874 m
+1719,doll_2.14 b,doll_4.05 b,doll_23.19 b,doll_596.9 m
+1720,doll_1.19 b,doll_83.85 b,doll_7.31 b,doll_440.9 m
+1721,doll_3.58 b,doll_27.71 b,doll_12.8 b,doll_59.4 m
+1722,doll_13.29 b,doll_11.44 b,doll_10.26 b,doll_208.6 m
+1723,doll_398 m,doll_83.42 b,doll_2.98 b,doll_-3.44 b
+1724,doll_23.45 b,doll_14.07 b,doll_1.76 b,doll_83.4 m
+1725,doll_2.91 b,doll_7.26 b,doll_22.11 b,doll_606.4 m
+1726,doll_5.04 b,doll_10.58 b,doll_16.7 b,doll_734.7 m
+1727,doll_4.39 b,doll_12.37 b,doll_15.12 b,doll_796.4 m
+1728,doll_8.43 b,doll_29.2 b,doll_7.79 b,doll_-948 m
+1729,doll_5.72 b,doll_5.51 b,doll_16.61 b,doll_695.4 m
+1730,doll_6.04 b,doll_19.88 b,doll_11.13 b,doll_621.6 m
+1731,doll_3.4 b,doll_81.94 b,doll_2.52 b,doll_452.7 m
+1732,doll_17.46 b,doll_16.17 b,doll_3.69 b,doll_-214.9 m
+1733,doll_761 m,doll_81.91 b,doll_2.65 b,doll_381.2 m
+1734,doll_24.57 b,doll_8.53 b,doll_414 m,doll_-538.5 m
+1735,doll_2.79 b,doll_3.1 b,doll_17.94 b,doll_692.8 m
+1736,doll_3.5 b,doll_4.75 b,doll_20.67 b,doll_621.9 m
+1737,doll_1.69 b,doll_37.26 b,doll_8.76 b,doll_564.7 m
+1738,doll_3.47 b,doll_79.8 b,doll_1.23 b,doll_320.6 m
+1739,doll_6.3 b,doll_51.56 b,doll_628 m,doll_67.7 m
+1740,doll_1.18 b,doll_8.65 b,doll_35.18 b,doll_-1.41 b
+1741,doll_16.14 b,doll_12.34 b,doll_8.89 b,doll_467.4 m
+1742,doll_1.76 b,doll_14.4 b,doll_17.14 b,doll_664 m
+1743,doll_14.15 b,doll_8.13 b,doll_6.6 b,doll_631.3 m
+1744,doll_14.64 b,doll_7.29 b,doll_4.47 b,doll_618.3 m
+1745,doll_353 m,doll_502 m,doll_34.74 b,doll_77.4 m
+1746,doll_1.6 b,doll_6.91 b,doll_30.22 b,doll_525.2 m
+1747,doll_23.64 b,doll_10.13 b,doll_4.49 b,doll_209.3 m
+1748,doll_2.85 b,doll_2.43 b,doll_9.82 b,doll_1.21 b
+1749,doll_9.32 b,doll_7.09 b,doll_13.82 b,doll_408.8 m
+1750,doll_2.57 b,doll_76.85 b,doll_2.24 b,doll_417.4 m
+1751,doll_23.51 b,doll_12.09 b,doll_2.77 b,doll_220 m
+1752,doll_7.52 b,doll_6.85 b,doll_15.24 b,doll_545.7 m
+1753,doll_15.26 b,doll_10.95 b,doll_5.91 b,doll_604.7 m
+1754,doll_5.11 b,doll_5.77 b,doll_34.22 b,doll_309.3 m
+1755,doll_4.54 b,doll_4.51 b,doll_13.79 b,doll_837.3 m
+1756,doll_8.89 b,doll_2.25 b,doll_14.56 b,doll_-73.8 m
+1757,doll_4.11 b,doll_4.5 b,doll_10.18 b,doll_1.12 b
+1758,doll_4 b,doll_1.93 b,doll_34.12 b,doll_200.1 m
+1759,doll_5.01 b,doll_9.96 b,doll_27.88 b,doll_536.5 m
+1760,doll_9.52 b,doll_11.21 b,doll_7.59 b,doll_854.1 m
+1761,doll_1.17 b,doll_75.19 b,doll_1.57 b,doll_207.1 m
+1762,doll_1.04 b,doll_74.5 b,doll_626 m,doll_138.8 m
+1763,doll_3.46 b,doll_8.14 b,doll_18.85 b,doll_651.6 m
+1764,doll_2.46 b,doll_2.55 b,doll_21.09 b,doll_601.9 m
+1765,doll_1.54 b,doll_20.52 b,doll_11.25 b,doll_653.9 m
+1766,doll_1.12 b,doll_73.06 b,doll_3.48 b,doll_182.6 m
+1767,doll_5.91 b,doll_13.34 b,doll_10.5 b,doll_946.1 m
+1768,doll_10.59 b,doll_14.18 b,doll_9.45 b,doll_572 m
+1769,doll_9.1 b,doll_26.57 b,doll_1.78 b,doll_334.7 m
+1770,doll_3.29 b,doll_72.41 b,doll_3.25 b,doll_267.7 m
+1771,doll_3.19 b,doll_72.32 b,doll_1.26 b,doll_426.3 m
+1772,doll_164 m,doll_12.1 b,doll_14.38 b,doll_789.9 m
+1773,doll_3.92 b,doll_7.25 b,doll_8.55 b,doll_1.49 b
+1774,doll_9.02 b,doll_11.28 b,doll_5.35 b,doll_889 m
+1775,doll_5.77 b,doll_11.08 b,doll_4.7 b,doll_1.84 b
+1776,doll_8.96 b,doll_8.13 b,doll_2.79 b,doll_893 m
+1777,doll_3.13 b,doll_71.08 b,doll_3.85 b,doll_481.7 m
+1778,doll_15.47 b,doll_16.52 b,doll_4 b,doll_390.4 m
+1779,doll_4.05 b,doll_70.99 b,doll_3.77 b,doll_474 m
+1780,doll_3.56 b,doll_4.01 b,doll_12.75 b,doll_857 m
+1781,doll_21.59 b,doll_9.58 b,doll_3.87 b,doll_455 m
+1782,doll_863 m,doll_70.08 b,doll_677 m,doll_131.7 m
+1783,doll_27 m,doll_7.88 b,doll_31.59 b,doll_-3.03 b
+1784,doll_4.32 b,doll_5.45 b,doll_12.5 b,doll_868.7 m
+1785,doll_12.81 b,doll_19.13 b,doll_2.71 b,doll_-3.5 b
+1786,doll_20.94 b,doll_9.72 b,doll_4.94 b,doll_412 m
+1787,doll_8.73 b,doll_12.64 b,doll_11 b,doll_580.4 m
+1788,doll_2.13 b,doll_3.59 b,doll_13.28 b,doll_819.4 m
+1789,doll_7.08 b,doll_6.19 b,doll_18.54 b,doll_247 m
+1790,doll_20.52 b,doll_10.94 b,doll_7.58 b,doll_408.4 m
+1791,doll_3.69 b,doll_14.6 b,doll_12.08 b,doll_830.5 m
+1792,doll_7.96 b,doll_3.23 b,doll_7.17 b,doll_986 m
+1793,doll_1.58 b,doll_68.86 b,doll_3.7 b,doll_316 m
+1794,doll_7.66 b,doll_7.94 b,doll_9.33 b,doll_772.4 m
+1795,doll_19.26 b,doll_13.35 b,doll_7.75 b,doll_373.9 m
+1796,doll_4.14 b,doll_15.69 b,doll_11.32 b,doll_802.9 m
+1797,doll_8.71 b,doll_8.38 b,doll_8.86 b,doll_704.5 m
+1798,doll_2.94 b,doll_66.41 b,doll_3.01 b,doll_494.6 m
+1799,doll_8.06 b,doll_9.29 b,doll_4.4 b,doll_966.6 m
+1800,doll_4.89 b,doll_6.81 b,doll_31.01 b,doll_-468 m
+1801,doll_656 m,doll_2.37 b,doll_30.99 b,doll_-260.3 m
+1802,doll_18.8 b,doll_13.43 b,doll_3.67 b,doll_513 m
+1803,doll_12.92 b,doll_18.6 b,doll_3.43 b,doll_-110.1 m
+1804,doll_13.6 b,doll_17.77 b,doll_3.08 b,doll_17.6 m
+1805,doll_1.88 b,doll_66.42 b,doll_1.75 b,doll_250.6 m
+1806,doll_5.61 b,doll_13.01 b,doll_29.66 b,doll_-1.64 b
+1807,doll_20.34 b,doll_6.99 b,doll_3.26 b,doll_157.6 m
+1808,doll_4.35 b,doll_30.99 b,doll_5.09 b,doll_699.3 m
+1809,doll_701 m,doll_66.19 b,doll_622 m,doll_87 m
+1810,doll_1.52 b,doll_66 b,doll_4.35 b,doll_451.4 m
+1811,doll_20.25 b,doll_7.98 b,doll_6.07 b,doll_480.9 m
+1812,doll_9.21 b,doll_25.16 b,doll_2.54 b,doll_60.3 m
+1813,doll_11.54 b,doll_11.66 b,doll_2.46 b,doll_687 m
+1814,doll_20.07 b,doll_11.18 b,doll_2.61 b,doll_136.8 m
+1815,doll_875 m,doll_65.14 b,doll_916 m,doll_174.7 m
+1816,doll_4.28 b,doll_6.6 b,doll_27.54 b,doll_514.3 m
+1817,doll_4.01 b,doll_23.14 b,doll_5.73 b,doll_891.5 m
+1818,doll_2.14 b,doll_64.47 b,doll_4.18 b,doll_364.9 m
+1819,doll_3.23 b,doll_8.68 b,doll_24.25 b,doll_534.5 m
+1820,doll_15.05 b,doll_13.66 b,doll_8.62 b,doll_364 m
+1821,doll_2.26 b,doll_7.26 b,doll_4.03 b,doll_1.89 b
+1822,doll_190 m,doll_2.99 b,doll_7.84 b,doll_1.68 b
+1823,doll_1.46 b,doll_38.52 b,doll_9.11 b,doll_450 m
+1824,doll_6.52 b,doll_39.13 b,doll_2.41 b,doll_54.9 m
+1825,doll_5.48 b,doll_17.39 b,doll_19.08 b,doll_153.2 m
+1826,doll_19.63 b,doll_6.14 b,doll_2.94 b,doll_100.7 m
+1827,doll_8.11 b,doll_5.94 b,doll_11.73 b,doll_571.3 m
+1828,doll_2.31 b,doll_15.9 b,doll_10.78 b,doll_804.5 m
+1829,doll_630 m,doll_63.1 b,doll_391 m,doll_82 m
+1830,doll_1.42 b,doll_62.56 b,doll_1.87 b,doll_317.5 m
+1831,doll_2.52 b,doll_27.66 b,doll_3.71 b,doll_737.5 m
+1832,doll_8.2 b,doll_8.91 b,doll_14.47 b,doll_377.8 m
+1833,doll_7.72 b,doll_8.25 b,doll_15.66 b,doll_459.9 m
+1834,doll_1.78 b,doll_11.29 b,doll_23.88 b,doll_533.2 m
+1835,doll_3.85 b,doll_2.46 b,doll_29.16 b,doll_301.2 m
+1836,doll_4.92 b,doll_7.8 b,doll_16.72 b,doll_652 m
+1837,doll_10.89 b,doll_21.02 b,doll_1.51 b,doll_-9.8 m
+1838,doll_13.71 b,doll_4.57 b,doll_8.94 b,doll_-131.4 m
+1839,doll_860 m,doll_2.42 b,doll_29.13 b,doll_-330.7 m
+1840,doll_3.38 b,doll_5.78 b,doll_11.68 b,doll_880.7 m
+1841,doll_16.07 b,doll_15.29 b,doll_4.66 b,doll_117.7 m
+1842,doll_1.2 b,doll_3.58 b,doll_28.89 b,doll_137.8 m
+1843,doll_1.34 b,doll_3.53 b,doll_10.18 b,doll_1 b
+1844,doll_10.18 b,doll_8.97 b,doll_9.59 b,doll_563.3 m
+1845,doll_3.28 b,doll_20.88 b,doll_15.07 b,doll_-293.1 m
+1846,doll_1.21 b,doll_61.41 b,doll_7.44 b,doll_414.2 m
+1847,doll_3.16 b,doll_12.89 b,doll_28.66 b,doll_-148.3 m
+1848,doll_2.46 b,doll_61.33 b,doll_4.76 b,doll_216.3 m
+1849,doll_18.96 b,doll_6.12 b,doll_1.42 b,doll_36.9 m
+1850,doll_7.87 b,doll_22.44 b,doll_8.81 b,doll_489.8 m
+1851,doll_806 m,doll_60.81 b,doll_793 m,doll_132.9 m
+1852,doll_7.27 b,doll_11.87 b,doll_8.47 b,doll_879.9 m
+1853,doll_226 m,doll_5.55 b,doll_28.51 b,doll_-535.7 m
+1854,doll_667 m,doll_60.19 b,doll_509 m,doll_115.3 m
+1855,doll_525 m,doll_60.11 b,doll_398 m,doll_-12.2 m
+1856,doll_1.85 b,doll_3.82 b,doll_28.4 b,doll_427.4 m
+1857,doll_2.29 b,doll_3.38 b,doll_28.38 b,doll_335.1 m
+1858,doll_583 m,doll_59.85 b,doll_493 m,doll_95.7 m
+1859,doll_2.56 b,doll_15.46 b,doll_6.38 b,doll_1.37 b
+1860,doll_18.66 b,doll_13.21 b,doll_2.65 b,doll_-2.32 b
+1861,doll_14.04 b,doll_16.25 b,doll_1.58 b,doll_340 m
+1862,doll_5.42 b,doll_20.81 b,doll_2.69 b,doll_942.4 m
+1863,doll_9.98 b,doll_11.53 b,doll_5.66 b,doll_741.2 m
+1864,doll_18.61 b,doll_8.95 b,doll_3.08 b,doll_234.1 m
+1865,doll_18.58 b,doll_9.63 b,doll_995 m,doll_368.8 m
+1866,doll_123 m,doll_4.29 b,doll_3.38 b,doll_1.74 b
+1867,doll_11.58 b,doll_10.82 b,doll_10.04 b,doll_271.3 m
+1868,doll_13.01 b,doll_17.17 b,doll_4.2 b,doll_414 m
+1869,doll_1.31 b,doll_21.21 b,doll_2.57 b,doll_919.6 m
+1870,doll_726 m,doll_58.68 b,doll_353 m,doll_132.4 m
+1871,doll_4.67 b,doll_6.89 b,doll_11.88 b,doll_845.3 m
+1872,doll_696 m,doll_58.54 b,doll_3.66 b,doll_241.9 m
+1873,doll_1.23 b,doll_1.96 b,doll_27.54 b,doll_377 m
+1874,doll_198 m,doll_8.68 b,doll_5.41 b,doll_1.72 b
+1875,doll_2.07 b,doll_24.95 b,doll_6.74 b,doll_787.1 m
+1876,doll_1.63 b,doll_57.99 b,doll_1.71 b,doll_204.3 m
+1877,doll_18.22 b,doll_12.62 b,doll_6.37 b,doll_465.4 m
+1878,doll_10.03 b,doll_9.34 b,doll_6.76 b,doll_734.3 m
+1879,doll_3.01 b,doll_2.72 b,doll_8.87 b,doll_1.16 b
+1880,doll_11.02 b,doll_19.91 b,doll_1.39 b,doll_169.9 m
+1881,doll_830 m,doll_56.78 b,doll_418 m,doll_87.2 m
+1882,doll_18.04 b,doll_11.62 b,doll_1.47 b,doll_35 m
+1883,doll_1.35 b,doll_39.25 b,doll_4.05 b,doll_566.7 m
+1884,doll_2.34 b,doll_56.25 b,doll_1.98 b,doll_88.3 m
+1885,doll_8.44 b,doll_8.1 b,doll_12.88 b,doll_438.9 m
+1886,doll_8.58 b,doll_6.44 b,doll_2.99 b,doll_831.5 m
+1887,doll_1.42 b,doll_4.4 b,doll_25.09 b,doll_498.8 m
+1888,doll_2.19 b,doll_13.06 b,doll_14.09 b,doll_710.7 m
+1889,doll_1.47 b,doll_12.18 b,doll_26.39 b,doll_202.3 m
+1890,doll_635 m,doll_2.45 b,doll_892 m,doll_1.66 b
+1891,doll_4.29 b,doll_18.78 b,doll_2.68 b,doll_1 b
+1892,doll_1.3 b,doll_55.41 b,doll_2.1 b,doll_62.6 m
+1893,doll_1.44 b,doll_13 b,doll_22.95 b,doll_521.7 m
+1894,doll_11.69 b,doll_9.05 b,doll_3.46 b,doll_634.3 m
+1895,doll_11.9 b,doll_8.85 b,doll_8.71 b,doll_533.7 m
+1896,doll_1.24 b,doll_55.38 b,doll_2.36 b,doll_323.6 m
+1897,doll_14.63 b,doll_12.08 b,doll_4.2 b,doll_544.9 m
+1898,doll_703 m,doll_13.61 b,doll_10.92 b,doll_895.3 m
+1899,doll_3.05 b,doll_9.93 b,doll_19.18 b,doll_574 m
+1900,doll_6.83 b,doll_31.13 b,doll_721 m,doll_505.5 m
+1901,doll_4.2 b,doll_7.35 b,doll_12.23 b,doll_789.3 m
+1902,doll_1.42 b,doll_34.99 b,doll_8.66 b,doll_514.3 m
+1903,doll_2.47 b,doll_53.81 b,doll_3.64 b,doll_333 m
+1904,doll_17.64 b,doll_1.54 b,doll_562 m,doll_40.3 m
+1905,doll_17.62 b,doll_9.58 b,doll_1.33 b,doll_284.7 m
+1906,doll_1.26 b,doll_34.99 b,doll_9 b,doll_406.6 m
+1907,doll_4.85 b,doll_4.36 b,doll_8.05 b,doll_1.39 b
+1908,doll_4.97 b,doll_6.49 b,doll_9.08 b,doll_1.08 b
+1909,doll_1.57 b,doll_3.72 b,doll_25.23 b,doll_-674.5 m
+1910,doll_7.87 b,doll_5.5 b,doll_5.12 b,doll_898.9 m
+1911,doll_874 m,doll_2.45 b,doll_25.07 b,doll_-306.9 m
+1912,doll_2.27 b,doll_52.05 b,doll_2.64 b,doll_429.6 m
+1913,doll_5.83 b,doll_21.96 b,doll_11.87 b,doll_216 m
+1914,doll_17.36 b,doll_4.17 b,doll_5.92 b,doll_396.9 m
+1915,doll_14.43 b,doll_15.21 b,doll_4.96 b,doll_434.8 m
+1916,doll_4.31 b,doll_21.68 b,doll_12.94 b,doll_388.3 m
+1917,doll_705 m,doll_51.38 b,doll_728 m,doll_170.8 m
+1918,doll_17.14 b,doll_11.38 b,doll_2.72 b,doll_190.4 m
+1919,doll_17.12 b,doll_9.14 b,doll_4.19 b,doll_77.4 m
+1920,doll_3.42 b,doll_51.26 b,doll_2.23 b,doll_-95.8 m
+1921,doll_1.67 b,doll_10.93 b,doll_24.56 b,doll_170.6 m
+1922,doll_4.6 b,doll_14.43 b,doll_21.88 b,doll_445.3 m
+1923,doll_680 m,doll_14.09 b,doll_8.51 b,doll_1.12 b
+1924,doll_1.54 b,doll_3.25 b,doll_24.28 b,doll_-520.4 m
+1925,doll_3.4 b,doll_20.07 b,doll_2.96 b,doll_905.2 m
+1926,doll_1.88 b,doll_50.25 b,doll_5.31 b,doll_440.4 m
+1927,doll_1.94 b,doll_7.26 b,doll_24.17 b,doll_292.6 m
+1928,doll_2.95 b,doll_50.25 b,doll_5.49 b,doll_196.2 m
+1929,doll_2.9 b,doll_14.2 b,doll_3.35 b,doll_1.42 b
+1930,doll_16.82 b,doll_3.39 b,doll_501 m,doll_-23.8 m
+1931,doll_4.58 b,doll_26.5 b,doll_8.96 b,doll_563.4 m
+1932,doll_6.03 b,doll_14.63 b,doll_10.21 b,doll_734 m
+1933,doll_2.79 b,doll_4.25 b,doll_20.48 b,doll_531.2 m
+1934,doll_1.35 b,doll_3.77 b,doll_24.07 b,doll_478.1 m
+1935,doll_1.91 b,doll_6.32 b,doll_24.06 b,doll_454.6 m
+1936,doll_825 m,doll_50.03 b,doll_5.57 b,doll_270 m
+1937,doll_16.67 b,doll_12.76 b,doll_4.33 b,doll_256 m
+1938,doll_652 m,doll_49.45 b,doll_383 m,doll_94.6 m
+1939,doll_2.15 b,doll_3.33 b,doll_16.59 b,doll_597.8 m
+1940,doll_8.64 b,doll_23.04 b,doll_3.79 b,doll_357 m
+1941,doll_3.33 b,doll_10.97 b,doll_23.5 b,doll_123.7 m
+1942,doll_0 m,doll_1.36 b,doll_2.43 b,doll_1.5 b
+1943,doll_3.56 b,doll_6.26 b,doll_15.82 b,doll_616 m
+1944,doll_5.63 b,doll_33.03 b,doll_8.76 b,doll_-7.96 b
+1945,doll_2.34 b,doll_49.11 b,doll_4.76 b,doll_449.5 m
+1946,doll_6.46 b,doll_2.95 b,doll_12.45 b,doll_598.6 m
+1947,doll_7.53 b,doll_20.63 b,doll_5.8 b,doll_598.6 m
+1948,doll_3.65 b,doll_22.26 b,doll_2.77 b,doll_801 m
+1949,doll_1.9 b,doll_15.26 b,doll_18.59 b,doll_504.8 m
+1950,doll_4.25 b,doll_11.69 b,doll_23.38 b,doll_280.5 m
+1951,doll_15.13 b,doll_11.57 b,doll_2.47 b,doll_514.9 m
+1952,doll_16.44 b,doll_8.71 b,doll_6.4 b,doll_340 m
+1953,doll_12.48 b,doll_16.22 b,doll_5.68 b,doll_394.2 m
+1954,doll_2.84 b,doll_3.15 b,doll_3.33 b,doll_1.47 b
+1955,doll_2.27 b,doll_5.1 b,doll_16.18 b,doll_603.9 m
+1956,doll_700 m,doll_48.35 b,doll_677 m,doll_53.5 m
+1957,doll_3.7 b,doll_6.61 b,doll_20.58 b,doll_522 m
+1958,doll_8.55 b,doll_22.96 b,doll_5.55 b,doll_346.7 m
+1959,doll_2.26 b,doll_3.83 b,doll_4.39 b,doll_1.47 b
+1960,doll_2.71 b,doll_2.54 b,doll_23.04 b,doll_429.2 m
+1961,doll_6.58 b,doll_10.14 b,doll_7.16 b,doll_1.01 b
+1962,doll_2.54 b,doll_48.2 b,doll_4.18 b,doll_272.8 m
+1963,doll_16.21 b,doll_9.3 b,doll_698 m,doll_-179.2 m
+1964,doll_7.87 b,doll_16.2 b,doll_5.07 b,doll_685.8 m
+1965,doll_8.11 b,doll_15.92 b,doll_1.04 b,doll_674 m
+1966,doll_9.33 b,doll_21.01 b,doll_4.08 b,doll_367.3 m
+1967,doll_8.38 b,doll_5.58 b,doll_12.05 b,doll_406 m
+1968,doll_1.38 b,doll_32.96 b,doll_2.46 b,doll_587 m
+1969,doll_1.25 b,doll_47.67 b,doll_4.89 b,doll_195.2 m
+1970,doll_16.13 b,doll_10.38 b,doll_6.93 b,doll_433.3 m
+1971,doll_535 m,doll_47.63 b,doll_465 m,doll_82.2 m
+1972,doll_1.32 b,doll_39.4 b,doll_6.26 b,doll_531 m
+1973,doll_1.92 b,doll_47.6 b,doll_1.05 b,doll_261.3 m
+1974,doll_10.24 b,doll_10.46 b,doll_4.83 b,doll_656.6 m
+1975,doll_16.08 b,doll_6.44 b,doll_5.68 b,doll_420.3 m
+1976,doll_2 b,doll_47.44 b,doll_1.41 b,doll_426 m
+1977,doll_6.51 b,doll_7.93 b,doll_8.7 b,doll_836.3 m
+1978,doll_5.79 b,doll_4.16 b,doll_11.01 b,doll_761.6 m
+1979,doll_3.31 b,doll_5.17 b,doll_12.77 b,doll_702.7 m
+1980,doll_16.04 b,doll_6.27 b,doll_1.98 b,doll_283.7 m
+1981,doll_13.71 b,doll_5.75 b,doll_2.86 b,doll_533.6 m
+1982,doll_1.11 b,doll_4.84 b,doll_22.41 b,doll_-532.6 m
+1983,doll_11.95 b,doll_16.49 b,doll_2.53 b,doll_160.2 m
+1984,doll_4.2 b,doll_9.7 b,doll_22.39 b,doll_-48.9 m
+1985,doll_2.15 b,doll_1.78 b,doll_12.43 b,doll_724.2 m
+1986,doll_2.84 b,doll_13 b,doll_22.29 b,doll_-949.9 m
+1987,doll_1.82 b,doll_5.45 b,doll_5.17 b,doll_1.42 b
+1988,doll_1.79 b,doll_46.25 b,doll_2.32 b,doll_225.1 m
+1989,doll_6.36 b,doll_33.38 b,doll_2.72 b,doll_16.7 m
+1990,doll_8.79 b,doll_4.46 b,doll_1.37 b,doll_731.6 m
+1991,doll_2.98 b,doll_5.06 b,doll_22.04 b,doll_277.7 m
+1992,doll_336 m,doll_12.46 b,doll_5.25 b,doll_1.41 b
+1993,doll_7.93 b,doll_11.09 b,doll_12.46 b,doll_337.7 m
+1994,doll_6.03 b,doll_6.72 b,doll_3.16 b,doll_1.14 b
+1995,doll_37 m,doll_166 m,doll_1.14 b,doll_1.41 b
+1996,doll_3.52 b,doll_5.71 b,doll_6.4 b,doll_1.41 b
+1997,doll_15.72 b,doll_12.11 b,doll_1.96 b,doll_53.1 m
+1998,doll_4.41 b,doll_7.64 b,doll_9.52 b,doll_931.3 m
+1999,doll_2.27 b,doll_13.49 b,doll_21.71 b,doll_375.7 m
+2000,doll_276.09 b,,doll_741.48 b,
+2001,doll_208.13 b,,doll_214.43 b,
+2002,doll_400.38 b,,"doll_2,292.08 b",
+2003,doll_124.54 b,,doll_374.45 b,
+2004,doll_202.07 b,,doll_181.32 b,
+2005,doll_469.82 b,,"doll_1,468.4 b",
+2006,doll_378.7 b,,"doll_2,640.32 b",
+2007,doll_181.42 b,,doll_133.38 b,
+2008,doll_96.83 b,,doll_303.1 b,
+2009,doll_281.75 b,,doll_237.73 b,
+2010,doll_257.49 b,,"doll_1,581.72 b",
+2011,doll_184.9 b,,"doll_2,054.37 b",
+2012,doll_152.43 b,,doll_117.83 b,
+2013,doll_244.16 b,,doll_367.26 b,
+2014,doll_280.51 b,,doll_359.73 b,
+2015,doll_261.76 b,,doll_211.1 b,
+2016,doll_181.37 b,,doll_121.69 b,
+2017,doll_84.12 b,,doll_176.77 b,
+2018,doll_134.35 b,,doll_218.02 b,
+2019,doll_163.03 b,,doll_141.79 b,
+2020,doll_380.31 b,,doll_142.3 b,
+2021,doll_297.55 b,,doll_490.15 b,
+2022,doll_572.75 b,,doll_431.64 b,
+2023,doll_71.07 b,,doll_167.32 b,
+2024,doll_295.73 b,,doll_82.4 b,
+2025,doll_156.29 b,,doll_316.23 b,
+2026,doll_79.94 b,,doll_101.48 b,
+2027,doll_86.86 b,,doll_414.28 b,
+2028,doll_185.12 b,,doll_127.32 b,
+2029,doll_77.61 b,,doll_125.53 b,
+2030,doll_131.49 b,,doll_147.05 b,
+2031,doll_116.39 b,,doll_205.72 b,
+2032,doll_129.76 b,,doll_237.78 b,
+2033,doll_117.93 b,,doll_499.86 b,
+2034,doll_138.62 b,,doll_96.42 b,
+2035,doll_60.22 b,,doll_150.95 b,
+2036,doll_62.81 b,,doll_109.32 b,
+2037,doll_59.33 b,,doll_135.3 b,
+2038,doll_127.42 b,,doll_68.76 b,
+2039,doll_94.88 b,,doll_477.38 b,
+2040,doll_178.94 b,,doll_74.62 b,
+2041,doll_291.98 b,,doll_133.53 b,
+2042,doll_81.49 b,,doll_271.83 b,
+2043,doll_96.86 b,,doll_71.69 b,
+2044,doll_384.82 b,,doll_80.81 b,
+2045,doll_45.24 b,,doll_147.92 b,
+2046,doll_95.25 b,,doll_360.01 b,
+2047,doll_145.19 b,,doll_65.75 b,
+2048,doll_117.3 b,,doll_63.56 b,
+2049,doll_158.01 b,,doll_98.38 b,
+2050,doll_79.02 b,,doll_190.29 b,
+2051,doll_38.51 b,,doll_132.99 b,
+2052,doll_110.39 b,,doll_103.98 b,
+2053,doll_86.85 b,,doll_228.63 b,
+2054,doll_60.53 b,,doll_68.59 b,
+2055,doll_89.9 b,,doll_108.84 b,
+2056,doll_78.22 b,,doll_58.21 b,
+2057,doll_48.28 b,,doll_75.75 b,
+2058,doll_61.47 b,,doll_494.6 b,
+2059,doll_136.34 b,,doll_60.8 b,
+2060,doll_75.9 b,,doll_346.8 b,
+2061,doll_76 b,,doll_52.82 b,
+2062,doll_79.62 b,,doll_386.53 b,
+2063,doll_131.48 b,,doll_55.98 b,
+2064,doll_83.89 b,,doll_83.98 b,
+2065,doll_128.59 b,,doll_91.72 b,
+2066,doll_56.2 b,,doll_273.76 b,
+2067,doll_51.63 b,,doll_200.73 b,
+2068,doll_127 b,,doll_57.89 b,
+2069,doll_88.37 b,,doll_117.87 b,
+2070,doll_130.5 b,,doll_43.02 b,
+2071,doll_68.69 b,,doll_308.14 b,
+2072,doll_45.16 b,,doll_120.19 b,
+2073,doll_71.08 b,,doll_57.39 b,
+2074,doll_65.55 b,,doll_178.07 b,
+2075,doll_151.16 b,,doll_310.13 b,
+2076,doll_46.29 b,,doll_136.72 b,
+2077,doll_76.46 b,,doll_102.23 b,
+2078,doll_176.61 b,,doll_44.26 b,
+2079,doll_69.58 b,,doll_69.22 b,
+2080,doll_111.4 b,,doll_48.79 b,
+2081,doll_63.46 b,,doll_117.78 b,
+2082,doll_78.82 b,,doll_80.94 b,
+2083,doll_174.27 b,,doll_81.2 b,
+2084,doll_70.93 b,,doll_43.6 b,
+2085,doll_79.47 b,,doll_238.13 b,
+2086,doll_50.37 b,,doll_213.83 b,
+2087,doll_144.35 b,,doll_121.25 b,
+2088,doll_30.35 b,,doll_80.58 b,
+2089,doll_52.06 b,,doll_48.73 b,
+2090,doll_203.41 b,,doll_79.9 b,
+2091,doll_51.55 b,,doll_213.36 b,
+2092,doll_54.33 b,,doll_118.52 b,
+2093,doll_72.98 b,,doll_215.33 b,
+2094,doll_40.95 b,,doll_87.31 b,
+2095,doll_91.21 b,,doll_31.96 b,
+2096,doll_58.48 b,,doll_41.34 b,
+2097,doll_67.25 b,,doll_124.33 b,
+2098,doll_44.63 b,,doll_136.86 b,
+2099,doll_97.2 b,,doll_163.03 b,
+2100,doll_35.32 b,,doll_97.49 b,
+2101,doll_35.22 b,,doll_56.17 b,
+2102,doll_130.16 b,,doll_44.99 b,
+2103,doll_146.94 b,,doll_50.87 b,
+2104,doll_205.79 b,,doll_36.91 b,
+2105,doll_54.42 b,,doll_58.39 b,
+2106,doll_21.85 b,,doll_130.34 b,
+2107,doll_54.77 b,,doll_36.6 b,
+2108,doll_64.36 b,,doll_149.76 b,
+2109,doll_99.41 b,,doll_65.84 b,
+2110,doll_90.5 b,,doll_52.28 b,
+2111,doll_32.12 b,,doll_54.88 b,
+2112,doll_46.38 b,,doll_160.98 b,
+2113,doll_38.73 b,,doll_282.86 b,
+2114,doll_41.83 b,,doll_203.34 b,
+2115,doll_57.37 b,,doll_33.98 b,
+2116,doll_26.53 b,,doll_72.74 b,
+2117,doll_54.4 b,,doll_82.03 b,
+2118,doll_99.83 b,,doll_35.09 b,
+2119,doll_39.21 b,,doll_219.71 b,
+2120,doll_73.61 b,,doll_31.42 b,
+2121,doll_61.64 b,,doll_88.6 b,
+2122,doll_210.22 b,,doll_253.39 b,
+2123,doll_214.6 b,,doll_49.04 b,
+2124,doll_62 b,,doll_116.16 b,
+2125,doll_51.68 b,,doll_97.92 b,
+2126,doll_35.5 b,,doll_42.33 b,
+2127,doll_46.06 b,,doll_124.43 b,
+2128,doll_46.92 b,,doll_112.09 b,
+2129,doll_47.84 b,,doll_41.42 b,
+2130,doll_47.17 b,,doll_39.76 b,
+2131,doll_23.12 b,,doll_75.48 b,
+2132,doll_92.9 b,,doll_51.78 b,
+2133,doll_37.77 b,,doll_62.6 b,
+2134,doll_44.51 b,,doll_210.98 b,
+2135,doll_46.23 b,,doll_70.26 b,
+2136,doll_52.02 b,,doll_62.81 b,
+2137,doll_35.96 b,,doll_52.89 b,
+2138,doll_50.98 b,,doll_115.91 b,
+2139,doll_108.31 b,,doll_40.83 b,
+2140,doll_107.99 b,,doll_45.95 b,
+2141,doll_18.98 b,,doll_127.6 b,
+2142,doll_23.19 b,,doll_67.64 b,
+2143,doll_37.55 b,,doll_90.92 b,
+2144,doll_91.9 b,,doll_45.78 b,
+2145,doll_49.17 b,,doll_74.12 b,
+2146,doll_102.7 b,,doll_37.61 b,
+2147,doll_56.99 b,,doll_25.26 b,
+2148,doll_25.48 b,,doll_436.49 b,
+2149,doll_106 b,,doll_111.76 b,
+2150,doll_41.98 b,,doll_35.28 b,
+2151,doll_53.82 b,,"doll_1,038.73 b",
+2152,doll_44.45 b,,doll_123.81 b,
+2153,doll_22.51 b,,doll_98.28 b,
+2154,doll_30.17 b,,doll_31.55 b,
+2155,doll_84.88 b,,doll_35.48 b,
+2156,doll_103.58 b,,doll_26.56 b,
+2157,doll_135.95 b,,doll_39.34 b,
+2158,doll_30.28 b,,doll_189.4 b,
+2159,doll_102.13 b,,doll_31.36 b,
+2160,doll_61.95 b,,doll_51.41 b,
+2161,doll_96.25 b,,doll_130.37 b,
+2162,doll_91.55 b,,doll_53.19 b,
+2163,doll_96.62 b,,doll_55.04 b,
+2164,doll_19.93 b,,doll_71.9 b,
+2165,doll_28.5 b,,doll_239.64 b,
+2166,doll_125.11 b,,doll_32.17 b,
+2167,doll_31.79 b,,doll_144.62 b,
+2168,doll_33.18 b,,doll_124.02 b,
+2169,doll_37.55 b,,doll_61.31 b,
+2170,doll_68.4 b,,doll_31.5 b,
+2171,doll_65.75 b,,doll_118.82 b,
+2172,doll_20.3 b,,doll_100.8 b,
+2173,doll_20.46 b,,doll_61.42 b,
+2174,doll_25.1 b,,doll_87.98 b,
+2175,doll_106.84 b,,doll_35.64 b,
+2176,doll_59.08 b,,doll_56.87 b,
+2177,doll_50.57 b,,doll_35.19 b,
+2178,doll_48.37 b,,doll_67.84 b,
+2179,doll_91.44 b,,doll_28.52 b,
+2180,doll_41.52 b,,doll_59.44 b,
+2181,doll_28.33 b,,doll_43.16 b,
+2182,doll_21.49 b,,doll_39.03 b,
+2183,doll_56.7 b,,doll_196.86 b,
+2184,doll_34.39 b,,doll_130.67 b,
+2185,doll_26.76 b,,doll_31.38 b,
+2186,doll_30.79 b,,doll_157.26 b,
+2187,doll_76.65 b,,doll_28.98 b,
+2188,doll_18.66 b,,doll_51.21 b,
+2189,doll_42.94 b,,doll_32.81 b,
+2190,doll_31.17 b,,doll_77.51 b,
+2191,doll_18.38 b,,doll_56.23 b,
+2192,doll_33.23 b,,doll_30.63 b,
+2193,doll_68.15 b,,doll_35.23 b,
+2194,doll_59.72 b,,doll_63.62 b,
+2195,doll_58.35 b,,doll_50.35 b,
+2196,doll_46.42 b,,doll_29.44 b,
+2197,doll_71.42 b,,doll_27.92 b,
+2198,doll_15.76 b,,doll_77.24 b,
+2199,doll_34.46 b,,doll_28.9 b,
+2200,doll_36.04 b,,doll_149.68 b,
+2201,doll_38.16 b,,doll_195.52 b,
+2202,doll_50.59 b,,doll_36.45 b,
+2203,doll_121.42 b,,doll_28.87 b,
+2204,doll_21.89 b,,doll_67.9 b,
+2205,doll_42.38 b,,doll_20.11 b,
+2206,doll_27.37 b,,doll_78.17 b,
+2207,doll_68.07 b,,doll_22.69 b,
+2208,doll_26.91 b,,doll_489.83 b,
+2209,doll_25.99 b,,doll_133.63 b,
+2210,doll_22.66 b,,doll_147.23 b,
+2211,doll_66.73 b,,doll_19.9 b,
+2212,doll_46.89 b,,doll_203.13 b,
+2213,doll_31.55 b,,doll_45.32 b,
+2214,doll_31.51 b,,doll_159.18 b,
+2215,doll_25.56 b,,doll_100.22 b,
+2216,doll_33.61 b,,doll_32.45 b,
+2217,doll_22.89 b,,doll_39.71 b,
+2218,doll_50.6 b,,doll_60.55 b,
+2219,doll_35.31 b,,doll_41.54 b,
+2220,doll_28.32 b,,doll_265.45 b,
+2221,doll_28.72 b,,doll_89.98 b,
+2222,doll_23.22 b,,doll_185.03 b,
+2223,doll_74.08 b,,doll_98.13 b,
+2224,doll_35.57 b,,doll_19.37 b,
+2225,doll_34.16 b,,doll_85.36 b,
+2226,doll_35.35 b,,doll_84.9 b,
+2227,doll_22.11 b,,doll_41.15 b,
+2228,doll_66.28 b,,doll_28.62 b,
+2229,doll_23.23 b,,doll_80.48 b,
+2230,doll_36.7 b,,doll_24.54 b,
+2231,doll_70.55 b,,doll_31.34 b,
+2232,doll_36.13 b,,doll_27.91 b,
+2233,doll_23.97 b,,doll_74.27 b,
+2234,doll_29.82 b,,doll_30.71 b,
+2235,doll_35.67 b,,doll_69.84 b,
+2236,doll_85.26 b,,doll_51.85 b,
+2237,doll_119.78 b,,doll_48.64 b,
+2238,doll_50.08 b,,doll_16.74 b,
+2239,doll_62.51 b,,doll_19.63 b,
+2240,doll_30.4 b,,doll_95.68 b,
+2241,doll_48.07 b,,doll_63.37 b,
+2242,doll_34.8 b,,doll_30.05 b,
+2243,doll_12.4 b,,doll_63.03 b,
+2244,doll_51.77 b,,doll_25.8 b,
+2245,doll_108.41 b,,doll_19.1 b,
+2246,doll_17.86 b,,doll_30.22 b,
+2247,doll_39.27 b,,doll_47.68 b,
+2248,doll_84.09 b,,doll_56.34 b,
+2249,doll_38.47 b,,doll_66.42 b,
+2250,doll_57.93 b,,doll_20.47 b,
+2251,doll_14.2 b,,doll_59.09 b,
+2252,doll_52.1 b,,doll_70.06 b,
+2253,doll_19.02 b,,doll_30.6 b,
+2254,doll_81.13 b,,doll_15.65 b,
+2255,doll_23.74 b,,doll_145.27 b,
+2256,doll_33.86 b,,doll_19.29 b,
+2257,doll_166.46 b,,doll_15.36 b,
+2258,doll_64.98 b,,doll_38.75 b,
+2259,doll_13.56 b,,doll_40.26 b,
+2260,doll_78.47 b,,doll_39.19 b,
+2261,doll_31.21 b,,doll_46.27 b,
+2262,doll_26.49 b,,doll_169.72 b,
+2263,doll_27.58 b,,doll_81.85 b,
+2264,doll_49.49 b,,doll_45.14 b,
+2265,doll_16.09 b,,doll_35.68 b,
+2266,doll_18.88 b,,doll_343.27 b,
+2267,doll_29.54 b,,doll_20.7 b,
+2268,doll_125.98 b,,doll_49.2 b,
+2269,doll_18.48 b,,doll_52.3 b,
+2270,doll_24.31 b,,doll_60.97 b,
+2271,doll_23.27 b,,doll_82.53 b,
+2272,doll_14.64 b,,doll_26.82 b,
+2273,doll_28.93 b,,doll_61.35 b,
+2274,doll_43.36 b,,doll_34.7 b,
+2275,doll_25.96 b,,doll_53.05 b,
+2276,doll_20.77 b,,doll_54.88 b,
+2277,doll_257.01 b,,doll_47.66 b,
+2278,doll_29.27 b,,doll_18.17 b,
+2279,doll_20.65 b,,doll_247.8 b,
+2280,doll_27.63 b,,doll_57.39 b,
+2281,doll_12.81 b,,doll_63.51 b,
+2282,doll_61.01 b,,doll_25.82 b,
+2283,doll_52.2 b,,doll_31.17 b,
+2284,doll_22.38 b,,doll_252.91 b,
+2285,doll_66.66 b,,doll_18.03 b,
+2286,doll_19 b,,doll_116.05 b,
+2287,doll_89.36 b,,doll_30.57 b,
+2288,doll_90.1 b,,doll_14.37 b,
+2289,doll_13.96 b,,doll_68.82 b,
+2290,doll_137.89 b,,doll_41.23 b,
+2291,doll_55.52 b,,doll_23.35 b,
+2292,doll_14.6 b,,doll_343.32 b,
+2293,doll_50.91 b,,doll_37.03 b,
+2294,doll_13.71 b,,doll_37.67 b,
+2295,doll_23.43 b,,doll_36.07 b,
+2296,doll_46.15 b,,doll_34.94 b,
+2297,doll_20.14 b,,doll_148.42 b,
+2298,doll_27.79 b,,doll_21.62 b,
+2299,doll_221.1 b,,doll_33.25 b,
+2300,doll_23.43 b,,doll_79.45 b,
+2301,doll_32.57 b,,doll_68.15 b,
+2302,doll_30.36 b,,doll_89.63 b,
+2303,doll_39.96 b,,doll_43.29 b,
+2304,doll_10.15 b,,doll_65.71 b,
+2305,doll_48.55 b,,doll_73.7 b,
+2306,doll_14.81 b,,doll_29.5 b,
+2307,doll_84.17 b,,doll_25.89 b,
+2308,doll_33.78 b,,doll_23.25 b,
+2309,doll_15.47 b,,doll_132.17 b,
+2310,doll_16.62 b,,doll_50.58 b,
+2311,doll_11.21 b,,doll_55.44 b,
+2312,doll_72.32 b,,doll_19.7 b,
+2313,doll_46 b,,doll_24.7 b,
+2314,doll_19.78 b,,doll_67.97 b,
+2315,doll_51.78 b,,doll_16.12 b,
+2316,doll_15.7 b,,doll_93.89 b,
+2317,doll_111.7 b,,doll_40.23 b,
+2318,doll_49.52 b,,doll_33.74 b,
+2319,doll_58.8 b,,doll_20.8 b,
+2320,doll_48.22 b,,doll_20.28 b,
+2321,doll_29.35 b,,doll_30.19 b,
+2322,doll_21.11 b,,doll_100.66 b,
+2323,doll_24.15 b,,doll_99.65 b,
+2324,doll_47 b,,doll_22.61 b,
+2325,doll_37.21 b,,doll_41.33 b,
+2326,doll_8.63 b,,doll_86.46 b,
+2327,doll_19.81 b,,doll_69.46 b,
+2328,doll_20.86 b,,doll_70.75 b,
+2329,doll_18.49 b,,doll_29.83 b,
+2330,doll_28.65 b,,doll_37.97 b,
+2331,doll_57.54 b,,doll_14.92 b,
+2332,doll_37.26 b,,doll_30.55 b,
+2333,doll_12.8 b,,doll_31.69 b,
+2334,doll_58.66 b,,doll_46.65 b,
+2335,doll_26.38 b,,doll_13.28 b,
+2336,doll_22.38 b,,doll_15.72 b,
+2337,doll_100.33 b,,doll_880 m,
+2338,doll_44.26 b,,doll_20.43 b,
+2339,doll_20.33 b,,doll_85.88 b,
+2340,doll_13.89 b,,doll_30.97 b,
+2341,doll_19.93 b,,doll_72.63 b,
+2342,doll_65.97 b,,doll_20.98 b,
+2343,doll_41.89 b,,doll_16.51 b,
+2344,doll_22.73 b,,doll_21.71 b,
+2345,doll_11.74 b,,doll_32.19 b,
+2346,doll_8.25 b,,doll_69.08 b,
+2347,doll_18.7 b,,doll_51.83 b,
+2348,doll_23.67 b,,doll_58.86 b,
+2349,doll_18.34 b,,doll_159.94 b,
+2350,doll_12.77 b,,doll_50.14 b,
+2351,doll_18.88 b,,doll_19.69 b,
+2352,doll_31 b,,doll_31.77 b,
+2353,doll_19.38 b,,doll_15.09 b,
+2354,doll_28.59 b,,doll_20.13 b,
+2355,doll_17.9 b,,doll_17.05 b,
+2356,doll_16.65 b,,doll_34.51 b,
+2357,doll_27.88 b,,doll_27.82 b,
+2358,doll_72.2 b,,doll_16.53 b,
+2359,doll_34.22 b,,doll_56.92 b,
+2360,doll_26.04 b,,doll_52.89 b,
+2361,doll_65.84 b,,doll_20.86 b,
+2362,doll_62.24 b,,doll_488 m,
+2363,doll_27.86 b,,doll_20.48 b,
+2364,doll_21.16 b,,doll_30.53 b,
+2365,doll_37.48 b,,doll_13.6 b,
+2366,doll_8.89 b,,doll_37.99 b,
+2367,doll_50.83 b,,doll_15.05 b,
+2368,doll_114 b,,doll_42.19 b,
+2369,doll_13.12 b,,doll_75.34 b,
+2370,doll_24.8 b,,doll_14.7 b,
+2371,doll_20.93 b,,doll_47.37 b,
+2372,doll_157.66 b,,doll_8.69 b,
+2373,doll_18.4 b,,doll_56.56 b,
+2374,doll_38.84 b,,doll_34.61 b,
+2375,doll_26.05 b,,doll_26.78 b,
+2376,doll_16.13 b,,doll_193.1 b,
+2377,doll_22.39 b,,doll_23.65 b,
+2378,doll_11.54 b,,doll_26.04 b,
+2379,doll_6.74 b,,doll_119.85 b,
+2380,doll_70.28 b,,doll_16.34 b,
+2381,doll_17.2 b,,doll_57.46 b,
+2382,doll_16.23 b,,doll_63.16 b,
+2383,doll_16.07 b,,doll_74.68 b,
+2384,doll_90.31 b,,doll_11.38 b,
+2385,doll_25.73 b,,doll_172.79 b,
+2386,doll_35.67 b,,doll_13.91 b,
+2387,doll_42.02 b,,doll_16.24 b,
+2388,doll_23.54 b,,doll_19.73 b,
+2389,doll_15.94 b,,doll_14.76 b,
+2390,doll_9.36 b,,doll_119.49 b,
+2391,doll_17.87 b,,doll_57.38 b,
+2392,doll_10.26 b,,doll_34.81 b,
+2393,doll_22.43 b,,doll_38.63 b,
+2394,doll_15.9 b,,doll_27.29 b,
+2395,doll_23.41 b,,doll_19.42 b,
+2396,doll_35.16 b,,doll_33.26 b,
+2397,doll_19.63 b,,doll_58.35 b,
+2398,doll_85.9 b,,doll_11.99 b,
+2399,doll_24.19 b,,doll_44.22 b,
+2400,doll_64.99 b,,doll_17.48 b,
+2401,doll_16.91 b,,doll_60.71 b,
+2402,doll_35.86 b,,doll_15.89 b,
+2403,doll_11.55 b,,doll_86.33 b,
+2404,doll_17.11 b,,doll_93.79 b,
+2405,doll_26.24 b,,doll_29.66 b,
+2406,doll_40.34 b,,doll_22.76 b,
+2407,doll_79.17 b,,doll_16.36 b,
+2408,doll_31.07 b,,doll_20.42 b,
+2409,doll_25.93 b,,doll_23.41 b,
+2410,doll_26.85 b,,doll_30.15 b,
+2411,doll_14.52 b,,doll_83.82 b,
+2412,doll_28.84 b,,doll_23.74 b,
+2413,doll_14.93 b,,doll_19.63 b,
+2414,doll_15.4 b,,doll_38.07 b,
+2415,doll_84.53 b,,doll_9.36 b,
+2416,doll_28.99 b,,doll_28.86 b,
+2417,doll_26.88 b,,doll_46.78 b,
+2418,doll_26.33 b,,doll_11.76 b,
+2419,doll_19.31 b,,doll_32.49 b,
+2420,doll_26.95 b,,doll_28.6 b,
+2421,doll_31.98 b,,doll_24.66 b,
+2422,doll_28.42 b,,doll_22.75 b,
+2423,doll_12.17 b,,doll_18.84 b,
+2424,doll_20.28 b,,doll_26.39 b,
+2425,doll_12.68 b,,doll_52.47 b,
+2426,doll_8.52 b,,doll_83.05 b,
+2427,doll_7.79 b,,doll_34.31 b,
+2428,doll_18.55 b,,doll_55.6 b,
+2429,doll_22.66 b,,doll_20.62 b,
+2430,doll_62.29 b,,doll_104.45 b,
+2431,doll_18.63 b,,doll_43.66 b,
+2432,doll_11.41 b,,doll_31.32 b,
+2433,doll_9 b,,doll_24.82 b,
+2434,doll_17.77 b,,doll_94.7 b,
+2435,doll_33.43 b,,doll_20.19 b,
+2436,doll_23.57 b,,doll_13.28 b,
+2437,doll_25.1 b,,doll_41.08 b,
+2438,doll_28.13 b,,doll_22.85 b,
+2439,doll_11.14 b,,doll_67.06 b,
+2440,doll_14.26 b,,doll_18.25 b,
+2441,doll_13.06 b,,doll_53.11 b,
+2442,doll_132.85 b,,doll_15.64 b,
+2443,doll_14.77 b,,doll_37.88 b,
+2444,doll_28.89 b,,doll_25.28 b,
+2445,doll_17.81 b,,doll_47.86 b,
+2446,doll_7.01 b,,doll_40.31 b,
+2447,doll_15.9 b,,doll_18.06 b,
+2448,doll_10.48 b,,doll_55.95 b,
+2449,doll_17.81 b,,doll_37.75 b,
+2450,doll_26.17 b,,doll_29.75 b,
+2451,doll_17.93 b,,doll_65.39 b,
+2452,doll_23.72 b,,doll_28.33 b,
+2453,doll_17.66 b,,doll_46.45 b,
+2454,doll_24.8 b,,doll_62.03 b,
+2455,doll_30.17 b,,doll_21.93 b,
+2456,doll_13.37 b,,doll_40.44 b,
+2457,doll_15.65 b,,doll_41.92 b,
+2458,doll_11.37 b,,doll_19.23 b,
+2459,doll_69.53 b,,doll_13.04 b,
+2460,doll_23.32 b,,doll_18.92 b,
+2461,doll_38.68 b,,doll_204.56 b,
+2462,doll_38.49 b,,doll_3.18 b,
+2463,doll_70.4 b,,doll_2.78 b,
+2464,doll_29.54 b,,doll_25.7 b,
+2465,doll_8.6 b,,doll_26.14 b,
+2466,doll_38.86 b,,doll_15.82 b,
+2467,doll_147.63 b,,doll_68.56 b,
+2468,doll_16.61 b,,doll_43.42 b,
+2469,doll_42.58 b,,doll_10.55 b,
+2470,doll_8.27 b,,doll_26.35 b,
+2471,doll_10.18 b,,doll_24.98 b,
+2472,doll_87.81 b,,doll_15.77 b,
+2473,doll_32.83 b,,doll_29.14 b,
+2474,doll_7.55 b,,doll_24.72 b,
+2475,doll_19.26 b,,doll_10.48 b,
+2476,doll_34.44 b,,doll_8.91 b,
+2477,doll_11.94 b,,doll_42.24 b,
+2478,doll_28.97 b,,doll_38.65 b,
+2479,doll_51.73 b,,doll_11.01 b,
+2480,doll_53.63 b,,doll_46.36 b,
+2481,doll_15.24 b,,doll_58.01 b,
+2482,doll_13.75 b,,doll_11.47 b,
+2483,doll_36.42 b,,doll_15.65 b,
+2484,doll_17 b,,doll_20.32 b,
+2485,doll_9.17 b,,doll_24.74 b,
+2486,doll_4.69 b,,doll_80.12 b,
+2487,doll_12.44 b,,doll_42.24 b,
+2488,doll_11.58 b,,doll_54.16 b,
+2489,doll_9.53 b,,doll_26.88 b,
+2490,doll_27.38 b,,doll_27.29 b,
+2491,doll_23.54 b,,doll_29.79 b,
+2492,doll_13.67 b,,doll_34.18 b,
+2493,doll_18.26 b,,doll_20.04 b,
+2494,doll_17.52 b,,doll_26.68 b,
+2495,doll_24.51 b,,doll_22.06 b,
+2496,doll_22.28 b,,doll_24.76 b,
+2497,doll_70.56 b,,doll_11.89 b,
+2498,doll_19.27 b,,doll_51.27 b,
+2499,doll_9.27 b,,doll_52.66 b,
+2500,doll_6.55 b,,doll_32.71 b,
+2501,doll_45.13 b,,doll_21.03 b,
+2502,doll_19.95 b,,doll_64.22 b,
+2503,doll_22.57 b,,doll_22.93 b,
+2504,doll_11.41 b,,doll_125.37 b,
+2505,doll_16.72 b,,doll_64.61 b,
+2506,doll_11.43 b,,doll_13.97 b,
+2507,doll_19.18 b,,doll_11.2 b,
+2508,doll_20.61 b,,doll_35.55 b,
+2509,doll_17.88 b,,doll_16.2 b,
+2510,doll_35.86 b,,doll_11.14 b,
+2511,doll_39.91 b,,doll_14.14 b,
+2512,doll_21.3 b,,doll_3.15 b,
+2513,doll_16.28 b,,doll_38.94 b,
+2514,doll_20.53 b,,doll_31.13 b,
+2515,doll_10.84 b,,doll_13.79 b,
+2516,doll_13.59 b,,doll_52.53 b,
+2517,doll_6.1 b,,doll_67.62 b,
+2518,doll_32.85 b,,doll_21.5 b,
+2519,doll_14.63 b,,doll_24.88 b,
+2520,doll_10.99 b,,doll_49.11 b,
+2521,doll_24.02 b,,doll_28.3 b,
+2522,doll_10.57 b,,doll_42.73 b,
+2523,doll_21.46 b,,doll_35.59 b,
+2524,doll_4.83 b,,doll_126.34 b,
+2525,doll_19.14 b,,doll_28.56 b,
+2526,doll_44.43 b,,doll_13.13 b,
+2527,doll_10.61 b,,doll_21.04 b,
+2528,doll_8.32 b,,doll_25.13 b,
+2529,doll_50.26 b,,doll_31.81 b,
+2530,doll_35.88 b,,doll_34.84 b,
+2531,doll_59.15 b,,doll_16.83 b,
+2532,doll_25.44 b,,doll_9.59 b,
+2533,doll_12.85 b,,doll_45.55 b,
+2534,doll_71.89 b,,doll_15.57 b,
+2535,doll_34.8 b,,doll_10.5 b,
+2536,doll_27.75 b,,doll_27.96 b,
+2537,doll_30.13 b,,doll_18.19 b,
+2538,doll_30.09 b,,doll_14.64 b,
+2539,doll_16.33 b,,doll_87.21 b,
+2540,doll_26.52 b,,doll_36.7 b,
+2541,doll_16.86 b,,doll_14.32 b,
+2542,doll_6.38 b,,doll_69.42 b,
+2543,doll_14.67 b,,doll_15.94 b,
+2544,doll_17.09 b,,doll_67.25 b,
+2545,doll_66.12 b,,doll_17.87 b,
+2546,doll_10.59 b,,doll_94.67 b,
+2547,doll_36.25 b,,doll_18.14 b,
+2548,doll_8.44 b,,doll_81.25 b,
+2549,doll_19.99 b,,doll_21.19 b,
+2550,doll_10.94 b,,doll_53.86 b,
+2551,doll_12.25 b,,doll_59.06 b,
+2552,doll_15.22 b,,doll_40.01 b,
+2553,doll_12.19 b,,doll_68.81 b,
+2554,doll_13.43 b,,doll_36.05 b,
+2555,doll_26.32 b,,doll_37.7 b,
+2556,doll_7.45 b,,doll_19.06 b,
+2557,doll_9.58 b,,doll_26.88 b,
+2558,doll_15.99 b,,doll_9 b,
+2559,doll_25.35 b,,doll_40.57 b,
+2560,doll_32.56 b,,doll_15.39 b,
+2561,doll_51.76 b,,doll_20.56 b,
+2562,doll_6.08 b,,doll_31.82 b,
+2563,doll_16.43 b,,doll_142.8 b,
+2564,doll_12.84 b,,doll_19.89 b,
+2565,doll_11.27 b,,doll_44.12 b,
+2566,doll_19.79 b,,doll_46.67 b,
+2567,doll_6.75 b,,doll_18.56 b,
+2568,doll_18.51 b,,doll_43.62 b,
+2569,doll_14.07 b,,doll_28.58 b,
+2570,doll_13.7 b,,doll_39.15 b,
+2571,doll_6.88 b,,doll_20.76 b,
+2572,doll_13.69 b,,doll_38.57 b,
+2573,doll_20.35 b,,doll_17.94 b,
+2574,doll_17.1 b,,doll_22.87 b,
+2575,doll_19.69 b,,doll_11.16 b,
+2576,doll_6.63 b,,doll_20.03 b,
+2577,doll_6.34 b,,doll_19.52 b,
+2578,doll_10.43 b,,doll_21.49 b,
+2579,doll_32.78 b,,doll_84.46 b,
+2580,doll_14.46 b,,doll_63.42 b,
+2581,doll_14.57 b,,doll_43.53 b,
+2582,doll_8.8 b,,doll_61.39 b,
+2583,doll_10.54 b,,doll_12.59 b,
+2584,doll_17.42 b,,doll_68.17 b,
+2585,doll_10.33 b,,doll_24.88 b,
+2586,doll_14.74 b,,doll_23.75 b,
+2587,doll_11.31 b,,doll_12.95 b,
+2588,doll_12.78 b,,doll_36.77 b,
+2589,doll_25.02 b,,doll_8.48 b,
+2590,doll_31.4 b,,doll_12.04 b,
+2591,doll_15.63 b,,doll_11.58 b,
+2592,doll_15.29 b,,doll_35.6 b,
+2593,doll_16.38 b,,doll_20.21 b,
+2594,doll_11.47 b,,doll_9.51 b,
+2595,doll_60.74 b,,doll_45.06 b,
+2596,doll_15.82 b,,doll_34.21 b,
+2597,doll_30.07 b,,doll_18.68 b,
+2598,doll_11.79 b,,doll_29.24 b,
+2599,doll_5.89 b,,doll_31.03 b,
+2600,doll_11.89 b,,doll_62.63 b,
+2601,doll_14.9 b,,doll_27.27 b,
+2602,doll_23.37 b,,doll_5.07 b,
+2603,doll_10.67 b,,doll_11.81 b,
+2604,doll_11.71 b,,doll_25.1 b,
+2605,doll_12.23 b,,doll_30.25 b,
+2606,doll_38 b,,doll_25.8 b,
+2607,doll_12.99 b,,doll_59.33 b,
+2608,doll_19.46 b,,doll_12.82 b,
+2609,doll_16.83 b,,doll_21.35 b,
+2610,doll_17.27 b,,doll_30.94 b,
+2611,doll_13.86 b,,doll_58.74 b,
+2612,doll_12.18 b,,doll_49.91 b,
+2613,doll_32.05 b,,doll_36.66 b,
+2614,doll_35.1 b,,doll_28.01 b,
+2615,doll_43.2 b,,doll_11.16 b,
+2616,doll_16.13 b,,doll_33.94 b,
+2617,doll_77.3 b,,doll_5.15 b,
+2618,doll_6.57 b,,doll_22.08 b,
+2619,doll_22.13 b,,doll_10.91 b,
+2620,doll_16.77 b,,doll_19.81 b,
+2621,doll_9.86 b,,doll_31.72 b,
+2622,doll_17.59 b,,doll_21.93 b,
+2623,doll_10.62 b,,doll_138.97 b,
+2624,doll_21.78 b,,doll_17.89 b,
+2625,doll_38.84 b,,doll_6.79 b,
+2626,doll_17.07 b,,doll_40.47 b,
+2627,doll_27.79 b,,doll_111.43 b,
+2628,doll_7.92 b,,doll_44.83 b,
+2629,doll_10.75 b,,doll_19.97 b,
+2630,doll_15.79 b,,doll_27.77 b,
+2631,doll_5.26 b,,doll_32.23 b,
+2632,doll_16.12 b,,doll_25.02 b,
+2633,doll_13.43 b,,doll_20.28 b,
+2634,doll_11.32 b,,doll_17.11 b,
+2635,doll_16.24 b,,doll_23.43 b,
+2636,doll_8.48 b,,doll_98.98 b,
+2637,doll_21.82 b,,doll_2.14 b,
+2638,doll_54.54 b,,doll_7.97 b,
+2639,doll_22.2 b,,doll_29.96 b,
+2640,doll_6.6 b,,doll_84.07 b,
+2641,doll_11.41 b,,doll_26.27 b,
+2642,doll_27.22 b,,doll_21.52 b,
+2643,doll_24.33 b,,doll_15.11 b,
+2644,doll_8.7 b,,doll_13.96 b,
+2645,doll_54.62 b,,doll_7.28 b,
+2646,doll_7.75 b,,doll_108.6 b,
+2647,doll_9.63 b,,doll_21.93 b,
+2648,doll_12.14 b,,doll_19.04 b,
+2649,doll_22.35 b,,doll_15.18 b,
+2650,doll_32.9 b,,doll_7.03 b,
+2651,doll_12.47 b,,doll_13.58 b,
+2652,doll_21.31 b,,doll_14.5 b,
+2653,doll_36.46 b,,doll_7.25 b,
+2654,doll_15.46 b,,doll_26.51 b,
+2655,doll_17.76 b,,doll_12.76 b,
+2656,doll_11.06 b,,doll_44.83 b,
+2657,doll_18.94 b,,doll_15.48 b,
+2658,doll_10.96 b,,doll_90.52 b,
+2659,doll_78.17 b,,doll_16.11 b,
+2660,doll_5.53 b,,doll_28.21 b,
+2661,doll_9.67 b,,doll_13.52 b,
+2662,doll_12.92 b,,doll_61.42 b,
+2663,doll_13.88 b,,doll_61.05 b,
+2664,doll_34.61 b,,doll_8.74 b,
+2665,doll_17.86 b,,doll_19.63 b,
+2666,doll_16.22 b,,doll_19.16 b,
+2667,doll_109.61 b,,doll_6.02 b,
+2668,doll_15.6 b,,doll_42.88 b,
+2669,doll_40.91 b,,doll_4.36 b,
+2670,doll_36.98 b,,doll_34.25 b,
+2671,doll_17.91 b,,doll_36.31 b,
+2672,doll_151 m,,doll_27.21 b,
+2673,doll_23.85 b,,doll_22.04 b,
+2674,doll_9.96 b,,doll_59.18 b,
+2675,doll_20.64 b,,doll_24.11 b,
+2676,doll_11.3 b,,doll_41.81 b,
+2677,doll_18.92 b,,doll_36.35 b,
+2678,doll_8.32 b,,doll_32.8 b,
+2679,doll_171.29 b,,doll_17.06 b,
+2680,doll_31.9 b,,doll_14.61 b,
+2681,doll_12.76 b,,doll_10.52 b,
+2682,doll_3.23 b,,doll_31.76 b,
+2683,doll_6.35 b,,doll_49.81 b,
+2684,doll_14.11 b,,doll_10.13 b,
+2685,doll_22.74 b,,doll_29.61 b,
+2686,doll_13.87 b,,doll_43.56 b,
+2687,doll_2.69 b,,doll_54.13 b,
+2688,doll_17.23 b,,doll_31.37 b,
+2689,doll_75.97 b,,doll_2.81 b,
+2690,doll_12.73 b,,doll_50.16 b,
+2691,doll_80.8 b,,doll_6.77 b,
+2692,doll_23.87 b,,doll_31.7 b,
+2693,doll_26.4 b,,doll_2.86 b,
+2694,doll_8.52 b,,doll_37.87 b,
+2695,doll_49.75 b,,doll_4.17 b,
+2696,doll_17.89 b,,doll_52.26 b,
+2697,doll_8.3 b,,doll_131.75 b,
+2698,doll_6.42 b,,doll_19.88 b,
+2699,doll_8.88 b,,doll_17.86 b,
+2700,doll_8.85 b,,doll_3.93 b,
+2701,doll_5.82 b,,doll_15.87 b,
+2702,doll_14.14 b,,doll_34.77 b,
+2703,doll_33.7 b,,doll_21.2 b,
+2704,doll_13.33 b,,doll_46.92 b,
+2705,doll_10.35 b,,doll_30.86 b,
+2706,doll_13.87 b,,doll_15.81 b,
+2707,doll_46.14 b,,doll_1.7 b,
+2708,doll_12.36 b,,doll_24.17 b,
+2709,doll_14.98 b,,doll_56.8 b,
+2710,doll_11.83 b,,doll_16.04 b,
+2711,doll_17.45 b,,doll_60.27 b,
+2712,doll_12.78 b,,doll_34.46 b,
+2713,doll_14.32 b,,doll_9.58 b,
+2714,doll_14.42 b,,doll_9.71 b,
+2715,doll_40.44 b,,doll_11.13 b,
+2716,doll_43.37 b,,doll_18.04 b,
+2717,doll_10.2 b,,doll_31.02 b,
+2718,doll_52.9 b,,doll_11.11 b,
+2719,doll_13.59 b,,doll_21.51 b,
+2720,doll_34.06 b,,doll_11.58 b,
+2721,doll_20.43 b,,doll_16.98 b,
+2722,doll_6.43 b,,doll_100.89 b,
+2723,doll_11.76 b,,doll_51.73 b,
+2724,doll_18.2 b,,doll_56.35 b,
+2725,doll_14.03 b,,doll_16.3 b,
+2726,doll_35.4 b,,doll_8.21 b,
+2727,doll_4.77 b,,doll_42.6 b,
+2728,doll_39.04 b,,doll_22.12 b,
+2729,doll_7.46 b,,doll_10.54 b,
+2730,doll_5.12 b,,doll_41.33 b,
+2731,doll_9.44 b,,doll_6.97 b,
+2732,doll_10.8 b,,doll_24.76 b,
+2733,doll_3.82 b,,doll_25.78 b,
+2734,doll_11.84 b,,doll_32.06 b,
+2735,doll_7.84 b,,doll_28.64 b,
+2736,doll_8.35 b,,doll_20.04 b,
+2737,doll_7.14 b,,doll_44.95 b,
+2738,doll_10.29 b,,doll_6.47 b,
+2739,doll_21.79 b,,doll_11.72 b,
+2740,doll_27.72 b,,doll_10.9 b,
+2741,doll_28.98 b,,doll_16.81 b,
+2742,doll_9.68 b,,doll_17.88 b,
+2743,doll_10.88 b,,doll_28.7 b,
+2744,doll_10.02 b,,doll_31.88 b,
+2745,doll_34.07 b,,doll_7.55 b,
+2746,doll_6.7 b,,doll_11.51 b,
+2747,doll_16.89 b,,doll_19.14 b,
+2748,doll_9.79 b,,doll_23.28 b,
+2749,doll_26.9 b,,doll_9.18 b,
+2750,doll_4.51 b,,doll_21.18 b,
+2751,doll_25.27 b,,doll_9.67 b,
+2752,doll_6.04 b,,doll_12.74 b,
+2753,doll_14.18 b,,doll_23.53 b,
+2754,doll_16.52 b,,doll_37.83 b,
+2755,doll_17.61 b,,doll_14.8 b,
+2756,doll_14.27 b,,doll_16.35 b,
+2757,doll_23.39 b,,doll_11.78 b,
+2758,doll_17.64 b,,doll_34.52 b,
+2759,doll_11.61 b,,doll_26.55 b,
+2760,doll_16.56 b,,doll_12.8 b,
+2761,doll_17.67 b,,doll_20.31 b,
+2762,doll_4.23 b,,doll_19.45 b,
+2763,doll_10.26 b,,doll_4.43 b,
+2764,doll_20.52 b,,doll_13.08 b,
+2765,doll_7.8 b,,doll_9.56 b,
+2766,doll_17.5 b,,doll_6.23 b,
+2767,doll_25.39 b,,doll_3.9 b,
+2768,doll_3.07 b,,doll_20.39 b,
+2769,doll_11.84 b,,doll_32.16 b,
+2770,doll_7.54 b,,doll_24.04 b,
+2771,doll_14.63 b,,doll_10.82 b,
+2772,doll_8.68 b,,doll_12.8 b,
+2773,doll_2.71 b,,doll_56.14 b,
+2774,doll_20.59 b,,doll_31.15 b,
+2775,doll_8.05 b,,doll_37.32 b,
+2776,doll_11.87 b,,doll_12.67 b,
+2777,doll_10.88 b,,doll_41.49 b,
+2778,doll_34.77 b,,doll_13.1 b,
+2779,doll_8.16 b,,doll_48.87 b,
+2780,doll_11.84 b,,doll_29.26 b,
+2781,doll_13.64 b,,doll_17.87 b,
+2782,doll_10.56 b,,doll_3.01 b,
+2783,doll_8.14 b,,doll_10.82 b,
+2784,doll_5.64 b,,doll_12.88 b,
+2785,doll_7.01 b,,doll_22.85 b,
+2786,doll_6.07 b,,doll_33.32 b,
+2787,doll_17.39 b,,doll_10.46 b,
+2788,doll_10.15 b,,doll_4.1 b,
+2789,doll_7.78 b,,doll_85.74 b,
+2790,doll_5.92 b,,doll_48.01 b,
+2791,doll_22.69 b,,doll_9.86 b,
+2792,doll_24.41 b,,doll_7.08 b,
+2793,doll_7.6 b,,doll_68.84 b,
+2794,doll_19.65 b,,doll_20.39 b,
+2795,doll_16.77 b,,doll_4.19 b,
+2796,doll_9.05 b,,doll_3.98 b,
+2797,doll_21.98 b,,doll_10.16 b,
+2798,doll_32.51 b,,doll_14.43 b,
+2799,doll_19.3 b,,doll_13.27 b,
+2800,doll_18.34 b,,doll_7.36 b,
+2801,doll_20.45 b,,doll_8.75 b,
+2802,doll_11.6 b,,doll_18.74 b,
+2803,doll_13.1 b,,doll_16.21 b,
+2804,doll_40.91 b,,doll_14.96 b,
+2805,doll_10.29 b,,doll_16.49 b,
+2806,doll_20.27 b,,doll_7.85 b,
+2807,doll_23.48 b,,doll_6.24 b,
+2808,doll_11.19 b,,doll_39.09 b,
+2809,doll_8.42 b,,doll_12.58 b,
+2810,doll_11.78 b,,doll_16.34 b,
+2811,doll_4.83 b,,doll_30.79 b,
+2812,doll_9.72 b,,doll_22.72 b,
+2813,doll_6.8 b,,doll_23.08 b,
+2814,doll_14.3 b,,doll_31.04 b,
+2815,doll_8.68 b,,doll_4.46 b,
+2816,doll_13.93 b,,doll_27.77 b,
+2817,doll_12.01 b,,doll_15.68 b,
+2818,doll_11.95 b,,doll_15.1 b,
+2819,doll_33.53 b,,doll_7.93 b,
+2820,doll_10.07 b,,doll_38.44 b,
+2821,doll_5.61 b,,doll_20.57 b,
+2822,doll_9.04 b,,doll_8.83 b,
+2823,doll_16.18 b,,doll_12.07 b,
+2824,doll_29.99 b,,doll_8.61 b,
+2825,doll_24.42 b,,doll_9.31 b,
+2826,doll_12.35 b,,doll_14.77 b,
+2827,doll_751 m,,doll_21.23 b,
+2828,doll_2.62 b,,doll_19.32 b,
+2829,doll_27.15 b,,doll_16.05 b,
+2830,doll_15.59 b,,doll_4.88 b,
+2831,doll_7.4 b,,doll_20.82 b,
+2832,doll_8.46 b,,doll_4.84 b,
+2833,doll_18.69 b,,doll_12.57 b,
+2834,doll_2.13 b,,doll_41.33 b,
+2835,doll_13.95 b,,doll_13.04 b,
+2836,doll_12.7 b,,doll_11.85 b,
+2837,doll_6.14 b,,doll_36.14 b,
+2838,doll_16.26 b,,doll_12.01 b,
+2839,doll_12.89 b,,doll_12.09 b,
+2840,doll_15.58 b,,doll_3.73 b,
+2841,doll_47.93 b,,doll_5.79 b,
+2842,doll_20.82 b,,doll_22.9 b,
+2843,doll_8.97 b,,doll_46.07 b,
+2844,doll_7.91 b,,doll_42.06 b,
+2845,doll_18.29 b,,doll_8.57 b,
+2846,doll_12.28 b,,doll_19.98 b,
+2847,doll_24.5 b,,doll_39.01 b,
+2848,doll_9.46 b,,doll_18.02 b,
+2849,doll_6.22 b,,doll_59.77 b,
+2850,doll_19.7 b,,doll_18.97 b,
+2851,doll_4.75 b,,doll_37.02 b,
+2852,doll_41.84 b,,doll_9.13 b,
+2853,doll_26.01 b,,doll_8.41 b,
+2854,doll_3.42 b,,doll_70.56 b,
+2855,doll_10.37 b,,doll_53.27 b,
+2856,doll_10.12 b,,doll_49.37 b,
+2857,doll_2.48 b,,doll_14.95 b,
+2858,doll_7.67 b,,doll_30.58 b,
+2859,doll_11.66 b,,doll_31.74 b,
+2860,doll_6.21 b,,doll_20.11 b,
+2861,doll_6.09 b,,doll_47.95 b,
+2862,doll_5.18 b,,doll_21.72 b,
+2863,doll_9.42 b,,doll_43.87 b,
+2864,doll_15.31 b,,doll_11.45 b,
+2865,doll_8.72 b,,doll_13.25 b,
+2866,doll_8.37 b,,doll_7.83 b,
+2867,doll_10.81 b,,doll_8.9 b,
+2868,doll_2.38 b,,doll_24.3 b,
+2869,doll_6.39 b,,doll_25 b,
+2870,doll_7.54 b,,doll_34.87 b,
+2871,doll_11.07 b,,doll_29.86 b,
+2872,doll_17.64 b,,doll_9.76 b,
+2873,doll_11.72 b,,doll_6.61 b,
+2874,doll_11.37 b,,doll_17.33 b,
+2875,doll_14.84 b,,doll_9.18 b,
+2876,doll_8.64 b,,doll_32.15 b,
+2877,doll_19.95 b,,doll_4.73 b,
+2878,doll_26.09 b,,doll_5.38 b,
+2879,doll_21.74 b,,doll_6.89 b,
+2880,doll_12.2 b,,doll_1.7 b,
+2881,doll_8.73 b,,doll_37.09 b,
+2882,doll_14.12 b,,doll_4.47 b,
+2883,doll_12.25 b,,doll_3.2 b,
+2884,doll_16.68 b,,doll_16.64 b,
+2885,doll_15.98 b,,doll_8.59 b,
+2886,doll_10.9 b,,doll_23.39 b,
+2887,doll_21.7 b,,doll_9.3 b,
+2888,doll_9.05 b,,doll_20.81 b,
+2889,doll_10.05 b,,doll_46.2 b,
+2890,doll_16.89 b,,doll_4.08 b,
+2891,doll_5.58 b,,doll_5.49 b,
+2892,doll_13.2 b,,doll_26.31 b,
+2893,doll_8.01 b,,doll_19.21 b,
+2894,doll_5.66 b,,doll_12.22 b,
+2895,doll_12.43 b,,doll_25.87 b,
+2896,doll_21.77 b,,doll_3.08 b,
+2897,doll_5.85 b,,doll_9.87 b,
+2898,doll_5.7 b,,doll_9.86 b,
+2899,doll_731 m,,doll_9.53 b,
+2900,doll_29.38 b,,doll_18.25 b,
+2901,doll_8.25 b,,doll_24.77 b,
+2902,doll_10.51 b,,doll_2.79 b,
+2903,doll_5.77 b,,doll_11.06 b,
+2904,doll_24.9 b,,doll_3.49 b,
+2905,doll_12.05 b,,doll_10.81 b,
+2906,doll_11.97 b,,doll_18.04 b,
+2907,doll_12 b,,doll_11.24 b,
+2908,doll_3.76 b,,doll_15.04 b,
+2909,doll_9.31 b,,doll_16.03 b,
+2910,doll_68.46 b,,doll_5.72 b,
+2911,doll_14.05 b,,doll_6.49 b,
+2912,doll_10.71 b,,doll_13.03 b,
+2913,doll_19.16 b,,doll_9.22 b,
+2914,doll_18.99 b,,doll_16.58 b,
+2915,doll_9.6 b,,doll_22 b,
+2916,doll_3.61 b,,doll_10.03 b,
+2917,doll_26.77 b,,doll_11.4 b,
+2918,doll_11.04 b,,doll_11.77 b,
+2919,doll_18.8 b,,doll_8.65 b,
+2920,doll_23.38 b,,doll_6.99 b,
+2921,doll_4.61 b,,doll_57.93 b,
+2922,doll_43.4 b,,doll_4.22 b,
+2923,doll_14.59 b,,doll_19.43 b,
+2924,doll_13.02 b,,doll_25.52 b,
+2925,doll_12.68 b,,doll_5.53 b,
+2926,doll_17.86 b,,doll_12.43 b,
+2927,doll_3.93 b,,doll_29.84 b,
+2928,doll_7.63 b,,doll_20.33 b,
+2929,doll_11.62 b,,doll_21.23 b,
+2930,doll_5.91 b,,doll_90.64 b,
+2931,doll_3.9 b,,doll_18.32 b,
+2932,doll_18.42 b,,doll_28.23 b,
+2933,doll_25.15 b,,doll_11.61 b,
+2934,doll_14 b,,doll_2.46 b,
+2935,doll_10.59 b,,doll_17.76 b,
+2936,doll_19.89 b,,doll_10.86 b,
+2937,doll_5.51 b,,doll_16.03 b,
+2938,doll_4.45 b,,doll_10.9 b,
+2939,doll_14.44 b,,doll_14.99 b,
+2940,doll_27.29 b,,doll_8.86 b,
+2941,doll_13.59 b,,doll_17.53 b,
+2942,doll_24.03 b,,doll_2.81 b,
+2943,doll_8.64 b,,doll_7.68 b,
+2944,doll_11.63 b,,doll_11.5 b,
+2945,doll_2.11 b,,doll_31.95 b,
+2946,doll_4.95 b,,doll_10.34 b,
+2947,doll_14.42 b,,doll_9.09 b,
+2948,doll_7.86 b,,doll_14.07 b,
+2949,doll_3.91 b,,doll_16.94 b,
+2950,doll_8.17 b,,doll_37.7 b,
+2951,doll_5.77 b,,doll_9.28 b,
+2952,doll_19.57 b,,doll_6.76 b,
+2953,doll_12.06 b,,doll_7.54 b,
+2954,doll_23.98 b,,doll_9.91 b,
+2955,doll_12.96 b,,doll_23.18 b,
+2956,doll_9.88 b,,doll_10.27 b,
+2957,doll_19.64 b,,doll_7.08 b,
+2958,doll_15.62 b,,doll_28.85 b,
+2959,doll_4.23 b,,doll_7.04 b,
+2960,doll_17.67 b,,doll_3.37 b,
+2961,doll_14.52 b,,doll_10.16 b,
+2962,doll_2.43 b,,doll_34.27 b,
+2963,doll_1.82 b,,doll_16.4 b,
+2964,doll_11.97 b,,doll_29.2 b,
+2965,doll_6.81 b,,doll_5.46 b,
+2966,doll_16.65 b,,doll_7.59 b,
+2967,doll_10.68 b,,doll_16.16 b,
+2968,doll_13.52 b,,doll_10.12 b,
+2969,doll_6.95 b,,doll_21.29 b,
+2970,doll_2.19 b,,doll_17.6 b,
+2971,doll_6.4 b,,doll_33.91 b,
+2972,doll_15.54 b,,doll_15.28 b,
+2973,doll_10.28 b,,doll_11.66 b,
+2974,doll_25.29 b,,doll_6.91 b,
+2975,doll_6.08 b,,doll_10.89 b,
+2976,doll_7.62 b,,doll_41.75 b,
+2977,doll_25.3 b,,doll_5.48 b,
+2978,doll_31.47 b,,doll_7.46 b,
+2979,doll_5.74 b,,doll_27.23 b,
+2980,doll_10.1 b,,doll_6.44 b,
+2981,doll_12.91 b,,doll_19.19 b,
+2982,doll_11.52 b,,doll_1.85 b,
+2983,doll_34.48 b,,doll_7.57 b,
+2984,doll_14.88 b,,doll_8.54 b,
+2985,doll_19.45 b,,doll_7.98 b,
+2986,doll_10.27 b,,doll_4.78 b,
+2987,doll_17.65 b,,doll_17.53 b,
+2988,doll_15.76 b,,doll_14.82 b,
+2989,doll_20.28 b,,doll_5.96 b,
+2990,doll_3.16 b,,doll_12.38 b,
+2991,doll_7.59 b,,doll_14.66 b,
+2992,doll_1.47 b,,doll_18.28 b,
+2993,doll_6.58 b,,doll_35.28 b,
+2994,doll_8.29 b,,doll_19.43 b,
+2995,doll_4.52 b,,doll_12.59 b,
+2996,doll_3.15 b,,doll_12.21 b,
+2997,doll_9.88 b,,doll_10.34 b,
+2998,doll_27.77 b,,doll_19.08 b,
+2999,doll_11.28 b,,doll_3.62 b,
+3000,doll_276.1 b,,,
+3001,doll_208.1 b,,,
+3002,doll_400.4 b,,,
+3003,doll_124.5 b,,,
+3004,doll_202.1 b,,,
+3005,doll_469.8 b,,,
+3006,doll_378.7 b,,,
+3007,doll_181.4 b,,,
+3008,doll_96.8 b,,,
+3009,doll_281.7 b,,,
+3010,doll_257.5 b,,,
+3011,doll_184.9 b,,,
+3012,doll_152.4 b,,,
+3013,doll_244.2 b,,,
+3014,doll_280.5 b,,,
+3015,doll_261.8 b,,,
+3016,doll_181.4 b,,,
+3017,doll_84.1 b,,,
+3018,doll_134.3 b,,,
+3019,doll_163 b,,,
+3020,doll_380.3 b,,,
+3021,doll_297.6 b,,,
+3022,doll_572.8 b,,,
+3023,doll_71.1 b,,,
+3024,doll_295.7 b,,,
+3025,doll_156.3 b,,,
+3026,doll_79.9 b,,,
+3027,doll_86.9 b,,,
+3028,doll_185.1 b,,,
+3029,doll_77.6 b,,,
+3030,doll_131.5 b,,,
+3031,doll_116.4 b,,,
+3032,doll_129.8 b,,,
+3033,doll_117.9 b,,,
+3034,doll_138.6 b,,,
+3035,doll_60.2 b,,,
+3036,doll_62.8 b,,,
+3037,doll_59.3 b,,,
+3038,doll_127.4 b,,,
+3039,doll_94.9 b,,,
+3040,doll_178.9 b,,,
+3041,doll_292 b,,,
+3042,doll_81.5 b,,,
+3043,doll_96.9 b,,,
+3044,doll_384.8 b,,,
+3045,doll_45.2 b,,,
+3046,doll_95.3 b,,,
+3047,doll_145.2 b,,,
+3048,doll_117.3 b,,,
+3049,doll_158 b,,,
+3050,doll_79 b,,,
+3051,doll_38.5 b,,,
+3052,doll_110.4 b,,,
+3053,doll_86.9 b,,,
+3054,doll_60.5 b,,,
+3055,doll_89.9 b,,,
+3056,doll_78.2 b,,,
+3057,doll_48.3 b,,,
+3058,doll_61.5 b,,,
+3059,doll_136.3 b,,,
+3060,doll_75.9 b,,,
+3061,doll_76 b,,,
+3062,doll_79.6 b,,,
+3063,doll_131.5 b,,,
+3064,doll_83.9 b,,,
+3065,doll_128.6 b,,,
+3066,doll_56.2 b,,,
+3067,doll_51.6 b,,,
+3068,doll_127 b,,,
+3069,doll_88.4 b,,,
+3070,doll_130.5 b,,,
+3071,doll_68.7 b,,,
+3072,doll_45.2 b,,,
+3073,doll_71.1 b,,,
+3074,doll_65.5 b,,,
+3075,doll_151.2 b,,,
+3076,doll_46.3 b,,,
+3077,doll_76.5 b,,,
+3078,doll_176.6 b,,,
+3079,doll_69.6 b,,,
+3080,doll_111.4 b,,,
+3081,doll_63.5 b,,,
+3082,doll_78.8 b,,,
+3083,doll_174.3 b,,,
+3084,doll_70.9 b,,,
+3085,doll_79.5 b,,,
+3086,doll_50.4 b,,,
+3087,doll_144.3 b,,,
+3088,doll_30.4 b,,,
+3089,doll_52.1 b,,,
+3090,doll_203.4 b,,,
+3091,doll_51.5 b,,,
+3092,doll_54.3 b,,,
+3093,doll_73 b,,,
+3094,doll_41 b,,,
+3095,doll_91.2 b,,,
+3096,doll_58.5 b,,,
+3097,doll_67.3 b,,,
+3098,doll_44.6 b,,,
+3099,doll_97.2 b,,,
+3100,doll_35.3 b,,,
+3101,doll_35.2 b,,,
+3102,doll_130.2 b,,,
+3103,doll_146.9 b,,,
+3104,doll_205.8 b,,,
+3105,doll_54.4 b,,,
+3106,doll_21.9 b,,,
+3107,doll_54.8 b,,,
+3108,doll_64.4 b,,,
+3109,doll_99.4 b,,,
+3110,doll_90.5 b,,,
+3111,doll_32.1 b,,,
+3112,doll_46.4 b,,,
+3113,doll_38.7 b,,,
+3114,doll_41.8 b,,,
+3115,doll_57.4 b,,,
+3116,doll_26.5 b,,,
+3117,doll_54.4 b,,,
+3118,doll_99.8 b,,,
+3119,doll_39.2 b,,,
+3120,doll_73.6 b,,,
+3121,doll_61.6 b,,,
+3122,doll_210.2 b,,,
+3123,doll_214.6 b,,,
+3124,doll_62 b,,,
+3125,doll_51.7 b,,,
+3126,doll_35.5 b,,,
+3127,doll_46.1 b,,,
+3128,doll_46.9 b,,,
+3129,doll_47.8 b,,,
+3130,doll_47.2 b,,,
+3131,doll_23.1 b,,,
+3132,doll_92.9 b,,,
+3133,doll_37.8 b,,,
+3134,doll_44.5 b,,,
+3135,doll_46.2 b,,,
+3136,doll_52 b,,,
+3137,doll_36 b,,,
+3138,doll_51 b,,,
+3139,doll_108.3 b,,,
+3140,doll_108 b,,,
+3141,doll_19 b,,,
+3142,doll_23.2 b,,,
+3143,doll_37.6 b,,,
+3144,doll_91.9 b,,,
+3145,doll_49.2 b,,,
+3146,doll_102.7 b,,,
+3147,doll_57 b,,,
+3148,doll_25.5 b,,,
+3149,doll_106 b,,,
+3150,doll_42 b,,,
+3151,doll_53.8 b,,,
+3152,doll_44.5 b,,,
+3153,doll_22.5 b,,,
+3154,doll_30.2 b,,,
+3155,doll_84.9 b,,,
+3156,doll_103.6 b,,,
+3157,doll_135.9 b,,,
+3158,doll_30.3 b,,,
+3159,doll_102.1 b,,,
+3160,doll_62 b,,,
+3161,doll_96.2 b,,,
+3162,doll_91.5 b,,,
+3163,doll_96.6 b,,,
+3164,doll_19.9 b,,,
+3165,doll_28.5 b,,,
+3166,doll_125.1 b,,,
+3167,doll_31.8 b,,,
+3168,doll_33.2 b,,,
+3169,doll_37.5 b,,,
+3170,doll_68.4 b,,,
+3171,doll_65.8 b,,,
+3172,doll_20.3 b,,,
+3173,doll_20.5 b,,,
+3174,doll_25.1 b,,,
+3175,doll_106.8 b,,,
+3176,doll_59.1 b,,,
+3177,doll_50.6 b,,,
+3178,doll_48.4 b,,,
+3179,doll_91.4 b,,,
+3180,doll_41.5 b,,,
+3181,doll_28.3 b,,,
+3182,doll_21.5 b,,,
+3183,doll_56.7 b,,,
+3184,doll_34.4 b,,,
+3185,doll_26.8 b,,,
+3186,doll_30.8 b,,,
+3187,doll_76.7 b,,,
+3188,doll_18.7 b,,,
+3189,doll_42.9 b,,,
+3190,doll_31.2 b,,,
+3191,doll_18.4 b,,,
+3192,doll_33.2 b,,,
+3193,doll_68.2 b,,,
+3194,doll_59.7 b,,,
+3195,doll_58.4 b,,,
+3196,doll_46.4 b,,,
+3197,doll_71.4 b,,,
+3198,doll_15.8 b,,,
+3199,doll_34.5 b,,,
+3200,doll_36 b,,,
+3201,doll_38.2 b,,,
+3202,doll_50.6 b,,,
+3203,doll_121.4 b,,,
+3204,doll_21.9 b,,,
+3205,doll_42.4 b,,,
+3206,doll_27.4 b,,,
+3207,doll_68.1 b,,,
+3208,doll_26.9 b,,,
+3209,doll_26 b,,,
+3210,doll_22.7 b,,,
+3211,doll_66.7 b,,,
+3212,doll_46.9 b,,,
+3213,doll_31.5 b,,,
+3214,doll_31.5 b,,,
+3215,doll_25.6 b,,,
+3216,doll_33.6 b,,,
+3217,doll_22.9 b,,,
+3218,doll_50.6 b,,,
+3219,doll_35.3 b,,,
+3220,doll_28.3 b,,,
+3221,doll_28.7 b,,,
+3222,doll_23.2 b,,,
+3223,doll_74.1 b,,,
+3224,doll_35.6 b,,,
+3225,doll_34.2 b,,,
+3226,doll_35.4 b,,,
+3227,doll_22.1 b,,,
+3228,doll_66.3 b,,,
+3229,doll_23.2 b,,,
+3230,doll_36.7 b,,,
+3231,doll_70.6 b,,,
+3232,doll_36.1 b,,,
+3233,doll_24 b,,,
+3234,doll_29.8 b,,,
+3235,doll_35.7 b,,,
+3236,doll_85.3 b,,,
+3237,doll_119.8 b,,,
+3238,doll_50.1 b,,,
+3239,doll_62.5 b,,,
+3240,doll_30.4 b,,,
+3241,doll_48.1 b,,,
+3242,doll_34.8 b,,,
+3243,doll_12.4 b,,,
+3244,doll_51.8 b,,,
+3245,doll_108.4 b,,,
+3246,doll_17.9 b,,,
+3247,doll_39.3 b,,,
+3248,doll_84.1 b,,,
+3249,doll_38.5 b,,,
+3250,doll_57.9 b,,,
+3251,doll_14.2 b,,,
+3252,doll_52.1 b,,,
+3253,doll_19 b,,,
+3254,doll_81.1 b,,,
+3255,doll_23.7 b,,,
+3256,doll_33.9 b,,,
+3257,doll_166.5 b,,,
+3258,doll_65 b,,,
+3259,doll_13.6 b,,,
+3260,doll_78.5 b,,,
+3261,doll_31.2 b,,,
+3262,doll_26.5 b,,,
+3263,doll_27.6 b,,,
+3264,doll_49.5 b,,,
+3265,doll_16.1 b,,,
+3266,doll_18.9 b,,,
+3267,doll_29.5 b,,,
+3268,doll_126 b,,,
+3269,doll_18.5 b,,,
+3270,doll_24.3 b,,,
+3271,doll_23.3 b,,,
+3272,doll_14.6 b,,,
+3273,doll_28.9 b,,,
+3274,doll_43.4 b,,,
+3275,doll_26 b,,,
+3276,doll_20.8 b,,,
+3277,doll_257 b,,,
+3278,doll_29.3 b,,,
+3279,doll_20.7 b,,,
+3280,doll_27.6 b,,,
+3281,doll_12.8 b,,,
+3282,doll_61 b,,,
+3283,doll_52.2 b,,,
+3284,doll_22.4 b,,,
+3285,doll_66.7 b,,,
+3286,doll_19 b,,,
+3287,doll_89.4 b,,,
+3288,doll_90.1 b,,,
+3289,doll_14 b,,,
+3290,doll_137.9 b,,,
+3291,doll_55.5 b,,,
+3292,doll_14.6 b,,,
+3293,doll_50.9 b,,,
+3294,doll_13.7 b,,,
+3295,doll_23.4 b,,,
+3296,doll_46.2 b,,,
+3297,doll_20.1 b,,,
+3298,doll_27.8 b,,,
+3299,doll_221.1 b,,,
+3300,doll_23.4 b,,,
+3301,doll_32.6 b,,,
+3302,doll_30.4 b,,,
+3303,doll_40 b,,,
+3304,doll_10.1 b,,,
+3305,doll_48.6 b,,,
+3306,doll_14.8 b,,,
+3307,doll_84.2 b,,,
+3308,doll_33.8 b,,,
+3309,doll_15.5 b,,,
+3310,doll_16.6 b,,,
+3311,doll_11.2 b,,,
+3312,doll_72.3 b,,,
+3313,doll_46 b,,,
+3314,doll_19.8 b,,,
+3315,doll_51.8 b,,,
+3316,doll_15.7 b,,,
+3317,doll_111.7 b,,,
+3318,doll_49.5 b,,,
+3319,doll_58.8 b,,,
+3320,doll_48.2 b,,,
+3321,doll_29.4 b,,,
+3322,doll_21.1 b,,,
+3323,doll_24.2 b,,,
+3324,doll_47 b,,,
+3325,doll_37.2 b,,,
+3326,doll_8.6 b,,,
+3327,doll_19.8 b,,,
+3328,doll_20.9 b,,,
+3329,doll_18.5 b,,,
+3330,doll_28.7 b,,,
+3331,doll_57.5 b,,,
+3332,doll_37.3 b,,,
+3333,doll_12.8 b,,,
+3334,doll_58.7 b,,,
+3335,doll_26.4 b,,,
+3336,doll_22.4 b,,,
+3337,doll_100.3 b,,,
+3338,doll_44.3 b,,,
+3339,doll_20.3 b,,,
+3340,doll_13.9 b,,,
+3341,doll_19.9 b,,,
+3342,doll_66 b,,,
+3343,doll_41.9 b,,,
+3344,doll_22.7 b,,,
+3345,doll_11.7 b,,,
+3346,doll_8.3 b,,,
+3347,doll_18.7 b,,,
+3348,doll_23.7 b,,,
+3349,doll_18.3 b,,,
+3350,doll_12.8 b,,,
+3351,doll_18.9 b,,,
+3352,doll_31 b,,,
+3353,doll_19.4 b,,,
+3354,doll_28.6 b,,,
+3355,doll_17.9 b,,,
+3356,doll_16.7 b,,,
+3357,doll_27.9 b,,,
+3358,doll_72.2 b,,,
+3359,doll_34.2 b,,,
+3360,doll_26 b,,,
+3361,doll_65.8 b,,,
+3362,doll_62.2 b,,,
+3363,doll_27.9 b,,,
+3364,doll_21.2 b,,,
+3365,doll_37.5 b,,,
+3366,doll_8.9 b,,,
+3367,doll_50.8 b,,,
+3368,doll_114 b,,,
+3369,doll_13.1 b,,,
+3370,doll_24.8 b,,,
+3371,doll_20.9 b,,,
+3372,doll_157.7 b,,,
+3373,doll_18.4 b,,,
+3374,doll_38.8 b,,,
+3375,doll_26 b,,,
+3376,doll_16.1 b,,,
+3377,doll_22.4 b,,,
+3378,doll_11.5 b,,,
+3379,doll_6.7 b,,,
+3380,doll_70.3 b,,,
+3381,doll_17.2 b,,,
+3382,doll_16.2 b,,,
+3383,doll_16.1 b,,,
+3384,doll_90.3 b,,,
+3385,doll_25.7 b,,,
+3386,doll_35.7 b,,,
+3387,doll_42 b,,,
+3388,doll_23.5 b,,,
+3389,doll_15.9 b,,,
+3390,doll_9.4 b,,,
+3391,doll_17.9 b,,,
+3392,doll_10.3 b,,,
+3393,doll_22.4 b,,,
+3394,doll_15.9 b,,,
+3395,doll_23.4 b,,,
+3396,doll_35.2 b,,,
+3397,doll_19.6 b,,,
+3398,doll_85.9 b,,,
+3399,doll_24.2 b,,,
+3400,doll_65 b,,,
+3401,doll_16.9 b,,,
+3402,doll_35.9 b,,,
+3403,doll_11.5 b,,,
+3404,doll_17.1 b,,,
+3405,doll_26.2 b,,,
+3406,doll_40.3 b,,,
+3407,doll_79.2 b,,,
+3408,doll_31.1 b,,,
+3409,doll_25.9 b,,,
+3410,doll_26.8 b,,,
+3411,doll_14.5 b,,,
+3412,doll_28.8 b,,,
+3413,doll_14.9 b,,,
+3414,doll_15.4 b,,,
+3415,doll_84.5 b,,,
+3416,doll_29 b,,,
+3417,doll_26.9 b,,,
+3418,doll_26.3 b,,,
+3419,doll_19.3 b,,,
+3420,doll_27 b,,,
+3421,doll_32 b,,,
+3422,doll_28.4 b,,,
+3423,doll_12.2 b,,,
+3424,doll_20.3 b,,,
+3425,doll_12.7 b,,,
+3426,doll_8.5 b,,,
+3427,doll_7.8 b,,,
+3428,doll_18.5 b,,,
+3429,doll_22.7 b,,,
+3430,doll_62.3 b,,,
+3431,doll_18.6 b,,,
+3432,doll_11.4 b,,,
+3433,doll_9 b,,,
+3434,doll_17.8 b,,,
+3435,doll_33.4 b,,,
+3436,doll_23.6 b,,,
+3437,doll_25.1 b,,,
+3438,doll_28.1 b,,,
+3439,doll_11.1 b,,,
+3440,doll_14.3 b,,,
+3441,doll_13.1 b,,,
+3442,doll_132.9 b,,,
+3443,doll_14.8 b,,,
+3444,doll_28.9 b,,,
+3445,doll_17.8 b,,,
+3446,doll_7 b,,,
+3447,doll_15.9 b,,,
+3448,doll_10.5 b,,,
+3449,doll_17.8 b,,,
+3450,doll_26.2 b,,,
+3451,doll_17.9 b,,,
+3452,doll_23.7 b,,,
+3453,doll_17.7 b,,,
+3454,doll_24.8 b,,,
+3455,doll_30.2 b,,,
+3456,doll_13.4 b,,,
+3457,doll_15.7 b,,,
+3458,doll_11.4 b,,,
+3459,doll_69.5 b,,,
+3460,doll_23.3 b,,,
+3461,doll_38.7 b,,,
+3462,doll_38.5 b,,,
+3463,doll_70.4 b,,,
+3464,doll_29.5 b,,,
+3465,doll_8.6 b,,,
+3466,doll_38.9 b,,,
+3467,doll_147.6 b,,,
+3468,doll_16.6 b,,,
+3469,doll_42.6 b,,,
+3470,doll_8.3 b,,,
+3471,doll_10.2 b,,,
+3472,doll_87.8 b,,,
+3473,doll_32.8 b,,,
+3474,doll_7.6 b,,,
+3475,doll_19.3 b,,,
+3476,doll_34.4 b,,,
+3477,doll_11.9 b,,,
+3478,doll_29 b,,,
+3479,doll_51.7 b,,,
+3480,doll_53.6 b,,,
+3481,doll_15.2 b,,,
+3482,doll_13.7 b,,,
+3483,doll_36.4 b,,,
+3484,doll_17 b,,,
+3485,doll_9.2 b,,,
+3486,doll_4.7 b,,,
+3487,doll_12.4 b,,,
+3488,doll_11.6 b,,,
+3489,doll_9.5 b,,,
+3490,doll_27.4 b,,,
+3491,doll_23.5 b,,,
+3492,doll_13.7 b,,,
+3493,doll_18.3 b,,,
+3494,doll_17.5 b,,,
+3495,doll_24.5 b,,,
+3496,doll_22.3 b,,,
+3497,doll_70.6 b,,,
+3498,doll_19.3 b,,,
+3499,doll_9.3 b,,,
+3500,doll_6.6 b,,,
+3501,doll_45.1 b,,,
+3502,doll_19.9 b,,,
+3503,doll_22.6 b,,,
+3504,doll_11.4 b,,,
+3505,doll_16.7 b,,,
+3506,doll_11.4 b,,,
+3507,doll_19.2 b,,,
+3508,doll_20.6 b,,,
+3509,doll_17.9 b,,,
+3510,doll_35.9 b,,,
+3511,doll_39.9 b,,,
+3512,doll_21.3 b,,,
+3513,doll_16.3 b,,,
+3514,doll_20.5 b,,,
+3515,doll_10.8 b,,,
+3516,doll_13.6 b,,,
+3517,doll_6.1 b,,,
+3518,doll_32.9 b,,,
+3519,doll_14.6 b,,,
+3520,doll_11 b,,,
+3521,doll_24 b,,,
+3522,doll_10.6 b,,,
+3523,doll_21.5 b,,,
+3524,doll_4.8 b,,,
+3525,doll_19.1 b,,,
+3526,doll_44.4 b,,,
+3527,doll_10.6 b,,,
+3528,doll_8.3 b,,,
+3529,doll_50.3 b,,,
+3530,doll_35.9 b,,,
+3531,doll_59.2 b,,,
+3532,doll_25.4 b,,,
+3533,doll_12.9 b,,,
+3534,doll_71.9 b,,,
+3535,doll_34.8 b,,,
+3536,doll_27.7 b,,,
+3537,doll_30.1 b,,,
+3538,doll_30.1 b,,,
+3539,doll_16.3 b,,,
+3540,doll_26.5 b,,,
+3541,doll_16.9 b,,,
+3542,doll_6.4 b,,,
+3543,doll_14.7 b,,,
+3544,doll_17.1 b,,,
+3545,doll_66.1 b,,,
+3546,doll_10.6 b,,,
+3547,doll_36.2 b,,,
+3548,doll_8.4 b,,,
+3549,doll_20 b,,,
+3550,doll_10.9 b,,,
+3551,doll_12.2 b,,,
+3552,doll_15.2 b,,,
+3553,doll_12.2 b,,,
+3554,doll_13.4 b,,,
+3555,doll_26.3 b,,,
+3556,doll_7.4 b,,,
+3557,doll_9.6 b,,,
+3558,doll_16 b,,,
+3559,doll_25.4 b,,,
+3560,doll_32.6 b,,,
+3561,doll_51.8 b,,,
+3562,doll_6.1 b,,,
+3563,doll_16.4 b,,,
+3564,doll_12.8 b,,,
+3565,doll_11.3 b,,,
+3566,doll_19.8 b,,,
+3567,doll_6.7 b,,,
+3568,doll_18.5 b,,,
+3569,doll_14.1 b,,,
+3570,doll_13.7 b,,,
+3571,doll_6.9 b,,,
+3572,doll_13.7 b,,,
+3573,doll_20.4 b,,,
+3574,doll_17.1 b,,,
+3575,doll_19.7 b,,,
+3576,doll_6.6 b,,,
+3577,doll_6.3 b,,,
+3578,doll_10.4 b,,,
+3579,doll_32.8 b,,,
+3580,doll_14.5 b,,,
+3581,doll_14.6 b,,,
+3582,doll_8.8 b,,,
+3583,doll_10.5 b,,,
+3584,doll_17.4 b,,,
+3585,doll_10.3 b,,,
+3586,doll_14.7 b,,,
+3587,doll_11.3 b,,,
+3588,doll_12.8 b,,,
+3589,doll_25 b,,,
+3590,doll_31.4 b,,,
+3591,doll_15.6 b,,,
+3592,doll_15.3 b,,,
+3593,doll_16.4 b,,,
+3594,doll_11.5 b,,,
+3595,doll_60.7 b,,,
+3596,doll_15.8 b,,,
+3597,doll_30.1 b,,,
+3598,doll_11.8 b,,,
+3599,doll_5.9 b,,,
+3600,doll_11.9 b,,,
+3601,doll_14.9 b,,,
+3602,doll_23.4 b,,,
+3603,doll_10.7 b,,,
+3604,doll_11.7 b,,,
+3605,doll_12.2 b,,,
+3606,doll_38 b,,,
+3607,doll_13 b,,,
+3608,doll_19.5 b,,,
+3609,doll_16.8 b,,,
+3610,doll_17.3 b,,,
+3611,doll_13.9 b,,,
+3612,doll_12.2 b,,,
+3613,doll_32.1 b,,,
+3614,doll_35.1 b,,,
+3615,doll_43.2 b,,,
+3616,doll_16.1 b,,,
+3617,doll_77.3 b,,,
+3618,doll_6.6 b,,,
+3619,doll_22.1 b,,,
+3620,doll_16.8 b,,,
+3621,doll_9.9 b,,,
+3622,doll_17.6 b,,,
+3623,doll_10.6 b,,,
+3624,doll_21.8 b,,,
+3625,doll_38.8 b,,,
+3626,doll_17.1 b,,,
+3627,doll_27.8 b,,,
+3628,doll_7.9 b,,,
+3629,doll_10.8 b,,,
+3630,doll_15.8 b,,,
+3631,doll_5.3 b,,,
+3632,doll_16.1 b,,,
+3633,doll_13.4 b,,,
+3634,doll_11.3 b,,,
+3635,doll_16.2 b,,,
+3636,doll_8.5 b,,,
+3637,doll_21.8 b,,,
+3638,doll_54.5 b,,,
+3639,doll_22.2 b,,,
+3640,doll_6.6 b,,,
+3641,doll_11.4 b,,,
+3642,doll_27.2 b,,,
+3643,doll_24.3 b,,,
+3644,doll_8.7 b,,,
+3645,doll_54.6 b,,,
+3646,doll_7.7 b,,,
+3647,doll_9.6 b,,,
+3648,doll_12.1 b,,,
+3649,doll_22.4 b,,,
+3650,doll_32.9 b,,,
+3651,doll_12.5 b,,,
+3652,doll_21.3 b,,,
+3653,doll_36.5 b,,,
+3654,doll_15.5 b,,,
+3655,doll_17.8 b,,,
+3656,doll_11.1 b,,,
+3657,doll_18.9 b,,,
+3658,doll_11 b,,,
+3659,doll_78.2 b,,,
+3660,doll_5.5 b,,,
+3661,doll_9.7 b,,,
+3662,doll_12.9 b,,,
+3663,doll_13.9 b,,,
+3664,doll_34.6 b,,,
+3665,doll_17.9 b,,,
+3666,doll_16.2 b,,,
+3667,doll_109.6 b,,,
+3668,doll_15.6 b,,,
+3669,doll_40.9 b,,,
+3670,doll_37 b,,,
+3671,doll_17.9 b,,,
+3672,doll_151 m,,,
+3673,doll_23.8 b,,,
+3674,doll_10 b,,,
+3675,doll_20.6 b,,,
+3676,doll_11.3 b,,,
+3677,doll_18.9 b,,,
+3678,doll_8.3 b,,,
+3679,doll_171.3 b,,,
+3680,doll_31.9 b,,,
+3681,doll_12.8 b,,,
+3682,doll_3.2 b,,,
+3683,doll_6.3 b,,,
+3684,doll_14.1 b,,,
+3685,doll_22.7 b,,,
+3686,doll_13.9 b,,,
+3687,doll_2.7 b,,,
+3688,doll_17.2 b,,,
+3689,doll_76 b,,,
+3690,doll_12.7 b,,,
+3691,doll_80.8 b,,,
+3692,doll_23.9 b,,,
+3693,doll_26.4 b,,,
+3694,doll_8.5 b,,,
+3695,doll_49.8 b,,,
+3696,doll_17.9 b,,,
+3697,doll_8.3 b,,,
+3698,doll_6.4 b,,,
+3699,doll_8.9 b,,,
+3700,doll_8.8 b,,,
+3701,doll_5.8 b,,,
+3702,doll_14.1 b,,,
+3703,doll_33.7 b,,,
+3704,doll_13.3 b,,,
+3705,doll_10.4 b,,,
+3706,doll_13.9 b,,,
+3707,doll_46.1 b,,,
+3708,doll_12.4 b,,,
+3709,doll_15 b,,,
+3710,doll_11.8 b,,,
+3711,doll_17.5 b,,,
+3712,doll_12.8 b,,,
+3713,doll_14.3 b,,,
+3714,doll_14.4 b,,,
+3715,doll_40.4 b,,,
+3716,doll_43.4 b,,,
+3717,doll_10.2 b,,,
+3718,doll_52.9 b,,,
+3719,doll_13.6 b,,,
+3720,doll_34.1 b,,,
+3721,doll_20.4 b,,,
+3722,doll_6.4 b,,,
+3723,doll_11.8 b,,,
+3724,doll_18.2 b,,,
+3725,doll_14 b,,,
+3726,doll_35.4 b,,,
+3727,doll_4.8 b,,,
+3728,doll_39 b,,,
+3729,doll_7.5 b,,,
+3730,doll_5.1 b,,,
+3731,doll_9.4 b,,,
+3732,doll_10.8 b,,,
+3733,doll_3.8 b,,,
+3734,doll_11.8 b,,,
+3735,doll_7.8 b,,,
+3736,doll_8.4 b,,,
+3737,doll_7.1 b,,,
+3738,doll_10.3 b,,,
+3739,doll_21.8 b,,,
+3740,doll_27.7 b,,,
+3741,doll_29 b,,,
+3742,doll_9.7 b,,,
+3743,doll_10.9 b,,,
+3744,doll_10 b,,,
+3745,doll_34.1 b,,,
+3746,doll_6.7 b,,,
+3747,doll_16.9 b,,,
+3748,doll_9.8 b,,,
+3749,doll_26.9 b,,,
+3750,doll_4.5 b,,,
+3751,doll_25.3 b,,,
+3752,doll_6 b,,,
+3753,doll_14.2 b,,,
+3754,doll_16.5 b,,,
+3755,doll_17.6 b,,,
+3756,doll_14.3 b,,,
+3757,doll_23.4 b,,,
+3758,doll_17.6 b,,,
+3759,doll_11.6 b,,,
+3760,doll_16.6 b,,,
+3761,doll_17.7 b,,,
+3762,doll_4.2 b,,,
+3763,doll_10.3 b,,,
+3764,doll_20.5 b,,,
+3765,doll_7.8 b,,,
+3766,doll_17.5 b,,,
+3767,doll_25.4 b,,,
+3768,doll_3.1 b,,,
+3769,doll_11.8 b,,,
+3770,doll_7.5 b,,,
+3771,doll_14.6 b,,,
+3772,doll_8.7 b,,,
+3773,doll_2.7 b,,,
+3774,doll_20.6 b,,,
+3775,doll_8.1 b,,,
+3776,doll_11.9 b,,,
+3777,doll_10.9 b,,,
+3778,doll_34.8 b,,,
+3779,doll_8.2 b,,,
+3780,doll_11.8 b,,,
+3781,doll_13.6 b,,,
+3782,doll_10.6 b,,,
+3783,doll_8.1 b,,,
+3784,doll_5.6 b,,,
+3785,doll_7 b,,,
+3786,doll_6.1 b,,,
+3787,doll_17.4 b,,,
+3788,doll_10.1 b,,,
+3789,doll_7.8 b,,,
+3790,doll_5.9 b,,,
+3791,doll_22.7 b,,,
+3792,doll_24.4 b,,,
+3793,doll_7.6 b,,,
+3794,doll_19.6 b,,,
+3795,doll_16.8 b,,,
+3796,doll_9.1 b,,,
+3797,doll_22 b,,,
+3798,doll_32.5 b,,,
+3799,doll_19.3 b,,,
+3800,doll_18.3 b,,,
+3801,doll_20.4 b,,,
+3802,doll_11.6 b,,,
+3803,doll_13.1 b,,,
+3804,doll_40.9 b,,,
+3805,doll_10.3 b,,,
+3806,doll_20.3 b,,,
+3807,doll_23.5 b,,,
+3808,doll_11.2 b,,,
+3809,doll_8.4 b,,,
+3810,doll_11.8 b,,,
+3811,doll_4.8 b,,,
+3812,doll_9.7 b,,,
+3813,doll_6.8 b,,,
+3814,doll_14.3 b,,,
+3815,doll_8.7 b,,,
+3816,doll_13.9 b,,,
+3817,doll_12 b,,,
+3818,doll_11.9 b,,,
+3819,doll_33.5 b,,,
+3820,doll_10.1 b,,,
+3821,doll_5.6 b,,,
+3822,doll_9 b,,,
+3823,doll_16.2 b,,,
+3824,doll_30 b,,,
+3825,doll_24.4 b,,,
+3826,doll_12.3 b,,,
+3827,doll_751 m,,,
+3828,doll_2.6 b,,,
+3829,doll_27.1 b,,,
+3830,doll_15.6 b,,,
+3831,doll_7.4 b,,,
+3832,doll_8.5 b,,,
+3833,doll_18.7 b,,,
+3834,doll_2.1 b,,,
+3835,doll_13.9 b,,,
+3836,doll_12.7 b,,,
+3837,doll_6.1 b,,,
+3838,doll_16.3 b,,,
+3839,doll_12.9 b,,,
+3840,doll_15.6 b,,,
+3841,doll_47.9 b,,,
+3842,doll_20.8 b,,,
+3843,doll_9 b,,,
+3844,doll_7.9 b,,,
+3845,doll_18.3 b,,,
+3846,doll_12.3 b,,,
+3847,doll_24.5 b,,,
+3848,doll_9.5 b,,,
+3849,doll_6.2 b,,,
+3850,doll_19.7 b,,,
+3851,doll_4.7 b,,,
+3852,doll_41.8 b,,,
+3853,doll_26 b,,,
+3854,doll_3.4 b,,,
+3855,doll_10.4 b,,,
+3856,doll_10.1 b,,,
+3857,doll_2.5 b,,,
+3858,doll_7.7 b,,,
+3859,doll_11.7 b,,,
+3860,doll_6.2 b,,,
+3861,doll_6.1 b,,,
+3862,doll_5.2 b,,,
+3863,doll_9.4 b,,,
+3864,doll_15.3 b,,,
+3865,doll_8.7 b,,,
+3866,doll_8.4 b,,,
+3867,doll_10.8 b,,,
+3868,doll_2.4 b,,,
+3869,doll_6.4 b,,,
+3870,doll_7.5 b,,,
+3871,doll_11.1 b,,,
+3872,doll_17.6 b,,,
+3873,doll_11.7 b,,,
+3874,doll_11.4 b,,,
+3875,doll_14.8 b,,,
+3876,doll_8.6 b,,,
+3877,doll_20 b,,,
+3878,doll_26.1 b,,,
+3879,doll_21.7 b,,,
+3880,doll_12.2 b,,,
+3881,doll_8.7 b,,,
+3882,doll_14.1 b,,,
+3883,doll_12.2 b,,,
+3884,doll_16.7 b,,,
+3885,doll_16 b,,,
+3886,doll_10.9 b,,,
+3887,doll_21.7 b,,,
+3888,doll_9.1 b,,,
+3889,doll_10.1 b,,,
+3890,doll_16.9 b,,,
+3891,doll_5.6 b,,,
+3892,doll_13.2 b,,,
+3893,doll_8 b,,,
+3894,doll_5.7 b,,,
+3895,doll_12.4 b,,,
+3896,doll_21.8 b,,,
+3897,doll_5.8 b,,,
+3898,doll_5.7 b,,,
+3899,doll_731 m,,,
+3900,doll_29.4 b,,,
+3901,doll_8.3 b,,,
+3902,doll_10.5 b,,,
+3903,doll_5.8 b,,,
+3904,doll_24.9 b,,,
+3905,doll_12 b,,,
+3906,doll_12 b,,,
+3907,doll_12 b,,,
+3908,doll_3.8 b,,,
+3909,doll_9.3 b,,,
+3910,doll_68.5 b,,,
+3911,doll_14 b,,,
+3912,doll_10.7 b,,,
+3913,doll_19.2 b,,,
+3914,doll_19 b,,,
+3915,doll_9.6 b,,,
+3916,doll_3.6 b,,,
+3917,doll_26.8 b,,,
+3918,doll_11 b,,,
+3919,doll_18.8 b,,,
+3920,doll_23.4 b,,,
+3921,doll_4.6 b,,,
+3922,doll_43.4 b,,,
+3923,doll_14.6 b,,,
+3924,doll_13 b,,,
+3925,doll_12.7 b,,,
+3926,doll_17.9 b,,,
+3927,doll_3.9 b,,,
+3928,doll_7.6 b,,,
+3929,doll_11.6 b,,,
+3930,doll_5.9 b,,,
+3931,doll_3.9 b,,,
+3932,doll_18.4 b,,,
+3933,doll_25.1 b,,,
+3934,doll_14 b,,,
+3935,doll_10.6 b,,,
+3936,doll_19.9 b,,,
+3937,doll_5.5 b,,,
+3938,doll_4.5 b,,,
+3939,doll_14.4 b,,,
+3940,doll_27.3 b,,,
+3941,doll_13.6 b,,,
+3942,doll_24 b,,,
+3943,doll_8.6 b,,,
+3944,doll_11.6 b,,,
+3945,doll_2.1 b,,,
+3946,doll_5 b,,,
+3947,doll_14.4 b,,,
+3948,doll_7.9 b,,,
+3949,doll_3.9 b,,,
+3950,doll_8.2 b,,,
+3951,doll_5.8 b,,,
+3952,doll_19.6 b,,,
+3953,doll_12.1 b,,,
+3954,doll_24 b,,,
+3955,doll_13 b,,,
+3956,doll_9.9 b,,,
+3957,doll_19.6 b,,,
+3958,doll_15.6 b,,,
+3959,doll_4.2 b,,,
+3960,doll_17.7 b,,,
+3961,doll_14.5 b,,,
+3962,doll_2.4 b,,,
+3963,doll_1.8 b,,,
+3964,doll_12 b,,,
+3965,doll_6.8 b,,,
+3966,doll_16.7 b,,,
+3967,doll_10.7 b,,,
+3968,doll_13.5 b,,,
+3969,doll_6.9 b,,,
+3970,doll_2.2 b,,,
+3971,doll_6.4 b,,,
+3972,doll_15.5 b,,,
+3973,doll_10.3 b,,,
+3974,doll_25.3 b,,,
+3975,doll_6.1 b,,,
+3976,doll_7.6 b,,,
+3977,doll_25.3 b,,,
+3978,doll_31.5 b,,,
+3979,doll_5.7 b,,,
+3980,doll_10.1 b,,,
+3981,doll_12.9 b,,,
+3982,doll_11.5 b,,,
+3983,doll_34.5 b,,,
+3984,doll_14.9 b,,,
+3985,doll_19.4 b,,,
+3986,doll_10.3 b,,,
+3987,doll_17.7 b,,,
+3988,doll_15.8 b,,,
+3989,doll_20.3 b,,,
+3990,doll_3.2 b,,,
+3991,doll_7.6 b,,,
+3992,doll_1.5 b,,,
+3993,doll_6.6 b,,,
+3994,doll_8.3 b,,,
+3995,doll_4.5 b,,,
+3996,doll_3.1 b,,,
+3997,doll_9.9 b,,,
+3998,doll_27.8 b,,,
+3999,doll_11.3 b,,,
+4000,doll_19.7 b,,,
+4001,doll_17.7 b,,,
+4002,doll_7 b,,,
+4003,doll_13.7 b,,,
+4004,doll_15 b,,,
+4005,doll_3.1 b,,,
+4006,doll_5.8 b,,,
+4007,doll_8.1 b,,,
+4008,doll_10.9 b,,,
+4009,doll_5.2 b,,,
+4010,doll_2.7 b,,,
+4011,doll_8.8 b,,,
+4012,doll_14 b,,,
+4013,doll_6.5 b,,,
+4014,doll_12.6 b,,,
+4015,doll_8.3 b,,,
+4016,doll_33.4 b,,,
+4017,doll_15.4 b,,,
+4018,doll_23.8 b,,,
+4019,doll_25.8 b,,,
+4020,doll_1.3 b,,,
+4021,doll_13.3 b,,,
+4022,doll_12 b,,,
+4023,doll_7.7 b,,,
+4024,doll_5.8 b,,,
+4025,doll_11.1 b,,,
+4026,doll_45.2 b,,,
+4027,doll_19.5 b,,,
+4028,doll_6.2 b,,,
+4029,doll_5.8 b,,,
+4030,doll_19.9 b,,,
+4031,doll_7 b,,,
+4032,doll_5.8 b,,,
+4033,doll_12.3 b,,,
+4034,doll_3 b,,,
+4035,doll_4.3 b,,,
+4036,doll_2.9 b,,,
+4037,doll_4.2 b,,,
+4038,doll_5.4 b,,,
+4039,doll_7.6 b,,,
+4040,doll_12.1 b,,,
+4041,doll_11.3 b,,,
+4042,doll_8.3 b,,,
+4043,doll_42.1 b,,,
+4044,doll_7.5 b,,,
+4045,doll_13.9 b,,,
+4046,doll_8.2 b,,,
+4047,doll_6.6 b,,,
+4048,doll_14.1 b,,,
+4049,doll_14.6 b,,,
+4050,doll_2.8 b,,,
+4051,doll_15.8 b,,,
+4052,doll_23.1 b,,,
+4053,doll_5.6 b,,,
+4054,doll_3 b,,,
+4055,doll_4.7 b,,,
+4056,doll_331 m,,,
+4057,doll_1.9 b,,,
+4058,doll_8.3 b,,,
+4059,doll_21.9 b,,,
+4060,doll_10.9 b,,,
+4061,doll_17 b,,,
+4062,doll_11.6 b,,,
+4063,doll_13 b,,,
+4064,doll_6.8 b,,,
+4065,doll_10.2 b,,,
+4066,doll_11.4 b,,,
+4067,doll_8.5 b,,,
+4068,doll_2.3 b,,,
+4069,doll_29.1 b,,,
+4070,doll_11.6 b,,,
+4071,doll_2.9 b,,,
+4072,doll_6.4 b,,,
+4073,doll_25.5 b,,,
+4074,doll_11.4 b,,,
+4075,doll_6.4 b,,,
+4076,doll_11.7 b,,,
+4077,doll_14.5 b,,,
+4078,doll_20.6 b,,,
+4079,doll_9.7 b,,,
+4080,doll_6.1 b,,,
+4081,doll_42.2 b,,,
+4082,doll_4.1 b,,,
+4083,doll_5.9 b,,,
+4084,doll_9.1 b,,,
+4085,doll_3.5 b,,,
+4086,doll_17.2 b,,,
+4087,doll_13.1 b,,,
+4088,doll_24.1 b,,,
+4089,doll_25.2 b,,,
+4090,doll_11.7 b,,,
+4091,doll_1.7 b,,,
+4092,doll_28.1 b,,,
+4093,doll_18.2 b,,,
+4094,doll_5 b,,,
+4095,doll_5.3 b,,,
+4096,doll_15.8 b,,,
+4097,doll_5.7 b,,,
+4098,doll_23.2 b,,,
+4099,doll_4.5 b,,,
+4100,doll_7.8 b,,,
+4101,doll_5.5 b,,,
+4102,doll_5.7 b,,,
+4103,doll_10.5 b,,,
+4104,doll_4.3 b,,,
+4105,doll_26.7 b,,,
+4106,doll_10.9 b,,,
+4107,doll_7.3 b,,,
+4108,doll_13 b,,,
+4109,doll_3.7 b,,,
+4110,doll_4.9 b,,,
+4111,doll_2.1 b,,,
+4112,doll_10.3 b,,,
+4113,doll_3.7 b,,,
+4114,doll_5.4 b,,,
+4115,doll_4.6 b,,,
+4116,doll_36.1 b,,,
+4117,doll_15.7 b,,,
+4118,doll_11 b,,,
+4119,doll_9.4 b,,,
+4120,doll_7.3 b,,,
+4121,doll_10.5 b,,,
+4122,doll_13.8 b,,,
+4123,doll_11.6 b,,,
+4124,doll_7.3 b,,,
+4125,doll_5 b,,,
+4126,doll_6.3 b,,,
+4127,doll_11.1 b,,,
+4128,doll_30.7 b,,,
+4129,doll_12.5 b,,,
+4130,doll_3.2 b,,,
+4131,doll_2.9 b,,,
+4132,doll_17.2 b,,,
+4133,doll_8.1 b,,,
+4134,doll_1.9 b,,,
+4135,doll_40.8 b,,,
+4136,doll_9.5 b,,,
+4137,doll_11.2 b,,,
+4138,doll_13.3 b,,,
+4139,doll_8.6 b,,,
+4140,doll_3.1 b,,,
+4141,doll_1.5 b,,,
+4142,doll_27.3 b,,,
+4143,doll_3 b,,,
+4144,doll_11.1 b,,,
+4145,doll_13.5 b,,,
+4146,doll_16.7 b,,,
+4147,doll_8.6 b,,,
+4148,doll_15.8 b,,,
+4149,doll_3.8 b,,,
+4150,doll_15.4 b,,,
+4151,doll_22.3 b,,,
+4152,doll_10.1 b,,,
+4153,doll_4.8 b,,,
+4154,doll_11.6 b,,,
+4155,doll_16.8 b,,,
+4156,doll_9.9 b,,,
+4157,doll_25.6 b,,,
+4158,doll_16.5 b,,,
+4159,doll_18.1 b,,,
+4160,doll_13.8 b,,,
+4161,doll_9.3 b,,,
+4162,doll_7.7 b,,,
+4163,doll_30.1 b,,,
+4164,doll_15.1 b,,,
+4165,doll_18.4 b,,,
+4166,doll_1.8 b,,,
+4167,doll_1 b,,,
+4168,doll_4.7 b,,,
+4169,doll_18.2 b,,,
+4170,doll_13 b,,,
+4171,doll_9.5 b,,,
+4172,doll_8.9 b,,,
+4173,doll_12.4 b,,,
+4174,doll_14.6 b,,,
+4175,doll_5.1 b,,,
+4176,doll_10.7 b,,,
+4177,doll_20.5 b,,,
+4178,doll_6.3 b,,,
+4179,doll_4.7 b,,,
+4180,doll_9.5 b,,,
+4181,doll_21 b,,,
+4182,doll_39.2 b,,,
+4183,doll_4.1 b,,,
+4184,doll_11.9 b,,,
+4185,doll_8.7 b,,,
+4186,doll_5.6 b,,,
+4187,doll_5.1 b,,,
+4188,doll_16.6 b,,,
+4189,doll_5.7 b,,,
+4190,doll_16.8 b,,,
+4191,doll_30.5 b,,,
+4192,doll_12.6 b,,,
+4193,doll_18.9 b,,,
+4194,doll_28.6 b,,,
+4195,doll_2.7 b,,,
+4196,doll_17.4 b,,,
+4197,doll_7.7 b,,,
+4198,doll_28.4 b,,,
+4199,doll_8.6 b,,,
+4200,doll_2.5 b,,,
+4201,doll_3.1 b,,,
+4202,doll_8.7 b,,,
+4203,doll_9 b,,,
+4204,doll_13.7 b,,,
+4205,doll_10.5 b,,,
+4206,doll_13.3 b,,,
+4207,doll_19.5 b,,,
+4208,doll_6.4 b,,,
+4209,doll_12 b,,,
+4210,doll_4.9 b,,,
+4211,doll_5.9 b,,,
+4212,doll_3.5 b,,,
+4213,doll_1.8 b,,,
+4214,doll_11 b,,,
+4215,doll_13.2 b,,,
+4216,doll_6.9 b,,,
+4217,doll_6.7 b,,,
+4218,doll_3.1 b,,,
+4219,doll_3.5 b,,,
+4220,doll_1.5 b,,,
+4221,doll_7.5 b,,,
+4222,doll_13.8 b,,,
+4223,doll_19.9 b,,,
+4224,doll_10.9 b,,,
+4225,doll_5 b,,,
+4226,doll_9.3 b,,,
+4227,doll_24.7 b,,,
+4228,doll_7.8 b,,,
+4229,doll_12.8 b,,,
+4230,doll_4.8 b,,,
+4231,doll_15.2 b,,,
+4232,doll_16.2 b,,,
+4233,doll_17.5 b,,,
+4234,doll_6.5 b,,,
+4235,doll_12.4 b,,,
+4236,doll_5.6 b,,,
+4237,doll_4.5 b,,,
+4238,doll_4.5 b,,,
+4239,doll_15.8 b,,,
+4240,doll_17.3 b,,,
+4241,doll_11.3 b,,,
+4242,doll_9.2 b,,,
+4243,doll_18 b,,,
+4244,doll_1.1 b,,,
+4245,doll_4.7 b,,,
+4246,doll_24.9 b,,,
+4247,doll_17.8 b,,,
+4248,doll_7.9 b,,,
+4249,doll_3.4 b,,,
+4250,doll_12.4 b,,,
+4251,doll_10.5 b,,,
+4252,doll_2.6 b,,,
+4253,doll_5.5 b,,,
+4254,doll_2.3 b,,,
+4255,doll_87.3 b,,,
+4256,doll_14.6 b,,,
+4257,doll_30.1 b,,,
+4258,doll_5.3 b,,,
+4259,doll_3.9 b,,,
+4260,doll_5.4 b,,,
+4261,doll_6 b,,,
+4262,doll_13.8 b,,,
+4263,doll_11.5 b,,,
+4264,doll_22.8 b,,,
+4265,doll_6.2 b,,,
+4266,doll_19.4 b,,,
+4267,doll_16 b,,,
+4268,doll_13 b,,,
+4269,doll_12.6 b,,,
+4270,doll_19.9 b,,,
+4271,doll_13.1 b,,,
+4272,doll_3.2 b,,,
+4273,doll_12.3 b,,,
+4274,doll_4.3 b,,,
+4275,doll_12.6 b,,,
+4276,doll_3.5 b,,,
+4277,doll_3.8 b,,,
+4278,doll_8.6 b,,,
+4279,doll_16.6 b,,,
+4280,doll_7 b,,,
+4281,doll_35 b,,,
+4282,doll_3.6 b,,,
+4283,doll_2.8 b,,,
+4284,doll_5.8 b,,,
+4285,doll_13.6 b,,,
+4286,doll_18.1 b,,,
+4287,doll_12.1 b,,,
+4288,doll_6.4 b,,,
+4289,doll_692 m,,,
+4290,doll_16.4 b,,,
+4291,doll_11.3 b,,,
+4292,doll_15.1 b,,,
+4293,doll_6.1 b,,,
+4294,doll_4 b,,,
+4295,doll_5.5 b,,,
+4296,doll_4.3 b,,,
+4297,doll_16.8 b,,,
+4298,doll_15.5 b,,,
+4299,doll_5.4 b,,,
+4300,doll_10.4 b,,,
+4301,doll_7.1 b,,,
+4302,doll_16.9 b,,,
+4303,doll_14.1 b,,,
+4304,doll_11.6 b,,,
+4305,doll_5.8 b,,,
+4306,doll_3.3 b,,,
+4307,doll_2.1 b,,,
+4308,doll_3.8 b,,,
+4309,doll_1.7 b,,,
+4310,doll_4.5 b,,,
+4311,doll_5.1 b,,,
+4312,doll_2.9 b,,,
+4313,doll_1.6 b,,,
+4314,doll_6.6 b,,,
+4315,doll_8.3 b,,,
+4316,doll_7.1 b,,,
+4317,doll_9.9 b,,,
+4318,doll_8 b,,,
+4319,doll_6.5 b,,,
+4320,doll_4.4 b,,,
+4321,doll_26.9 b,,,
+4322,doll_13.1 b,,,
+4323,doll_8.9 b,,,
+4324,doll_8 b,,,
+4325,doll_11.2 b,,,
+4326,doll_8.4 b,,,
+4327,doll_8.3 b,,,
+4328,doll_118 m,,,
+4329,doll_14.1 b,,,
+4330,doll_23 b,,,
+4331,doll_25.2 b,,,
+4332,doll_15.5 b,,,
+4333,doll_6.4 b,,,
+4334,doll_5.6 b,,,
+4335,doll_7.4 b,,,
+4336,doll_17.5 b,,,
+4337,doll_7.2 b,,,
+4338,doll_1.1 b,,,
+4339,doll_5 b,,,
+4340,doll_4.2 b,,,
+4341,doll_47.6 b,,,
+4342,doll_20.4 b,,,
+4343,doll_5 b,,,
+4344,doll_44.2 b,,,
+4345,doll_17.9 b,,,
+4346,doll_8.7 b,,,
+4347,doll_6.4 b,,,
+4348,doll_6.2 b,,,
+4349,doll_3.2 b,,,
+4350,doll_11.9 b,,,
+4351,doll_2.7 b,,,
+4352,doll_7.7 b,,,
+4353,doll_6.2 b,,,
+4354,doll_8 b,,,
+4355,doll_6.6 b,,,
+4356,doll_8.4 b,,,
+4357,doll_11.3 b,,,
+4358,doll_1.2 b,,,
+4359,doll_6.3 b,,,
+4360,doll_1.2 b,,,
+4361,doll_5.1 b,,,
+4362,doll_3.7 b,,,
+4363,doll_10.2 b,,,
+4364,doll_10.3 b,,,
+4365,doll_14.6 b,,,
+4366,doll_2.6 b,,,
+4367,doll_10.4 b,,,
+4368,doll_13 b,,,
+4369,doll_6.2 b,,,
+4370,doll_8.9 b,,,
+4371,doll_7.1 b,,,
+4372,doll_6.2 b,,,
+4373,doll_5.6 b,,,
+4374,doll_19 b,,,
+4375,doll_2.5 b,,,
+4376,doll_1.5 b,,,
+4377,doll_1.6 b,,,
+4378,doll_6.9 b,,,
+4379,doll_29.9 b,,,
+4380,doll_3 b,,,
+4381,doll_7.7 b,,,
+4382,doll_11.1 b,,,
+4383,doll_15.7 b,,,
+4384,doll_7.2 b,,,
+4385,doll_6.3 b,,,
+4386,doll_11.8 b,,,
+4387,doll_8.1 b,,,
+4388,doll_2 b,,,
+4389,doll_4.5 b,,,
+4390,doll_17 b,,,
+4391,doll_4.2 b,,,
+4392,doll_13.1 b,,,
+4393,doll_11.4 b,,,
+4394,doll_3.2 b,,,
+4395,doll_17 b,,,
+4396,doll_10.1 b,,,
+4397,doll_9.2 b,,,
+4398,doll_1.6 b,,,
+4399,doll_1.1 b,,,
+4400,doll_7.1 b,,,
+4401,doll_7.7 b,,,
+4402,doll_15.6 b,,,
+4403,doll_2.1 b,,,
+4404,doll_14.3 b,,,
+4405,doll_17.6 b,,,
+4406,doll_5.1 b,,,
+4407,doll_3.5 b,,,
+4408,doll_7.8 b,,,
+4409,doll_13.4 b,,,
+4410,doll_2.1 b,,,
+4411,doll_13 b,,,
+4412,doll_10 b,,,
+4413,doll_5.5 b,,,
+4414,doll_18.5 b,,,
+4415,doll_2.5 b,,,
+4416,doll_988 m,,,
+4417,doll_72 b,,,
+4418,doll_6 b,,,
+4419,doll_26.3 b,,,
+4420,doll_10.4 b,,,
+4421,doll_24.8 b,,,
+4422,doll_2 b,,,
+4423,doll_7.8 b,,,
+4424,doll_6.5 b,,,
+4425,doll_23.3 b,,,
+4426,doll_14 b,,,
+4427,doll_5 b,,,
+4428,doll_4.7 b,,,
+4429,doll_2.6 b,,,
+4430,doll_12.4 b,,,
+4431,doll_4.6 b,,,
+4432,doll_11.5 b,,,
+4433,doll_3.7 b,,,
+4434,doll_8.9 b,,,
+4435,doll_13.2 b,,,
+4436,doll_14.9 b,,,
+4437,doll_8.2 b,,,
+4438,doll_71.6 b,,,
+4439,doll_55 m,,,
+4440,doll_12.2 b,,,
+4441,doll_10.3 b,,,
+4442,doll_8.9 b,,,
+4443,doll_1.4 b,,,
+4444,doll_3.9 b,,,
+4445,doll_3.3 b,,,
+4446,doll_5.2 b,,,
+4447,doll_30.9 b,,,
+4448,doll_5.9 b,,,
+4449,doll_4 b,,,
+4450,doll_11.2 b,,,
+4451,doll_5.1 b,,,
+4452,doll_7.9 b,,,
+4453,doll_11 b,,,
+4454,doll_8.9 b,,,
+4455,doll_1.3 b,,,
+4456,doll_7.1 b,,,
+4457,doll_2.3 b,,,
+4458,doll_1.1 b,,,
+4459,doll_20.4 b,,,
+4460,doll_3.4 b,,,
+4461,doll_1.6 b,,,
+4462,doll_8.7 b,,,
+4463,doll_3.7 b,,,
+4464,doll_8.4 b,,,
+4465,doll_7 b,,,
+4466,doll_1.3 b,,,
+4467,doll_2 b,,,
+4468,doll_3.8 b,,,
+4469,doll_14.5 b,,,
+4470,doll_16 b,,,
+4471,doll_5.1 b,,,
+4472,doll_3.2 b,,,
+4473,doll_3.4 b,,,
+4474,doll_3 b,,,
+4475,doll_3.8 b,,,
+4476,doll_3 b,,,
+4477,doll_7.6 b,,,
+4478,doll_4.7 b,,,
+4479,doll_2.3 b,,,
+4480,doll_3.5 b,,,
+4481,doll_3.6 b,,,
+4482,doll_13.6 b,,,
+4483,doll_8.5 b,,,
+4484,doll_2.1 b,,,
+4485,doll_12.6 b,,,
+4486,doll_7.7 b,,,
+4487,doll_5.1 b,,,
+4488,doll_7.7 b,,,
+4489,doll_4.1 b,,,
+4490,doll_2.1 b,,,
+4491,doll_5.2 b,,,
+4492,doll_6.2 b,,,
+4493,doll_3.1 b,,,
+4494,doll_15.8 b,,,
+4495,doll_18.2 b,,,
+4496,doll_9.6 b,,,
+4497,doll_5.8 b,,,
+4498,doll_14.5 b,,,
+4499,doll_14.8 b,,,
+4500,doll_1.4 b,,,
+4501,doll_13.3 b,,,
+4502,doll_3 b,,,
+4503,doll_5.6 b,,,
+4504,doll_1.3 b,,,
+4505,doll_929 m,,,
+4506,doll_19 b,,,
+4507,doll_13.4 b,,,
+4508,doll_7.9 b,,,
+4509,doll_3 b,,,
+4510,doll_3.8 b,,,
+4511,doll_5.4 b,,,
+4512,doll_39.7 b,,,
+4513,doll_5.7 b,,,
+4514,doll_5.4 b,,,
+4515,doll_2.9 b,,,
+4516,doll_8 b,,,
+4517,doll_2.9 b,,,
+4518,doll_2.5 b,,,
+4519,doll_2.9 b,,,
+4520,doll_5.6 b,,,
+4521,doll_901 m,,,
+4522,doll_9.1 b,,,
+4523,doll_2.9 b,,,
+4524,doll_6.3 b,,,
+4525,doll_2.6 b,,,
+4526,doll_2.2 b,,,
+4527,doll_2.8 b,,,
+4528,doll_4.2 b,,,
+4529,doll_29.5 b,,,
+4530,doll_2.8 b,,,
+4531,doll_7.3 b,,,
+4532,doll_3.4 b,,,
+4533,doll_6.4 b,,,
+4534,doll_11.9 b,,,
+4535,doll_17.4 b,,,
+4536,doll_3.7 b,,,
+4537,doll_2.1 b,,,
+4538,doll_1.7 b,,,
+4539,doll_9.4 b,,,
+4540,doll_12.8 b,,,
+4541,doll_5.4 b,,,
+4542,doll_2 b,,,
+4543,doll_2.7 b,,,
+4544,doll_4.4 b,,,
+4545,doll_1.2 b,,,
+4546,doll_1.6 b,,,
+4547,doll_29.8 b,,,
+4548,doll_4.7 b,,,
+4549,doll_7.4 b,,,
+4550,doll_9.7 b,,,
+4551,doll_1.7 b,,,
+4552,doll_20.6 b,,,
+4553,doll_13.8 b,,,
+4554,doll_7.4 b,,,
+4555,doll_6.6 b,,,
+4556,doll_2.4 b,,,
+4557,doll_8.5 b,,,
+4558,doll_1.9 b,,,
+4559,doll_4.4 b,,,
+4560,doll_6.8 b,,,
+4561,doll_2.8 b,,,
+4562,doll_6.4 b,,,
+4563,doll_6.5 b,,,
+4564,doll_10.2 b,,,
+4565,doll_2.1 b,,,
+4566,doll_3.6 b,,,
+4567,doll_3 b,,,
+4568,doll_477 m,,,
+4569,doll_419 m,,,
+4570,doll_5.3 b,,,
+4571,doll_10 b,,,
+4572,doll_3.9 b,,,
+4573,doll_7.9 b,,,
+4574,doll_41.8 b,,,
+4575,doll_2 b,,,
+4576,doll_10 b,,,
+4577,doll_10.1 b,,,
+4578,doll_9 b,,,
+4579,doll_2.3 b,,,
+4580,doll_7.4 b,,,
+4581,doll_5 b,,,
+4582,doll_5.6 b,,,
+4583,doll_1.6 b,,,
+4584,doll_2 b,,,
+4585,doll_4.9 b,,,
+4586,doll_10.3 b,,,
+4587,doll_16.6 b,,,
+4588,doll_30.8 b,,,
+4589,doll_2.7 b,,,
+4590,doll_1.2 b,,,
+4591,doll_8.5 b,,,
+4592,doll_8.5 b,,,
+4593,doll_7.5 b,,,
+4594,doll_5.1 b,,,
+4595,doll_6.4 b,,,
+4596,doll_18.4 b,,,
+4597,doll_13.5 b,,,
+4598,doll_8.4 b,,,
+4599,doll_1.8 b,,,
+4600,doll_4.7 b,,,
+4601,doll_11.5 b,,,
+4602,doll_5.1 b,,,
+4603,doll_2 b,,,
+4604,doll_2.2 b,,,
+4605,doll_5.4 b,,,
+4606,doll_4.6 b,,,
+4607,doll_2.2 b,,,
+4608,doll_4.8 b,,,
+4609,doll_13 b,,,
+4610,doll_1.2 b,,,
+4611,doll_1.3 b,,,
+4612,doll_13.1 b,,,
+4613,doll_4.9 b,,,
+4614,doll_377 m,,,
+4615,doll_3.2 b,,,
+4616,doll_1.3 b,,,
+4617,doll_12.6 b,,,
+4618,doll_1.6 b,,,
+4619,doll_3.1 b,,,
+4620,doll_4.7 b,,,
+4621,doll_4.4 b,,,
+4622,doll_3.8 b,,,
+4623,doll_5.5 b,,,
+4624,doll_3.9 b,,,
+4625,doll_1.2 b,,,
+4626,doll_3.2 b,,,
+4627,doll_2.8 b,,,
+4628,doll_1.5 b,,,
+4629,doll_274 m,,,
+4630,doll_8 b,,,
+4631,doll_16.2 b,,,
+4632,doll_2.7 b,,,
+4633,doll_3.8 b,,,
+4634,doll_7.1 b,,,
+4635,doll_12.3 b,,,
+4636,doll_1.1 b,,,
+4637,doll_2.7 b,,,
+4638,doll_7.7 b,,,
+4639,doll_54.8 b,,,
+4640,doll_429 m,,,
+4641,doll_1.9 b,,,
+4642,doll_1.2 b,,,
+4643,doll_2.4 b,,,
+4644,doll_2.6 b,,,
+4645,doll_3.5 b,,,
+4646,doll_2 b,,,
+4647,doll_1.6 b,,,
+4648,doll_20.8 b,,,
+4649,doll_1.7 b,,,
+4650,doll_6.5 b,,,
+4651,doll_3.2 b,,,
+4652,doll_1.8 b,,,
+4653,doll_738 m,,,
+4654,doll_7.3 b,,,
+4655,doll_30 b,,,
+4656,doll_2 b,,,
+4657,doll_19.2 b,,,
+4658,doll_3.7 b,,,
+4659,doll_2.4 b,,,
+4660,doll_792 m,,,
+4661,doll_4.4 b,,,
+4662,doll_7.3 b,,,
+4663,doll_4.4 b,,,
+4664,doll_5.3 b,,,
+4665,doll_24.5 b,,,
+4666,doll_1.2 b,,,
+4667,doll_5.1 b,,,
+4668,doll_2.1 b,,,
+4669,doll_18.7 b,,,
+4670,doll_5.8 b,,,
+4671,doll_1.3 b,,,
+4672,doll_2.8 b,,,
+4673,doll_4.4 b,,,
+4674,doll_1.5 b,,,
+4675,doll_27.9 b,,,
+4676,doll_5.8 b,,,
+4677,doll_27.8 b,,,
+4678,doll_2.4 b,,,
+4679,doll_3.7 b,,,
+4680,doll_27.8 b,,,
+4681,doll_8.2 b,,,
+4682,doll_6.4 b,,,
+4683,doll_5.2 b,,,
+4684,doll_17.8 b,,,
+4685,doll_3.8 b,,,
+4686,doll_1.3 b,,,
+4687,doll_8.5 b,,,
+4688,doll_12.6 b,,,
+4689,doll_2.3 b,,,
+4690,doll_1 b,,,
+4691,doll_12.1 b,,,
+4692,doll_6.5 b,,,
+4693,doll_27.3 b,,,
+4694,doll_15 b,,,
+4695,doll_9 b,,,
+4696,doll_1.7 b,,,
+4697,doll_3.3 b,,,
+4698,doll_1.2 b,,,
+4699,doll_3.4 b,,,
+4700,doll_16.7 b,,,
+4701,doll_9.2 b,,,
+4702,doll_967 m,,,
+4703,doll_12.2 b,,,
+4704,doll_1.5 b,,,
+4705,doll_12.2 b,,,
+4706,doll_2.9 b,,,
+4707,doll_5.6 b,,,
+4708,doll_1.1 b,,,
+4709,doll_1.8 b,,,
+4710,doll_26.1 b,,,
+4711,doll_13.3 b,,,
+4712,doll_3.3 b,,,
+4713,doll_2.3 b,,,
+4714,doll_9.8 b,,,
+4715,doll_1.4 b,,,
+4716,doll_6.3 b,,,
+4717,doll_4.7 b,,,
+4718,doll_2.5 b,,,
+4719,doll_2.1 b,,,
+4720,doll_1.2 b,,,
+4721,doll_3.6 b,,,
+4722,doll_13.3 b,,,
+4723,doll_398 m,,,
+4724,doll_23.4 b,,,
+4725,doll_2.9 b,,,
+4726,doll_5 b,,,
+4727,doll_4.4 b,,,
+4728,doll_8.4 b,,,
+4729,doll_5.7 b,,,
+4730,doll_6 b,,,
+4731,doll_3.4 b,,,
+4732,doll_17.5 b,,,
+4733,doll_761 m,,,
+4734,doll_24.6 b,,,
+4735,doll_2.8 b,,,
+4736,doll_3.5 b,,,
+4737,doll_1.7 b,,,
+4738,doll_3.5 b,,,
+4739,doll_6.3 b,,,
+4740,doll_1.2 b,,,
+4741,doll_16.1 b,,,
+4742,doll_1.8 b,,,
+4743,doll_14.2 b,,,
+4744,doll_14.6 b,,,
+4745,doll_353 m,,,
+4746,doll_1.6 b,,,
+4747,doll_23.6 b,,,
+4748,doll_2.9 b,,,
+4749,doll_9.3 b,,,
+4750,doll_2.6 b,,,
+4751,doll_23.5 b,,,
+4752,doll_7.5 b,,,
+4753,doll_15.3 b,,,
+4754,doll_5.1 b,,,
+4755,doll_4.5 b,,,
+4756,doll_8.9 b,,,
+4757,doll_4.1 b,,,
+4758,doll_4 b,,,
+4759,doll_5 b,,,
+4760,doll_9.5 b,,,
+4761,doll_1.2 b,,,
+4762,doll_1 b,,,
+4763,doll_3.5 b,,,
+4764,doll_2.5 b,,,
+4765,doll_1.5 b,,,
+4766,doll_1.1 b,,,
+4767,doll_5.9 b,,,
+4768,doll_10.6 b,,,
+4769,doll_9.1 b,,,
+4770,doll_3.3 b,,,
+4771,doll_3.2 b,,,
+4772,doll_164 m,,,
+4773,doll_3.9 b,,,
+4774,doll_9 b,,,
+4775,doll_5.8 b,,,
+4776,doll_9 b,,,
+4777,doll_3.1 b,,,
+4778,doll_15.5 b,,,
+4779,doll_4 b,,,
+4780,doll_3.6 b,,,
+4781,doll_21.6 b,,,
+4782,doll_863 m,,,
+4783,doll_27 m,,,
+4784,doll_4.3 b,,,
+4785,doll_12.8 b,,,
+4786,doll_20.9 b,,,
+4787,doll_8.7 b,,,
+4788,doll_2.1 b,,,
+4789,doll_7.1 b,,,
+4790,doll_20.5 b,,,
+4791,doll_3.7 b,,,
+4792,doll_8 b,,,
+4793,doll_1.6 b,,,
+4794,doll_7.7 b,,,
+4795,doll_19.3 b,,,
+4796,doll_4.1 b,,,
+4797,doll_8.7 b,,,
+4798,doll_2.9 b,,,
+4799,doll_8.1 b,,,
+4800,doll_4.9 b,,,
+4801,doll_656 m,,,
+4802,doll_18.8 b,,,
+4803,doll_12.9 b,,,
+4804,doll_13.6 b,,,
+4805,doll_1.9 b,,,
+4806,doll_5.6 b,,,
+4807,doll_20.3 b,,,
+4808,doll_4.4 b,,,
+4809,doll_701 m,,,
+4810,doll_1.5 b,,,
+4811,doll_20.3 b,,,
+4812,doll_9.2 b,,,
+4813,doll_11.5 b,,,
+4814,doll_20.1 b,,,
+4815,doll_875 m,,,
+4816,doll_4.3 b,,,
+4817,doll_4 b,,,
+4818,doll_2.1 b,,,
+4819,doll_3.2 b,,,
+4820,doll_15.1 b,,,
+4821,doll_2.3 b,,,
+4822,doll_190 m,,,
+4823,doll_1.5 b,,,
+4824,doll_6.5 b,,,
+4825,doll_5.5 b,,,
+4826,doll_19.6 b,,,
+4827,doll_8.1 b,,,
+4828,doll_2.3 b,,,
+4829,doll_630 m,,,
+4830,doll_1.4 b,,,
+4831,doll_2.5 b,,,
+4832,doll_8.2 b,,,
+4833,doll_7.7 b,,,
+4834,doll_1.8 b,,,
+4835,doll_3.9 b,,,
+4836,doll_4.9 b,,,
+4837,doll_10.9 b,,,
+4838,doll_13.7 b,,,
+4839,doll_860 m,,,
+4840,doll_3.4 b,,,
+4841,doll_16.1 b,,,
+4842,doll_1.2 b,,,
+4843,doll_1.3 b,,,
+4844,doll_10.2 b,,,
+4845,doll_3.3 b,,,
+4846,doll_1.2 b,,,
+4847,doll_3.2 b,,,
+4848,doll_2.5 b,,,
+4849,doll_19 b,,,
+4850,doll_7.9 b,,,
+4851,doll_806 m,,,
+4852,doll_7.3 b,,,
+4853,doll_226 m,,,
+4854,doll_667 m,,,
+4855,doll_525 m,,,
+4856,doll_1.9 b,,,
+4857,doll_2.3 b,,,
+4858,doll_583 m,,,
+4859,doll_2.6 b,,,
+4860,doll_18.7 b,,,
+4861,doll_14 b,,,
+4862,doll_5.4 b,,,
+4863,doll_10 b,,,
+4864,doll_18.6 b,,,
+4865,doll_18.6 b,,,
+4866,doll_123 m,,,
+4867,doll_11.6 b,,,
+4868,doll_13 b,,,
+4869,doll_1.3 b,,,
+4870,doll_726 m,,,
+4871,doll_4.7 b,,,
+4872,doll_696 m,,,
+4873,doll_1.2 b,,,
+4874,doll_198 m,,,
+4875,doll_2.1 b,,,
+4876,doll_1.6 b,,,
+4877,doll_18.2 b,,,
+4878,doll_10 b,,,
+4879,doll_3 b,,,
+4880,doll_11 b,,,
+4881,doll_830 m,,,
+4882,doll_18 b,,,
+4883,doll_1.4 b,,,
+4884,doll_2.3 b,,,
+4885,doll_8.4 b,,,
+4886,doll_8.6 b,,,
+4887,doll_1.4 b,,,
+4888,doll_2.2 b,,,
+4889,doll_1.5 b,,,
+4890,doll_635 m,,,
+4891,doll_4.3 b,,,
+4892,doll_1.3 b,,,
+4893,doll_1.4 b,,,
+4894,doll_11.7 b,,,
+4895,doll_11.9 b,,,
+4896,doll_1.2 b,,,
+4897,doll_14.6 b,,,
+4898,doll_703 m,,,
+4899,doll_3.1 b,,,
+4900,doll_6.8 b,,,
+4901,doll_4.2 b,,,
+4902,doll_1.4 b,,,
+4903,doll_2.5 b,,,
+4904,doll_17.6 b,,,
+4905,doll_17.6 b,,,
+4906,doll_1.3 b,,,
+4907,doll_4.8 b,,,
+4908,doll_5 b,,,
+4909,doll_1.6 b,,,
+4910,doll_7.9 b,,,
+4911,doll_874 m,,,
+4912,doll_2.3 b,,,
+4913,doll_5.8 b,,,
+4914,doll_17.4 b,,,
+4915,doll_14.4 b,,,
+4916,doll_4.3 b,,,
+4917,doll_705 m,,,
+4918,doll_17.1 b,,,
+4919,doll_17.1 b,,,
+4920,doll_3.4 b,,,
+4921,doll_1.7 b,,,
+4922,doll_4.6 b,,,
+4923,doll_680 m,,,
+4924,doll_1.5 b,,,
+4925,doll_3.4 b,,,
+4926,doll_1.9 b,,,
+4927,doll_1.9 b,,,
+4928,doll_3 b,,,
+4929,doll_2.9 b,,,
+4930,doll_16.8 b,,,
+4931,doll_4.6 b,,,
+4932,doll_6 b,,,
+4933,doll_2.8 b,,,
+4934,doll_1.3 b,,,
+4935,doll_1.9 b,,,
+4936,doll_825 m,,,
+4937,doll_16.7 b,,,
+4938,doll_652 m,,,
+4939,doll_2.2 b,,,
+4940,doll_8.6 b,,,
+4941,doll_3.3 b,,,
+4942,not foun d,,,
+4943,doll_3.6 b,,,
+4944,doll_5.6 b,,,
+4945,doll_2.3 b,,,
+4946,doll_6.5 b,,,
+4947,doll_7.5 b,,,
+4948,doll_3.7 b,,,
+4949,doll_1.9 b,,,
+4950,doll_4.2 b,,,
+4951,doll_15.1 b,,,
+4952,doll_16.4 b,,,
+4953,doll_12.5 b,,,
+4954,doll_2.8 b,,,
+4955,doll_2.3 b,,,
+4956,doll_700 m,,,
+4957,doll_3.7 b,,,
+4958,doll_8.6 b,,,
+4959,doll_2.3 b,,,
+4960,doll_2.7 b,,,
+4961,doll_6.6 b,,,
+4962,doll_2.5 b,,,
+4963,doll_16.2 b,,,
+4964,doll_7.9 b,,,
+4965,doll_8.1 b,,,
+4966,doll_9.3 b,,,
+4967,doll_8.4 b,,,
+4968,doll_1.4 b,,,
+4969,doll_1.3 b,,,
+4970,doll_16.1 b,,,
+4971,doll_535 m,,,
+4972,doll_1.3 b,,,
+4973,doll_1.9 b,,,
+4974,doll_10.2 b,,,
+4975,doll_16.1 b,,,
+4976,doll_2 b,,,
+4977,doll_6.5 b,,,
+4978,doll_5.8 b,,,
+4979,doll_3.3 b,,,
+4980,doll_16 b,,,
+4981,doll_13.7 b,,,
+4982,doll_1.1 b,,,
+4983,doll_11.9 b,,,
+4984,doll_4.2 b,,,
+4985,doll_2.2 b,,,
+4986,doll_2.8 b,,,
+4987,doll_1.8 b,,,
+4988,doll_1.8 b,,,
+4989,doll_6.4 b,,,
+4990,doll_8.8 b,,,
+4991,doll_3 b,,,
+4992,doll_336 m,,,
+4993,doll_7.9 b,,,
+4994,doll_6 b,,,
+4995,doll_37 m,,,
+4996,doll_3.5 b,,,
+4997,doll_15.7 b,,,
+4998,doll_4.4 b,,,
+4999,doll_2.3 b,,,

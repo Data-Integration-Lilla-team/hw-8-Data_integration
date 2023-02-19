@@ -1,0 +1,14 @@
+{
+"name": ["name"],
+"country": ["country","headquarters","nation"],
+"address": ["address","address_name","office_address"],
+"founded": ["founded","est_of_ownership","foundation_year","founding_year"],
+"employees": ["employees","employees_number","employees_2022","employees_number_2020","number_of_employees"],
+"market_cap": ["market_cap","pricecap","market_value","market_capitalization_2022"],
+"revenue": ["revenue","sales","revenue_2020_eu","annual_revenue_usd"],
+"profit": ["profit","earnings","annual_net_income_usd"],
+"categories": ["industry","categories","sector"], 
+"ceo": ["ceo"],
+"city":["city","locations","headquarters"]
+}
+
