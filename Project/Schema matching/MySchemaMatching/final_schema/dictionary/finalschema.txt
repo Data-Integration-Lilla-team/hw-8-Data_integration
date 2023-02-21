@@ -1,145 +1,84 @@
 {
-    "name": [
-        "companiesmarketcap-name",
-        "valuetoday-name"
-    ],
-    "market_capitalization_2022": [
-        "valuetoday-market_capitalization_2022",
-        "forbes-sales",
-        "forbes-market_value",
-        "companiesmarketcap-pricecap"
-    ],
-    "earnings": [
-        "companiesmarketcap-earnings",
-        "companiesmarketcap-revenue",
-        "valuetoday-revenue"
-    ],
-    "founded": [
-        "cbinsights-founded",
-        "teamblind-founded",
-        "forbes-founded",
-        "wikipedia-founded"
-    ],
-    "founded-0": [
-        "teamblind-founded",
-        "forbes-founded",
-        "wikipedia-founded",
-        "disfold-founded",
-        "cbinsights-founded"
-    ],
-    "name-1": [
-        "companiesmarketcap-name",
-        "forbes-name"
-    ],
-    "rank": [
-        "valuetoday-rank",
-        "companiesmarketcap-employees"
+    "revenue_2020_eu": [
+        "ft-revenue_2020_eu",
+        "ft-revenue_2017_eu"
     ],
     "annual_revenue_usd": [
         "valuetoday-annual_revenue_usd",
-        "valuetoday-annual_net_income_usd",
-        "companiesmarketcap-pricecap"
+        "valuetoday-annual_net_income_usd"
     ],
-    "city": [
-        "cbinsights-city",
-        "disfold-headquarters_country",
-        "valuetoday-headquarters_region_city"
+    "earnings": [
+        "companiesmarketcap-earnings",
+        "valuetoday-revenue",
+        "valuetoday-market_capitalization_2022",
+        "companiesmarketcap-revenue",
+        "globaldata-revenue",
+        "disfold-revenue"
     ],
-    "headquarters_continent": [
-        "valuetoday-headquarters_continent",
-        "hithorizons-country"
-    ],
-    "employees": [
-        "disfold-employees",
-        "ft-employees_number_2020",
-        "valuetoday-employees_2022",
-        "ft-employees_number_2017",
-        "disfold-rank"
-    ],
-    "country": [
-        "cbinsights-country",
-        "forbes-country",
-        "disfold-headquarters_continent",
-        "companiesmarketcap-country",
-        "valuetoday-country",
-        "disfold-country",
-        "ft-country",
-        "globaldata-headquarters"
+    "rank": [
+        "disfold-rank",
+        "valuetoday-rank",
+        "companiesmarketcap-rank"
     ],
     "ceo": [
         "valuetoday-ceo",
+        "disfold-ceo",
         "forbes-ceo"
     ],
-    "market_capitalization_2022-2": [
-        "valuetoday-market_capitalization_2022",
-        "valuetoday-annual_revenue_usd",
-        "forbes-sales",
-        "companiesmarketcap-pricecap",
-        "forbes-market_value",
-        "disfold-market_cap"
+    "headquarters": [
+        "disfold-headquarters",
+        "disfold-headquarters_continent",
+        "globaldata-headquarters",
+        "disfold-headquarters_country",
+        "wikipedia-headquarters",
+        "teamblind-headquarters",
+        "valuetoday-headquarters_continent"
     ],
-    "employees_2022": [
-        "valuetoday-employees_2022",
-        "globaldata-number_of_employees",
-        "forbes-employees",
-        "disfold-employees"
+    "foundation_year": [
+        "ariregister-foundation_year",
+        "ambitiobox-foundation_year",
+        "ft-founding_year"
     ],
-    "profit": [
-        "forbes-profit",
-        "forbes-sales"
+    "address": [
+        "globaldata-address",
+        "hithorizons-address",
+        "infoclipper-address_name"
     ],
-    "market_capitalization_2022-3": [
-        "valuetoday-market_capitalization_2022",
-        "forbes-profit",
-        "forbes-sales",
-        "globaldata-revenue",
-        "companiesmarketcap-pricecap",
-        "globaldata-market_cap",
-        "forbes-market_value"
+    "headquarter": [
+        "ambitiobox-headquarter",
+        "ariregister-headquarter"
     ],
-    "market_cap": [
-        "globaldata-market_cap",
-        "forbes-sales",
-        "globaldata-revenue"
-    ],
-    "employees_number_2017": [
-        "ft-employees_number_2017",
-        "ft-employees_number_2020",
-        "disfold-rank"
-    ],
-    "annual_revenue_usd-4": [
-        "valuetoday-annual_revenue_usd",
-        "valuetoday-annual_net_income_usd"
-    ],
-    "founded-5": [
-        "disfold-founded",
-        "teamblind-founded",
-        "forbes-founded",
-        "wikipedia-founded"
-    ],
-    "pricecap": [
-        "companiesmarketcap-pricecap",
-        "disfold-market_cap"
-    ],
-    "country-6": [
-        "infoclipper-country",
-        "hithorizons-country"
-    ],
-    "country-7": [
-        "infoclipper-country",
-        "valuetoday-headquarters_continent",
-        "hithorizons-country"
-    ],
-    "name-8": [
-        "companiesmarketcap-name",
+    "name": [
+        "globaldata-name",
         "forbes-name",
-        "valuetoday-name"
+        "cbinsights-name",
+        "ft-name",
+        "hithorizons-name",
+        "ariregister-name",
+        "companiesmarketcap-name",
+        "disfold-name",
+        "valuetoday-name",
+        "ambitiobox-name",
+        "wikipedia-name",
+        "infoclipper-name",
+        "teamblind-name",
+        "govuk-name"
     ],
-    "employees-9": [
-        "disfold-employees",
-        "forbes-employees",
-        "valuetoday-employees_2022",
-        "globaldata-number_of_employees",
-        "disfold-rank"
+    "founders": [
+        "valuetoday-founders",
+        "cbinsights-founded",
+        "forbes-founded",
+        "valuetoday-founded",
+        "wikipedia-founded",
+        "disfold-founded",
+        "teamblind-founded"
+    ],
+    "categories": [
+        "companiesmarketcap-categories",
+        "disfold-categories"
+    ],
+    "ownership": [
+        "ariregister-ownership",
+        "ambitiobox-ownership"
     ]
 }

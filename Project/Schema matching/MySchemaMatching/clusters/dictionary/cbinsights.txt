@@ -3,28 +3,28 @@
         "04-iGMM-company",
         "01-DDD-name"
     ],
-    "country": [
-        "01-DDD-country",
-        "04-iGMM-country"
-    ],
     "industry": [
         "01-DDD-industry",
         "04-iGMM-industry"
-    ],
-    "valuation": [
-        "01-DDD-valuation",
-        "04-iGMM-valuation"
     ],
     "selectinvestors": [
         "04-iGMM-selectinvestors",
         "01-DDD-investors"
     ],
+    "city": [
+        "01-DDD-city",
+        "04-iGMM-city"
+    ],
+    "country": [
+        "01-DDD-country",
+        "04-iGMM-country"
+    ],
+    "valuation": [
+        "04-iGMM-valuation",
+        "01-DDD-valuation"
+    ],
     "datejoined": [
         "04-iGMM-datejoined",
         "01-DDD-datejoined"
-    ],
-    "city": [
-        "04-iGMM-city",
-        "01-DDD-city"
     ]
 }

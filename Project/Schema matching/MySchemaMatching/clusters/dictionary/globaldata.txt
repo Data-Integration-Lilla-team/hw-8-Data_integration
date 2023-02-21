@@ -1,6 +1,6 @@
 {
-    "market_cap": [
-        "10-DeBiGa-market_cap",
-        "10-DeBiGa-revenue"
+    "revenue": [
+        "10-DeBiGa-revenue",
+        "10-DeBiGa-market_cap"
     ]
 }

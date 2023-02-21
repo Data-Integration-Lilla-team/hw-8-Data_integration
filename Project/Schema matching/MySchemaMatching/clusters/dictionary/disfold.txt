@@ -1,66 +1,61 @@
 {
-    "marketcap": [
-        "02-GioPonSpiz-marketcap",
-        "10-DeBiGa-market_cap",
-        "00-avengers-market_cap",
-        "04-iGMM-marketcap",
-        "03-gren-market_capitalization_usd",
-        "07-silvestri-market_value_apr_2022",
-        "05-MalPatSaj-marketcap"
-    ],
     "employees": [
-        "04-iGMM-employees",
         "00-avengers-employees",
-        "08-slytherin-employees"
+        "04-iGMM-employees"
     ],
-    "code": [
-        "04-iGMM-code",
-        "03-gren-stock",
-        "02-GioPonSpiz-stock",
-        "05-MalPatSaj-stock",
-        "10-DeBiGa-stock",
-        "07-silvestri-stock"
-    ],
-    "industry": [
-        "03-gren-industry",
-        "10-DeBiGa-industry",
-        "04-iGMM-industry",
-        "06-MarScoToc-industry",
-        "05-MalPatSaj-industry",
-        "02-GioPonSpiz-industry"
+    "name": [
+        "00-avengers-name",
+        "04-iGMM-name",
+        "05-MalPatSaj-name",
+        "07-silvestri-name",
+        "10-DeBiGa-name",
+        "03-gren-name",
+        "02-GioPonSpiz-name"
     ],
     "ceo": [
         "04-iGMM-ceo",
         "00-avengers-ceo"
     ],
-    "headquarters": [
-        "08-slytherin-headquarters",
-        "04-iGMM-headquarters"
+    "market_value_apr_2022": [
+        "07-silvestri-market_value_apr_2022",
+        "05-MalPatSaj-marketcap",
+        "02-GioPonSpiz-marketcap",
+        "10-DeBiGa-market_cap",
+        "03-gren-market_capitalization_usd",
+        "04-iGMM-marketcap",
+        "00-avengers-market_cap"
     ],
-    "name": [
-        "10-DeBiGa-name",
-        "04-iGMM-name",
-        "05-MalPatSaj-name",
-        "07-silvestri-name",
-        "03-gren-name",
-        "00-avengers-name",
-        "02-GioPonSpiz-name"
+    "country": [
+        "03-gren-country",
+        "04-iGMM-country",
+        "07-silvestri-country",
+        "05-MalPatSaj-country",
+        "02-GioPonSpiz-country",
+        "10-DeBiGa-country"
+    ],
+    "stock": [
+        "03-gren-stock",
+        "10-DeBiGa-stock",
+        "05-MalPatSaj-stock",
+        "02-GioPonSpiz-stock",
+        "07-silvestri-stock",
+        "04-iGMM-code"
     ],
     "sector": [
         "10-DeBiGa-sector",
+        "03-gren-sector",
         "07-silvestri-sector",
-        "04-iGMM-sector",
         "06-MarScoToc-sector",
         "05-MalPatSaj-sector",
-        "03-gren-sector",
+        "04-iGMM-sector",
         "02-GioPonSpiz-sector"
     ],
-    "country": [
-        "02-GioPonSpiz-country",
-        "07-silvestri-country",
-        "05-MalPatSaj-country",
-        "03-gren-country",
-        "04-iGMM-country",
-        "10-DeBiGa-country"
+    "industry": [
+        "02-GioPonSpiz-industry",
+        "10-DeBiGa-industry",
+        "04-iGMM-industry",
+        "06-MarScoToc-industry",
+        "03-gren-industry",
+        "05-MalPatSaj-industry"
     ]
 }
