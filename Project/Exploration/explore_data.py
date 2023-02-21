@@ -70,4 +70,7 @@ if __name__=='__main__':
     
     for k in Sorgenti2path.keys():
         explorer.explore_single_data(Sorgenti2path[k],k)        #applicazione logica per ogni cluster (sorgente)
+
+
+    
         

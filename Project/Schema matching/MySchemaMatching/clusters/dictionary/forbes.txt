@@ -14,7 +14,8 @@
     "market_value": [
         "05-MalPatSaj-market_value",
         "05-MalPatSaj-assets",
-        "05-MalPatSaj-sales"
+        "05-MalPatSaj-sales",
+        "07-silvestri-market_value_apr_2022"
     ],
     "assets-0": [
         "05-MalPatSaj-assets",

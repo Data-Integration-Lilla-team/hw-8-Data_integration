@@ -81,7 +81,7 @@ def generate_syntetic_data(data):
     data=data.astype(str)
     model = GaussianCopula(list(data.columns.values))
     model.fit(data)
-    synthetic_data = model.sample(num_rows=data.shape[0]*10)
+    synthetic_data = model.sample(num_rows=data.shape[0]*100)
     
     return synthetic_data
 

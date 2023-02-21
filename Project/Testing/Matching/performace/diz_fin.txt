@@ -1,0 +1,32 @@
+{
+    "name": [
+        "name"
+    ],
+    "founded": [
+        "founded"
+    ],
+    "city": [
+        "country",
+        "city"
+    ],
+    "employees": [
+        "employees_number_2017",
+        "employees",
+        "employees_2022"
+    ],
+    "country": [
+        "headquarters_continent",
+        "country",
+        "city"
+    ],
+    "ceo": [
+        "ceo"
+    ],
+    "profit": [
+        "profit"
+    ],
+    "market_cap": [
+        "market_capitalization_2022",
+        "market_cap"
+    ]
+}

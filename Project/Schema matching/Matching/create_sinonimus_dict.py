@@ -170,12 +170,17 @@ def update_diz(dizionario_gen,dizionario_sinonimi,cluster_name):
     
     for k in dizionario_sinonimi.keys():
         name_cluster=cluster_name+'-'+k
-        dizionario_gen[name_cluster]=dizionario_sinonimi[k]
+        if k not in dizionario_gen:
+            dizionario_gen[k]=set(dizionario_sinonimi[k])
+        else:
+            print('aggiorno')
+            dizionario_gen[k].update(dizionario_sinonimi[k])
+            print(k,dizionario_gen[k])
     return dizionario_gen 
 
 def create_dizionario_sinonimi_pregressi(path,dest):
 
-    dizionario_pregressi=dict()
+    dizionario_pregressi_attuali=dict()
     clusters=os.listdir(path)
     for cluster in clusters:
         cluster_name=cluster
@@ -184,15 +189,17 @@ def create_dizionario_sinonimi_pregressi(path,dest):
         files=os.listdir(path_sing_cluster)
         for f in files:
             if f=='dizionario.txt':
+                print('ok')
                 path_diz=os.path.join(path_sing_cluster,f)
                 with open(path_diz) as diz:
                     data=diz.read()
+        print(data)
 
-        dizionario_sinonimi_pregressi=json.loads(data)
-        dizionario_pregressi=update_diz(dizionario_pregressi,dizionario_sinonimi_pregressi,cluster_name)  
+        sinonimi_correnti=json.loads(data)
+        dizionario_pregressi_attuali=update_diz(dizionario_pregressi_attuali,sinonimi_correnti,cluster_name)  
 
 
-    return dizionario_pregressi      
+    return dizionario_pregressi_attuali    
         
 
 def create_token_list(dizionario_sinonimi_pregressi):
@@ -254,7 +261,7 @@ if __name__=='__main__':
     #create_sin_dic(sorgenti2path_par)
     '''
     #MODULE finale
-    parsed_data_path='Project\\Schema matching\\SchemaMatchingValentine\\clusters\\schema_parsed'
+    parsed_data_path='Project\\Schema matching\\MySchemaMatching\\clusters\\schema'
 
 
     
@@ -265,12 +272,12 @@ if __name__=='__main__':
     for k in sorgenti2path_par.keys():
         print(k,sorgenti2path_par[k])
 
-    path_for_inverted_index='Project\\Schema matching\\SchemaMatchingValentine\\clusters\\final_synonyms'
+    path_for_inverted_index='Project\\Schema matching\\MySchemaMatchingValentine\\clusters\\final_synonyms'
     path_for_dizionario_pregressi='Project\\Schema matching\\DatasetSchemaMatch'
 
     #INVERTED INDEX
     
-    inverted_index_path='Project\\Schema matching\\SchemaMatchingValentine\\files_matching\\files_vari\\inverted_index.txt'
+    inverted_index_path='Project\\Schema matching\\MySchemaMatching\\files_matching\\files_vari\\inverted_index.txt'
     #create_inverted_index=create_inverted_index_final(path_for_inverted_index)
     
     #with open(inverted_index_path, 'w') as file:
@@ -282,16 +289,19 @@ if __name__=='__main__':
 
 
     #nuova features
-    dest_dizionario_sinonimi_pregressi='Project\\Schema matching\\SchemaMatchingValentine\\files_matching\\files_vari\\dizionario_sinonimi_pregressi.txt'
+    dest_dizionario_sinonimi_pregressi='Project\\Schema matching\\MySchemaMatching\\files_matching\\files_vari\\dizionario_sinonimi_pregressi.txt'
 
     dizionario_sinonimi_pregressi=create_dizionario_sinonimi_pregressi(path_for_dizionario_pregressi,dest_dizionario_sinonimi_pregressi)
+    new_diz_preg=dict()
+    for k in dizionario_sinonimi_pregressi.keys():
+        new_diz_preg[k]=list(dizionario_sinonimi_pregressi[k])
 
     with open(dest_dizionario_sinonimi_pregressi,'w') as f:
-        f.write(json.dumps(dizionario_sinonimi_pregressi,indent=4))
+        f.write(json.dumps(new_diz_preg,indent=4))
 
 
     tokens=create_token_list(dizionario_sinonimi_pregressi)
-    create_sin_dic_final(sorgenti2path_par,tokens)
+    #create_sin_dic_final(sorgenti2path_par,tokens)
 
     
 

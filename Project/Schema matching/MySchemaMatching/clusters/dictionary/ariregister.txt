@@ -1,1 +1,1 @@
-{}
+{"url": ["url"], "id": ["id"], "status": ["status", "name"], "name": ["status", "name"], "registration_date": ["registration_date", "deletion_date", "code"], "deletion_date": ["registration_date", "deletion_date", "code"], "code": ["registration_date", "deletion_date", "code"], "legal_form": ["legal_form"], "capital": ["capital"], "address": ["address"]}

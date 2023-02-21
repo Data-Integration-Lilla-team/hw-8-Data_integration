@@ -24,6 +24,7 @@ class Token_obj:
         else:
             self.name=self.true_name
         self.sin_attuali.add(self.name)
+        self.sin_attuali.add(self.name)
 
 
         #thresholds
