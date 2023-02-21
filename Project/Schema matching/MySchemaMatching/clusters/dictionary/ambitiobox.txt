@@ -1,1 +1,1 @@
-{}
+{"industry": ["industry", "headquarter", "name"], "headquarter": ["industry", "headquarter", "name"], "name": ["industry", "headquarter", "name"], "ownership": ["ownership"], "foundation_year": ["foundation_year"]}

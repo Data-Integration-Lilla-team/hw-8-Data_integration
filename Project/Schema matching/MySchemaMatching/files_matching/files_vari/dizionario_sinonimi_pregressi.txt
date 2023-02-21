@@ -1,513 +1,349 @@
 {
-    "ambitiobox-foundation_year": [
+    "foundation_year": [
         "foundation_year"
     ],
-    "ambitiobox-headquarter": [
+    "headquarter": [
         "headquarter"
     ],
-    "ambitiobox-industry": [
-        "industry"
+    "industry": [
+        "industry",
+        "company_business"
     ],
-    "ambitiobox-name": [
-        "name"
+    "name": [
+        "name",
+        "company"
     ],
-    "ambitiobox-ownership": [
+    "ownership": [
         "ownership"
     ],
-    "ariregister-address": [
+    "address": [
         "address"
     ],
-    "ariregister-capital": [
+    "capital": [
         "capital"
     ],
-    "ariregister-code": [
+    "code": [
         "code"
     ],
-    "ariregister-deletion_date": [
+    "deletion_date": [
         "deletion_date"
     ],
-    "ariregister-legal_form": [
+    "legal_form": [
         "legal_form"
     ],
-    "ariregister-registration_date": [
+    "registration_date": [
         "registration_date"
     ],
-    "ariregister-status": [
+    "status": [
         "status"
     ],
-    "ariregister-name": [
-        "name"
-    ],
-    "ariregister-url": [
+    "url": [
         "url"
     ],
-    "ariregister-id": [
+    "id": [
         "id"
     ],
-    "cbinsights-city": [
+    "city": [
         "city"
     ],
-    "cbinsights-name": [
-        "company",
-        "name"
+    "country": [
+        "country",
+        "headquarters_country",
+        "nation",
+        "headquarters"
     ],
-    "cbinsights-country": [
-        "country"
-    ],
-    "cbinsights-datejoined": [
+    "datejoined": [
         "datejoined"
     ],
-    "cbinsights-founded": [
+    "founded": [
         "founded"
     ],
-    "cbinsights-investors": [
+    "investors": [
         "investors",
         "selectinvestors"
     ],
-    "cbinsights-stage": [
+    "stage": [
         "stage"
     ],
-    "cbinsights-totalraised": [
+    "totalraised": [
         "totalraised"
     ],
-    "cbinsights-industry": [
-        "industry"
-    ],
-    "cbinsights-valuation": [
+    "valuation": [
         "valuation"
     ],
-    "companiesmarketcap-categories": [
+    "categories": [
         "categories"
     ],
-    "companiesmarketcap-change_1day": [
-        "change1d",
+    "change_1day": [
         "change_1_day",
+        "change1d",
         "change_1day"
     ],
-    "companiesmarketcap-change_1year": [
+    "change_1year": [
+        "change_1year",
         "change1y",
-        "change_1_year",
-        "change_1year"
+        "change_1_year"
     ],
-    "companiesmarketcap-company_code": [
+    "company_code": [
         "code",
-        "codice",
         "company_code",
-        "symbol"
+        "symbol",
+        "codice"
     ],
-    "companiesmarketcap-country": [
-        "country"
-    ],
-    "companiesmarketcap-earnings": [
+    "earnings": [
         "earnings"
     ],
-    "companiesmarketcap-employees": [
-        "employees"
+    "employees": [
+        "employees",
+        "employees_number",
+        "number_of_employees"
     ],
-    "companiesmarketcap-pricecap": [
-        "market_cap",
+    "pricecap": [
+        "pricecap",
         "market_capitalization_usd",
         "marketcap",
-        "master_cap",
-        "pricecap"
+        "master_cap"
     ],
-    "companiesmarketcap-name": [
-        "name"
-    ],
-    "companiesmarketcap-share_price": [
-        "price",
+    "share_price": [
         "share_price",
+        "price",
         "shareprice"
     ],
-    "companiesmarketcap-revenue": [
-        "revenue"
+    "revenue": [
+        "revenue_2022",
+        "revenue",
+        "annual_revenue_in_usd",
+        "annual_revenue_usd"
     ],
-    "companiesmarketcap-shares": [
+    "shares": [
         "shares"
     ],
-    "companiesmarketcap-id": [
-        "id"
-    ],
-    "companiesmarketcap-url": [
-        "url"
-    ],
-    "companiesmarketcap-rank": [
+    "rank": [
         "rank"
     ],
-    "disfold-name": [
-        "name"
-    ],
-    "disfold-ceo": [
+    "ceo": [
         "ceo"
     ],
-    "disfold-employees": [
-        "employees"
+    "headquarters": [
+        "headquarters",
+        "country",
+        "nation"
     ],
-    "disfold-headquarters": [
-        "headquarters"
-    ],
-    "disfold-link": [
+    "link": [
+        "website",
         "link"
     ],
-    "disfold-market_cap": [
-        "market_cap",
-        "mastercap",
+    "market_cap": [
         "market_value_apr_2022",
+        "market_capitalization_usd",
+        "mastercap",
         "marketcap",
-        "market_capitalization_usd"
+        "market_cap",
+        "pricecap",
+        "price_cap",
+        "market_value"
     ],
-    "disfold-industry": [
-        "industry"
-    ],
-    "disfold-stock": [
+    "stock": [
         "stock"
     ],
-    "disfold-founded": [
-        "founded"
-    ],
-    "disfold-sector": [
+    "sector": [
+        "industry",
         "sector"
     ],
-    "disfold-headquarters_country": [
+    "headquarters_country": [
         "country",
         "headquarters_country"
     ],
-    "disfold-country": [
-        "country",
-        "headquarters_country"
-    ],
-    "disfold-net_income": [
+    "net_income": [
         "net_income"
     ],
-    "disfold-revenue": [
-        "revenue"
-    ],
-    "disfold-categories": [
-        "categories"
-    ],
-    "disfold-gbp": [
+    "gbp": [
         "gbp"
     ],
-    "disfold-headquarters_continent": [
+    "headquarters_continent": [
         "headquarters_continent"
     ],
-    "disfold-code": [
-        "code"
-    ],
-    "disfold-official_name": [
+    "official_name": [
         "official_name"
     ],
-    "disfold-rank": [
-        "rank"
-    ],
-    "forbes-name": [
-        "name"
-    ],
-    "forbes-country": [
-        "country"
-    ],
-    "forbes-assets": [
+    "assets": [
         "assets"
     ],
-    "forbes-profit": [
-        "profit"
+    "profit": [
+        "profit",
+        "earnings",
+        "annual_net_income_usd"
+
     ],
-    "forbes-sales": [
+    "sales": [
         "revenue_2022",
         "revenue",
         "sales"
     ],
-    "forbes-market_value": [
+    "market_value": [
         "market_value_apr_2022",
-        "market_value"
+        "marketvalue",
+        "market_value_jan_2022",
+        "market_value__jan_07_2022",
+        "market_value",
+        "market_cap",
+        "pricecap",
+        "price_cap"
     ],
-    "forbes-ceo": [
-        "ceo"
-    ],
-    "forbes-employees": [
+    "employees_number_2017": [
+        "number_of_employees_2017",
+        "employees_number_2017",
+        "employees_2017",
         "employees"
     ],
-    "forbes-founded": [
-        "founded"
-    ],
-    "forbes-industry": [
-        "industry"
-    ],
-    "ft-name": [
-        "name"
-    ],
-    "ft-country": [
-        "country"
-    ],
-    "ft-employees_number_2017": [
-        "employees",
-        "employees_2017",
-        "employees_number_2017",
-        "number_of_employees_2017"
-    ],
-    "ft-employees_number_2020": [
-        "employees_2020",
+    "employees_number_2020": [
+        "number_of_employees_2020",
         "employees_number_2020",
-        "number_of_employees_2020"
+        "employees_2020"
     ],
-    "ft-founding_year": [
+    "founding_year": [
         "founded",
         "founding_year"
     ],
-    "ft-sector": [
-        "industry",
-        "sector"
-    ],
-    "ft-link": [
-        "link",
-        "website"
-    ],
-    "ft-revenue_2020_eu": [
+    "revenue_2020_eu": [
+        "revenue_2020_euro",
         "revenue",
         "revenue_2020",
-        "revenue_2020_eu",
-        "revenue_2020_euro"
+        "revenue_2020_eu"
     ],
-    "ft-revenue_2017_eu": [
-        "revenue_2017",
+    "revenue_2017_eu": [
+        "revenue_2020_euro",
         "revenue_2017_eu",
-        "revenue_2020_euro"
+        "revenue_2017"
     ],
-    "ft-absolute_growth_rate_pct": [
+    "absolute_growth_rate_pct": [
         "absolute_growth_rate_pct"
     ],
-    "ft-compound_annual_growth_rate_cagr_pct": [
+    "compound_annual_growth_rate_cagr_pct": [
         "compound_annual_growth_rate_cagr_pct"
     ],
-    "globaldata-address": [
-        "address"
-    ],
-    "globaldata-headquarters": [
-        "headquarters"
-    ],
-    "globaldata-industry": [
-        "industry"
-    ],
-    "globaldata-market_cap": [
-        "market_cap"
-    ],
-    "globaldata-name": [
-        "name"
-    ],
-    "globaldata-number_of_employees": [
-        "number_of_employees"
-    ],
-    "globaldata-revenue": [
-        "revenue"
-    ],
-    "globaldata-telephone": [
-        "telephone"
-    ],
-    "globaldata-website": [
-        "website"
-    ],
-    "govuk-company_creation_date": [
-        "company_creation_date",
-        "incorporation_date"
-    ],
-    "govuk-company_number": [
-        "company_number",
-        "company_id"
-    ],
-    "govuk-company_status": [
-        "company_status"
-    ],
-    "govuk-company_type": [
-        "company_type"
-    ],
-    "govuk-dissolution_date": [
-        "dissolution_date"
-    ],
-    "govuk-name": [
-        "name"
-    ],
-    "govuk-nature_of_business": [
-        "nature_of_business"
-    ],
-    "govuk-office_address": [
-        "office_address",
-        "registered_office_address"
-    ],
-    "govuk-registration_date": [
-        "registration_date"
-    ],
-    "govuk-url": [
-        "url"
-    ],
-    "govuk-id": [
-        "id"
-    ],
-    "hithorizons-address": [
-        "address"
-    ],
-    "hithorizons-est_of_ownership": [
-        "est_of_ownership"
-    ],
-    "hithorizons-hhid": [
-        "hhid"
-    ],
-    "hithorizons-industry": [
-        "industry"
-    ],
-    "hithorizons-name": [
-        "name"
-    ],
-    "hithorizons-nation": [
-        "nation"
-    ],
-    "hithorizons-sic_code": [
-        "sic_code"
-    ],
-    "hithorizons-type": [
-        "type"
-    ],
-    "infoclipper-address_name": [
-        "address_name"
-    ],
-    "infoclipper-city": [
-        "city"
-    ],
-    "infoclipper-country": [
-        "country"
-    ],
-    "infoclipper-name": [
-        "name"
-    ],
-    "infoclipper-location_type": [
-        "location_type"
-    ],
-    "infoclipper-postalcode": [
-        "postalcode"
-    ],
-    "infoclipper-state": [
-        "state"
-    ],
-    "infoclipper-trade_name": [
-        "trade_name"
-    ],
-    "teamblind-founded": [
-        "founded"
-    ],
-    "teamblind-industry": [
-        "industry"
-    ],
-    "teamblind-locations": [
-        "locations"
-    ],
-    "teamblind-name": [
-        "name"
-    ],
-    "teamblind-size": [
-        "size"
-    ],
-    "teamblind-website": [
-        "website"
-    ],
-    "valuetoday-name": [
-        "name"
-    ],
-    "valuetoday-country": [
-        "country",
-        "headquarters_country"
-    ],
-    "valuetoday-headquarters_continent": [
-        "headquarters_continent"
-    ],
-    "valuetoday-headquarters_sub_region": [
-        "headquarters_sub_region"
-    ],
-    "valuetoday-headquarters_region_city": [
-        "headquarters_region_city"
-    ],
-    "valuetoday-link": [
-        "link"
-    ],
-    "valuetoday-founded": [
-        "founded"
-    ],
-    "valuetoday-sector": [
-        "sector"
-    ],
-    "valuetoday-industry": [
-        "industry",
-        "company_business"
-    ],
-    "valuetoday-revenue": [
-        "revenue",
-        "revenue_2022",
-        "annual_revenue_in_usd",
-        "annual_revenue_usd"
-    ],
-    "valuetoday-employees_number": [
-        "employees_2022",
+    "number_of_employees": [
         "number_of_employees",
         "employees_number"
     ],
-    "valuetoday-ceo": [
-        "ceo"
+    "telephone": [
+        "telephone"
     ],
-    "valuetoday-annual_net_income_usd": [
+    "website": [
+        "website"
+    ],
+    "company_creation_date": [
+        "incorporation_date",
+        "company_creation_date"
+    ],
+    "company_number": [
+        "company_id",
+        "company_number"
+    ],
+    "company_status": [
+        "company_status"
+    ],
+    "company_type": [
+        "company_type"
+    ],
+    "dissolution_date": [
+        "dissolution_date"
+    ],
+    "nature_of_business": [
+        "nature_of_business"
+    ],
+    "office_address": [
+        "office_address",
+        "registered_office_address"
+    ],
+    "est_of_ownership": [
+        "est_of_ownership"
+    ],
+    "hhid": [
+        "hhid"
+    ],
+    "nation": [
+        "nation",
+        "country",
+        "headquarters"
+    ],
+    "sic_code": [
+        "sic_code"
+    ],
+    "type": [
+        "type"
+    ],
+    "address_name": [
+        "address_name"
+    ],
+    "location_type": [
+        "location_type"
+    ],
+    "postalcode": [
+        "postalcode"
+    ],
+    "state": [
+        "state"
+    ],
+    "trade_name": [
+        "trade_name"
+    ],
+    "locations": [
+        "locations"
+    ],
+    "size": [
+        "size"
+    ],
+    "headquarters_sub_region": [
+        "headquarters_sub_region"
+    ],
+    "headquarters_region_city": [
+        "headquarters_region_city"
+    ],
+    "employees_number": [
+        "number_of_employees",
+        "employees_number",
+        "employees_2022"
+    ],
+    "annual_net_income_usd": [
         "annual_net_income_in_usd",
         "annual_net_income_usd"
     ],
-    "valuetoday-company_website": [
+    "company_website": [
         "company_website"
     ],
-    "valuetoday-facebook_page_url": [
+    "facebook_page_url": [
         "facebook_page_url"
     ],
-    "valuetoday-twitter_page_url": [
+    "twitter_page_url": [
         "twitter_page_url"
     ],
-    "valuetoday-wikipedia_page_url": [
+    "wikipedia_page_url": [
         "wikipedia_page_url"
     ],
-    "valuetoday-founders": [
+    "founders": [
         "founders"
     ],
-    "valuetoday-market_value": [
-        "market_value_jan_2022",
-        "market_value__jan_07_2022",
-        "marketvalue"
+    "market_capitalization_2022": [
+        "marketcap",
+        "market_capitalization_2022"
     ],
-    "valuetoday-market_capitalization_2022": [
-        "market_capitalization_2022",
-        "marketcap"
-    ],
-    "valuetoday-annual_results_for_year_ending": [
+    "annual_results_for_year_ending": [
         "annual_results_for_year_ending"
     ],
-    "valuetoday-total_assets_in_usd": [
+    "total_assets_in_usd": [
         "total_assets_in_usd"
     ],
-    "valuetoday-total_equity_in_usd": [
+    "total_equity_in_usd": [
         "total_equity_in_usd"
     ],
-    "valuetoday-total_liabilities_in_usd": [
+    "total_liabilities_in_usd": [
         "total_liabilities_in_usd"
     ],
-    "wikipedia-name": [
-        "name"
-    ],
-    "wikipedia-headquarters": [
-        "headquarters"
-    ],
-    "wikipedia-founded": [
-        "founded"
-    ],
-    "wikipedia-sector": [
-        "industry",
-        "sector"
-    ],
-    "wikipedia-notes": [
+    "notes": [
         "notes"
     ],
-    "wikipedia-area_served": [
+    "area_served": [
         "area_served"
     ]
 }
