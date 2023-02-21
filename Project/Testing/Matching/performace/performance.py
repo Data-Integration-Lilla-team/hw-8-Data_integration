@@ -150,7 +150,7 @@ def get_final_score(true,comp,index):
 
 
 
-    N=len(colonne_computate)    #potrebbero essere minori
+    N=len(colonne_target)    #potrebbero essere minori
 
     precision=0
     recall=0

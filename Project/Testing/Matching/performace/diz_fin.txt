@@ -10,14 +10,13 @@
         "city"
     ],
     "employees": [
-        "employees_number_2017",
         "employees",
+        "employees_number_2017",
         "employees_2022"
     ],
     "country": [
-        "headquarters_continent",
-        "country",
-        "city"
+        "city",
+        "country"
     ],
     "ceo": [
         "ceo"

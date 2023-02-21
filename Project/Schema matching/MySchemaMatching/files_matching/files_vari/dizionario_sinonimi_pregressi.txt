@@ -48,7 +48,9 @@
     ],
     "country": [
         "country",
-        "headquarters_country"
+        "headquarters_country",
+        "nation",
+        "headquarters"
     ],
     "datejoined": [
         "datejoined"
@@ -92,14 +94,15 @@
         "earnings"
     ],
     "employees": [
-        "employees"
+        "employees",
+        "employees_number",
+        "number_of_employees"
     ],
     "pricecap": [
         "pricecap",
         "market_capitalization_usd",
         "marketcap",
-        "master_cap",
-        "market_cap"
+        "master_cap"
     ],
     "share_price": [
         "share_price",
@@ -122,7 +125,9 @@
         "ceo"
     ],
     "headquarters": [
-        "headquarters"
+        "headquarters",
+        "country",
+        "nation"
     ],
     "link": [
         "website",
@@ -133,7 +138,10 @@
         "market_capitalization_usd",
         "mastercap",
         "marketcap",
-        "market_cap"
+        "market_cap",
+        "pricecap",
+        "price_cap",
+        "market_value"
     ],
     "stock": [
         "stock"
@@ -162,7 +170,10 @@
         "assets"
     ],
     "profit": [
-        "profit"
+        "profit",
+        "earnings",
+        "annual_net_income_usd"
+
     ],
     "sales": [
         "revenue_2022",
@@ -174,7 +185,10 @@
         "marketvalue",
         "market_value_jan_2022",
         "market_value__jan_07_2022",
-        "market_value"
+        "market_value",
+        "market_cap",
+        "pricecap",
+        "price_cap"
     ],
     "employees_number_2017": [
         "number_of_employees_2017",
@@ -209,7 +223,8 @@
         "compound_annual_growth_rate_cagr_pct"
     ],
     "number_of_employees": [
-        "number_of_employees"
+        "number_of_employees",
+        "employees_number"
     ],
     "telephone": [
         "telephone"
@@ -248,7 +263,9 @@
         "hhid"
     ],
     "nation": [
-        "nation"
+        "nation",
+        "country",
+        "headquarters"
     ],
     "sic_code": [
         "sic_code"

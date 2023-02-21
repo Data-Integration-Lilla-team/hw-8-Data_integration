@@ -32,7 +32,7 @@ def create_token_list(dizionario_sinonimi_pregressi):
 if __name__=='__main__':
         computato=r'Project\Schema matching\MySchemaMatching\final_schema\dictionary\finalschema.txt'
         dest_dizionario_sinonimi_pregressi=r'Project\Schema matching\MySchemaMatching\files_matching\files_vari\dizionario_sinonimi_pregressi.txt'
-        validatio_set=r'Project\Schema matching\MySchemaMatching\files_matching\files_vari\dic_pre_val.txt'
+        validatio_set=r'Project\Schema matching\MySchemaMatching\files_matching\validation_set\column_sinonimi.txt'
 
 
         
@@ -71,20 +71,31 @@ if __name__=='__main__':
                     score=current_element.confront_columns(to_confront)
                     
                     
-                    if score>=0.20 and current_element.name!=to_confront.name:
+                    if score>=0.2 and current_element.name!=to_confront.name:
                         print(current_element.name,to_confront.name)
-                        print('eeeeeee')
+                        
                         print(score)
                         current_element.update_sin_attuali(to_confront.name)
+                        
         #crea i sinonimi
+        seen=set()
         for t in tokens:
             true_name=t.name
-            if true_name in validatio_set:
-                if true_name not in diz_sinonimi_final:
-                    diz_sinonimi_final[true_name]=t.sin_attuali
-                if true_name in diz_sinonimi_final:
-                    diz_sinonimi_final[true_name].update(t.sin_attuali)
-        
+            if true_name not in seen:
+                seen.add(true_name)
+                if true_name in validatio_set:
+                    if true_name not in diz_sinonimi_final:
+                        diz_sinonimi_final[true_name]=t.sin_attuali
+                    if true_name in diz_sinonimi_final:
+                        diz_sinonimi_final[true_name].update(t.sin_attuali)
+                    print(true_name)
+                    print('computato',diz_sinonimi_final[true_name])
+                    print('vero',validatio_set[true_name])
+                    print('intersezione:',diz_sinonimi_final[true_name].intersection(set(validatio_set[true_name])))
+                    
+                    print('extra:',diz_sinonimi_final[true_name].difference(set(validatio_set[true_name])))
+                    
+                    print('mancanti:',set(validatio_set[true_name]).difference(set(diz_sinonimi_final[true_name])))
 
         final_SMM=r'Project\Testing\Matching\performace\diz_fin.txt'
         diz_f=dict()
