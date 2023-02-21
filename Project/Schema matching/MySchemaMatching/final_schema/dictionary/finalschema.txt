@@ -7,13 +7,23 @@
         "valuetoday-annual_revenue_usd",
         "valuetoday-annual_net_income_usd"
     ],
-    "earnings": [
-        "companiesmarketcap-earnings",
-        "valuetoday-revenue",
-        "valuetoday-market_capitalization_2022",
-        "companiesmarketcap-revenue",
-        "globaldata-revenue",
-        "disfold-revenue"
+    "industry": [
+        "disfold-industry",
+        "globaldata-industry",
+        "forbes-industry",
+        "ambitiobox-industry",
+        "ariregister-industry",
+        "valuetoday-industry",
+        "teamblind-industry",
+        "cbinsights-industry",
+        "wikipedia-industry",
+        "hithorizons-industry"
+    ],
+    "sector": [
+        "wikipedia-sector",
+        "valuetoday-sector",
+        "ft-sector",
+        "disfold-sector"
     ],
     "rank": [
         "disfold-rank",
@@ -24,6 +34,12 @@
         "valuetoday-ceo",
         "disfold-ceo",
         "forbes-ceo"
+    ],
+    "revenue": [
+        "globaldata-revenue",
+        "companiesmarketcap-revenue",
+        "valuetoday-revenue",
+        "disfold-revenue"
     ],
     "headquarters": [
         "disfold-headquarters",
