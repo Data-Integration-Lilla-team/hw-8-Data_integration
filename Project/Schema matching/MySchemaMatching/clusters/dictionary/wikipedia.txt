@@ -1,22 +1,26 @@
 {
     "industry": [
         "02-GioPonSpiz-industry",
+        "06-MarScoToc-industry",
         "05-MalPatSaj-industry"
-    ],
-    "name": [
-        "05-MalPatSaj-name",
-        "02-GioPonSpiz-name"
     ],
     "sector": [
         "05-MalPatSaj-sector",
         "02-GioPonSpiz-sector"
     ],
-    "founded": [
-        "05-MalPatSaj-founded",
-        "02-GioPonSpiz-founded"
+    "name": [
+        "05-MalPatSaj-name",
+        "06-MarScoToc-name",
+        "02-GioPonSpiz-name"
     ],
     "headquarters": [
         "05-MalPatSaj-headquarters",
+        "06-MarScoToc-headquarters",
         "02-GioPonSpiz-headquarters"
+    ],
+    "founded": [
+        "06-MarScoToc-founded",
+        "05-MalPatSaj-founded",
+        "02-GioPonSpiz-founded"
     ]
 }

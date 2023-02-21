@@ -1,1 +1,1 @@
-{"id": ["type", "id", "hhid", "nation"], "hhid": ["type", "id", "hhid", "nation"], "type": ["type", "id", "hhid", "nation"], "nation": ["type", "id", "hhid", "nation"], "name": ["name"], "address": ["address"], "industry": ["industry"], "sic_code": ["sic_code"], "est_of_ownership": ["est_of_ownership"]}
+{}

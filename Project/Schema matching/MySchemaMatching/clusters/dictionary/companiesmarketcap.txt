@@ -21,10 +21,6 @@
         "00-avengers-market_cap",
         "01-DDD-marketcap"
     ],
-    "categories": [
-        "00-avengers-categories",
-        "04-iGMM-categories"
-    ],
     "earnings": [
         "09-wissel-earnings",
         "04-iGMM-marketcap",
@@ -37,38 +33,36 @@
         "00-avengers-market_cap",
         "01-DDD-marketcap"
     ],
-    "change_1year": [
-        "04-iGMM-change_1year",
-        "01-DDD-change1y",
-        "00-avengers-change_1_year",
-        "04-iGMM-change_1day"
-    ],
-    "change_1_day": [
-        "00-avengers-change_1_day",
-        "01-DDD-change1y",
-        "00-avengers-change_1_year",
-        "01-DDD-change1d",
-        "04-iGMM-change_1day"
+    "id": [
+        "09-wissel-id",
+        "00-avengers-id"
     ],
     "rank": [
         "00-avengers-rank",
         "04-iGMM-rank",
+        "06-MarScoToc-rank",
         "01-DDD-rank"
     ],
-    "price": [
+    "shareprice": [
+        "04-iGMM-shareprice",
+        "06-MarScoToc-share_price",
+        "09-wissel-share_price",
+        "03-gren-price",
         "05-MalPatSaj-price",
         "01-DDD-share_price",
         "02-GioPonSpiz-price",
-        "00-avengers-share_price",
-        "04-iGMM-shareprice",
-        "06-MarScoToc-share_price",
-        "09-wissel-share_price"
+        "00-avengers-share_price"
     ],
     "symbol": [
         "05-MalPatSaj-symbol",
         "09-wissel-company_code",
         "02-GioPonSpiz-codice",
         "04-iGMM-code"
+    ],
+    "categories": [
+        "00-avengers-categories",
+        "01-DDD-categories",
+        "04-iGMM-categories"
     ],
     "name": [
         "04-iGMM-name",
@@ -79,6 +73,14 @@
         "05-MalPatSaj-name",
         "03-gren-name",
         "06-MarScoToc-name"
+    ],
+    "change_1_day": [
+        "00-avengers-change_1_day",
+        "01-DDD-change1y",
+        "04-iGMM-change_1year",
+        "00-avengers-change_1_year",
+        "01-DDD-change1d",
+        "04-iGMM-change_1day"
     ],
     "country": [
         "01-DDD-country",

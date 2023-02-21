@@ -1,38 +1,70 @@
 {
-    "company_business": [
-        "04-iGMM-company_business",
-        "00-avengers-company_business",
-        "08-slytherin-industry"
-    ],
     "total_assets_in_usd": [
         "00-avengers-total_assets_in_usd",
         "00-avengers-annual_revenue_in_usd",
         "00-avengers-total_liabilities_in_usd",
         "00-avengers-total_equity_in_usd"
     ],
-    "marketvalue": [
-        "02-GioPonSpiz-marketvalue",
+    "market_value_jan_2021": [
+        "07-silvestri-market_value_jan_2021",
         "04-iGMM-market_value__jan_07_2022",
         "02-GioPonSpiz-marketcap",
-        "07-silvestri-market_value_jan_2021",
+        "02-GioPonSpiz-marketvalue",
         "04-iGMM-market_value__jan_1st_2020",
         "07-silvestri-market_value_jan_2022",
         "07-silvestri-market_value_jan_2020"
     ],
-    "company_website": [
-        "04-iGMM-company_website",
-        "00-avengers-company_website"
-    ],
     "name": [
         "00-avengers-name",
         "04-iGMM-name",
+        "07-silvestri-name",
         "03-gren-name",
         "08-slytherin-name",
         "02-GioPonSpiz-name"
     ],
+    "company_business": [
+        "04-iGMM-company_business",
+        "00-avengers-company_business",
+        "08-slytherin-industry"
+    ],
+    "world_rank__jan_2020": [
+        "04-iGMM-world_rank__jan_2020",
+        "04-iGMM-number_of_employees",
+        "00-avengers-number_of_employees",
+        "04-iGMM-world_rank__jan_07_2022"
+    ],
+    "world_rank__jan_07_2022": [
+        "04-iGMM-world_rank__jan_07_2022",
+        "04-iGMM-world_rank__jan_2020"
+    ],
+    "annual_net_income_in_usd": [
+        "04-iGMM-annual_net_income_in_usd",
+        "04-iGMM-annual_revenue_in_usd",
+        "03-gren-annual_revenue_usd",
+        "03-gren-annual_net_income_usd",
+        "00-avengers-annual_net_income_in_usd",
+        "00-avengers-annual_revenue_in_usd"
+    ],
+    "marketcap": [
+        "02-GioPonSpiz-marketcap",
+        "07-silvestri-market_value_jan_2021",
+        "03-gren-market_capitalization_2022",
+        "04-iGMM-market_value__jan_07_2022",
+        "02-GioPonSpiz-marketvalue",
+        "04-iGMM-market_value__jan_1st_2020",
+        "07-silvestri-market_value_jan_2022",
+        "07-silvestri-market_value_jan_2020"
+    ],
     "world_rank": [
         "02-GioPonSpiz-world_rank",
         "00-avengers-world_rank"
+    ],
+    "market_value__jan_07_2022": [
+        "04-iGMM-market_value__jan_07_2022",
+        "07-silvestri-market_value_jan_2021",
+        "07-silvestri-market_value_jan_2022",
+        "07-silvestri-market_value_jan_2020",
+        "03-gren-market_capitalization_2022"
     ],
     "country": [
         "07-silvestri-country",
@@ -42,27 +74,24 @@
         "02-GioPonSpiz-country",
         "04-iGMM-headquarters_country"
     ],
-    "annual_net_income_in_usd": [
-        "04-iGMM-annual_net_income_in_usd",
-        "00-avengers-total_liabilities_in_usd",
-        "04-iGMM-annual_revenue_in_usd",
-        "00-avengers-total_assets_in_usd",
-        "00-avengers-annual_net_income_in_usd",
-        "00-avengers-annual_revenue_in_usd",
-        "00-avengers-total_equity_in_usd"
-    ],
-    "annual_revenue_in_usd": [
-        "00-avengers-annual_revenue_in_usd",
-        "00-avengers-annual_net_income_in_usd",
-        "04-iGMM-annual_net_income_in_usd",
-        "04-iGMM-annual_revenue_in_usd"
-    ],
     "revenue_2022": [
         "07-silvestri-revenue_2022",
         "08-slytherin-revenue"
     ],
-    "annual_revenue_usd": [
-        "03-gren-annual_revenue_usd",
-        "03-gren-annual_net_income_usd"
+    "ceo": [
+        "08-slytherin-ceo",
+        "04-iGMM-ceo",
+        "07-silvestri-ceo",
+        "03-gren-ceo",
+        "00-avengers-ceo",
+        "02-GioPonSpiz-ceo"
+    ],
+    "company_website": [
+        "04-iGMM-company_website",
+        "00-avengers-company_website"
+    ],
+    "twitter_page_url": [
+        "03-gren-twitter_page_url",
+        "03-gren-facebook_page_url"
     ]
 }

@@ -1,4 +1,10 @@
 {
+    "employees_2020": [
+        "07-silvestri-employees_2020",
+        "03-gren-employees_number_2017",
+        "03-gren-employees_number_2020",
+        "07-silvestri-employees_2017"
+    ],
     "sector": [
         "03-gren-sector",
         "07-silvestri-sector",
@@ -11,27 +17,21 @@
         "01-DDD-name",
         "08-slytherin-name"
     ],
-    "employees": [
-        "08-slytherin-employees",
-        "01-DDD-number_of_employees_2017",
-        "01-DDD-number_of_employees_2020",
-        "07-silvestri-employees_2017",
-        "03-gren-employees_number_2017"
-    ],
     "country": [
         "08-slytherin-country",
         "01-DDD-country",
         "03-gren-country",
         "07-silvestri-country"
     ],
+    "founding_year": [
+        "03-gren-founding_year",
+        "01-DDD-founding_year",
+        "07-silvestri-founding_year"
+    ],
     "revenue_2020": [
         "07-silvestri-revenue_2020",
         "03-gren-revenue_2020_eu",
-        "08-slytherin-revenue",
-        "01-DDD-revenue_2020_euro"
-    ],
-    "revenue_2017": [
-        "07-silvestri-revenue_2017",
-        "01-DDD-revenue_2017_euro"
+        "01-DDD-revenue_2020_euro",
+        "08-slytherin-revenue"
     ]
 }

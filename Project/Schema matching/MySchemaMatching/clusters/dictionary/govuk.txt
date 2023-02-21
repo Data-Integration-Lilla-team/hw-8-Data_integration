@@ -1,18 +1,28 @@
 {
-    "company_creation_date": [
-        "10-DeBiGa-company_creation_date",
-        "09-wissel-incorporation_date"
+    "company_number": [
+        "10-DeBiGa-company_number",
+        "09-wissel-company_id"
     ],
     "company_status": [
         "09-wissel-company_status",
-        "10-DeBiGa-company_status"
+        "10-DeBiGa-company_status",
+        "09-wissel-company_type",
+        "10-DeBiGa-company_type"
     ],
     "name": [
         "10-DeBiGa-name",
         "09-wissel-name"
     ],
-    "company_number": [
-        "10-DeBiGa-company_number",
-        "09-wissel-company_id"
+    "office_address": [
+        "09-wissel-office_address",
+        "10-DeBiGa-registered_office_address"
+    ],
+    "company_creation_date": [
+        "10-DeBiGa-company_creation_date",
+        "09-wissel-incorporation_date"
+    ],
+    "registration_date": [
+        "09-wissel-registration_date",
+        "09-wissel-dissolution_date"
     ]
 }

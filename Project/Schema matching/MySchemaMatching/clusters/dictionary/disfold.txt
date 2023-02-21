@@ -1,37 +1,36 @@
 {
     "employees": [
         "00-avengers-employees",
-        "04-iGMM-employees"
+        "04-iGMM-employees",
+        "08-slytherin-employees",
+        "10-DeBiGa-employees"
     ],
-    "name": [
-        "00-avengers-name",
-        "04-iGMM-name",
-        "05-MalPatSaj-name",
-        "07-silvestri-name",
-        "10-DeBiGa-name",
-        "03-gren-name",
-        "02-GioPonSpiz-name"
+    "country": [
+        "03-gren-country",
+        "04-iGMM-country",
+        "07-silvestri-country",
+        "06-MarScoToc-country",
+        "05-MalPatSaj-country",
+        "02-GioPonSpiz-country",
+        "10-DeBiGa-country"
     ],
-    "ceo": [
-        "04-iGMM-ceo",
-        "00-avengers-ceo"
+    "founded": [
+        "00-avengers-founded",
+        "04-iGMM-founded",
+        "10-DeBiGa-founded"
     ],
     "market_value_apr_2022": [
         "07-silvestri-market_value_apr_2022",
         "05-MalPatSaj-marketcap",
         "02-GioPonSpiz-marketcap",
         "10-DeBiGa-market_cap",
-        "03-gren-market_capitalization_usd",
+        "00-avengers-market_cap",
         "04-iGMM-marketcap",
-        "00-avengers-market_cap"
+        "03-gren-market_capitalization_usd"
     ],
-    "country": [
-        "03-gren-country",
-        "04-iGMM-country",
-        "07-silvestri-country",
-        "05-MalPatSaj-country",
-        "02-GioPonSpiz-country",
-        "10-DeBiGa-country"
+    "link": [
+        "08-slytherin-link",
+        "04-iGMM-link"
     ],
     "stock": [
         "03-gren-stock",
@@ -50,6 +49,24 @@
         "04-iGMM-sector",
         "02-GioPonSpiz-sector"
     ],
+    "name": [
+        "04-iGMM-name",
+        "07-silvestri-name",
+        "08-slytherin-name",
+        "02-GioPonSpiz-name",
+        "00-avengers-name",
+        "05-MalPatSaj-name",
+        "10-DeBiGa-name",
+        "03-gren-name",
+        "06-MarScoToc-name"
+    ],
+    "headquarters_country": [
+        "00-avengers-headquarters_country",
+        "10-DeBiGa-headquarters",
+        "00-avengers-headquarters_continent",
+        "04-iGMM-headquarters",
+        "08-slytherin-headquarters"
+    ],
     "industry": [
         "02-GioPonSpiz-industry",
         "10-DeBiGa-industry",
@@ -57,5 +74,11 @@
         "06-MarScoToc-industry",
         "03-gren-industry",
         "05-MalPatSaj-industry"
+    ],
+    "ceo": [
+        "08-slytherin-ceo",
+        "10-DeBiGa-ceo",
+        "04-iGMM-ceo",
+        "00-avengers-ceo"
     ]
 }
