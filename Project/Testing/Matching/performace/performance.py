@@ -335,7 +335,7 @@ def get_scores_VAL(f_name,path_comp,path_true):
     seen=set()
     
     for k in computato.keys():
-        if k in computato and k in target and k not in seen:
+        if k in computato and k in target:
             N+=1
             
     
@@ -432,7 +432,7 @@ def print_perf_valentine_final():
     colonne=['name','precision','recall','f1','jaccard','Stima_conf_totali','AVG_conf_computati','AVG_conf_reali','Stima_conf_inutili']
     print(len(colonne))
     schema_matching_true='Project\\Schema matching\\MySchemaMatching\\files_matching\\validation_set\\column_sinonimi.txt'
-    computato=r'Project\Testing\Matching\performace\diz_fin.txt'
+    computato=r'Project\Schema matching\MySchemaMatching\final_schema\final_dictionary\idea_final_schema.json'
     index=r'Project\Schema matching\MySchemaMatching\files_matching\files_vari\inverted_index.txt'
     scores_final=get_final_score(schema_matching_true,computato,index)
 
@@ -448,9 +448,9 @@ if __name__=='__main__':
 
     #print_perf_preProcessing_module_4schemaMediato()
 
-    #print_perf_Valentine_4clusters()
+    print_perf_Valentine_4clusters()
     
-    print_perf_valentine_final()
+    #print_perf_valentine_final()
 
     
 

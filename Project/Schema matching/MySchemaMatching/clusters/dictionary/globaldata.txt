@@ -1,6 +1,1 @@
-{
-    "revenue": [
-        "10-DeBiGa-revenue",
-        "10-DeBiGa-market_cap"
-    ]
-}
+{"name": ["name"], "industry": ["industry", "website", "headquarters"], "website": ["industry", "website", "headquarters"], "headquarters": ["industry", "website", "headquarters"], "number_of_employees": ["number_of_employees"], "address": ["address"], "market_cap": ["market_cap", "revenue"], "revenue": ["market_cap", "revenue"], "telephone": ["telephone"]}
